@@ -1,30 +1,7 @@
 fs = require('fs')
-child_process = require('child_process')
 assert = require('assert')
 colors = require('colors')
 path = require('path')
-
-//console.log(require.main)
-
-try {
-	assert(false)
-	console.error("Error: Assertions are not caught.".red)
-	process.exit()
-} catch(e) {
-//	console.log(e)
-	assert(e instanceof Error)
-	assert(e.code === "ERR_ASSERTION")
-}
-
-assert(typeof (() => {}) === "function");
-assert(Object.getPrototypeOf(() => {}) === Function.prototype)
-assert((() => 5)() === 5)
-assert((() => {})() === undefined)
-assert(typeof (() => {return {}})() === "object")
-assert(typeof (() => ({}))() === "object")
-assert({} !== {})
-assert((x => x).toString() === (x => x).toString())
-assert((x => x) == "x => x")
 
 var showdown  = require('showdown')
 converter = new showdown.Converter()
@@ -47,6 +24,5 @@ articles.forEach(article => {
 		}); 
 	})
 })
-
 
 console.log("done")
