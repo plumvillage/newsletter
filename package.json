@@ -3,7 +3,11 @@
   "description": "--- Author: Thien Khai Comment: Here we can store metadata if needed. Syntax: YAML Front Matter --- # Newsletter Lá thư Làng Mai",
   "version": "1.0.0",
   "main": "main.js",
-  "devDependencies": {},
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1",
+    "colors": "^1.4.0",
+    "showdown": "^1.9.1"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
