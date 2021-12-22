@@ -21,6 +21,8 @@ Lá thư Làng Mai
 - [paged.js](https://www.pagedjs.org/about/)
 - [html2print](http://osp.kitchen/tools/html2print/)
 
+There are some render tests for the first three of these tools in the folder [html-to-pdf](html-to-pdf).
+
 ### Static site generators
 - [Eleventy](https://www.11ty.dev)
 - [Honkit](https://github.com/honkit/honkit) (specially for "books")
