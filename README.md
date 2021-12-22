@@ -1,3 +1,8 @@
+---
+Author: Thien Khai
+Comment: Here we can store metadata if needed.
+Syntax: YAML Front Matter
+---
 # Newsletter
 Lá thư Làng Mai
 
@@ -23,5 +28,6 @@ git config --global credential.helper 'cache --timeout=1000000'
 <!-- This content will not appear in the rendered Markdown -->
 Task Lists
 - [x] Setup New Repo
-- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Eleventy https://www.11ty.dev/docs/getting-started/
+- [ ] https://www.npmjs.com/package/showdown
 - [ ] Add delight to the experience when all tasks are complete :tada:

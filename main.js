@@ -2,8 +2,8 @@ fs = require('fs')
 assert = require('assert')
 colors = require('colors')
 path = require('path')
+showdown  = require('showdown')
 
-var showdown  = require('showdown')
 converter = new showdown.Converter()
 converter.setFlavor('github')
 
