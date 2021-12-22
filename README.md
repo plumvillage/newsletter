@@ -6,28 +6,34 @@ Syntax: YAML Front Matter
 # Newsletter
 Lá thư Làng Mai
 
-Markdown is wonderful. Text can be made _Italic_ & **bold**, using either \_ or \*. You ***can*** combine them.
-
-List are easy:
-*   Candy
-*   Gum
-*   Booze
-
-Also, GitHub provides an easy way to edit and view Markdown right on their site.
-
-> This is a Quotation.
-
-Inline code quote: `git status`.
-
-To store credentials to memory:
-```
-git config --global credential.helper 'store'
-git config --global credential.helper 'cache --timeout=1000000'
-```
-
 <!-- This content will not appear in the rendered Markdown -->
-Task Lists
+## Task Lists
 - [x] Setup New Repo
 - [ ] Eleventy https://www.11ty.dev/docs/getting-started/
 - [ ] https://www.npmjs.com/package/showdown
 - [ ] Add delight to the experience when all tasks are complete :tada:
+
+## Tools
+
+### HTML/CSS to print conversion
+- [Prince](https://princexml.com/)
+- [Vivliostyle](https://vivliostyle.org/)
+- [paged.js](https://www.pagedjs.org/about/)
+- [html2print](http://osp.kitchen/tools/html2print/)
+
+### Static site generators
+- [Eleventy](https://www.11ty.dev)
+- [Honkit](https://github.com/honkit/honkit) (specially for "books")
+
+### To ePub
+- [Pandoc](https://pandoc.org/)
+
+## Useful resources
+- [Designing For Print With CSS - Rachel Andrew in Smashing Magazine](https://www.smashingmagazine.com/2015/01/designing-for-print-with-css/)
+- [print-css.rocks](https://www.print-css.rocks/)
+- [PrintCSS](https://printcss.net/articles)
+- [Book toolkit](http://booktoolkit.com/resources)
+- [Une chaîne de publication collaborative et multisupport pour le musée Saint-Raymond](https://julie-blanc.fr/blog/2020-11-05_chiragan/) (French article that describes a similar workflow. Very readable with Google translate)
+
+### Comparing tools
+- [A comparison of different html2pdf tools](https://azettl.github.io/html2pdf/)
