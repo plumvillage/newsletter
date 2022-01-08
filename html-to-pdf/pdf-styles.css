@@ -1,7 +1,17 @@
 /* this stylesheet is used when generating a PDF with PrinceXML or any other tool that understands the CSS used. */
 
 
+body {
+--color1: #2EABFF; /* C 82%   M 33%   Y 0%   K 0% */
+--color2: #C95A38; /* C 0%   M 44%   Y 57%   K 21% */
+--color3: #E8BE33; /* C 0%   M 16%   Y 71%   K 9% */
+--color4: #6E4634; /* C 0%   M 16%   Y 23%   K 57% */
+--color5: #A6BA56; /* C 8%   M 0%   Y 39%   K 27% */
+}
+
+
 /* define a page */
+
 
 @page {
     size: A4;
@@ -32,15 +42,12 @@ Bottom right book title, bottom left current page */
 @page:left {
     margin-left: 33.27pt;
     margin-right: 64pt;
-    @bottom-right {
-        margin: 10pt 0 30pt 0;
-        font-size: 9pt;
-        color: #333;
-    }
     @bottom-left {
         margin: 10pt 0 30pt 0;
         content: counter(page);
-        font-size: 9pt;
+        font-size: 11pt;
+        font: "Cormorant Infant";
+        background: 5% 50%/25% no-repeat url('images/parallel-horizontal-vn1.png');
     }
 }
 
@@ -54,8 +61,9 @@ Bottom left we display the title of the book, bottom right the page using a CSS 
     @bottom-right {
         padding: 10pt 0 10pt 120pt;
         content: counter(page);
-        font-size: 9pt;
-        background: right contain no-repeat url('images/parallel-horizontal-vn2.png') ;
+        font-size: 11pt;
+        font: "Cormorant Infant";
+        background: 95% 50%/25% no-repeat url('images/parallel-horizontal-vn2.png');
     }
 }
 
@@ -122,9 +130,6 @@ figcaption::before {
 
 .fn::footnote-call {
     content: counter(footnote);
-    font-size: 9pt;
-    vertical-align: super;
-    line-height: none;
 }
 
 .fn::footnote-marker {
@@ -134,7 +139,6 @@ figcaption::before {
 
 @page {
     @footnotes {
-        border-top: 1px solid black;
         padding-top: 8pt;
         float: bottom;
     }
@@ -222,4 +226,12 @@ article .author {
 
 article p {
     text-align: justify;
+}
+
+article p + p {
+    margin: 16pt 0;
+}
+
+.author + p {
+    margin-top: 0;
 }
