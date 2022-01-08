@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="vi">
+
+<head>
+    <meta charset="utf-8" />
+    <title>Lá thư Làng Mai số 45 - 2022</title>
+    <meta name="author" content="Làng Mai" />
+    <meta name="subject" content="" />
+    <meta name="keywords" content="" />
+    <meta name="date" content="2022" />
+
+    <link rel="stylesheet" href="/assets/pdf-styles.css">
+</head>
+
+<body>
+
+    <nav class="contents">
+        <ul>
+            <li><a href="/">Home</a></li>
+            {%- for article in collections.article -%}
+            <li><a href="{{ article.url }}">{{ article.data.title }}</a></li>
+            {%- endfor -%}
+        </ul>
+    </nav>
+    <article>
+        <h1 id="ch1" class="chapter">{{ title }}</h1>
+        <h2 class="author">{{ author }}</h2>
+        {{ content | safe }}
+    </article>
+
+</body>
+
+</html>

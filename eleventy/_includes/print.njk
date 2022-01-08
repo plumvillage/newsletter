@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="vi">
+
+<head>
+    <meta charset="utf-8" />
+    <title>Lá thư Làng Mai số 45 - 2022</title>
+    <meta name="author" content="Làng Mai" />
+    <meta name="subject" content="" />
+    <meta name="keywords" content="" />
+    <meta name="date" content="2022" />
+
+    <link rel="stylesheet" href="/assets/pdf-styles.css">
+    {%- if destination == "printhouse" %}
+    {# <style>
+        {% include "/assets/crop-marks.css" %}
+    </style> #}
+    {%- endif %}
+
+    {%- if destination == "browser" %}
+    <!-- paged.js preview in browser -->
+    <script src="/assets/paged.polyfill.js"></script>
+    <link rel="stylesheet" href="/assets/interface.css">
+    {%- endif %}
+</head>
+
+<body>
+    <div class="frontcover">
+    </div>
+    <div class="contents">
+        <h1>Mục lục</h1>
+
+        <ul class="toc">
+            {%- for article in collections.article -%}
+                <li><a href="#ch{{ loop.index }}">{{ article.data.title }}</a></li>
+            {%- endfor -%}
+        </ul>
+
+    </div>
+    {%- for article in collections.article -%}
+        <article>
+            <h1 id="ch{{ loop.index }}" class="chapter">{{ article.data.title }}</h1>
+            <h2 class="author">{{ article.data.author }}</h2>
+            {{ article.data.content | safe }}
+        </article>
+    {%- endfor -%}
+</body>
+
+</html>
