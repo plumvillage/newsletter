@@ -86,7 +86,7 @@ Bottom left we display the title of the book, bottom right the page using a CSS 
 
 body {
     counter-reset: chapternum figurenum;
-    font-family: "Skolar Latin", "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
+    font-family: "Skolar Latin", "Skolar PE", "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
     line-height: 16pt;
     font-size: 12pt;
 }

@@ -1,25 +1,15 @@
 {
-  "name": "newsletter",
-  "description": "--- Author: Thien Khai Comment: Here we can store metadata if needed. Syntax: YAML Front Matter --- # Newsletter Lá thư Làng Mai",
+  "name": "eleventy",
   "version": "1.0.0",
-  "main": "main.js",
-  "devDependencies": {
-    "@11ty/eleventy": "^0.12.1",
-    "colors": "^1.4.0",
-    "showdown": "^1.9.1"
-  },
+  "description": "",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/plumvillage/newsletter.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/plumvillage/newsletter/issues"
-  },
-  "homepage": "https://github.com/plumvillage/newsletter#readme"
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1"
+  }
 }
