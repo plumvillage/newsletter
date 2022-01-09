@@ -9,17 +9,17 @@
     <meta name="keywords" content="" />
     <meta name="date" content="2022" />
 
-    <link rel="stylesheet" href="/assets/pdf-styles.css">
+    <link rel="stylesheet" href="/css/pdf-styles.css">
     {%- if destination == "printhouse" %}
     {# <style>
-        {% include "/assets/crop-marks.css" %}
+        {% include "/css/crop-marks.css" %}
     </style> #}
     {%- endif %}
 
     {%- if destination == "browser" %}
     <!-- paged.js preview in browser -->
-    <script src="/assets/paged.polyfill.js"></script>
-    <link rel="stylesheet" href="/assets/interface.css">
+    <script src="{{ '/pagedjs/paged.polyfill.js' | url }}"></script>
+    <link rel="stylesheet" href="{{ '/pagedjs/interface.css' | url }}">
     {%- endif %}
 </head>
 
