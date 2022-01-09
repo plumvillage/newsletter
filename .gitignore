@@ -1,4 +1,5 @@
 .sass-cache
-node_modules
-sandbox
 _site
+node_modules
+public
+sandbox
