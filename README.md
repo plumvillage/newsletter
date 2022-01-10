@@ -19,6 +19,8 @@ npm install -g pagedjs-cli pagedjs
 cd eleventy
 npm install
 npx @11ty/eleventy --serve
+# or
+eleventy --serve
 ```
 Navigate you browser to http://localhost:8080/
 
