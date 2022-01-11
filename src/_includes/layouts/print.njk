@@ -10,6 +10,7 @@
     <meta name="keywords" content="" />
     <meta name="date" content="2022" />
 
+    
     <link rel="stylesheet" href="/css/pdf-styles.css">
     {%- if destination == "printhouse" %}
     {# <style>
@@ -25,10 +26,11 @@
 </head>
 <body>
     <div class="frontcover">
+        <img src="/media/LTLM45-2022 cover draft 4 tower HQ.jpg">
     </div>
     <div class="contents">
-        <h1>{{ i18n.toc }}</h1>
-
+        <h1>三摩跋提 {{ i18n.toc }}</h1>
+        
         <ul class="toc">
             {%- for article in articles -%}
                 <li><a href="#ch{{ loop.index }}">{{ article.data.title }}</a></li>
