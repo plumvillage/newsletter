@@ -29,7 +29,8 @@ img {
 
 div.frontcover {
     page: cover;
-    content: url("images/LTLM44-2021_front_cover.jpg");
+    /* content: url("images/LTLM44-2021_front_cover.jpg"); */
+    content: url("../media/LTLM45-2022 cover draft 4 tower HQ.jpg");
     width: 100%;
     height: 100%;
 }
