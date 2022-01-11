@@ -1,0 +1,17 @@
+{% set i18n = site[locale] %}
+<!DOCTYPE html>
+<html dir="ltr" lang="{{ locale }}">
+<head>
+    <meta charset="utf-8" />
+    <title>{{ i18n.title }}</title>
+    <meta name="author" content="{{ author}}" />
+    <meta name="subject" content="" />
+    <meta name="keywords" content="" />
+    <meta name="date" content="2022" />
+    <link rel="stylesheet" href="{{ '/css/web.css' | url }}">
+</head>
+<body>
+    {% include "partials/menu.njk" %}
+    {% block content %}{% endblock %}
+</body>
+</html>
