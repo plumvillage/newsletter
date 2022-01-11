@@ -1,4 +1,4 @@
 ---
-layout: print
+layout: layouts/print
 destination: browser
 ---

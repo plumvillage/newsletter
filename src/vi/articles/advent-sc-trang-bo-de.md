@@ -1,9 +1,7 @@
 ---
-tags: article
 title: Advent
 subtitle: một truyền thống đẹp cần gìn giữ
 author: Sư cô Chân Trăng Bồ Đề
-layout: article
 ---
 
 Lúc con còn nhỏ, mỗi lần Giáng sinh đến, khắp đường phố đều trang trí đèn rất lung linh. Những quầy văn phòng phẩm trưng bày những cây thông Noel, bằng nhựa thôi nhưng trông thật đẹp. Rồi nhà thờ gần nhà, thay vào vẻ vắng lặng thường ngày là không khí tấp nập, vui tươi. Dù không biết Giáng sinh là gì, con cũng thấy vui vì tối đó được đi dạo phố, ngắm cái này, cái kia. Tuy vậy, ngoại trừ một lần duy nhất bị tính hiếu kỳ đưa đường dẫn lối, con chưa từng có can đảm bước chân vào nhà thờ chỉ bởi một lý do: con là Phật tử. Có một lằn ranh phân cách giữa chùa và nhà thờ. Ông bà, ba mẹ con đều đồng ý rằng là Phật tử thì không được đi nhà thờ, đi vào đó là hành động phản đạo. Quan niệm đó cũng được gieo vào đầu chị em con. Trong thập niên 1960, ở Việt Nam, Phật giáo bị kỳ thị và Phật tử gặp rất nhiều khổ đau bởi những thành phần cố chấp và thế lực trong tổ chức Thiên chúa giáo. Có những Phật tử đã bị đày ải hay bị giết. Từ đó, trong lòng nhiều Phật tử thế hệ ba mẹ của con vẫn còn những dị ứng và thương tổn.

@@ -2,15 +2,21 @@
 <html>
 
 <head>
-    <title>Page title</title>
+    <title>Lá thư Làng Mai số 45  / Plum Village Newsletter #45 - 2022</title>
 </head>
 
 <body>
-    <h2>Print</h2>
-    <p><a href="/print-preview/">Preview print version</a></p>
-    <h2>Web</h2>
+    <h2>Tieng Viet</h2>
+    <p><a href="/vi/print-preview/">Preview print version</a></p>
     <ul>
-        {%- for article in collections.article -%}
+        {%- for article in collections.articles_vi -%}
+        <li><a href="{{ article.url }}">{{ article.data.title }}</a></li>
+        {%- endfor -%}
+    </ul>
+    <h2>English</h2>
+    <p><a href="/en/print-preview/">Preview print version</a></p>
+    <ul>
+        {%- for article in collections.articles_en -%}
         <li><a href="{{ article.url }}">{{ article.data.title }}</a></li>
         {%- endfor -%}
     </ul>

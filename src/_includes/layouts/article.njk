@@ -1,0 +1,11 @@
+{% extends "layouts/web.njk" %}
+
+
+    {% block content %}
+    <article>
+        <h1 id="ch1" class="chapter">{{ title }}</h1>
+        <h2 class="author">{{ author }}</h2>
+        {{ content | safe }}
+    </article>
+    {% endblock %}
+
