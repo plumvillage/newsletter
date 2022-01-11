@@ -93,8 +93,6 @@ Bottom left we display the title of the book, bottom right the page using a CSS 
     }
 }
 
-
-
 /* reset chapter and figure counters on the body */
 body {
     counter-reset: chapternum figurenum;
@@ -103,6 +101,7 @@ body {
     font-size: 12pt;
 }
 
+/* TODO */
 body:lang(ch) { /*三摩跋提*/
     font-family: "STKaiti";
 }
