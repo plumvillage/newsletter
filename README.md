@@ -48,6 +48,7 @@ There are some render tests for the first three of these tools in the folder [ht
 - [PrintCSS](https://printcss.net/articles)
 - [Book toolkit](http://booktoolkit.com/resources)
 - [Une chaîne de publication collaborative et multisupport pour le musée Saint-Raymond](https://julie-blanc.fr/blog/2020-11-05_chiragan/) (French article that describes a similar workflow. Very readable with Google translate. [Source code available](https://gitlab.com/musee-saint-raymond/villa-chiragan/).)
+- [Multilingual sites with Eleventy](https://www.webstoemp.com/blog/multilingual-sites-eleventy/)
 
 ### Comparing tools
 - [A comparison of different html2pdf tools](https://azettl.github.io/html2pdf/)
