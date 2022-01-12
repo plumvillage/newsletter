@@ -24,7 +24,7 @@
     /* bleed: var(--bleed); */
 }
 
-@page:first, body {
+body {
     margin: 0;
     padding: 0;
 }
@@ -46,17 +46,19 @@ img {
 
 .frontcover, .frontCollage {
     width: calc(var(--pagedjs-pagebox-width) + var(--bleed)*2);
-    height: calc(var(--pagedjs-pagebox-height));
+    height: calc(var(--pagedjs-pagebox-height) + var(--bleed)*2);
     /* width: calc(var(--pagedjs-pagebox-width) + var(--bleed)*2);
     height: calc(var(--pagedjs-pagebox-height) + var(--bleed)*2); */
+    top: calc((var(--pagedjs-margin-top) + var(--bleed))*-1);
+    left: calc((var(--pagedjs-margin-left) + var(--bleed))*-1);
     position: relative;
+    break-after: page;
+    overflow: visible;
 }
 
 .frontcover img, .frontCollage img {
     width: 100%;
-    position: absolute;
-    top: calc((var(--pagedjs-margin-top) + var(--bleed))*-1);
-    left: calc((var(--pagedjs-margin-left) + var(--bleed))*-1);
+    /* position: relative; */
 }
 
 /* styles for the left hand spread
