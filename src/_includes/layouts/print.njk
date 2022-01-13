@@ -26,6 +26,9 @@
 </head>
 <body>
     {%- if destination == "browser" %}
+
+    {% include "partials/testing.njk" %}
+
     <div class="front-cover">
         <img src="/media/front-cover-{{ locale | upper }}.jpg">
     </div>
@@ -33,6 +36,7 @@
         <img src="/media/LTLM45-2022 Front Back and Photos p4 bleed.jpg">
     </div>
     {%- endif %}
+
 
     {%- for article in articles -%}
         <article>
@@ -51,6 +55,7 @@
             {%- endfor -%}
         </ul>
     </div>
+    
 
     {%- if destination == "browser" %}
     <div class="back-collage">
