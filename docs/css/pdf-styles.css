@@ -14,6 +14,110 @@
     --bleed: 5mm;
 }
 
+
+
+@font-face {
+    font-family: "Cormorant Garamond";
+    src: url("fonts/CormorantGaramond-Light.woff2") format("woff2");
+    font-weight: 100; /* "lighter" does not work */
+}
+@font-face {
+    font-family: "Cormorant Garamond";
+    src: url("fonts/CormorantGaramond-LightItalic.woff2") format("woff2");
+    font-weight: 100;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Cormorant Garamond";
+    src: url("fonts/CormorantGaramond-Regular.woff2") format("woff2");
+     /* regular is font-weight: 400 */
+}
+@font-face {
+    font-family: "Cormorant Garamond";
+    src: url("fonts/CormorantGaramond-Italic.woff2") format("woff2");
+    font-style: italic;
+}
+@font-face {
+    font-family: "Cormorant Garamond";
+    src: url("fonts/CormorantGaramond-Medium.woff2") format("woff2");
+    font-weight: 500;
+}
+@font-face {
+    font-family: "Cormorant Garamond";
+    src: url("fonts/CormorantGaramond-MediumItalic.woff2") format("woff2");
+    font-weight: 500;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Cormorant Garamond";
+    src: url("fonts/CormorantGaramond-SemiBold.woff2") format("woff2");
+    font-weight: 600;
+}
+@font-face {
+    font-family: "Cormorant Garamond";
+    src: url("fonts/CormorantGaramond-SemiBoldItalic.woff2") format("woff2");
+    font-weight: 600;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Cormorant Garamond";
+    src: url("fonts/CormorantGaramond-Bold.woff2") format("woff2");
+    font-weight: 700; /* is bold*/
+}
+@font-face {
+    font-family: "Cormorant Garamond";
+    src: url("fonts/CormorantGaramond-BoldItalic.woff2") format("woff2");
+    font-weight: 700;
+    font-style: italic;
+}
+
+
+
+
+/* "Gentium Book Plus" family with a slightly heavier weight which may be useful at small sizes. */
+@font-face {
+    font-family: "Gentium Book Plus";
+    src: url("fonts/GentiumBookPlus-Bold.woff2") format("woff2");
+    font-weight: bold;
+}
+@font-face {
+    font-family: "Gentium Book Plus";
+    src: url("fonts/GentiumBookPlus-BoldItalic.woff2") format("woff2");
+    font-weight: bold;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Gentium Book Plus";
+    src: url("fonts/GentiumBookPlus-Italic.woff2") format("woff2");
+    font-style: italic;
+}
+@font-face {
+    font-family: "Gentium Book Plus";
+    src: url("fonts/GentiumBookPlus-Regular.woff2") format("woff2");
+}
+
+
+/* @font-face {
+    font-family: "Gentium Plus";
+    src: url("fonts/GentiumPlus-Bold.woff2") format("woff2");
+    font-weight: bold;
+}
+@font-face {
+    font-family: "Gentium Plus";
+    src: url("fonts/GentiumPlus-BoldItalic.woff2") format("woff2");
+    font-weight: bold;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Gentium Plus";
+    src: url("fonts/GentiumPlus-Italic.woff2") format("woff2");
+    font-style: italic;
+}
+@font-face {
+    font-family: "Gentium Plus";
+    src: url("fonts/GentiumPlus-Regular.woff2") format("woff2");
+} */
+
 @page {
     size: A4;
     margin-top: 32pt;
@@ -68,7 +172,7 @@ Bottom right book title, bottom left current page */
         margin: 10pt 0 30pt 0;
         content: counter(page);
         font-size: 11pt;
-        font: "Cormorant Infant";
+        font: "Cormorant Garamond", "Cormorant Infant";
         background: 5% 50%/25% no-repeat url('images/parallel-horizontal-vn1.png');
     }
 }
@@ -82,7 +186,7 @@ Bottom left we display the title of the book, bottom right the page using a CSS 
         padding: 10pt 0 10pt 120pt;
         content: counter(page);
         font-size: 11pt;
-        font: "Cormorant Infant";
+        font: "Cormorant Garamond", "Cormorant Infant";
         background: 95% 50%/25% no-repeat url('images/parallel-horizontal-vn2.png');
     }
 }
@@ -90,7 +194,7 @@ Bottom left we display the title of the book, bottom right the page using a CSS 
 /* reset chapter and figure counters on the body */
 body {
     counter-reset: chapternum figurenum;
-    font-family: "Skolar Latin", "Skolar PE", "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
+    font-family: "Gentium Book Plus", "Skolar Latin", "Skolar PE", "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
     line-height: 16pt;
     font-size: 12pt;
 }
@@ -206,8 +310,8 @@ h2 {
 }
 
 article h1 {
-    font-family: "Cormorant Infant";
-    font-weight: 600;
+    font-family: "Cormorant Garamond", "Cormorant Infant";
+    /* font-weight: bolder; */
     font-size: 36pt;
     line-height: 48pt;
 }
