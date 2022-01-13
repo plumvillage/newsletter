@@ -2,15 +2,15 @@
 
 /* https://color.adobe.com/de/mythemes */
 :root {
-    --colorSky: hsl(204, 100%, 59%); /* C 82%   M 33%   Y 0%   K 0% */
-    --colorTower: hsl(14, 57%, 50%); /* C 0%   M 44%   Y 57%   K 21% */
-    --colorTowerDark: hsl(356, 66%, 29%);
-    --colorSanghati: hsl(46, 80%, 55%); /* C 0%   M 16%   Y 71%   K 9% */
-    --colorSanghatiLight: hsl(46, 100%, 85%);
-    --colorBark: hsl(19, 36%, 32%); /* C 0%   M 16%   Y 23%   K 57% */
-    --colorBarkDark: hsl(17, 36%, 15%);
-    --colorLeaf: hsl(72, 42%, 53%); /* C 8%   M 0%   Y 39%   K 27% */
-
+    --color-sky: hsl(204, 100%, 59%); /* C 82%   M 33%   Y 0%   K 0% */
+    --color-tower: hsl(14, 57%, 50%); /* C 0%   M 44%   Y 57%   K 21% */
+    --color-tower-dark: hsl(356, 66%, 29%);
+    --color-sanghati: hsl(46, 80%, 55%); /* C 0%   M 16%   Y 71%   K 9% */
+    --color-sanghati-light: hsl(46, 100%, 85%);
+    --color-bark: hsl(19, 36%, 32%); /* C 0%   M 16%   Y 23%   K 57% */
+    --color-bark-dark: hsl(17, 36%, 15%);
+    --color-leaf: hsl(72, 42%, 53%); /* C 8%   M 0%   Y 39%   K 27% */
+    
     --bleed: 5mm;
 }
 
@@ -44,11 +44,9 @@ img {
     max-width: 100%;
 }
 
-.frontcover, .frontCollage {
+.front-cover, .front-collage, .back-collage, .back-cover {
     width: calc(var(--pagedjs-pagebox-width) + var(--bleed)*2);
     height: calc(var(--pagedjs-pagebox-height) + var(--bleed)*2);
-    /* width: calc(var(--pagedjs-pagebox-width) + var(--bleed)*2);
-    height: calc(var(--pagedjs-pagebox-height) + var(--bleed)*2); */
     top: calc((var(--pagedjs-margin-top) + var(--bleed))*-1);
     left: calc((var(--pagedjs-margin-left) + var(--bleed))*-1);
     position: relative;
@@ -56,7 +54,7 @@ img {
     overflow: visible;
 }
 
-.frontcover img, .frontCollage img {
+.front-cover img, .front-collage img, back-collage img, back-cover img {
     width: 100%;
     /* position: relative; */
 }

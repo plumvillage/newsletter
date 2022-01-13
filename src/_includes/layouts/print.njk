@@ -5,7 +5,7 @@
 <head>
     <meta charset="utf-8" />
     <title>{{ i18n.title }}</title>
-    <meta name="author" content="Làng Mai" />
+    <meta name="author" content="{{ i18n.author }}" />
     <meta name="subject" content="" />
     <meta name="keywords" content="" />
     <meta name="date" content="2022" />
@@ -26,10 +26,10 @@
 </head>
 <body>
     {%- if destination == "browser" %}
-    <div class="frontcover">
-        <img src="/media/FrontCover_{{ locale | upper}}.jpg">
+    <div class="front-cover">
+        <img src="/media/front-cover-{{ locale | upper }}.jpg">
     </div>
-    <div class="frontCollage">
+    <div class="front-collage">
         <img src="/media/LTLM45-2022 Front Back and Photos p4 bleed.jpg">
     </div>
     {%- endif %}
@@ -53,11 +53,11 @@
     </div>
 
     {%- if destination == "browser" %}
-    <div class="backCollage">
-        <img src="/media/LTLM45-2022 Front Back and Photos p4 bleed.jpg">
+    <div class="back-collage">
+        <img src="/media/LTLM45-2022 Front Back and Photos p6 bleed.jpg">
     </div>
-    <div class="backcover">
-        <img src="/media/BackCover_{{ locale | upper}}.jpg">
+    <div class="back-cover">
+        <img src="/media/back-cover-{{ locale | upper }}.jpg">
     </div>
     {%- endif %}
 </body>
