@@ -10,7 +10,7 @@
     <meta name="keywords" content="" />
     <meta name="date" content="2022" />
 
-    
+
     <link rel="stylesheet" href="/css/pdf-styles.css">
     {%- if destination == "printhouse" %}
     {# <style>
@@ -25,12 +25,23 @@
     {%- endif %}
 </head>
 <body>
+    {%- if destination == "browser" %}
     <div class="frontcover">
-        <img src="/media/FrontCover_EN.jpg">
+        <img src="/media/FrontCover_{{ locale | upper}}.jpg">
     </div>
     <div class="frontCollage">
         <img src="/media/LTLM45-2022 Front Back and Photos p4 bleed.jpg">
     </div>
+    {%- endif %}
+
+    {%- for article in articles -%}
+        <article>
+            <h1 id="ch{{ loop.index }}" class="chapter">{{ article.data.title }}</h1>
+            <h2 class="author">{{ article.data.author }}</h2>
+            {{ article.data.content | safe }}
+        </article>
+    {%- endfor -%}
+
     <div class="contents">
         <h1>{{ i18n.toc }}</h1>
 
@@ -40,13 +51,15 @@
             {%- endfor -%}
         </ul>
     </div>
-    {%- for article in articles -%}
-        <article>
-            <h1 id="ch{{ loop.index }}" class="chapter">{{ article.data.title }}</h1>
-            <h2 class="author">{{ article.data.author }}</h2>
-            {{ article.data.content | safe }}
-        </article>
-    {%- endfor -%}
+
+    {%- if destination == "browser" %}
+    <div class="backCollage">
+        <img src="/media/LTLM45-2022 Front Back and Photos p4 bleed.jpg">
+    </div>
+    <div class="backcover">
+        <img src="/media/BackCover_{{ locale | upper}}.jpg">
+    </div>
+    {%- endif %}
 </body>
 
 </html>
