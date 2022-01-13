@@ -1,14 +1,19 @@
 {
-  "name": "PV Newsletter",
-  "version": "0.0.1",
-  "description": "",
-  "scripts": {
-    "build": "pagedjs-cli -i docs/vi/print/index.html -o builds/ltlm-45-vi.pdf & pagedjs-cli -i docs/en/print/index.html -o builds/pvnewsletter-45.pdf"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "",
-  "devDependencies": {
-    "@11ty/eleventy": "^1.0.0"
-  }
+    "name": "pv-newsletter",
+    "version": "0.0.1",
+    "description": "",
+    "scripts": {
+        "start": "npx @11ty/eleventy --serve",
+        "build-html": "npx @11ty/eleventy",
+        "build-pdf-vi": "pagedjs-cli -i docs/vi/print/index.html -o builds/ltlm-45-vi.pdf",
+        "build-pdf-en": "pagedjs-cli -i docs/en/print/index.html -o builds/pvnewsletter-45.pdf",
+        "build": "run-s build-html build-pdf-vi build-pdf-en"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "",
+    "devDependencies": {
+        "@11ty/eleventy": "^1.0.0",
+        "npm-run-all": "^4.1.5"
+    }
 }

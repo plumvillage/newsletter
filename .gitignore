@@ -1,6 +1,7 @@
 .sass-cache
+builds
 node_modules
 sandbox
-workspace.code-workspace
 src/media
 docs/media
+workspace.code-workspace
