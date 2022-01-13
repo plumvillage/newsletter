@@ -5,7 +5,7 @@ Single source publishing project using [Eleventy](https://www.11ty.dev) and [Pag
 ## Running locally
 ```
 npm install
-`npx @11ty/eleventy --serve`
+npm start
 ```
 Browse to http://localhost:8080/.
 

@@ -10,9 +10,9 @@
     <meta name="keywords" content="" />
     <meta name="date" content="2022" />
 
+    <link rel="stylesheet" href="../../css/pdf-styles.css">
 
-    <link rel="stylesheet" href="/css/pdf-styles.css">
-    {%- if destination == "printhouse" %}
+    {%- if destination == "printer" %}
     {# <style>
         {% include "/css/crop-marks.css" %}
     </style> #}
@@ -55,7 +55,7 @@
             {%- endfor -%}
         </ul>
     </div>
-    
+
 
     {%- if destination == "browser" %}
     <div class="back-collage">
