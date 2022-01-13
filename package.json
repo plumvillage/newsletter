@@ -1,14 +1,13 @@
 {
-  "name": "eleventy",
-  "version": "1.0.0",
+  "name": "PV Newsletter",
+  "version": "0.0.1",
   "description": "",
-  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "pagedjs-cli -i docs/vi/print/index.html -o builds/ltlm-45-vi.pdf & pagedjs-cli -i docs/en/print/index.html -o builds/pvnewsletter-45.pdf"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "",
   "devDependencies": {
     "@11ty/eleventy": "^0.12.1"
   }

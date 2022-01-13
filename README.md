@@ -1,48 +1,27 @@
 # Newsletter / Lá thư Làng Mai
 
-## Installing
-### Eleventy
-```
-cd eleventy
-npm install
-```
+Single source publishing project using [Eleventy](https://www.11ty.dev) and [PagedJS](https://www.pagedjs.org/).
 
-### PagedJS
+## Running locally
+```
+npm install
+`npx @11ty/eleventy --serve`
+```
+Browse to http://localhost:8080/.
+
+## Generating PDF
 ```
 npm install -g pagedjs-cli pagedjs
+npm run build
 ```
 
-
-## Previewing the web and print version
-
-```
-cd eleventy
-npm install
-npx @11ty/eleventy --serve
-# or
-eleventy --serve
-```
-Navigate you browser to http://localhost:8080/
-
-## Tools
-
-### HTML/CSS to print conversion
-See some experiments in the folder [html-to-pdf](html-to-pdf). We seem to settle with [paged.js](https://www.pagedjs.org/about/). Other options:
-
-- [Prince](https://princexml.com/)
-- [Vivliostyle](https://vivliostyle.org/)
-- [html2print](http://osp.kitchen/tools/html2print/)
-
-There are some render tests for the first three of these tools in the folder [html-to-pdf/builds](html-to-pdf/builds).
-
-### Static site generators
-- [Eleventy](https://www.11ty.dev)
-- [Honkit](https://github.com/honkit/honkit) (specially for "books")
-
-### ePub conversion
-- [Pandoc](https://pandoc.org/)
+## Code style
+- Use hyphenated class names in CSS.
 
 ## Useful resources
+- PagedJS [cheat sheet](https://www.pagedjs.org/documentation/cheatsheet/)
+& [quick solution & fix to layout problems](https://gitlab.pagedmedia.org/tools/pagedjs/-/wikis/Quick-solution-&-fix-to-layout-problems)
+
 - [Designing For Print With CSS - Rachel Andrew in Smashing Magazine](https://www.smashingmagazine.com/2015/01/designing-for-print-with-css/)
 - [print-css.rocks](https://www.print-css.rocks/)
 - [PrintCSS](https://printcss.net/articles)
@@ -50,5 +29,10 @@ There are some render tests for the first three of these tools in the folder [ht
 - [Une chaîne de publication collaborative et multisupport pour le musée Saint-Raymond](https://julie-blanc.fr/blog/2020-11-05_chiragan/) (French article that describes a similar workflow. Very readable with Google translate. [Source code available](https://gitlab.com/musee-saint-raymond/villa-chiragan/).)
 - [Multilingual sites with Eleventy](https://www.webstoemp.com/blog/multilingual-sites-eleventy/)
 
-### Comparing tools
+## Other tools considered
+- [Pandoc](https://pandoc.org/)
+- [Prince](https://princexml.com/)
+- [Vivliostyle](https://vivliostyle.org/)
+- [Quire](https://quire.getty.edu/)
+- [html2print](http://osp.kitchen/tools/html2print/)
 - [A comparison of different html2pdf tools](https://azettl.github.io/html2pdf/)
