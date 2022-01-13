@@ -1,9 +1,12 @@
 module.exports = function (eleventyConfig) {
     eleventyConfig.addPassthroughCopy("src/pagedjs");
+
     eleventyConfig.addPassthroughCopy("src/css");
-    eleventyConfig.addPassthroughCopy({ "src/media/publish": "media" });
     eleventyConfig.addWatchTarget("src/css");
-    
+
+    eleventyConfig.addPassthroughCopy({ "src/media/publish": "media" });
+    eleventyConfig.addWatchTarget("src/media/publish");
+
     // Copy any .jpg file to `_site`, via Glob pattern (in 0.9.0+)
     // Keeps the same directory structure.
     eleventyConfig.addPassthroughCopy("src/CNAME");
