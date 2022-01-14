@@ -73,7 +73,6 @@
 
 
 
-
 /* "Gentium Book Plus" family with a slightly heavier weight which may be useful at small sizes. */
 @font-face {
     font-family: "Gentium Book Plus";
@@ -117,6 +116,25 @@
     font-family: "Gentium Plus";
     src: url("fonts/GentiumPlus-Regular.woff2") format("woff2");
 } */
+
+
+
+/* each is 4 MiB */
+/* @font-face {
+    font-family: "Noto Serif TC";
+    src: url("fonts/NotoSerifTC-Regular.woff2") format("woff2");
+} */
+@font-face {
+    font-family: "Noto Serif TC";
+    src: url("fonts/NotoSerifTC-Medium.woff2") format("woff2");
+    font-weight: 500;
+}
+/* @font-face {
+    font-family: "Noto Serif TC";
+    src: url("fonts/NotoSerifTC-SemiBold.woff2") format("woff2");
+    font-weight: 600;
+} */
+
 
 @page {
     size: A4;
@@ -199,9 +217,9 @@ body {
     font-size: 12pt;
 }
 
-/* TODO */
-body:lang(ch) { /*三摩跋提*/
-    font-family: "STKaiti";
+span:lang(zh) { /*三摩跋提*/
+    font-family: "Noto Serif TC";
+    font-weight: 500;
 }
 
 /* get the title of the current chapter - this will be the content of the h1
