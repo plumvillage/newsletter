@@ -27,7 +27,6 @@
 <body>
     {%- if destination == "browser" %}
 
-    {% include "partials/testing.njk" %}
 
     <div class="front-cover">
         <img src="/media/front-cover-{{ locale | upper }}.jpg">
@@ -65,6 +64,7 @@
         <img src="/media/back-cover-{{ locale | upper }}.jpg">
     </div>
     {%- endif %}
+    {% include "partials/testing.njk" %}
 </body>
 
 </html>
