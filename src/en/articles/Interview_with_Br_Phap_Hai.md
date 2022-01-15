@@ -1,7 +1,7 @@
 ﻿---
 title: Don’t Cover Over Your Monastic Life With Bells and Incense
 author: Br. Chân Pháp Hải
-date: 17 December 2021
+# date: 17 December 2021
 ---
 
 > Two years ago, **Brother Chân Pháp Hải** returned to his homeland Australia to establish our youngest practise centre, *Mountain Spring Monastery*. The editorial team had a chance to interview him about his most precious memories of growing up in Plum Village. The following excerpt is a distillation of his experiences, challenges, growing insights, lifesavers, and lessons learned.
