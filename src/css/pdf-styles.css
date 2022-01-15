@@ -30,9 +30,9 @@ body {
     }
 }
 
-img {
+/* img {
     max-width: 100%;
-}
+} */
 
 .front-cover, .front-collage, .back-collage, .back-cover {
     width: calc(var(--pagedjs-pagebox-width));
@@ -218,4 +218,17 @@ article p + p {
 
 .author + p {
     margin-top: 0;
+}
+
+img#ThayTalk {
+    position: absolute;
+    z-index: -1;
+    /* does not work: hmm. */
+    /* width: calc(var(--pagedjs-pagebox-width)); */
+    width: 210mm;
+    top: calc((var(--pagedjs-margin-top))*-1);
+    left: calc((var(--pagedjs-margin-left))*-1);
+    /* right: calc(var(--pagedjs-pagebox-width) + var(--pagedjs-margin-right)); */
+    right: 210mm;
+    overflow: visible;
 }
