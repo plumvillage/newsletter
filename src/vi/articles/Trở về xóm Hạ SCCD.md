@@ -49,7 +49,7 @@ Nỗi sợ chết trong tôi đã giảm bớt nhờ những lời dạy của T
 
 Tính đến thời điểm này, tôi đã về lại xóm Hạ được khoảng mười hai tháng. Tôi rời xóm Hạ vào năm 1996 để đến xóm Mới và sau đó là đi tu viện Rừng Phong (Maple Forest). Vậy là tôi đã vắng mặt ở xóm Hạ suốt hai mươi bốn năm. Có những nơi không thay đổi gì nhiều, giống như con đường nhỏ dẫn xuống nơi từng là thất của tôi, rồi con đường ở đằng sau thiền đường Hội Ngàn Sao, thiền đường Nến Hồng và những cây sồi vĩ đại. Căn phòng của Thầy ở xóm Hạ, nơi Thầy có thể ngả lưng trên võng sau buổi pháp thoại và mời các con uống trà với Thầy, là nơi chúng ta có thể cảm nhận sự hiện diện của Thầy thật rõ ràng. Mỗi khi tôi thực tập thiền hành ở xóm Hạ, tôi lại cảm nhận được một cách thật rõ ràng hương vị của Làng Mai hơn ba mươi năm về trước. Tôi còn nhớ một lần ở xóm Hạ, khi còn là cư sĩ, chúng tôi chuẩn bị lên xe đi thăm Thiền đường Hoa Quỳnh (Fleurs de Cactus) ở Paris. Tôi có một ước mong sâu sắc là đi được như Thầy đi, nên tôi thực tập một mình trong lúc chờ những người khác tới. Nhưng có lẽ hồi đó sự thực tập của tôi còn nhiều hình thức hơn nội dung. Qua năm tháng, cảm giác bình an và hạnh phúc có được từ những bước thiền hành như vậy đã trở nên rất thật trong tôi. Những bước chân của Thầy ở Làng Mai là những gì khiến cho bầu không khí nơi Làng trở nên linh thiêng, và tất nhiên tất cả chúng ta đều muốn giữ gìn không khí linh thiêng này còn mãi bằng những bước chân chánh niệm của mình.
 
-**THẤY THẦY TRONG TĂNG THÂN**
+**Thấy Thầy Trong Tăng Thân**
 
 *Sư cô Chân Đức*
 
@@ -63,14 +63,14 @@ Thức dậy, con thấy đời sống là một giấc mơ. Và được gặp 
 
 Con nhớ ngày xưa khi con đi theo Thầy về Hàn Quốc hay Trung Quốc, có khi Thầy trò có cơ hội thăm các bản kinh nơi các chùa cổ và hai lần Thầy đã chỉ cho con một bài kệ trong *kinh Kim Cương* được khắc trên bản gỗ:
 
-> *Nhược dĩ sắc kiến ngã*
-> *Dĩ âm thanh cầu ngã*
-> *Thị nhân hành tà đạo*
+> *Nhược dĩ sắc kiến ngã*<br/>
+> *Dĩ âm thanh cầu ngã*<br/>
+> *Thị nhân hành tà đạo*<br/>
 > *Bất năng kiến Như Lai*
 
-> (Tìm ta qua hình sắc
-> Cầu ta qua âm thanh
-> Là kẻ hành tà đạo
+> (Tìm ta qua hình sắc<br/>
+> Cầu ta qua âm thanh<br/>
+> Là kẻ hành tà đạo<br/>
 > Không thấy được Như Lai)
 
 Bạch Thầy, trước khi Thầy thị hiện bệnh và sau khi Thầy thị hiện bệnh, con đã không thực sự thấy Thầy, nhưng khi con thấy tăng thân đẹp như vậy thì con đã bắt đầu thấy Thầy.

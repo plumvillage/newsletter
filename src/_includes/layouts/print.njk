@@ -10,8 +10,9 @@
     <meta name="keywords" content="" />
     <meta name="date" content="2022" />
 
-    <link rel="stylesheet" href="../../css/pdf-styles.css">
-
+    <link rel="stylesheet" href="{{ '/css/global.css' | url }}">
+    <link rel="stylesheet" href="{{ '/css/pdf-styles.css' | url }}">
+    
     {%- if destination == "printer" %}
     {# <style>
         {% include "/css/crop-marks.css" %}

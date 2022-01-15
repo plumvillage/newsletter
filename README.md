@@ -37,3 +37,6 @@ npm run build
 - [Quire](https://quire.getty.edu/)
 - [html2print](http://osp.kitchen/tools/html2print/)
 - [A comparison of different html2pdf tools](https://azettl.github.io/html2pdf/)
+
+## Bugs & ToDos
+ - � appear in Print-Preview, "tình hu��ng này."
