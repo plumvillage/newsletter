@@ -35,13 +35,19 @@ img {
 }
 
 .front-cover, .front-collage, .back-collage, .back-cover {
+    width: calc(var(--pagedjs-pagebox-width));
+    height: calc(var(--pagedjs-pagebox-height));
+    top: calc((var(--pagedjs-margin-top))*-1);
+    left: calc((var(--pagedjs-margin-left))*-1);
+    position: relative;
+    /* break-after: page; */
+    overflow: visible;
+}
+.front-cover.bleed, .front-collage.bleed, .back-collage.bleed, .back-cover.bleed {
     width: calc(var(--pagedjs-pagebox-width) + var(--bleed)*2);
     height: calc(var(--pagedjs-pagebox-height) + var(--bleed)*2);
     top: calc((var(--pagedjs-margin-top) + var(--bleed))*-1);
     left: calc((var(--pagedjs-margin-left) + var(--bleed))*-1);
-    position: relative;
-    break-after: page;
-    overflow: visible;
 }
 
 .front-cover img, .front-collage img, back-collage img, back-cover img {
@@ -89,7 +95,6 @@ body {
 reset figure counter as figures start from 1 in each chapter */
 h1 {
     string-set: doctitle content();
-    page-break-before: always;
     counter-reset: figurenum;
     counter-reset: footnote;
     line-height: 1.3;
