@@ -10,8 +10,9 @@
     <meta name="keywords" content="" />
     <meta name="date" content="2022" />
 
-    <link rel="stylesheet" href="{{ '/css/global.css' | url }}">
-    <link rel="stylesheet" href="{{ '/css/pdf-styles.css' | url }}">
+    {# needs to be relative for pagedjs to work #}
+    <link rel="stylesheet" href="{{ '../../css/global.css' | url }}">
+    <link rel="stylesheet" href="{{ '../../css/pdf-styles.css' | url }}">
     
     {%- if destination == "printer" %}
     {# <style>
@@ -28,12 +29,11 @@
 <body>
     {%- if destination == "browser" %}
 
-
     <div class="front-cover">
-        <img src="/media/front-cover-{{ locale | upper }}.jpg">
+        <img src="/media/LTLM45-2022 cover front noBleed {{ locale | upper }}.jpg">
     </div>
     <div class="front-collage">
-        <img src="/media/LTLM45-2022 Front Back and Photos p4 bleed.jpg">
+        <img src="/media/LTLM45-2022-photos-front.jpg">
     </div>
     {%- endif %}
 
@@ -59,10 +59,10 @@
 
     {%- if destination == "browser" %}
     <div class="back-collage">
-        <img src="/media/LTLM45-2022 Front Back and Photos p6 bleed.jpg">
+        <img src="/media/LTLM45-2022-photos-back.jpg">
     </div>
     <div class="back-cover">
-        <img src="/media/back-cover-{{ locale | upper }}.jpg">
+        <img src="/media/LTLM45-2022 cover back noBleed {{ locale | upper }}.jpg">
     </div>
     {%- endif %}
     {% include "partials/testing.njk" %}
