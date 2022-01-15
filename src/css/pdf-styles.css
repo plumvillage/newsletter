@@ -50,7 +50,7 @@ body {
     left: calc((var(--pagedjs-margin-left) + var(--bleed))*-1);
 }
 
-.front-cover img, .front-collage img, back-collage img, back-cover img {
+.front-cover img, .front-collage img, .back-collage img, .back-cover img {
     width: 100%;
     /* position: relative; */
 }
