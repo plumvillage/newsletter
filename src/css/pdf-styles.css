@@ -195,8 +195,8 @@ h2 { /* section in article */
     font-weight: bold;
     color: var(--color-bark-dark);
     margin-left: 8pt; /* ~ text-indent on 2 lines*/
-    margin-top: 5pt;
-    margin-bottom: 4pt;
+    margin-top: 6pt;
+    margin-bottom: 5pt;
 }
 
 html:lang(vi) article p {
