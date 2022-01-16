@@ -200,8 +200,8 @@ article h1 {
     font-feature-settings: 'lnum';
 }
 article .author {
-    font-family: Pelago;
-    font-weight: 600;
+    font-family: "Open Sans";
+    font-weight: 500;
     font-size: 14pt;
     line-height: 16pt;
 }
@@ -241,7 +241,7 @@ html:lang(vi) #ch1 {
         var(--color-sanghati-light) 1px 0 5px,
         white 1px 0 20px;
     /* pagedjs_margin-top is visible in the print-preview, but not in the print version. */
-    margin-top: 60mm;
+    margin-top: 70mm;
     /* does not extend beyond article frame: */
     /* background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(255,255,255,0) 40%); */
     overflow: visible;
