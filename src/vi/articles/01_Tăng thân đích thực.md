@@ -2,9 +2,9 @@
 title: Tăng Thân Đích Thực
 author: Sư Ông Làng Mai
 ---
-<img id="ThayTalk" src="/media/ThayTalk_whiteFadeout.jpg">
-
 Kính thưa Đại chúng, hôm nay là ngày 14 tháng 10 năm 2010, chúng ta đang ở thiền đường Trời Phương Ngoại, Pak Chong, Thái Lan, trong khóa tu xuất sĩ với chủ đề *Vườn Ươm*.
+
+<img id="ThayTalk" src="/media/ThayTalk_whiteFadeout.jpg">
 
 **Trí tuệ không biên giới**
 
