@@ -3,7 +3,7 @@ title: Poems
 author: Chân Từ Nghiêm
 ---
 
-**May the Smiles from our Hearts**
+## May the Smiles from our Hearts
 *poem to all Bodhisattvas*
 <!-- 9 December 2021 -->
 
@@ -27,8 +27,7 @@ author: Chân Từ Nghiêm
 > Shining everywhere<br/>
 > With warmth and freedom<br/>
 
-
-**Their Flowers Have Fallen**
+## Their Flowers Have Fallen
 <!-- 18 December 2021 -->
 
 Their flowers have fallen<br/>
@@ -49,8 +48,7 @@ Their flowers have fallen<br/>
 
 This poem was written to my orchid plant as I witnessed its changing, impermanent nature over the past two months. Impermanence can also be the continuation of life, and we are filled with happiness and joy on seeing this. The flowers have fallen, yet the tiny buds sing the song of life continuing without end.
 
-
-**There is the Letting Go**
+## There is the Letting Go
 
 > There is the letting go <br/>
 > of the song in our hearts<br/>

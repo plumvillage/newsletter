@@ -3,7 +3,7 @@ title: Poems
 author: Sr. Chánh Niệm
 ---
 
-**Here**
+## Here
 
 > A slip of light <br/>
 > let insight ignite <br/>
@@ -12,7 +12,7 @@ author: Sr. Chánh Niệm
 > pools of sound resound <br/>
 > throughout infinity<br/>
 
-**Sometimes**
+## Sometimes
 
 > Sometimes I am like<br/>
 > a big eye<br/>
