@@ -38,7 +38,7 @@ Every day we had some working meditation with the Sangha. At that time, Thay pri
 > “With one step I breathe in, I take a sheet of paper,<br/>
 > With one step I breathe out, I smile.<br/>
 > With one step I breathe in, a book will be born<br/>
-> With one step I breathe out, I smile. … ”
+> With one step I breathe out, I smile. …”
 
 This is an amazing experience from my early practice. I really enjoyed working meditation with the community. Everyone participated, including Thay. One morning a young woman came up to me and asked me to cut some bread “in mindfulness”, she added seriously.
 
