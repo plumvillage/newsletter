@@ -27,7 +27,7 @@ Pháp Ấn biết tới Sư Ông từ hồi còn nhỏ. Năm đó, sinh nhật c
 
 Từ những năm trung học cho đến khi xuất gia, Pháp Ấn đã đọc và nghe khá nhiều sách và các băng giảng của các vị thầy về thiền. Tại MIT, trước khi xuất gia, nhân đọc cuốn *Vấn đề nhận thức trong Duy thức học* của Sư Ông, Pháp Ấn có một trực giác: đây chính là vị thầy của mình! Càng tu thì càng thấy rằng được gặp Sư Ông là nhân duyên từ nhiều kiếp. Ngày xưa, mình nghĩ là mình chọn thầy này, thầy kia, mình thích chùa này, chùa kia. Nhưng thật ra, tất cả các pháp đều do duyên sanh. Khi về Làng, rất nhiều đêm, Pháp Ấn thường nằm mơ thấy hình ảnh Sư Ông ngồi thiền, rất thẳng và đẹp. Pháp Ấn cảm nhận giữa mình và Sư Ông có duyên thầy trò rất sâu đậm. Có những kỷ niệm giữa thầy trò rất nuôi dưỡng Pháp Ấn. Nhớ những ngày mới về Làng, Pháp Ấn có nhiều câu hỏi lắm. Lúc đầu, Sư Ông rất vui khi Pháp Ấn đặt câu hỏi, nhưng sau khi đã biết cái tật của Pháp Ấn thì Sư Ông không trả lời nữa và để cho Pháp Ấn thực tập. Pháp Ấn thấy điều đó rất hay. Mình đến với quá nhiều câu hỏi mà thật ra những câu hỏi đó không ai có thể trả lời cho mình một cách rốt ráo. Điều mình cần là thực tập, qua năm tháng câu trả lời sẽ tự đến. 
 
-## Công trình xây dựng tăng thân** 
+## Công trình xây dựng tăng thân
 
 *BBT: Có mặt từ những ngày đầu của Làng, chứng kiến sự thay đổi và lớn lên của tăng thân, có giây phút nào thầy cảm thấy con đường xây dựng tăng thân thật chông gai và thầy thấy mệt mỏi hay không? Điều gì đã giúp thầy bền bỉ tiếp tục công trình giữ gìn và nuôi lớn tăng thân?*
 

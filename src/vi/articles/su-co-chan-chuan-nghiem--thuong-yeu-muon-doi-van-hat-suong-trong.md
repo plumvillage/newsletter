@@ -43,7 +43,7 @@ Hồ sen Hồng tại xóm Mới thì nhỏ nhất so với hồ sen các xóm. 
 
 Trẻ em cũng rất thích và biết chơi với lá sen. Những năm chưa có đại dịch covid, mùa hè là mùa các em nhỏ rất hạnh phúc được ba mẹ đưa về Làng. Tôi thấy các em xin hái vài lá sen gần bờ, đổ nước vào và chơi với nhau. Lá sen cũng giống như lá khoai môn, không bị thấm nước ra ngoài. Thế là các em chơi với nhau suốt cả buổi trò lá sen đựng nước. Niềm vui của các em chỉ giản đơn vậy thôi nhưng lại là cả bầu trời tuổi thơ tươi đẹp.
 
-Nhắc đến hồ sen làm tôi nhớ đến Sư Ông. Sư Ông có thể trở về với tuổi thơ bất cứ lúc nào. Mùa đông ở Làng, khi hồ sen bị đóng băng trên mặt thì Sư Ông rất thích. Đang đi, Sư Ông dừng lại và ngồi xuống cạnh hồ sen để cầm miếng băng lên. Sư Ông thường hay nhắc đến mây, tuyết và nước đều là một trong nhiều bài pháp thoại. Và thiên nhiên đã cho tôi thấy thật rõ điều này. Bây giờ tôi đang ở EIAB, tuyết rất nhiều và đôi khi tôi cũng bắt chước Sư Ông, nghịch một chút để chơi với tuyết và chơi với huynh đệ.** 	
+Nhắc đến hồ sen làm tôi nhớ đến Sư Ông. Sư Ông có thể trở về với tuổi thơ bất cứ lúc nào. Mùa đông ở Làng, khi hồ sen bị đóng băng trên mặt thì Sư Ông rất thích. Đang đi, Sư Ông dừng lại và ngồi xuống cạnh hồ sen để cầm miếng băng lên. Sư Ông thường hay nhắc đến mây, tuyết và nước đều là một trong nhiều bài pháp thoại. Và thiên nhiên đã cho tôi thấy thật rõ điều này. Bây giờ tôi đang ở EIAB, tuyết rất nhiều và đôi khi tôi cũng bắt chước Sư Ông, nghịch một chút để chơi với tuyết và chơi với huynh đệ.
 
 ## Món quà Noel đặc biệt
 
