@@ -243,6 +243,9 @@ img#ThayTalk {
 html:lang(vi) #ch1 {
     text-shadow: /* stacking */
         var(--color-sanghati-light) 1px 0 5px,
-        var(--color-sanghati-light) 1px 0 20px;
-    margin-top: 83mm;
+        white 1px 0 20px;
+    margin-top: 70mm;
+    /* does not extend beyond article frame: */
+    /* background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(255,255,255,0) 40%); */
+    overflow: visible;
 }
