@@ -1,7 +1,9 @@
 body {
+    background-color: #fff;
     font-family: "Gentium Book Plus";
     font-size: 1.2em;
 }
+
 article {
     max-width: 40em;
     margin: auto;
