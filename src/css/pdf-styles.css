@@ -186,6 +186,7 @@ a.xref::after {
 /* LTLM design */
 article {
     columns: 2;
+    break-after: page;
     column-gap: 16pt
 }
 
@@ -205,6 +206,8 @@ article h1 {
     /* font-weight: bolder; */
     font-size: 36pt;
     line-height: 48pt;
+    /* changes how numbers look like */
+    font-feature-settings: 'lnum';
 }
 article .author {
     font-family: Pelago;
@@ -216,9 +219,12 @@ article .author {
 article p {
     text-align: justify;
 }
+html:lang(en) article p {
+    text-align: left;
+}
 
 article p + p {
-    margin: 16pt 0;
+    margin: 8pt 0;
 }
 
 .author + p {

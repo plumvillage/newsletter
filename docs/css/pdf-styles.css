@@ -30,10 +30,6 @@ body {
     }
 }
 
-/* img {
-    max-width: 100%;
-} */
-
 .front-cover, .front-collage, .back-collage, .back-cover {
     width: calc(var(--pagedjs-pagebox-width));
     height: calc(var(--pagedjs-pagebox-height));
@@ -186,6 +182,7 @@ a.xref::after {
 /* LTLM design */
 article {
     columns: 2;
+    break-after: page;
     column-gap: 16pt
 }
 
@@ -205,9 +202,11 @@ article h1 {
     /* font-weight: bolder; */
     font-size: 36pt;
     line-height: 48pt;
+    /* changes how numbers look like */
+    font-feature-settings: 'lnum';
 }
 article .author {
-    font-family: Pelago;
+    font-family: Open Sans;
     font-weight: 600;
     font-size: 14pt;
     line-height: 16pt;
@@ -216,9 +215,12 @@ article .author {
 article p {
     text-align: justify;
 }
+html:lang(en) article p {
+    text-align: left;
+}
 
 article p + p {
-    margin: 16pt 0;
+    margin: 8pt 0;
 }
 
 .author + p {

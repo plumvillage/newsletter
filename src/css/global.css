@@ -141,3 +141,75 @@ https://lingdata.org/archives/fonts.html
 span:lang(zh) {
     font-family: "HK-Kai";
 }
+
+
+
+
+@font-face {
+    font-family: "Open Sans";
+    src: url("fonts/fonts/OpenSans-Light.woff2") format("woff2");
+    font-weight: 100;
+}
+@font-face {
+    font-family: "Open Sans";
+    src: url("fonts/fonts/OpenSans-LightItalic.woff2") format("woff2");
+    font-weight: 100;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Open Sans";
+    src: url("fonts/fonts/OpenSans-Regular.woff2") format("woff2");
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Open Sans";
+    src: url("fonts/fonts/OpenSans-Italic.woff2") format("woff2");
+    font-weight: 400;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Open Sans";
+    src: url("fonts/fonts/OpenSans-Semibold.woff2") format("woff2");
+    font-weight: 500;
+}
+@font-face {
+    font-family: "Open Sans";
+    src: url("fonts/fonts/OpenSans-Bold.woff2") format("woff2");
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Open Sans";
+    src: url("fonts/fonts/OpenSans-BoldItalic.woff2") format("woff2");
+    font-weight: 700;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Open Sans";
+    src: url("fonts/fonts/OpenSans-ExtraBold.woff2") format("woff2");
+    font-weight: 800;
+}
+@font-face {
+    font-family: "Open Sans";
+    src: url("fonts/fonts/OpenSans-ExtraBoldItalic.woff2") format("woff2");
+    font-weight: 800;
+    font-style: italic;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+fonts/OpenSans-SemiboldItalic.woff2
