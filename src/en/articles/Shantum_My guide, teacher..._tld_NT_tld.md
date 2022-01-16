@@ -41,15 +41,13 @@ In fact, when I did marry, he conducted the commitment ceremony himself. We only
 
 He asked us to repeat every full moon night the vows of love that he had just given us, and we have never missed doing that for a single full moon night in the last 25 years. It has been a regular reminder of our vows and deepened our trust and understanding of each other. It has also been a wonderful way of enjoying the moon together and being aware of its cycle.
 
-
-
 Gitu and I had been married nearly a year when Thay visited India again with a group of about 12 monastics. While we were in the village of Sujata, near Bodh Gaya, we visited a school where a large number of people from the village gathered. Thay was teaching how to help people communicate.
 
 Gitu and I were sitting next to him and he turned to Gitu and asked, what is it that irritates you or gets you angry about Shantum? He asked her to act it out and speak openly in front of the village audience of more than a 100 people. Gitu felt embarrassed to answer, but Thay encouraged her, saying that this would be a teaching to help in skillful communication. He suggested that Gitu use compassionate speech. So we did what we call “Dharma drama”! She said to me in a sweet way how it irritates her that I come late to meal times and allow the food to get cold. It was something many young women could relate to, she felt. Thay suggested to me that I do not react or say anything as an immediate response to what Gitu was sharing, and instead, to listen deeply; to know that it was important for Gitu to be able to share her irritation and for me to listen with my full attention, and to try and listen with a non-judgemental mind.
 
 It was very touching. I am not sure what the others gleaned from this, but it taught me not only that I should not be late for meals and make people wait for me, but also to listen deeply and voice my appreciation for Gitu. It is not something that came easily to me being brought up in an Indian culture.
 
-Afterwards as I sat with Thay in his room sharing a cup of oolong tea that he loved, I brought this up, hoping he may be able to cure me of the habit. I asked him rather naively “Thay I am always late….what should I do?” His response was terse... “Leave early!”
+Afterwards as I sat with Thay in his room sharing a cup of oolong tea that he loved, I brought this up, hoping he may be able to cure me of the habit. I asked him rather naively “Thay I am always late….what should I do?” His response was terse… “Leave early!”
 
 Gitu and I were with Thay in 1999 while he was on a tour in the US. One day Thay came up to me and told me that my name had been recommended to be ordained as a Dharmacharya. This would mean that I would now be ‘transmitted the lamp’ and be authorised to teach as a representative of Thay, who is the 42nd generation of the Chinese Zen Master Linji’s lineage.
 
@@ -70,5 +68,3 @@ After my first pilgrimage with Thay, he had suggested that I organise pilgrimage
 Since my first pilgrimage with Thay, I have made it a point to go and stay with Thay for about a month each year, wherever he was; whether in Plum Village or in some other country where he went to teach. There have been many wonderful interactions with Thay over the years thereafter, especially during his historic trip to India in 2008….but that is another story.
 
 He has been my guide, teacher and wise friend.
-
-

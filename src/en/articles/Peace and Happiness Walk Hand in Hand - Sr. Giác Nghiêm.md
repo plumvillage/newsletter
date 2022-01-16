@@ -19,7 +19,7 @@ On arrival, I met Thay and Sister Cao Fleurette in the garden. This was in 1985.
 
 It was a reunion. I had the joy of meeting them a few months earlier in Lyon, at the home of Dr. Do Trong Le, an acupuncturist friend who invited me to come to his house to listen to the first teaching that our Teacher was giving in French. At that time I was desperately looking for a Teacher to help me on my spiritual path. A profound encounter took place during the teaching when Thay held a sheet of white paper in front of him and said, “In this sheet of paper lies the whole universe.” I was filled with joy, I had found the Teacher I was looking for, the one who could understand me. The Dharma Door was wide open.
 
-When I reread *'Old Path White Clouds'* , I always feel great emotion when Thay writes about Sujata searching for the Buddha in the early morning, and the moment they meet each other...
+When I reread *'Old Path White Clouds'* , I always feel great emotion when Thay writes about Sujata searching for the Buddha in the early morning, and the moment they meet each other… 
 
 My spiritual life resumed its course in peace.
 
@@ -27,7 +27,7 @@ One day during this first retreat, I did not participate in the walking meditati
 
 “What are you doing, Sister Elisabeth?”
 
-“Dear Thay,  since I met you, I have been applying your teachings in the hospital where I work with my patients. I have a very busy life and I don't have time to write about these practices, so today I have chosen to take the time to write about them. Please forgive me.”
+“Dear Thay, since I met you, I have been applying your teachings in the hospital where I work with my patients. I have a very busy life and I don't have time to write about these practices, so today I have chosen to take the time to write about them. Please forgive me.”
 
 “Carry on”, said our Teacher, “and offer me your work.”
 
@@ -35,36 +35,24 @@ From then on, all the mindfulness practices I applied while working in the hospi
 
 Every day we had some working meditation with the Sangha. At that time, Thay printed his teachings and then placed the sheets of the future book on a table. With mindfulness, we walked slowly around the table, collecting the sheets one by one, following our breathing and our steps, before placing at the end of the table the reunited sheets awaiting to be turned into a book. Then we started again, with smiling faces, to give birth to the next book.
 
-*"With one step I breathe in, I take a sheet of paper,* 
-
-*With one step I breathe out, I smile.* 
-
-*With one step I breathe in, a book will be born*
-
-*With one step I breathe out, I smile. ....*
+> “With one step I breathe in, I take a sheet of paper,<br/>
+> With one step I breathe out, I smile.<br/>
+> With one step I breathe in, a book will be born<br/>
+> With one step I breathe out, I smile. … ”
 
 This is an amazing experience from my early practice. I really enjoyed working meditation with the community. Everyone participated, including Thay. One morning a young woman came up to me and asked me to cut some bread “in mindfulness”, she added seriously.
 
-“I breathe in, here's the bread, I breathe out (Heavens, how do you cut bread in nindfulness?), no breathe out....”
+“I breathe in, here's the bread, I breathe out (Heavens, how do you cut bread in mindfulness?), no breathe out…”
 
-Huge doubts arose in me...With this on-going question : '*What does it mean to cut bread in mindfulness*?' The lady came back a while later, nothing had happened...She kindly liberated me from my frozen state of mind. When the intellect dominates, doubt appears…
+Huge doubts arose in me… With this on-going question : '*What does it mean to cut bread in mindfulness*?' The lady came back a while later, nothing had happened… She kindly liberated me from my frozen state of mind. When the intellect dominates, doubt appears…
 
-Plum Village is full of fond memories.
-
-Teaching
-
-Sitting in Peace,
-
-At the feet of Thây,
-
-In the shade of the great venerable oaks
-
-In Lower Hamlet.
-
-Brown heads, blond heads,
-
-Turned towards its light,
-
-The Nectar of Dharma
-
-Trickles down. 
+> Plum Village is full of fond memories.<br/>
+> Teaching<br/>
+> Sitting in Peace,<br/>
+> At the feet of Thây,<br/>
+> In the shade of the great venerable oaks<br/>
+> In Lower Hamlet.<br/>
+> Brown heads, blond heads,<br/>
+> Turned towards its light,<br/>
+> The Nectar of Dharma<br/>
+> Trickles down. 

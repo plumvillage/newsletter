@@ -5,11 +5,11 @@ author: Thầy Chân Minh Hy
 
 Có một giai thoại kể rằng, trong một lần quý thầy đang chuẩn bị đắp y cho lễ tụng giới tại chùa Từ Đàm, Hòa thượng Thiện Siêu quay sang hỏi quý thầy rằng:
 
-- Quý thầy có biết vì răng mình gọi “pháp Bụt cao siêu mầu nhiệm” không?
+> Quý thầy có biết vì răng mình gọi “pháp Bụt cao siêu mầu nhiệm” không?
 
 Đợi một lúc, rồi Ngài nói tiếp:
 
-- Vì nó ở ngay trước mặt quý thầy đó. 
+> Vì nó ở ngay trước mặt quý thầy đó. 
 
 Tôi đã nghe giai thoại ấy trong một lần Hòa thượng chùa Bảo Lâm kể tại Ni xá Diệu Trạm. Câu nói ấy cứ ở mãi trong tôi. Tại sao cái cao siêu mầu nhiệm lại có thể ở trước mặt mình được. Sao mình không thấy. Có phải chăng, chung quanh mình có nhiều thứ bình thường quá đỗi mình không nhận ra. 
 
@@ -23,13 +23,10 @@ Mình cần tập nhìn như thế. Mỗi bước chân đi, mỗi hơi thở, m
 
 Cơm và rau luộc đã trở thành những thứ bình thường có thể do cách mình ăn. Nó đặc biệt thật đó nhưng mình chưa một lần cảm nhận được “hạt cơm là hạt ngọc của trời”. Nếu có một lần mình nâng bát cơm lên, cho phép mình nhìn vào bát cơm với sự trân quý thì lòng biết ơn và hạnh phúc sẽ có mặt ngay trong giây phút ấy. Hạnh phúc sẽ đến rất mau, chỉ trong một hơi thở. Mình sẽ mỉm cười và thấy mình thật may mắn.
 
-“Vạn vật tranh sống 
-
-Trên trái đất này
-
-Nguyện cho tất cả
-
-Có bát cơm đầy.”
+> “Vạn vật tranh sống<br/>
+> Trên trái đất này<br/>
+> Nguyện cho tất cả<br/>
+> Có bát cơm đầy.”
 
 Vậy đó, có những thứ rất quen mà không bao giờ cũ. Mỗi bước chân đi, mỗi hơi thở vào ra, mỗi bát cơm mình ăn mỗi ngày sẽ là những bữa tiệc nếu mình có lòng trân quý. 
 
@@ -38,5 +35,3 @@ Một lần nọ, thầy thị giả của Sư Ông phát hiện thấy hôm nay
 Một giây phút đẹp có thể giúp mọi người làm lớn lên niềm hạnh phúc trong mình là một bữa tiệc mà mình có thể đãi những người thương của mình nhiều lần trong ngày. Nhưng trước hết mình phải có khả năng cảm nhận, có khả năng đãi cho bản thân mình những bữa tiệc như thế. Mình không biết uống trà làm sao có thể đãi cho người bạn đến thăm một ly trà ngon. Một người quá bận rộn khó có thể đãi người khác một giây phút thảnh thơi. 
 
 Hôm nay, bạn có đãi cho mình một giây phút hạnh phúc nào chưa?
-
-

@@ -21,13 +21,10 @@ We need to develop this way of looking. Each step, each breath, each time we rel
 
 Perhaps rice and boiled vegetables have become ordinary due to the way we eat them, especially if we haven’t yet been able to appreciate that “a grain of rice is a jadestone from heaven”. If you allow yourself to look into a bowl of rice in your hand with appreciation, then gratitude and happiness will be born in your heart right in that moment. Happiness will come very quickly, with just one breath. You will smile and know that you are very fortunate.
 
-*“Beings all over the Earth*
-
-*are struggling to live.*
-
-*I aspire to practice deeply*
-
-*so all may have enough to eat.”*
+> “Beings all over the Earth<br/>
+> are struggling to live.<br/>
+> I aspire to practice deeply<br/>
+> so all may have enough to eat.”
 
 (Gatha “Before Eating” - Thich Nhat Hanh, *Stepping into Freedom*.)
 
@@ -38,8 +35,3 @@ One time, Thay’s attendant noticed that Thay was a little different. After giv
 A beautiful moment can help the happiness in people’s hearts grow bigger. Such a moment is a party that we can offer our beloved ones many times a day. But first of all, we need to have the ability to perceive, to feel, and to offer ourselves such parties. If we do not know how to drink tea, how can we offer our friends a good cup of tea? It is very difficult for a busy person to treat others to a relaxing and free moment.
 
 Have you treated yourself today with any happy moments?
-
-
-
-
-PAGE3

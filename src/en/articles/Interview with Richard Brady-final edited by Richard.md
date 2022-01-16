@@ -3,11 +3,11 @@ title: Interview with Richard Brady
 author: Richard Brady
 ---
 
-**Interview with Richard Brady**
+## Interview with Richard Brady 
 
 *Richard (True Dharma Bridge) is a retired high school math teacher, and a lay Dharma teacher in the Plum Village tradition. He is also a retreat leader, writer, educational consultant, and coordinator of the Wake Up Schools Level II Program in North America and he recently wrote a book titled “Walking the Teacher's Path with Mindfulness - Stories for Reflection and Action”. This is an excerpt from a longer interview of Richard conducted by Kaira Jewel Lingo in August 2021, hosted by Wake Up Schools, Plum Village. You may see the full interview at* [*https://youtu.be/o68kYh2N_U4*](https://youtu.be/o68kYh2N_U4)
 
-**Finding the Path of Mindfulness**
+## Finding the Path of Mindfulness 
 
 *Can you tell us some stories about how you found the path of mindfulness and how it has changed you?*
 
@@ -17,11 +17,9 @@ Everyday I began math class reading from the book. When I finished, my students 
 
 That was the beginning of what led me to attend a retreat with Thay. Everything after that unfolded in a way that felt deeply right. It seemed fated.
 
-**Bringing Mindfulness to Students**
+## Bringing Mindfulness to Students 
 
-`	`*Can you share more about how, as you were beginning to walk this path, you began to bring meditation into your community and classroom and also about the effects of sharing mindfulness with your students.*
-
-
+*Can you share more about how, as you were beginning to walk this path, you began to bring meditation into your community and classroom and also about the effects of sharing mindfulness with your students.*
 
 When I met Thay and began my personal meditation practice, I was not ready to bring the practice into the Quaker school  where I was teaching. I didn't see an opening for doing that. My own mindfulness practice was still very young. I focused my attention primarily on developing it. A few years later a new course was set up and required for all ninth grade students for one semester. Discovering it had a unit on health, I went to the teacher who was teaching the course and asked if I could offer one lesson on stress-reduction. When she said yes, I developed a lesson plan for teaching the ninth graders. I would have them for only 45 minutes. I knew whatever I did needed to be memorable. What were the students really interested in? I remembered from Frank McCourt’s book *Teacher Man*, (a book about the life of a teacher in inner city public schools) where he suggested that his high school students were interested in sex and food. When I thought about the teenagers I’d be teaching, I added one more thing, they were deeply interested in themselves. They were 14-year-olds trying to figure out who they were. What about introducing them to their minds?
 
@@ -39,11 +37,11 @@ When students returned [sometimes years later], some talked about remembering so
 
 In my last two years of teaching I took the step of getting permission from the school principal to begin every one of my classes with five minutes of mindfulness. Sometimes we read a short poem or story having wisdom and intelligence from Thay or another teacher or poet. There was also weekly free writing where we all just recorded whatever was in our minds for five minutes. It was a revolutionary experience for many of the students. They wrote to me at the end of the year to tell me about important breakthroughs or things they had learned, sometimes from themselves, in the course of these writing meditations.
 
-**Mindfulness and Mathematics**
+## Mindfulness and Mathematics 
 
-`	`*How did you connect mindfulness with math in your teaching?*
+*How did you connect mindfulness with math in your teaching?*
 
-`	`Connecting mindfulness with math was initially quite a challenge because math focuses on analyzing and getting answers. It’s oriented towards an endpoint. Mindfulness, on the other hand,  is about being present in the moment to whatever is there. What was important to me at this point in my teaching was that students learn how to sit with a problem even though they didn’t have an answer for it or even have a method to solve it – just sit with it without feeling they were going to be penalized if they didn’t end up with an answer. 
+Connecting mindfulness with math was initially quite a challenge because math focuses on analyzing and getting answers. It’s oriented towards an endpoint. Mindfulness, on the other hand,  is about being present in the moment to whatever is there. What was important to me at this point in my teaching was that students learn how to sit with a problem even though they didn’t have an answer for it or even have a method to solve it – just sit with it without feeling they were going to be penalized if they didn’t end up with an answer. 
 
 In fact, I would sometimes ask them, “What questions do you have as you look at this problem – what comes to your mind?” I wanted them to learn to reflect, to see that they could just sit with something and have questions occur to them. This was not an easy transition for students used to coming up with answers but unfamiliar with coming up with questions. 
 
@@ -53,11 +51,11 @@ Before taking tests, I invited students to do five minutes of meditation. The fi
 
 Next we would turn our attention to something mathematical we had done in our life that we felt proud of or happy about. It might be when we learned to count to 10, solved a hard problem, or finally understood a difficult concept. We closed our eyes, and sat with that feeling, knowing that we have in us many positive experiences with math which are there even if we also have feelings of concern right now. If during the test they reached a point where they started to blank out or something similar, I asked them to just close their eyes and go back to that moment that they had thought of earlier when they felt very happy with mathematics and their relationship to it.*	
 
-**The Aspiration to Help Teachers**
+## The Aspiration to Help Teachers 
 
-`	`*What is your aspiration in sharing mindfulness with educators, especially in this wonderful new book? What are you hoping educators will come away with from a retreat or from reading this book?*
+*What is your aspiration in sharing mindfulness with educators, especially in this wonderful new book? What are you hoping educators will come away with from a retreat or from reading this book?*
 
-`	`At my high school I was in the position of being the only teacher with a mindfulness practice who found skillful ways of sharing mindfulness with students. I now see that the most important ways I shared mindfulness with my students were the changes in my own approach to teaching. The fact was, I now took my time, and I  asked students to take their time with what they were doing. 
+At my high school I was in the position of being the only teacher with a mindfulness practice who found skillful ways of sharing mindfulness with students. I now see that the most important ways I shared mindfulness with my students were the changes in my own approach to teaching. The fact was, I now took my time, and I  asked students to take their time with what they were doing. 
 
 Eventually I began courses by giving students five minutes to eat a single raisin. We talked about how to eat the raisin and bring our full awareness to what was happening. I suggested that was how I wanted them to do their homework, not to rush through it in order to finish the assignment, but to spend 30-40 minutes on their homework even if they didn’t finish it. The way they did it was more important than how much they did.
 
@@ -65,11 +63,9 @@ In writing my book, I wanted to give teachers a sense of their own agency in cho
 
 I recently wrote an exercise called “free at work.” It was for anyone who works, and for teachers in particular, to help them meditate on their experience of working and their experience of freedom or lack of freedom and begin to see that most of the barriers to feeling free at work are internal barriers. If teachers start to practice in a way which enables them to have a different relationship with the so-called barriers inside of themselves, the kind of teaching they are doing will be greatly affected and likely become much more powerful. That’s what I want for teachers to get from the book. 
 
-**Connecting Teachers**
+## Connecting Teachers 
 
-
-
-`	`The Mindfulness in Education Network has over a thousand members all over the world. They’re focused on young people of different ages, on different subjects, on higher education, the arts, yoga etc., using all kinds of different approaches. As an early leader in this field, I would often get questions from other teachers asking me for advice on how to deal with a problem involving mindfulness. I could answer only a few of the questions from my own experience. When I knew I didn’t have a very helpful response for a particular question, I would invite the person who’d submitted it to me to go to the Mindfulness in Education Network website, join the listserv, and post their question. It was surprising and wonderful to see the wisdom that was available to answer the questions.
+The Mindfulness in Education Network has over a thousand members all over the world. They’re focused on young people of different ages, on different subjects, on higher education, the arts, yoga etc., using all kinds of different approaches. As an early leader in this field, I would often get questions from other teachers asking me for advice on how to deal with a problem involving mindfulness. I could answer only a few of the questions from my own experience. When I knew I didn’t have a very helpful response for a particular question, I would invite the person who’d submitted it to me to go to the Mindfulness in Education Network website, join the listserv, and post their question. It was surprising and wonderful to see the wisdom that was available to answer the questions.
 
 
 

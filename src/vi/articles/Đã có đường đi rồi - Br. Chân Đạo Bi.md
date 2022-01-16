@@ -9,13 +9,13 @@ Khi còn trẻ, tôi không biết mình thật sự muốn làm điều gì cho
 
 Chúng tôi thành lập nhóm Wake Up Indonesia sau khoá tu 2010. Nhờ chương trình này mà rất nhiều bạn trẻ tìm lại được chính mình. Năm 2013, tôi cùng vài người bạn đến Thái Lan tham dự khoá tu Wake Up do chính Thầy hướng dẫn. Trong buổi sinh hoạt cuối cùng, tôi thấy trên màn hình máy chiếu có dòng thư pháp “Đã có đường đi rồi, con không còn lo sợ” lướt qua. Tôi như nghe được lời Thầy đang khích lệ, vỗ về: không phải là thấy Thầy trong hình hài này đâu, quan trọng là con phải thấy được con đường. Có lẽ tôi đã sợ một ngày nào đó Thầy sẽ không còn bên tôi nữa. Thông điệp trong bức thư pháp đã làm tôi rúng động và hai dòng nước mắt cứ thế lăn dài trên má. 
 
-**Con đường của tình thương**
+## Con đường của tình thương
 
 Thầy đặt cho tôi** pháp tự Chân Trời Đạo Bi. Bi trong chữ Từ Bi, nghĩa là tình thương sâu. Pháp tự này nhắc cho tôi nhớ sự thực tập là để giúp mình thấy được con đường của tình thương sâu. Trong tác phẩm *Đường xưa mây trắng* có một chương như thế. Tôi đã đọc đi đọc lại không biết bao nhiêu lần và nó trở thành chương yêu thích nhất của tôi. Chuyện kể về Siddharta và Yasodhara khi còn làm công tác xã hội. Yasodhara đã tận tình chăm sóc cho em bé bị ốm hơn một tuần mà đứa trẻ vẫn không qua khỏi, nàng đau xót vô hạn. Những lời an ủi của Siddharta cũng không thể nào xoa dịu được nỗi buồn trong lòng nàng. Cả hai người dù có giúp được dân chúng phần nào về vật chất, nhưng nỗi khổ niềm đau trong trái tim họ không vì thế mà nguôi ngoai. Không có ai chỉ cho họ cách vượt qua những cảm xúc đang giằng xé trong lòng hai người. Siddharta chưa tìm ra con đường thoát khổ. Chỉ đến khi Siddharta trở thành một bậc giác ngộ thì chàng mới giúp được người khác thoát khỏi những khổ đau trong tâm hồn. 
 
 Trước khi xuất gia, tôi cũng là một tác viên xã hội, cũng chất chứa trong lòng khá nhiều thương tích. Những thương tích ấy đang trên đường được trị liệu. Thầy đã dạy khổ đau là chất liệu làm nên hạnh phúc. Nhờ đó mà tôi đã thấy được chính những tổn thương trong quá khứ đang nuôi dưỡng cho hiểu biết và thương yêu trong tôi ngày một lớn hơn. Chỉ cần ý thức mình đang bước đi trên con đường ấy, ngay lập tức tôi cảm thấy mình thật may mắn. Khi tình thương có mặt thì hạnh phúc có mặt và mình sẽ không còn sợ hãi nữa. Câu thần chú của tôi là: “Thở vào, đã có đường đi rồi. Thở ra, con không còn lo sợ”. 
 
-**Nhìn Thầy bằng con mắt vô tướng**
+## Nhìn Thầy bằng con mắt vô tướng
 
 Tôi cứ tiếc sao mình không đến Làng sớm hơn, sao mình không xuất gia lúc Thầy còn khỏe để được nghe những lời khuyên nhủ, sách tấn trực tiếp từ Thầy. Khi tôi đến Làng, Thầy không còn dùng lời nói mà chỉ dùng thân giáo. Trên chiếc xe lăn, Thầy vẫn tham dự thiền hành cùng tăng thân. Thầy chỉ tay lên trời, chỉ vào một thân cây, một nụ hoa ven đường - những nhiệm mầu của sự sống quanh đây. Thầy nâng một chiếc lá với cử chỉ tinh nghịch, khiến cho mọi người cười vang. Thầy xoa mái đầu của một đệ tử rồi ôm đệ tử vào lòng. Chúng tôi đứng nhìn hình ảnh ấy mà cảm thấy như Thầy đang xoa mái đầu mình, thấy ấm áp trong vòng tay Thầy. Thầy không còn dùng nữa ngôn từ thế gian, nhưng chỉ cần Thầy có mặt ở đó là đủ để chúng tôi hạnh phúc. Thỉnh thoảng, trong giấc mơ, tôi còn được thưa chuyện với Thầy. Được làm đệ tử của Thầy, được sinh ra trong đại gia đình tâm linh Làng Mai đã là một diễm phúc quá lớn. 
 
@@ -25,7 +25,7 @@ Thầy đã viết rất nhiều thư cho đệ tử. Trong một lá thư Thầ
 
 “Mình thấy được con đường chưa?” là một công án vẫn theo tôi trên suốt chặng đường. Thỉnh thoảng tôi tự hỏi bản thân nhưng cũng không chắc câu trả lời. Tôi biết mình còn lắm niềm đau, buồn phiền và sợ hãi. Tuy vậy, mỗi khi khi tiếng chuông vang lên, tôi thầm niệm “nghe chuông phiền não tan mây khói”, tôi biết nỗi sợ cùng niềm đau trong tôi đang dần được chuyển hóa.
 
-**Ban chăm sóc nhóm Wake Up châu Âu**
+## Ban chăm sóc nhóm Wake Up châu Âu
 
 Năm 2018, khóa tu Đại sứ Wake Up (Wake Up Ambassadors retreat) đầu tiên được tổ chức tại Làng Mai. Trong khóa này, để được vui chơi, gắn kết và học hỏi lẫn nhau, chúng tôi đã thành lập nhóm nòng cốt cho Wake Up châu Âu với tên gọi mới là ‘Oomph” (viết tắt của *Organism for Optimising Many People’s Happiness*, nghĩa là một cơ thể có nhiệm vụ làm cho nhiều người hạnh phúc). 
 
@@ -35,11 +35,11 @@ Hiện tại Oomph có các thành viên: Annica Bauer, Verena Böttcher, Toos V
 
 Ba tháng một lần, vào tối thứ Năm hoặc Chủ nhật, chúng tôi sẽ gặp trực tuyến với đại diện của các nhóm Wake Up tại châu Âu. Các anh chị em xuất sĩ tại Làng Mai sử dụng tối làm biếng của mình để sinh hoạt với các bạn. Có khi tôi hơi mệt sau một ngày quán niệm nhưng khi tham gia cùng mọi người tôi lại cảm thấy như mình đang trở về nhà, gặp người thân trong phòng khách rồi thăm hỏi lẫn nhau “chị khỏe không? Em vui không? Công việc ổn định không?” Các bạn chia sẻ những khó khăn trong cuộc sống và ngược lại, quý thầy, quý sư cô cũng cởi mở sẻ chia những chông gai mà xuất sĩ gặp phải trong môi trường tu viện. Có khi chúng tôi còn ngẫu hứng cùng hát múa, nghe đàn hoặc bày ra vài trò chơi nho nhỏ để thay đổi không khí. Cứ như vậy, tình anh chị em giữa chúng tôi ngày thêm gắn bó, bền chặt. 
 
-**Nhóm Wake Up Trì Địa (Wake Up Earth Holder)**
+## Nhóm Wake Up Trì Địa (Wake Up Earth Holder)
 
 Tháng 5 năm 2020, Làng Mai tổ chức khóa tu Wake Up trực tuyến. Đề tài bảo vệ môi trường trở thành mối quan tâm chính của 250 bạn trẻ tham dự khóa tu. Ý thức được nhu yếu đó, quý thầy, quý sư cô đã thành lập tăng thân Trì Địa cho các bạn sống tại châu Âu. Khởi đầu nhóm nòng cốt có sự góp mặt của thầy Trời Đức Niệm, quý sư cô Tảo Nghiêm, Trăng Lộc Uyển, Trăng Giác Hòa, Trăng Khương Định cùng các bạn Simona Coayla-Duba, Aoise, Gijs, Alex và tôi. Các thành viên gặp nhau trực tuyến mỗi tháng một lần. Dần dà còn có thêm các bạn trẻ trong các nhóm Wake Up châu Âu, châu Mỹ, châu Á cùng tham gia. Mỗi lần gặp mặt là mỗi lần niềm vui và nước mắt được sẻ chia, cũng từ đó mà chúng tôi tìm ra cách nâng đỡ nhau trong khả năng có thể. Cứ thế, tình thương dành cho đất Mẹ trở nên sâu đậm hơn trong trái tim mỗi người.
 
-**Xây dựng Wake Up là xây dựng tình huynh đệ**
+## Xây dựng Wake Up là xây dựng tình huynh đệ
 
 Những anh chị em xuất sĩ phụ trách nhóm Wake Up vẫn thường nhắc nhở nhau rằng dù chúng tôi có làm gì cho Wake Up hay phụ trách công việc nào trong tăng thân thì việc đó cũng chỉ nhằm xây dựng tình huynh đệ. Sư cô Trăng Lộc Uyển có lần chia sẻ: nếu các thành viên trong nhóm thương mến nhau như anh chị em một nhà, có khả năng làm việc hài hòa với nhau thì việc gì mình cũng làm được. Các bạn trẻ sẽ có cảm hứng và niềm tin để thực tập theo mình. 
 
@@ -47,26 +47,16 @@ Tôi chưa tới 35 tuổi nên vẫn còn được sinh hoạt với nhóm Wake
 
 Trong bài kệ chúc tán, tôi vô cùng tâm đắc câu:
 
-*Hiện tiền đại chúng
-Tu tập tinh chuyên
-Biết thương yêu nhau như ruột thịt…*
+> *Hiện tiền đại chúng</br>
+> Tu tập tinh chuyên</br>
+> Biết thương yêu nhau như ruột thịt…*
 
 Mỗi lần đọc tụng đến câu này thì lòng tôi lại xúc động. Bởi đó cũng chính là tâm nguyện của tôi khi bước trên con đường này - tu học thật hạnh phúc cùng với người trẻ, hết lòng thương yêu và nâng đỡ mọi người xung quanh. Tôi muốn các bạn trẻ thấy rằng sự thực tập có thể rất vui, chứ không cần phải quá nghiêm túc như các bạn vẫn nghĩ. Tu học khá là vui! 
 
-**Bụt và Thầy đã chỉ cho ta một con đường**
+## Bụt và Thầy đã chỉ cho ta một con đường
 
 Thầy và tăng thân đã làm mới đạo Bụt, làm cho đạo Bụt gần gũi hơn với người trẻ. Phong trào Wake Up là một phần của cuộc cách mạng ấy. Wake Up đã trở thành nơi nương tựa tinh thần, là sân chơi tâm linh, thu hút rất nhiều người trẻ khắp nơi trên thế giới. Wake Up là viên ngọc của truyền thống Làng Mai. Những buổi pháp đàm với các bạn trẻ trong nhóm Wake Up là những giây phút hết sức quý báu. Tôi được lắng nghe những kinh nghiệm của mọi người, học cách các bạn áp dụng sự thực tập vào đời sống hàng ngày, được chia sẻ sự tu tập của mình. Và đó cũng là cơ hội cho những cái thấy mới nảy mầm. 
 
 Trong tác phẩm *Đường xưa mây trắng*, có đoạn nói về tôn giả Ananda. Tôn giả vẫn chưa giác ngộ mà Bụt thì không còn trụ thế được bao lâu nữa. Thấy Anada sụt sùi, Bụt ân cần căn dặn tôn giả: *“Ananda, đừng buồn khổ nữa, Như Lai đã từng nhắc thầy là vạn pháp vô thường, có sinh thì có diệt, có thành thì có hoại, có hợp thì có tan. Làm sao có sinh mà không có diệt cho được? Làm sao có thành mà không có hoại cho được? Làm sao có hợp mà không có tan cho được? Ananda, mấy mươi năm nay thầy đã thân cận Như Lai, săn sóc Như Lai với tất cả tấm lòng thương mến của thầy. Thầy đã đem hết lòng hết sức để giúp đỡ Như Lai, Như Lai rất cám ơn thầy, công đức của thầy rất lớn nhưng Ananda, thầy có thể đi xa hơn, nếu thầy cố gắng thêm chút nữa thì thầy sẽ thoát được sinh tử, đạt tới tự do, và vượt thoát mọi sầu khổ và bi ai”.* 
 
 Đọc những dòng này, tôi càng vững tâm, rằng chúng ta vẫn có thể đạt được giải thoát dù không được các bậc đạo sư giác ngộ trực tiếp dìu dắt. Biết đâu, vì Thầy đang ở Việt Nam mà chúng ta có thêm động lực để tu học chuyên cần hơn. Tôn giả Ananda đạt ngộ sau khi Bụt nhập Niết Bàn thì có lẽ chúng ta cũng có thể vượt thoát sinh tử dù Thầy không còn ở đây trong hình hài này nữa. Thầy đã chỉ cho chúng ta con đường hiểu và thương, đã khai mở tâm trí cho biết bao nhiêu người trên khắp năm châu. Tôi đã nguyện với lòng sẽ tiếp tục bước đi trên con đường này và giúp cho người khác nếm được an vui. Tôi biết hạnh phúc lớn nhất của Thầy là thấy đệ tử của mình thực hiện được mong mỏi ấy. Thầy đã đặt niềm tin vào tất cả chúng ta. 
-
-
-
-
-
-
-
-
-
-
