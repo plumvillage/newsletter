@@ -19,16 +19,16 @@ body {
     /* chrome needs to have --pagedjs-margin-top set manually, otherwise it yields different results */
     margin-top: 32pt;
     --pagedjs-margin-top: 32pt;
-    margin-bottom: 64pt;
+    margin-bottom: 40pt;
     marks: crop;
     bleed: 5mm;
     /* this breaks pagedjs */
     /* bleed: var(--bleed); */
-    @footnotes {
-        /* padding-top: 8pt; */
+    @footnote {
+        padding-top: 8pt;
         float: bottom;
     }
-  }
+}
 
 @page:first {
     @bottom-right {
@@ -109,17 +109,26 @@ figcaption::before {
     content: counter(chapternum) "-" counter(figurenum) ". ";
 }
 
-.fn {
+/* .note {
+    position: note(notes);
+} */
+
+/* @page {
+    @note-area { 
+        content: element(notes, all-once);
+    }
+} */
+
+.note {
     float: footnote;
     counter-increment: footnote;
-
 }
 
-.fn::footnote-call {
+.note::footnote-call {
     content: counter(footnote);
 }
 
-.fn::footnote-marker {
+.note::footnote-marker {
     font-weight: bold;
     border-top: 0.6pt solid black;
 }
@@ -202,8 +211,9 @@ article h1 {
 article .author {
     font-family: "Open Sans";
     font-weight: 500;
-    font-size: 14pt;
+    font-size: 13pt;
     line-height: 16pt;
+    font-variant: small-caps;
 }
 
 article p {
@@ -218,7 +228,7 @@ article p + p {
 }
 
 .author + p {
-    margin-top: 0;
+    margin-top: 3mm;
 }
 
 img#ThayTalk {

@@ -3,9 +3,9 @@ title: Returning to Lower Hamlet
 author: Sư cô Chân Đức
 ---
 
-I arrived in Plum Village on the first of July 1986. A lay friend driving an old yellow Quatrelle picked me up at Sainte-Foy-La-Grande station. Three months earlier when Thay was in England at the invitation of myself and some friends at the Buddhist Peace Fellowship, he had suggested I come to Plum Village for a month. When I arrived in Upper Hamlet, Thay was sitting in a hammock, which was always slung between two trees opposite the *Stone Building*. He was wearing grey *ao vat ho[^1]* because it was a very hot day.
+I arrived in Plum Village on the first of July 1986. A lay friend driving an old yellow Quatrelle picked me up at Sainte-Foy-La-Grande station. Three months earlier when Thay was in England at the invitation of myself and some friends at the Buddhist Peace Fellowship, he had suggested I come to Plum Village for a month. When I arrived in Upper Hamlet, Thay was sitting in a hammock, which was always slung between two trees opposite the *Stone Building*. He was wearing grey *ao vat ho*<span class="note">Traditional Vietnamese short robes worn by monastic practitioners</span> because it was a very hot day.
 
-When I joined my palms to greet Thay, he said: “Here is India. India is Here.” I did not understand and I thought Thay meant: “The weather is very hot here, like in India.” Later, on reflection, I realised Thay meant something like: “My child, this is your spiritual home. You do not need to go to India to find your home.” Thay told me later that this was a quotation from a poem by the Vietnamese meditation master Vô Ngôn Thông of the 9th Century[^2].
+When I joined my palms to greet Thay, he said: “Here is India. India is Here.” I did not understand and I thought Thay meant: “The weather is very hot here, like in India.” Later, on reflection, I realised Thay meant something like: “My child, this is your spiritual home. You do not need to go to India to find your home.” Thay told me later that this was a quotation from a poem by the Vietnamese meditation master Vô Ngôn Thông of the 9th Century<span class="note">Tây Thiên thử độ, thử độ Tây Thiên (<span lang="zh">西天此度，此度西天  - 無言通禪師</span>)</span>.
 
 My first impression was how relaxed and relaxing the Upper Hamlet was. It was two weeks before the annual Summer Opening and preparations were being made in such a joyful and leisurely way. A bed had been prepared for me in a room whose name over the lintel was “Young Moon”. The bed consisted of four bricks, which supported at each corner a plank of conglomerate wood, covered by a thin piece of form. In the following days I helped prepare beds like that for the guests who were to come.
 
@@ -75,14 +75,3 @@ Sometimes as an elder sister I need to be a teacher for my younger siblings. I n
 Touching the earth in boundless gratitude,
 
 your child chan duc.
-
-
-<!-- Footnotes are not supported in eleventy. https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#footnotes
-TODO:
-https://www.markllobrera.com/posts/eleventy-markdown-and-footnotes/
- -->
-***Footnotes***
-
-
-[^1]: Traditional Vietnamese short robes worn by monastic practitioners
-[^2]: Tây Thiên thử độ, thử độ Tây Thiên (<span lang="zh">西天此度，此度西天  - 無言通禪師</span>)
