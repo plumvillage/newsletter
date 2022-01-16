@@ -228,17 +228,21 @@ article p + p {
 img#ThayTalk {
     position: absolute;
     z-index: -1;
-    /* does not work: hmm. */
-    /* width: calc(var(--pagedjs-pagebox-width)); */
-    width: 210mm;
-    top: calc((var(--pagedjs-margin-top))*-1);
-    left: calc((var(--pagedjs-margin-left))*-1);
-    /* right: calc(var(--pagedjs-pagebox-width) + var(--pagedjs-margin-right)); */
-    right: 210mm;
+    width: calc(var(--pagedjs-pagebox-width) + (var(--bleed)) * 2);
+
+    /* this means anchor image at horizontal centerpoint, rather then left */
+    left: 50%; 
+    transform: translate(-50%, 0); 
+
+    top: calc((var(--pagedjs-margin-top) + var(--bleed))*-1);
+    /* left: calc((var(--pagedjs-margin-left) + var(--bleed))*-1); */
     overflow: visible;
 }
 
-#ch1 {
-    text-shadow: var(--color-sanghati-light) 2px 0 5px;
+/* style='--pagedjs-string-first-doctitle: "Tăng Thân Đích Thực"; --pagedjs-string-last-doctitle: "Tăng Thân Đích Thực"; */
+html:lang(vi) #ch1 {
+    text-shadow: /* stacking */
+        var(--color-sanghati-light) 1px 0 5px,
+        var(--color-sanghati-light) 1px 0 20px;
     margin-top: 83mm;
 }
