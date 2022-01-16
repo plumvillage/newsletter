@@ -26,4 +26,3 @@ Nhớ hôm nào, chúng tôi ăn mừng Làng Mai hai mươi tuổi. Năm ấy, 
 Trên con đường đến thiền đường Đại Đồng, tôi thấy tăng xá của quý thầy đã lên đèn màu rất đẹp. Mùa Giáng sinh đang về, các sư em đang treo đèn đón mừng, không khí sinh động như chưa từng hiện hữu một tang lễ vừa mới xảy ra mấy ngày trước đây. Bóng thời gian!
 
 Mới hôm qua đây, tôi còn thấy Thầy đang ngồi trên bục giảng pháp. Mới hôm qua đây, tôi thấy mình đang giúp Thầy bón phân cho cây cúc đại đoá. Mới hôm qua đây, tôi thấy mình cùng với phái đoàn đi từng bước chánh niệm sau lưng Thầy lên đỉnh núi Linh Thứu… Bây giờ tất cả như là giấc mộng đẹp. Tôi phải chấp nhận sự đổi thay để thấy có những cái không bao giờ thay đổi. Đó là tình thầy trò, là tình huynh đệ, là bồ đề tâm, những điều này sẽ sống mãi trong lòng tôi, kiếp này cho đến mãi những kiếp về sau.
-

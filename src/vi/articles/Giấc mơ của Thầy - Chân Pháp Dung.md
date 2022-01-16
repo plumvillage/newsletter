@@ -31,7 +31,4 @@ Trong lúc dừng lại, các bạn có thể nhắm mắt và thầm đọc bà
 
 Năng lượng mà chúng ta tạo ra trong không gian vẫn luôn có đó mà không hề mất đi. Những tư tưởng mang lòng yêu thương và sự chấp nhận trong lòng chúng ta cũng vậy. Một gợn sóng nhỏ trên mặt hồ cũng tạo ảnh hưởng đến xung quanh.
 
-Vì vậy, tôi xin mời các bạn hãy cùng chúng tôi duy trì nguồn năng lượng tập thể tích cực này để chúng ta thay đổi những năng lượng tiêu cực đang hiện hữu ngoài kia. Hãy giữ cho con tim ta đủ sức mạnh để ôm lấy những giận dữ đang có mặt trong cuộc đời. Cùng nhau, chúng ta có thể xây dựng được một cộng đồng đầy yêu thương, mang đến sự đổi thay và góp phần vào sự thức tỉnh chung của toàn nhân loại. 
-
-
-
+Vì vậy, tôi xin mời các bạn hãy cùng chúng tôi duy trì nguồn năng lượng tập thể tích cực này để chúng ta thay đổi những năng lượng tiêu cực đang hiện hữu ngoài kia. Hãy giữ cho con tim ta đủ sức mạnh để ôm lấy những giận dữ đang có mặt trong cuộc đời. Cùng nhau, chúng ta có thể xây dựng được một cộng đồng đầy yêu thương, mang đến sự đổi thay và góp phần vào sự thức tỉnh chung của toàn nhân loại.

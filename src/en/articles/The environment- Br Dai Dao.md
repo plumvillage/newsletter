@@ -3,7 +3,7 @@ title: The environment – what can we do?
 author: Br. Dai Dao
 ---
 
-**Workshops on the Environment**
+## Workshops on the Environment 
 
 I love Mother earth, and I cannot look at documentaries on the environment crisis without feeling despair and powerlessness. It was with this backdrop that a chain of events happened which empowered me not to give up hope but to do what we can, where we are, with what we have got, to help Mother earth. Perhaps Mother earth can be a verb as well as a noun, perhaps we have to nurture and care for the land that is looking up at us needing our love.
 
@@ -15,8 +15,7 @@ The workshops showed us what happened next, and so we saw that vast amounts of t
 
 When we study the ten links we see that through our ignorance we see things as separate formations and we do not see the interrelation between things. We see a log on the fire but we do not see the chainsaw that cut it up or the fossil fuels burnt in that cutting action. We see a tee-shirt but not the amount of water that was used to make it. It is also easy for us to get rid of things and not concern ourselves about what will become of them or our planet as a result. Can we see the future of the packaging of items we order or buy in the shop? It is hard to include its continuation in our choice of each item. 
 
-
-**Harvesting rainwater**
+## Harvesting rainwater 
 
 During those workshops we had one group focus on water and how much water we use unnecessarily. Our revolution began right there. I slowly began to notice that we had several large rainwater collectors lying around and not being used. Little by little we started collecting them to gutters and before long we had 5 rainwater collectors harvesting a total of 2,500 litres of rainwater. It cost us almost nothing just our labour since we had pipes salvaged from reconstruction projects. 
 
@@ -26,12 +25,11 @@ What are we doing with all that water? If you are planting trees it is very conv
 
 Two other collectors were set up to take the run off rainwater from our barn’s roof. We use this to process our waste cardboard and to water the flowers in the garden.
 
-**Driving less**
+## Driving less 
 
 When we looked at what kind of waste we were driving in our fossil fuel burning van to the local recycling centre we found that it was mostly cardboard and glass. Not only were we driving this cardboard and glass to the recycling centre while burning diesel, but it was not being processed there. So it would all go on another fossil fuel burning journey to a bigger centre to be processed. I like cycling and decided to cycle all the glass up to the nearby bottle bank in Puyguilhem at the top of the hill. This is good for my health, good for the environment and empowering me to feel I am doing something to help.
 
-
-**Composting and making cardboard logs**
+## Composting and making cardboard logs 
 
 Now we shred some of the cardboard by hand and add it to weeds or grass cuttings to make a rich compost which we store in empty rice sacks of which we have a regular supply from the garden. Witnessing this alchemy of turning grass and cardboard to air the mix and seeing the red worms come and eventually the pile transformed into dark brown compost is very fulfilling. 
 
@@ -41,7 +39,7 @@ At first the logs were too long so they either bent over or comically slumped in
 
 This synergy of rainwater harvesting, and cardboard, sawdust and garden waste recycling turns a lot of waste into useful things, keeps us warm and helps us grow trees and plants. We also reduce the amount of wooden logs we need and thereby the amount of chainsaw use and produce less smoke particles from our chimneys. Also the seasons affect everything so it’s harder to make compost in midwinter as there is no green stuff to mix in and the temperature is cold. In autumn the rains make it very easy.
 
-**Repurposing containers – Introducing the tetrapot**
+## Repurposing containers – Introducing the tetrapot 
 
 For two years we struggled to find a solution to the vast numbers of tetrapaks we were putting into our yellow recycling bags. Looking deeply into the problem we saw that a third of the volume of our yellow recycling bags was taken up by tetrapaks from vegan milk. We cannot crush them as the recycling centre can only process them uncrushed. From time to time I would try to think of a solution to this issue - sometimes quite laughable ideas, but always in vain. Eventually I kept this problem in the back of my mind waiting for the answer to come. 
 
@@ -49,7 +47,7 @@ One day we were invited to help plant pumpkin seeds on our organic farm. We were
 
 With every project there are teething problems. We have to clean the pots really thoroughly as rodents are attracted to traces of milk in the pots and are very happy to munch big holes in the sides of our pots. We have to ask everyone not to crush the tetrapaks. As for all the lids they are the subject of a future recycling project.
 
-**From waste to resource**
+## From waste to resource 
 
 What we are discovering is that once you start to look at things not as waste but as a potential resource you create the conditions for finding what that resource will be useful for. It has been hugely empowering to see what we, a small community, can do for the environment using only what we have to hand. The revolution continues.
 

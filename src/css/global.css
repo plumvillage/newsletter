@@ -132,6 +132,7 @@ https://lingdata.org/archives/fonts.html
     font-weight: 600;
 } */
 
+/* unfortunately, does not support certain needed characters: e.g. 见 叶 */
 /* https://freehkfonts.opensource.hk/download/ */
 @font-face {
     font-family: "HK-Kai";
@@ -174,6 +175,12 @@ span:lang(zh) {
 }
 @font-face {
     font-family: "Open Sans";
+    src: url("fonts/OpenSans-SemiboldItalic.woff2") format("woff2");
+    font-weight: 500;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Open Sans";
     src: url("fonts/OpenSans-Bold.woff2") format("woff2");
     font-weight: 700;
 }
@@ -212,4 +219,4 @@ span:lang(zh) {
 
 
 
-fonts/OpenSans-SemiboldItalic.woff2
+

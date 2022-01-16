@@ -7,27 +7,27 @@ author: Sư Ông
 
 Dear sangha, today is the 14th of October, 2010. We are in the Space Beyond Space Meditation Hall in Pak Chong, Thailand, during our monastic retreat with the theme of “The Plant Nursery”.
 
-**Insight without boundaries** 
+## Insight without boundaries 
 
-In Sino-Vietnamese we have the term Phương Ngoại Phương (方外方 Fāng wài fāng). “Phương” means space. A practitioner really needs space. Space is the essence of freedom and liberation. The purpose of a practitioner is to bring more space into our hearts, to truly offer space to ourselves and to those around us. We can only realize this space through practice, through insight and compassion.
+In Sino-Vietnamese we have the term Phương Ngoại Phương (<span lang="zh">方外方</span> Fāng wài fāng). “Phương” means space. A practitioner really needs space. Space is the essence of freedom and liberation. The purpose of a practitioner is to bring more space into our hearts, to truly offer space to ourselves and to those around us. We can only realize this space through practice, through insight and compassion.
 
 Insight and compassion always go together. Anyone who has insight and compassion also has happiness and no longer suffers. Compassion and insight are not two separate entities. They have a very close relationship. Insight comes from compassion and compassion comes from insight: without one there cannot be the other. In Buddhism, when we speak of love we always speak of the *Four Immeasurable Minds* (Four brahmavihāras), namely loving kindness (maitrī), compassion (karuṇā), joy (muditā), and inclusiveness (upekṣā). These four minds are limitless. That is why they are called immeasurable, which means a mind without boundaries or borders. Love in Buddhism is the kind of love that does not have boundaries. All of the different Buddhist traditions teach the *Four Immeasurable Minds* and all traditions recognize that love has no limit and is boundless. If it is limited then it is not the true love of a Buddha. 
 
 This is very important because true love is made of insight. Without understanding there cannot be love and we can experience this for ourselves. If a father cannot understand the difficulties of his child then the more he loves his child, the more he makes his child suffer. The same is true between teacher and disciple. If a teacher does not understand the difficulties and suffering of their disciples, then the teacher does not know yet how to love them or help them. Therefore, a teacher’s responsibility is to understand their disciples. Only when a teacher understands deeply their disciples’ difficulties, suffering, and struggles do they truly have love, and from then on, whatever the teacher says, teaches, and does can be of help. Before that, no matter how much the teacher wishes to love their disciples, it would not be true love. The same goes for disciples towards their teachers. 
 
-Now we come to an important conclusion- if compassion is boundless then insight is also boundless. If love is boundless then understanding is also boundless. That is why we need to look again at the term sarvajñatā (一切智 Yíqìe zhì). In Sanskrit, “all-knower,” “all-knowledge,” or “omniscience” (Nhất Thiết Trí) or “complete enlightenment” (Toàn Giác) saṃbodhi / vidyācaraṇasampanna. The insight that is considered “omniscience” needs to be the insight without boundaries. If anyone says that they already have enough insight and there is nothing higher to attain, that is not the insight of a Buddha. As students of the Buddha, we always praise him as the one who has reached the highest, unsurpassable understanding. This is because we love and respect the Buddha. The Buddha may not necessarily agree with our praise. That being said, many will continue to praise the Buddha thus because for thousands of years they have been accustomed to thinking in that way. Praising the Buddha as the One who has attained *Unsurpassed Complete Perfected Enlightenment* (anuttarasamyaksaṃbodhi, 無上正等覺) means his insight has reached the highest point, which also means that it has boundaries, that it is limited. We cannot be sure that is true, because if love can be boundless, then the insight which that love is made of is also boundless. It can always be more vast. This is a koan, a topic for us to look deeply into and contemplate. If we are caught in dogma then we can never understand.
+Now we come to an important conclusion- if compassion is boundless then insight is also boundless. If love is boundless then understanding is also boundless. That is why we need to look again at the term sarvajñatā (<span lang="zh">一切智</span> Yíqìe zhì). In Sanskrit, “all-knower,” “all-knowledge,” or “omniscience” (Nhất Thiết Trí) or “complete enlightenment” (Toàn Giác) saṃbodhi / vidyācaraṇasampanna. The insight that is considered “omniscience” needs to be the insight without boundaries. If anyone says that they already have enough insight and there is nothing higher to attain, that is not the insight of a Buddha. As students of the Buddha, we always praise him as the one who has reached the highest, unsurpassable understanding. This is because we love and respect the Buddha. The Buddha may not necessarily agree with our praise. That being said, many will continue to praise the Buddha thus because for thousands of years they have been accustomed to thinking in that way. Praising the Buddha as the One who has attained *Unsurpassed Complete Perfected Enlightenment* (anuttarasamyaksaṃbodhi, <span lang="zh">無上正等覺</span>) means his insight has reached the highest point, which also means that it has boundaries, that it is limited. We cannot be sure that is true, because if love can be boundless, then the insight which that love is made of is also boundless. It can always be more vast. This is a koan, a topic for us to look deeply into and contemplate. If we are caught in dogma then we can never understand.
 
-**Does the Buddha still need to practice?** 
+## Does the Buddha still need to practice? 
 
 In the sutras it is clearly recorded that after the Buddha reached enlightenment, he continued to practice walking meditation, to practice the full awareness of breathing, to eat meals in silence, and to participate in dharma discussion with the monks. We ask: those who have not yet become Buddhas need to practice, but why continue to practice when one has become an awakened one? If you gave yourself time to look deeply, you would find the answer - because practicing like that is not only to become a Buddha. Only becoming a Buddha is not enough.
 
 What purpose do those practices serve if not to become a Buddha? The answer is very clear. It is because those practices nourish us. The Buddha also has a body and a daily life, and he also has the need to be nourished and to heal through the practice.  
 
-**Building sangha - the career of Buddhas** 
+## Building sangha - the career of Buddhas 
 
 What are you going to do when you become a Buddha? You become awakened to help living beings. Becoming a Buddha is only the beginning. Every Buddha has a career to fulfill. Therefore, after realizing the Path, Shakyamuni Buddha sat at the foot of the Bodhi tree to nourish himself by the energy of awakening. Then he started to think about his career. His career was the task of building a Sangha. If there was not the Sangha, then one Buddha alone also could not accomplish much. Because there was a Sangha, the Buddha was able to fulfill his career. The Buddha’s Sangha could bring the teachings to the world. The Buddha had many things to do.  It wasn’t that once he became a Buddha he was done.
 
-**Practicing with the sangha** 
+## Practicing with the sangha 
 
 One thing we need to clearly see is that the Buddha transmitted the teachings not for us to practice on our own. The sutras, sastras and vinaya all say that the teaching of the Buddha is meant to be practiced as a community and not as an individual. When we receive the precepts, whether as a novice, bhikshu, bhikshuni, or lay practitioner, we have to recite the precepts. Not reciting the precepts is a transgression. But who do we recite the precepts with? We recite them with fellow practitioners. Novices recite the precepts with novices; bhikshus with bhikshus, and bhikshunis with bhikshunis. For the three-month Rains Retreat, we also have to go where we can practice together with fellow practitioners. To practice, you need a sangha. The Three Refuges form the foundation of practice life. When we say, “*Sangham saranam gacchami - I take refuge in the Sangha*,” it means that I vow to never leave the Sangha. If we do not take refuge in the Sangha, we are not a child of the Buddha. This is very clear.
 
@@ -37,7 +37,7 @@ When we practice alone, the energy of mindfulness and concentration generated by
 
 Like a drop of water flowing towards the sea, it knows that it can hardly succeed alone. It could evaporate half-way, become a cloud, wander here and there and never reach the sea. But if that drop of water enters a river and allows the river to embrace and transform it, then for sure it will arrive at the sea. As practitioners we must allow the sangha to lead, embrace, and carry us, for us to succeed. 
 
-**True sangha** 
+## True sangha 
 
 The sangha is a community of people practicing together. It has the capacity to generate the energy of mindfulness (*smṛti*) and concentration (*samādhi*). When breathing or walking, we breathe and walk in such a way that we can generate more mindfulness and concentration. When we interact with a sangha, a community that is practicing like that, we will recognize this energy right away. That is a true sangha. If we interact with a group of people who are donning brown robes or yellow sanghati, yet we do not sense a strong energy of mindfulness and concentration, then that means they are not a true sangha yet. It could be that the group has the form of a sangha but not the essence of a sangha. 
 
@@ -47,7 +47,7 @@ You are a fortunate person if you can meet such a sangha because such a sangha c
 
 There are people who ask, “Where can we find the Buddha today?” That is very easy to answer. When you can find a sangha with the practice, with the capacity to generate mindfulness, concentration, and insight, then you have found the Dharma - and when you have found the Dharma, the Buddha is there. The Buddha is truly present in the Dharma and Sangha.
 
-**Taking refuge in the sangha to practice and help the world** 
+## Taking refuge in the sangha to practice and help the world 
 
 This morning we chanted the sutra *Knowing the Better Way to Live Alone* after sitting meditation. Living alone does not mean separating from the sangha and retreating to the mountains. There are many sutras in the Majjhimanikāya (*Collection of Middle Length Discourses*) that speak of living alone, including the *The Ideal Lover of Solitude* (“Bhaddekarattasutta”, MN131). Some have translated it as Nhất Dạ Hiền Giả Kinh (*“A Single Excellent Night”*). In the sutra it states that we should not allow the past or the future to pull us away. We should dwell and contemplate on what is happening in the present moment. It is through this contemplation that we can untangle, transform and then make space in our heart so we can be happy. 
 
@@ -61,20 +61,11 @@ The Sangha is a crucial element for the realization of a Buddha’s career. Even
 
 When we practice listening to the bell or walking meditation, we stop speaking and stop thinking (even though thinking is not audible, it is a kind of mental chatter). We do this by placing all of our attention on our breath and the sound of the bell or our steps. In this way we generate the energy of mindfulness and concentration. To have mindfulness and concentration is to have the protection of the Three Jewels. That is what taking refuge really is. We cannot say for sure that when we read out “*I take refuge in the Buddha, I take refuge in the Dharma, I take refuge in the Sangha”,* we will receive protection from the Three Jewels. 
 
-Sr Linh Di, can you standardize - Pure Land or pure land? There are both in this para. Thx!
-
-the Pure Land, I think
-
-Usually sccd use "pure land".
-
-Somehow, I don't feel at ease with this. Could you check with Sr. Hiến N? Because what we mean here is the Pure Land mentioned in the Amitabha sutra
-
-ok, then Pure Land đi
 The Three Jewels are the energies of mindfulness and concentration. Every sound of the bell, every step with such energy can heal, nourish, and liberate. If you practice it well, every sound of the bell, every step can help you be in touch with the pure land, in touch with no birth and no death. It isn’t difficult! We can all do it. It is not a distant wish. We can realize this path by the way we walk and with the bell of mindfulness. Together with the sangha, we can make the pure land become a reality in the present with every step we take, by placing all our heart into the sound of the mindfulness bell.
 
 If we want to be a beloved disciple of the Buddha, then we should learn the art of sangha building. If I want to be a beloved student of the Buddha, then I also have to learn the art of sangha building. Thay would build a beloved sangha with many people who have the determination to practice. The result would be a great reward.
 
-**Brotherhood and Sisterhood - important food of a practitioner** 
+## Brotherhood and Sisterhood - important food of a practitioner 
 
 When I was a young monk, a newly ordained bhikshu no older than twenty something, my deepest desire was to build a beloved *sangha*. I already used the term beloved *sangha* then — a place in which brothers and sisters live together in brotherhood and sisterhood, loving each other like blood siblings, going together as a river. I never had the idea of being a leader or an abbot. There was nothing attractive about that to me.
 

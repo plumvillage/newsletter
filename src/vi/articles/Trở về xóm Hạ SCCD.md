@@ -49,7 +49,7 @@ Nỗi sợ chết trong tôi đã giảm bớt nhờ những lời dạy của T
 
 Tính đến thời điểm này, tôi đã về lại xóm Hạ được khoảng mười hai tháng. Tôi rời xóm Hạ vào năm 1996 để đến xóm Mới và sau đó là đi tu viện Rừng Phong (Maple Forest). Vậy là tôi đã vắng mặt ở xóm Hạ suốt hai mươi bốn năm. Có những nơi không thay đổi gì nhiều, giống như con đường nhỏ dẫn xuống nơi từng là thất của tôi, rồi con đường ở đằng sau thiền đường Hội Ngàn Sao, thiền đường Nến Hồng và những cây sồi vĩ đại. Căn phòng của Thầy ở xóm Hạ, nơi Thầy có thể ngả lưng trên võng sau buổi pháp thoại và mời các con uống trà với Thầy, là nơi chúng ta có thể cảm nhận sự hiện diện của Thầy thật rõ ràng. Mỗi khi tôi thực tập thiền hành ở xóm Hạ, tôi lại cảm nhận được một cách thật rõ ràng hương vị của Làng Mai hơn ba mươi năm về trước. Tôi còn nhớ một lần ở xóm Hạ, khi còn là cư sĩ, chúng tôi chuẩn bị lên xe đi thăm Thiền đường Hoa Quỳnh (Fleurs de Cactus) ở Paris. Tôi có một ước mong sâu sắc là đi được như Thầy đi, nên tôi thực tập một mình trong lúc chờ những người khác tới. Nhưng có lẽ hồi đó sự thực tập của tôi còn nhiều hình thức hơn nội dung. Qua năm tháng, cảm giác bình an và hạnh phúc có được từ những bước thiền hành như vậy đã trở nên rất thật trong tôi. Những bước chân của Thầy ở Làng Mai là những gì khiến cho bầu không khí nơi Làng trở nên linh thiêng, và tất nhiên tất cả chúng ta đều muốn giữ gìn không khí linh thiêng này còn mãi bằng những bước chân chánh niệm của mình.
 
-**Thấy Thầy Trong Tăng Thân**
+## Thấy Thầy Trong Tăng Thân
 
 *Sư cô Chân Đức*
 

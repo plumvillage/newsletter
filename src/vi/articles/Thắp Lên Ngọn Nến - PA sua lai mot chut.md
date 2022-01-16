@@ -5,7 +5,7 @@ author: Thầy Chân Pháp Ấn
 
 *(Phỏng vấn thầy Chân Pháp Ấn)*
 
-**Đường về Làng**
+## Đường về Làng
 
 *BBT: Thưa thầy, cảm nhận của thầy như thế nào khi thầy đến Làng lần đầu tiên?* 
 
@@ -19,7 +19,7 @@ Khi lên xóm Thượng, Sư Ông hỏi quý thầy đã chuẩn bị phòng cho
 
 Tuy hoàn cảnh của những ngày đầu khó khăn là vậy, nhưng Pháp Ấn vẫn giữ gìn tâm nguyện của mình. Pháp Ấn có một lời nguyện là dù hoàn cảnh có khó khăn, phải đi ăn xin, phải sống cù bơ cù bất thì Pháp Ấn vẫn đi và phải hiểu cho bằng được giác ngộ đích thực là gì, giải thoát là gì. 
 
-**Duyên thầy trò**
+## Duyên thầy trò
 
 *BBT: Vì sao thầy lại chọn Sư Ông là thầy của mình?* 
 
@@ -27,7 +27,7 @@ Pháp Ấn biết tới Sư Ông từ hồi còn nhỏ. Năm đó, sinh nhật c
 
 Từ những năm trung học cho đến khi xuất gia, Pháp Ấn đã đọc và nghe khá nhiều sách và các băng giảng của các vị thầy về thiền. Tại MIT, trước khi xuất gia, nhân đọc cuốn *Vấn đề nhận thức trong Duy thức học* của Sư Ông, Pháp Ấn có một trực giác: đây chính là vị thầy của mình! Càng tu thì càng thấy rằng được gặp Sư Ông là nhân duyên từ nhiều kiếp. Ngày xưa, mình nghĩ là mình chọn thầy này, thầy kia, mình thích chùa này, chùa kia. Nhưng thật ra, tất cả các pháp đều do duyên sanh. Khi về Làng, rất nhiều đêm, Pháp Ấn thường nằm mơ thấy hình ảnh Sư Ông ngồi thiền, rất thẳng và đẹp. Pháp Ấn cảm nhận giữa mình và Sư Ông có duyên thầy trò rất sâu đậm. Có những kỷ niệm giữa thầy trò rất nuôi dưỡng Pháp Ấn. Nhớ những ngày mới về Làng, Pháp Ấn có nhiều câu hỏi lắm. Lúc đầu, Sư Ông rất vui khi Pháp Ấn đặt câu hỏi, nhưng sau khi đã biết cái tật của Pháp Ấn thì Sư Ông không trả lời nữa và để cho Pháp Ấn thực tập. Pháp Ấn thấy điều đó rất hay. Mình đến với quá nhiều câu hỏi mà thật ra những câu hỏi đó không ai có thể trả lời cho mình một cách rốt ráo. Điều mình cần là thực tập, qua năm tháng câu trả lời sẽ tự đến. 
 
-**Công trình xây dựng tăng thân** 
+## Công trình xây dựng tăng thân** 
 
 *BBT: Có mặt từ những ngày đầu của Làng, chứng kiến sự thay đổi và lớn lên của tăng thân, có giây phút nào thầy cảm thấy con đường xây dựng tăng thân thật chông gai và thầy thấy mệt mỏi hay không? Điều gì đã giúp thầy bền bỉ tiếp tục công trình giữ gìn và nuôi lớn tăng thân?*
 
@@ -41,7 +41,7 @@ Mình không nên đặt ra một ý niệm về tăng thân toàn hảo. Từ t
 
 Thời huy hoàng, tăng thân lớn mạnh, Sư Ông tổ chức khóa tu, đi giảng chỗ này chỗ kia. Đó là bông hoa kết tụ từ nhiều đời nhiều kiếp, nhiều nhân duyên và đến lúc đơm hoa. Bao giờ cũng vậy, một bông hoa sau khi nở sẽ lại trở thành bùn. Tăng thân của mình một ngày nào cũng thành bùn, đó là sự thật của vô thường. Không trước thì sau, sẽ thành bùn một phần nào đó rồi ẩn tàng, rồi nhân duyên tiếp tục biến chuyển trong sự vận hành mầu nhiệm để đưa ra một bông hoa kế tiếp. Khi mình nhìn cuộc sống như vậy, mình mở lòng ra để chấp nhận, làm được cái gì thì làm hết lòng, tăng thân làm được gì tăng thân làm, vui được bao nhiêu thì vui, thành công được bao nhiêu thì thành công. Nhưng điều quan trọng là giáo pháp phải được lưu chuyển. Những giáo lý, những phương pháp hành trì phải được lưu chuyển liên tục vì cái đó là cái thay đổi tăng thân, thay đổi sự sống. Chính bản thân mình cũng phải là một pháp sống, cũng cần phải thay đổi. Đi tu là đối diện với chính mình, đối diện với thói quen không lành, không đẹp nơi mình để chuyển hóa, chứ không phải để nhìn thói quen không lành, không đẹp của người khác. Và thấy rằng mình làm được thì mới mong người khác làm được. Ngày nào mình chưa làm được thì đừng mong thay đổi người khác. Đó là con đường dựng tăng hay nhất, theo Pháp Ấn nghĩ. 
 
-` `**Phụng sự và tu học là một**
+## Phụng sự và tu học là một
 
 *BBT: Thưa thầy, xin thầy chia sẻ với chúng con cái nhìn của thầy về mối liên hệ giữa tu học và phụng sự?*
 
@@ -54,4 +54,3 @@ Năm đầu tiên Pháp Ấn làm thị giả cho Sư Ông, không bao giờ Sư
 Nếu cây đèn cầy không được thắp lên thì sẽ không bao giờ thành một cây đèn cầy mà chỉ là một cục sáp thôi. Một cây đèn cầy phải thắp lên thì cái dụng đó mới làm nên cây đèn cầy. Người tu cũng vậy, mình có cái thể, cái dụng và cái hạnh. Cái thể mình đã có rồi, đó là hình tướng của một người tu, nhưng nếu mình không tỏa chiếu được năng lượng bình an, hạnh phúc, năng lượng giúp cho người khác thay đổi cuộc đời thì mình chỉ có hình tướng của người tu, mới chỉ có chất sáp của cây đèn cầy. Mình phải biến chất sáp đó thành ánh sáng. Chính con đường phụng sự mới làm nên chất liệu của người tu. Từ chất sáp mình biến thành ánh sáng chứ không còn là chất sáp nữa. Vì thế pháp môn của Làng Mai là phải tu trong khi làm việc. Nếu trong khi làm mà không tu thì không còn đúng là người tu. Tu hay không tu điều đó phụ thuộc vào mình!
 
 *BBT: Thưa thầy, chúng con cảm ơn thầy đã có mặt và chia sẻ với chúng con những kỷ niệm và những hoa trái thực tập quý báu này.*
-

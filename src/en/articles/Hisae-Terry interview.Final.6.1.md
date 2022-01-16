@@ -1,9 +1,9 @@
 ﻿---
 title: Parallax Press and the Journey to Plum Village through Books
-author: Hisae Matsuda and Terry Barber
+author: Hisae Matsuda & Terry Barber
 ---
 
-**A Conversation with Hisae Matsuda and Terry Barber**
+## A Conversation with Hisae Matsuda and Terry Barber 
 
 In 1986, four years after the founding of Plum Village, Thầy and some of his North American students published the book *Being Peace* in Berkeley, California. Thus, Thầy became the cofounder of Parallax Press, the publishing house of the Plum Village community in the United States, with the mission “to contribute to collective insight and awakening, bringing about a more joyful, healthy, and compassionate society” and make the Plum Village teachings accessible worldwide. Thirty-six years and more than 335 books later, Parallax Press keeps Thầy’s books in print and brings out twelve new works a year, which are distributed by Penguin Random House and available in bookshops everywhere. Current publisher Hisae Matsuda sat down with editorial director and lay Dharma teacher Terry Barber, the longest-serving member of the publishing team, to talk about how their lives have been enriched through reading and working on Thầy’s books.
 

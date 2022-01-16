@@ -109,16 +109,7 @@ figcaption::before {
     content: counter(chapternum) "-" counter(figurenum) ". ";
 }
 
-/* .note {
-    position: note(notes);
-} */
-
-/* @page {
-    @note-area { 
-        content: element(notes, all-once);
-    }
-} */
-
+/* https://www.pagedjs.org/documentation/cheatsheet/ */
 .note {
     float: footnote;
     counter-increment: footnote;
@@ -189,15 +180,30 @@ article {
     column-gap: 16pt
 }
 
-h1 {
-    margin-bottom: 5mm;
-}
-
-h1,
-h2 {
-    color: var(--color-bark-dark);
+h1, article .author {
     column-span: all;
     text-align: center;
+    color: var(--color-bark-dark);
+}
+
+h1 { /* title */
+    margin-bottom: 5mm;
+    font-size: 21pt;
+    /* font-style: italic; */
+}
+
+article .author {
+    font-family: "Open Sans";
+    font-weight: 500;
+    font-size: 14pt;
+    line-height: 16pt;
+    font-variant: small-caps;
+    margin-bottom: 3mm;
+}
+
+h2 { /* section in article */
+    font-size: 13pt;
+    font-weight: bold;
 }
 
 article h1 {
@@ -208,15 +214,8 @@ article h1 {
     /* changes how numbers look like */
     font-feature-settings: 'lnum';
 }
-article .author {
-    font-family: "Open Sans";
-    font-weight: 500;
-    font-size: 13pt;
-    line-height: 16pt;
-    font-variant: small-caps;
-}
 
-article p {
+html:lang(vi) article p {
     text-align: justify;
 }
 html:lang(en) article p {
@@ -224,11 +223,17 @@ html:lang(en) article p {
 }
 
 article p + p {
-    margin: 8pt 0;
+    margin: 6pt 0;
+    text-indent: 12pt;
 }
 
-.author + p {
-    margin-top: 3mm;
+article .author + p {
+    margin-top: 0;
+}
+
+article blockquote {
+    margin-top: 6pt;
+    margin-left: 16pt;
 }
 
 img#ThayTalk {
@@ -250,7 +255,6 @@ html:lang(vi) #ch1 {
     text-shadow: /* stacking */
         var(--color-sanghati-light) 1px 0 5px,
         white 1px 0 20px;
-    /* pagedjs_margin-top is visible in the print-preview, but not in the print version. */
     margin-top: 70mm;
     /* does not extend beyond article frame: */
     /* background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(255,255,255,0) 40%); */

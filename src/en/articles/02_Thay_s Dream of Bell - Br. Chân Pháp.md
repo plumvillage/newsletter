@@ -2,9 +2,7 @@
 title: Bells of Mindfulness
 author: Br. Chân Pháp Dung
 ---
-
-Jan.27th, 2021
-
+<!-- Jan.27th, 2021 -->
 Dear Friends on the path, I hope you enjoy this digital painting that was inspired by Thay’s account of his dream where he was a music student who had to perform in front of a university audience. I began envisioning it one morning after waking up from my own dream in which Thay invited a bell to help us all come back to the present moment. As he invited the bell, his hands moved around it in a cinematographic way with multiple hands merging in and out of each other, with some hands holding various musical instruments. 
 
 In the days I was drawing this, the violent riot at the US Capitol occurred (January 2021). America once more saw the ugly side of itself again. I felt sad for the people who were tasked to help lead and unite the divided people of this nation. So this artistic exploration became a healing activity for me, a kind of balm for my heart from the mental ache that I was feeling for our human family. Focusing on Thay’s life and all the suffering and division that he managed to overcome, I felt more determined than ever to help realize his dream of building mindful communities where people from all walks of life can live harmoniously together even with differences of opinion, values, and approaches.  
@@ -29,7 +27,4 @@ Thay has even expanded this practice of listening to the bell and applied it to 
 At this moment, I invite everyone to continue Thay’s legacy by maintaining this practice of listening to the sound of the bell in your own home, workplace, or wherever you may be. You may like to install a chiming clock in your living room or kitchen to remind you to stop. You may install a digital mindfulness bell on your laptop or smartphone and program it to sound periodically to help us stop during our busy day. When you stop, close your eyes, recite the gatha, and come back to your “true home”, envisioning all of us breathing together throughout this land and around this planet, creating a collective energy of peace and kindness, and connecting us all in a moment of interbeing. This is not a practice of magic or some romanticized imagination; it has a real potential to bring immediate benefit to ourselves, to those near, and to everyone that may randomly cross our mental field and may not even be in our awareness. No energy is ever lost. No ripples in the pond are without some effect, some contribution. No mental intention of kindness and acceptance will be lost. I invite everyone to help us maintain this collective field of good-will as opposed to ill-will, of heart force instead of aggression, no matter what or who confronts us, and together we can support one another on our path to build the beloved community, bring change, and contribute to our collective awakening.
 
 Sincerely, 
-Brother Phap Dung 
-
-
-
+Brother Phap Dung

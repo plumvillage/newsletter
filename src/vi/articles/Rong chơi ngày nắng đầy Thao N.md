@@ -7,7 +7,7 @@ Sư em thương,
 
 Chị xa Làng đã hai năm rồi, mau quá! Bao nhiêu chuyện đã xảy ra cho cả thế giới và cả đại chúng, cho chị và cho em. Đôi khi trong những giấc mơ hoặc khi ngồi kể chuyện cho nhau nghe, bao nhiêu kỉ niệm trong chị lại trở về. Chị em mình mà, rất dễ bị cuốn đi bởi những câu chuyện. Chuyện này nối tiếp chuyện kia thành những giai thoại trong đó có Thầy, có huynh đệ và có những ngày vui.
 
-**Những con đường thiền hành**
+## Những con đường thiền hành
 
 Xa Làng, chị thường nhớ và thường mơ về những lối mòn mình đã đi. Đi quá nhiều lần và dần dần nó trở thành những lối mòn cả trong tâm thức. Những lối nào chị đi với ý thức sâu sắc thì nó “mòn” hơn, ăn sâu hơn và khi nghĩ về chị có cảm giác thân thương hơn. Đó là những con đường mình thường đi qua trong ngày, nhất là những con đường thiền hành.
 
@@ -15,7 +15,7 @@ Những con đường thiền hành của ba xóm ở Làng sao đẹp quá! Kh�
 
 Rồi trên chặng đường tiếp theo, sẽ có những lối mòn thân thương mới, nơi ta có những trải nghiệm mới, nơi sẽ mãi ở lại trong lòng ta.
 
-**Phật đường**
+## Phật đường
 
 Xóm Mới có một nơi linh thiêng mà chị rất nhớ, đó là Phật đường. Mình thường gọi là *thiền đường tím* vì thảm trải nền có màu tím, màu đặc trưng của xóm Mới do Thầy chọn. Màu tím tượng trưng cho quốc độ của đức Bồ tát Quán Thế Âm. Ngày chị tới Làng, việc đầu tiên là tới lạy Bụt ở Phật đường. Bước vào, phát hiện ra nền nhà được lót bằng thảm màu tím, tím đậm đấy. Khoảng chính giữa có tượng Bụt màu hồng nhạt ngồi trong vòm đá thật tự nhiên, đẹp và bình yên. Thầy có viết hai câu đối cho Phật đường: 
 
@@ -33,7 +33,7 @@ Ngày xóm Mới bị lụt, nước tràn vào cả Phật đường làm ướ
 
 Chị thích nhất là hình ảnh mọi người thực tập ở Phật đường. Lâu lâu có công việc, không đi công phu với đại chúng được, khi đi ngang qua nhìn vào thấy đại chúng đang ngồi tụng kinh trong đó, đẹp và hùng hậu quá, ai mà không được đánh động. Sáng sớm và sau giờ ngồi thiền tối, các sư chị, sư em thường vào Phật đường để thực tập cá nhân. Hình ảnh đó đẹp lắm! Đôi khi chị không phải là người đang ngồi đó tâm tình với Bụt, lạy xuống tiếp xúc với đất Mẹ hay kinh hành thong thả, nhưng đứng nhìn thôi chị cũng được hưởng lây năng lượng của sự bình an. Tự nhiên lòng chị cũng có sự buông bỏ và hạnh phúc. 
 
-**Sơn Cốc**
+## Sơn Cốc
 
 Nhà của Thầy. Tự nhiên thôi, Sơn Cốc trở nên thiêng liêng. Đó là nơi dành riêng cho chúng xuất sĩ và khi đến đấy, lúc nào mình cũng cảm thấy ấm cúng.
 
@@ -51,13 +51,13 @@ Giờ cơm trưa là vui nhất. Hàng khất thực dài thật dài vì chỉ 
 
 Trong những khóa tu lớn, tới Sơn Cốc là dịp thầy trò có mặt cho nhau, sạc lại năng lượng và thắp lại ý thức mình là một người may mắn đang có nhiều cơ hội để thực tập và giúp người. Thầy luôn có đó như một người cha, quan tâm tới từng đứa con, không ai là không nhận được. Chị, em và các anh chị em khác đều mang theo trong mình tình thương ấy tới giờ đó thôi.
 
-**Thiền đường “Tình Thầy”**
+## Thiền đường “Tình Thầy”
 
 Dãy nhà đó đã có mặt từ khi Thầy có Sơn Cốc. Trong bức hình chụp Sơn Cốc từ những ngày đầu mà Thầy treo ở thư viện, mình đã thấy khu vực phía sau đó rồi. Thế nhưng nó bị hư hỏng nặng và không dùng được nên không ai quan tâm làm gì. Vậy mà không hiểu sao Thầy lại muốn sửa lại. Sau vài lần bảo thị giả đẩy xe vào tự mình xem xét, Thầy bắt đầu ra dấu gọi các thị giả ra dọn dẹp khu nhà bỏ hoang đó. Đầu tiên là hai thị giả theo hầu, sau đó gọi thêm nhóm thị giả còn lại và tiếp theo là cả đại chúng tham gia dọn dẹp. Thầy mời thầy Pháp Dung thiết kế bản vẽ. Thầy là người ra ý, đốc thúc, giám sát công trình. Những ngày thợ bắt đầu tới làm hầu như ngày nào Thầy cũng ra thăm và rất hứng khởi với dự án đó. 
 
 Công trình chưa hoàn tất thì Thầy đi Thái rồi về Việt Nam. Thầy là người khởi xướng còn việc thi công và hoàn tất là của các sư con. Cuối cùng thiền đường mới cũng được “khai trương”, nhìn rất đơn sơ mà ấm cúng. Ở Từ Hiếu, ban thị giả nhận được những hình ảnh sinh hoạt của đại chúng trong thiền đường mới và đã chiếu lên cho Thầy xem. Bây giờ chị mới hiểu tại sao Thầy muốn làm công trình đó. Còn gì hơn là để cho các sư con của Thầy có một nơi thực tập ấm áp và có mặt cho nhau. Chị nghĩ, “Tình Thầy” là từ thật thích hợp để đặt tên cho thiền đường. Ngồi trong đó chắc hẳn ai cũng nghĩ đến và cảm nhận được tình Thầy.
 
-**Ngày popcorn (bắp nổ)**
+## Ngày popcorn (bắp nổ)
 
 Nói đến Sơn Cốc và Thầy là chị nhớ đến có một ngày đáng nhớ, một ngày rất đặc biệt: Ngày popcorn. 
 

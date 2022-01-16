@@ -30,5 +30,4 @@ When Deer Park monastery was founded, Sisterr. Chỉ Nghiêm followed Thay’s i
 Walking on the path to the Great Togetherness meditation hall, I saw the monks' residence alight with beautiful colors. Christmas has arrived. My sisters have also turned on decorative lights in our quarters to celebrate Christmas. It feels so alive and joyful as if there had never been a funeral just a few days ago. The light and shade of time!
 
 It seems like only yesterday that I saw Thay sitting on the podium teaching. It seems like only yesterday that I saw myself helping Thay putting down fertilizer for the chrysanthemums. It seems like only yesterday that I saw myself together with athe delegation walking behind Thay, ascending the Vulture Peak within mindful steps… All of that seems like a beautiful dream now. I have to accept the change in order to touch the unchangeable, which isare the love between Thay and his disciples, brotherhood, and sisterhood and, bodhicitta. These will stay dear in my heart forever, in this life and for many lives to come.
-PAGE7
 

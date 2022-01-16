@@ -41,7 +41,7 @@
     {%- for article in articles -%}
         <article>
             <h1 id="ch{{ loop.index }}" class="chapter">{{ article.data.title }}</h1>
-            <h2 class="author">{{ article.data.author }}</h2>
+            <div class="author">{{ article.data.author }}</div>
             {{ article.data.content | safe }}
         </article>
     {%- endfor -%}

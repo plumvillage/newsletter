@@ -11,7 +11,7 @@ Bước xuống xe, không khí lạnh buổi tối phả vào mặt làm con t�
 
 Chúng con đã sử dụng thời gian cách ly một cách rất thích đáng bằng cách áp dụng sự thực tập hiện pháp lạc trú, nhận diện những điều kiện hạnh phúc đang có sẵn, kết nối với tăng thân địa phương và sử dụng cơ hội sống chung để chị em hiểu nhau hơn.
 
-**Vừa lạ vừa quen**
+## Vừa lạ vừa quen
 
 Tu viện Nhập Lưu mới được dời về chỗ mới vào tháng Sáu, ngay trước mùa an cư. Khi chúng con đến, tu viện chỉ có năm sư cô, trong đó có sư cô Trung Chính về an cư ba tháng. Sau an cư sư cô về lại Lộc Uyển để tham dự Đại giới đàn, vì vậy tu viện chỉ có tất cả là sáu sư cô, tính cả hai chị em chúng con.
 
@@ -21,7 +21,7 @@ Quen là diện tích đất ở đây hơi tương tự xóm Mới, tuy địa 
 
 Chúng con may mắn có cơ hội được tham gia an cư trong vài tuần cuối. Mùa đông lạnh nhưng đại chúng vẫn theo thời khóa miên mật. Sáng nào cũng có cư sĩ tham dự ngồi thiền tụng kinh trực tuyến, trừ ngày thứ hai làm biếng. Sau khi sư chị Sinh Nghiêm về nhập chúng thì có thêm thời khóa tập khí công sau giờ công phu. Ban đầu, sư chị chỉ có ý định tập để cho bố mẹ tham gia và tự thân sư chị cũng được tập đều đặn, nhưng rồi có nhiều người tập chung và thời khóa này đã trở nên rất được yêu thích. Bây giờ, sư chị đã xây dựng được một nhóm gồm có cả các vị cư sĩ thay phiên nhau hướng dẫn mỗi sáng.
 
-**Quà tặng từ thiên nhiên**
+## Quà tặng từ thiên nhiên
 
 Thiên nhiên nơi đây thật ưu đãi chúng con. Sáng hay chiều, lúc nào cũng có các chú Kangaroo đến thăm những bãi cỏ xanh xung quanh ni xá. Tu viện có nhiều hồ nước nhỏ nên các chú vịt trời đang mùa nuôi con tìm về rất đông. Quan sát các chú vịt trời, chúng con dần dần nhận diện chúng. Có những cặp không con, có khi một con vịt lẻ loi, đi một mình, có khi chỉ một con vịt mái nuôi đàn con năm đứa. 
 
@@ -29,13 +29,13 @@ Con đặc biệt chú ý đến một cặp bố mẹ nuôi hai con vịt con b
 
 Có những lúc chị em chúng con đứng mải mê nhìn thế giới động thực vật sinh động xung quanh mình thật lâu và cảm thấy được nuôi dưỡng rất nhiều. Hôm nọ, một sư cô đứng quay phim con nhím đang tìm thức ăn trên bãi cỏ thì tự nhiên con nhím ngước nhìn sư cô, rồi tiến lại dũi mỏ vào bàn chân sư cô. 
 
-**Đồng lòng**
+## Đồng lòng
 
 Ở đây, dù có mấy chị em nhưng thời khóa và sự thực tập không có gì khác so với thời gian con còn ở Xóm Mới. Có những thực tập nho nhỏ mà con thích từ hồi còn sadi vẫn được duy trì làm cho con rất hạnh phúc. Thí dụ như sau khi thỉnh chuông ăn cơm im lặng rồi thì mình không vào khất thực nữa mà phải đợi sau hai tiếng chuông mới vào để không động chúng. Nhờ vậy nên ai cũng cố gắng đi đúng giờ. 
 
 Chúng con về được vài tuần thì có khoá tu online. Covid vẫn đang hoành hành khắp nơi trên nước Úc. Không thể tổ chức hai khóa tu, một bằng tiếng Anh, một bằng tiếng Việt tại tu viện như dự định lúc ban đầu được nữa nên chúng con gộp lại, tổ chức chỉ một khoá tu hai ngôn ngữ. Lần đầu tiên có khoá tu online nên chúng con hơi dè dặt, chẳng biết khả năng của mạng lưới Wifi ở đây có đủ sức đảm đương hay không nên không dám nhận nhiều thiền sinh, chỉ giới hạn tối đa 100 đến 110 người. Nhiều người đăng ký trễ, không được tham dự nên rất buồn làm chúng con khá áy náy. Mới ban đầu chúng con sợ “bị ế" nên nhờ trang nhà Làng Mai cả Anh lẫn Việt quảng bá khóa tu cho rộng rãi. Thế là thiền sinh từ Nhật, Trung Quốc, Nam Phi, v.v. cũng đăng ký làm số lượng tăng lên khá nhanh. Một số người ở Úc để “thủng thẳng rồi hãy đăng ký", không ngờ những người ở ngoài Úc đăng ký trước nên họ không còn chỗ. Tất cả chỉ có sáu sư cô, vừa làm ban tổ chức, ban ghi danh, cho pháp thoại, hướng dẫn pháp đàm, thảo luận theo chuyên đề (workshop), ngồi chuông các thời khoá hàng ngày và làm thiền buông thư. Còn nấu ăn nữa. Vậy mà khoá tu đã diễn ra rất suôn sẻ và thành công. Đó là nhờ sự yểm trợ hết lòng của các vị thiền sinh cư sĩ trong việc thông dịch và kỹ thuật. Rất nhiều hoa trái của sự thực tập đã được thiền sinh ghi lại, gửi đến trang nhà Nhập Lưu để chia sẻ, nuôi dưỡng và tạo cảm hứng cho người khác. Chúng con thấy mình thật may mắn được tham dự vào dòng chảy này.
 
-**Nuôi dưỡng**
+## Nuôi dưỡng
 
 Mùa xuân ở xứ sở Kangaroo này bắt đầu từ tháng Mười. Nhìn từng nụ hoa, chiếc lá từ lúc mới nhú trên cành đến lúc nở bung ra, con thấy sức sống của đất trời thật mầu nhiệm. Không hiểu sao con rất thích thưởng thức lá non, có khi còn thưởng thức hơn cả hoa nữa. Ở Úc phần nhiều đất đai là sa mạc, mưa ít nên nhìn thấy cây cối ở đây nảy lộc đâm chồi, tự nhiên thấy lòng biết ơn chi lạ! Màu xanh của lá ở đây cũng khác với màu xanh của lá ở châu Âu, không mơn mởn mà có gì đó hơi khắc khổ một chút. Nhưng con thấy nó đẹp trong sự khắc khổ đó bởi vì nó mang trong mình sự chịu đựng, kiên trì và nhẫn nại. Cùng với hệ thống rễ, những chiếc lá này miên mật làm việc để nuôi cây. Không có chúng, cây không thể lớn được. 
 
@@ -43,7 +43,7 @@ Năm ngoái, xóm Mới phát động phong trào trồng cây thay cho những 
 
 Công phu hàng ngày và những thanh quy tưởng như lặt vặt lại là loại thuốc chống côn trùng hiệu quả để cho lá non không bị gặm nham nhở dẫn đến sự kiệt quệ của cả cây phải không thưa Thầy? Tuệ giác tích tụ qua kinh nghiệm hàng ngàn năm của các thế hệ cao tăng đi trước thật là bất khả tư nghì. Nơi tu viện mới con đang ở chỉ có sáu chị em, nếu không có công phu tu tập hàng ngày miên mật bảo hộ thì thật khó để đi đường dài.
 
-**Buông bỏ**
+## Buông bỏ
 
 Trước khi về đây, hai chị em con dặn nhau cần thực tập mở lòng cho những cái gì mới đi vào, đừng nên mỗi chút mỗi nhắc lại “bên xóm Mới, bên Làng là vậy, là vậy nè". Vậy mà trong những ngày ở đây, lâu lâu hai chị em lại bắt gặp mình nói câu y chang như vậy. 
 
@@ -51,7 +51,7 @@ Trước khi về đây, hai chị em con dặn nhau cần thực tập mở lò
 
 Những gì con đã biết, đã làm, đã kinh nghiệm có thể dễ dàng trở thành một thành trì vững chãi cho con ẩn núp. Và con có thể sẽ mất cơ hội được “vỡ da” để lớn lên.
 
-**Ngày thường**
+## Ngày thường
 
 Nhóc 16 tuổi. Mùa Giáng sinh và Năm mới này được (hay bị !) gửi lên Nhập Lưu với các sư cô. Bố mẹ và em trai mỗi tuần lên thăm nhóc một lần. Ở đây nghỉ lễ Giáng sinh và Năm mới được sáu tuần, gia đình định cho nhóc ở đây hẳn sáu tuần nhưng các sư cô cẩn thận, chỉ nhận hai tuần thử trước xem sao.
 
@@ -64,6 +64,3 @@ Thầy kính thương, những câu chuyện chuyển hóa của thiền sinh sa
 Người ta bảo rằng những người lớn tuổi hay sống bằng kỷ niệm. Kỷ niệm đẹp hay không đẹp, người ta vẫn cứ hoài niệm như thường. Vậy người tu “lớn tuổi” có khác gì không nhỉ? Con chắc họ cũng sống bằng kỷ niệm. Một sư em hỏi con sống ở đây thấy ra sao, có lạnh lắm không? Con nói với sư em rằng vì mình biết mình sống ở đây, đây là nơi mình sống, cho nên mình làm bạn với cái lạnh, với cái nóng, với thời tiết ở đây. Con đang sống nơi đây, nơi giây phút hiện tại, con đang tạo cho mình một hiện tại đẹp, để “về già”, con sẽ không đi ngược lại với lẽ thường tình, vẫn sống bằng kỷ niệm nhưng là những kỷ niệm đẹp.
 
 Từ ngày được làm con xuất gia của Thầy, con đã sống hết mình như vậy. Nhìn lại những năm tháng đã qua trong cuộc đời người xuất sĩ, con muốn học theo thầy Ương Quật Ma, nói rằng: Từ ngày con được sinh ra trong giáo pháp, con thường sống hiện pháp lạc trú. Mong rằng nhờ sự thực đó mà… khi sống bằng kỷ niệm, con có thể kể về những ngày tháng đã qua và sẽ tới của con với nhiều niềm vui, nhiều cái đẹp, cái lành. 
-
-
-

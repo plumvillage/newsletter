@@ -3,15 +3,13 @@ title: “No Escape!” retreat
 author: Sr. Tam Muoi
 ---
 
-***A year in lockdown with very elderly parents***
+## A year in lockdown with very elderly parents 
 
 I stood in the hallway, one hand placed lightly on the banister, and breathed slowly. 
 
 Suddenly, I heard the thumping steps of two young girls galloping and laughing up and down the stairs. I saw Dad standing in the hall calling upstairs, and heard sounds of cooking from the kitchen, Mum preparing lunch. Standing in the heart of the now empty house, our  family home for sixty years, I said goodbye and left the spirits of the place to play on.
 
-It had been a long journey. 
-
-*Rewind 18 months to Spring 2019* I receive *y*et another urgent call to come home. My father 96, blind, with failing health may be dying. Over the years I had been preparing myself for their passing and I knew the importance of “Don’t wait.” With deep gratitude for the support of the Lower Hamlet sisters, I left for England. Thankfully Dad rallied once again, but it was not to last. With the UK and France going into full Covid lockdown, I stayed on and was thus able to enjoy two more months by his side. Dad died peacefully in his own bed  on a beautiful May morning with the family all around him, Mum holding his hand. Minutes after my father’s last breath Mum said, with relief, “Well, if that’s what dying’s like, it’s not so bad.” 
+It had been a long journey. *Rewind 18 months to Spring 2019* I receive *y*et another urgent call to come home. My father 96, blind, with failing health may be dying. Over the years I had been preparing myself for their passing and I knew the importance of “Don’t wait.” With deep gratitude for the support of the Lower Hamlet sisters, I left for England. Thankfully Dad rallied once again, but it was not to last. With the UK and France going into full Covid lockdown, I stayed on and was thus able to enjoy two more months by his side. Dad died peacefully in his own bed  on a beautiful May morning with the family all around him, Mum holding his hand. Minutes after my father’s last breath Mum said, with relief, “Well, if that’s what dying’s like, it’s not so bad.” 
 
 A carer had shared with me how the family can take care of the body in a respectful and nourishing way. First, my elder sister and I requested to help the nurse mindfully and lovingly wash his body and dress him in his best pyjamas. We asked to keep Dad’s body at home for another day. I surrounded his body with fresh May flowers from the garden that he and Mum had grown and tended for over 60 years. Rose petals were strewn over the bed, lily of the valley placed at his head.
 
@@ -29,7 +27,7 @@ However, the idea of being locked down with Mum indefinitely was way beyond my c
 
 ***Practice*:** A checklist - Am I taking care of my freshness, solidity and joy?  To my surprise I slipped into a regular daily schedule starting the day with meditation to digest and investigate the latest emotional storm which came from around and inside me. To cultivate joy, each day, rain or shine I walked in the nearby forest where I had played as a child, taking refuge in the ancient oak trees, our ancestors, giving them a long hug. Every morning I worked in the garden, accompanied by the robins who had also accompanied Dad. Before dark, I cycled along the beautiful country lanes of Hampshire, empty now during lockdown. I facilitated dharma sharing families for all the Plum Village online retreats and supported the UK Sangha. With all this joy I had enough solidity to offer my presence to Mum.
 
-` `I was also inspired by the Five Invitations of Frank Ostaseski, founder of the San Francisco Zen Hospice for the Dying, a practitioner who has spent his whole career accompanying the dying: 
+I was also inspired by the Five Invitations of Frank Ostaseski, founder of the San Francisco Zen Hospice for the Dying, a practitioner who has spent his whole career accompanying the dying: 
 
 - Don’t wait (at 98, Mum won’t be here long, so it’s now or never)
 - Welcome everything, push away nothing (this gave me courage)
@@ -55,7 +53,7 @@ Seven months on, it seemed that Mum was not going to die a few months after Dad 
 
 The day before her funeral I was able to sit a long while with her body and place a bouquet of flowers in her hands. This is the poem that came to me, which I read out during her service.
 
-***Contemplation on Mum's Body***
+## Contemplation on Mum's Body 
 
 > Your two hands<br/>
 > Now folded in peace upon your chest<br/>
@@ -88,13 +86,8 @@ The day before her funeral I was able to sit a long while with her body and plac
 > You are in each one of us.<br/>
 > We are your continuation.
 
-*Epilogue*
+## Epilogue
 
 As we emptied the house, my whole life was unravelling before me, held in old photos and worn objects, loved and well used. Each cupboard, box or tin opened, more treasures were revealed, and then in their turn,  let go of. 
 
 Waking on the morning of leaving for Plum Village, I felt a deep sense of closure. My parents once more together, their ashes buried in the country village churchyard. All is well.
-
-*Sr Tam Muoi 2021*
-
-
-
