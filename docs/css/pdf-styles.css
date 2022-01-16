@@ -94,7 +94,6 @@ h1 {
     string-set: doctitle content();
     counter-reset: figurenum;
     counter-reset: footnote;
-    line-height: 1.3;
 }
 
 /* increment chapter counter */
@@ -109,27 +108,11 @@ figcaption::before {
     content: counter(chapternum) "-" counter(figurenum) ". ";
 }
 
-/* https://www.pagedjs.org/documentation/cheatsheet/ */
-.note {
-    float: footnote;
-    counter-increment: footnote;
-}
-
-.note::footnote-call {
-    content: counter(footnote);
-}
-
-.note::footnote-marker {
-    font-weight: bold;
-    border-top: 0.6pt solid black;
-}
-
 h1,
 h2,
 h3,
 h4,
 h5 {
-    font-weight: bold;
     page-break-after: avoid;
     page-break-inside: avoid;
 }
@@ -149,6 +132,7 @@ ul.toc {
     list-style: none;
     margin: 0;
     padding: 0;
+    break-after: page;
 }
 
 /* create page numbers using target-counter in the TOC */
@@ -187,9 +171,14 @@ h1, article .author {
 }
 
 h1 { /* title */
-    margin-bottom: 5mm;
-    font-size: 21pt;
+    font-family: "Cormorant Garamond";
+    font-weight: bold;
+    font-size: 30pt;
+    line-height: 110%;
+    margin-bottom: 8pt;
     /* font-style: italic; */
+    /* changes how numbers look like */
+    font-feature-settings: 'lnum';
 }
 
 article .author {
@@ -198,21 +187,16 @@ article .author {
     font-size: 14pt;
     line-height: 16pt;
     font-variant: small-caps;
-    margin-bottom: 3mm;
+    margin-bottom: 6mm;
 }
 
 h2 { /* section in article */
     font-size: 13pt;
     font-weight: bold;
-}
-
-article h1 {
-    font-family: "Cormorant Garamond", "Cormorant Infant";
-    /* font-weight: bolder; */
-    font-size: 36pt;
-    line-height: 48pt;
-    /* changes how numbers look like */
-    font-feature-settings: 'lnum';
+    color: var(--color-bark-dark);
+    margin-left: 8pt; /* ~ text-indent on 2 lines*/
+    margin-top: 5pt;
+    margin-bottom: 4pt;
 }
 
 html:lang(vi) article p {
@@ -222,19 +206,49 @@ html:lang(en) article p {
     text-align: left;
 }
 
-article p + p {
-    margin: 6pt 0;
-    text-indent: 12pt;
+p, article blockquote {
+/* DEFAULT. To be refined below ... */
+    margin: 0;
 }
 
-article .author + p {
-    margin-top: 0;
+article p + p {
+    margin-top: 6pt;
+    text-indent: 14pt;
 }
 
 article blockquote {
     margin-top: 6pt;
     margin-left: 16pt;
+    margin-bottom: 6pt;
 }
+
+/* https://www.pagedjs.org/documentation/cheatsheet/ */
+.note {
+    float: footnote;
+    counter-increment: footnote;
+    font-size: 10pt;
+    line-height: 120%;
+    /* indent all but first line */
+    /* margin-left: 5pt;
+    text-indent: -5pt */
+}
+
+.note::footnote-call {
+    content: counter(footnote);
+    display: inline-block;
+    left: -5pt;
+}
+
+.note::footnote-marker {
+    font-weight: bold;
+    border-top: 0.6pt solid black;
+}
+
+
+
+
+
+
 
 img#ThayTalk {
     position: absolute;

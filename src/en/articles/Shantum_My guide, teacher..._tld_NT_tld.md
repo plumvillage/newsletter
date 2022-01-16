@@ -47,7 +47,7 @@ Gitu and I were sitting next to him and he turned to Gitu and asked, what is it 
 
 It was very touching. I am not sure what the others gleaned from this, but it taught me not only that I should not be late for meals and make people wait for me, but also to listen deeply and voice my appreciation for Gitu. It is not something that came easily to me being brought up in an Indian culture.
 
-Afterwards as I sat with Thay in his room sharing a cup of oolong tea that he loved, I brought this up, hoping he may be able to cure me of the habit. I asked him rather naively “Thay I am always late….what should I do?” His response was terse… “Leave early!”
+Afterwards as I sat with Thay in his room sharing a cup of oolong tea that he loved, I brought this up, hoping he may be able to cure me of the habit. I asked him rather naively “Thay I am always late… what should I do?” His response was terse, “Leave early!”
 
 Gitu and I were with Thay in 1999 while he was on a tour in the US. One day Thay came up to me and told me that my name had been recommended to be ordained as a Dharmacharya. This would mean that I would now be ‘transmitted the lamp’ and be authorised to teach as a representative of Thay, who is the 42nd generation of the Chinese Zen Master Linji’s lineage.
 
@@ -65,6 +65,6 @@ It was also to Thay that I owe the way I earn my livelihood. I was then working 
 
 After my first pilgrimage with Thay, he had suggested that I organise pilgrimages in the Buddha's footsteps every year. I joyfully accepted the challenge and at first was doing it once a year, but eventually turned this into my livelihood and have been leading this pilgrimage for more than 30 years now. 
 
-Since my first pilgrimage with Thay, I have made it a point to go and stay with Thay for about a month each year, wherever he was; whether in Plum Village or in some other country where he went to teach. There have been many wonderful interactions with Thay over the years thereafter, especially during his historic trip to India in 2008….but that is another story.
+Since my first pilgrimage with Thay, I have made it a point to go and stay with Thay for about a month each year, wherever he was; whether in Plum Village or in some other country where he went to teach. There have been many wonderful interactions with Thay over the years thereafter, especially during his historic trip to India in 2008… but that is another story.
 
 He has been my guide, teacher and wise friend.

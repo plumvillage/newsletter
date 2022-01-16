@@ -1,9 +1,7 @@
 ﻿---
-title: Interview with Richard Brady
+title: An Interview with Richard Brady
 author: Richard Brady
 ---
-
-## Interview with Richard Brady 
 
 *Richard (True Dharma Bridge) is a retired high school math teacher, and a lay Dharma teacher in the Plum Village tradition. He is also a retreat leader, writer, educational consultant, and coordinator of the Wake Up Schools Level II Program in North America and he recently wrote a book titled “Walking the Teacher's Path with Mindfulness - Stories for Reflection and Action”. This is an excerpt from a longer interview of Richard conducted by Kaira Jewel Lingo in August 2021, hosted by Wake Up Schools, Plum Village. You may see the full interview at* [*https://youtu.be/o68kYh2N_U4*](https://youtu.be/o68kYh2N_U4)
 
