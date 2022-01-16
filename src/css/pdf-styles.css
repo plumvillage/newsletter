@@ -1,23 +1,34 @@
 /* this stylesheet is used when generating a PDF */
-
 :root {
     --bleed: 5mm;
+    
+}
+
+/* reset chapter and figure counters on the body */
+body {
+    margin: 0;
+    padding: 0;
+    counter-reset: chapternum figurenum;
+    font-family: "Gentium Book Plus", "Skolar Latin", "Skolar PE", "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
+    line-height: 16pt;
+    font-size: 12pt;
 }
 
 @page {
     size: A4;
+    /* chrome needs to have --pagedjs-margin-top set manually, otherwise it yields different results */
     margin-top: 32pt;
+    --pagedjs-margin-top: 32pt;
     margin-bottom: 64pt;
     marks: crop;
     bleed: 5mm;
     /* this breaks pagedjs */
     /* bleed: var(--bleed); */
-}
-
-body {
-    margin: 0;
-    padding: 0;
-}
+    @footnotes {
+        /* padding-top: 8pt; */
+        float: bottom;
+    }
+  }
 
 @page:first {
     @bottom-right {
@@ -30,9 +41,31 @@ body {
     }
 }
 
-/* img {
-    max-width: 100%;
-} */
+/* Bottom right book title, bottom left current page */
+@page:left {
+    margin-left: 33.27pt;
+    margin-right: 64pt;
+    @bottom-left {
+        margin: 10pt 0 30pt 0;
+        content: counter(page);
+        font-size: 11pt;
+        font: "Cormorant Garamond", "Cormorant Infant";
+        background: 5% 50%/25% no-repeat url('images/parallel-horizontal-vn1.png');
+    }
+}
+
+/* Bottom left we display the title of the book, bottom right the page using a CSS counter, top right the content of the current chapter */
+@page:right {
+    margin-left: 64pt;
+    margin-right: 33.27pt;
+    @bottom-right {
+        padding: 10pt 0 10pt 120pt;
+        content: counter(page);
+        font-size: 11pt;
+        font: "Cormorant Garamond", "Cormorant Infant";
+        background: 95% 50%/25% no-repeat url('images/parallel-horizontal-vn2.png');
+    }
+}
 
 .front-cover, .front-collage, .back-collage, .back-cover {
     width: calc(var(--pagedjs-pagebox-width));
@@ -53,42 +86,6 @@ body {
 .front-cover img, .front-collage img, .back-collage img, .back-cover img {
     width: 100%;
     /* position: relative; */
-}
-
-/* styles for the left hand spread
-Bottom right book title, bottom left current page */
-@page:left {
-    margin-left: 33.27pt;
-    margin-right: 64pt;
-    @bottom-left {
-        margin: 10pt 0 30pt 0;
-        content: counter(page);
-        font-size: 11pt;
-        font: "Cormorant Garamond", "Cormorant Infant";
-        background: 5% 50%/25% no-repeat url('images/parallel-horizontal-vn1.png');
-    }
-}
-
-/* styles for the right hand spread
-Bottom left we display the title of the book, bottom right the page using a CSS counter, top right the content of the current chapter */
-@page:right {
-    margin-left: 64pt;
-    margin-right: 33.27pt;
-    @bottom-right {
-        padding: 10pt 0 10pt 120pt;
-        content: counter(page);
-        font-size: 11pt;
-        font: "Cormorant Garamond", "Cormorant Infant";
-        background: 95% 50%/25% no-repeat url('images/parallel-horizontal-vn2.png');
-    }
-}
-
-/* reset chapter and figure counters on the body */
-body {
-    counter-reset: chapternum figurenum;
-    font-family: "Gentium Book Plus", "Skolar Latin", "Skolar PE", "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
-    line-height: 16pt;
-    font-size: 12pt;
 }
 
 /* get the title of the current chapter - this will be the content of the h1
@@ -125,13 +122,6 @@ figcaption::before {
 .fn::footnote-marker {
     font-weight: bold;
     border-top: 0.6pt solid black;
-}
-
-@page {
-    @footnotes {
-        /* padding-top: 8pt; */
-        float: bottom;
-    }
 }
 
 h1,
@@ -236,12 +226,12 @@ img#ThayTalk {
     z-index: -1;
     width: calc(var(--pagedjs-pagebox-width) + (var(--bleed)) * 2);
 
+    left: calc((var(--pagedjs-margin-left) + var(--bleed))*-1);
     /* this means anchor image at horizontal centerpoint, rather then left */
-    left: 50%; 
-    transform: translate(-50%, 0); 
+    /* left: 50%; 
+    transform: translate(-50%, 0);  */
 
     top: calc((var(--pagedjs-margin-top) + var(--bleed))*-1);
-    /* left: calc((var(--pagedjs-margin-left) + var(--bleed))*-1); */
     overflow: visible;
 }
 
@@ -250,7 +240,8 @@ html:lang(vi) #ch1 {
     text-shadow: /* stacking */
         var(--color-sanghati-light) 1px 0 5px,
         white 1px 0 20px;
-    margin-top: 70mm;
+    /* pagedjs_margin-top is visible in the print-preview, but not in the print version. */
+    margin-top: 60mm;
     /* does not extend beyond article frame: */
     /* background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(255,255,255,0) 40%); */
     overflow: visible;
