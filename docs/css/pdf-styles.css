@@ -8,7 +8,7 @@
 body {
     margin: 0;
     padding: 0;
-    counter-reset: chapternum figurenum;
+    counter-reset: page chapternum figurenum footnote;
     font-family: "Gentium Book Plus", "Skolar Latin", "Skolar PE", "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
     line-height: 16pt;
     font-size: 12pt;
@@ -46,12 +46,13 @@ body {
     margin-left: 33.27pt;
     margin-right: 64pt;
     @bottom-left {
-        margin: 10pt 0 30pt 0;
+        padding: 10pt 0 10pt 0; /* top right bottom left*/
         content: counter(page);
         font-size: 11pt;
         font: "Cormorant Garamond", "Cormorant Infant";
-        background: 5% 50%/25% no-repeat url('images/parallel-horizontal-vn1.png');
+        background: 7% 50%/25% no-repeat url('../media/Calligraphy/Parallels EN p1 Harmony at home.jpg');
     }
+    
 }
 
 /* Bottom left we display the title of the book, bottom right the page using a CSS counter, top right the content of the current chapter */
@@ -63,7 +64,7 @@ body {
         content: counter(page);
         font-size: 11pt;
         font: "Cormorant Garamond", "Cormorant Infant";
-        background: 95% 50%/25% no-repeat url('images/parallel-horizontal-vn2.png');
+        background: 93% 50%/25% no-repeat url('../media/Calligraphy/Parallels EN p2 Peace all around.jpg');
     }
 }
 
@@ -92,8 +93,7 @@ body {
 reset figure counter as figures start from 1 in each chapter */
 h1 {
     string-set: doctitle content();
-    counter-reset: figurenum;
-    counter-reset: footnote;
+    counter-reset: figurenum footnote;
 }
 
 /* increment chapter counter */
