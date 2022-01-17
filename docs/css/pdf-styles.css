@@ -222,6 +222,30 @@ article blockquote {
     margin-bottom: 6pt;
 }
 
+article blockquote:lang(zh) {
+    font-size: 130%;
+    line-height: 120%;
+    margin-top: 9pt;
+    margin-bottom: 9pt;
+}
+
+/* 21st century*/
+/* span.superscript {
+    vertical-align: top;
+    font-size: 60%;
+    display: inline-block;
+    top:
+}
+*/
+
+sup {
+    /* font-size: 0.8em; */
+    line-height: 0;
+    /* position: relative;
+    vertical-align: baseline;
+    top: -0.5em; */
+}
+
 /* https://www.pagedjs.org/documentation/cheatsheet/ */
 .note {
     float: footnote;
@@ -274,3 +298,4 @@ html:lang(vi) #ch1 {
     /* background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(255,255,255,0) 40%); */
     overflow: visible;
 }
+
