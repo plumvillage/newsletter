@@ -4,7 +4,7 @@
     "description": "",
     "scripts": {
         "start": "npx @11ty/eleventy --serve",
-        "build-html": "npx @11ty/eleventy",
+        "build-html": "rm -R docs && npx @11ty/eleventy",
         "build-pdf-vi": "pagedjs-cli -i docs/vi/print/index.html -o builds/ltlm-45-vi.pdf",
         "build-pdf-en": "pagedjs-cli -i docs/en/print/index.html -o builds/pvnewsletter-45.pdf",
         "build": "run-s build-html build-pdf-vi build-pdf-en"
@@ -16,4 +16,5 @@
         "@11ty/eleventy": "^1.0.0",
         "npm-run-all": "^4.1.5"
     }
+
 }
