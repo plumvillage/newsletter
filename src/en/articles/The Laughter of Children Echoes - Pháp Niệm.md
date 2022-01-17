@@ -32,10 +32,10 @@ During the years of learning from him and drinking tea by his side, I heard from
 
 The story of awakening while viewing the Autumn splendor may remind us of the story of Zen master Lingyun Zhiqin (*Master "Sacred Cloud"*). One morning he woke to blooming peach blossoms and became suddenly enlightened. Many doubts in his mind were dispelled and he touched the nature of life, of oneself. The master had spent thirty years to find the *master swordsman,* that is, finding one's original face, one's true nature. Peach blossoms bloom, the Zen master sees. 
 
-> <span lang="zh">三十年來尋剑客</span></br>
-> <span lang="zh">几回落叶又抽枝</span></br>
-> <span lang="zh">自从一见桃花后</span></br>
-> <span lang="zh">直至如今更不疑</span>
+<blockquote lang="zh">三十年來尋剑客</br>
+几回落叶又抽枝</br>
+自从一见桃花后</br>
+直至如今更不疑</blockquote>
 
 > For thirty years I've sought the swordsman 
 > Many times the leaves have fallen to sprout anew.
@@ -44,9 +44,7 @@ The story of awakening while viewing the Autumn splendor may remind us of the st
 
 Thầy offered a pair of parallel verses to Br. Giác Thanh when he passed away: 
 
-> One maple leaf has fallen down 
-And yet you continue to climb the hill of the twenty-first century with us. 
-Thousands of daffodils are beginning to bloom and the earth continues to be with the sky singing the song of no-birth and no-death.
+> One maple leaf has fallen down, and yet you continue to climb the hill of the 21<sup>st</sup> century with us.<br/>Thousands of daffodils are beginning to bloom and the earth continues to be with the sky, singing the song of no-birth and no-death.
 
 ## Putting on the Robe of Freedom
 

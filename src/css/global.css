@@ -132,16 +132,17 @@ https://lingdata.org/archives/fonts.html
     font-weight: 600;
 } */
 
-/* unfortunately, does not support certain needed characters: e.g. 见 叶 */
 /* https://freehkfonts.opensource.hk/download/ */
 @font-face {
     font-family: "HK-Kai";
-    src: url("fonts/Free-HK-Kai_4700-v1.02.woff2") format("woff2");
+    src: url("fonts/Free-HK-Kai_4700-v1.03.woff2") format("woff2");
 }
 
-span:lang(zh) {
+span:lang(zh), blockquote:lang(zh) {
     font-family: "HK-Kai";
 }
+
+
 
 
 
