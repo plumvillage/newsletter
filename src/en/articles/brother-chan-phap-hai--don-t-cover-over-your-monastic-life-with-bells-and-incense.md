@@ -1,6 +1,6 @@
 ﻿---
 title: Don’t Cover Over Your Monastic Life with Bells and Incense
-author: Br. Chân Pháp Hải
+author: Brother Chân Pháp Hải
 # date: 17 December 2021
 ---
 

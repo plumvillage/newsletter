@@ -1,6 +1,6 @@
 ﻿---
 title: Returning to Lower Hamlet
-author: Sư cô Chân Đức
+author: Sister Chân Đức
 ---
 
 I arrived in Plum Village on the first of July 1986. A lay friend driving an old yellow Quatrelle picked me up at Sainte-Foy-La-Grande station. Three months earlier when Thay was in England at the invitation of myself and some friends at the Buddhist Peace Fellowship, he had suggested I come to Plum Village for a month. When I arrived in Upper Hamlet, Thay was sitting in a hammock, which was always slung between two trees opposite the *Stone Building*. He was wearing grey *ao vat ho*<span class="note">Traditional Vietnamese short robes worn by monastic practitioners</span> because it was a very hot day.

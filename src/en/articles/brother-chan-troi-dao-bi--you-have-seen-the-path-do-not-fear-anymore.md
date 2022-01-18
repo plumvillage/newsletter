@@ -1,6 +1,6 @@
 ﻿---
 title: You Have Seen the Path, Do Not Fear Anymore
-author: Br Dao Bi
+author: Brother Chân Trời Đạo Bi
 ---
 
 <!-- Wake Up is a Precious Gem of the Plum Village Tradition -->

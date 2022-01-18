@@ -1,6 +1,6 @@
 ﻿---
 title: The Laughter of Children Echoes
-author: Thầy Chân Pháp Niệm
+author: Brother Chân Pháp Niệm
 ---
 
 Brother Giác Thanh was one of the elder brothers of Plum Village. He lived in the *“Floating Cloud Hut”* on the hill looking towards the sunrise, right by Thầy’s *Sitting Still Hut, in Upper Hamlet*. That is why at times he was also called “*Brother Floating Cloud*”. In the early years when the *Fleurs de Cactus* Meditation Centre in Paris, which later became *La Maison de l’Inspir*, was first established, every month Br. Giác Thanh would go there for a weekend to teach and guide the lay friends. Then he would return to the Dharma Cloud Temple to help the younger brothers progress in their practice. That is why some also called him *“Brother Fleurs de Cactus”*.   

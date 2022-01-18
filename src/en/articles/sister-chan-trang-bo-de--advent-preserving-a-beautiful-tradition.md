@@ -1,6 +1,6 @@
 ﻿---
 title: Advent - Preserving a Beautiful Tradition
-author: Sr. Trăng Bồ Đề
+author: Sister Chân Trăng Bồ Đề
 ---
 
 When I was little, at Christmas time all the streets were strewn with twinkling lights and Christmas trees - plastic, but beautiful. The quiet church near my home came alive with joy. Even though I didn’t know about Christmas, I was still very happy because I could wander the streets at night, looking at this and that. I never had the courage to step foot in a church, except for one time when curiosity got the better of me, and the only reason was: I am a Buddhist. There seemed to be a line dividing church and temple. My parents and grandparents all agreed that a Buddhist should not go to a church. It would be an act of impiety. So that idea was firmly planted in the heads of all the children in my family. 

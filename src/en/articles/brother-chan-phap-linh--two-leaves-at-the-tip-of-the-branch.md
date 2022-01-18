@@ -1,7 +1,7 @@
 ﻿---
 title: Two Leaves at the Tip of the Branch
 subtitle: Living interbeing, joy, and non-fear at COP 26
-author: Br. Chan Phap Linh
+author: Brother Chân Pháp Linh
 ---
 
 Do you remember the moment you went from being aware that nature was being damaged and destroyed, to deciding that you would take action to stop the destruction?

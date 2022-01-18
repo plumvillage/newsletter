@@ -1,6 +1,6 @@
 ﻿---
 title: Hello Attachment, You Are My Friend
-author: Sr. Trăng Hiền Nhân 
+author: Sister Chân Trăng Hiền Nhân 
 ---
 
 Dear respected Thầy, dear noble Sangha,

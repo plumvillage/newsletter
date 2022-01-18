@@ -1,6 +1,6 @@
 ﻿---
 title: Chicken and Egg
-author: Br. Chân Pháp Ứng
+author: Brother Chân Pháp Ứng
 ---
 
 The never-broken transmission of the love between teacher and disciple through many generations, including the World-Honored One, is real. I have received our grandfather teacher’s love for Thay, his disciple, in a way that I can feel. It manifested during a retreat that was very difficult for me.

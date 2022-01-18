@@ -1,6 +1,6 @@
 ﻿---
 title: All is Joy!
-author: Br. Đức Hiền
+author: Brother Chân Trời Đức Hiền
 ---
 
 Beep, beep, beep, it’s 5:00 AM! 

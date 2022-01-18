@@ -1,6 +1,6 @@
 ﻿---
 title: The environment – what can we do?
-author: Br. Dai Dao
+author: Brother Chân Trời Đại Đạo
 ---
 
 ## Workshops on the Environment 

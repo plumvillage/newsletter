@@ -1,6 +1,6 @@
 ﻿---
 title: Peace and Happiness Walk Hand in Hand 
-author: Sr. Chân Giác Nghiêm
+author: Sister Chân Giác Nghiêm
 ---
 
 Thinking of Plum Village in its early days is like opening a sacred and wonderful book where Peace and Happiness walk hand in hand.
