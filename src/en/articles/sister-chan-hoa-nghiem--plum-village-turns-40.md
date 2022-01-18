@@ -1,6 +1,6 @@
 ﻿---
 title: Plum Village Turns 40
-author: Sr. Chân Hoa Nghiêm 
+author: Sister Chân Hoa Nghiêm
 ---
 
 Plum Village, in the 1980s and 1990s was like a rural village, still very rustic. There were very few people there and life was quite simple. Our room only had a table and a bed. The bed was nothing but a plank of wood on top of four bricks. On my ordination day, my elder sister, Sister Doan Nghiem, offered me a set of faded brown short robes. I also received a top from Sister Vien Quang and a pair of pants from Sister Chan Vi so I could have another complete set of short robes. Thay also gave me one grey long robe, which I liked very much. At that time, I was only half my current age. I was young and full of spirit. I was quite active and eager to do everything. I volunteered to work in the garden because our food was very basic then and we ate what we planted in the garden. But I was born and grew up in the city so gardening was something very new to me. I followed Sister Chan Vi to learn how to garden. We were so keen on digging the soil that we even skipped evening sitting meditation sessions. Sister Chan Vi and I were scolded by Sister Thanh Luong: “You are here to practice, not to work!” We immediately went to her to begin anew because she was our eldest sister at the time.

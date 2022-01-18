@@ -1,6 +1,6 @@
 ﻿---
 title: Poems
-author: Chân Từ Nghiêm
+author: Sister Chân Từ Nghiêm
 ---
 
 ## May the Smiles from our Hearts

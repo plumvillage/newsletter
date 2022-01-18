@@ -1,6 +1,6 @@
 ﻿---
 title: Poems
-author: Sr. Chánh Niệm
+author: Sister Chân Trăng Chánh Niệm
 ---
 
 ## Here

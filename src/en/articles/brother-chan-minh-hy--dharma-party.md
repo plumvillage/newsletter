@@ -1,8 +1,8 @@
 ﻿---
 title: Dharma Party
-author: Br. Chân Minh Hy
+author: Brother Chân Minh Hy
 ---
- 
+
 *(This article was translated from Vietnamese)*
 
 There is an anecdote about an occasion at the Tu Dam Temple in Vietnam, when the monks were about to put their sanghati on for the precept recitation ceremony, and Venerable Thien Sieu asked:

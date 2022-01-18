@@ -1,6 +1,6 @@
 ﻿---
 title: Happiness, Where Are You?
-author: Br. Chân Trời Ruộng Đức
+author: Brother Chân Trời Ruộng Đức
 ---
 
 Time passes by so quickly. Entering the third year of life as a novice, looking again at my bodhichitta, I ask myself, why am I here? Am I waking up a little bit more everyday? In the past I gave food, medicine, clothes, and provided accommodation for people who were in need. My thinking was that they would feel happy and satisfied once they had received help, but in fact the situation was not like that, what I offered only helped them in part. I saw that after they had received material support, they were still not happy and continued to wait for assistance, so we had to continue to look for a way to help them. At that time I didn't know how to practice and so I created a burden for myself. When l saw that they were unhappy, I also became unhappy. I started to ask myself, why is it like this?

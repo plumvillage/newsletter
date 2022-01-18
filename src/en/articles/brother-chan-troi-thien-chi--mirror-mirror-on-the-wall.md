@@ -1,6 +1,6 @@
 ﻿---
 title: Mirror, mirror on the wall …
-author: Br. Thiện Chí
+author: Brother Chân Trời Thiện Chí
 ---
 
 Shortly after the pandemic began, my mother told me that she felt lonely. I called her every week – even twice a week – during that time, but that was clearly not enough. Since I knew my mom loves mirrors, I decided to craft a gift for her: an enchanting, miraculous mirror that would speak with Thay’s voice to comfort her. I wanted it to look creative, old and a little mysterious, with a classic oval shape. Imagining it lit up a Buddha’s smile in my chest. I thought, “Yes! The glass should spill out of the mirror frame and reveal the Gatha for looking into the mirror.” With this fire of inspiration, immense determination, power and sweet excitement began to circulate in my body. It was easy to find some recycled materials and get started. But soon the difficulties began to overwhelm me.

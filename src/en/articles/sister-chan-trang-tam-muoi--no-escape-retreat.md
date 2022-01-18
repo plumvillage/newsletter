@@ -1,6 +1,6 @@
 ﻿---
 title: “No Escape!” retreat
-author: Sr. Tam Muoi
+author: Sister Chân Trăng Tam Muội
 ---
 
 ## A year in lockdown with very elderly parents 

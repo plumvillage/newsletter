@@ -1,7 +1,7 @@
 ﻿---
 title: The Early Years of Plum Village
 subtitle: An Interview with Sr. Jina & Sr. Eleni
-author: Sr. Dieu Nghiem (Jina) & Sr. Tu Nghiem (Eleni)
+author: Sister Chân Diệu Nghiêm (Jina) & Sister Chân Từ Nghiêm (Eleni)
 ---
 
 *Sr. Dieu Nghiem (also known as Sr. Jina) arrived in Plum Village in 1990 as a monastic from the Japanese Soto Zen tradition. Sr. Jina was the abbess of Lower Hamlet from 1998 to 2014. Sr. Tu Nghiem (also known as Sr. Eleni) first came from America as a lay friend in 1990 and ordained in 1991.</br>
@@ -9,7 +9,7 @@ We asked these elders for some of their memories of the early days of Plum Villa
 
 ## Life in Community
 
-***Sr.Tu Nghiem*:** It was such an eye-opening experience for me to [live in a Vietnamese community in rural France], coming from Manhattan – a city with big concrete apartment buildings. It was a totally different experience, and I appreciated so much the way the Vietnamese mothers and fathers, the children, were happy and harmonious together. 
+***Sr. Tu Nghiem*:** It was such an eye-opening experience for me to [live in a Vietnamese community in rural France], coming from Manhattan – a city with big concrete apartment buildings. It was a totally different experience, and I appreciated so much the way the Vietnamese mothers and fathers, the children, were happy and harmonious together. 
 
 My parents were both children of immigrants, so they had the experience of speaking their parents’ native language and learning English later on, so maybe they transmitted to me a sense of feeling comfortable with other cultures. I was used to this double culture. The adjustments were not so difficult, and the Vietnamese culture I found was gentle and very respectful. I remember how Thay greeted the father of Br. Phap Ung. Thay stood up from the table, and when [Br. Phap Ung’s] father came into the room, Thay went up to him, (as he was older than Thay), and greeted him in the appropriate way. I was just so touched by Thay continuing to keep the value of addressing the parents of his disciples in a respectful way.
 
