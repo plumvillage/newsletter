@@ -86,6 +86,7 @@ body {
 
 .front-cover img, .front-collage img, .back-collage img, .back-cover img {
     width: 100%;
+    z-index: 2;
     /* position: relative; */
 }
 
@@ -230,20 +231,10 @@ article blockquote:lang(zh) {
 }
 
 /* 21st century*/
-/* span.superscript {
-    vertical-align: top;
-    font-size: 60%;
-    display: inline-block;
-    top:
-}
-*/
-
-sup {
-    /* font-size: 0.8em; */
+/* https://en.wikipedia.org/wiki/Ordinal_indicator */
+sup { /* superscript */
+    /* otherwise, the line above is pushed up  */
     line-height: 0;
-    /* position: relative;
-    vertical-align: baseline;
-    top: -0.5em; */
 }
 
 /* https://www.pagedjs.org/documentation/cheatsheet/ */
