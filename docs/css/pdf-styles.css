@@ -174,8 +174,9 @@ h1, article .author {
 h1 { /* title */
     font-family: "Cormorant Garamond";
     font-weight: bold;
-    font-size: 30pt;
+    font-size: 32pt;
     line-height: 110%;
+    margin-top: 12pt;
     margin-bottom: 8pt;
     /* font-style: italic; */
     /* changes how numbers look like */
@@ -183,12 +184,12 @@ h1 { /* title */
 }
 
 article .author {
-    font-family: "Open Sans";
-    font-weight: 500;
+    /* font-family: "Open Sans"; */
+    /* font-weight: bold; */
     font-size: 14pt;
     line-height: 16pt;
     font-variant: small-caps;
-    margin-bottom: 6mm;
+    margin-bottom: 8mm;
 }
 
 h2 { /* section in article */
@@ -259,7 +260,18 @@ sup { /* superscript */
     border-top: 0.6pt solid black;
 }
 
+article img {
+    max-width: 100%;
+    margin-top: 6pt;
+    margin-bottom: 6pt;
+}
 
+/* img#thien-chi-1 {
+    float: inline-end;
+}
+img#thien-chi-2 {
+    float: left;
+} */
 
 
 

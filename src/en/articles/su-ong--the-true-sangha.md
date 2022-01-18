@@ -5,6 +5,8 @@ author: Sư Ông
 
 *Editor's note: In this article we distinguish between the "Sangha" of the Three Jewels (which consist of the Buddha, Dharma and Sangha) and "sangha" when it refers to a community of practitioners.*
 
+<img id="ThayTalk" src="../../media/article_photos/su-ong/ThayTalk_whiteFadeout2.jpg">
+
 Dear sangha, today is the 14th of October, 2010. We are in the Space Beyond Space Meditation Hall in Pak Chong, Thailand, during our monastic retreat with the theme of “The Plant Nursery”.
 
 ## Insight without boundaries 
