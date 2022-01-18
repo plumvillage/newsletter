@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="{{ locale }}">
+<body>
+{% set articles = collections["articles_" + locale] %}
+{%- for article in articles -%}
+{% set newSlug = article.data.author | slugify + "--" + article.data.title | slugify %}
+{{ article.data.author | slugify }}<br>
+
+{%- if article.fileSlug != newSlug-%}
+git mv "{{ article.fileSlug }}.md" "{{ newSlug }}.md"<br>
+{%- endif -%}
+{%- endfor -%}
+</body>
+</html>

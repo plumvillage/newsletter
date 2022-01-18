@@ -4,6 +4,7 @@
 {% set articles = collections["articles_" + locale] %}
 {%- for article in articles -%}
 {% set newSlug = article.data.author | slugify + "--" + article.data.title | slugify %}
+<p>{{ newSlug }}</p>
 {%- if article.fileSlug != newSlug-%}
 mv "{{ article.fileSlug }}.md" "{{ newSlug }}.md"<br>
 {%- endif -%}

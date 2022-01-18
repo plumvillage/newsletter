@@ -11,6 +11,59 @@
     --color-leaf: hsl(72, 42%, 53%); /* C 8%   M 0%   Y 39%   K 27% */
 }
 
+
+
+/* "Gentium Book Plus" family with a slightly heavier weight which may be useful at small sizes. */
+@font-face {
+    font-family: "Gentium Book Plus";
+    src: url("fonts/GentiumBookPlus-Bold.woff2") format("woff2");
+    font-weight: bold;
+}
+@font-face {
+    font-family: "Gentium Book Plus";
+    src: url("fonts/GentiumBookPlus-BoldItalic.woff2") format("woff2");
+    font-weight: bold;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Gentium Book Plus";
+    src: url("fonts/GentiumBookPlus-Italic.woff2") format("woff2");
+    font-style: italic;
+}
+@font-face {
+    font-family: "Gentium Book Plus";
+    src: url("fonts/GentiumBookPlus-Regular.woff2") format("woff2");
+}
+
+
+/* @font-face {
+    font-family: "Gentium Plus";
+    src: url("fonts/GentiumPlus-Bold.woff2") format("woff2");
+    font-weight: bold;
+}
+@font-face {
+    font-family: "Gentium Plus";
+    src: url("fonts/GentiumPlus-BoldItalic.woff2") format("woff2");
+    font-weight: bold;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Gentium Plus";
+    src: url("fonts/GentiumPlus-Italic.woff2") format("woff2");
+    font-style: italic;
+}
+@font-face {
+    font-family: "Gentium Plus";
+    src: url("fonts/GentiumPlus-Regular.woff2") format("woff2");
+} */
+
+/* https://en.wikipedia.org/wiki/List_of_CJK_fonts#Regular_script
+https://lingdata.org/archives/fonts.html
+*/
+
+
+
+
 @font-face {
     font-family: "Cormorant Garamond";
     src: url("fonts/CormorantGaramond-Light.woff2") format("woff2");
@@ -68,53 +121,6 @@
 
 
 
-/* "Gentium Book Plus" family with a slightly heavier weight which may be useful at small sizes. */
-@font-face {
-    font-family: "Gentium Book Plus";
-    src: url("fonts/GentiumBookPlus-Bold.woff2") format("woff2");
-    font-weight: bold;
-}
-@font-face {
-    font-family: "Gentium Book Plus";
-    src: url("fonts/GentiumBookPlus-BoldItalic.woff2") format("woff2");
-    font-weight: bold;
-    font-style: italic;
-}
-@font-face {
-    font-family: "Gentium Book Plus";
-    src: url("fonts/GentiumBookPlus-Italic.woff2") format("woff2");
-    font-style: italic;
-}
-@font-face {
-    font-family: "Gentium Book Plus";
-    src: url("fonts/GentiumBookPlus-Regular.woff2") format("woff2");
-}
-
-
-/* @font-face {
-    font-family: "Gentium Plus";
-    src: url("fonts/GentiumPlus-Bold.woff2") format("woff2");
-    font-weight: bold;
-}
-@font-face {
-    font-family: "Gentium Plus";
-    src: url("fonts/GentiumPlus-BoldItalic.woff2") format("woff2");
-    font-weight: bold;
-    font-style: italic;
-}
-@font-face {
-    font-family: "Gentium Plus";
-    src: url("fonts/GentiumPlus-Italic.woff2") format("woff2");
-    font-style: italic;
-}
-@font-face {
-    font-family: "Gentium Plus";
-    src: url("fonts/GentiumPlus-Regular.woff2") format("woff2");
-} */
-
-/* https://en.wikipedia.org/wiki/List_of_CJK_fonts#Regular_script
-https://lingdata.org/archives/fonts.html
-*/
 
 /* each is 4 MiB */
 /* @font-face {
