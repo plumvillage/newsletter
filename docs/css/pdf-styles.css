@@ -1,7 +1,7 @@
 /* this stylesheet is used when generating a PDF */
 :root {
     --bleed: 5mm;
-    
+
 }
 
 /* reset chapter and figure counters on the body */
@@ -22,6 +22,7 @@ body {
     margin-bottom: 40pt;
     marks: crop;
     bleed: 5mm;
+    counter-reset: footnote;
     /* this breaks pagedjs */
     /* bleed: var(--bleed); */
     @footnote {
@@ -52,7 +53,7 @@ body {
         font: "Cormorant Garamond", "Cormorant Infant";
         background: 7% 50%/25% no-repeat url('../media/Calligraphy/Parallels EN p1 Harmony at home.jpg');
     }
-    
+
 }
 
 /* Bottom left we display the title of the book, bottom right the page using a CSS counter, top right the content of the current chapter */
@@ -93,8 +94,8 @@ body {
 /* get the title of the current chapter - this will be the content of the h1
 reset figure counter as figures start from 1 in each chapter */
 h1 {
-    string-set: doctitle content();
-    counter-reset: figurenum footnote;
+    string-set: doctitle content(text);
+    counter-reset: figurenum;
 }
 
 /* increment chapter counter */
@@ -190,7 +191,6 @@ article .author {
     line-height: 16pt;
     font-variant: small-caps;
     margin-bottom: 8mm;
-}
 
 h2 { /* section in article */
     font-size: 13pt;
@@ -241,7 +241,6 @@ sup { /* superscript */
 /* https://www.pagedjs.org/documentation/cheatsheet/ */
 .note {
     float: footnote;
-    counter-increment: footnote;
     font-size: 10pt;
     line-height: 120%;
     /* indent all but first line */
@@ -250,14 +249,16 @@ sup { /* superscript */
 }
 
 .note::footnote-call {
-    content: counter(footnote);
+    /* content: counter(footnote, symbols('*', '†', '‡', '§')); */
     display: inline-block;
-    left: -5pt;
+    text-indent: 0;
 }
 
 .note::footnote-marker {
+    /* content: counter(footnote, symbols('*', '†', '‡', '§')) '. '; */
     font-weight: bold;
     border-top: 0.6pt solid black;
+    list-style-position: outside;
 }
 
 article img {
@@ -284,7 +285,7 @@ img#ThayTalk {
 
     left: calc((var(--pagedjs-margin-left) + var(--bleed))*-1);
     /* this means anchor image at horizontal centerpoint, rather then left */
-    /* left: 50%; 
+    /* left: 50%;
     transform: translate(-50%, 0);  */
 
     top: calc((var(--pagedjs-margin-top) + var(--bleed))*-1);
