@@ -1,5 +1,6 @@
 {% set i18n = site[locale] %}
 {% set articles = collections["articles_" + locale] %}
+{% set images = collections["images"] %}
 <!DOCTYPE html>
 <html dir="ltr" lang="{{ locale }}">
 <head>
@@ -36,7 +37,6 @@
         <img src="/media/LTLM45-2022-photos-front-preview.jpg">
     </div>
     {%- endif %}
-
 
     {%- for article in articles -%}
         <article>

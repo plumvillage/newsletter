@@ -22,6 +22,21 @@ Image.concurrency = 4; // default is 10
     console.log( stats );
 })();
 
+async function imageShortcode(src, alt) {
+    let metadata = await Image(src, {
+        formats: ["webp"],
+        outputDir: "docs/media/build/",
+        widths: [300],
+        // https://sharp.pixelplumbing.com/api-output#webp
+        sharpWebpOptions: {
+            quality: 90,
+        }
+    });
+    
+    let data = metadata.jpeg[metadata.jpeg.length - 1];
+    return `<img src="${data.url}" width="${data.width}" height="${data.height}" alt="${alt}" loading="lazy" decoding="async">`;
+}
+
 
 /* {
   webp: [
