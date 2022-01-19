@@ -39,4 +39,4 @@ npm run build
 - [A comparison of different html2pdf tools](https://azettl.github.io/html2pdf/)
 
 ## Bugs & ToDos
- - � appear in Print-Preview, "tình hu��ng này."
+ - Images that are rotated with EXIF are not processed correctly, see https://stackoverflow.com/questions/48716266/sharp-image-library-rotates-image-when-resizing
