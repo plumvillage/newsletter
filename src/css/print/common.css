@@ -37,7 +37,7 @@ body {
         content: counter(page);
         font-size: 11pt;
         font: "Cormorant Garamond", "Cormorant Infant";
-        background: 7% 50%/25% no-repeat url('../media/Calligraphy/Parallels EN p1 Harmony at home.jpg');
+        background: 7% 50%/25% no-repeat url('../../media/Calligraphy/Parallels EN p1 Harmony at home.jpg');
     }
 }
 
@@ -50,7 +50,7 @@ body {
         content: counter(page);
         font-size: 11pt;
         font: "Cormorant Garamond", "Cormorant Infant";
-        background: 93% 50%/25% no-repeat url('../media/Calligraphy/Parallels EN p2 Peace all around.jpg');
+        background: 93% 50%/25% no-repeat url('../../media/Calligraphy/Parallels EN p2 Peace all around.jpg');
     }
 }
 
