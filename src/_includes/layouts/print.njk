@@ -31,10 +31,10 @@
     {%- if destination == "browser" %}
 
     <div class="front-cover">
-        <img src="/media/LTLM45-2022 cover front noBleed {{ locale | upper }}-preview.jpg">
+        {% image ["front-cover-", locale, ".jpg"] | join, "front-cover-img" %}
     </div>
     <div class="front-collage">
-        <img src="/media/LTLM45-2022-photos-front-preview.jpg">
+        {% image "front-photos.jpg", "front-photos-img" %}
     </div>
     {%- endif %}
 
@@ -59,10 +59,10 @@
 
     {%- if destination == "browser" %}
     <div class="back-collage">
-        <img src="/media/LTLM45-2022-photos-back-preview.jpg">
+        {% image "back-photos.jpg", "back-photos-img" %}
     </div>
     <div class="back-cover">
-        <img src="/media/LTLM45-2022 cover back noBleed {{ locale | upper }}-preview.jpg">
+        {% image ["back-cover-", locale, ".jpg"] | join, "back-cover-img" %}
     </div>
     {%- endif %}
     {% include "partials/testing.njk" %}

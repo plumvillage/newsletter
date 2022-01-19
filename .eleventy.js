@@ -12,12 +12,6 @@ async function imageShortcode(src, id) {
     let data = {filename: path.basename(src)};
 
     let parsed = path.parse(src)
-    console.log(parsed.dir)
-    // let newName = slugify(parsed.name, {strict: true})
-    // let newFull = parsed.dir + "/" + newName + parsed.ext
-
-    // ./src/media/publish/article_photos/su-ong/ThayHeaderImg_whiteFadeout2.jpg
-    // ../../media/article_photos/su-ong/ThayTalk_whiteFadeout2.jpg
 
     if (reduce) {
         let metadata = await Image(srcFull, {
@@ -36,23 +30,21 @@ async function imageShortcode(src, id) {
             }
         });
         data = metadata.webp[metadata.webp.length - 1];
-        console.log(data)
         destPathRelative = destPathRelative + "build/"
     }
-    console.log(`<img id="${id}" src="${destPathRelative}${parsed.dir}/${data.filename}" loading="lazy" decoding="async">`)
-    /*
-    {
+
+    /* data:
         format: 'webp',
-        width: 300,
-        height: 168,
-        url: '/img/5b-300w.webp',
+        width: 600,
+        height: 295,
+        url: '/img/ThayHeaderImg_whiteFadeout2-600w.webp',
         sourceType: 'image/webp',
-        srcset: '/img/5b-300w.webp 300w',
-        filename: '5b-300w.webp',
-        outputPath: 'docs/media/build/5b-300w.webp',
-        size: 19924
-    }
+        srcset: '/img/ThayHeaderImg_whiteFadeout2-600w.webp 600w',
+        filename: 'ThayHeaderImg_whiteFadeout2-600w.webp',
+        outputPath: 'docs/media/build/article_photos/su-ong/ThayHeaderImg_whiteFadeout2-600w.webp',
+        size: 26450
     */
+    // "../../media/build/article_photos/su-ong/ThayHeaderImg_whiteFadeout2-600w.webp"
     return `<img id="${id}" src="${destPathRelative}${parsed.dir}/${data.filename}" loading="lazy" decoding="async">`;
 }
 

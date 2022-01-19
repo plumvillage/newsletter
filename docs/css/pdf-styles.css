@@ -8,7 +8,7 @@
 body {
     margin: 0;
     padding: 0;
-    counter-reset: page chapternum figurenum footnote;
+    counter-reset: chapternum figurenum ;
     font-family: "Gentium Book Plus", "Skolar Latin", "Skolar PE", "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
     line-height: 16pt;
     font-size: 12pt;
@@ -249,13 +249,11 @@ sup { /* superscript */
 }
 
 .note::footnote-call {
-    /* content: counter(footnote, symbols('*', '†', '‡', '§')); */
     display: inline-block;
     text-indent: 0;
 }
 
 .note::footnote-marker {
-    /* content: counter(footnote, symbols('*', '†', '‡', '§')) '. '; */
     font-weight: bold;
     border-top: 0.6pt solid black;
     list-style-position: outside;
