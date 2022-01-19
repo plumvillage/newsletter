@@ -14,13 +14,10 @@ body {
 }
 
 @page {
-    size: A4;
     /* chrome needs to have --pagedjs-margin-top set manually, otherwise it yields different results */
     margin-top: 32pt;
     --pagedjs-margin-top: 32pt;
     margin-bottom: 40pt;
-    marks: crop;
-    bleed: 5mm;
     counter-reset: footnote;
     /* this breaks pagedjs */
     /* bleed: var(--bleed); */

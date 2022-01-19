@@ -11,14 +11,16 @@
 
 <body>
     <h2>Tiếng Việt</h2>
-    <p><a href="/vi/print-preview/">Preview print version</a>, <a href="/vi/print/">Print</a></p>
+    <p>Preview print in <a href="/vi/preview-a4/">A4</a> or <a href="/vi/preview-letter/">Letter</a> size.<br>
+    <small>(inspect print HTML <a href="/vi/a4/">A4</a>/<a href="/vi/letter/">letter</a>)</small></p>
     <ul>
         {%- for article in collections.articles_vi -%}
         <li><a href="{{ article.url }}">{{ article.data.author }} - {{ article.data.title }}</a></li>
         {%- endfor -%}
     </ul>
     <h2>English</h2>
-    <p><a href="/en/print-preview/">Preview print version</a>, <a href="/en/print/">Print</a></p>
+    <p>Preview print in <a href="/en/preview-a4/">A4</a> or <a href="/en/preview-letter/">Letter</a> size.<br>
+    <small>(inspect print HTML <a href="/en/a4/">A4</a>/<a href="/en/letter/">letter</a>)</small></p>
     <ul>
         {%- for article in collections.articles_en -%}
         <li><a href="{{ article.url }}">{{ article.data.title }}</a></li>
