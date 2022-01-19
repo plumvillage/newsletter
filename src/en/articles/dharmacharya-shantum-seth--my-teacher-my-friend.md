@@ -1,5 +1,5 @@
 ﻿---
-title: Thich Nhat Hanh, my guide, teacher and wise friend
+title: My teacher, my friend
 author: Dharmacharya Shantum Seth
 ---
 

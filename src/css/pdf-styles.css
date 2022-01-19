@@ -66,7 +66,6 @@ body {
     position: relative;
     /* break-after: page; */
     overflow: visible;
-    z-index: 2;
 }
 
 @page photopage {
@@ -279,6 +278,7 @@ img#thien-chi-2 {
 
 
 img#ThayTalk {
+    page: ThayTalkPage;
     margin: 0;
     max-width: none;
     position: absolute;
@@ -294,6 +294,8 @@ img#ThayTalk {
     overflow: visible;
 }
 
+/* @page photopage { */
+
 /* style='--pagedjs-string-first-doctitle: "Tăng Thân Đích Thực"; --pagedjs-string-last-doctitle: "Tăng Thân Đích Thực"; */
 html:lang(vi) #ch1 {
     text-shadow: /* stacking */
@@ -304,4 +306,3 @@ html:lang(vi) #ch1 {
     /* background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(255,255,255,0) 40%); */
     overflow: visible;
 }
-
