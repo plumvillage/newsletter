@@ -17,7 +17,7 @@ async function imageShortcode(src, id) {
             let metadata = await Image(srcFull, {
                 formats: ["webp"],
                 outputDir: `docs/media/build/${parsed.dir}`,
-                widths: [600],
+                widths: [1000],
                 sharpOptions: {},
                 // https://sharp.pixelplumbing.com/api-output#webp
                 sharpWebpOptions: {

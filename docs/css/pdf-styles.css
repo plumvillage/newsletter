@@ -1,7 +1,6 @@
 /* this stylesheet is used when generating a PDF */
 :root {
     --bleed: 5mm;
-
 }
 
 /* reset chapter and figure counters on the body */
@@ -31,29 +30,18 @@ body {
     }
 }
 
-@page:first {
-    @bottom-right {
-        content: normal;
-        margin: 0;
-    }
-    @bottom-left {
-        content: normal;
-        margin: 0;
-    }
-}
-
 /* Bottom right book title, bottom left current page */
 @page:left {
     margin-left: 33.27pt;
     margin-right: 64pt;
     @bottom-left {
-        padding: 10pt 0 10pt 0; /* top right bottom left*/
+        /* top right bottom left*/
+        padding: 10pt 0 10pt 0;
         content: counter(page);
         font-size: 11pt;
         font: "Cormorant Garamond", "Cormorant Infant";
         background: 7% 50%/25% no-repeat url('../media/Calligraphy/Parallels EN p1 Harmony at home.jpg');
     }
-
 }
 
 /* Bottom left we display the title of the book, bottom right the page using a CSS counter, top right the content of the current chapter */
@@ -70,6 +58,7 @@ body {
 }
 
 .front-cover, .front-collage, .back-collage, .back-cover {
+    page: photopage; /* named pages*/
     width: calc(var(--pagedjs-pagebox-width));
     height: calc(var(--pagedjs-pagebox-height));
     top: calc((var(--pagedjs-margin-top))*-1);
@@ -77,7 +66,22 @@ body {
     position: relative;
     /* break-after: page; */
     overflow: visible;
+    z-index: 2;
 }
+
+@page photopage {
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0mm;
+    @bottom-right {
+        display: none;
+    }
+    @bottom-left {
+        display: none;
+    }
+}
+
 .front-cover.bleed, .front-collage.bleed, .back-collage.bleed, .back-cover.bleed {
     width: calc(var(--pagedjs-pagebox-width) + var(--bleed)*2);
     height: calc(var(--pagedjs-pagebox-height) + var(--bleed)*2);
@@ -87,8 +91,6 @@ body {
 
 .front-cover img, .front-collage img, .back-collage img, .back-cover img {
     width: 100%;
-    z-index: 2;
-    /* position: relative; */
 }
 
 /* get the title of the current chapter - this will be the content of the h1
