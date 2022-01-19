@@ -1,35 +1,27 @@
-{% set i18n = site[locale] %}
-{% set articles = collections["articles_" + locale] %}
-{% set images = collections["images"] %}
 <!DOCTYPE html>
-<html dir="ltr" lang="{{ locale }}">
+<html dir="ltr" lang="{{ locale }}" class="size-{{ size }}">
 <head>
     <meta charset="utf-8" />
+    {% set i18n = site[locale] %}
+    {% set articles = collections["articles_" + locale] %}
+    {% set images = collections["images"] %}
     <title>{{ i18n.title }}</title>
     <meta name="author" content="{{ i18n.author }}" />
     <meta name="subject" content="" />
-    <meta name="keywords" content="" />
+    <meta name="keywords" content="?" />
     <meta name="date" content="2022" />
 
     {# needs to be relative for pagedjs to work #}
     <link rel="stylesheet" href="{{ '../../css/global.css' | url }}">
-    <link rel="stylesheet" href="{{ '../../css/pdf-styles.css' | url }}">
-    
-    {%- if destination == "printer" %}
-    {# <style>
-        {% include "/css/crop-marks.css" %}
-    </style> #}
-    {%- endif %}
+    <link rel="stylesheet" href="../../css/print/common.css">
+    <link rel="stylesheet" href="../../css/print/{{ size }}.css">
 
-    {%- if destination == "browser" %}
-    <!-- paged.js preview in browser -->
-    <script src="{{ '/pagedjs/paged.polyfill.js' | url }}"></script>
-    <link rel="stylesheet" href="{{ '/pagedjs/interface.css' | url }}">
-    {%- endif %}
+    {% include "../partials/page-setup.njk" %}
+
+    {% include "../partials/print-preview.njk" %}
 </head>
 <body>
-    {%- if destination == "browser" %}
-
+    {%- if preview %}
     <div class="front-cover">
         {% image ["front-cover-", locale, ".jpg"] | join, "front-cover-img" %}
     </div>

@@ -3,11 +3,13 @@
     "version": "0.0.1",
     "description": "",
     "scripts": {
-        "start": "npx @11ty/eleventy --serve",
+        "start": "npx @11ty/eleventy --serve --incremental",
         "build-html": "rm -R docs && npx @11ty/eleventy",
-        "build-pdf-vi": "pagedjs-cli -i docs/vi/print/index.html -o builds/ltlm-45-vi.pdf",
-        "build-pdf-en": "pagedjs-cli -i docs/en/print/index.html -o builds/pvnewsletter-45.pdf",
-        "build": "run-s build-html build-pdf-vi build-pdf-en"
+        "build-pdf-vi-letter": "pagedjs-cli -i docs/vi/letter/index.html -o builds/ltlm-45-vi-letter.pdf",
+        "build-pdf-vi-a4": "pagedjs-cli -i docs/vi/a4/index.html -o builds/ltlm-45-vi-a4.pdf",
+        "build-pdf-en-letter": "pagedjs-cli -i docs/en/letter/index.html -o builds/pvnewsletter-45-letter.pdf",
+        "build-pdf-en-a4": "pagedjs-cli -i docs/en/a4/index.html -o builds/pvnewsletter-45-a4.pdf",
+        "build": "run-s build-html build-pdf-vi-letter build-pdf-vi-a4 build-pdf-en-letter build-pdf-en-a4"
     },
     "keywords": [],
     "author": "",
