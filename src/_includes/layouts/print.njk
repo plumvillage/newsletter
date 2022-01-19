@@ -56,7 +56,6 @@
         </ul>
     </div>
 
-
     {%- if destination == "browser" %}
     <div class="back-collage">
         {% image "back-photos.jpg", "back-photos-img" %}
@@ -65,7 +64,7 @@
         {% image ["back-cover-", locale, ".jpg"] | join, "back-cover-img" %}
     </div>
     {%- endif %}
-    {% include "partials/testing.njk" %}
+    {# {% include "partials/testing.njk" %} #}
 </body>
 
 </html>
