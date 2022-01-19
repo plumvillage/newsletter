@@ -1,5 +1,5 @@
 ﻿---
-title: Integrating the Teachings of Thích Nhất Hạnh into Healthcare Settings
+title: Healing the Healers
 author: Dr. Elli Weisbaum 
 ---
 

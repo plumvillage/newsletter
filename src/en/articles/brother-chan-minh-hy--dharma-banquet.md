@@ -1,5 +1,5 @@
 ﻿---
-title: Dharma Party
+title: Dharma banquet
 author: Brother Chân Minh Hy
 ---
 
