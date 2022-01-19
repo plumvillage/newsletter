@@ -11,8 +11,9 @@ async function imageShortcode(src, id) {
     let destPathRelative = "../../media/";
     let data = {filename: path.basename(src)};
     let parsed = path.parse(src)
-    
+
     try {
+        // TODO this messes up the page on load
         if (reduce) {
             let metadata = await Image(srcFull, {
                 formats: ["webp"],
