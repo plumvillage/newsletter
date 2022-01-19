@@ -5,13 +5,13 @@ const path = require("path");
 
 async function imageShortcode(src, id) {
     // src: article_photos/su-ong/ThayHeaderImg_whiteFadeout2.jpg
-    let reduce = true;
+    let reduce = false;
     const mediaPath = "src/media/publish/";
     let srcFull = mediaPath+src
     let destPathRelative = "../../media/";
     let data = {filename: path.basename(src)};
     let parsed = path.parse(src)
-
+    
     try {
         if (reduce) {
             let metadata = await Image(srcFull, {
