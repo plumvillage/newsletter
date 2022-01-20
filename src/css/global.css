@@ -127,11 +127,11 @@ https://lingdata.org/archives/fonts.html
     font-family: "Noto Serif TC";
     src: url("fonts/NotoSerifTC-Regular.woff2") format("woff2");
 } */
-@font-face {
+/* @font-face {
     font-family: "Noto Serif TC";
     src: url("fonts/NotoSerifTC-Medium.woff2") format("woff2");
     font-weight: 500;
-}
+} */
 /* @font-face {
     font-family: "Noto Serif TC";
     src: url("fonts/NotoSerifTC-SemiBold.woff2") format("woff2");
@@ -153,7 +153,7 @@ span:lang(zh), blockquote:lang(zh) {
 
 
 
-@font-face {
+/* @font-face {
     font-family: "Open Sans";
     src: url("fonts/OpenSans-Light.woff2") format("woff2");
     font-weight: 100;
@@ -208,21 +208,7 @@ span:lang(zh), blockquote:lang(zh) {
     font-weight: 800;
     font-style: italic;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ */
 
 
 

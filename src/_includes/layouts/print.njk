@@ -25,7 +25,7 @@
         {% image ["front-cover-", locale, ".jpg"] | join, "front-cover-img" %}
     </div>
     <div class="front-collage">
-        {% image "front-photos.jpg", "front-photos-img" %}
+        {% image "front-photos.jpg" %}
     </div>
     {%- endif %}
 
@@ -49,14 +49,30 @@
     
     {%- if preview %}
     <div class="back-collage">
-        {% image "back-photos.jpg", "back-photos-img" %}
+        {% image "back-photos.jpg" %}
     </div>
     <div class="back-cover">
-        {% image ["back-cover-", locale, ".jpg"] | join, "back-cover-img" %}
+        {% image ["back-cover-", locale, ".jpg"] | join %}
     </div>
     {%- endif %}
 
     {# {% include "partials/testing.njk" %} #}
+
+    <script>
+        class MyHandler extends Paged.Handler {
+            constructor(chunker, polisher, caller) {
+                super(chunker, polisher, caller);
+            }
+            // https://www.pagedjs.org/documentation/11-hooks/
+            afterRendered(pages) {
+                let elem = document.querySelector("h1#bells-of-mindfulness")
+                let page = elem.parentNode.parentNode.parentNode.parentNode.parentNode.parentNode.parentNode
+                page.classList.add("bells-of-mindfulness-page")
+                console.log("custom script done.", page)
+            }
+        }
+        Paged.registerHandlers(MyHandler);
+    </script>
 </body>
 
 </html>

@@ -1,10 +1,11 @@
 const articleOrder = require("./src/_data/article-order.js");
 const fs = require('fs')
-const Image = require("@11ty/eleventy-img");
 const path = require("path");
+const slugify = require('slugify')
+const Image = require("@11ty/eleventy-img");
 Image.concurrency = 4; // default is 10
 
-async function imageShortcode(src, id) {
+async function imageShortcode(src) {
     // src: article_photos/su-ong/ThayHeaderImg_whiteFadeout2.jpg
     let reduce = true;
     const mediaPath = "src/media/publish/";
@@ -12,6 +13,7 @@ async function imageShortcode(src, id) {
     let destPathRelative = "../../media/";
     let data = {filename: path.basename(src)};
     let parsed = path.parse(src)
+    let autoId = slugify(`${parsed.dir}/${parsed.name}`, {strict: true})
     let options = {
         formats: ["webp"],
         outputDir: `docs/media/build/${parsed.dir}`,
@@ -40,7 +42,7 @@ async function imageShortcode(src, id) {
             data = metadata.webp[metadata.webp.length - 1];
             destPathRelative = destPathRelative + "build/"
         }
-        console.log(data.filename)
+        console.log("processing:", data.filename)
 
         /* data:
             format: 'webp',
@@ -54,9 +56,9 @@ async function imageShortcode(src, id) {
             size: 26450
         */
         // "../../media/build/article_photos/su-ong/ThayHeaderImg_whiteFadeout2-600w.webp"
-        return `<img id="${id}" src="${destPathRelative}${parsed.dir}/${data.filename}" loading="lazy" decoding="async">`;
+        return `<img id="${autoId}" src="${destPathRelative}${parsed.dir}/${data.filename}" loading="lazy" decoding="async">`;
     } catch(err) {
-        console.error(id, src, err)
+        console.error(src, err)
         return ""
     }
 }
