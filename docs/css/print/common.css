@@ -75,9 +75,10 @@ html:lang(vi) .pagedjs_right_page .pagedjs_margin-bottom-right {
 }
 
 @page photopage {
-    margin-top: 0px;
-    margin-right: 0px;
-    margin-bottom: 0px;
+    /* Important for BUG-HUNTERS: if set to "0" only, it messes up the layout. it needs to be "0mm" */
+    margin-top: 0mm;
+    margin-right: 0mm;
+    margin-bottom: 0mm;
     margin-left: 0mm;
     @bottom-right {
         display: none;
@@ -283,11 +284,10 @@ img#thien-chi-2 {
 
 
 
-
-
-
-
-img#ThayTalk {
+/* article_photos/brother-chan-troi-thien-chi/21767317541562549611291283397034335052574932n */
+/* article_photos/brother-chan-troi-thien-chi/5b_rot */
+/*  articlephotossu-ongThayHeaderImgwhiteFadeout2 */
+img#articlephotossu-ongThayHeaderImgwhiteFadeout2 {
     margin: 0;
     max-width: none;
     position: absolute;
@@ -306,4 +306,24 @@ h1#the-true-sangha, h1#tang-than-dich-thuc {
     /* does not extend beyond article frame: */
     /* background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(255,255,255,0) 40%); */
     overflow: visible;
+}
+
+h1#bells-of-mindfulness {
+}
+
+img#articlephotosbrother-chan-phap-dungthay-bell3-torn-edges {
+    column-span: all;
+    display: block;
+    /* does not work: will still overflow */
+    /* object-fit: contain; */
+    /* bottom: 0; */
+    max-width: 97%;
+    /* max-height: 100%; */
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bells-of-mindfulness-page .pagedjs_margin-bottom {
+    height: 0;
+    display: none;
 }
