@@ -5,12 +5,14 @@ module.exports = {
         title: "Plum Village Newsletter #45 — 2022",
         toc: "Table of Contents",
         author: "Plum Village Community",
-        home: "Home"
+        home: "Home",
+        articles: "Articles"
     },
     vi: {
         title: "Lá thư Làng Mai số 45 — 2022",
         toc: "Mục lục",
         author: "Làng Mai",
-        home: "trang chủ" // well, for now
+        home: "trang chủ", // well, for now
+        articles: "Bài"
     },
 };

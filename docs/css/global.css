@@ -1,35 +1,46 @@
 /* https://color.adobe.com/de/mythemes */
+
+
 /* http://rbyte.github.io/hclColourPicker/ */
+
 :root {
-    --color-sky: hsl(204, 100%, 59%); /* C 82%   M 33%   Y 0%   K 0% */
-    --color-tower: hsl(14, 57%, 50%); /* C 0%   M 44%   Y 57%   K 21% */
+    --color-sky: hsl(204, 100%, 59%);
+    /* C 82%   M 33%   Y 0%   K 0% */
+    --color-tower: hsl(14, 57%, 50%);
+    /* C 0%   M 44%   Y 57%   K 21% */
     --color-tower-dark: hsl(356, 66%, 29%);
-    --color-sanghati: hsl(46, 80%, 55%); /* C 0%   M 16%   Y 71%   K 9% */
+    --color-sanghati: hsl(46, 80%, 55%);
+    /* C 0%   M 16%   Y 71%   K 9% */
     --color-sanghati-light: hsl(46, 100%, 85%);
-    --color-bark: hsl(19, 36%, 32%); /* C 0%   M 16%   Y 23%   K 57% */
+    --color-bark: hsl(19, 36%, 32%);
+    /* C 0%   M 16%   Y 23%   K 57% */
     --color-bark-dark: hsl(17, 36%, 15%);
-    --color-leaf: hsl(72, 42%, 53%); /* C 8%   M 0%   Y 39%   K 27% */
+    --color-leaf: hsl(72, 42%, 53%);
+    /* C 8%   M 0%   Y 39%   K 27% */
 }
 
 
-
 /* "Gentium Book Plus" family with a slightly heavier weight which may be useful at small sizes. */
+
 @font-face {
     font-family: "Gentium Book Plus";
     src: url("fonts/GentiumBookPlus-Bold.woff2") format("woff2");
     font-weight: bold;
 }
+
 @font-face {
     font-family: "Gentium Book Plus";
     src: url("fonts/GentiumBookPlus-BoldItalic.woff2") format("woff2");
     font-weight: bold;
     font-style: italic;
 }
+
 @font-face {
     font-family: "Gentium Book Plus";
     src: url("fonts/GentiumBookPlus-Italic.woff2") format("woff2");
     font-style: italic;
 }
+
 @font-face {
     font-family: "Gentium Book Plus";
     src: url("fonts/GentiumBookPlus-Regular.woff2") format("woff2");
@@ -57,61 +68,70 @@
     src: url("fonts/GentiumPlus-Regular.woff2") format("woff2");
 } */
 
+
 /* https://en.wikipedia.org/wiki/List_of_CJK_fonts#Regular_script
 https://lingdata.org/archives/fonts.html
 */
 
-
-
-
 @font-face {
     font-family: "Cormorant Garamond";
     src: url("fonts/CormorantGaramond-Light.woff2") format("woff2");
-    font-weight: 100; /* "lighter" does not work */
+    font-weight: 100;
+    /* "lighter" does not work */
 }
+
 @font-face {
     font-family: "Cormorant Garamond";
     src: url("fonts/CormorantGaramond-LightItalic.woff2") format("woff2");
     font-weight: 100;
     font-style: italic;
 }
+
 @font-face {
     font-family: "Cormorant Garamond";
     src: url("fonts/CormorantGaramond-Regular.woff2") format("woff2");
-     /* regular is font-weight: 400 */
+    /* regular is font-weight: 400 */
 }
+
 @font-face {
     font-family: "Cormorant Garamond";
     src: url("fonts/CormorantGaramond-Italic.woff2") format("woff2");
     font-style: italic;
 }
+
 @font-face {
     font-family: "Cormorant Garamond";
     src: url("fonts/CormorantGaramond-Medium.woff2") format("woff2");
     font-weight: 500;
 }
+
 @font-face {
     font-family: "Cormorant Garamond";
     src: url("fonts/CormorantGaramond-MediumItalic.woff2") format("woff2");
     font-weight: 500;
     font-style: italic;
 }
+
 @font-face {
     font-family: "Cormorant Garamond";
     src: url("fonts/CormorantGaramond-SemiBold.woff2") format("woff2");
     font-weight: 600;
 }
+
 @font-face {
     font-family: "Cormorant Garamond";
     src: url("fonts/CormorantGaramond-SemiBoldItalic.woff2") format("woff2");
     font-weight: 600;
     font-style: italic;
 }
+
 @font-face {
     font-family: "Cormorant Garamond";
     src: url("fonts/CormorantGaramond-Bold.woff2") format("woff2");
-    font-weight: 700; /* is bold*/
+    font-weight: 700;
+    /* is bold*/
 }
+
 @font-face {
     font-family: "Cormorant Garamond";
     src: url("fonts/CormorantGaramond-BoldItalic.woff2") format("woff2");
@@ -120,96 +140,102 @@ https://lingdata.org/archives/fonts.html
 }
 
 
-
-
 /* each is 4 MiB */
+
+
 /* @font-face {
     font-family: "Noto Serif TC";
     src: url("fonts/NotoSerifTC-Regular.woff2") format("woff2");
 } */
+
+
 /* @font-face {
     font-family: "Noto Serif TC";
     src: url("fonts/NotoSerifTC-Medium.woff2") format("woff2");
     font-weight: 500;
 } */
+
+
 /* @font-face {
     font-family: "Noto Serif TC";
     src: url("fonts/NotoSerifTC-SemiBold.woff2") format("woff2");
     font-weight: 600;
 } */
 
+
 /* https://freehkfonts.opensource.hk/download/ */
+
 @font-face {
     font-family: "HK-Kai";
     src: url("fonts/Free-HK-Kai_4700-v1.03.woff2") format("woff2");
 }
 
-span:lang(zh), blockquote:lang(zh) {
+span:lang(zh),
+blockquote:lang(zh) {
     font-family: "HK-Kai";
 }
 
-
-
-
-
-
-/* @font-face {
+@font-face {
     font-family: "Open Sans";
     src: url("fonts/OpenSans-Light.woff2") format("woff2");
     font-weight: 100;
 }
+
 @font-face {
     font-family: "Open Sans";
     src: url("fonts/OpenSans-LightItalic.woff2") format("woff2");
     font-weight: 100;
     font-style: italic;
 }
+
 @font-face {
     font-family: "Open Sans";
     src: url("fonts/OpenSans-Regular.woff2") format("woff2");
     font-weight: 400;
 }
+
 @font-face {
     font-family: "Open Sans";
     src: url("fonts/OpenSans-Italic.woff2") format("woff2");
     font-weight: 400;
     font-style: italic;
 }
+
 @font-face {
     font-family: "Open Sans";
     src: url("fonts/OpenSans-Semibold.woff2") format("woff2");
     font-weight: 500;
 }
+
 @font-face {
     font-family: "Open Sans";
     src: url("fonts/OpenSans-SemiboldItalic.woff2") format("woff2");
     font-weight: 500;
     font-style: italic;
 }
+
 @font-face {
     font-family: "Open Sans";
     src: url("fonts/OpenSans-Bold.woff2") format("woff2");
     font-weight: 700;
 }
+
 @font-face {
     font-family: "Open Sans";
     src: url("fonts/OpenSans-BoldItalic.woff2") format("woff2");
     font-weight: 700;
     font-style: italic;
 }
+
 @font-face {
     font-family: "Open Sans";
     src: url("fonts/OpenSans-ExtraBold.woff2") format("woff2");
     font-weight: 800;
 }
+
 @font-face {
     font-family: "Open Sans";
     src: url("fonts/OpenSans-ExtraBoldItalic.woff2") format("woff2");
     font-weight: 800;
     font-style: italic;
 }
- */
-
-
-
-

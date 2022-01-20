@@ -1,9 +1,21 @@
 {% set articles = collections["articles_" + locale] %}
-<nav class="contents">
-    <ul>
-        <li><a href="/">{{ i18n.home }}</a></li>
-        {%- for article in articles -%}
-        <li><a href="{{ article.url }}">{{ article.data.title }}</a></li>
-        {%- endfor -%}
-    </ul>
-</nav>
+<button class="hamburger hamburger--squeeze menu-toggle secondary-menu-toggle unbutton float-left" type="button" aria-label="Toggle Mega Menu" aria-controls="primary-menu" aria-expanded="false"> <span class="hamburger-box"> <span
+            class="hamburger-inner"></span> </span> </button>
+
+<div class="mega-menu-container hidden">
+    <div class="menu-mega-menu-container">
+        <ul id="menu-mega-menu-1" class="mega-menu-side menu">
+            <li id="menu-item-239688" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home"><a href="/">{{ i18n.home }}</a></li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children">
+                <a href="/{{ locale }}/">{{ i18n.articles }}</a>
+                <ul class="sub-menu">
+                    {%- for article in articles -%}
+                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
+                        <a href="{{ article.url }}">{{ article.data.title }}</a>
+                    </li>
+                    {%- endfor -%}
+                </ul>
+            </li>
+        </ul>
+    </div>
+</div>

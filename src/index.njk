@@ -1,31 +1,33 @@
 <!doctype html>
 <html>
+
 <head>
     <meta charset="utf-8" />
-    <title>Lá thư Làng Mai số 45  / Plum Village Newsletter #45 - 2022</title>
+    <title>Lá thư Làng Mai số 45 / Plum Village Newsletter #45 - 2022</title>
     <meta name="author" content="Làng Mai / CBZ Village des Pruniers" />
     <meta name="date" content="2022" />
     <link rel="stylesheet" href="{{ '/css/global.css' | url }}">
     <link rel="stylesheet" href="{{ '/css/web.css' | url }}">
+    <link rel="stylesheet" href="{{ '/css/web/splash.css' | url }}">
 </head>
 
 <body>
-    <h2>Tiếng Việt</h2>
-    <p>Preview print in <a href="/vi/preview-a4/">A4</a> or <a href="/vi/preview-letter/">Letter</a> size.<br>
-    <small>(inspect print HTML <a href="/vi/a4/">A4</a>/<a href="/vi/letter/">letter</a>)</small></p>
-    <ul>
-        {%- for article in collections.articles_vi -%}
-        <li><a href="{{ article.url }}">{{ article.data.author }} - {{ article.data.title }}</a></li>
-        {%- endfor -%}
-    </ul>
-    <h2>English</h2>
-    <p>Preview print in <a href="/en/preview-a4/">A4</a> or <a href="/en/preview-letter/">Letter</a> size.<br>
-    <small>(inspect print HTML <a href="/en/a4/">A4</a>/<a href="/en/letter/">letter</a>)</small></p>
-    <ul>
-        {%- for article in collections.articles_en -%}
-        <li><a href="{{ article.url }}">{{ article.data.title }}</a></li>
-        {%- endfor -%}
-    </ul>
+    <div class="row">
+        <div class="column splash-column-vi">
+            <a href="/vi/preview-a4/" class="button">A4</a>
+            <a href="/vi/preview-letter/" class="button">Letter</a>
+            <a href="/vi/" class="button">Web</a>
+            <a href="https://github.com/plumvillage/newsletter/tree/main/src/vi/articles" class="button" target="_blank">Edit</a>
+            <small>(inspect print HTML <a href="/vi/a4/">A4</a>/<a href="/vi/letter/">letter</a>)</small>
+        </div>
+        <div class="column splash-column-en">
+            <a href="/en/preview-a4/" class="button">A4</a>
+            <a href="/en/preview-letter/" class="button">Letter</a>
+            <a href="/en/" class="button">Web</a>
+            <a href="https://github.com/plumvillage/newsletter/tree/main/src/en/articles" class="button" target="_blank">Edit</a>
+            <small>(inspect print HTML <a href="/en/a4/">A4</a>/<a href="/en/letter/">letter</a>)</small>
+        </div>
+    </div>
 </body>
 
 </html>
