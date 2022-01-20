@@ -8,6 +8,7 @@ module.exports = {
         //3
         "thay-chan-phap-niem--tieng-cuoi-tre-da-vang",
         //4
+        "su-co-chan-thoai-nghiem--mot-dong-xanh-biec",
         //5
         "su-co-chan-hoa-nghiem--nep-xua",
         //6
@@ -54,8 +55,10 @@ module.exports = {
         "su-co-chan-boi-nghiem--cam-di",
         //33
         //34
+        "su-co-chan-thuan-khanh--duoi-chan-ngon-hung-phong",
         //35
         //36
+        "thay-chan-phap-ung--con-ga-va-qua-trung",
         //37
         //38
         //39
@@ -63,6 +66,7 @@ module.exports = {
         //41
         //42
         //43
+        "su-co-chan-sac-nghiem--khi-tiep-nhan-cung-trao-truyen",
         //44
         //45
         //46
@@ -73,6 +77,7 @@ module.exports = {
         //50
         //51
         //52
+        "thay-chan-phap-kha--quan-tam",
         //53
         //54
     ],
