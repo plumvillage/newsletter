@@ -15,7 +15,7 @@ When it was time, Thay stood at the podium with his hands in his pocket. He star
 
 As the moment ended in the dream, Thay shared that he turned to the side of the stage to look for his teacher. Thay felt excited in the dream that he would be able to see his teacher, but as his teacher was about to enter into view, Thay woke up. Even so, in his heart he somehow knew who his teacher must have been. Throughout the years, I have heard Thay share this story a few times, always leaving the ending open as an invitation for us to all imagine and discover for ourselves who the “teacher” must have been. It is my favorite part of his account because it allows us to participate and finish the story ourselves. Maybe that is why I have internalized the story and it has manifested in my dream.  
 
-I finished this drawing on MLK (Martin Luther King) Day, at the end of our lazy day on January 18th, and so I dedicated it to the spiritual friendship between Thay and Dr. King and their mutual vision of building a global “beloved community” where we see each other as siblings of one family.  I penned at the bottom of the drawing a few lines that I adapted from the bell gatha.* 
+I finished this drawing on MLK (Martin Luther King) Day, at the end of our lazy day on January 18<sup>th</sup>, and so I dedicated it to the spiritual friendship between Thay and Dr. King and their mutual vision of building a global “beloved community” where we see each other as siblings of one family.  I penned at the bottom of the drawing a few lines that I adapted from the bell gatha.
 
 *“May the sound of this bell bring relief to the world. 
 May the hearers awake from their delusion of a separate self.”*  

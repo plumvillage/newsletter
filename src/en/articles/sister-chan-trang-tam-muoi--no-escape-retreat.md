@@ -49,7 +49,7 @@ My “No Escape” retreat would not have been possible without the support of m
 
 Seven months on, it seemed that Mum was not going to die a few months after Dad (as everyone had thought), and that she really had her eye on getting to 100 (like her cousin Edith), which was still ten months away. I started to think about returning to Plum Village. I had a dream where I was making a delicious meal. I opened the lid of the saucepan to check on the dish and happily exclaimed “It’s cooked!” Waking up I felt a deep sense of fulfilment that lasted for several days.  I felt *I* was cooked, it was time to go home.
 
-*Fast forward* to two weeks *after* Mum’s very happy 100th birthday party and my sister urged me to phone Mum. On WhatsApp I saw Mum’s beautiful face, tired now, eyes half closed, no longer needing to speak, but smiling as I expressed my love and encouraged her to let go and take a deep, long, much deserved rest. She never woke up, she died in her sleep that night.
+*Fast forward* to two weeks *after* Mum’s very happy 100<sup>th</sup> birthday party and my sister urged me to phone Mum. On WhatsApp I saw Mum’s beautiful face, tired now, eyes half closed, no longer needing to speak, but smiling as I expressed my love and encouraged her to let go and take a deep, long, much deserved rest. She never woke up, she died in her sleep that night.
 
 The day before her funeral I was able to sit a long while with her body and place a bouquet of flowers in her hands. This is the poem that came to me, which I read out during her service.
 

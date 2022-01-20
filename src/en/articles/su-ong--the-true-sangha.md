@@ -3,11 +3,9 @@ title: The True Sangha
 author: Sư Ông
 ---
 
-*Editor's note: In this article we distinguish between the "Sangha" of the Three Jewels (which consist of the Buddha, Dharma and Sangha) and "sangha" when it refers to a community of practitioners.*
+Dear sangha<span class="note">Editor's note: In this article we distinguish between the "Sangha" of the Three Jewels (which consist of the Buddha, Dharma and Sangha) and "sangha" when it refers to a community of practitioners.</span>, today is the 14<sup>th</sup> of October, 2010. We are in the Space Beyond Space Meditation Hall in Pak Chong, Thailand, during our monastic retreat with the theme of “The Plant Nursery”.
 
 {% image "article_photos/su-ong/ThayHeaderImg_whiteFadeout2.jpg", "ThayTalk" %}
-
-Dear sangha, today is the 14th of October, 2010. We are in the Space Beyond Space Meditation Hall in Pak Chong, Thailand, during our monastic retreat with the theme of “The Plant Nursery”.
 
 ## Insight without boundaries 
 

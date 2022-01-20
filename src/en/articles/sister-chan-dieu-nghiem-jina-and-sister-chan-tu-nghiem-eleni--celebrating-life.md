@@ -1,6 +1,5 @@
 ﻿---
-title: The Early Years of Plum Village
-subtitle: An Interview with Sr. Jina & Sr. Eleni
+title: Celebrating Life
 author: Sister Chân Diệu Nghiêm (Jina) & Sister Chân Từ Nghiêm (Eleni)
 ---
 

@@ -1,5 +1,5 @@
 ﻿---
-title: The environment – what can we do?
+title: The environment – What can we do?
 author: Brother Chân Trời Đại Đạo
 ---
 
@@ -7,9 +7,7 @@ author: Brother Chân Trời Đại Đạo
 
 I love Mother earth, and I cannot look at documentaries on the environment crisis without feeling despair and powerlessness. It was with this backdrop that a chain of events happened which empowered me not to give up hope but to do what we can, where we are, with what we have got, to help Mother earth. Perhaps Mother earth can be a verb as well as a noun, perhaps we have to nurture and care for the land that is looking up at us needing our love.
 
-During the Rains retreat of 2019 we had a series of workshops on the environment to see how we could reduce our carbon footprint and recycling, which completely changed the way I saw rubbish. As part of the workshops we 
-
-I started looking at what we were throwing out to see how we could reduce our carbon footprint and the amount of waste we were exporting out of the monastery. The mindset we had at the time was to take everything to the recycling centre by van. We didn’t give much thought to what happened to it next. It was someone else’s problem. 
+During the Rains retreat of 2019 we had a series of workshops on the environment to see how we could reduce our carbon footprint and recycling, which completely changed the way I saw rubbish. As part of the workshops we started looking at what we were throwing out to see how we could reduce our carbon footprint and the amount of waste we were exporting out of the monastery. The mindset we had at the time was to take everything to the recycling centre by van. We didn’t give much thought to what happened to it next. It was someone else’s problem. 
 
 The workshops showed us what happened next, and so we saw that vast amounts of things are not recycled and saw a documentary about a Japanese town that had achieved zero waste through the collective efforts of the whole community. They had succeeded in building a collective recycling centre that tried to re-use everything. are buried in the earth in huge pits. Even things that are recycled are not processed locally but are transported on to other larger plants, creating more carbon. Therefore it seemed clear that by looking into what we could process here ourselves we would reduce a whole chain of transport by fossil fuel burning vehicles but also reduce the amount of stuff buried in the earth.
 
