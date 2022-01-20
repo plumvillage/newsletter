@@ -2,40 +2,45 @@ const articleOrder = require("./src/_data/article-order.js");
 const fs = require('fs')
 const Image = require("@11ty/eleventy-img");
 const path = require("path");
+Image.concurrency = 4; // default is 10
 
 async function imageShortcode(src, id) {
     // src: article_photos/su-ong/ThayHeaderImg_whiteFadeout2.jpg
-    let reduce = false;
+    let reduce = true;
     const mediaPath = "src/media/publish/";
     let srcFull = mediaPath+src
     let destPathRelative = "../../media/";
     let data = {filename: path.basename(src)};
     let parsed = path.parse(src)
+    let options = {
+        formats: ["webp"],
+        outputDir: `docs/media/build/${parsed.dir}`,
+        widths: [1000],
+        sharpOptions: {},
+        // https://sharp.pixelplumbing.com/api-output#webp
+        sharpWebpOptions: {
+            quality: 90,
+        },
+        // disk cache works only when using the built-in hashing algorithm and not custom filenames
+        // filenameFormat: function (id, src, width, format, options) {
+        //     const extension = path.extname(src);
+        //     const name = path.basename(src, extension);
+        //     return `${name}-${width}w.${format}`;
+        // }
+    }
 
     try {
         // TODO this messes up the page on load
         if (reduce) {
-            let metadata = await Image(srcFull, {
-                formats: ["webp"],
-                outputDir: `docs/media/build/${parsed.dir}`,
-                widths: [1000],
-                sharpOptions: {},
-                // https://sharp.pixelplumbing.com/api-output#webp
-                sharpWebpOptions: {
-                    quality: 90,
-                },
-                filenameFormat: function (id, src, width, format, options) {
-                    const extension = path.extname(src);
-                    const name = path.basename(src, extension);
-                    return `${name}-${width}w.${format}`;
-                }
-            }).catch(err => {
-                console.log("caught the error! 2")
-                return ""
-            });
+            // generate images, while this is async we don’t wait
+            Image(srcFull, options)
+            // get metadata even the images are not fully generated
+            let metadata = Image.statsSync(srcFull, options);
+
             data = metadata.webp[metadata.webp.length - 1];
             destPathRelative = destPathRelative + "build/"
         }
+        console.log(data.filename)
 
         /* data:
             format: 'webp',
