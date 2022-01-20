@@ -1,0 +1,31 @@
+---
+permalink: "en/"
+---
+{% extends "layouts/web.njk" %}
+
+    {% block content %}
+    <nav class="nav-language">
+        <a href="/vi/">Tiếng Việt</a>
+    </nav>
+    <header class="index-header">
+        <h1>Plum Village Newsletter</h1>
+        <h2>#45 - 2022</h2>
+    </header>
+    <div class="index">
+        {%- for article in collections.articles_en -%}
+        <article class="index-item">
+            <header class="entry-header">
+                <div class="entry-meta">
+                    <span class="author"><a href="{{ article.url }}">{{ article.data.author }}</a></span>
+                </div>
+                <h2><a href="{{ article.url }}">{{ article.data.title }}</a></h2>
+            </header>
+            </header>
+            <div class="entry-content">
+                {{ article.data.content | truncate }}
+            </div>
+        </article>
+        {%- endfor -%}
+    </div>
+    {% endblock %}
+

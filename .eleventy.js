@@ -9,11 +9,11 @@ async function imageShortcode(src) {
     // src: article_photos/su-ong/ThayHeaderImg_whiteFadeout2.jpg
     let reduce = true;
     const mediaPath = "src/media/publish/";
-    let srcFull = mediaPath+src
+    let srcFull = mediaPath + src
     let destPathRelative = "../../media/";
-    let data = {filename: path.basename(src)};
+    let data = { filename: path.basename(src) };
     let parsed = path.parse(src)
-    let autoId = slugify(`${parsed.dir}/${parsed.name}`, {strict: true})
+    let autoId = slugify(`${parsed.dir}/${parsed.name}`, { strict: true })
     let options = {
         formats: ["webp"],
         outputDir: `docs/media/build/${parsed.dir}`,
@@ -36,7 +36,7 @@ async function imageShortcode(src) {
         if (reduce) {
             // generate images, while this is async we don’t wait
             Image(srcFull, options)
-            // get metadata even the images are not fully generated
+                // get metadata even the images are not fully generated
             let metadata = Image.statsSync(srcFull, options);
 
             data = metadata.webp[metadata.webp.length - 1];
@@ -57,18 +57,21 @@ async function imageShortcode(src) {
         */
         // "../../media/build/article_photos/su-ong/ThayHeaderImg_whiteFadeout2-600w.webp"
         return `<img id="${autoId}" src="${destPathRelative}${parsed.dir}/${data.filename}" loading="lazy" decoding="async">`;
-    } catch(err) {
+    } catch (err) {
         console.error(src, err)
         return ""
     }
 }
 
 
-module.exports = function (eleventyConfig) {
+module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("src/pagedjs");
 
     eleventyConfig.addPassthroughCopy("src/css");
     eleventyConfig.addWatchTarget("src/css");
+
+    eleventyConfig.addPassthroughCopy("src/js");
+    eleventyConfig.addWatchTarget("src/js");
 
     eleventyConfig.addPassthroughCopy({ "src/media/publish": "media" });
     eleventyConfig.addWatchTarget("src/media/publish");
@@ -78,25 +81,25 @@ module.exports = function (eleventyConfig) {
     // Articles: https://docs.google.com/spreadsheets/d/1pC-qmOUWU6diB3jMjgpbRYse9seF1wOx_XF3gJBeTC4/edit#gid=0
 
     // Create localized collections of articles
-    eleventyConfig.addCollection("articles_en", function (collection) {
+    eleventyConfig.addCollection("articles_en", function(collection) {
         var coll = collection.getFilteredByGlob("./src/en/articles/*.md")
-        // sort by file name ascending
+            // sort by file name ascending
         coll.sort((a, b) => a.fileSlug.localeCompare(b.fileSlug))
         return coll
     });
     eleventyConfig.addCollection("articles_vi",
         (collection) => collection
-            .getFilteredByGlob("./src/vi/articles/*.md")
-            .sort((a, b) => {
-                console.assert((articleOrder.vi.includes(a.fileSlug)), `Missing order for ${a.fileSlug}`);
-                return articleOrder.vi.indexOf(a.fileSlug) - articleOrder.vi.indexOf(b.fileSlug);
-            })
+        .getFilteredByGlob("./src/vi/articles/*.md")
+        .sort((a, b) => {
+            console.assert((articleOrder.vi.includes(a.fileSlug)), `Missing order for ${a.fileSlug}`);
+            return articleOrder.vi.indexOf(a.fileSlug) - articleOrder.vi.indexOf(b.fileSlug);
+        })
     );
 
     eleventyConfig.addNunjucksAsyncShortcode("image", imageShortcode);
     eleventyConfig.addLiquidShortcode("image", imageShortcode);
     eleventyConfig.addJavaScriptFunction("image", imageShortcode);
-    
+
     return {
         dir: {
             input: "src",

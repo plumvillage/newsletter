@@ -1,0 +1,31 @@
+---
+permalink: "vi/"
+---
+{% extends "layouts/web.njk" %}
+
+    {% block content %}
+    <nav class="nav-language">
+        <a href="/en/">English</a>
+    </nav>
+    <header class="index-header">
+        <h1><img src="/media/Calligraphy/la-thu-lang-mai.svg" alt="Lá thư Làng Mai"></h1>
+        <h2>số 45 - nam 2022</h2>
+    </header>
+    <div class="index">
+        {%- for article in collections.articles_vi -%}
+        <article class="index-item">
+            <header class="entry-header">
+                <div class="entry-meta">
+                    <span class="author"><a href="{{ article.url }}">{{ article.data.author }}</a></span>
+                </div>
+                <h2><a href="{{ article.url }}">{{ article.data.title }}</a></h2>
+            </header>
+            </header>
+            <div class="entry-content">
+                {{ article.data.content | safe }}
+            </div>
+        </article>
+        {%- endfor -%}
+    </div>
+    {% endblock %}
+

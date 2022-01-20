@@ -1,22 +1,408 @@
-body {
-    background-color: #fff;
-    font-family: "Gentium Book Plus";
-    font-size: 1.2em;
+@charset "UTF-8";
+
+/**
+Some styles adapted from
+https://github.com/plumvillage/plumvillage/blob/master/style.css
+*/
+
+:root {
+    --blue: #007bff;
+    --indigo: #6610f2;
+    --purple: #6f42c1;
+    --pink: #e83e8c;
+    --red: #dc3545;
+    --orange: #fd7e14;
+    --yellow: #ffc107;
+    --green: #28a745;
+    --teal: #20c997;
+    --cyan: #17a2b8;
+    --white: #fff;
+    --gray: #6c757d;
+    --gray-dark: #343a40;
+    --primary: #FFD22A;
+    --secondary: #6c757d;
+    --success: #28a745;
+    --info: #17a2b8;
+    --warning: #ffc107;
+    --danger: #dc3545;
+    --light: #f8f9fa;
+    --dark: #343a40;
+    --breakpoint-xxs: 0;
+    --breakpoint-xs: 370px;
+    --breakpoint-sm: 576px;
+    --breakpoint-md: 768px;
+    --breakpoint-lg: 992px;
+    --breakpoint-xl: 1200px;
+    --breakpoint-xxl: 1400px;
+    --font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
+
+html {
+    font-family: "Gentium Book Plus";
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+body {
+    margin: 0;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+    background-color: #fff;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
+a {
+    text-decoration: none;
+    background-color: transparent;
+    -webkit-transition: all 0.4s cubic-bezier(0.15, 0.53, 0.35, 1);
+    -o-transition: all 0.4s cubic-bezier(0.15, 0.53, 0.35, 1);
+    transition: all 0.4s cubic-bezier(0.15, 0.53, 0.35, 1);
+    color: #000;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.entry-content a {
+    box-shadow: inset 0 -0.15em #FFD22A;
+}
+
+.entry-content a:hover,
+.entry-header h2 a:hover {
+    -webkit-box-shadow: inset 0 -0.4em #FFD22A;
+    box-shadow: inset 0 -0.4em #FFD22A;
+    text-decoration: none;
+}
+
+a:not([href]):not([class]) {
+    color: inherit;
+    text-decoration: none;
+}
+
+a:not([href]):not([class]):hover {
+    color: inherit;
+    text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+}
+
+h1,
+.h1 {
+    font-size: 2.5rem;
+}
+
+h2,
+.h2 {
+    font-size: 2rem;
+}
+
+h3,
+.h3 {
+    font-size: 1.75rem;
+}
+
+h4,
+.h4 {
+    font-size: 1.5rem;
+}
+
+h5,
+.h5 {
+    font-size: 1.25rem;
+}
+
+h6,
+.h6 {
+    font-size: 1rem;
+}
+
+.lead {
+    font-size: 1.25rem;
+    font-weight: 300;
+}
+
+
+/*=navigation*/
+
+.nav-language {
+    text-align: right;
+    padding: .5rem;
+}
+
+.nav-language a {
+    font-family: "Open Sans", sans-serif;
+    color: #9A9A9A;
+    font-weight: 500;
+}
+
+.mega-menu-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    overflow: scroll;
+    padding: 0;
+    width: 100vw;
+    background: #FEFBF3;
+    z-index: 0;
+    padding-top: 13px;
+    padding-left: 4.25vw;
+    padding-right: 4.25vw;
+}
+
+@media (min-width: 768px) {
+    .mega-menu-container {
+        width: 50vw;
+    }
+}
+
+.menu li {
+    list-style: none;
+    position: relative;
+}
+
+.mega-menu-container .menu-toggle {
+    top: 15px;
+    left: 15px;
+    position: fixed;
+}
+
+.mega-menu-container .mega-menu-side {
+    margin: 0;
+    padding: 20px 0 0;
+}
+
+@media (min-width: 768px) {
+    .mega-menu-container .mega-menu-side {
+        padding: 40px 0 0;
+    }
+}
+
+.mega-menu-container .mega-menu-side li:before {
+    display: none;
+}
+
+.mega-menu-container .mega-menu-side ul {
+    margin-top: 15px;
+    margin-left: 25px;
+    padding: 0;
+}
+
+.mega-menu-container .mega-menu-side ul li {
+    margin-bottom: 15px;
+    margin-left: 0;
+}
+
+.mega-menu-container .mega-menu-side ul li a {
+    color: #9A9A9A;
+    -webkit-transition: color .3s ease;
+    -o-transition: color .3s ease;
+    transition: color .3s ease;
+    font-size: 1rem;
+}
+
+.mega-menu-container .mega-menu-side ul li a:hover {
+    color: #000;
+}
+
+.mega-menu-container .mega-menu-side ul li.current-menu-item a {
+    color: #000;
+}
+
+.mega-menu-container .mega-menu-side>li {
+    margin-bottom: 25px;
+}
+
+@media (min-width: 768px) {
+    .mega-menu-container .mega-menu-side>li {
+        margin-bottom: 3vw;
+    }
+}
+
+.mega-menu-container .mega-menu-side>li>a {
+    font-family: "Cormorant Infant", serif;
+    font-weight: 600;
+    color: #000;
+    font-size: 1.75rem;
+    -webkit-box-shadow: inset 0 -0.15em #FFD22A;
+    box-shadow: inset 0 -0.15em #FFD22A;
+    -webkit-transition: all 0.4s cubic-bezier(0.15, 0.53, 0.35, 1);
+    -o-transition: all 0.4s cubic-bezier(0.15, 0.53, 0.35, 1);
+    transition: all 0.4s cubic-bezier(0.15, 0.53, 0.35, 1);
+}
+
+.mega-menu-container .mega-menu-side>li>a:hover {
+    -webkit-box-shadow: inset 0 -0.4em #FFD22A;
+    box-shadow: inset 0 -0.4em #FFD22A;
+    text-decoration: none;
+}
+
+.site {
+    z-index: 1;
+    position: relative;
+    min-height: 100vh;
+    background: #fff;
+    -webkit-transition: -webkit-transform 0.4s cubic-bezier(0.15, 0.53, 0.35, 1);
+    transition: -webkit-transform 0.4s cubic-bezier(0.15, 0.53, 0.35, 1);
+    -o-transition: transform 0.4s cubic-bezier(0.15, 0.53, 0.35, 1);
+    transition: transform 0.4s cubic-bezier(0.15, 0.53, 0.35, 1);
+    transition: transform 0.4s cubic-bezier(0.15, 0.53, 0.35, 1), -webkit-transform 0.4s cubic-bezier(0.15, 0.53, 0.35, 1);
+}
+
+.menu-open {
+    overflow: hidden;
+}
+
+.menu-open .site {
+    -webkit-transform: translateX(-100vw);
+    -ms-transform: translateX(-100vw);
+    transform: translateX(-100vw);
+}
+
+@media (min-width: 768px) {
+    .menu-open .site {
+        -webkit-transform: translateX(50vw);
+        -ms-transform: translateX(50vw);
+        transform: translateX(50vw);
+    }
+}
+
+.menu-open .mega-menu-container {
+    overflow-y: scroll;
+    overflow-x: hidden;
+    -webkit-overflow-scrolling: touch;
+}
+
+.site:after {
+    content: '';
+    opacity: 0;
+}
+
+.menu-open .site:after {
+    height: 100%;
+    width: 100%;
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    background: #fff;
+    opacity: 0.6;
+    cursor: pointer;
+    -webkit-transition: opacity 0.4s cubic-bezier(0.15, 0.53, 0.35, 1);
+    -o-transition: opacity 0.4s cubic-bezier(0.15, 0.53, 0.35, 1);
+    transition: opacity 0.4s cubic-bezier(0.15, 0.53, 0.35, 1);
+}
+
+.menu-toggle {
+    top: 11px;
+    left: 15px;
+    position: fixed;
+    z-index: 999;
+    -webkit-transition: color 0.4s cubic-bezier(0.15, 0.53, 0.35, 1);
+    -o-transition: color 0.4s cubic-bezier(0.15, 0.53, 0.35, 1);
+    transition: color 0.4s cubic-bezier(0.15, 0.53, 0.35, 1);
+}
+
+.menu-toggle:hover {
+    color: #8B572A;
+}
+
+.sub-menu {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
+}
+
+.hide {
+    display: none;
+}
+
+.hidden {
+    visibility: hidden;
+}
+
+
+/*=index*/
+
+.index-header {
+    margin: auto;
+    text-align: center;
+}
+
+.index-item {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 15px;
+}
+
+.entry-meta {
+    color: #9A9A9A;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 500;
+    font-size: 0.875rem;
+    line-height: 1.5;
+}
+
+.entry-meta a {
+    color: #9a9a9a;
+}
+
+
+/*=Article */
 
 article {
     max-width: 40em;
     margin: auto;
 }
-article h1, article h2 {
+
+article h1,
+article h2 {
     font-family: "Cormorant Garamond";
 }
+
 article h1 {
     font-size: 3em;
+    margin-top: 1rem;
 }
+
 article h2 {
     font-size: 1.5em;
 }
+
 article p {
     font-size: 1.15em;
     line-height: 130%;
