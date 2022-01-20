@@ -75,3 +75,26 @@ This poem was written to my orchid plant as I witnessed its changing, impermanen
 This poem was written after the Be-In on 4 December 2021 when we were together with many Sisters who would be leaving New Hamlet in a few days to visit their families in Vietnam,  and then move on to other practice centers. We sang songs to one another and shared from our hearts the beautiful experiences we had at New Hamlet.
 
 It was also the anniversary day of my little brother’s passing away in 1994. I remember his qualities of courage and freedom. The letting go is part of being able to continue to live after experiencing the death of a beloved one.
+
+
+## A Poem for the New Year
+<!-- 25 December 2021 -->
+
+> Be a source of love<br/>
+> For them, who are sad<br/>
+> And lonely, without homes.<br/>
+> Little things will do, <br/>
+> And tenderness.<br/>
+> 
+> Be a source of love<br/>
+> For them,<br/>
+> And for us<br/>
+> Treading the path<br/>
+> Of uncertainty<br/>
+> Under skies<br/>
+> Of darkness<br/>
+> And  light.<br/>
+> 
+> Offer your compassionate hands<br/>
+> To everyone, everyone,<br/>
+> Everywhere.<br/>

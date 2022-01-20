@@ -27,7 +27,6 @@ body {
     }
 }
 
-/* Bottom right book title, bottom left current page */
 @page:left {
     margin-left: 33.27pt;
     margin-right: 64pt;
@@ -37,11 +36,15 @@ body {
         content: counter(page);
         font-size: 11pt;
         font: "Cormorant Garamond";
-        background: 7% 50%/25% no-repeat url('../../media/Calligraphy/Parallels EN p1 Harmony at home.jpg');
     }
 }
+html:lang(en) .pagedjs_left_page .pagedjs_margin-bottom-left {
+    background: 7% 50%/25% no-repeat url('../../media/Calligraphy/Parallels EN p1 Harmony at home.jpg');
+}
+html:lang(vi) .pagedjs_left_page .pagedjs_margin-bottom-left {
+    background: 7% 50%/40% no-repeat url('../../media/Calligraphy/Parallels VI p1 Ngay Xuan Tren Hoa Duoi Thuan.jpg');
+}
 
-/* Bottom left we display the title of the book, bottom right the page using a CSS counter, top right the content of the current chapter */
 @page:right {
     margin-left: 64pt;
     margin-right: 33.27pt;
@@ -50,9 +53,15 @@ body {
         content: counter(page);
         font-size: 11pt;
         font: "Cormorant Garamond";
-        background: 93% 50%/25% no-repeat url('../../media/Calligraphy/Parallels EN p2 Peace all around.jpg');
     }
 }
+html:lang(en) .pagedjs_right_page .pagedjs_margin-bottom-right {
+    background: 93% 50%/25% no-repeat url('../../media/Calligraphy/Parallels EN p2 Peace all around.jpg');
+} 
+html:lang(vi) .pagedjs_right_page .pagedjs_margin-bottom-right {
+    background: 93% 50%/40% no-repeat url('../../media/Calligraphy/Parallels VI p2 Bon Mua Trong Am Ngoai Em.jpg');
+}
+
 
 .front-cover, .front-collage, .back-collage, .back-cover {
     page: photopage; /* named pages*/
@@ -235,6 +244,7 @@ article blockquote:lang(zh) {
 sup { /* superscript */
     /* otherwise, the line above is pushed up  */
     line-height: 0;
+    font-size: 70%;
 }
 
 /* https://www.pagedjs.org/documentation/cheatsheet/ */

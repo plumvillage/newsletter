@@ -9,7 +9,7 @@ Aside from the nicknames *“Brother Floating Cloud”* and *“Brother Fleurs d
 
 ## The Seeker
 
-When I arrived in Plum Village on the 12th of June 1994 to be an aspirant, Br. Giác Thanh was already there. He first came to Plum Village in 1991, and I do not know much about his earlier years. I would just like to recount a few anecdotes and special moments from my time attending and learning from my elder brother. 
+When I arrived in Plum Village on the 12<sup>th</sup> of June 1994 to be an aspirant, Br. Giác Thanh was already there. He first came to Plum Village in 1991, and I do not know much about his earlier years. I would just like to recount a few anecdotes and special moments from my time attending and learning from my elder brother. 
 
 The story of how he came to Plum Village, according to what I have heard, is very interesting. Br. Giác Thanh was someone who always sought to learn, especially about meditation. While still in Vietnam, he already learned meditation with Zen Master Thích Thanh Từ of Bamboo Forest Monastery (tu viện Trúc Lâm). At that time, his fellow students included Br. Thích Minh Nghĩa (now the Abbot of Toàn Giác Monastery and also Giác Nguyên Ancestral Temple), Br. Thích Phước Tịnh, who is now at Deer Park Monastery, and many others. Those who wish to know more about Br. Giác Thanh should come to the above-mentioned venerable monks, especially the Venerable Phước Tịnh.       
 
