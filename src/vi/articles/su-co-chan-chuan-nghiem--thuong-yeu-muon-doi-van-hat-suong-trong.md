@@ -9,6 +9,8 @@ Tôi qua Học viện EIAB đã hơn hai năm. Học viện và Làng cũng khô
 
 Nhớ về Làng, về xóm Mới, trong tôi như hiện về từng khung trời tươi đẹp.
 
+photo: sister-chan-chuan-nghiem/Sc-Chuan-N-5.JPG
+
 ## Sân Chim
 
 Thời gian tôi ở Làng chỉ vẻn vẹn sáu năm, kém hai ngày. Ngày đầu tiên đặt chân đến xóm Mới đúng kỳ làm biếng của đại chúng sau khóa tu mùa Hè nên chị em từ Việt Nam mới qua được tha hồ ngủ. Vì chưa quen giờ nên mấy ngày đầu tôi thường đi ngủ sớm. Nhớ một hôm, khi tôi cùng các chị em vừa buông mùng nhưng chưa ngủ thì nghe tiếng sư mẹ Bảo Nghiêm và sư mẹ Thoại Nghiêm. Hai sư mẹ ghé thăm chị em chúng tôi nhưng thấy đã tắt đèn, buông mùng nên hai sư mẹ đi về. Tôi nghe hai sư mẹ nói với nhau: “Các sư em mới qua nên chưa quen giờ. Thôi mình về cho các sư em ngủ”. Nghe quý sư mẹ nói vậy tôi đã dễ ngủ thì ngủ lại càng thêm ngon. 
