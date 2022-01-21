@@ -336,38 +336,42 @@ img#articlephotosbrother-chan-phap-dungthay-bell3-torn-edges {
     margin-right: auto;
 }
 
-.bells-of-mindfulness-page .pagedjs_margin-bottom {
+/* .bells-of-mindfulness-page .pagedjs_margin-bottom {
     height: 0;
     display: none;
-}
-
-
-/* .imgHolder {
-    position: relative;
-}
-.imgHolder span {
-    position: absolute;
-    right: 10px;
-    top: 10px;
-    border: 2px solid green;
-}
-img {
-    border: 1px solid red;
 } */
 
 
-img#articlephotosbrother-chan-phap-linhNYTCH211109KA874 {
-}
-img#articlephotosbrother-chan-phap-linhCS21202110152RL0936edited {
-}
+
 
 .article-two-leaves-at-the-tip-of-the-branch {
     page: two-leaves;
 }
 
-@page two-leaves:nth(2) {
-    margin-top: 0mm;
-    margin-left: 0mm;
-    margin-right: 0mm;
-    margin-bottom: 0mm;
+img#articlephotosbrother-chan-phap-linhNYTCH211109KA874 {
+}
+h1#two-leaves-at-the-tip-of-the-branch {
+    /* margin-top: 70mm; */
+}
+
+@page two-leaves:first {
+    margin-bottom: 70mm;
+    @bottom-right {
+        display: none;
+    }
+    @bottom-left {
+        display: none;
+    }
+}
+
+img#articlephotosbrother-chan-phap-linhCS21202110152RL0936edited {
+    margin: 0;
+    max-width: none;
+    position: absolute;
+    z-index: -1;
+    width: calc(var(--pagedjs-pagebox-width) + (var(--bleed)) * 2);
+    left: calc((var(--pagedjs-margin-left) + var(--bleed))*-1);
+    /* only works without footnote! */
+    bottom: calc((var(--pagedjs-margin-bottom) + var(--bleed)) * -1);
+    overflow: visible;
 }

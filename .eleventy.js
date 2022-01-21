@@ -43,7 +43,7 @@ async function imageShortcode(src, optClasses) {
             destPathRelative = destPathRelative + "build/"
         }
         console.log("processing:", data.filename)
-
+        
         /* data:
             format: 'webp',
             width: 600,
@@ -59,7 +59,7 @@ async function imageShortcode(src, optClasses) {
 
         let html = `<img id="${autoId}" class="${optClasses ? optClasses : ""}" src="${destPathRelative}${parsed.dir}/${data.filename}" loading="lazy" decoding="async">`
         
-        console.log(html)
+        // console.log(html)
         
         return html;
     } catch (err) {
