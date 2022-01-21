@@ -358,3 +358,16 @@ img {
 
 img#articlephotosbrother-chan-phap-linhNYTCH211109KA874 {
 }
+img#articlephotosbrother-chan-phap-linhCS21202110152RL0936edited {
+}
+
+.article-two-leaves-at-the-tip-of-the-branch {
+    page: two-leaves;
+}
+
+@page two-leaves:nth(2) {
+    margin-top: 0mm;
+    margin-left: 0mm;
+    margin-right: 0mm;
+    margin-bottom: 0mm;
+}
