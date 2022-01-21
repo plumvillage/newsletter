@@ -35,6 +35,8 @@ Sau bữa cơm trưa, các sư con đi theo sau Sư Ông cả một hàng dài, 
 
 ## Hồ sen
 
+photo: sister-chan-chuan-nghiem/su-co-Chuan-N.jpg
+
 Một điều đặc biệt ở Làng là xóm nào cũng có hồ sen, và tôi thấy hồ sen nào cũng có hình trái tim! Xóm Thượng thì đặc biệt hơn vì có hai hồ sen. Cứ hè về là xóm nào cũng có sen thơm dâng Bụt. Thiền sinh về Làng thì vô cùng hạnh phúc vì được ngắm hoa sen ngay từ tuần đầu tiên của khóa tu mùa Hè. Sen nở nhiều, vậy là có trà ướp sen. Ở tận EIAB nhưng tôi cũng nhận được trà sen từ Làng. Thưởng thức từng ly trà thơm ngát, tôi biết ơn huynh đệ thật nhiều.
 
 Gia đình xuất gia của tôi được Sư Ông đặt tên là Sen Trắng. Khi còn ở Bát Nhã tôi đã được nghe kể xóm Thượng có một hồ sen trắng, hoa rất to. Đúng thật. Khi qua Làng, vào mùa sen, những ngày quán niệm tại xóm Thượng tôi không quên đi ngắm hoa sen. 
