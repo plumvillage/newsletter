@@ -7,7 +7,7 @@ Image.concurrency = 4; // default is 10
 
 async function imageShortcode(src) {
     // src: article_photos/su-ong/ThayHeaderImg_whiteFadeout2.jpg
-    let reduce = true;
+    let reduce = false;
     const mediaPath = "src/media/publish/";
     let srcFull = mediaPath + src
     let destPathRelative = "../../media/";
