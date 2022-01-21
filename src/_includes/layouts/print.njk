@@ -31,7 +31,7 @@
     {%- endif %}
 
     {%- for article in articles -%}
-        <article>
+        <article class="article-{{ article.data.title | slugify }}">
             <h1 id="{{ article.data.title | slugify }}" class="chapter">{{ article.data.title }}</h1>
             <div class="author">{{ article.data.author }}</div>
             {{ article.data.content | safe }}
