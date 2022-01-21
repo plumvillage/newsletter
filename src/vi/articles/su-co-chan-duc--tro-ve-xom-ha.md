@@ -13,6 +13,8 @@ Về tới xóm Thượng, tôi thấy Thầy đang ngồi trên võng, chiếc 
 
 Một ấn tượng khác nữa của tôi: *Đây là “khách sạn năm sao”.* Bởi vì tu viện mà tôi đã từng thực tập tại Ấn Độ là một tu viện rất nghèo. Ở đó không có nước máy, không có điện, và không có cả giường. Ở đây, tôi có những tiện nghi tối thiểu, có một gia đình tâm linh để cùng thực tập, có một vị thầy nói được tiếng Anh, tiếng Pháp và có thể hướng dẫn tôi trên con đường thực tập.
 
+photo: sister-chan-duc/Luxury room.jpg
+
 Sau một tháng, tôi được phép chuyển về xóm Hạ trong hai tuần cuối của khóa tu mùa Hè. Tôi ở tại cư xá Đồi Mận (Plum Hill)*,* trong phòng có tám cái giường, giống như giường ở xóm Thượng. Về đây, tôi có một cảm giác rất lạ, cảm giác được trở về nhà khi ngồi dưới những cây sồi trăm tuổi và nhìn về phương Bắc. Góc nhìn khi ấy rộng hơn bây giờ vì chưa có rừng bạch dương. Cảm giác này trở lại khi tôi thực tập đi kinh hành trong thiền đường Nến Hồng và nhìn vào bức tường làm bằng những phiến đá. Thời đó, giữa những phiến đá người ta không trát vữa.
 
 Xung quanh xóm Hạ bấy giờ có nhiều rừng, nhiều hơn bây giờ. Cả 21 héc-ta đất của xóm Hạ đều là những ruộng nho và rất nhiều cây ăn trái. Đó thật sự là một khu vườn bí mật để mình khám phá. Vào một ngày thu tháng Tám, Thầy hái những trái mâm xôi (blackberries) và đưa hết cho tôi, nói tôi làm mứt. Chắc Thầy biết rằng hàng năm mẹ tôi đều làm mứt mâm xôi nên tôi có thể dễ dàng tiếp nối mẹ.
