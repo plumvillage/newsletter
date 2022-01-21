@@ -1,7 +1,7 @@
 module.exports = {
     vi: [
         //1
-        //"Làng Mai Năm Qua"
+        "lang-mai-nam-qua",
         //2
         "su-ong-lang-mai--tang-than-dich-thuc",
         //3
