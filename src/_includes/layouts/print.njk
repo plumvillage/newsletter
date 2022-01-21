@@ -23,7 +23,7 @@
 <body>
     {%- if preview %}
     <div class="front-cover">
-        {% image ["front-cover-", locale, ".jpg"] | join, "front-cover-img" %}
+        {% image ["front-cover-", locale, ".jpg"] | join %}
     </div>
     <div class="front-collage">
         {% image "front-photos.jpg" %}
