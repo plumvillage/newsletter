@@ -15,6 +15,7 @@
     <link rel="stylesheet" href="{{ '../../css/global.css' | url }}">
     <link rel="stylesheet" href="../../css/print/common.css">
     <link rel="stylesheet" href="../../css/print/{{ size }}.css">
+    <link rel="stylesheet" href="../../css/print/articles-{{ locale }}.css">
 
     {% include "../partials/page-setup.njk" %}
     {% include "../partials/print-preview.njk" %}
@@ -46,7 +47,7 @@
             {%- endfor -%}
         </ul>
     </div>
-    
+
     {%- if preview %}
     <div class="back-collage">
         {% image "back-photos.jpg" %}
