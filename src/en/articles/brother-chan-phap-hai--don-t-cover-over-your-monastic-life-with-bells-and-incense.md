@@ -4,13 +4,15 @@ author: Brother Chân Pháp Hải
 # date: 17 December 2021
 ---
 
-*Two years ago, Brother Chân Pháp Hải returned to his homeland Australia to establish our youngest practise centre, Mountain Spring Monastery. The editorial team had a chance to interview him about his most precious memories of growing up in Plum Village. The following excerpt is a distillation of his experiences, challenges, growing insights, lifesavers, and lessons learned.*
+*Brother Chân Pháp Hải is an elder in the Plum Village tradition. In this interview excerpt from the budding Mountain Spring Monastery near Sydney, he shares with his younger monastic siblings his experiences, challenges, growing insights and lifesavers through 25 years of living in the Dharma and the sangha.*
 
 ## The Spirit of Experimentation in the Early Days of Plum Village
 
 When I first arrived in 1996 I was touched by the joy and enthusiasm that everybody had, even with the very simple conditions at the time. For example, when travelling from Upper Hamlet to New Hamlet, we did not have enough transport, so many of us would sit on the floor in the back of the shopping van, on blankets.
 
 When I ordained as a novice, the community was small – around 15 brothers – and the majority of us were of a similar age, so we had a lot of energy. I remember when we planted the trees and dug out the lotus pond in the middle of Upper Hamlet, Br. Pháp Ứng and Br. Pháp Hiền (Michael C.) ran jumping into the pond in their short robes, playing in the mud. There were many simple joys like that. Many trees that now provide shade around Upper Hamlet were planted as small saplings by the brothers on their ordination anniversaries. Going through everything together in such a small sangha fostered a sense of closeness.
+
+{% image "article_photos/brother-chan-phap-hai/scan00012.jpg" %}
 
 We did not yet have a designated monks’ building. The current one was built in 2002. We used to live in the *Stone* and *Bamboo buildings*, the *Turtle Lodge* and *Dharma Breeze*, as well as in rooms behind the kitchen. During large retreats like the Summer Retreat, the brothers would move out to tents, or consolidate in a few rooms, and some of our sisters as well as the guests would move into our rooms. 
 
@@ -26,6 +28,8 @@ We did not have all the classes and the structure that we have today. We learned
 
 When I was a novice, we were lucky enough to have a Fine Manner’s class with Thầy Giác Thanh, who offered what I think is the most important advice that I ever got in my monastic life, “What I want to share with you most of all is - don’t cover over your monastic life with a whole lot of bells and incense.” What a beautiful encouragement for us not to hide behind anything, but to bring ourselves fully to our practice and to offer what we have, even if we think it is not much: I myself certainly do not have much to offer.
 
+{% image "article_photos/brother-chan-phap-hai/13116163101541470842192695476293997605142558o_cut.jpg" %}
+
 Today I hear some of the young ones say, “I’m not ready.” Honestly, after 25 years, I really still do not feel ready. Even now, giving a Dharma talk, I always feel like I have nothing much of value to share. Maybe if I felt ready, there would be a problem. Not feeling ready is a gift. We just show up in the best way we can and offer what we have. Nobody ever gave me classes on how to give a Dharma talk. I just learned by doing.
 
 Thầy also had different emphases from time to time. At one time he would ask us to give spontaneous teachings. In the middle of walking meditation or another activity, he might ask, “Sr. Kính Nghiêm, offer us a sutra,” and the person would then need to share an invitation to practice from a place of aliveness and spontaneity. There was no time to prepare, we just had to do it. It was nerve-wracking, but also a lot of fun.
@@ -36,9 +40,13 @@ When I was a young monk, I suffered a lot. At one time, I shared with Thầy a v
 
 Whilst others can help and support us, ultimately, as practitioners, we ourselves need to be able to look deeply and understand our situation to be able to really transform our suffering. Thầy gave us those tools.
 
+{% image "article_photos/brother-chan-phap-hai/scan2.jpg" %}
+
 ## My biggest challenges in the early days
 
 One of the challenges I faced growing up in the Sangha was learning how to ask for and receive support. I came from a family environment in which I had to be very responsible in order to survive, so I had a tendency to be a bit too responsible and not want to communicate what was really going on inside. I also did not know how to take advantage of the presence of my elder brothers or sisters. The sangha’s Shining Light and guidance helped me to realise that my real contribution and real transformation was not in volunteering for many things, but something else entirely. I had to learn to be one element of the Sangha rather than taking over, even if I thought I was helping. This is a bit like the difference between being a soloist and playing in a band. Of course, this is a lifetime’s journey and I still have a lot to learn in this area.
+
+{% image "article_photos/brother-chan-phap-hai/12065878101536898390142693147459611197513014n-2_cut.jpg" %}
 
 Another challenge was our distinctly direct Australian communication style. We show respect and closeness to those we care about by being very direct, and have a self- and other-deprecating sense of humour. This comes from the background of the difficult environment of Australia - droughts, floods, fires - needing to make light of it and to come together as a collective. For example, last year a flood washed out both roads into and out of this mountain, leaving us cut off from supplies for 10 days. The local people began joking around, downplaying it, “Oh, it’s a bit bloody wet, hey mate?! (laughter)”. I had that tendency coming to Plum Village. If somebody was too serious or emotional about something, I would respond in this way. For many other cultures, this feels rude, which meant I had a lot of Beginning Anews. I needed to learn and adapt. Between us, coming back to Australia I had to go through reverse culture shock.
 
@@ -47,6 +55,8 @@ Another challenge was our distinctly direct Australian communication style. We s
 The biggest lifesaver of my monastic life is something that many do not enjoy at all, and that is my Shining Light letters. A few years ago I went through a situation where my whole world fell apart and for a brief moment I felt that the world or the sangha would be a better place without me in it. It was very difficult to see any good qualities in myself. I think we all have these moments. In that challenging moment, I reached for my Shining Light letters. I have accumulated a lot over the past quarter of a century. I read each of them and saw how clearly the sangha as a whole saw me. Not only did the sangha accept me, but actually loved me for who I am. In reading those letters, I felt as if the sangha was saying to me, “We see you, we see the Dharma you are meant to bring, and you are important to us.” Being seen and feeling this deep connection is something very precious. It honestly saved my life. I recommend that you do it.
 
 Twenty years ago I had a dream in which Thầy came up behind me, put his two hands on my shoulders and said, “Sư em Pháp Hải, is it *Yes* or is it *No*?” In the dream I turned to Thầy and said, “It is *Yes*, Thầy.” That dream has always remained with me. Whenever I go through a difficult moment, this is the other lifesaver I have: the practice to say “Yes” to whatever the situation is and have the mindset of “I am here and available. I will do what I can.”
+
+{% image "article_photos/brother-chan-phap-hai/scan3.jpg" %}
 
 ## Tapping into the Insight of Thầy
 
