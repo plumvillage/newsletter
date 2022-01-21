@@ -5,7 +5,7 @@ const slugify = require('slugify')
 const Image = require("@11ty/eleventy-img");
 Image.concurrency = 4; // default is 10
 
-async function imageShortcode(src) {
+async function imageShortcode(src, optClasses) {
     // src: article_photos/su-ong/ThayHeaderImg_whiteFadeout2.jpg
     let reduce = false;
     const mediaPath = "src/media/publish/";
@@ -56,7 +56,12 @@ async function imageShortcode(src) {
             size: 26450
         */
         // "../../media/build/article_photos/su-ong/ThayHeaderImg_whiteFadeout2-600w.webp"
-        return `<img id="${autoId}" src="${destPathRelative}${parsed.dir}/${data.filename}" loading="lazy" decoding="async">`;
+
+        let html = `<img id="${autoId}" class="${optClasses ? optClasses : ""}" src="${destPathRelative}${parsed.dir}/${data.filename}" loading="lazy" decoding="async">`
+        
+        console.log(html)
+        
+        return html;
     } catch (err) {
         console.error(src, err)
         return ""

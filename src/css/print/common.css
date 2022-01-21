@@ -62,7 +62,6 @@ html:lang(vi) .pagedjs_right_page .pagedjs_margin-bottom-right {
     background: 93% 50%/40% no-repeat url('../../media/Calligraphy/Parallels VI p2 Bon Mua Trong Am Ngoai Em.jpg');
 }
 
-
 .front-cover, .front-collage, .back-collage, .back-cover {
     page: photopage; /* named pages*/
     width: calc(var(--pagedjs-pagebox-width));
@@ -274,6 +273,20 @@ article img {
     margin-top: 6pt;
     margin-bottom: 6pt;
 }
+article img.has-label {
+    display: block; /* block eliminates remaining space between image and label*/
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+article img + p.image-label {
+    display: block; /* block eliminates remaining space between image and label*/
+    font-size: 80%;
+    text-indent: 0;
+    text-align: right !important;
+    margin-top: 0;
+    padding-top: 0;
+    margin-bottom: 6pt;
+}
 
 /* img#thien-chi-1 {
     float: inline-end;
@@ -326,4 +339,22 @@ img#articlephotosbrother-chan-phap-dungthay-bell3-torn-edges {
 .bells-of-mindfulness-page .pagedjs_margin-bottom {
     height: 0;
     display: none;
+}
+
+
+/* .imgHolder {
+    position: relative;
+}
+.imgHolder span {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    border: 2px solid green;
+}
+img {
+    border: 1px solid red;
+} */
+
+
+img#articlephotosbrother-chan-phap-linhNYTCH211109KA874 {
 }
