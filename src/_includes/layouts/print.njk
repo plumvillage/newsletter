@@ -71,6 +71,18 @@
                 page.classList.add("bells-of-mindfulness-page")
                 console.log("custom script done.", page)
             }
+
+            afterPageLayout(pageElement, page, breakToken) {
+
+                let elem = pageElement.querySelector("img#articlephotosbrother-chan-phap-linhCS21202110152RL0936edited")
+                // console.log(elem)
+                if (elem) {
+                    console.log("SUCCESS")
+                    console.log(pageElement)
+                    pageElement.classList.add("articlephotosbrother-chan-phap-linhCS21202110152RL0936editedPAGE")
+                }
+
+            }
         }
         Paged.registerHandlers(MyHandler);
     </script>
