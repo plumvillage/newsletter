@@ -344,9 +344,9 @@ img#articlephotosbrother-chan-phap-dungthay-bell3-torn-edges {
 
 
 
-.article-two-leaves-at-the-tip-of-the-branch {
+/* .article-two-leaves-at-the-tip-of-the-branch {
     page: two-leaves;
-}
+} */
 
 img#articlephotosbrother-chan-phap-linhNYTCH211109KA874 {
 }
@@ -354,7 +354,7 @@ h1#two-leaves-at-the-tip-of-the-branch {
     /* margin-top: 70mm; */
 }
 
-@page two-leaves:first {
+/* @page two-leaves:first {
     margin-bottom: 70mm;
     @bottom-right {
         display: none;
@@ -362,7 +362,7 @@ h1#two-leaves-at-the-tip-of-the-branch {
     @bottom-left {
         display: none;
     }
-}
+} */
 
 img#articlephotosbrother-chan-phap-linhCS21202110152RL0936edited {
     margin: 0;
@@ -372,6 +372,24 @@ img#articlephotosbrother-chan-phap-linhCS21202110152RL0936edited {
     width: calc(var(--pagedjs-pagebox-width) + (var(--bleed)) * 2);
     left: calc((var(--pagedjs-margin-left) + var(--bleed))*-1);
     /* only works without footnote! */
-    bottom: calc((var(--pagedjs-margin-bottom) + var(--bleed)) * -1);
+    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + 50mm) * -1);
     overflow: visible;
+}
+
+
+/* .articlephotosbrother-chan-phap-linhCS21202110152RL0936editedPAGE .pagedjs_margin-bottom {
+    background-color: red !important;
+    width: 0 !important;
+    height: 0 !important;
+    display: none !important;
+} */
+
+.articlephotosbrother-chan-phap-linhCS21202110152RL0936editedPAGE .pagedjs_page_content {
+    height: calc(100% - var(--pagedjs-footnotes-height) - 50mm) !important;
+}
+
+.articlephotosbrother-chan-phap-linhCS21202110152RL0936editedPAGE .pagedjs_margin-left, .articlephotosbrother-chan-phap-linhCS21202110152RL0936editedPAGE .pagedjs_margin-right, .articlephotosbrother-chan-phap-linhCS21202110152RL0936editedPAGE .pagedjs_margin-bottom, .articlephotosbrother-chan-phap-linhCS21202110152RL0936editedPAGE .pagedjs_margin-top {
+    width: 0 !important;
+    height: 0 !important;
+    display: none !important;
 }

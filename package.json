@@ -5,7 +5,7 @@
     "scripts": {
         "clean": "rm -R docs",
         "debug": "DEBUG=Eleventy* npx @11ty/eleventy",
-        "start": "npx @11ty/eleventy --serve --incremental",
+        "start": "npx @11ty/eleventy --serve",
         "build-html": "npx @11ty/eleventy",
         "build-pdf-vi-letter": "pagedjs-cli -i docs/vi/letter/index.html -o builds/ltlm-45-vi-letter.pdf",
         "build-pdf-vi-a4": "pagedjs-cli -i docs/vi/a4/index.html -o builds/ltlm-45-vi-a4.pdf",
