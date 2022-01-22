@@ -57,7 +57,8 @@ async function imageShortcode(src, optClasses) {
         */
         // "../../media/build/article_photos/su-ong/ThayHeaderImg_whiteFadeout2-600w.webp"
 
-        let html = `<img id="${autoId}" class="${optClasses ? optClasses : ""}" src="${destPathRelative}${parsed.dir}/${data.filename}" loading="lazy" decoding="async">`
+        // img loading="lazy" is buggy! stops chrome from running pagedjs
+        let html = `<img id="${autoId}" class="${optClasses ? optClasses : ""}" src="${destPathRelative}${parsed.dir}/${data.filename}" decoding="async">`
         
         // console.log(html)
         

@@ -18,7 +18,9 @@ body {
     margin-top: 32pt;
     --pagedjs-margin-top: 32pt;
     margin-bottom: 40pt;
+    /* is this buggy? leaves a huge amount of iterations in the css */
     counter-reset: footnote;
+
     /* this breaks pagedjs */
     /* bleed: var(--bleed); */
     @footnote {
@@ -336,33 +338,12 @@ img#articlephotosbrother-chan-phap-dungthay-bell3-torn-edges {
     margin-right: auto;
 }
 
-/* .bells-of-mindfulness-page .pagedjs_margin-bottom {
-    height: 0;
-    display: none;
-} */
 
-
-
-
-/* .article-two-leaves-at-the-tip-of-the-branch {
-    page: two-leaves;
-} */
 
 img#articlephotosbrother-chan-phap-linhNYTCH211109KA874 {
 }
 h1#two-leaves-at-the-tip-of-the-branch {
-    /* margin-top: 70mm; */
 }
-
-/* @page two-leaves:first {
-    margin-bottom: 70mm;
-    @bottom-right {
-        display: none;
-    }
-    @bottom-left {
-        display: none;
-    }
-} */
 
 img#articlephotosbrother-chan-phap-linhCS21202110152RL0936edited {
     margin: 0;
@@ -371,25 +352,22 @@ img#articlephotosbrother-chan-phap-linhCS21202110152RL0936edited {
     z-index: -1;
     width: calc(var(--pagedjs-pagebox-width) + (var(--bleed)) * 2);
     left: calc((var(--pagedjs-margin-left) + var(--bleed))*-1);
-    /* only works without footnote! */
     bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + 50mm) * -1);
     overflow: visible;
 }
 
-
-/* .articlephotosbrother-chan-phap-linhCS21202110152RL0936editedPAGE .pagedjs_margin-bottom {
-    background-color: red !important;
-    width: 0 !important;
-    height: 0 !important;
-    display: none !important;
-} */
-
-.articlephotosbrother-chan-phap-linhCS21202110152RL0936editedPAGE .pagedjs_page_content {
+.PAGE-OF-articlephotosbrother-chan-phap-linhCS21202110152RL0936edited .pagedjs_page_content {
     height: calc(100% - var(--pagedjs-footnotes-height) - 50mm) !important;
 }
 
-.articlephotosbrother-chan-phap-linhCS21202110152RL0936editedPAGE .pagedjs_margin-left, .articlephotosbrother-chan-phap-linhCS21202110152RL0936editedPAGE .pagedjs_margin-right, .articlephotosbrother-chan-phap-linhCS21202110152RL0936editedPAGE .pagedjs_margin-bottom, .articlephotosbrother-chan-phap-linhCS21202110152RL0936editedPAGE .pagedjs_margin-top {
+.PAGE-OF-articlephotosbrother-chan-phap-linhCS21202110152RL0936edited .pagedjs_margin-left, .PAGE-OF-articlephotosbrother-chan-phap-linhCS21202110152RL0936edited .pagedjs_margin-right, .PAGE-OF-articlephotosbrother-chan-phap-linhCS21202110152RL0936edited .pagedjs_margin-bottom, .PAGE-OF-articlephotosbrother-chan-phap-linhCS21202110152RL0936edited .pagedjs_margin-top {
     width: 0 !important;
     height: 0 !important;
     display: none !important;
+}
+
+.PAGE-OF-articlephotosbrother-chan-phap-linhCS21202110152RL0936edited .pagedjs_footnote_area {
+    text-align: right;
+    color: var(--color-tower);
+    bottom: -62mm;
 }
