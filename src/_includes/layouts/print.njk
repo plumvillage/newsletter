@@ -18,7 +18,13 @@
     <link rel="stylesheet" href="../../css/print/articles-{{ locale }}.css">
 
     {% include "../partials/page-setup.njk" %}
-    {% include "../partials/print-preview.njk" %}
+    {%- if preview == true %}
+    <!-- paged.js preview in browser -->
+    <link rel="stylesheet" href="/pagedjs/interface.css">
+    {%- endif %}
+    <script src="/pagedjs/paged.polyfill.js"></script>
+    <script src="/js/hooks-to-pagedjs.js"></script>
+    
 </head>
 <body>
     {%- if preview %}
@@ -58,34 +64,6 @@
     {%- endif %}
 
     {# {% include "partials/testing.njk" %} #}
-
-    <script>
-        class MyHandler extends Paged.Handler {
-            constructor(chunker, polisher, caller) {
-                super(chunker, polisher, caller);
-            }
-            // https://www.pagedjs.org/documentation/11-hooks/
-            afterRendered(pages) {
-                let elem = document.querySelector("h1#bells-of-mindfulness")
-                let page = elem.parentNode.parentNode.parentNode.parentNode.parentNode.parentNode.parentNode
-                page.classList.add("bells-of-mindfulness-page")
-                console.log("custom script done.", page)
-            }
-
-            afterPageLayout(pageElement, page, breakToken) {
-
-                let elem = pageElement.querySelector("img#articlephotosbrother-chan-phap-linhCS21202110152RL0936edited")
-                // console.log(elem)
-                if (elem) {
-                    console.log("SUCCESS")
-                    console.log(pageElement)
-                    pageElement.classList.add("articlephotosbrother-chan-phap-linhCS21202110152RL0936editedPAGE")
-                }
-
-            }
-        }
-        Paged.registerHandlers(MyHandler);
-    </script>
 </body>
 
 </html>
