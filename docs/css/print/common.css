@@ -290,13 +290,23 @@ article img + p.image-label {
     margin-bottom: 6pt;
 }
 
+
+
+
+
+
+
+
+
+
+
+
 /* img#thien-chi-1 {
     float: inline-end;
 }
 img#thien-chi-2 {
     float: left;
 } */
-
 
 
 /* article_photos/brother-chan-troi-thien-chi/21767317541562549611291283397034335052574932n */
@@ -338,13 +348,7 @@ img#articlephotosbrother-chan-phap-dungthay-bell3-torn-edges {
     margin-right: auto;
 }
 
-
-
-img#articlephotosbrother-chan-phap-linhNYTCH211109KA874 {
-}
-h1#two-leaves-at-the-tip-of-the-branch {
-}
-
+img#articlephotosbrother-chan-minh-hyT-Minh-Hy-1-edited,
 img#articlephotosbrother-chan-phap-linhCS21202110152RL0936edited {
     margin: 0;
     max-width: none;
@@ -360,7 +364,13 @@ img#articlephotosbrother-chan-phap-linhCS21202110152RL0936edited {
     height: calc(100% - var(--pagedjs-footnotes-height) - 50mm) !important;
 }
 
-.PAGE-OF-articlephotosbrother-chan-phap-linhCS21202110152RL0936edited .pagedjs_margin-left, .PAGE-OF-articlephotosbrother-chan-phap-linhCS21202110152RL0936edited .pagedjs_margin-right, .PAGE-OF-articlephotosbrother-chan-phap-linhCS21202110152RL0936edited .pagedjs_margin-bottom, .PAGE-OF-articlephotosbrother-chan-phap-linhCS21202110152RL0936edited .pagedjs_margin-top {
+.PAGE-OF-articlephotosbrother-chan-minh-hyT-Minh-Hy-1-edited .pagedjs_page_content {
+    height: calc(100% - var(--pagedjs-footnotes-height) - 50mm) !important;
+}
+
+.PAGE-OF-articlephotosbrother-chan-minh-hyT-Minh-Hy-1-edited .pagedjs_margin-bottom,
+.PAGE-OF-articlephotosbrother-chan-phap-linhCS21202110152RL0936edited .pagedjs_margin-bottom
+{
     width: 0 !important;
     height: 0 !important;
     display: none !important;
