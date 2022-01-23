@@ -71,8 +71,19 @@ html:lang(vi) .pagedjs_right_page .pagedjs_margin-bottom-right {
     top: calc((var(--pagedjs-margin-top))*-1);
     left: calc((var(--pagedjs-margin-left))*-1);
     position: relative;
-    /* break-after: page; */
+    break-after: page;
     overflow: visible;
+}
+
+.front-cover.bleed, .front-collage.bleed, .back-collage.bleed, .back-cover.bleed {
+    width: calc(var(--pagedjs-pagebox-width) + (var(--bleed) * 2));
+    height: calc(var(--pagedjs-pagebox-height) + (var(--bleed) * 2));
+    top: calc((var(--pagedjs-margin-top) + var(--bleed)) * -1);
+    left: calc((var(--pagedjs-margin-left) + var(--bleed)) * -1);
+    /* width: calc(var(--pagedjs-pagebox-width) + (var(--bleed) * 2));
+    height: calc(var(--pagedjs-pagebox-height) + (var(--bleed) * 2));
+    top: calc((var(--pagedjs-margin-top) + var(--bleed)) * -1);
+    left: calc((var(--pagedjs-margin-left) + var(--bleed)) * -1); */
 }
 
 @page photopage {
@@ -89,16 +100,10 @@ html:lang(vi) .pagedjs_right_page .pagedjs_margin-bottom-right {
     }
 }
 
-.front-cover.bleed, .front-collage.bleed, .back-collage.bleed, .back-cover.bleed {
-    width: calc(var(--pagedjs-pagebox-width) + var(--bleed)*2);
-    height: calc(var(--pagedjs-pagebox-height) + var(--bleed)*2);
-    top: calc((var(--pagedjs-margin-top) + var(--bleed))*-1);
-    left: calc((var(--pagedjs-margin-left) + var(--bleed))*-1);
-}
-
 .front-cover img, .front-collage img, .back-collage img, .back-cover img {
     width: 100%;
 }
+
 
 /* get the title of the current chapter - this will be the content of the h1
 reset figure counter as figures start from 1 in each chapter */
@@ -218,7 +223,12 @@ html:lang(en) article p {
     text-align: left;
 }
 
-p, article blockquote {
+article p {
+    orphans: 2;
+    widows: 2;
+}
+
+article p, article blockquote {
 /* DEFAULT. To be refined below ... */
     margin: 0;
 }
@@ -271,6 +281,7 @@ sup { /* superscript */
 }
 
 article img {
+    display: block;
     max-width: 100%;
     margin-top: 6pt;
     margin-bottom: 6pt;
@@ -296,24 +307,14 @@ article img + p.image-label {
 
 
 
-
-
-
-
-
-
-/* img#thien-chi-1 {
-    float: inline-end;
+img#articlephotosbrother-chan-phap-haiscan3 {
 }
-img#thien-chi-2 {
-    float: left;
-} */
 
 
 /* article_photos/brother-chan-troi-thien-chi/21767317541562549611291283397034335052574932n */
 /* article_photos/brother-chan-troi-thien-chi/5b_rot */
 /*  articlephotossu-ongThayHeaderImgwhiteFadeout2 */
-img#articlephotossu-ongThayHeaderImgwhiteFadeout2 {
+img#articlephotossu-ongTheTrueSangha2 {
     margin: 0;
     max-width: none;
     position: absolute;
@@ -321,17 +322,24 @@ img#articlephotossu-ongThayHeaderImgwhiteFadeout2 {
     width: calc(var(--pagedjs-pagebox-width) + (var(--bleed)) * 2);
     left: calc((var(--pagedjs-margin-left) + var(--bleed))*-1);
     top: calc((var(--pagedjs-margin-top) + var(--bleed))*-1);
-    overflow: visible;
+    mask-image: linear-gradient(to top, rgba(0,0,0,0) 0%,rgba(0,0,0,1) 35%);
+    -webkit-mask-image: linear-gradient(to top, rgba(0,0,0,0) 0%,rgba(0,0,0,1) 35%);
 }
 
 h1#the-true-sangha, h1#tang-than-dich-thuc {
     text-shadow: /* stacking */
-        var(--color-sanghati-light) 1px 0 5px,
-        white 1px 0 20px;
+        var(--color-sanghati-light) 1px 0 5px
+        ,white 1px 0 10px
+        ,white 1px 0 20px
+        ,white 1px 0 30px
+    ;
     margin-top: 70mm;
     /* does not extend beyond article frame: */
     /* background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(255,255,255,0) 40%); */
     overflow: visible;
+}
+h1#the-true-sangha + .author, h1#tang-than-dich-thuc + .author {
+    text-shadow: white 1px 0 5px
 }
 
 img#articlephotosbrother-chan-phap-dungthay-bell3-torn-edges {

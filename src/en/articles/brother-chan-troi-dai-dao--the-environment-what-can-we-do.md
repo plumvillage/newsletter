@@ -9,6 +9,8 @@ I love Mother earth, and I cannot look at documentaries on the environment crisi
 
 During the Rains retreat of 2019 we had a series of workshops on the environment to see how we could reduce our carbon footprint and recycling, which completely changed the way I saw rubbish. As part of the workshops we started looking at what we were throwing out to see how we could reduce our carbon footprint and the amount of waste we were exporting out of the monastery. The mindset we had at the time was to take everything to the recycling centre by van. We didn’t give much thought to what happened to it next. It was someone else’s problem. 
 
+{% image "article_photos/brother-chan-troi-dai-dao/IMG_0428.jpg" %}
+
 The workshops showed us what happened next, and so we saw that vast amounts of things are not recycled and saw a documentary about a Japanese town that had achieved zero waste through the collective efforts of the whole community. They had succeeded in building a collective recycling centre that tried to re-use everything. are buried in the earth in huge pits. Even things that are recycled are not processed locally but are transported on to other larger plants, creating more carbon. Therefore it seemed clear that by looking into what we could process here ourselves we would reduce a whole chain of transport by fossil fuel burning vehicles but also reduce the amount of stuff buried in the earth.
 
 When we study the ten links we see that through our ignorance we see things as separate formations and we do not see the interrelation between things. We see a log on the fire but we do not see the chainsaw that cut it up or the fossil fuels burnt in that cutting action. We see a tee-shirt but not the amount of water that was used to make it. It is also easy for us to get rid of things and not concern ourselves about what will become of them or our planet as a result. Can we see the future of the packaging of items we order or buy in the shop? It is hard to include its continuation in our choice of each item. 
@@ -29,7 +31,9 @@ When we looked at what kind of waste we were driving in our fossil fuel burning 
 
 ## Composting and making cardboard logs 
 
-Now we shred some of the cardboard by hand and add it to weeds or grass cuttings to make a rich compost which we store in empty rice sacks of which we have a regular supply from the garden. Witnessing this alchemy of turning grass and cardboard to air the mix and seeing the red worms come and eventually the pile transformed into dark brown compost is very fulfilling. 
+Now we shred some of the cardboard by hand and add it to weeds or grass cuttings to make a rich compost which we store in empty rice sacks of which we have a regular supply from the garden. Witnessing this alchemy of turning grass and cardboard to air the mix and seeing the red worms come and eventually the pile transformed into dark brown compost is very fulfilling.
+
+{% image "article_photos/brother-chan-troi-dai-dao/IMG0411_crop.jpg" %}
 
 The wastepaper and unglossy cardboard are cut up and soaked in rainwater before being pulped, mixed with sawdust from our woodwork area and compressed into logs for the fire. It can be difficult sometimes to get everyone on board with the idea that separating sawdust from other floor sweepings is helping the environment. But patience pays off. We made the log press from an old car jack and bits of scrap metal. 
 
@@ -40,6 +44,8 @@ This synergy of rainwater harvesting, and cardboard, sawdust and garden waste re
 ## Repurposing containers – Introducing the tetrapot 
 
 For two years we struggled to find a solution to the vast numbers of tetrapaks we were putting into our yellow recycling bags. Looking deeply into the problem we saw that a third of the volume of our yellow recycling bags was taken up by tetrapaks from vegan milk. We cannot crush them as the recycling centre can only process them uncrushed. From time to time I would try to think of a solution to this issue - sometimes quite laughable ideas, but always in vain. Eventually I kept this problem in the back of my mind waiting for the answer to come. 
+
+{% image "article_photos/brother-chan-troi-dai-dao/IMG_0430.jpg" %}
 
 One day we were invited to help plant pumpkin seeds on our organic farm. We were planting the seeds into fragile unrecyclable black plastic pots. They kept breaking as we put the compost in. There was the solution! – if we cut a tetrapak in half and make a hole in the bottom half we have two planting pots which we had been buying, and they can be used more than once. The Happy farm were keen to try it out as an experiment and so a new life was given to thousands of tetrapaks we use every year. We are also using them to plant many different trees. The tetrapot was born!
 

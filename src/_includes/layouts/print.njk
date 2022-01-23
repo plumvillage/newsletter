@@ -28,11 +28,11 @@
 </head>
 <body>
     {%- if preview %}
-    <div class="front-cover">
-        {% image ["front-cover-", locale, ".jpg"] | join %}
+    <div class="front-cover bleed">
+        {% image ["front-cover-", locale, "-bleed.jpg"] | join %}
     </div>
-    <div class="front-collage">
-        {% image "front-photos.jpg" %}
+    <div class="front-collage bleed">
+        {% image "front-photos-bleed.jpg" %}
     </div>
     {%- endif %}
 
@@ -55,11 +55,11 @@
     </div>
 
     {%- if preview %}
-    <div class="back-collage">
-        {% image "back-photos.jpg" %}
+    <div class="back-collage bleed">
+        {% image "back-photos-bleed.jpg" %}
     </div>
-    <div class="back-cover">
-        {% image ["back-cover-", locale, ".jpg"] | join %}
+    <div class="back-cover bleed">
+        {% image ["back-cover-", locale, "-bleed.jpg"] | join %}
     </div>
     {%- endif %}
 
