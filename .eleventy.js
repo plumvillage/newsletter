@@ -16,14 +16,13 @@ async function imageShortcode(src, optClasses) {
     let parsed = path.parse(src)
     let autoId = slugify(`${parsed.dir}/${parsed.name}`, { strict: true })
     let options = {
-        formats: ["webp"],
+        formats: ["jpeg"], /* jpeg, png, webp, gif, tiff, avif */
         outputDir: `docs/media/build/${parsed.dir}`,
         widths: [2000],
         sharpOptions: {},
         // https://sharp.pixelplumbing.com/api-output#webp
-        sharpWebpOptions: {
-            quality: 70,
-        },
+        sharpWebpOptions: { quality: 50, },
+        sharpJpegOptions: { quality: 50, },
         // disk cache works only when using the built-in hashing algorithm and not custom filenames
         // filenameFormat: function (id, src, width, format, options) {
         //     const extension = path.extname(src);
@@ -58,8 +57,7 @@ async function imageShortcode(src, optClasses) {
             Image(srcFull, options)
             // get metadata even the images are not fully generated
             let metadata = Image.statsSync(srcFull, options);
-
-            data = metadata.webp[metadata.webp.length - 1];
+            data = metadata.jpeg[metadata.jpeg.length - 1];
             destPath = destPath + "build/"
         }
         console.log("processing:", data.filename)
