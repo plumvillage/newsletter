@@ -4,33 +4,28 @@ class MyHandler extends Paged.Handler {
         super(chunker, polisher, caller);
     }
     
+/*
+The intention here is to be able to place images with a custom style, for example, spanning the whole page. This code adds a unique class name to the page that contains it, which the css can then target and style.
+
+A better way to achieve this would be pagedjs' named pages. However, named pages break the page after whichever element sets it up.
+
+Also, the image style need to be applied BEFORE the layout engine of pagedjs has placed the content, which is the reason why we do it on renderNode(), right when placing the element in question (not later).
+ */
+
     renderNode(node, sourceNode) {
-        if (node.nodeName == "IMG" && node.id) { // ELEMENT_NODE
+        if (node.nodeName == "IMG" && node.id) {
             let e = node
             let i = 0
             while (e && i++ < 10) {
                 e = e.parentNode
                 if (e.tagName == "DIV" && e.classList.contains('pagedjs_page')) {
                     e.classList.add(`PAGE-OF-${node.id}`)
-                    console.log("added to:", e)
+                    // console.log("added to:", e)
                     break;
                 }
             }
         }
     }
 
-    afterPageLayout(pageElement, page, breakToken) {
-        let addClassToPageWithImage = function(imgId) {
-            let elem = pageElement.querySelector(`img#${imgId}`)
-            if (elem) {
-                console.log("found image page:")
-                pageElement.classList.add(`PAGE-OF-${imgId}`)
-                console.log(pageElement)
-            }
-        }
-        // addClassToPageWithImage("articlephotosbrother-chan-phap-linhCS21202110152RL0936edited")
-        // addClassToPageWithImage("articlephotosbrother-chan-minh-hyT-Minh-Hy-1-edited")
-        
-    }
 }
 Paged.registerHandlers(MyHandler);
