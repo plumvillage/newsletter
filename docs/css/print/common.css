@@ -339,37 +339,53 @@ h1#bells-of-mindfulness {
 img#articlephotosbrother-chan-phap-dungthay-bell3-torn-edges {
     column-span: all;
     display: block;
-    /* does not work: will still overflow */
-    /* object-fit: contain; */
-    /* bottom: 0; */
     max-width: 97%;
-    /* max-height: 100%; */
     margin-left: auto;
     margin-right: auto;
 }
 
-img#articlephotosbrother-chan-minh-hyT-Minh-Hy-1-edited,
-img#articlephotosbrother-chan-phap-linhCS21202110152RL0936edited {
+img#articlephotosbrother-chan-minh-hyT-Minh-Hy-1-edited
+,img#articlephotosbrother-chan-phap-linhCS21202110152RL0936edited
+,img#articlephotosbrother-chan-phap-dungbai-T-Phap-Dung-4
+{
     margin: 0;
     max-width: none;
     position: absolute;
     z-index: -1;
     width: calc(var(--pagedjs-pagebox-width) + (var(--bleed)) * 2);
     left: calc((var(--pagedjs-margin-left) + var(--bleed))*-1);
-    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + 50mm) * -1);
     overflow: visible;
 }
 
+img#articlephotosbrother-chan-phap-linhCS21202110152RL0936edited {
+    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + 50mm) * -1);
+    mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%,rgba(0,0,0,0.65) 100%);
+    -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%,rgba(0,0,0,0.65) 100%);
+}
 .PAGE-OF-articlephotosbrother-chan-phap-linhCS21202110152RL0936edited .pagedjs_page_content {
     height: calc(100% - var(--pagedjs-footnotes-height) - 50mm) !important;
 }
 
-.PAGE-OF-articlephotosbrother-chan-minh-hyT-Minh-Hy-1-edited .pagedjs_page_content {
-    height: calc(100% - var(--pagedjs-footnotes-height) - 50mm) !important;
+
+img#articlephotosbrother-chan-phap-dungbai-T-Phap-Dung-4 {
+    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + 100mm) * -1);
+    mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%,rgba(0,0,0,0.65) 100%);
+    -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 10%,rgba(0,0,0,1.00) 30%);
+}
+.PAGE-OF-articlephotosbrother-chan-phap-dungbai-T-Phap-Dung-4 .pagedjs_page_content {
+    height: calc(100% - var(--pagedjs-footnotes-height) - 90mm) !important;
 }
 
-.PAGE-OF-articlephotosbrother-chan-minh-hyT-Minh-Hy-1-edited .pagedjs_margin-bottom,
-.PAGE-OF-articlephotosbrother-chan-phap-linhCS21202110152RL0936edited .pagedjs_margin-bottom
+
+img#articlephotosbrother-chan-minh-hyT-Minh-Hy-1-edited {
+    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + 54mm) * -1);
+}
+.PAGE-OF-articlephotosbrother-chan-minh-hyT-Minh-Hy-1-edited .pagedjs_page_content {
+    height: calc(100% - var(--pagedjs-footnotes-height) - 54mm) !important;
+}
+.PAGE-OF-articlephotosbrother-chan-minh-hyT-Minh-Hy-1-edited .pagedjs_margin-bottom
+,.PAGE-OF-articlephotosbrother-chan-phap-linhCS21202110152RL0936edited .pagedjs_margin-bottom
+,.PAGE-OF-articlephotosbrother-chan-phap-dungbai-T-Phap-Dung-4 .pagedjs_margin-bottom
 {
     width: 0 !important;
     height: 0 !important;
@@ -381,3 +397,5 @@ img#articlephotosbrother-chan-phap-linhCS21202110152RL0936edited {
     color: var(--color-tower);
     bottom: -62mm;
 }
+
+
