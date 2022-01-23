@@ -5,15 +5,13 @@ author: Brother Chân Minh Hy
 
 *(This article was translated from Vietnamese)*
 
-There is an anecdote about an occasion at the Tu Dam Temple in Vietnam, when the monks were about to put their sanghati on for the precept recitation ceremony, and Venerable Thien Sieu asked:
+There is an anecdote about an occasion at the Tu Dam Temple in Vietnam, when the monks were about to put their sanghati on for the precept recitation ceremony, and Venerable Thien Sieu asked, “Do you know why we say, ‘*The Dharma is deep and wonderful*’?” Pausing for a few moments, he continued, “because it is here, right in front of you.”
 
 {% image "article_photos/brother-chan-minh-hy/T-Minh-Hy-1-edited.JPG" %}
 
-Do you know why we say, “The Dharma is deep and wonderful?” Pausing for a few moments, he continued, “because it is here, right in front of you.”
-
 I heard this anecdote when the Venerable Abbot of Bao Lam Temple recounted it to us at Dieu Tram Nunnery. This question has stayed with me ever since - How can the wonderful and deep Dharma be right in front of us? Why can’t I see it? Is it because there are many things around that are so ordinary that I am unable to see it?
 
-At parties, we often offer special dishes. If there is only rice and green vegetables, we cannot call it a party. Isn’t that so? Rice and boiled vegetables are very ordinary. We eat them every day, every week, every month, the whole year round, we eat them our whole life through. There are people who cannot bear it if they don’t have rice, even for one or two days. But if that is so, then rice and green vegetables are not ordinary. They are special because everyone can eat them and cannot live without these staples. “Special dishes” at parties are special, but we only eat them occasionally. We cannot eat them every day like we eat rice. *No one loves us like rice does.* 
+At parties, we often offer special dishes. If there is only rice and green vegetables, we cannot call it  We eat them every day, every week, every month, the whole year round, we eat them our whole life through. There are people who cannot bear it if they don’t have rice, even for one or two days. But if that is so, then rice and green vegetables are not ordinary. They are special because everyone can eat them and cannot live without these staples. “Special dishes” at parties are special, but we only eat them occasionally. We cannot eat them every day like we eat rice. *No one loves us like rice does.* 
 
 The teachings of the Buddha are the same. There are Dharma doors that we practice every day so we find them very ordinary. In fact, they are very special because irrespective of place or situation, they can be easily practiced by everyone. 
 
@@ -26,9 +24,8 @@ Perhaps rice and boiled vegetables have become ordinary due to the way we eat th
 > “Beings all over the Earth<br/>
 > are struggling to live.<br/>
 > I aspire to practice deeply<br/>
-> so all may have enough to eat.”
-
-(Gatha “Before Eating” - Thich Nhat Hanh, *Stepping into Freedom*.)
+> so all may have enough to eat.”<br/>
+> Gatha “Before Eating” - Thich Nhat Hanh, *Stepping into Freedom*.
 
 In this way, there are things that are very familiar, but they never become out of date. Each step, each in and out breath, each bowl of rice can become a party if our heart is filled with gratitude.
 

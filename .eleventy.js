@@ -2,26 +2,27 @@ const articleOrder = require("./src/_data/article-order.js");
 const fs = require('fs')
 const path = require("path");
 const slugify = require('slugify')
+const sharp = require("sharp");
 const Image = require("@11ty/eleventy-img");
 Image.concurrency = 4; // default is 10
 
 async function imageShortcode(src, optClasses) {
     // src: article_photos/su-ong/ThayHeaderImg_whiteFadeout2.jpg
-    let reduce = false;
-    const mediaPath = "src/media/publish/";
-    let srcFull = mediaPath + src
-    let destPathRelative = "../../media/";
+    let reduce = true;
+    const srcPath = "src/media/publish/";
+    let srcFull = srcPath + src
+    let destPath = "../../media/";
     let data = { filename: path.basename(src) };
     let parsed = path.parse(src)
     let autoId = slugify(`${parsed.dir}/${parsed.name}`, { strict: true })
     let options = {
         formats: ["webp"],
         outputDir: `docs/media/build/${parsed.dir}`,
-        widths: [1000],
+        widths: [2000],
         sharpOptions: {},
         // https://sharp.pixelplumbing.com/api-output#webp
         sharpWebpOptions: {
-            quality: 90,
+            quality: 70,
         },
         // disk cache works only when using the built-in hashing algorithm and not custom filenames
         // filenameFormat: function (id, src, width, format, options) {
@@ -31,16 +32,35 @@ async function imageShortcode(src, optClasses) {
         // }
     }
 
+    async function getMetadata(src) {
+        const metadata = await sharp(src).metadata();
+//         {
+//   format: 'jpeg',
+//   width: 2480,
+//   height: 3508,
+//   space: 'srgb',
+//   channels: 3,
+//   depth: 'uchar',
+//   density: 72,
+//   chromaSubsampling: '4:4:4',
+//   isProgressive: true,
+//   hasProfile: true,
+//   hasAlpha: false,
+//   icc: <Buffer bytes>
+// }
+        console.log(metadata);
+    }
+    // getMetadata(srcFull)
+
     try {
-        // TODO this messes up the page on load
         if (reduce) {
-            // generate images, while this is async we don’t wait
+            // can be async
             Image(srcFull, options)
-                // get metadata even the images are not fully generated
+            // get metadata even the images are not fully generated
             let metadata = Image.statsSync(srcFull, options);
 
             data = metadata.webp[metadata.webp.length - 1];
-            destPathRelative = destPathRelative + "build/"
+            destPath = destPath + "build/"
         }
         console.log("processing:", data.filename)
         
@@ -58,7 +78,7 @@ async function imageShortcode(src, optClasses) {
         // "../../media/build/article_photos/su-ong/ThayHeaderImg_whiteFadeout2-600w.webp"
 
         // img loading="lazy" is buggy! stops chrome from running pagedjs
-        let html = `<img id="${autoId}" class="${optClasses ? optClasses : ""}" src="${destPathRelative}${parsed.dir}/${data.filename}" decoding="async">`
+        let html = `<img id="${autoId}" class="${optClasses ? optClasses : ""}" src="${destPath}${parsed.dir}/${data.filename}" decoding="async">`
         
         // console.log(html)
         

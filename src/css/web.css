@@ -407,3 +407,29 @@ article p {
     font-size: 1.15em;
     line-height: 130%;
 }
+
+article img {
+    max-width: 100%;
+}
+
+img#articlephotosbrother-chan-phap-linhCS21202110152RL0936edited {
+    width: 150%;
+    max-width: none;
+    text-align: center;
+}
+
+article img.has-label {
+    display: block; /* block eliminates remaining space between image and label*/
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+article img + p.image-label {
+    display: block; /* block eliminates remaining space between image and label*/
+    font-size: 80%;
+    text-indent: 0;
+    text-align: right !important;
+    margin-top: 0;
+    padding-top: 0;
+    margin-bottom: 6pt;
+}
