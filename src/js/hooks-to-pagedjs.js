@@ -26,6 +26,14 @@ Also, the image style need to be applied BEFORE the layout engine of pagedjs has
             }
         }
     }
+    
+    // for adding 🙢 to end of article
+    afterRendered(pages) {
+        document.querySelectorAll(".article-end").forEach((e) => {
+            if (e.previousSibling && e.previousSibling.classList)
+                e.previousSibling.classList.add("last-article-element")
+        })
+    }
 
 }
 Paged.registerHandlers(MyHandler);

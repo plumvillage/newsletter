@@ -302,6 +302,13 @@ article img + p.image-label {
     margin-bottom: 6pt;
 }
 
+/* normally, this css would work, but articles are split between pages, so to select the last element, we need some javascript */
+/* article > p:last-child::after */
+.last-article-element::after {
+    /* https://en.wikipedia.org/wiki/Fleuron_(typography) */
+    content: ' 🙢';
+}
+
 
 
 
@@ -421,4 +428,4 @@ img#articlephotosbrother-chan-minh-hyT-Minh-Hy-1-edited {
 }
 
 
-NYTCH_211109_KA_873_crop
+

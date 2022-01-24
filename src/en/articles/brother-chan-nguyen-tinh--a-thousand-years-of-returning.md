@@ -3,9 +3,9 @@ title: A Thousand Years of Returning
 author: Brother Chân Nguyên Tịnh
 ---
 
-***Brother Nguyên Tịnh** was ordained in the year 2000 in Vietnam. In 2014, he decided to join the Plum Village sangha in Upper Hamlet. He is one of our Senior Dharma Teachers and is much loved for his gentle, humble bearing and for his love of poetry. In recent years he has spent much of his time as an attendant to Thay.*
+<p class="editors-preface">Brother Nguyên Tịnh was ordained in the year 2000 in Vietnam. In 2014, he decided to join the Plum Village sangha in Upper Hamlet. He is one of our Senior Dharma Teachers and is much loved for his gentle, humble bearing and for his love of poetry. In recent years he has spent much of his time as an attendant to Thay.</p>
 
-*(Excerpts from a Practice Journal)*
+***Excerpts from a Practice Journal***
 
 ## *03 November, 2015:*<br/> Let Me Also Be Present
 
