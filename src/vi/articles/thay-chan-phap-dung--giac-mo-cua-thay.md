@@ -3,7 +3,7 @@ title: Giấc mơ của thầy
 author: Thầy Chân Pháp Dung
 ---
 
-*(Bài viết được dịch từ tiếng Anh)*
+*Bài viết được dịch từ tiếng Anh.*
 
 Có một đêm, tôi đã mơ thấy Thầy thỉnh chuông mời gọi tất cả chúng ta quay về với giây phút hiện tại. Khi thức giấc, tôi hình dung ra bức tranh như các bạn đang thấy. Khi Thầy thỉnh chuông, ta có thể thấy không chỉ có một bàn tay mà có nhiều bàn tay cùng chuyển động, hòa quyện vào nhau, mỗi bàn tay nâng một nhạc cụ khác nhau. 
 

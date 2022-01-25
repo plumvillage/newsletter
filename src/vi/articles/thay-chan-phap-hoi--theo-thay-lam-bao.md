@@ -3,7 +3,7 @@ title: Theo thầy làm báo
 author: Thầy Chân Pháp Hội
 ---
 
-*Thầy Pháp Hội nhiều năm gắn bó với Lá Thư Làng Mai. Ban biên tập đã có cơ hội nghe thầy kể về khoảng thời gian đáng nhớ ấy. Những chia sẻ dưới đây được trích từ buổi nói chuyện này.* 
+<p class="editors-preface">Thầy Pháp Hội nhiều năm gắn bó với Lá Thư Làng Mai. Ban biên tập đã có cơ hội nghe thầy kể về khoảng thời gian đáng nhớ ấy. Những chia sẻ dưới đây được trích từ buổi nói chuyện này.</p>
 
 Biên tập báo Lá Thư Làng Mai (LTLM) là tham dự vào công việc tạo ra một món ăn tinh thần quan trọng để hiến tặng cho thế giới. Rất nhiều người tôn kính Sư Ông, muốn học hỏi giáo lý mà Sư Ông giảng dạy, đồng thời cũng quan tâm tới sinh hoạt diễn ra hàng năm của Làng. Mỗi năm, Sư Ông là người biên tập chính của báo Làng Mai. Sư Ông làm báo rất kỹ và là người chỉ dạy cho quý thầy, quý sư cô từng chút một trong việc tạo ra món ăn tinh thần này. Pháp Hội may mắn được tham dự vào việc làm báo từ rất sớm. Xuất gia năm 1997, Pháp Hội đã được theo chân thầy Pháp Ấn, thầy Pháp Khâm và các sư anh, sư chị khác để cùng với Sư Ông làm LTLM từ năm 1998. Pháp Hội cảm nhận Sư Ông dành nhiều tâm huyết cho tờ báo bằng cách chỉnh sửa, chọn lựa từng câu chữ, và giúp cho ban biên tập hiểu tinh thần của món ăn đó phải như thế nào để thể hiện được cốt tủy của Làng Mai trên phương diện pháp môn tu học cũng như xây dựng tăng thân.
 

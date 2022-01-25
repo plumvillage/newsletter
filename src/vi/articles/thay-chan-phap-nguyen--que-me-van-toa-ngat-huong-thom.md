@@ -3,7 +3,7 @@ title: Quê Mẹ Vẫn Tỏa Ngát Hương Thơm
 author: Thầy Chân Pháp Nguyện
 ---
 
-Hành trình Triển lãm Thư pháp và Sách của Sư Ông Làng Mai tại Việt Nam 
+## Hành trình Triển lãm Thư pháp và Sách của Sư Ông Làng Mai tại Việt Nam 
 
 Hơn một thập niên qua, những cuộc triển lãm thư pháp của Sư Ông Làng Mai đã bao lần được tổ chức thành công, thu hút rất nhiều sự quan tâm từ các giới trí thức cho đến giới truyền thông quốc tế tại các nước như Pháp, Đức, Canada, Mỹ, Thái Lan, Đài Loan và Hồng Kông. Nhưng mãi đến năm 2021, lần đầu tiên trong lịch sử Làng Mai, sau bao năm tháng ấp ủ, cuộc triển lãm thư pháp và sách của Sư Ông đã được chính thức diễn ra tại quê hương Việt Nam. Cuộc triển lãm bắt đầu ở thành phố Hồ Chí Minh, do Công ty TNHH Phan Lệ & Friends (Phanbook) đăng cai, đã chính thức mở cửa tại nhà sách Hải An (*2B Nguyễn Thị Minh Khai, Đa Kao, Quận 1*) từ ngày 27 tháng 3 đến ngày 5 tháng 4 năm 2021. Triển lãm được tiếp tục ở thủ đô Hà Nội, tại không gian triển lãm trường Đại học Mỹ thuật Việt Nam *(42 Yết Kiêu, Hoàn Kiếm, Hà Nội),* do Công ty cổ phần Văn hóa An Lạc tổ chức từ ngày 14 tháng 4 đến ngày 26 tháng 4. Cũng nhân dịp này, cuốn sách thư pháp đặc biệt *Hương thơm quê mẹ* được ra mắt (Phanbook & NXB Phụ nữ ấn hành, 2021).
 
