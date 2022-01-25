@@ -3,7 +3,7 @@ title: Working on the “Tet Times”
 author: Brother Chân Pháp Hội
 ---
 
-*Brother Phap Hoi has been connected with the Plum Village Newsletter for many years. This year's Newsletter editorial team had the chance to sit down with him to listen to him recount some memorable moments. The following is an excerpt from the interview.*
+<p class="editors-preface">Brother Phap Hoi has been connected with the Plum Village Newsletter for many years. This year's Newsletter editorial team had the chance to sit down with him to listen to him recount some memorable moments. The following is an excerpt from the interview.</p>
 
 ## Memorable Moments
 

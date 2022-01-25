@@ -239,9 +239,43 @@ article p + p {
 }
 
 article blockquote {
+    text-indent: 14pt;
     margin-top: 6pt;
-    margin-left: 16pt;
     margin-bottom: 6pt;
+	padding-left: 6pt;
+    border-left: 1pt;
+	border-top: 0;
+	border-right: 0;
+	border-bottom: 0;
+    border-style: solid;
+    border-image: 
+    linear-gradient(
+      to bottom, 
+        transparent,
+        var(--color-bark-light) 15%,
+		var(--color-bark-light) 85%,
+        transparent
+    ) 1 100%;
+}
+article blockquote p::before {
+    position: absolute;
+    line-height: 20pt;
+    text-indent: -14pt;
+    content: "“";
+    font-size: 200%;
+    color: var(--color-bark-light);
+}
+blockquote .quote-source::before {
+    color: var(--color-bark-dark);
+    content: "~ "; /* —🙒🙛🙘 */
+	font-size: 80%;
+}
+blockquote .quote-source {
+	position: relative;
+	display: inline-block;
+	left: 3pt;
+    font-style: italic;
+    color: var(--color-bark-dark);
 }
 
 article blockquote:lang(zh) {
@@ -281,15 +315,19 @@ sup { /* superscript */
 }
 
 article img {
-    display: block;
+    display: block; /* block eliminates remaining space between image and label*/
     max-width: 100%;
     margin-top: 6pt;
     margin-bottom: 6pt;
 }
 article img.has-label {
-    display: block; /* block eliminates remaining space between image and label*/
     margin-bottom: 0;
     padding-bottom: 0;
+}
+article img.img-small {
+    float: right;
+    margin-left: 3pt;
+    width: 50%;
 }
 article img + p.image-label {
     display: block; /* block eliminates remaining space between image and label*/
@@ -307,6 +345,10 @@ p.editors-preface {
     margin-left: 6pt;
     margin-right: 6pt;
     margin-bottom: 6pt;
+}
+p.editors-preface i {
+    color: hsl(17, 36%, 15%);
+    font-style: normal;
 }
 /* https://unicode-search.net/unicode-namesearch.pl?term=CIRCLE */
 /* https://jrgraphix.net/r/Unicode/25A0-25FF */
@@ -339,6 +381,8 @@ p.editors-preface::after {
 .last-article-element::after {
     /* https://en.wikipedia.org/wiki/Fleuron_(typography) */
     content: ' 🙢';
+    font-style: bold;
+    color: hsl(17, 36%, 15%);
 }
 
 
