@@ -3,7 +3,7 @@ title: Dharma banquet
 author: Brother Chân Minh Hy
 ---
 
-*(This article was translated from Vietnamese)*
+*This article was translated from Vietnamese.*
 
 There is an anecdote about an occasion at the Tu Dam Temple in Vietnam, when the monks were about to put their sanghati on for the precept recitation ceremony, and Venerable Thien Sieu asked, “Do you know why we say, ‘*The Dharma is deep and wonderful*’?” Pausing for a few moments, he continued, “because it is here, right in front of you.”
 
@@ -21,11 +21,10 @@ We need to develop this way of looking. Each step, each breath, each time we rel
 
 Perhaps rice and boiled vegetables have become ordinary due to the way we eat them, especially if we haven’t yet been able to appreciate that “a grain of rice is a jadestone from heaven”. If you allow yourself to look into a bowl of rice in your hand with appreciation, then gratitude and happiness will be born in your heart right in that moment. Happiness will come very quickly, with just one breath. You will smile and know that you are very fortunate.
 
-> “Beings all over the Earth<br/>
+> Beings all over the Earth<br/>
 > are struggling to live.<br/>
 > I aspire to practice deeply<br/>
-> so all may have enough to eat.”<br/>
-> Gatha “Before Eating” - Thich Nhat Hanh, *Stepping into Freedom*.
+> so all may have enough to eat. <span class="quote-source">Gatha ‘Before Eating’, Stepping into Freedom</span>
 
 In this way, there are things that are very familiar, but they never become out of date. Each step, each in and out breath, each bowl of rice can become a party if our heart is filled with gratitude.
 

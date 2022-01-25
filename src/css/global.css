@@ -14,9 +14,13 @@
     --color-sanghati-light: hsl(46, 100%, 85%);
     --color-bark: hsl(19, 36%, 32%);
     /* C 0%   M 16%   Y 23%   K 57% */
+   
+    --color-bark-light: #c7bbb8;
     --color-bark-dark: hsl(17, 36%, 15%);
     --color-leaf: hsl(72, 42%, 53%);
     /* C 8%   M 0%   Y 39%   K 27% */
+    --color-sky-dark: #0A2436;
+    --color-tower-dark: #360B0E;
 }
 
 
