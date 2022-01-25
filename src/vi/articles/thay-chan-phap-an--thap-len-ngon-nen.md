@@ -3,7 +3,7 @@ title: Thắp lên ngọn nến
 author: Thầy Chân Pháp Ấn
 ---
 
-*(Phỏng vấn thầy Chân Pháp Ấn)*
+*Phỏng vấn thầy Chân Pháp Ấn.*
 
 ## Đường về Làng
 

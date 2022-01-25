@@ -3,7 +3,7 @@ title: Trở Về Xóm Hạ
 author: Sư cô Chân Đức
 ---
 
-*(Bài viết được BBT chuyển ngữ từ tiếng Anh)*
+*Bài viết được BBT chuyển ngữ từ tiếng Anh.*
 
 Tôi tới Làng Mai vào ngày mùng 1 tháng 7 năm 1986. Một thiền sinh lái chiếc xe Quatrele cũ màu vàng ra đón tôi tại ga Sainte-Foy-La-Grande. Ba tháng trước, tôi và mấy bạn trong tổ chức *Phật tử thân hữu tranh đấu cho hòa bình* (Buddhist Peace Fellowship) thỉnh Thầy qua Anh hướng dẫn thực tập. Khi ấy Thầy đã gợi ý rằng tôi nên đến Làng thực tập một tháng.
 
