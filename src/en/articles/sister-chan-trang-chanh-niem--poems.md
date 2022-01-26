@@ -8,7 +8,7 @@ author: Sister Chân Trăng Chánh Niệm
 > A slip of light <br/>
 > let insight ignite <br/>
 > the darkness of night.<br/>
-> Our hands call to the same bell,<br/>
+> Our hands call to the same bell<br/>
 > pools of sound resound <br/>
 > throughout infinity<br/>
 
