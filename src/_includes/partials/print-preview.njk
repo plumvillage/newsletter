@@ -1,0 +1,10 @@
+{%- if preview == true %}
+    <!-- paged.js preview in browser -->
+    <script src="/pagedjs/paged.polyfill.js"></script>
+    <link rel="stylesheet" href="/pagedjs/interface.css">
+{%- endif %}
+<script>
+    const previewMenuHtml = `{% include "../components/preview-menu/preview-menu.njk" %}`;
+    const previewMenuCss = `{% include "../components/preview-menu/preview-menu.css" %}`;
+    {% include "../components/preview-menu/preview-menu.js" %}
+</script>

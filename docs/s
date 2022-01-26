@@ -1,0 +1,409 @@
+/* this stylesheet is used when generating a PDF */
+
+:root {
+    --bleed: 5mm;
+}
+
+
+/* reset chapter and figure counters on the body */
+
+body {
+    margin: 0;
+    padding: 0;
+    counter-reset: chapternum figurenum;
+    font-family: "Gentium Book Plus", "Skolar Latin", "Skolar PE", "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
+    line-height: 16pt;
+    font-size: 12pt;
+}
+
+@page {
+    /* chrome needs to have --pagedjs-margin-top set manually, otherwise it yields different results */
+    margin-top: 32pt;
+    --pagedjs-margin-top: 32pt;
+    margin-bottom: 40pt;
+    counter-reset: footnote;
+    /* default for PDF generation */
+    bleed: 5mm;
+    marks: crop;
+    @footnote {
+        padding-top: 8pt;
+        float: bottom;
+    }
+}
+
+@page: left {
+    margin-left: 33.27pt;
+    margin-right: 64pt;
+    @bottom-left {
+        /* top right bottom left*/
+        padding: 10pt 0 10pt 0;
+        content: counter(page);
+        font-size: 11pt;
+        font: "Cormorant Garamond";
+    }
+}
+
+html:lang(en) .pagedjs_left_page .pagedjs_margin-bottom-left {
+    background: 7% 50%/25% no-repeat url('../../media/Calligraphy/Parallels EN p1 Harmony at home.jpg');
+}
+
+html:lang(vi) .pagedjs_left_page .pagedjs_margin-bottom-left {
+    background: 7% 50%/40% no-repeat url('../../media/Calligraphy/Parallels VI p1 Ngay Xuan Tren Hoa Duoi Thuan.jpg');
+}
+
+@page: right {
+    margin-left: 64pt;
+    margin-right: 33.27pt;
+    @bottom-right {
+        padding: 10pt 0 10pt 120pt;
+        content: counter(page);
+        font-size: 11pt;
+        font: "Cormorant Garamond";
+    }
+}
+
+html:lang(en) .pagedjs_right_page .pagedjs_margin-bottom-right {
+    background: 93% 50%/25% no-repeat url('../../media/Calligraphy/Parallels EN p2 Peace all around.jpg');
+}
+
+html:lang(vi) .pagedjs_right_page .pagedjs_margin-bottom-right {
+    background: 93% 50%/40% no-repeat url('../../media/Calligraphy/Parallels VI p2 Bon Mua Trong Am Ngoai Em.jpg');
+}
+
+.front-cover,
+.front-collage,
+.back-collage,
+.back-cover {
+    page: photopage;
+    /* named pages*/
+    width: calc(var(--pagedjs-pagebox-width));
+    height: calc(var(--pagedjs-pagebox-height));
+    top: calc((var(--pagedjs-margin-top))*-1);
+    left: calc((var(--pagedjs-margin-left))*-1);
+    position: relative;
+    /* break-after: page; */
+    overflow: visible;
+}
+
+@page photopage {
+    /* Important for BUG-HUNTERS: if set to "0" only, it messes up the layout. it needs to be "0mm" */
+    margin-top: 0mm;
+    margin-right: 0mm;
+    margin-bottom: 0mm;
+    margin-left: 0mm;
+    @bottom-right {
+        display: none;
+    }
+    @bottom-left {
+        display: none;
+    }
+}
+
+.front-cover.bleed,
+.front-collage.bleed,
+.back-collage.bleed,
+.back-cover.bleed {
+    width: calc(var(--pagedjs-pagebox-width) + var(--bleed)*2);
+    height: calc(var(--pagedjs-pagebox-height) + var(--bleed)*2);
+    top: calc((var(--pagedjs-margin-top) + var(--bleed))*-1);
+    left: calc((var(--pagedjs-margin-left) + var(--bleed))*-1);
+}
+
+.front-cover img,
+.front-collage img,
+.back-collage img,
+.back-cover img {
+    width: 100%;
+}
+
+
+/* get the title of the current chapter - this will be the content of the h1
+reset figure counter as figures start from 1 in each chapter */
+
+h1 {
+    string-set: doctitle content(text);
+    counter-reset: figurenum;
+}
+
+
+/* increment chapter counter */
+
+h1.chapter::before {
+    counter-increment: chapternum;
+    /* content: counter(chapternum) ". "; */
+}
+
+
+/* increment and display figure counter */
+
+figcaption::before {
+    counter-increment: figurenum;
+    content: counter(chapternum) "-" counter(figurenum) ". ";
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    page-break-after: avoid;
+    page-break-inside: avoid;
+}
+
+h1+p,
+h2+p,
+h3+p {
+    page-break-before: avoid;
+}
+
+table,
+figure {
+    page-break-inside: avoid;
+}
+
+ul.toc {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    break-after: page;
+}
+
+
+/* create page numbers using target-counter in the TOC */
+
+ul.toc a::after {
+    content: leader('.') target-counter(attr(href), page);
+}
+
+ul.toc li {
+    line-height: 2;
+}
+
+ul.toc li a {
+    text-decoration: none;
+}
+
+a {
+    color: #000;
+}
+
+
+/* add page number to cross references */
+
+a.xref::after {
+    content: " (page " target-counter(attr(href, url), page) ")";
+}
+
+
+/* LTLM design */
+
+article {
+    columns: 2;
+    break-after: page;
+    column-gap: 16pt
+}
+
+h1,
+article .author {
+    column-span: all;
+    text-align: center;
+    color: var(--color-bark-dark);
+}
+
+h1 {
+    /* title */
+    font-family: "Cormorant Garamond";
+    font-weight: bold;
+    font-size: 32pt;
+    line-height: 110%;
+    margin-top: 12pt;
+    margin-bottom: 8pt;
+    /* font-style: italic; */
+    /* changes how numbers look like */
+    font-feature-settings: 'lnum';
+}
+
+article .author {
+    /* font-family: "Open Sans"; */
+    /* font-weight: bold; */
+    font-size: 14pt;
+    line-height: 16pt;
+    font-variant: small-caps;
+    margin-bottom: 8mm;
+}
+
+h2 {
+    /* section in article */
+    font-size: 13pt;
+    font-weight: bold;
+    color: var(--color-bark-dark);
+    margin-left: 8pt;
+    /* ~ text-indent on 2 lines*/
+    margin-top: 6pt;
+    margin-bottom: 5pt;
+}
+
+html:lang(vi) article p {
+    text-align: justify;
+}
+
+html:lang(en) article p {
+    text-align: left;
+}
+
+p,
+article blockquote {
+    /* DEFAULT. To be refined below ... */
+    margin: 0;
+}
+
+article p+p {
+    margin-top: 6pt;
+    text-indent: 14pt;
+}
+
+article blockquote {
+    margin-top: 6pt;
+    margin-left: 16pt;
+    margin-bottom: 6pt;
+}
+
+article blockquote:lang(zh) {
+    font-size: 130%;
+    line-height: 120%;
+    margin-top: 9pt;
+    margin-bottom: 9pt;
+}
+
+
+/* 21st century*/
+
+
+/* https://en.wikipedia.org/wiki/Ordinal_indicator */
+
+sup {
+    /* superscript */
+    /* otherwise, the line above is pushed up  */
+    line-height: 0;
+    font-size: 70%;
+}
+
+
+/* https://www.pagedjs.org/documentation/cheatsheet/ */
+
+.note {
+    float: footnote;
+    font-size: 10pt;
+    line-height: 120%;
+    /* indent all but first line */
+    /* margin-left: 5pt;
+    text-indent: -5pt */
+}
+
+.note::footnote-call {
+    display: inline-block;
+    text-indent: 0;
+}
+
+.note::footnote-marker {
+    font-weight: bold;
+    border-top: 0.6pt solid black;
+    list-style-position: outside;
+}
+
+article img {
+    max-width: 100%;
+    margin-top: 6pt;
+    margin-bottom: 6pt;
+}
+
+article img.has-label {
+    display: block;
+    /* block eliminates remaining space between image and label*/
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+article img+p.image-label {
+    display: block;
+    /* block eliminates remaining space between image and label*/
+    font-size: 80%;
+    text-indent: 0;
+    text-align: right !important;
+    margin-top: 0;
+    padding-top: 0;
+    margin-bottom: 6pt;
+}
+
+
+/* img#thien-chi-1 {
+    float: inline-end;
+}
+img#thien-chi-2 {
+    float: left;
+} */
+
+
+/* article_photos/brother-chan-troi-thien-chi/21767317541562549611291283397034335052574932n */
+
+
+/* article_photos/brother-chan-troi-thien-chi/5b_rot */
+
+
+/*  articlephotossu-ongThayHeaderImgwhiteFadeout2 */
+
+img#articlephotossu-ongThayHeaderImgwhiteFadeout2 {
+    margin: 0;
+    max-width: none;
+    position: absolute;
+    z-index: -1;
+    width: calc(var(--pagedjs-pagebox-width) + (var(--bleed)) * 2);
+    left: calc((var(--pagedjs-margin-left) + var(--bleed))*-1);
+    top: calc((var(--pagedjs-margin-top) + var(--bleed))*-1);
+    overflow: visible;
+}
+
+h1#the-true-sangha,
+h1#tang-than-dich-thuc {
+    text-shadow: /* stacking */
+    var(--color-sanghati-light) 1px 0 5px, white 1px 0 20px;
+    margin-top: 70mm;
+    /* does not extend beyond article frame: */
+    /* background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(255,255,255,0) 40%); */
+    overflow: visible;
+}
+
+h1#bells-of-mindfulness {}
+
+img#articlephotosbrother-chan-phap-dungthay-bell3-torn-edges {
+    column-span: all;
+    display: block;
+    /* does not work: will still overflow */
+    /* object-fit: contain; */
+    /* bottom: 0; */
+    max-width: 97%;
+    /* max-height: 100%; */
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bells-of-mindfulness-page .pagedjs_margin-bottom {
+    height: 0;
+    display: none;
+}
+
+
+/* .imgHolder {
+    position: relative;
+}
+.imgHolder span {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    border: 2px solid green;
+}
+img {
+    border: 1px solid red;
+} */
+
+img#articlephotosbrother-chan-phap-linhNYTCH211109KA874 {}

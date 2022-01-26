@@ -1,3 +1,7 @@
-.size-letter {
-
+@page {
+    size: letter;
+    bleed: 0.125in;
+    marks: crop;
 }
+
+.size-letter {}

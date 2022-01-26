@@ -1,4 +1,9 @@
 /* Print styles specific to A4 paper size */
-.size-a4 {
 
+@page {
+    size: A4;
+    bleed: 5mm;
+    marks: crop;
 }
+
+.size-a4 {}

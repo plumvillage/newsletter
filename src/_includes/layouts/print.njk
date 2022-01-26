@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html dir="ltr" lang="{{ locale }}" class="size-{{ size }}">
+<html dir="ltr" lang="{{ locale }}" class="">
 <head>
     <meta charset="utf-8" />
     {% set i18n = site[locale] %}
@@ -14,9 +14,8 @@
     {# needs to be relative for pagedjs to work #}
     <link rel="stylesheet" href="{{ '../../css/global.css' | url }}">
     <link rel="stylesheet" href="../../css/print/common.css">
-    <link rel="stylesheet" href="../../css/print/{{ size }}.css">
     <link rel="stylesheet" href="../../css/print/articles-{{ locale }}.css">
-    
+
     {% include "../partials/page-setup.njk" %}
     {%- if preview == true %}
     <!-- paged.js preview in browser -->
@@ -25,9 +24,10 @@
     <script src="/pagedjs/paged.polyfill.js"></script>
     {# pagedjs-cli --additional-script <script> #}
     <script src="/js/hooks-to-pagedjs.js"></script>
+    <script src="/js/print-preview.js"></script>
 </head>
 <body>
-    {%- if preview %}
+      {# {%- if preview %} #}
     <div class="front-cover bleed">
         {% image ["front-cover-", locale, "-bleed.jpg"] | join %}
     </div>
@@ -39,7 +39,7 @@
         {% image "Calligraphy/Parallels VI p2 Bon Vertical.jpg" %}
     </div>
 
-    {%- endif %}
+    {# {%- endif %} #}
 
     {%- for article in articles -%}
         <article class="article-{{ article.data.title | slugify }}">
@@ -60,16 +60,14 @@
         </ul>
     </div>
 
-    {%- if preview %}
+    {# {%- if preview %} #}
     <div class="back-collage bleed">
         {% image "back-photos-bleed.jpg" %}
     </div>
     <div class="back-cover bleed">
         {% image ["back-cover-", locale, "-bleed.jpg"] | join %}
     </div>
-    {%- endif %}
-
-    {# {% include "partials/testing.njk" %} #}
+    {# {%- endif %} #}
 </body>
 
 </html>
