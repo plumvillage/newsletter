@@ -265,12 +265,12 @@ article blockquote p::before {
     font-size: 200%;
     color: var(--color-bark-light);
 }
-blockquote .quote-source::before {
+blockquote cite::before {
     color: var(--color-bark-dark);
     content: "~ "; /* —🙒🙛🙘 */
 	font-size: 80%;
 }
-blockquote .quote-source {
+blockquote cite {
 	position: relative;
 	display: inline-block;
 	left: 3pt;
