@@ -385,9 +385,15 @@ p.editors-preface::after {
     color: hsl(17, 36%, 15%);
 }
 
-
-
-
+.parallels {
+    break-after: page;
+}
+img#CalligraphyParallels-VI-p1-Ngay-Vertical {
+    width: 50%;
+}
+img#CalligraphyParallels-VI-p2-Bon-Vertical {
+    width: 50%;
+}
 
 
 
