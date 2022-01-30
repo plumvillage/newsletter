@@ -60,7 +60,8 @@ The biggest lifesaver of my monastic life is something that many do not enjoy at
 
 Twenty years ago I had a dream in which Thầy came up behind me, put his two hands on my shoulders and said, “Sư em Pháp Hải, is it *Yes* or is it *No*?” In the dream I turned to Thầy and said, “It is *Yes*, Thầy.” That dream has always remained with me. Whenever I go through a difficult moment, this is the other lifesaver I have: the practice to say “Yes” to whatever the situation is and have the mindset of “I am here and available. I will do what I can.”
 
-{% image "article_photos/brother-chan-phap-hai/scan3.jpg" %}
+{% image "article_photos/brother-chan-phap-hai/scan3.jpg", "has-label" %}
+<p class="image-label">Lamp Transmission, 2003</p>
 
 ## Tapping into the Insight of Thầy
 

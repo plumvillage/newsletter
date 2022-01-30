@@ -233,7 +233,9 @@ article p, article blockquote {
     margin: 0;
 }
 
-article p + p {
+article p + p,
+/* since images float around text, paragraphs can be adjacent even when an image intersects them */
+article img + p:not(.image-label) {
     margin-top: 6pt;
     text-indent: 14pt;
 }
@@ -316,6 +318,7 @@ sup { /* superscript */
 
 article img {
     display: block; /* block eliminates remaining space between image and label*/
+    float: right; /* makes paragraph text float/break around it */
     max-width: 100%;
     margin-top: 6pt;
     margin-bottom: 6pt;
@@ -326,7 +329,7 @@ article img.has-label {
 }
 article img.img-small {
     float: right;
-    margin-left: 3pt;
+    margin-left: 6pt;
     width: 50%;
 }
 article img + p.image-label {
@@ -399,6 +402,8 @@ img#CalligraphyParallels-VI-p2-Bon-Vertical {
 
 
 
+
+
 img#articlephotossu-ongTheTrueSangha2 {
     margin: 0;
     max-width: none;
@@ -429,10 +434,12 @@ h1#the-true-sangha + .author, h1#tang-than-dich-thuc + .author {
 
 img#articlephotosbrother-chan-phap-dungthay-bell3-torn-edges {
     column-span: all;
-    display: block;
+    float: none;
     max-width: 97%;
     margin-left: auto;
     margin-right: auto;
+    padding-left: 0;
+    padding-right: 0;
 }
 
 img#articlephotosdr-elli-weisbaumScientific-Day-Poster-Presentation-at-The-University-of-Toronto-20182
@@ -452,7 +459,7 @@ img#articlephotosdr-elli-weisbaumScientific-Day-Poster-Presentation-at-The-Unive
 
 
 img#articlephotosbrother-chan-phap-linhIMG0436crop {
-    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + 50mm) * -1);
+    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + 60mm) * -1);
     mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 6%,rgba(0,0,0,1.0) 26%);
     -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 6%,rgba(0,0,0,1.0) 26%);
 }
