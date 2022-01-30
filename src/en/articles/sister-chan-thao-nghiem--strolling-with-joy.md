@@ -5,9 +5,9 @@ author: Sister Chân Thao Nghiêm
 
 My beloved younger siblings,
 
-It has been two years since I left Plum Village, France. How time flies! So much has happened in the world and in the sangha, for you and for me. Sometimes in my dreams or when we sit around and share stories, many memories return to me. You know what the sisters are like - we are easily carried away by stories, one after another. They contain anecdotes about Thay, about brotherhood and sisterhood, and all of the joyful times.  
+It has been two years since I left Plum Village, France. How time flies! So much has happened in the world and in the sangha, for you and for me. Sometimes in my dreams or when we sit around and share stories, many memories return to me. You know what the sisters are like - we are easily carried away by stories, one after another. They contain anecdotes about Thay, about brotherhood and sisterhood, and all of the joyful times.
 
-**The Walking Meditation Paths**
+## The Walking Meditation Paths
 
 Being far away from Plum Village, I often remember and dream about the paths I have walked on. Walking them many times, they have gradually become well worn even in my mind. The ones I walked upon with a deeper awareness are more “worn” and feel dearer to me when I recall them. Those are the paths we often use during the day, especially the walking meditation paths.
 
@@ -17,14 +17,15 @@ There are many more paths that are incredibly delightful. Beautiful while we str
 
 On the continuing journey, there will be new paths that become dear, where we will have new experiences that will stay within our hearts.
 
-**Buddha Hall**
+## Buddha Hall
 
 There is a sacred space in New Hamlet that I miss very much, and that is the Buddha Hall. We often called it the *Purple Hall* because in the past, the carpet there was purple (the signature colour of New Hamlet), which was chosen by Thay. Purple represents the land of the Bodhisattva Avalokiteshvara. The day I arrived in Plum Village, the first thing I did was to go to the Buddha Hall and touch the earth in front of the Buddha. Entering the hall, I discovered that the floor was lined with dark purple carpet. At the end of the hall was a Buddha statue, light pink in colour, sitting very beautifully and serenely in a natural stone enclave. Thay had written a pair of parallel verses for the Buddha Hall:
 
-*On a white lotus throne, the Tathagata appears*
+> <span class="color">Trên đài sen trắng Như Lai hiện</span><br/>
+> On a white lotus throne, the Tathagata appears.
 
-*In the midst of the violet bamboo forest, Avalokiteshvara dwells*
-<!-- [1] Read more about the parallel verses in Plum Village meditation halls here: https://plumvillage.org/articles/parallel-verses-of-our-plum-village-temples-i/ -->
+> Giữa rừng tre tím Quán Âm ngồi<br/>
+> In the midst of the violet bamboo forest, Avalokiteshvara dwells.<span class="note">Further reading: https://plumvillage.org/articles/parallel-verses-of-our-plum-village-temples-i/</span>
 
 Reading it, you will immediately feel the essence of the place in which you are standing.
 
@@ -32,11 +33,13 @@ Stepping into the Buddha Hall, I always had a sense of serenity and of being mys
 
 One time, a plastic human skeleton was placed in a corner of the Buddha Hall (as an aid for the sangha to contemplate our mortality and the impermanence of life). It was also once used as a model to clearly show the correct posture for sitting meditation. Whenever I went to practise Touching the Earth alone and saw the skeleton or knew that it was behind me, I thought, “Oh dear, why am I so scared?” After a while, the skeleton became damaged and twisted - one leg going one way and one hand going another, it was rather falling apart, so we invited it to “continue on its journey”. 
 
+{% image "article_photos/sister-chan-thao-nghiem/CCI0224201600039.jpg" %}
+
 The day New Hamlet was flooded, muddy water soaked the entire Buddha Hall floor and the carpet could not be rescued; we had to let it go. Having lived with it day and night for so many years, everyone thought it was a great pity and missed the purple carpet. Fortunately we found another purple coloured material to line the floor and the signature colour of the Buddha Hall was preserved. 
 
 What I love the most is the image of everyone practising together in the Buddha Hall. Once in a while I could not be at a practice session with the sangha due to work. As I walked past and looked into the hall, I would see the sangha sitting and chanting with such beauty and power! Early in the morning and after the evening session, the sisters were often there for their personal practice. Anyone would be moved by those images. I may not be the one who is confiding in the Buddha, or bowing down to be in touch with Mother Earth, or doing slow walking meditation with ease. But even just looking in, I  benefited from their energy of peace and I could also let go of difficulties in my heart very naturally and be happy.  
 
-**The Hermitage**
+## The Hermitage
 
 *Thay’s house.* Naturally the Hermitage becomes sacred. It is a place reserved for the monastic sangha and whenever we come there, we feel its warm embrace. 
 
@@ -54,13 +57,13 @@ Lunchtime was the most fun. The line was *really* long because there were only t
 
 During the big retreats, going to the Hermitage was a chance for teacher and disciples to be present for each other and to recharge our energy. We rekindled the awareness that we are very fortunate to have many opportunities to practise and to help others. Thay was always by our side, like a father, attentive to each child, not leaving anyone out. You, I, and all the other brothers and sisters have carried that love within us and still do now.
 
-**“Teacher’s Love” Meditation Hall**
+## “Teacher’s Love” Meditation Hall
 
 A row of old stone buildings (at the southern corner of the grounds) was already at the Hermitage when Thay moved there. They can be seen in the early photos of the Hermitage which Thay has hung in his library. The buildings were badly damaged and unusable, so no one paid attention to them. For unknown reasons, Thay wished to repair them. After asking the attendants to push his wheelchair there and checking it for himself, Thay started to make signals for the attendants to clean out the abandoned buildings. First, two attendants followed; then the rest of the attendant group was called to help and in the end, the whole community joined in with the cleaning. Thay invited Brother Phap Dung to draft the architectural designs. Thay was the one who came up with the ideas, supervised, and oversaw the whole project. When construction workers started to work on the building, Thay came to visit almost every day and was very excited about the project. 
 
 Before the building works were completed, Thay went to Thailand and then returned to Vietnam. Thay was the initiator - the building and completion were up to his monastic children. Finally, the new meditation hall was “inaugurated”. It looked very elegant and warm. At Tu Hieu Root Temple, the attendants received photos of the sangha’s activities in the new hall and showed them to Thay. It is only now that I understand Thay’s wish for the project. There is nothing better than offering a cozy space for Thay’s monastic children to practise and be present for each other. I thought *“Teacher’s Love”* is really a suitable name for the meditation hall. Sitting inside, for sure everyone will think of and feel Thay’s love.
 
-**Popcorn Day**
+## Popcorn Day
 
 Speaking of the Hermitage and Thay, I recall a very memorable, very special day - *Popcorn Day*.
 
