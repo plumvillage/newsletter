@@ -19,9 +19,11 @@ Rồi trên chặng đường tiếp theo, sẽ có những lối mòn thân th�
 
 Xóm Mới có một nơi linh thiêng mà chị rất nhớ, đó là Phật đường. Mình thường gọi là *thiền đường tím* vì thảm trải nền có màu tím, màu đặc trưng của xóm Mới do Thầy chọn. Màu tím tượng trưng cho quốc độ của đức Bồ tát Quán Thế Âm. Ngày chị tới Làng, việc đầu tiên là tới lạy Bụt ở Phật đường. Bước vào, phát hiện ra nền nhà được lót bằng thảm màu tím, tím đậm đấy. Khoảng chính giữa có tượng Bụt màu hồng nhạt ngồi trong vòm đá thật tự nhiên, đẹp và bình yên. Thầy có viết hai câu đối cho Phật đường: 
 
-*Trên đài sen trắng Như Lai hiện* 
+> Trên đài sen trắng Như Lai hiện
+>
+> Giữa rừng tre tím Quán Âm ngồi
 
-*Giữa rừng tre tím Quán Âm ngồi*
+{% image "article_photos/sister-chan-thao-nghiem/CCI0224201600039.jpg" %}
 
 Đọc lên sẽ cảm nhận được liền nơi mình đang đứng. 
 

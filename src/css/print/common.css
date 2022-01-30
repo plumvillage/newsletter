@@ -316,6 +316,10 @@ sup { /* superscript */
     list-style-position: outside;
 }
 
+article span.color {
+    color: var(--color-tower-dark);
+}
+
 article img {
     display: block; /* block eliminates remaining space between image and label*/
     float: right; /* makes paragraph text float/break around it */
@@ -455,7 +459,7 @@ img#articlephotosbrother-chan-troi-dao-quangIMG1129 {
 
 
 
-
+img#articlephotossister-chan-thao-nghiemCCI0224201600039,
 img#articlephotossister-chan-chuan-nghiemSc-Chuan-N-3,img#articlephotosdr-elli-weisbaumScientific-Day-Poster-Presentation-at-The-University-of-Toronto-20182
 ,img#articlephotosbrother-chan-phap-linhIMG0436crop
 ,img#articlephotosbrother-chan-minh-hyT-Minh-Hy-1-edited
@@ -470,6 +474,15 @@ img#articlephotossister-chan-chuan-nghiemSc-Chuan-N-3,img#articlephotosdr-elli-w
     left: calc((var(--pagedjs-margin-left) + var(--bleed))*-1);
     overflow: visible;
 }
+
+
+img#articlephotossister-chan-thao-nghiemCCI0224201600039 {
+    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + 130mm) * -1);
+}
+.PAGE-OF-articlephotossister-chan-thao-nghiemCCI0224201600039 .pagedjs_page_content {
+    height: calc(100% - var(--pagedjs-footnotes-height) - 105mm) !important;
+}
+
 
 img#articlephotossister-chan-chuan-nghiemSc-Chuan-N-3 {
     bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + 60mm) * -1);
@@ -528,8 +541,8 @@ img#articlephotosbrother-chan-minh-hyT-Minh-Hy-1-edited {
     height: calc(100% - var(--pagedjs-footnotes-height) - 54mm) !important;
 }
 
-.PAGE-OF-articlephotossister-chan-chuan-nghiemSc-Chuan-N-3 .pagedjs_margin-bottom
-,.PAGE-OF-articlephotosdr-elli-weisbaumScientific-Day-Poster-Presentation-at-The-University-of-Toronto-20182 .pagedjs_margin-bottom
+.PAGE-OF-articlephotossister-chan-thao-nghiemCCI0224201600039 .pagedjs_margin-bottom,
+.PAGE-OF-articlephotossister-chan-chuan-nghiemSc-Chuan-N-3 .pagedjs_margin-bottom, .PAGE-OF-articlephotosdr-elli-weisbaumScientific-Day-Poster-Presentation-at-The-University-of-Toronto-20182 .pagedjs_margin-bottom
 ,.PAGE-OF-articlephotosbrother-chan-minh-hyT-Minh-Hy-1-edited .pagedjs_margin-bottom
 ,.PAGE-OF-articlephotosbrother-chan-phap-linhCS21202110152RL0936edited .pagedjs_margin-bottom
 ,.PAGE-OF-articlephotosbrother-chan-phap-linhIMG0436crop .pagedjs_margin-bottom
