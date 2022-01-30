@@ -3,9 +3,14 @@ title: The Laughter of Children Echoes
 author: Brother Chân Pháp Niệm
 ---
 
-Brother Giác Thanh was one of the elder brothers of Plum Village. He lived in the *“Floating Cloud Hut”* on the hill looking towards the sunrise, right by Thầy’s *Sitting Still Hut, in Upper Hamlet*. That is why at times he was also called “*Brother Floating Cloud*”. In the early years when the *Fleurs de Cactus* Meditation Centre in Paris, which later became *La Maison de l’Inspir*, was first established, every month Br. Giác Thanh would go there for a weekend to teach and guide the lay friends. Then he would return to the Dharma Cloud Temple to help the younger brothers progress in their practice. That is why some also called him *“Brother Fleurs de Cactus”*.   
+Brother Giác Thanh was one of the elder brothers of Plum Village. He lived in the *Floating Cloud Hut* on the hill looking towards the sunrise, right by Thầy’s *Sitting Still Hut* in Upper Hamlet. That is why at times he was also called *Brother Floating Cloud*. In the early years when the *Fleurs de Cactus* Meditation Centre in Paris, which later became *La Maison de l’Inspir*, was first established, every month Br. Giác Thanh would go there for a weekend to teach and guide the lay friends. Then he would return to the Dharma Cloud Temple to help the younger brothers progress in their practice. That is why some also called him *Brother Fleurs de Cactus*.   
 
-Aside from the nicknames *“Brother Floating Cloud”* and *“Brother Fleurs de Cactus”* that some knew of, there was another name given by Thầy– *“Trà Sư” (Tea Master)*. Perhaps this is the name that everyone liked and associated with Br. Giác Thanh’s Zen Master style. He also really liked the name *“Floating Cloud”*. These two names captured his peace, freedom, and ease, and anyone who had a chance to approach him could enjoy these qualities because he always exuded a holy and pure energy. Friends from the west treasured him and loved being near him.  
+{% image "article_photos/brother-chan-phap-niem/27.jpg", "has-label" %}
+<p class="image-label"><i>Floating Cloud Hut</i></p>
+
+Aside from the nicknames *Brother Floating Cloud* and *Brother Fleurs de Cactus* that some knew of, there was another name given by Thầy– *Trà Sư (Tea Master)*. Perhaps this is the name that everyone liked and associated with Br. Giác Thanh’s Zen Master style. He also really liked the name *Floating Cloud*. These two names captured his peace, freedom, and ease, and anyone who had a chance to approach him could enjoy these qualities because he always exuded a holy and pure energy. Friends from the west treasured him and loved being near him.
+
+{% image "article_photos/brother-chan-phap-niem/12Thay-Giac-Thanh.jpg" %}
 
 ## The Seeker
 

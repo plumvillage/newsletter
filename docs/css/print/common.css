@@ -432,17 +432,31 @@ h1#the-true-sangha + .author, h1#tang-than-dich-thuc + .author {
     text-shadow: white 1px 0 5px
 }
 
+/* img#articlephotosbrother-chan-phap-kham1998-TangThanXomThuong-MuaHecut, */
+img#articlephotosbrother-chan-troi-dao-quangIMG1129,
 img#articlephotosbrother-chan-phap-dungthay-bell3-torn-edges {
     column-span: all;
     float: none;
-    max-width: 97%;
     margin-left: auto;
     margin-right: auto;
     padding-left: 0;
     padding-right: 0;
 }
+img#articlephotosbrother-chan-phap-dungthay-bell3-torn-edges {
+    max-width: 97%;
+}
+img#articlephotosbrother-chan-troi-dao-quangIMG1129 {
+    max-width: 65%;
+}
+/* img#articlephotosbrother-chan-phap-kham1998-TangThanXomThuong-MuaHecut {
+    max-width: 99%;
+} */
 
-img#articlephotosdr-elli-weisbaumScientific-Day-Poster-Presentation-at-The-University-of-Toronto-20182
+
+
+
+
+img#articlephotossister-chan-chuan-nghiemSc-Chuan-N-3,img#articlephotosdr-elli-weisbaumScientific-Day-Poster-Presentation-at-The-University-of-Toronto-20182
 ,img#articlephotosbrother-chan-phap-linhIMG0436crop
 ,img#articlephotosbrother-chan-minh-hyT-Minh-Hy-1-edited
 ,img#articlephotosbrother-chan-phap-linhCS21202110152RL0936edited
@@ -457,13 +471,21 @@ img#articlephotosdr-elli-weisbaumScientific-Day-Poster-Presentation-at-The-Unive
     overflow: visible;
 }
 
+img#articlephotossister-chan-chuan-nghiemSc-Chuan-N-3 {
+    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + 60mm) * -1);
+    mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 30%,rgba(0,0,0,1.0) 45%);
+    -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 30%,rgba(0,0,0,1.0) 45%);
+}
+.PAGE-OF-articlephotossister-chan-chuan-nghiemSc-Chuan-N-3 .pagedjs_page_content {
+    height: calc(100% - var(--pagedjs-footnotes-height) - 60mm) !important;
+}
+
 
 img#articlephotosbrother-chan-phap-linhIMG0436crop {
     bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + 60mm) * -1);
     mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 6%,rgba(0,0,0,1.0) 26%);
     -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 6%,rgba(0,0,0,1.0) 26%);
 }
-/* this is at the and of the article anyway*/
 .PAGE-OF-articlephotosbrother-chan-phap-linhIMG0436crop .pagedjs_page_content {
     height: calc(100% - var(--pagedjs-footnotes-height) - 50mm) !important;
 }
@@ -474,7 +496,6 @@ img#articlephotosdr-elli-weisbaumScientific-Day-Poster-Presentation-at-The-Unive
     mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%,rgba(0,0,0,1.0) 20%);
     -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 6%,rgba(0,0,0,1.0) 26%);
 }
-/* this is at the and of the article anyway*/
 .PAGE-OF-articlephotosdr-elli-weisbaumScientific-Day-Poster-Presentation-at-The-University-of-Toronto-20182 .pagedjs_page_content {
     height: calc(100% - var(--pagedjs-footnotes-height) - 80mm) !important;
 }
@@ -507,7 +528,8 @@ img#articlephotosbrother-chan-minh-hyT-Minh-Hy-1-edited {
     height: calc(100% - var(--pagedjs-footnotes-height) - 54mm) !important;
 }
 
-.PAGE-OF-articlephotosdr-elli-weisbaumScientific-Day-Poster-Presentation-at-The-University-of-Toronto-20182 .pagedjs_margin-bottom
+.PAGE-OF-articlephotossister-chan-chuan-nghiemSc-Chuan-N-3 .pagedjs_margin-bottom
+,.PAGE-OF-articlephotosdr-elli-weisbaumScientific-Day-Poster-Presentation-at-The-University-of-Toronto-20182 .pagedjs_margin-bottom
 ,.PAGE-OF-articlephotosbrother-chan-minh-hyT-Minh-Hy-1-edited .pagedjs_margin-bottom
 ,.PAGE-OF-articlephotosbrother-chan-phap-linhCS21202110152RL0936edited .pagedjs_margin-bottom
 ,.PAGE-OF-articlephotosbrother-chan-phap-linhIMG0436crop .pagedjs_margin-bottom

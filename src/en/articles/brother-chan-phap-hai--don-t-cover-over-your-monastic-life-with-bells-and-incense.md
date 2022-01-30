@@ -60,12 +60,11 @@ The biggest lifesaver of my monastic life is something that many do not enjoy at
 
 Twenty years ago I had a dream in which Thầy came up behind me, put his two hands on my shoulders and said, “Sư em Pháp Hải, is it *Yes* or is it *No*?” In the dream I turned to Thầy and said, “It is *Yes*, Thầy.” That dream has always remained with me. Whenever I go through a difficult moment, this is the other lifesaver I have: the practice to say “Yes” to whatever the situation is and have the mindset of “I am here and available. I will do what I can.”
 
-{% image "article_photos/brother-chan-phap-hai/scan3.jpg", "has-label" %}
-<p class="image-label">Lamp Transmission, 2003</p>
-
 ## Tapping into the Insight of Thầy
 
 A few years ago in a monastic retreat in Magnolia Grove a couple of us were having tea together. In that conversation, we were discussing, “What do you feel Thầy asked you to do or what was the invitation that Thầy offered to you?” It was a very beautiful conversation. Reflecting on it I felt that Thầy transmitted something unique to each of us. When we come together, there is a beautiful flowering. What Thầy shared with me was “If you’re doing the same thing in 20 years, you will have failed.” I hold that. Of course, Thầy was not talking about the outer forms of the practice but how I, for example, relate to practices such as mindfulness of breathing or to my brothers and sisters. It was an invitation to go a little bit more deeply and to not be afraid of unpacking the riches that Thầy has already offered us.
+
+{% image "article_photos/brother-chan-phap-hai/373858195382853883045970408691n.jpg" %}
 
 Over the years when our community offers teachings, I have witnessed people being blown away by teachings that often seem quite ordinary to us but are rarely taught in other lineages. Thầy is an extraordinary teacher and has offered us so much, in an incredibly condensed form, in the talks on Thursdays and Sundays and through his way of life. For example, while I was giving a weekend retreat on the Four Nutriments, a very well-known Theravadin sutra scholar and teacher approached me saying: “Did Thich Nhat Hanh teach this in Plum Village? We only teach this in the context of quite focused meditation retreats for advanced practitioners.” In Plum Village of course, we consider it one of the most essential teachings of the Buddha and Thầy offered us many teachings on the Four Nutriments. I really feel that our job as practitioners and Dharma Teachers is to unpack these riches, to keep exploring and developing them and offering them to the world.
 
@@ -78,6 +77,9 @@ What I really want to share with you is that even though we may have different w
 ## Developing Spiritual Friendships
 
 A while back I had the chance to mentor aspirants and young novices at Deer Park. They asked me for some advice on how to connect with the elders since sometimes they felt a bit distant. If we see the sangha as a garden, like Thầy shared in *Joyfully Together*, then as a young monastic the most wonderful thing we can do is walk under the shade of these tall trees who are our elders and rest against their trunk. Soon enough, you will also have younger brothers (and sisters) to whom you will be offering support and care and guidance.
+
+{% image "article_photos/brother-chan-phap-hai/scan3.jpg", "has-label" %}
+<p class="image-label">Lamp Transmission, 2003</p>
 
 Good friendship in Buddhism means more than just associating with people that share our interests or have similar outlooks. It means actively seeking out companions to whom we can look for guidance and instruction.
 
