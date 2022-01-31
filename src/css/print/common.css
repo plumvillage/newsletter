@@ -1,3 +1,5 @@
+@charset "UTF-8";
+
 /* this stylesheet is used when generating a PDF */
 :root {
     --bleed: 5mm;
@@ -388,7 +390,7 @@ p.editors-preface::after {
 .last-article-element::after {
     /* https://en.wikipedia.org/wiki/Fleuron_(typography) */
     content: ' 🙢';
-    font-style: bold;
+    font-weight: bold;
     color: hsl(17, 36%, 15%);
 }
 
