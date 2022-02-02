@@ -33,7 +33,7 @@ Stepping into the Buddha Hall, I always had a sense of serenity and of being mys
 
 One time, a plastic human skeleton was placed in a corner of the Buddha Hall (as an aid for the sangha to contemplate our mortality and the impermanence of life). It was also once used as a model to clearly show the correct posture for sitting meditation. Whenever I went to practise Touching the Earth alone and saw the skeleton or knew that it was behind me, I thought, “Oh dear, why am I so scared?” After a while, the skeleton became damaged and twisted - one leg going one way and one hand going another, it was rather falling apart, so we invited it to “continue on its journey”. 
 
-{% image "article_photos/sister-chan-thao-nghiem/CCI0224201600039.jpg" %}
+{% image "article/sister-chan-thao-nghiem/CCI0224201600039.jpg" %}
 
 The day New Hamlet was flooded, muddy water soaked the entire Buddha Hall floor and the carpet could not be rescued; we had to let it go. Having lived with it day and night for so many years, everyone thought it was a great pity and missed the purple carpet. Fortunately we found another purple coloured material to line the floor and the signature colour of the Buddha Hall was preserved. 
 

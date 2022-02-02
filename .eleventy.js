@@ -7,7 +7,7 @@ const Image = require("@11ty/eleventy-img");
 Image.concurrency = 4; // default is 10
 
 async function imageShortcode(src, optClasses) {
-    // src: article_photos/su-ong/ThayHeaderImg_whiteFadeout2.jpg
+    // src: article/su-ong/ThayHeaderImg_whiteFadeout2.jpg
     let reduce = true;
     const srcPath = "src/media/publish/";
     let srcFull = srcPath + src
@@ -70,10 +70,10 @@ async function imageShortcode(src, optClasses) {
             sourceType: 'image/webp',
             srcset: '/img/ThayHeaderImg_whiteFadeout2-600w.webp 600w',
             filename: 'ThayHeaderImg_whiteFadeout2-600w.webp',
-            outputPath: 'docs/media/build/article_photos/su-ong/ThayHeaderImg_whiteFadeout2-600w.webp',
+            outputPath: 'docs/media/build/article/su-ong/ThayHeaderImg_whiteFadeout2-600w.webp',
             size: 26450
         */
-        // "../../media/build/article_photos/su-ong/ThayHeaderImg_whiteFadeout2-600w.webp"
+        // "../../media/build/article/su-ong/ThayHeaderImg_whiteFadeout2-600w.webp"
 
         // img loading="lazy" is buggy! stops chrome from running pagedjs
         let html = `<img id="${autoId}" class="${optClasses ? optClasses : ""}" src="${destPath}${parsed.dir}/${data.filename}" decoding="async">`

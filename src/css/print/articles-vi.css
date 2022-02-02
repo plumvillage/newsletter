@@ -1,6 +1,6 @@
 /* Su Ong */
 
-img#articlephotossu-ongThayHeaderImgwhiteFadeout2 {
+img#articlesu-ongThayHeaderImgwhiteFadeout2 {
     margin: 0;
     max-width: none;
     position: absolute;
@@ -11,7 +11,7 @@ img#articlephotossu-ongThayHeaderImgwhiteFadeout2 {
     overflow: visible;
 }
 
-.size-letter img#articlephotossu-ongThayHeaderImgwhiteFadeout2 {
+.size-letter img#articlesu-ongThayHeaderImgwhiteFadeout2 {
     top: calc((var(--pagedjs-margin-top) + var(--bleed) + 50px)*-1);
 }
 
@@ -19,4 +19,4 @@ img#articlephotossu-ongThayHeaderImgwhiteFadeout2 {
     margin-top: 60mm;
 }
 
-.size-a4 #articlephotossu-ongPVM2753 {}
+.size-a4 #articlesu-ongPVM2753 {}

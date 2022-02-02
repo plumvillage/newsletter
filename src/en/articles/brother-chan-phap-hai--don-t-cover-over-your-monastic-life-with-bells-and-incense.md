@@ -10,7 +10,7 @@ author: Brother Chân Pháp Hải
 
 When I first arrived in 1996 I was touched by the joy and enthusiasm that everybody had, even with the very simple conditions at the time. For example, when travelling from Upper Hamlet to New Hamlet, we did not have enough transport, so many of us would sit on the floor in the back of the shopping van, on blankets.
 
-{% image "article_photos/brother-chan-phap-hai/scan00012.jpg", "has-label" %}
+{% image "article/brother-chan-phap-hai/scan00012.jpg", "has-label" %}
 <p class="image-label">Br. Pháp Hải ordaining as a novice.</p>
 
 When I ordained as a novice, the community was small – around 15 brothers – and the majority of us were of a similar age, so we had a lot of energy. I remember when we planted the trees and dug out the lotus pond in the middle of Upper Hamlet, Br. Pháp Ứng and Br. Pháp Hiền (Michael C.) ran jumping into the pond in their short robes, playing in the mud. There were many simple joys like that. Many trees that now provide shade around Upper Hamlet were planted as small saplings by the brothers on their ordination anniversaries. Going through everything together in such a small sangha fostered a sense of closeness.
@@ -19,7 +19,7 @@ We did not yet have a designated monks’ building. The current one was built in
 
 Being a small and young sangha, there was a lot less organisation, which gave room for a certain amount of experimentation to try different practices. For example, the practice of Shining Light did not exist in its current form for the first few years that I was in Plum Village. Before we began this practice, in the ceremony to close the winter retreat we would make a formal request, “If you have seen, heard or suspected something about my practice, please share with us.” Then the elder, usually Thầy Giac Thanh, replied, “You’ve all practiced well, but you could do better next year. Please touch the earth three times.” After a couple of years Thầy began to give teachings about how we should renew this practice and not just do it as a form. The first few Shining Light sessions we had were a little intense, because we had not yet understood deeply how to engage with this practice. Of course, we are still learning, even after twenty years. At the time, we also didn’t need to be present, in which case we just received a letter. We quickly discovered that the Shining Light practice was more effective and strengthening for the person and for the Sangha as a whole, if we were present.
 
-{% image "article_photos/brother-chan-phap-hai/Photo1996.jpg", "has-label" %}
+{% image "article/brother-chan-phap-hai/Photo1996.jpg", "has-label" %}
 <p class="image-label">Br. Giác Thanh on the left. Br Phap Huu in front. 1996</p>
 
 Other practices have disappeared, like fast walking meditation. One time, Thầy said to us, “If you don’t sweat once a day, you are not my disciple.” Thầy wanted to encourage everyone to exercise and to jog once a day. After one of our trips to China, Thầy proposed that the Sangha incorporate fast walking meditation into our practice schedule. So Thầy Pháp Niệm and Thầy Pháp Độ bulldozed a path around the Linden Tree in Upper Hamlet, put down some white gravel, and Thầy suggested that we would do fast walking Chinese style before sitting meditation in the morning. We began this practice in the winter. As everyone knows, the winter in France is usually wet and cold. So often the back of our robes would be wet and white with the flecks of mud from the wet gravel. 
@@ -36,7 +36,7 @@ Today I hear some of the young ones say, “I’m not ready.” Honestly, after 
 
 Thầy also had different emphases from time to time. At one time he would ask us to give spontaneous teachings. In the middle of walking meditation or another activity, he might ask, “Sr. Kính Nghiêm, offer us a sutra,” and the person would then need to share an invitation to practice from a place of aliveness and spontaneity. There was no time to prepare, we just had to do it. It was nerve-wracking, but also a lot of fun.
 
-{% image "article_photos/brother-chan-phap-hai/13116163101541470842192695476293997605142558o_cut.jpg", "img-small" %}
+{% image "article/brother-chan-phap-hai/13116163101541470842192695476293997605142558o_cut.jpg", "img-small" %}
 
 ## Strong Medicine from Thầy
 
@@ -44,13 +44,13 @@ When I was a young monk, I suffered a lot. At one time, I shared with Thầy a v
 
 Whilst others can help and support us, ultimately, as practitioners, we ourselves need to be able to look deeply and understand our situation to be able to really transform our suffering. Thầy gave us those tools.
 
-{% image "article_photos/brother-chan-phap-hai/scan2.jpg" %}
+{% image "article/brother-chan-phap-hai/scan2.jpg" %}
 
 ## My biggest challenges in the early days
 
 One of the challenges I faced growing up in the Sangha was learning how to ask for and receive support. I came from a family environment in which I had to be very responsible in order to survive, so I had a tendency to be a bit too responsible and not want to communicate what was really going on inside. I also did not know how to take advantage of the presence of my elder brothers or sisters. The sangha’s Shining Light and guidance helped me to realise that my real contribution and real transformation was not in volunteering for many things, but something else entirely. I had to learn to be one element of the Sangha rather than taking over, even if I thought I was helping. This is a bit like the difference between being a soloist and playing in a band. Of course, this is a lifetime’s journey and I still have a lot to learn in this area.
 
-{% image "article_photos/brother-chan-phap-hai/12065878101536898390142693147459611197513014n-2_cut.jpg", "img-small" %}
+{% image "article/brother-chan-phap-hai/12065878101536898390142693147459611197513014n-2_cut.jpg", "img-small" %}
 
 Another challenge was our distinctly direct Australian communication style. We show respect and closeness to those we care about by being very direct, and have a self- and other-deprecating sense of humour. This comes from the background of the difficult environment of Australia - droughts, floods, fires - needing to make light of it and to come together as a collective. For example, last year a flood washed out both roads into and out of this mountain, leaving us cut off from supplies for 10 days. The local people began joking around, downplaying it, “Oh, it’s a bit bloody wet, hey mate?! (laughter)”. I had that tendency coming to Plum Village. If somebody was too serious or emotional about something, I would respond in this way. For many other cultures, this feels rude, which meant I had a lot of Beginning Anews. I needed to learn and adapt. Between us, coming back to Australia I had to go through reverse culture shock.
 
@@ -64,7 +64,7 @@ Twenty years ago I had a dream in which Thầy came up behind me, put his two ha
 
 A few years ago in a monastic retreat in Magnolia Grove a couple of us were having tea together. In that conversation, we were discussing, “What do you feel Thầy asked you to do or what was the invitation that Thầy offered to you?” It was a very beautiful conversation. Reflecting on it I felt that Thầy transmitted something unique to each of us. When we come together, there is a beautiful flowering. What Thầy shared with me was “If you’re doing the same thing in 20 years, you will have failed.” I hold that. Of course, Thầy was not talking about the outer forms of the practice but how I, for example, relate to practices such as mindfulness of breathing or to my brothers and sisters. It was an invitation to go a little bit more deeply and to not be afraid of unpacking the riches that Thầy has already offered us.
 
-{% image "article_photos/brother-chan-phap-hai/373858195382853883045970408691n.jpg" %}
+{% image "article/brother-chan-phap-hai/373858195382853883045970408691n.jpg" %}
 
 Over the years when our community offers teachings, I have witnessed people being blown away by teachings that often seem quite ordinary to us but are rarely taught in other lineages. Thầy is an extraordinary teacher and has offered us so much, in an incredibly condensed form, in the talks on Thursdays and Sundays and through his way of life. For example, while I was giving a weekend retreat on the Four Nutriments, a very well-known Theravadin sutra scholar and teacher approached me saying: “Did Thich Nhat Hanh teach this in Plum Village? We only teach this in the context of quite focused meditation retreats for advanced practitioners.” In Plum Village of course, we consider it one of the most essential teachings of the Buddha and Thầy offered us many teachings on the Four Nutriments. I really feel that our job as practitioners and Dharma Teachers is to unpack these riches, to keep exploring and developing them and offering them to the world.
 
@@ -78,7 +78,7 @@ What I really want to share with you is that even though we may have different w
 
 A while back I had the chance to mentor aspirants and young novices at Deer Park. They asked me for some advice on how to connect with the elders since sometimes they felt a bit distant. If we see the sangha as a garden, like Thầy shared in *Joyfully Together*, then as a young monastic the most wonderful thing we can do is walk under the shade of these tall trees who are our elders and rest against their trunk. Soon enough, you will also have younger brothers (and sisters) to whom you will be offering support and care and guidance.
 
-{% image "article_photos/brother-chan-phap-hai/scan3.jpg", "has-label" %}
+{% image "article/brother-chan-phap-hai/scan3.jpg", "has-label" %}
 <p class="image-label">Lamp Transmission, 2003</p>
 
 Good friendship in Buddhism means more than just associating with people that share our interests or have similar outlooks. It means actively seeking out companions to whom we can look for guidance and instruction.

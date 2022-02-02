@@ -5,7 +5,7 @@ author: Dharmacharya Shantum Seth
 
 When I first met Thay in 1987 he was 61, a couple of years younger than I am now.  Yet it seemed to me then and seems to me still, that he had already got to where he wanted to go, whether it was in his form of Engaged Buddhism or in his personal awakening. I can imagine him smiling if he were to read this, and gently saying: “Shantum the whole point of this practice is not to go anywhere, but to be in the here and now.”
 
-{% image "article_photos/dharmacharya-shantum-seth/image0.jpeg" %}
+{% image "article/dharmacharya-shantum-seth/image0.jpeg" %}
 
 Our first meeting was at the Ojai foundation in California. He was to lead a week-long retreat for artists there. More than a hundred of us were seated under a large oak. Few of us had even heard his name before and I remember everyone referring to him as ‘Kick the Can’. 
 
@@ -21,7 +21,7 @@ To my surprise and joy he responded. Could I organise a Buddhist pilgrimage for 
 
 We started in Delhi, at our home at 8 Rajaji Marg.  My family was all there, slightly sceptical but very curious. Thay sat with us in the garden by the lily pond, where he showed us how to walk with his kind of intense mindfulness. My parents and siblings silently followed in his footsteps. I think they could not help but feel his magnetism.
 
-{% image "article_photos/dharmacharya-shantum-seth/image2_edit.jpeg" %}
+{% image "article/dharmacharya-shantum-seth/image2_edit.jpeg" %}
 
 It was wonderful to hear the stories and drama of the Buddha's life through Thay’s eyes. The Buddha to him was not a God, but a real person, comfortable with people from all walks of life, able to connect with beggars and farmers, rich and poor, young and old, doctors, teachers, Dalits, Brahmins, kings, prostitutes; and even with animals, insects, trees, crops and flowers. 
 
@@ -33,7 +33,7 @@ It was at Vulture Peak, Thay said that his own Buddha Eyes had opened some years
 
 We sat under trees and listened to Thay talk about the Buddha’s teachings. Thay held my hand without saying a word. At that moment I felt I was looking with his eyes and that everything is interconnected. I had never thought of these matters, but at that moment I understood what he was saying, that nothing is born and nothing dies. He turned to look at me and pointing to the turban on my head, he said, “Shantum, the matter of life and death is as urgent as if your turban is on fire.”
 
-{% image "article_photos/dharmacharya-shantum-seth/image1.jpeg" %}
+{% image "article/dharmacharya-shantum-seth/image1.jpeg" %}
 
 On a full moon night in Kushinagar, where the Buddha had died, Thay and Sister Chan Khong, who was the first nun he had ordained, shaved my head. They were eager for me to be a monk, and I wanted it too, but I was not sure.  A few days later in Lumbini, Thay presented me with a monastic robe. I did not wear it, but kept it for a few years.  
 
@@ -67,7 +67,7 @@ Once when we were sitting on the grass, he suggested that I speak to Gitu as if 
 
 It was a most intimate conversation that developed. Thank you, I said, for carrying me in your womb and taking care of me. Thank you for nourishing me, for feeding me, for breathing for me. Thank you for taking me for a walk to the sunset point each evening and describing the beauty to me. Thank you for speaking with me and loving me. Thank you for taking care of what you eat and drink and consume. I smile when you smile. I can feel your change of emotions and know when you are happy or disturbed. And how are you doing?  Are you enjoying it? Is it difficult? How do you feel when I kick you? I asked as if I was the baby in Gitu's womb. All at once, I could see that Thay and even the Buddha had once been babies in the womb, like me.
 
-{% image "article_photos/dharmacharya-shantum-seth/image3.jpeg" %}
+{% image "article/dharmacharya-shantum-seth/image3.jpeg" %}
 
 It was also to Thay that I owe the way I earn my livelihood. I was then working at the United Nations and decided to take only one dollar a year and needed to find another way of making a livelihood. 
 

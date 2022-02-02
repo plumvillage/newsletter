@@ -7,7 +7,7 @@ author: Dr. Elli Weisbaum
 
 ## My first retreat as a 10-year-old 
 
-{% image "article_photos/dr-elli-weisbaum/Retreat-1998-at-OMEGA-Institute-Centre-Thay-Right-Elli-Weisbaum_cut.jpg" %}
+{% image "article/dr-elli-weisbaum/Retreat-1998-at-OMEGA-Institute-Centre-Thay-Right-Elli-Weisbaum_cut.jpg" %}
 
 My parents and I attended our first family retreat with Thích Nhất Hạnh (Thay) and the Sangha in 1998 at the OMEGA Institute in New York State. Before going on this retreat, my mom had read several of Thay’s books. From this, she had begun integrating some of Thay’s teachings into her work as a visiting artist in high schools. My dad is a physician and had his own medical practice. As a family we were interested in exploring more about the practice of mindfulness – so we all agreed to go on a new adventure and attend Thay’s next North American retreat! 
 
@@ -19,7 +19,7 @@ After this experience, we attended the family retreat each year that Thay and th
 
 A few specific life experiences played a role in my interest to research the application of mindfulness in healthcare settings: 1) Growing up with a father who was a physician; 2) An interest in caring for caregivers (having been close to many teachers growing up with my mom working as an artist in elementary/high-schools); and 3) Experiencing my own illness and subsequent hospital stay/admission when I was 15 years old. 
 
-{% image "article_photos/dr-elli-weisbaum/Wake-Up-Toronto-Monastics-from-BCM-May-2018.jpg", "has-label" %}
+{% image "article/dr-elli-weisbaum/Wake-Up-Toronto-Monastics-from-BCM-May-2018.jpg", "has-label" %}
 <p class="image-label">WakeUp Toronto, 2018</p>
 
 I was hospitalized after a combination of viruses triggered an autoimmune response that overactivated my immune system. The first night I was in the hospital, the doctors told me and my parents that they did not know if I would make it through the night. Through this first night, and over the course of my hospital stay – which included a seemingly never-ending battery of tests – my family drew upon many of the Plum Village practices to support us. For example, during procedures we would sing Plum Village songs and come home to our breathing. Each morning during hospital rounds, I would be asked about the parts of my body that were in pain. After this, my mom would guide me through a deep relaxation practice so that I would also spend time each morning sending gratitude and love to my body. The practice of deep relaxation (sometimes called a body scan) also helped me become aware of the parts my body that were free of pain, even if this was just my left pinky toe. Since my hospital experience, I have been asked when I began using the practice of mindfulness to heal. My answer is that through mindfulness, we can begin to heal at the very same time that we become ill, they are not separate and there is no need to wait.  
@@ -34,7 +34,7 @@ From my own lived experience growing up with Thay’s teachings, along with rese
 
 There is growing interest within the sector of healthcare to address systemic issues such as burnout. Mindfulness has been recommended across the literature as one potentially effective modality. While the evidence-base for mindfulness has generated interest, there are significant challenges when attempting to address systemic change within healthcare delivery systems. These challenges include practical concerns and skepticism about integrating knowledge from outside the dominant cultural system in relation to acceptability, applicability and feasibility. There are also barriers that stem from long-standing social and cultural elements embedded within the context of medical culture. Based on the existing literature, along with data generated from the physicians who participated in my PhD research study, these socially and culturally embedded barriers include competition, perfectionism, individualism, demanding workloads and higher value placed on “achievement” and “success” than “self-care” and “work/life balance”. 
 
-{% image "article_photos/dr-elli-weisbaum/PV-Upper-Hamlet-2019-From-left-Sharon-Weisbaum-Elli-Weisbaum-Harry-Weisbaum-cut.jpg" %}
+{% image "article/dr-elli-weisbaum/PV-Upper-Hamlet-2019-From-left-Sharon-Weisbaum-Elli-Weisbaum-Harry-Weisbaum-cut.jpg" %}
 
 To overcome these challenges, I drew upon the very same bodies of knowledge which could be seen to have fostered these barriers — being the traditions of science and the Dharma. On the scientific end, I drew upon the academic tradition of evidence and rigour to build a high-quality research study that would be acceptable to the scientific community and culture of medicine. Simultaneously, I took refuge in Thay, the Sangha and my own practice. In particular, I took inspiration from Thay’s many years of perseverance in the face of great challenge and difficulty. Over the course of working on my PhD, I would return to writings and talks from Thay for inspiration. As I wrote my dissertation, I would sometimes imagine him peering over my shoulder, encouraging me to keep going no matter how tired I felt or how challenging the work was. It is in this spirit that my 400-page dissertation begins with the following quote from Thay:
 
@@ -44,7 +44,7 @@ This quote provided ongoing encouragement throughout my PhD journey. In addition
 
 ## Support & Collaboration with Thích Nhất Hạnh & Plum Village
 
-{% image "article_photos/dr-elli-weisbaum/New-Hamlet-2015-From-left-SrJewel-Thay-Elli-Weisbaum.jpg", "has-label" %}
+{% image "article/dr-elli-weisbaum/New-Hamlet-2015-From-left-SrJewel-Thay-Elli-Weisbaum.jpg", "has-label" %}
 <p class="image-label">Sr Jewel Kaira, Thay, Elli Weisbaum. 2015</p>
 
 I begin this section with a deep bow of gratitude to the Plum Village monastic community, who have been a meaningful support across so much of my life. Every retreat, teaching tour, online Dharma talk, recording on the Plum Village app, etc. have been made possible by the incredible humans who have chosen to walk the monastic path. To support my PhD research study, a Plum Village Monastic Advisory Committee (MAC) was established. The members of the Monastic Advisory Committee for my PhD included Br. Phap Dung, Br. Phap Huu, Br. Phap Linh and Sr. Hien Nghiem. As members of the MAC, they were invited to provide feedback across all phases of the research study, including program development/implementation, data analysis and final thesis write up — along with collaboration on future publications.  Their feedback helped to guide the study and ground the work in the teachings and language of Thay and the Plum Village community.
@@ -59,7 +59,7 @@ My PhD research study was conducted with 45 physicians from across different spe
 
 I am deeply grateful to each participant for sharing their experience and stories with me. As I write this reflection, I am reminded of one surgeon in particular who, during the first session, expressed that they did not believe in this *“mindfulness stuff”*, and then in their post-program interview stated that they *“fell in love with the bell”* and had considered *“stealing the bell”* at the end of the program, so they could ring it for their colleagues before their next surgery. Below are some direct quotes from the study participants which illustrate – in their own words – their experience of the practice. 
 
-{% image "article_photos/dr-elli-weisbaum/Scientific-Day-Poster-Presentation-at-The-University-of-Toronto-20182.jpg" %}
+{% image "article/dr-elli-weisbaum/Scientific-Day-Poster-Presentation-at-The-University-of-Toronto-20182.jpg" %}
 
 > I also found the awareness of breath really helpful especially. I've been operating almost every day the past month and it gets stressful and the days are really long and fast-paced and we don't really stop to eat or do anything, so, usually in between patients there is just a few minutes so I found just taking the few minutes to breathe during those kind of transitions really helpful just to clear my head and then quickly move on to the next patient. <cite>Ophthalmologist</cite>
 

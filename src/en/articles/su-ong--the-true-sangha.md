@@ -5,7 +5,7 @@ author: Sư Ông
 
 Dear sangha<span class="note">Editor's note: In this article we distinguish between the "Sangha" of the Three Jewels (which consist of the Buddha, Dharma and Sangha) and "sangha" when it refers to a community of practitioners.</span>, today is the 14<sup>th</sup> of October, 2010. We are in the Space Beyond Space Meditation Hall in Pak Chong, Thailand, during our monastic retreat with the theme of “The Plant Nursery”.
 
-{% image "article_photos/su-ong/TheTrueSangha_2.jpg" %}
+{% image "article/su-ong/TheTrueSangha_2.jpg" %}
 
 ## Insight without boundaries 
 
@@ -63,7 +63,7 @@ When we practice listening to the bell or walking meditation, we stop speaking a
 
 The Three Jewels are the energies of mindfulness and concentration. Every sound of the bell, every step with such energy can heal, nourish, and liberate. If you practice it well, every sound of the bell, every step can help you be in touch with the pure land, in touch with no birth and no death. It isn’t difficult! We can all do it. It is not a distant wish. We can realize this path by the way we walk and with the bell of mindfulness. Together with the sangha, we can make the pure land become a reality in the present with every step we take, by placing all our heart into the sound of the mindfulness bell.
 
-{% image "article_photos/su-ong/PVM_2753_improved.JPG" %}
+{% image "article/su-ong/PVM_2753_improved.JPG" %}
 
 If we want to be a beloved disciple of the Buddha, then we should learn the art of sangha building. If I want to be a beloved student of the Buddha, then I also have to learn the art of sangha building. Thay would build a beloved sangha with many people who have the determination to practice. The result would be a great reward.
 

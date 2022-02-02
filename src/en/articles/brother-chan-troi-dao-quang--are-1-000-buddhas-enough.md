@@ -3,7 +3,7 @@ title: Are 1,000 Buddhas Enough?
 author: Brother Chân Trời Đạo Quang 
 ---
 
-{% image "article_photos/brother-chan-troi-dao-quang/IMG1129.JPG" %}
+{% image "article/brother-chan-troi-dao-quang/IMG1129.JPG" %}
 
 During the Rains’ Retreat 2021, my brothers would often see me mixing a grayish dust with water in an old pot and then pouring the mixture into a small blue bucket. EventuallyFinally, I would return to the monastic residence with something in my hands, much to their curiosity. I did this every day for the 90-days of the Rains’ Retreat.
 

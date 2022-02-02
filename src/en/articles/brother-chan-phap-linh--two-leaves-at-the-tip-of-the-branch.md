@@ -5,7 +5,7 @@ author: Brother Chân Pháp Linh
 
 ## Living interbeing, joy, and non-fear at COP 26
 
-{% image "article_photos/brother-chan-phap-linh/FDTfJpjWUAUYC_5.jpg" %}
+{% image "article/brother-chan-phap-linh/FDTfJpjWUAUYC_5.jpg" %}
 
 Do you remember the moment you went from being aware that nature was being damaged and destroyed, to deciding that you would take action to stop the destruction?
 
@@ -25,7 +25,7 @@ Thay has always been very clear that it is the *applied* insight of interbeing, 
 
 In October, Brother Phap Huu, Sister Lang Nghiem, Sister Hien Nghiem and I attended the TED Countdown event in Edinburgh. It was an event designed to inspire and prepare people for the COP26 UN climate summit in Glasgow, which would take place a couple of weeks later. When we returned to Plum Village, we were all focussed on rejoining the annual Rains Retreat. But so many people had been touched by the presence of the monastics in Edinburgh, especially by Sister Hien Nghiem’s TED talk<span class='note'>©Photo: Ryan Lash, TED Cooldown Summit, Oct 15, 2021</span>, that they then wanted to invite us to Glasgow as well. We quickly re-assessed the situation and found a way for two of us to represent the sangha at this historic event.
 
-{% image "article_photos/brother-chan-phap-linh/CS21_20211015_2RL0936_edited.jpg" %}
+{% image "article/brother-chan-phap-linh/CS21_20211015_2RL0936_edited.jpg" %}
 <!-- Sister True Dedication speaks at Session 7 at TED Countdown Summit on October 15, 2021. TED Countdown Summit. October 12-15, 2021, Edinburgh, Scotland. Photo: Ryan Lash / TED -->
 
 Suddenly I was faced with the prospect of going to COP26, and to be honest it was quite scary. What would we say? What did we really have to offer? Would we really be able to help? I had no idea. We didn’t even really know what we would be doing there. But at the same time, I was on fire with the aspiration that had been in my heart since I was a little boy—I had been searching my whole life for a way to help avert the present and future crises that we face, and now we had an opportunity to contribute. 
@@ -38,7 +38,7 @@ Sharing with the delegates at the conference, we were so happy to discover that 
 
 <!-- https://craiggibsonphotographer.shootproof.com/gallery/nytclimatehub/album/11335889 -->
 <!-- 21.11.09 Tuesday -->
-{% image "article_photos/brother-chan-phap-linh/NYTCH_211109_KA_874.jpg", "has-label" %}
+{% image "article/brother-chan-phap-linh/NYTCH_211109_KA_874.jpg", "has-label" %}
 <p class="image-label">The New York Times Climate Hub: Returning to the Heartwood. Photo ©Craig Gibson. Nov 9, 2021</p>
 
 My greatest joy during those days in Glasgow was to see that Thay has given us everything we need to help these people take the next step. In the sangha, we are trained to live *together* and to rely on each other, and *interbeing* is alive at every level of our teaching and practice. All we need to do to transmit the insight of interbeing is to *be ourselves!* One thing people noticed was that they could not figure out who was the boss. They knew that Brother Phap Dung is the elder brother, so at first, they thought I was there to work out the logistics and he would do all the talking. But we did not operate like that. Every evening we would be cooking our Dharma, discussing what we felt had worked, reflecting on what we could still fine-tune, and just sharing our insights. The next day, it did not matter which mouth the insight came out of - there wasn’t the feeling of “hey, you used my line—that was *my* insight,” it was truly like we were one body with two mouths. We were operating as one and everyone could feel that. We were not doing anything special; it is just how we are trained in Plum Village, and what a contrast that makes with how most of the world operates. It really wakes people up. They start to see how interbeing is not just a concept but something that we can *live*. 
@@ -47,7 +47,7 @@ One morning when I woke up, I could not stop smiling. I was lit up with gratitud
 
 That simple joy was *also* part of what we were offering. So many people are overwhelmed with despair and anxiety, especially in the environmental movement. They know more than most of us how bad things really are and the more they know, the worse it seems. At COP26, there was a very strong collective feeling of “time is running out,” and “it’s probably too late already”. Again and again, we would meet people, and within a few seconds they would break down in tears - not because they were sad, but because they could see and feel our joy, and the presence and joy of the Sangha through us. They could *see* that we were actually *living* the solution they sought and that immediately gave them hope. Our joy became their joy and they were able to continue their work in a new way. They were crying tears of *relief*, because now they could see that living in the insight of interbeing is something *possible,* not just a dream for the future.
 
-{% image "article_photos/brother-chan-phap-linh/IMG_0436_crop.jpg" %}
+{% image "article/brother-chan-phap-linh/IMG_0436_crop.jpg" %}
 
 They were touched also by our (relative) non-fear of their suffering. We are all trained to listen to the suffering of others, so when people would share their suffering with us, we (mostly!) didn’t feel overwhelmed by it, and we knew (at least a little bit) how to help them to embrace it. And this is something that can only come from having faced some of our *own* suffering. 
 
