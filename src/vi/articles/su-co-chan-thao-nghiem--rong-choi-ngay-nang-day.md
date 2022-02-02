@@ -86,4 +86,3 @@ Chuyện cũ thì kể bao giờ mà hết được em ha! Bây giờ chắc ch�
 Những ngày ở chùa Tổ, chị và các anh chị em thị giả thường kể chuyện cho nhau nghe bao nhiêu chuyện của Thầy, của Làng, của các trung tâm. Cốc Thầy yên bình mà cũng đầy ắp tiếng nói, tiếng cười. Chị em mình còn có Thầy, được về trong lòng tăng thân, có những tháng ngày để rong chơi. Mình còn trông chờ gì hơn? Chúc sư em tận hưởng những ngày vui, cười với những khó khăn đang có và là sự tiếp nối đẹp của Thầy, của Làng. Chị cũng chỉ làm chừng đó thôi.
 
 Thương nhiều. 
-
