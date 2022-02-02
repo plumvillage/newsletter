@@ -1,5 +1,5 @@
 ﻿---
-title: An Interview with Richard Brady
+title: Free at School
 author: Richard Brady
 ---
 
@@ -23,7 +23,7 @@ That was the beginning of what led me to attend a retreat with Thay. Everything 
 
 ***Can you share more about how, as you were beginning to walk this path, you began to bring meditation into your community and classroom and also about the effects of sharing mindfulness with your students.***
 
-When I met Thay and began my personal meditation practice, I was not ready to bring the practice into the Quaker school where I was teaching. I did not see an opening for doing that. My own mindfulness practice was still very young. I focused my attention primarily on developing it. A few years later a new course was set up and required for all ninth grade students for one semester. Discovering it had a unit on health, I went to the teacher who was teaching the course and asked if I could offer one lesson on stress-reduction. When she said yes, I developed a lesson plan for teaching the ninth graders. I would have them for only 45 minutes. I knew whatever I did needed to be memorable. What were the students really interested in? I remembered from Frank McCourt’s book *Teacher Man*, (a book about the life of a teacher in inner city public schools) where he suggested that his high school students were interested in sex and food. When I thought about the teenagers I’d be teaching, I added one more thing, they were deeply interested in themselves. They were 14-year-olds trying to figure out who they were. What about introducing them to their minds?
+When I met Thay and began my personal meditation practice, I was not ready to bring the practice into the Quaker school where I was teaching. I did not see an opening for doing that. My own mindfulness practice was still very young. I focused my attention primarily on developing it. A few years later a new course was set up and required for all 9<sup>th</sup> grade students for one semester. Discovering it had a unit on health, I went to the teacher who was teaching the course and asked if I could offer one lesson on stress-reduction. When she said yes, I developed a lesson plan for teaching the 9<sup>th</sup> graders. I would have them for only 45 minutes. I knew whatever I did needed to be memorable. What were the students really interested in? I remembered from Frank McCourt’s book *Teacher Man* (a book about the life of a teacher in inner city public schools), where he suggested that his high school students were interested in sex and food. When I thought about the teenagers I’d be teaching, I added one more thing, they were deeply interested in themselves. They were 14-year-olds trying to figure out who they were. What about introducing them to their minds?
 
 The mind is often a part of ourselves that we don’t know much about, unknown. We know how to use it but, we don’t know what is happening inside when we do. So I invited my students to do an experiment, watching whatever happened in their minds for five minutes. I compared the mind to a stage where different things would come on to make appearances. They’d be there for a while and then leave. When we talked together about what they might see on their stages, they ended up realizing they might become aware of feelings, thoughts, sensations from the outer world and internal bodily sensations.
 
@@ -31,11 +31,14 @@ The students were prepared to just notice things as they appeared. I asked them 
 
 If many negative things are happening in your mind, it might be kind of a downer to be paying attention to them unless you can do something about it. So I said, “There is something you can do about it!” and together we all did this short guided Plum Village meditation:
 
-Breathing in, I see myself as a flower, breathing out, I feel fresh. Breathing in, I see myself as a mountain, breathing out I feel solid…
+> Breathing in, I see myself as a flower,<br/>
+> Breathing out, I feel fresh.<br/>
+> Breathing in, I see myself as a mountain,<br/>
+> Breathing out, I feel solid…
 
 The idea that their minds were having a powerful influence on their lives was planted and also that there was something they could do to make their minds more hospitable and positive.
 
-When students returned [sometimes years later], some talked about remembering something I had read to them in class from Thich Nhat Hanh’s writing. Others remembered something I had talked about in the stress-reduction class. I was becoming aware that stress-reduction was not just a matter of school-related pressure. It was also the whole world starting to get stressed. I could see that mindfulness could become an extremely important tool, a way of coping, and an aide to doing more than just coping with the kind of world we were all moving into.
+When students returned (sometimes years later), some talked about remembering something I had read to them in class from Thich Nhat Hanh’s writing. Others remembered something I had talked about in the stress-reduction class. I was becoming aware that stress-reduction was not just a matter of school-related pressure. It was also the whole world starting to get stressed. I could see that mindfulness could become an extremely important tool, a way of coping, and an aide to doing more than just coping with the kind of world we were all moving into.
 
 In my last two years of teaching I took the step of getting permission from the school principal to begin every one of my classes with five minutes of mindfulness. Sometimes we read a short poem or story having wisdom and intelligence from Thay or another teacher or poet. There was also weekly free writing where we all just recorded whatever was in our minds for five minutes. It was a revolutionary experience for many of the students. They wrote to me at the end of the year to tell me about important breakthroughs or things they had learned, sometimes from themselves, in the course of these writing meditations.
 
