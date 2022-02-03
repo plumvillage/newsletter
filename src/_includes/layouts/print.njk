@@ -1,32 +1,7 @@
-<!DOCTYPE html>
-<html dir="ltr" lang="{{ locale }}" class="size-{{ size }}">
-<head>
-    <meta charset="utf-8" />
-    {% set i18n = site[locale] %}
-    {% set articles = collections["articles_" + locale] %}
-    {% set images = collections["images"] %}
-    <title>{{ i18n.title }}</title>
-    <meta name="author" content="{{ i18n.author }}" />
-    <meta name="subject" content="" />
-    <meta name="keywords" content="?" />
-    <meta name="date" content="2022" />
+{% extends "layouts/print-frame.njk" %}
 
-    {# needs to be relative for pagedjs to work #}
-    <link rel="stylesheet" href="{{ '../../css/global.css' | url }}">
-    <link rel="stylesheet" href="../../css/print/common.css">
-    <link rel="stylesheet" href="../../css/print/{{ size }}.css">
-    <link rel="stylesheet" href="../../css/print/articles-{{ locale }}.css">
-    
-    {% include "../partials/page-setup.njk" %}
-    {%- if preview == true %}
-    <!-- paged.js preview in browser -->
-    <link rel="stylesheet" href="/pagedjs/interface.css">
-    {%- endif %}
-    <script src="/pagedjs/paged.polyfill.js"></script>
-    {# pagedjs-cli --additional-script <script> #}
-    <script src="/js/hooks-to-pagedjs.js"></script>
-</head>
-<body>
+
+{% block content %}
     {%- if preview %}
     <div class="front-cover bleed">
         {% image ["front-cover-", locale, "-bleed.jpg"] | join %}
@@ -70,6 +45,4 @@
     {%- endif %}
 
     {# {% include "partials/testing.njk" %} #}
-</body>
-
-</html>
+{% endblock %}

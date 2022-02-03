@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="{{ locale }}" class="size-{{ size }}">
+<head>
+    <meta charset="utf-8" />
+    {% set i18n = site[locale] %}
+    {% set articles = collections["articles_" + locale] %}
+    {% set images = collections["images"] %}
+    <title>{{ i18n.title }}</title>
+    <meta name="author" content="{{ i18n.author }}" />
+    <meta name="subject" content="" />
+    <meta name="keywords" content="?" />
+    <meta name="date" content="2022" />
+    
+    {%- if preview == true %}
+        {# needs to be relative for pagedjs-cli to work #}
+        <link rel="stylesheet" href="{{ '../../css/global.css' | url }}">
+        <link rel="stylesheet" href="../../css/print/common.css">
+        <link rel="stylesheet" href="../../css/print/{{ size }}.css">
+        <link rel="stylesheet" href="../../css/print/articles-{{ locale }}.css">
+    {%- else %}
+        <link rel="stylesheet" href="{{ '/css/global.css' | url }}">
+        <link rel="stylesheet" href="/css/print/common.css">
+        <link rel="stylesheet" href="/css/print/{{ size }}.css">
+        <link rel="stylesheet" href="/css/print/articles-{{ locale }}.css">
+    {%- endif %}
+    
+    {% include "../partials/page-setup.njk" %}
+    {%- if preview == true %}
+    <!-- paged.js preview in browser -->
+    <link rel="stylesheet" href="/pagedjs/interface.css">
+    {%- endif %}
+    <script src="/pagedjs/paged.polyfill.js"></script>
+    {# pagedjs-cli --additional-script <script> #}
+    <script src="/js/hooks-to-pagedjs.js"></script>
+</head>
+<body>
+    {% block content %}{% endblock %}
+</body>
+
+</html>
