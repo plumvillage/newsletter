@@ -1,5 +1,0 @@
-{
-  "permalink": "/{{ locale }}/article/{{ page.fileSlug }}/",
-  "layout": "layouts/article",
-  "locale": "en"
-}

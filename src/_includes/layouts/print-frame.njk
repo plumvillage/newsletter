@@ -13,10 +13,10 @@
     
     {%- if preview == true %}
         {# needs to be relative for pagedjs-cli to work #}
-        <link rel="stylesheet" href="{{ '../../css/global.css' | url }}">
-        <link rel="stylesheet" href="../../css/print/common.css">
-        <link rel="stylesheet" href="../../css/print/{{ size }}.css">
-        <link rel="stylesheet" href="../../css/print/articles-{{ locale }}.css">
+        <link rel="stylesheet" href="{{ '../../../css/global.css' | url }}">
+        <link rel="stylesheet" href="../../../css/print/common.css">
+        <link rel="stylesheet" href="../../../css/print/{{ size }}.css">
+        <link rel="stylesheet" href="../../../css/print/articles-{{ locale }}.css">
     {%- else %}
         <link rel="stylesheet" href="{{ '/css/global.css' | url }}">
         <link rel="stylesheet" href="/css/print/common.css">
@@ -26,12 +26,13 @@
     
     {% include "../partials/page-setup.njk" %}
     {%- if preview == true %}
-    <!-- paged.js preview in browser -->
-    <link rel="stylesheet" href="/pagedjs/interface.css">
+        {# paged.js preview in browser #}
+        {# <link rel="stylesheet" href="/pagedjs/interface.css"> #}
+    {%- else %}
+        <script src="/pagedjs/paged.polyfill.js"></script>
+        {# pagedjs-cli --additional-script <script> #}
+        <script src="/js/hooks-to-pagedjs.js"></script>
     {%- endif %}
-    <script src="/pagedjs/paged.polyfill.js"></script>
-    {# pagedjs-cli --additional-script <script> #}
-    <script src="/js/hooks-to-pagedjs.js"></script>
 </head>
 <body>
     {% block content %}{% endblock %}
