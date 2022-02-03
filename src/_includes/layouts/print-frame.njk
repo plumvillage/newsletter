@@ -11,21 +11,21 @@
     <meta name="keywords" content="?" />
     <meta name="date" content="2022" />
     
+    {% set pathPrefix = "" %}
     {%- if pagedjsCLI == true %}
-        {# needs to be relative for pagedjs-cli to work #}
-        <link rel="stylesheet" href="{{ '../../../css/global.css' | url }}">
-        <link rel="stylesheet" href="../../../css/print/common.css">
-        <link rel="stylesheet" href="../../../css/print/{{ size }}.css">
-        <link rel="stylesheet" href="../../../css/print/articles-{{ locale }}.css">
-    {%- else %}
-        <link rel="stylesheet" href="{{ '/css/global.css' | url }}">
-        <link rel="stylesheet" href="/css/print/common.css">
-        <link rel="stylesheet" href="/css/print/{{ size }}.css">
-        <link rel="stylesheet" href="/css/print/articles-{{ locale }}.css">
+        {% set pathPrefix = "../.." %}
+    {% elif pagedjsCLI[pagination.pageNumber] == true %}
+        {% set pathPrefix = "../../.." %}
     {%- endif %}
     
+    {# needs to be relative for pagedjs-cli to work #}
+    <link rel="stylesheet" href="{{ pathPrefix }}/css/global.css">
+    <link rel="stylesheet" href="{{ pathPrefix }}/css/print/common.css">
+    <link rel="stylesheet" href="{{ pathPrefix }}/css/print/{{ size }}.css">
+    <link rel="stylesheet" href="{{ pathPrefix }}/css/print/articles-{{ locale }}.css">
+    
     {% include "../partials/page-setup.njk" %}
-    {%- if pagedjsCLI != true %}
+    {%- if pagedjsCLI != true and pagedjsCLI[pagination.pageNumber] != true %}
         <script src="/pagedjs/paged.polyfill.js"></script>
         {# paged.js preview in browser #}
         <link rel="stylesheet" href="/pagedjs/interface.css">

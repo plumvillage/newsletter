@@ -20,7 +20,11 @@
         <article class="article-{{ article.data.title | slugify }}">
             <h1 id="{{ article.data.title | slugify }}" class="chapter">{{ article.data.title }}</h1>
             <div class="author">{{ article.data.author }}</div>
-            {{ article.data.content | safe }}
+            {%- if pagedjsCLI == true %}
+                {{ article.data.content | safe | replace("/media/", "{{ pathPrefix }}/media/") }}
+            {%- else %}
+                {{ article.data.content | safe }}
+            {%- endif %}
             <div class="article-end"></div>
         </article>
     {%- endfor -%}

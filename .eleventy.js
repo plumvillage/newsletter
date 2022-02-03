@@ -11,7 +11,7 @@ async function imageShortcode(src, optClasses) {
     let reduce = true;
     const srcPath = "src/media/publish/";
     let srcFull = srcPath + src
-    let destPath = "../../media/";
+    let destPath = "/media/";
     let data = { filename: path.basename(src) };
     let parsed = path.parse(src)
     let autoId = slugify(`${parsed.dir}/${parsed.name}`, { strict: true })
