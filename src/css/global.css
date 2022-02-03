@@ -30,27 +30,30 @@
 
 @font-face {
     font-family: "Gentium Book Plus";
-    src: url("fonts/GentiumBookPlus-Bold.woff2") format("woff2");
-    /* TODO add: local("GentiumBookPlus-Bold") */
+    src: url("fonts/GentiumBookPlus-Bold.woff2") format("woff2"),
+    local("GentiumBookPlus-Bold");
     font-weight: bold;
 }
 
 @font-face {
     font-family: "Gentium Book Plus";
-    src: url("fonts/GentiumBookPlus-BoldItalic.woff2") format("woff2");
+    src: url("fonts/GentiumBookPlus-BoldItalic.woff2") format("woff2"),
+    local("GentiumBookPlus-BoldItalic");
     font-weight: bold;
     font-style: italic;
 }
 
 @font-face {
     font-family: "Gentium Book Plus";
-    src: url("fonts/GentiumBookPlus-Italic.woff2") format("woff2");
+    src: url("fonts/GentiumBookPlus-Italic.woff2") format("woff2"),
+    local("GentiumBookPlus-Italic");
     font-style: italic;
 }
 
 @font-face {
     font-family: "Gentium Book Plus";
-    src: url("fonts/GentiumBookPlus-Regular.woff2") format("woff2");
+    src: url("fonts/GentiumBookPlus-Regular.woff2") format("woff2"),
+    local("GentiumBookPlus-Regular");
 }
 
 
