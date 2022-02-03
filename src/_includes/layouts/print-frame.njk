@@ -5,7 +5,8 @@
     {% set i18n = site[locale] %}
     {% set articles = collections["articles_" + locale] %}
     {% set images = collections["images"] %}
-    <title>{{ i18n.title }}</title>
+    {# <title>{{ i18n.title }}</title> #}
+    <title>{{ title }}</title>
     <meta name="author" content="{{ i18n.author }}" />
     <meta name="subject" content="" />
     <meta name="keywords" content="?" />

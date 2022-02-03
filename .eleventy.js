@@ -22,7 +22,7 @@ async function imageShortcode(src, optClasses) {
         sharpOptions: {},
         // https://sharp.pixelplumbing.com/api-output#webp
         sharpWebpOptions: { quality: 50, },
-        sharpJpegOptions: { quality: 50, },
+        sharpJpegOptions: { quality: 40, },
         // disk cache works only when using the built-in hashing algorithm and not custom filenames
         // filenameFormat: function (id, src, width, format, options) {
         //     const extension = path.extname(src);

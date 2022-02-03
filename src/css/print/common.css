@@ -367,12 +367,12 @@ p.editors-preface::after {
     font-style: normal;
     font-size: 70%;
     content: "✦"; /*✦ ●◆✦◆✧❁🙪🙠🙢⬩ */
-    line-height: 0.32mm;
+    line-height: 0.3mm;
     color: hsl(17, 36%, 15%);
     text-align: center;
     display: block;
     width: 100%;
-    height: 0.25mm;
+    height: 0.3mm;
     /* border-bottom: 0.5mm solid hsl(17, 36%, 15%); */
     /* background-image: linear-gradient(to right,
     transparent,
@@ -476,6 +476,8 @@ img#articlesister-chan-chuan-nghiemSc-Chuan-N-3,img#articledr-elli-weisbaumScien
     width: calc(var(--pagedjs-pagebox-width) + (var(--bleed)) * 2);
     left: calc((var(--pagedjs-margin-left) + var(--bleed))*-1);
     overflow: visible;
+    /* this is removing an artefact in the pdf, which would otherwise display a thin line of the image above the white mask */
+    border-top: 2px solid white;
 }
 
 
@@ -520,9 +522,9 @@ img#articlebrother-chan-phap-linhIMG0436crop {
 /*  108mm / 80mm is more spacious */
 img#articledr-elli-weisbaumScientific-Day-Poster-Presentation-at-The-University-of-Toronto-20182 {
     bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + 103mm) * -1);
-    mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%,rgba(0,0,0,1.0) 20%);
-    -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 6%,rgba(0,0,0,1.0) 26%);
-} 
+    mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 10%,rgba(0,0,0,1.0) 30%);
+    -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 10%,rgba(0,0,0,1.0) 30%);
+}
 .PAGE-OF-articledr-elli-weisbaumScientific-Day-Poster-Presentation-at-The-University-of-Toronto-20182 .pagedjs_page_content {
     height: calc(100% - var(--pagedjs-footnotes-height) - 75mm) !important;
 }
@@ -573,6 +575,5 @@ img#articlebrother-chan-minh-hyT-Minh-Hy-1-edited {
     color: var(--color-tower);
     bottom: -64mm;
 }
-
 
 

@@ -21,6 +21,8 @@
     /* C 8%   M 0%   Y 39%   K 27% */
     --color-sky-dark: #0A2436;
     --color-tower-dark: #360B0E;
+    
+    text-rendering: optimizeLegibility;
 }
 
 
@@ -29,6 +31,7 @@
 @font-face {
     font-family: "Gentium Book Plus";
     src: url("fonts/GentiumBookPlus-Bold.woff2") format("woff2");
+    /* TODO add: local("GentiumBookPlus-Bold") */
     font-weight: bold;
 }
 
