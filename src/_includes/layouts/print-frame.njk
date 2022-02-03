@@ -11,7 +11,7 @@
     <meta name="keywords" content="?" />
     <meta name="date" content="2022" />
     
-    {%- if preview == true %}
+    {%- if pagedjsCLI == true %}
         {# needs to be relative for pagedjs-cli to work #}
         <link rel="stylesheet" href="{{ '../../../css/global.css' | url }}">
         <link rel="stylesheet" href="../../../css/print/common.css">
@@ -25,11 +25,10 @@
     {%- endif %}
     
     {% include "../partials/page-setup.njk" %}
-    {%- if preview == true %}
-        {# paged.js preview in browser #}
-        {# <link rel="stylesheet" href="/pagedjs/interface.css"> #}
-    {%- else %}
+    {%- if pagedjsCLI != true %}
         <script src="/pagedjs/paged.polyfill.js"></script>
+        {# paged.js preview in browser #}
+        <link rel="stylesheet" href="/pagedjs/interface.css">
         {# pagedjs-cli --additional-script <script> #}
         <script src="/js/hooks-to-pagedjs.js"></script>
     {%- endif %}

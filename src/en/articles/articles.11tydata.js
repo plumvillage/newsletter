@@ -12,5 +12,5 @@ module.exports = {
   size: "A4",
   bleed: "0mm",
   marks: "none",
-  preview: true
+  pagedjsCLI: true
 }
