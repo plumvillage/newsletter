@@ -18,7 +18,10 @@ permalink: "vi/"
                 <div class="entry-meta">
                     <span class="author"><a href="{{ article.url }}">{{ article.data.author }}</a></span>
                 </div>
-                <h2><a href="{{ article.url }}">{{ article.data.title }}</a></h2>
+                <h2>
+                    <a href="{{ article.url }}">{{ article.data.title }}</a><br>
+                    <span style="font-size: 60%;"><a href="{{ article.url | replace('bai', 'articles-print-preview') }}">Print Preview</a></span>
+                </h2>
             </header>
             </header>
             <div class="entry-content">

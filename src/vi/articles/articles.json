@@ -1,5 +1,0 @@
-{
-    "permalink": "/{{ locale }}/bai/{{ page.fileSlug }}/",
-    "layout": "layouts/article",
-    "locale": "vi"
-}
