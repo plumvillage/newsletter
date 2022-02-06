@@ -7,7 +7,7 @@ author: Brother Chân Minh Hy
 
 There is an anecdote about an occasion at the Tu Dam Temple in Vietnam, when the monks were about to put their sanghati on for the precept recitation ceremony, and Venerable Thien Sieu asked, “Do you know why we say, ‘*The Dharma is deep and wonderful*’?” Pausing for a few moments, he continued, “because it is here, right in front of you.”
 
-{% image "article/brother-chan-minh-hy/T-Minh-Hy-1-edited.JPG" %}
+{% image "article/brother-chan-minh-hy/T-Minh-Hy-2-edited.jpg" %}
 
 I heard this anecdote when the Venerable Abbot of Bao Lam Temple recounted it to us at Dieu Tram Nunnery. This question has stayed with me ever since - How can the wonderful and deep Dharma be right in front of us? Why can’t I see it? Is it because there are many things around that are so ordinary that I am unable to see it?
 

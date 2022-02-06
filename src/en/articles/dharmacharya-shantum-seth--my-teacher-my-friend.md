@@ -21,8 +21,6 @@ To my surprise and joy he responded. Could I organise a Buddhist pilgrimage for 
 
 We started in Delhi, at our home at 8 Rajaji Marg.  My family was all there, slightly sceptical but very curious. Thay sat with us in the garden by the lily pond, where he showed us how to walk with his kind of intense mindfulness. My parents and siblings silently followed in his footsteps. I think they could not help but feel his magnetism.
 
-{% image "article/dharmacharya-shantum-seth/image2_edit.jpeg" %}
-
 It was wonderful to hear the stories and drama of the Buddha's life through Thay’s eyes. The Buddha to him was not a God, but a real person, comfortable with people from all walks of life, able to connect with beggars and farmers, rich and poor, young and old, doctors, teachers, Dalits, Brahmins, kings, prostitutes; and even with animals, insects, trees, crops and flowers. 
 
 Thay was like a happy and curious child meeting his teacher everywhere he travelled - meditating in the same caves and rocks the Buddha may have sat on, crossing the same rivers, eating the same food and greeting the children, descended from the children the Buddha met. But his favourite was Vulture Peak, the hilltop in Rajgir from where the Buddha loved to watch the sunset. 
@@ -60,6 +58,8 @@ Gitu and I were with Thay in 1999 while he was on a tour in the US. One day Thay
 I asked Thay who had recommended my name and he said “Thay”. I was pleased and surprised, but did not feel ready. When I told him my doubts, Thay said he had confidence in me. Gitu and I decided to go and live in PV for a while so that I would feel more confident to take on my new role as a Dharma Teacher. Not that I could meet Thay every day – he lived in a hermitage away from the monastery and visited twice a week to teach at one of the Plum Village hamlets, where hundreds of people would gather to hear him speak.
 
 He always treated Gitu and me with special fondness, often stopping to ask whenever he saw us how we were doing. When Gitu became pregnant, he would ask not only about Gitu, but also of the baby in her womb.
+
+{% image "article/dharmacharya-shantum-seth/image2_edit.jpeg" %}
 
 He would ask me too if I was enjoying speaking with the baby in the womb. He also suggested reading the Lotus sutra to the unborn baby. The Lotus Sutra is one of the most revered Buddhist texts that claims that anyone can awaken the Buddha in them. 
 

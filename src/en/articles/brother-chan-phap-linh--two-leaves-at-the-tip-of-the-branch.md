@@ -5,7 +5,7 @@ author: Brother Chân Pháp Linh
 
 ## Living interbeing, joy, and non-fear at COP 26
 
-{% image "article/brother-chan-phap-linh/FDTfJpjWUAUYC_5.jpg" %}
+{% image "article/brother-chan-phap-linh/FDTfJpjWUAUYC_5_crop.jpg" %}
 
 Do you remember the moment you went from being aware that nature was being damaged and destroyed, to deciding that you would take action to stop the destruction?
 
@@ -25,7 +25,7 @@ Thay has always been very clear that it is the *applied* insight of interbeing, 
 
 In October, Brother Phap Huu, Sister Lang Nghiem, Sister Hien Nghiem and I attended the TED Countdown event in Edinburgh. It was an event designed to inspire and prepare people for the COP26 UN climate summit in Glasgow, which would take place a couple of weeks later. When we returned to Plum Village, we were all focussed on rejoining the annual Rains Retreat. But so many people had been touched by the presence of the monastics in Edinburgh, especially by Sister Hien Nghiem’s TED talk<span class='note'>©Photo: Ryan Lash, TED Cooldown Summit, Oct 15, 2021</span>, that they then wanted to invite us to Glasgow as well. We quickly re-assessed the situation and found a way for two of us to represent the sangha at this historic event.
 
-{% image "article/brother-chan-phap-linh/CS21_20211015_2RL0936_edited.jpg" %}
+{% image "article/brother-chan-phap-linh/CS21_20211015_2RL0936-crop3.jpg" %}
 <!-- Sister True Dedication speaks at Session 7 at TED Countdown Summit on October 15, 2021. TED Countdown Summit. October 12-15, 2021, Edinburgh, Scotland. Photo: Ryan Lash / TED -->
 
 Suddenly I was faced with the prospect of going to COP26, and to be honest it was quite scary. What would we say? What did we really have to offer? Would we really be able to help? I had no idea. We didn’t even really know what we would be doing there. But at the same time, I was on fire with the aspiration that had been in my heart since I was a little boy—I had been searching my whole life for a way to help avert the present and future crises that we face, and now we had an opportunity to contribute. 

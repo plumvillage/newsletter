@@ -9,10 +9,10 @@ Shortly after the pandemic began, my mother told me that she felt lonely. I call
 
 Firstly, building the frame was not easy – it took me months. I did not know how to attach the clay to the wooden backboard, and the shape I envisioned was rather complicated, with many minute details and bent inward like a bow. I put in a lot of effort, but it did not work out well. Eventually I had to let go of the project. Despair spread in me.
 
+{% image "article/brother-chan-troi-thien-chi/5b_rot.jpg" %}
+
 After a break of about two months, I stumbled across a wire mesh that I could use as a skeleton for the clay, in combination with small particles attached with nails. My optimism returned, and new creativity sprang back to life. My rhythm was slower now, but in time the shape of the mirror began to reveal itself. As I worked, I realised that I could neither plan the time ahead to completion, nor the outcome. In fact I began to think, “Am I making the mirror or is the mirror using me as a condition to manifest?”
 
 When the clay had finally dried, starting the painting was a great joy. However, the colours did not turn out quite right. Jokingly, a brother told me with a big smile, “You know Br. Thiện Chí, the mirror looks a bit like something out of a horror movie.” Fortunately, one of our lay friends, who is a professional antique restorer, helped me make the frame more genuine.
 
-{% image "article/brother-chan-troi-thien-chi/5b_rot.jpg", "img-small" %}
-
-When my mother eventually opened the big package by mail from France, she was so happy and excited. I thought to myself, “If only I could see her face when she unwraps it and sees the mirror. Her smile is worth all my efforts.” The mirror now enjoys a sunny spot in my mother’s bedroom, spreading Thay’s words bathed in light all over the room: “True happiness is a heart that loves and a mind that is wide open” is what it reads in Bulgarian.
+When my mother eventually opened the big package by mail from France, she was so happy and excited. I thought to myself, “If only I could see her face when she unwraps it and sees the mirror. Her smile is worth all my efforts.” The mirror now enjoys a sunny spot in my mother’s bedroom, spreading Thay’s words bathed in light all over the room: “True beauty is a heart that loves and a mind that is wide open” is what it reads in Bulgarian.

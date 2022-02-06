@@ -21,9 +21,6 @@ Being a small and young sangha, there was a lot less organisation, which gave ro
 
 Other practices have disappeared, like fast walking meditation. One time, Thầy said to us, “If you don’t sweat once a day, you are not my disciple.” Thầy wanted to encourage everyone to exercise and to jog once a day. After one of our trips to China, Thầy proposed that the Sangha incorporate fast walking meditation into our practice schedule. So Thầy Pháp Niệm and Thầy Pháp Độ bulldozed a path around the Linden Tree in Upper Hamlet, put down some white gravel, and Thầy suggested that we would do fast walking Chinese style before sitting meditation in the morning. We began this practice in the winter. As everyone knows, the winter in France is usually wet and cold. So often the back of our robes would be wet and white with the flecks of mud from the wet gravel. 
 
-{% image "article/brother-chan-phap-hai/Photo1996.jpg", "has-label" %}
-<p class="image-label">Br. Giác Thanh on the left. Br Phap Huu in front. 1996</p>
-
 At one point, Thầy suggested for every hamlet to have a scale at the end of the table to weigh our food. We would serve our food, weigh our bowl, and take note of how much we took. One time Thầy noticed I was not doing it and Thầy said to me, “Brother Pháp Hải, you need to be like a river, not like a drop of water.” I replied, “Thầy, a kilo of potatoes is very different from a kilo of lettuce.” Thầy replied, “You think too much, Brother Pháp Hải.”
 
 ## Not feeling ready is a gift
@@ -44,8 +41,6 @@ When I was a young monk, I suffered a lot. At one time, I shared with Thầy a v
 
 Whilst others can help and support us, ultimately, as practitioners, we ourselves need to be able to look deeply and understand our situation to be able to really transform our suffering. Thầy gave us those tools.
 
-{% image "article/brother-chan-phap-hai/scan2.jpg" %}
-
 ## My biggest challenges in the early days
 
 One of the challenges I faced growing up in the Sangha was learning how to ask for and receive support. I came from a family environment in which I had to be very responsible in order to survive, so I had a tendency to be a bit too responsible and not want to communicate what was really going on inside. I also did not know how to take advantage of the presence of my elder brothers or sisters. The sangha’s Shining Light and guidance helped me to realise that my real contribution and real transformation was not in volunteering for many things, but something else entirely. I had to learn to be one element of the Sangha rather than taking over, even if I thought I was helping. This is a bit like the difference between being a soloist and playing in a band. Of course, this is a lifetime’s journey and I still have a lot to learn in this area.
@@ -63,8 +58,6 @@ Twenty years ago I had a dream in which Thầy came up behind me, put his two ha
 ## Tapping into the Insight of Thầy
 
 A few years ago in a monastic retreat in Magnolia Grove a couple of us were having tea together. In that conversation, we were discussing, “What do you feel Thầy asked you to do or what was the invitation that Thầy offered to you?” It was a very beautiful conversation. Reflecting on it I felt that Thầy transmitted something unique to each of us. When we come together, there is a beautiful flowering. What Thầy shared with me was “If you’re doing the same thing in 20 years, you will have failed.” I hold that. Of course, Thầy was not talking about the outer forms of the practice but how I, for example, relate to practices such as mindfulness of breathing or to my brothers and sisters. It was an invitation to go a little bit more deeply and to not be afraid of unpacking the riches that Thầy has already offered us.
-
-{% image "article/brother-chan-phap-hai/373858195382853883045970408691n.jpg" %}
 
 Over the years when our community offers teachings, I have witnessed people being blown away by teachings that often seem quite ordinary to us but are rarely taught in other lineages. Thầy is an extraordinary teacher and has offered us so much, in an incredibly condensed form, in the talks on Thursdays and Sundays and through his way of life. For example, while I was giving a weekend retreat on the Four Nutriments, a very well-known Theravadin sutra scholar and teacher approached me saying: “Did Thich Nhat Hanh teach this in Plum Village? We only teach this in the context of quite focused meditation retreats for advanced practitioners.” In Plum Village of course, we consider it one of the most essential teachings of the Buddha and Thầy offered us many teachings on the Four Nutriments. I really feel that our job as practitioners and Dharma Teachers is to unpack these riches, to keep exploring and developing them and offering them to the world.
 

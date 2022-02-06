@@ -1,5 +1,5 @@
 ﻿---
-title: Eulogy from Thay’s disciples
+title: Eulogy
 author: Young nuns of Dieu Tram Nunnery
 ---
 

@@ -4,11 +4,11 @@ const path = require("path");
 const slugify = require('slugify')
 const sharp = require("sharp");
 const Image = require("@11ty/eleventy-img");
-Image.concurrency = 4; // default is 10
+// Image.concurrency = 4; // default is 10
 
 async function imageShortcode(src, optClasses) {
     // src: article/su-ong/ThayHeaderImg_whiteFadeout2.jpg
-    let processImages = true;
+    let processImages = false;
     const srcPath = "src/media/publish/";
     let srcFull = srcPath + src
     let destPath = "/media/";
@@ -19,6 +19,7 @@ async function imageShortcode(src, optClasses) {
         formats: ["jpeg"], /* jpeg, png, webp, gif, tiff, avif */
         outputDir: `docs/media/build/${parsed.dir}`,
         widths: [2000],
+        dryRun: !processImages,
         sharpOptions: {},
         // https://sharp.pixelplumbing.com/api-output#webp
         sharpWebpOptions: { quality: 50, },
@@ -52,14 +53,17 @@ async function imageShortcode(src, optClasses) {
     // getMetadata(srcFull)
 
     try {
-        if (processImages) {
+        // if (processImages) {
             // can be async
-            Image(srcFull, options)
-        }
-        // doesn’t generate any files, but will tell you where the asynchronously generated files will end up!
-        let metadata = Image.statsSync(srcFull, options);
-        data = metadata.jpeg[metadata.jpeg.length - 1];
-        destPath = destPath + "build/"
+            let metadata = await Image(srcFull, options)
+            
+            // Image(srcFull, options)
+            // doesn’t generate any files, but will tell you where the asynchronously generated files will end up!
+            // let metadata = Image.statsSync(srcFull, options);
+
+            data = metadata.jpeg[metadata.jpeg.length - 1];
+            destPath = destPath + "build/"
+        // }
         
         console.log("processing:", data.filename)
         

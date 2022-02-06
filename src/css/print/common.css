@@ -201,16 +201,6 @@ h1 { /* title */
     font-feature-settings: 'lnum';
 }
 
-article .author {
-    /* font-family: "Open Sans"; */
-    /* font-weight: bold; */
-    font-size: 14pt;
-    line-height: 16pt;
-    font-family: "Gentium Plus"; /* less bold */
-    font-variant: small-caps;
-    margin-bottom: 8mm;
-}
-
 h2 { /* section in article */
     font-size: 12pt;
     font-weight: bold;
@@ -218,6 +208,21 @@ h2 { /* section in article */
     margin-left: 8pt; /* ~ text-indent on 2 lines*/
     margin-top: 17pt;
     margin-bottom: 5pt;
+}
+
+article .author {
+    /* font-family: "Open Sans"; */
+    /* font-weight: bold; */
+    font-size: 14pt;
+    line-height: 16pt;
+    margin-top: 6pt;
+    font-family: "Gentium Plus"; /* less bold */
+    font-variant: small-caps;
+    margin-bottom: 8mm;
+}
+
+article .author + h2 {
+    margin-top: 0;
 }
 
 /* Vietnamese words are smaller on average, thus more suitable for block text */
@@ -242,13 +247,13 @@ article p, article blockquote {
 article p + p,
 /* since images float around text, paragraphs can be adjacent even when an image intersects them */
 article img + p:not(.image-label) {
-    margin-top: 17pt;
+    margin-top: 14pt;
     text-indent: 16pt;
 }
 
 article blockquote {
     text-indent: 14pt;
-    margin-top: 6pt;
+    margin-top: 14pt;
     margin-bottom: 6pt;
 	padding-left: 6pt;
     border-left: 1pt;
@@ -366,7 +371,7 @@ p.editors-preface i {
 /* https://unicode-search.net/unicode-namesearch.pl?term=CIRCLE */
 /* https://jrgraphix.net/r/Unicode/25A0-25FF */
 p.editors-preface::after {
-    margin-top: 6pt;
+    margin-top: 12pt;
     font-style: normal;
     font-size: 70%;
     content: "✦"; /*✦ ●◆✦◆✧❁🙪🙠🙢⬩ */
@@ -412,7 +417,11 @@ img#CalligraphyParallels-VI-p2-Bon-Vertical {
 
 
 
-
+img#articlebrother-chan-troi-thien-chi21767317541562549611291283397034335052574932n {
+    float: left;
+    margin-right: 6pt;
+    width: 60%;
+}
 
 img#articlesu-ongTheTrueSangha2 {
     margin: 0;
@@ -456,7 +465,7 @@ img#articlebrother-chan-phap-dungthay-bell3-torn-edges {
     max-width: 97%;
 }
 img#articlebrother-chan-troi-dao-quangIMG1129 {
-    max-width: 65%;
+    max-width: 50%;
 }
 /* img#articlebrother-chan-phap-kham1998-TangThanXomThuong-MuaHecut {
     max-width: 99%;
@@ -468,8 +477,8 @@ img#articlerichard-bradyR-and-KJ-at-Centro-Avalokita-2015,
 img#articlesister-chan-thao-nghiemCCI0224201600039,
 img#articlesister-chan-chuan-nghiemSc-Chuan-N-3,img#articledr-elli-weisbaumScientific-Day-Poster-Presentation-at-The-University-of-Toronto-20182
 ,img#articlebrother-chan-phap-linhIMG0436crop
-,img#articlebrother-chan-minh-hyT-Minh-Hy-1-edited
-,img#articlebrother-chan-phap-linhCS21202110152RL0936edited
+,img#articlebrother-chan-minh-hyT-Minh-Hy-2-edited
+,img#articlebrother-chan-phap-linhCS21202110152RL0936-crop3
 ,img#articlebrother-chan-phap-dungbai-T-Phap-Dung-4
 {
     margin: 0;
@@ -533,13 +542,13 @@ img#articledr-elli-weisbaumScientific-Day-Poster-Presentation-at-The-University-
 }
 
 
-img#articlebrother-chan-phap-linhCS21202110152RL0936edited {
-    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + 50mm) * -1);
-    mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%,rgba(0,0,0,1.0) 20%);
-    -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%,rgba(0,0,0,1.0) 20%);
+img#articlebrother-chan-phap-linhCS21202110152RL0936-crop3 {
+    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + 108mm) * -1);
+    mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 0.5%,rgba(0,0,0,1.0) 10%);
+    -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 0.5%,rgba(0,0,0,1.0) 10%);
 }
-.PAGE-OF-articlebrother-chan-phap-linhCS21202110152RL0936edited .pagedjs_page_content {
-    height: calc(100% - var(--pagedjs-footnotes-height) - 50mm) !important;
+.PAGE-OF-articlebrother-chan-phap-linhCS21202110152RL0936-crop3 .pagedjs_page_content {
+    height: calc(100% - var(--pagedjs-footnotes-height) - 108mm) !important;
 }
 
 
@@ -553,18 +562,20 @@ img#articlebrother-chan-phap-dungbai-T-Phap-Dung-4 {
 }
 
 
-img#articlebrother-chan-minh-hyT-Minh-Hy-1-edited {
-    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + 54mm) * -1);
+img#articlebrother-chan-minh-hyT-Minh-Hy-2-edited {
+    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + 96mm) * -1);
+    mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%,rgba(0,0,0,1.00) 20%);
+    -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%,rgba(0,0,0,1.00) 20%);
 }
-.PAGE-OF-articlebrother-chan-minh-hyT-Minh-Hy-1-edited .pagedjs_page_content {
-    height: calc(100% - var(--pagedjs-footnotes-height) - 54mm) !important;
+.PAGE-OF-articlebrother-chan-minh-hyT-Minh-Hy-2-edited .pagedjs_page_content {
+    height: calc(100% - var(--pagedjs-footnotes-height) - 96mm) !important;
 }
 
 .PAGE-OF-articlerichard-bradyR-and-KJ-at-Centro-Avalokita-2015 .pagedjs_margin-bottom,
 .PAGE-OF-articlesister-chan-thao-nghiemCCI0224201600039 .pagedjs_margin-bottom,
 .PAGE-OF-articlesister-chan-chuan-nghiemSc-Chuan-N-3 .pagedjs_margin-bottom, .PAGE-OF-articledr-elli-weisbaumScientific-Day-Poster-Presentation-at-The-University-of-Toronto-20182 .pagedjs_margin-bottom
-,.PAGE-OF-articlebrother-chan-minh-hyT-Minh-Hy-1-edited .pagedjs_margin-bottom
-,.PAGE-OF-articlebrother-chan-phap-linhCS21202110152RL0936edited .pagedjs_margin-bottom
+,.PAGE-OF-articlebrother-chan-minh-hyT-Minh-Hy-2-edited .pagedjs_margin-bottom
+,.PAGE-OF-articlebrother-chan-phap-linhCS21202110152RL0936-crop3 .pagedjs_margin-bottom
 ,.PAGE-OF-articlebrother-chan-phap-linhIMG0436crop .pagedjs_margin-bottom
 ,.PAGE-OF-articlebrother-chan-phap-dungbai-T-Phap-Dung-4 .pagedjs_margin-bottom
 {
@@ -573,10 +584,8 @@ img#articlebrother-chan-minh-hyT-Minh-Hy-1-edited {
     display: none !important;
 }
 
-.PAGE-OF-articlebrother-chan-phap-linhCS21202110152RL0936edited .pagedjs_footnote_area {
+.PAGE-OF-articlebrother-chan-phap-linhCS21202110152RL0936-crop3 .pagedjs_footnote_area {
     text-align: right;
     color: var(--color-tower);
-    bottom: -64mm;
+    bottom: -120mm;
 }
-
-
