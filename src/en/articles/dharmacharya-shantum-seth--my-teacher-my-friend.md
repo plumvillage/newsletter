@@ -67,8 +67,6 @@ Once when we were sitting on the grass, he suggested that I speak to Gitu as if 
 
 It was a most intimate conversation that developed. Thank you, I said, for carrying me in your womb and taking care of me. Thank you for nourishing me, for feeding me, for breathing for me. Thank you for taking me for a walk to the sunset point each evening and describing the beauty to me. Thank you for speaking with me and loving me. Thank you for taking care of what you eat and drink and consume. I smile when you smile. I can feel your change of emotions and know when you are happy or disturbed. And how are you doing?  Are you enjoying it? Is it difficult? How do you feel when I kick you? I asked as if I was the baby in Gitu's womb. All at once, I could see that Thay and even the Buddha had once been babies in the womb, like me.
 
-{% image "article/dharmacharya-shantum-seth/image3.jpeg" %}
-
 It was also to Thay that I owe the way I earn my livelihood. I was then working at the United Nations and decided to take only one dollar a year and needed to find another way of making a livelihood. 
 
 After my first pilgrimage with Thay, he had suggested that I organise pilgrimages in the Buddha's footsteps every year. I joyfully accepted the challenge and at first was doing it once a year, but eventually turned this into my livelihood and have been leading this pilgrimage for more than 30 years now. 

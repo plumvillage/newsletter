@@ -11,8 +11,8 @@ body {
     padding: 0;
     counter-reset: chapternum figurenum ;
     font-family: "Gentium Book Plus", "Skolar Latin", "Skolar PE", "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
-    line-height: 16pt;
-    font-size: 12pt;
+    line-height: 14pt;
+    font-size: 11pt;
 }
 
 @page {
@@ -43,10 +43,11 @@ body {
     }
 }
 html:lang(en) .pagedjs_left_page .pagedjs_margin-bottom-left {
-    background: 7% 50%/25% no-repeat url('../../media/Calligraphy/Parallels EN p1 Harmony at home.jpg');
+    /* margin top size */
+    background: 7% 60%/20% no-repeat url('../../media/Calligraphy/Parallels EN p1 Harmony at home.jpg');
 }
 html:lang(vi) .pagedjs_left_page .pagedjs_margin-bottom-left {
-    background: 7% 50%/40% no-repeat url('../../media/Calligraphy/Parallels VI p1 Ngay Xuan Tren Hoa Duoi Thuan.jpg');
+    background: 7% 60%/20% no-repeat url('../../media/Calligraphy/Parallels VI p1 Ngay Xuan Tren Hoa Duoi Thuan.jpg');
 }
 
 @page:right {
@@ -60,10 +61,10 @@ html:lang(vi) .pagedjs_left_page .pagedjs_margin-bottom-left {
     }
 }
 html:lang(en) .pagedjs_right_page .pagedjs_margin-bottom-right {
-    background: 93% 50%/25% no-repeat url('../../media/Calligraphy/Parallels EN p2 Peace all around.jpg');
+    background: 93% 60%/20% no-repeat url('../../media/Calligraphy/Parallels EN p2 Peace all around.jpg');
 } 
 html:lang(vi) .pagedjs_right_page .pagedjs_margin-bottom-right {
-    background: 93% 50%/40% no-repeat url('../../media/Calligraphy/Parallels VI p2 Bon Mua Trong Am Ngoai Em.jpg');
+    background: 93% 60%/20% no-repeat url('../../media/Calligraphy/Parallels VI p2 Bon Mua Trong Am Ngoai Em.jpg');
 }
 
 .front-cover, .front-collage, .back-collage, .back-cover {
@@ -205,16 +206,17 @@ article .author {
     /* font-weight: bold; */
     font-size: 14pt;
     line-height: 16pt;
+    font-family: "Gentium Plus"; /* less bold */
     font-variant: small-caps;
     margin-bottom: 8mm;
 }
 
 h2 { /* section in article */
-    font-size: 13pt;
+    font-size: 12pt;
     font-weight: bold;
     color: var(--color-bark-dark);
     margin-left: 8pt; /* ~ text-indent on 2 lines*/
-    margin-top: 6pt;
+    margin-top: 17pt;
     margin-bottom: 5pt;
 }
 
@@ -224,6 +226,7 @@ html:lang(vi) article p {
 }
 html:lang(en) article p {
     text-align: left;
+    /* text-align: justify; */
 }
 
 article p {
@@ -239,8 +242,8 @@ article p, article blockquote {
 article p + p,
 /* since images float around text, paragraphs can be adjacent even when an image intersects them */
 article img + p:not(.image-label) {
-    margin-top: 6pt;
-    text-indent: 14pt;
+    margin-top: 17pt;
+    text-indent: 16pt;
 }
 
 article blockquote {
@@ -391,7 +394,7 @@ p.editors-preface::after {
 .last-article-element::after {
     /* https://en.wikipedia.org/wiki/Fleuron_(typography) */
     content: ' 🙢';
-    font-weight: bold;
+    /* font-weight: bold; */
     color: hsl(17, 36%, 15%);
 }
 

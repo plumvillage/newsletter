@@ -8,7 +8,7 @@ Image.concurrency = 4; // default is 10
 
 async function imageShortcode(src, optClasses) {
     // src: article/su-ong/ThayHeaderImg_whiteFadeout2.jpg
-    let reduce = true;
+    let processImages = true;
     const srcPath = "src/media/publish/";
     let srcFull = srcPath + src
     let destPath = "/media/";
@@ -52,14 +52,15 @@ async function imageShortcode(src, optClasses) {
     // getMetadata(srcFull)
 
     try {
-        if (reduce) {
+        if (processImages) {
             // can be async
             Image(srcFull, options)
-            // get metadata even the images are not fully generated
-            let metadata = Image.statsSync(srcFull, options);
-            data = metadata.jpeg[metadata.jpeg.length - 1];
-            destPath = destPath + "build/"
         }
+        // doesn’t generate any files, but will tell you where the asynchronously generated files will end up!
+        let metadata = Image.statsSync(srcFull, options);
+        data = metadata.jpeg[metadata.jpeg.length - 1];
+        destPath = destPath + "build/"
+        
         console.log("processing:", data.filename)
         
         /* data:

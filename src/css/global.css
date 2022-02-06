@@ -30,6 +30,12 @@
 
 @font-face {
     font-family: "Gentium Book Plus";
+    src: url("fonts/GentiumBookPlus-Regular.woff2") format("woff2"),
+    local("GentiumBookPlus-Regular");
+}
+
+@font-face {
+    font-family: "Gentium Book Plus";
     src: url("fonts/GentiumBookPlus-Bold.woff2") format("woff2"),
     local("GentiumBookPlus-Bold");
     font-weight: bold;
@@ -50,14 +56,12 @@
     font-style: italic;
 }
 
+
 @font-face {
-    font-family: "Gentium Book Plus";
-    src: url("fonts/GentiumBookPlus-Regular.woff2") format("woff2"),
-    local("GentiumBookPlus-Regular");
+    font-family: "Gentium Plus";
+    src: url("fonts/GentiumPlus-Regular.woff2") format("woff2");
 }
-
-
-/* @font-face {
+@font-face {
     font-family: "Gentium Plus";
     src: url("fonts/GentiumPlus-Bold.woff2") format("woff2");
     font-weight: bold;
@@ -73,10 +77,6 @@
     src: url("fonts/GentiumPlus-Italic.woff2") format("woff2");
     font-style: italic;
 }
-@font-face {
-    font-family: "Gentium Plus";
-    src: url("fonts/GentiumPlus-Regular.woff2") format("woff2");
-} */
 
 
 /* https://en.wikipedia.org/wiki/List_of_CJK_fonts#Regular_script
