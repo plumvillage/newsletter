@@ -79,8 +79,10 @@
 }
 
 
-/* https://en.wikipedia.org/wiki/List_of_CJK_fonts#Regular_script
-https://lingdata.org/archives/fonts.html
+
+
+/* 
+https://github.com/CatharsisFonts/Cormorant
 */
 
 @font-face {
@@ -148,10 +150,18 @@ https://lingdata.org/archives/fonts.html
     font-weight: 700;
     font-style: italic;
 }
+@font-face {
+    font-family: "CormorantSC-SemiBold";
+    src: url("fonts/CormorantSC-SemiBold.woff2") format("woff2");
+}
+
+
+
 
 
 /* each is 4 MiB */
-
+/* https://en.wikipedia.org/wiki/List_of_CJK_fonts#Regular_script
+https://lingdata.org/archives/fonts.html */
 
 /* @font-face {
     font-family: "Noto Serif TC";
@@ -184,6 +194,12 @@ span:lang(zh),
 blockquote:lang(zh) {
     font-family: "HK-Kai";
 }
+
+
+
+
+
+
 
 @font-face {
     font-family: "Open Sans";

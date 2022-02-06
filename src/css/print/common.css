@@ -10,9 +10,16 @@ body {
     margin: 0;
     padding: 0;
     counter-reset: chapternum figurenum ;
-    font-family: "Gentium Book Plus", "Skolar Latin", "Skolar PE", "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
+    font-family: "Gentium Book Plus", "Skolar Latin", "Skolar PE", serif;
     line-height: 14pt;
     font-size: 11pt;
+    /* https://software.sil.org/gentium/features/ */
+    font-feature-settings:
+    /* single-story 'a' and 'g' */
+    /* "ss01", */
+    /* Vietnamese-style diacritics */
+    "cv75"
+    ;
 }
 
 @page {
@@ -39,7 +46,6 @@ body {
         padding: 10pt 0 10pt 0;
         content: counter(page);
         font-size: 11pt;
-        font: "Cormorant Garamond";
     }
 }
 html:lang(en) .pagedjs_left_page .pagedjs_margin-bottom-left {
@@ -57,7 +63,6 @@ html:lang(vi) .pagedjs_left_page .pagedjs_margin-bottom-left {
         padding: 10pt 0 10pt 120pt;
         content: counter(page);
         font-size: 11pt;
-        font: "Cormorant Garamond";
     }
 }
 html:lang(en) .pagedjs_right_page .pagedjs_margin-bottom-right {
@@ -296,6 +301,32 @@ article blockquote:lang(zh) {
     line-height: 120%;
     margin-top: 9pt;
     margin-bottom: 9pt;
+}
+
+p.verse {
+    font-family: "Cormorant Garamond";
+    text-indent: 0pt;
+    margin-left: 6pt;
+    font-weight: 600;
+    font-style: italic;
+    font-size: 120%;
+    line-height: 120%;
+    font-feature-settings:
+    /* calligraphic forms */
+    "ss01",
+    /* swash italic Q */
+    "ss08",
+    /* discretionary ligatures */
+    "dlig"
+    ;
+}
+p.verse b {
+    font-family: "CormorantSC-SemiBold";
+    font-style: normal;
+    font-size: 110%;
+    line-height: 110%;
+    text-transform: lowercase;
+    /* font-variant: all-small-caps; */
 }
 
 /* 21st century*/
