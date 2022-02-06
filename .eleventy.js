@@ -8,7 +8,7 @@ const Image = require("@11ty/eleventy-img");
 
 async function imageShortcode(src, optClasses) {
     // src: article/su-ong/ThayHeaderImg_whiteFadeout2.jpg
-    let processImages = false;
+    let processImages = true;
     const srcPath = "src/media/publish/";
     let srcFull = srcPath + src
     let destPath = "/media/";
@@ -107,23 +107,20 @@ module.exports = function(eleventyConfig) {
 
     eleventyConfig.addPassthroughCopy("src/CNAME");
 
-    // Articles: https://docs.google.com/spreadsheets/d/1pC-qmOUWU6diB3jMjgpbRYse9seF1wOx_XF3gJBeTC4/edit#gid=0
-
-    // Create localized collections of articles
-    eleventyConfig.addCollection("articles_en", function(collection) {
-        var coll = collection.getFilteredByGlob("./src/en/articles/*.md")
-            // sort by file name ascending
-        coll.sort((a, b) => a.fileSlug.localeCompare(b.fileSlug))
-        return coll
-    });
-    eleventyConfig.addCollection("articles_vi",
+    let createSortedCollection = function(lang) {
+        eleventyConfig.addCollection(`articles_${lang}`,
         (collection) => collection
-        .getFilteredByGlob("./src/vi/articles/*.md")
+        .getFilteredByGlob(`./src/${lang}/articles/*.md`)
         .sort((a, b) => {
-            console.assert((articleOrder.vi.includes(a.fileSlug)), `Missing order for ${a.fileSlug}`);
-            return articleOrder.vi.indexOf(a.fileSlug) - articleOrder.vi.indexOf(b.fileSlug);
+            console.assert((articleOrder[lang].includes(a.fileSlug)), `Missing order for ${a.fileSlug}`);
+            return articleOrder[lang].indexOf(a.fileSlug) - articleOrder[lang].indexOf(b.fileSlug);
         })
     );
+    }
+    
+    // Articles: https://docs.google.com/spreadsheets/d/1pC-qmOUWU6diB3jMjgpbRYse9seF1wOx_XF3gJBeTC4/edit#gid=0
+    createSortedCollection("vi")
+    createSortedCollection("en")
 
     eleventyConfig.addNunjucksAsyncShortcode("image", imageShortcode);
     eleventyConfig.addLiquidShortcode("image", imageShortcode);
