@@ -30,7 +30,7 @@ Initially, the Vietnamese name for the council was *Ban Điều Hành*. But Brot
 
 Sơn Hạ (Foot of the Mountain Temple) was established around that time and Thay asked two elder bhikshus, Brothers Giác Viên and Thông Tạng, to lead the practice there with the support of Brother Ananda (from Laos) and myself. I felt the name *Executive Council* was not so appropriate because of the two senior teachers in. We can “take care” of the two elders, but how can we “manage” them? Besides, no one can manage others, they can only take care of themselves; caring for the people and caring for the work. For example, the phrase "current members take care of new members'' is much better than "current members manage new members”.
 
-{% image "article/brother-chan-phap-kham/1998-TangThanXomThuong-MuaHe_cut.jpg", "has-label" %}
+{% image "article/brother-chan-phap-kham/1998-TangThanXomThuong-MuaHe-cut.jpg", "has-label" %}
 <p class="image-label">Upper Hamlet Sangha, summer 1998</p>
 
 The CTC is based on the principle that members can contribute their talents and services to the sangha. The sangha is their playground. Apart from the practice, there are many people in the sangha with specialized skills in a variety of areas such as administration, information technology, cuisine, horticulture, journalism, etc. 
@@ -41,15 +41,15 @@ How the CTC runs and its relationship with the Dharma Teacher Council and the a
 
 Thay often compared the role of the abbot to that of the Queen of England. The Queen does not run the country, which is the role of the Prime Minister, but is loved and trusted by the people. Dharma Teachers can join different departments or committees to help the sangha and have the opportunity to be close to and to train the younger monastics. When the three branches of CTC, Dharma Teacher Council, and Abbot’s Office work with clear roles and responsibilities and mutually support each other in a spirit of harmony, the practices and activities in the sangha can flow very smoothly. 
 
-The basic model of the relationship between the CTC, the Dharma Teacher Council and the Abbot Office is shown below. The Bhikshu/Bhikshuni Council was like the parliament, making policies and bringing proposals for the whole sangha. It appointed the CTC and authorized CTC to carry out assigned tasks. 
+The basic model of the relationship between the CTC, the Dharma Teacher Council and the Abbot Office is shown below. The Bhikshu/Bhikshuni Council was like the parliament, making policies and bringing proposals for the whole sangha. It appointed the CTC and authorized CTC to carry out assigned tasks.
 
-{% image "article/brother-chan-phap-kham/PKhamDiagrams12.jpg" %}
+{% image "article/brother-chan-phap-kham/PKhamD1.jpg" %}
 
 In those days, there was a tendency to think that the young monastics in the CTC were appointed for training purposes. This led to the requirement that CTC decisions had to be approved by the two other councils. It created more work and took away CTC’s decision-making sovereignty. The three branches had already stated the issues that required joint decision and the CTC was authorized to carry out work that did not require further approval. The important thing was for the Bhikshu/Bhikshuni Council to appoint  responsible and skilled people to positions in the CTC. In principle, the CTC should know clearly what its responsibilities are, and who to consult when needed.
 
-{% image "article/brother-chan-phap-kham/PKhamDiagrams22.jpg" %}
-
 Thay mentioned the role of elder monks and nuns in the Council of Elders, which combines the traditions of seniority and democracy. Members of the Council of Elders were usually senior Dharma teachers. This Council’s role was to give advice on sangha affairs and help to resolve matters that need the virtue of the sangha, as the Buddha taught in the *Seven Methods of Ending A Dispute* and the *Seven Methods of Non-Regression*. If there were matters that needed immediate resolution and it was not possible to convene a Bhikshu/Bhikshuni meeting, representatives from the Council of Elders, the CTC and the abbot could consult with each other to make a decision. 
+
+{% image "article/brother-chan-phap-kham/PKhamD2.jpg" %}
 
 On one occasion, the Upper Hamlet was hosting a Thursday Day of Mindfulness. The weather was beautiful, so the CTC proposed to have a picnic lunch. Thay did not know about that decision because no one had come to ask him for permission. Thay asked the sangha to eat in the meditation hall as usual. In this case, the CTC could have done better. The schedule of mindfulness days was decided and fixed by all three hamlets. To make changes, it was necessary to first consult with the Dharma teachers, the abbot, and the CTC. If there was an agreement, then the next step would have been to ask for permission from Thay and if Thay agreed, then it could be changed. The CTC was (and still is) authorized to organize the day of mindfulness, but not to change the schedule.
 

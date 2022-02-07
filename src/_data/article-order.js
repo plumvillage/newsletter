@@ -11,12 +11,14 @@ module.exports = {
         //5
         "su-co-chan-hoa-nghiem--nep-xua",
         //6
-        "thay-chan-phap-dung--giac-mo-cua-thay",
+        "thay-chan-phap-dung--tieng-chuong-chanh-niem",
         //7
-        //8
+        //8 Thầy ôm các con vào lòng	Sc. Sùng N
+        // "su-co-sung-nghiem--thay-om-cac-vao-long",
         //9
         "thay-chan-phap-an--thap-len-ngon-nen",
-        //10
+        //10 Ngàn xưa hẹn trở về	Thầy Nguyên Tịnh 
+        // "thay-nguyen-tinh--ngan-xua-hen-tro-ve",
         //11
         "su-co-doan-nghiem--thuong-nhu-thay-thuong",
         //12
@@ -32,10 +34,12 @@ module.exports = {
         //18
         //19
         "su-co-chan-trang-bo-de--advent",
-        //20
-        "su-co-chan-duc--tro-ve-xom-ha",
+        //20 Thấy Thầy trong tăng thân	Sr. Chân Đức
+        // OLD: "su-co-chan-duc--tro-ve-xom-ha",
+        "su-co-chan-duc--thay-thay-trong-tang-than",
         //21
-        //22
+        //22 Niềm thương bình an	Sr. Tuyết N
+        // "su-co-tuyet-nghiem--niem-thuong-binh-an",
         //23
         "thay-chan-troi-dao-bi--da-co-duong-di-roi-con-khong-con-lo-so",
         //24
@@ -59,7 +63,8 @@ module.exports = {
         //36
         "thay-chan-phap-ung--con-ga-va-qua-trung",
         //37
-        //38
+        //38 Giấc mơ đại đồng	Chân Thu Lâm - Minh Hương
+        // "minh-huong--giac-mo-dai-dong",
         //39
         //40
         //41

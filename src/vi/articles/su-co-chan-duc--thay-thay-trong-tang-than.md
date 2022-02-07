@@ -1,5 +1,5 @@
 ﻿---
-title: Trở Về Xóm Hạ
+title: Thấy Thầy trong tăng thân
 author: Sư cô Chân Đức
 ---
 

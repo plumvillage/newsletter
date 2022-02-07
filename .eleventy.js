@@ -8,7 +8,8 @@ const Image = require("@11ty/eleventy-img");
 
 async function imageShortcode(src, optClasses) {
     // src: article/su-ong/ThayHeaderImg_whiteFadeout2.jpg
-    let processImages = true;
+    let processImages = false;
+    let dryRun = false;
     const srcPath = "src/media/publish/";
     let srcFull = srcPath + src
     let destPath = "/media/";
@@ -19,7 +20,7 @@ async function imageShortcode(src, optClasses) {
         formats: ["jpeg"], /* jpeg, png, webp, gif, tiff, avif */
         outputDir: `docs/media/build/${parsed.dir}`,
         widths: [2000],
-        dryRun: !processImages,
+        dryRun: dryRun,
         sharpOptions: {},
         // https://sharp.pixelplumbing.com/api-output#webp
         sharpWebpOptions: { quality: 50, },
@@ -53,7 +54,7 @@ async function imageShortcode(src, optClasses) {
     // getMetadata(srcFull)
 
     try {
-        // if (processImages) {
+        if (processImages) {
             // can be async
             let metadata = await Image(srcFull, options)
             
@@ -63,7 +64,7 @@ async function imageShortcode(src, optClasses) {
 
             data = metadata.jpeg[metadata.jpeg.length - 1];
             destPath = destPath + "build/"
-        // }
+        }
         
         console.log("processing:", data.filename)
         
@@ -92,6 +93,8 @@ async function imageShortcode(src, optClasses) {
     }
 }
 
+var articleTitleCalligraphies = fs.readdirSync(`./src/media/publish/Calligraphy/article-titles/`)
+console.log(articleTitleCalligraphies)
 
 module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("src/pagedjs");
@@ -107,16 +110,31 @@ module.exports = function(eleventyConfig) {
 
     eleventyConfig.addPassthroughCopy("src/CNAME");
 
+    // /media/Calligraphy/article-titles/sister-chan-tue-nghiem--safe-harbor.webp
+    // /media/Calligraphy/article-titles/sister-chan-tue-nghiem--safe-harbor.webp
+
     let createSortedCollection = function(lang) {
         eleventyConfig.addCollection(`articles_${lang}`,
-        (collection) => collection
-        .getFilteredByGlob(`./src/${lang}/articles/*.md`)
-        .sort((a, b) => {
-            console.assert((articleOrder[lang].includes(a.fileSlug)), `Missing order for ${a.fileSlug}`);
-            return articleOrder[lang].indexOf(a.fileSlug) - articleOrder[lang].indexOf(b.fileSlug);
+        (collection) => {
+            let newC = collection.getFilteredByGlob(`./src/${lang}/articles/*.md`)
+            .sort((a, b) => {
+                console.assert((articleOrder[lang].includes(a.fileSlug)), `Missing order for ${a.fileSlug}`);
+                return articleOrder[lang].indexOf(a.fileSlug) - articleOrder[lang].indexOf(b.fileSlug);
+            })
+
+            return newC
         })
-    );
     }
+
+    eleventyConfig.addNunjucksGlobal("articleCalligraphies", function(fileSlug) {
+        let e = {}
+        e.hasCalligraphy = articleTitleCalligraphies.includes(`${fileSlug}.webp`)
+        if (e.hasCalligraphy) {
+            console.log("found calligraphy for article: ", fileSlug)
+            e.calligraphyPath = `Calligraphy/article-titles/${fileSlug}.webp`
+        }
+        return e
+    });
     
     // Articles: https://docs.google.com/spreadsheets/d/1pC-qmOUWU6diB3jMjgpbRYse9seF1wOx_XF3gJBeTC4/edit#gid=0
     createSortedCollection("vi")

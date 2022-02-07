@@ -1,5 +1,5 @@
 ﻿---
-title: Giấc mơ của thầy
+title: Tiếng chuông chánh niệm
 author: Thầy Chân Pháp Dung
 ---
 

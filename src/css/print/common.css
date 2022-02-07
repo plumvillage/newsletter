@@ -253,9 +253,13 @@ article img + p:not(.image-label) {
     text-indent: 16pt;
 }
 
-article p:first-child { /* first element on new page */
+/* does not work ... pagedjs has a way to connect articles */
+article > p:nth-of-type(1) { /* first direct element on new page */
     margin-top: 0;
     text-indent: 0;
+}
+article > h2:nth-of-type(1) { /* first direct element on new page */
+    margin-top: 0;
 }
 
 article blockquote {
