@@ -121,6 +121,7 @@ module.exports = {
         "sister-chan-trang-tam-muoi--no-escape-retreat",
         "sister-chan-tue-nghiem--safe-harbor",
         "sister-chan-tu-nghiem--poems",
+        "sister-chan-trang-mai-thon--collecting-gum-nuts",
         //2
         //3
         //4
