@@ -65,14 +65,14 @@ Thức dậy, con thấy đời sống là một giấc mơ. Và được gặp 
 
 Con nhớ ngày xưa khi con đi theo Thầy về Hàn Quốc hay Trung Quốc, có khi Thầy trò có cơ hội thăm các bản kinh nơi các chùa cổ và hai lần Thầy đã chỉ cho con một bài kệ trong *kinh Kim Cương* được khắc trên bản gỗ:
 
-> *Nhược dĩ sắc kiến ngã*<br/>
-> *Dĩ âm thanh cầu ngã*<br/>
-> *Thị nhân hành tà đạo*<br/>
+> *Nhược dĩ sắc kiến ngã*  
+> *Dĩ âm thanh cầu ngã*  
+> *Thị nhân hành tà đạo*  
 > *Bất năng kiến Như Lai*
-
-> (Tìm ta qua hình sắc<br/>
-> Cầu ta qua âm thanh<br/>
-> Là kẻ hành tà đạo<br/>
+> 
+> (Tìm ta qua hình sắc  
+> Cầu ta qua âm thanh  
+> Là kẻ hành tà đạo  
 > Không thấy được Như Lai)
 
 Bạch Thầy, trước khi Thầy thị hiện bệnh và sau khi Thầy thị hiện bệnh, con đã không thực sự thấy Thầy, nhưng khi con thấy tăng thân đẹp như vậy thì con đã bắt đầu thấy Thầy.

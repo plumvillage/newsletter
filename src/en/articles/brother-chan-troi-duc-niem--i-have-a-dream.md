@@ -59,7 +59,7 @@ I see that I am able to live this dream here every day. We are so lucky that we 
 
 This is our hope and prayer:
 
-> *“Let the bells of freedom, mindfulness, peace, and awakening ring in every being across the universe.*<br/>
-> *Let the bells of awakening, compassion, and climate justice ring from every temple, church, mosque and synagogue, because people of faith have the power to wake people up.*<br/>
-> *Let the bells of awakening, strength and wisdom ring in the minds and hearts of the young generations, because they feel the urgency keenly and have the most determination, imagination and fierceness to stand up for a green, just, and regenerative world.*<br/>
+> *“Let the bells of freedom, mindfulness, peace, and awakening ring in every being across the universe.*  
+> *Let the bells of awakening, compassion, and climate justice ring from every temple, church, mosque and synagogue, because people of faith have the power to wake people up.*  
+> *Let the bells of awakening, strength and wisdom ring in the minds and hearts of the young generations, because they feel the urgency keenly and have the most determination, imagination and fierceness to stand up for a green, just, and regenerative world.*  
 > *Let the bells of awakening, freedom, and love ring in the hearts of every being so that the symphonic harmony, strength and beauty of the bells touch their hearts deeply and a collective global awakening will manifest widely and powerfully at last.”*

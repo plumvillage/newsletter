@@ -49,48 +49,48 @@ Since our initial encounter, there have been many more events, and there will be
 
 Dear Plum Village, here is the little poem I shared about earlier, which has helped a heart to heal and to grow. It was born in French and then translated into English, because ithe lives in an international Sangha. 
 
-> The Sangha is as vast as the ocean<br/>
-> High as a mountain<br/>
-> Free as the unobstructed sky<br/>
-> The Sangha is a festival of stars<br/>
-> A full moon brightening the night <br/>
-> A deep, ancient forest <br/>
-> The Sangha is protected by a spiritual stream<br/>
-> Within her, all that occurs is a mirror<br/>
-> Which gently unveils our minds<br/>
-> The Sangha is a path to awakening <br/>
-> Each pebble invites us to takemake a step<br/>
-> That bringstakes us to the heart of our being<br/>
-> The Sangha is made of laughter and cries<br/>
-> Because the Sangha is made of human beings<br/>
-> Tears purify the heart <br/>
-> The Sangha is the teacher<br/>
-> Teaching me resilience,<br/>
-> Inner strength, acceptance,<br/>
-> Openness and love<br/>
-> The Sangha is the sea that collects my tears<br/>
-> The Sangha is the valley which echoes my laughter<br/>
-> The Sangha makes me discover that I love what is difficult, because what is difficult makes me grow and frees me<br/>
-> The Sangha teaches me that Manas, that emotions and hurts<br/>
-> Are not my true mind<br/>
-> The Sangha teaches me to stop, to breathe and to smile<br/>
-> The Sangha teaches me to love my inner child<br/>
-> Wounded and shy, she suddenly jumps up and runs to join a festival of joy<br/>
-> Loved among her sisters<br/>
-> Manas and my inner child walk hand in hand<br/>
-> Sometimes, I let myself be a child even if then I am also Manas, I am not afraid<br/>
-> Because the Sangha is both gentle and sharp, seeing straight to into the heart <br/>
-> The Sangha teaches me silence and the Sangha teaches me laughter and joy<br/>
-> The Sangha teaches me to be happy and to suffer<br/>
-> The Sangha teaches me that my body and mind are not separate from the energy of the Sangha<br/>
-> The Sangha lives in my heart, in my body, my breath<br/>
-> The Sangha thinks in me and dreams there<br/>
-> The Sangha eats, drinks, falls asleep and awakes<br/>
-> She carries me on the ocean of life<br/>
-> She is the source of my balance, my joy, my energy<br/>
-> Without her, I cannot say what would manifest in me -how could I know?<br/>
-> This poem is also the Sangha<br/>
-> As well as each of my thoughts, my actions and my words<br/>
+> The Sangha is as vast as the ocean  
+> High as a mountain  
+> Free as the unobstructed sky  
+> The Sangha is a festival of stars  
+> A full moon brightening the night   
+> A deep, ancient forest   
+> The Sangha is protected by a spiritual stream  
+> Within her, all that occurs is a mirror  
+> Which gently unveils our minds  
+> The Sangha is a path to awakening   
+> Each pebble invites us to takemake a step  
+> That bringstakes us to the heart of our being  
+> The Sangha is made of laughter and cries  
+> Because the Sangha is made of human beings  
+> Tears purify the heart   
+> The Sangha is the teacher  
+> Teaching me resilience,  
+> Inner strength, acceptance,  
+> Openness and love  
+> The Sangha is the sea that collects my tears  
+> The Sangha is the valley which echoes my laughter  
+> The Sangha makes me discover that I love what is difficult, because what is difficult makes me grow and frees me  
+> The Sangha teaches me that Manas, that emotions and hurts  
+> Are not my true mind  
+> The Sangha teaches me to stop, to breathe and to smile  
+> The Sangha teaches me to love my inner child  
+> Wounded and shy, she suddenly jumps up and runs to join a festival of joy  
+> Loved among her sisters  
+> Manas and my inner child walk hand in hand  
+> Sometimes, I let myself be a child even if then I am also Manas, I am not afraid  
+> Because the Sangha is both gentle and sharp, seeing straight to into the heart   
+> The Sangha teaches me silence and the Sangha teaches me laughter and joy  
+> The Sangha teaches me to be happy and to suffer  
+> The Sangha teaches me that my body and mind are not separate from the energy of the Sangha  
+> The Sangha lives in my heart, in my body, my breath  
+> The Sangha thinks in me and dreams there  
+> The Sangha eats, drinks, falls asleep and awakes  
+> She carries me on the ocean of life  
+> She is the source of my balance, my joy, my energy  
+> Without her, I cannot say what would manifest in me -how could I know?  
+> This poem is also the Sangha  
+> As well as each of my thoughts, my actions and my words  
 > Today, I cried the tears of the Sangha so that gently, my heart in the heart of the Sangha becomes freer.
 
 With love, gratitude and respect

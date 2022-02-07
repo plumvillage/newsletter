@@ -239,14 +239,11 @@ html:lang(en) article p {
     /* text-align: justify; */
 }
 
-article p {
+article p, article blockquote {
+    /* DEFAULT. To be refined below ... */
+    margin: 0;
     orphans: 2;
     widows: 2;
-}
-
-article p, article blockquote {
-/* DEFAULT. To be refined below ... */
-    margin: 0;
 }
 
 article p + p,
@@ -508,7 +505,7 @@ img#articlerichard-bradyR-and-KJ-at-Centro-Avalokita-2015,
 img#articlesister-chan-thao-nghiemCCI0224201600039,
 img#articlesister-chan-chuan-nghiemSc-Chuan-N-3,img#articledr-elli-weisbaumScientific-Day-Poster-Presentation-at-The-University-of-Toronto-20182
 ,img#articlebrother-chan-phap-linhIMG0436crop
-,img#articlebrother-chan-minh-hyT-Minh-Hy-2-edited
+,img#articlebrother-chan-minh-hyDSC3796-edit
 ,img#articlebrother-chan-phap-linhCS21202110152RL0936-crop3
 ,img#articlebrother-chan-phap-dungbai-T-Phap-Dung-4
 {
@@ -593,19 +590,19 @@ img#articlebrother-chan-phap-dungbai-T-Phap-Dung-4 {
 }
 
 
-img#articlebrother-chan-minh-hyT-Minh-Hy-2-edited {
+img#articlebrother-chan-minh-hyDSC3796-edit {
     bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + 96mm) * -1);
     mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%,rgba(0,0,0,1.00) 20%);
     -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%,rgba(0,0,0,1.00) 20%);
 }
-.PAGE-OF-articlebrother-chan-minh-hyT-Minh-Hy-2-edited .pagedjs_page_content {
+.PAGE-OF-articlebrother-chan-minh-hyDSC3796-edit .pagedjs_page_content {
     height: calc(100% - var(--pagedjs-footnotes-height) - 96mm) !important;
 }
 
 .PAGE-OF-articlerichard-bradyR-and-KJ-at-Centro-Avalokita-2015 .pagedjs_margin-bottom,
 .PAGE-OF-articlesister-chan-thao-nghiemCCI0224201600039 .pagedjs_margin-bottom,
 .PAGE-OF-articlesister-chan-chuan-nghiemSc-Chuan-N-3 .pagedjs_margin-bottom, .PAGE-OF-articledr-elli-weisbaumScientific-Day-Poster-Presentation-at-The-University-of-Toronto-20182 .pagedjs_margin-bottom
-,.PAGE-OF-articlebrother-chan-minh-hyT-Minh-Hy-2-edited .pagedjs_margin-bottom
+,.PAGE-OF-articlebrother-chan-minh-hyDSC3796-edit .pagedjs_margin-bottom
 ,.PAGE-OF-articlebrother-chan-phap-linhCS21202110152RL0936-crop3 .pagedjs_margin-bottom
 ,.PAGE-OF-articlebrother-chan-phap-linhIMG0436crop .pagedjs_margin-bottom
 ,.PAGE-OF-articlebrother-chan-phap-dungbai-T-Phap-Dung-4 .pagedjs_margin-bottom

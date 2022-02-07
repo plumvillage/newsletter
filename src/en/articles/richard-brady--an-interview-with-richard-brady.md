@@ -31,9 +31,9 @@ The students were prepared to just notice things as they appeared. I asked them 
 
 If many negative things are happening in your mind, it might be kind of a downer to be paying attention to them unless you can do something about it. So I said, “There is something you can do about it!” and together we all did this short guided Plum Village meditation:
 
-> Breathing in, I see myself as a flower,<br/>
-> Breathing out, I feel fresh.<br/>
-> Breathing in, I see myself as a mountain,<br/>
+> Breathing in, I see myself as a flower,  
+> Breathing out, I feel fresh.  
+> Breathing in, I see myself as a mountain,  
 > Breathing out, I feel solid…
 
 The idea that their minds were having a powerful influence on their lives was planted and also that there was something they could do to make their minds more hospitable and positive.

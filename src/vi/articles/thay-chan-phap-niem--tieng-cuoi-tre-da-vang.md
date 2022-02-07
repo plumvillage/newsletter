@@ -17,33 +17,33 @@ Trong quá trình tìm thầy học đạo, theo tôi được biết, thầy l�
 
 Thầy bôn ba khắp nơi tìm thầy học đạo. Một hôm đi Canada thăm gia đình, thầy gặp lại Sư Ông trong một khóa tu tổ chức tại Làng Cây Phong, Montreal. Mùa thu ở vùng Bắc Mỹ luôn rực rỡ sắc màu, đẹp không lời nào tả được, chỉ có thể im lặng mà thưởng thức, mà tận hưởng thôi. Trong buổi thiền hành, Sư Ông và đại chúng dừng lại, ngồi trên cỏ, ngắm mùa thu, uống trà. Thầy Giác Thanh ngồi bên cạnh Sư Ông. Trong cái thực tại mầu nhiệm ấy, Sư Ông đã chỉ tay vào rừng thu đang phô bày rạng rỡ rồi nói với thầy Giác Thanh: “Thầy Giác Thanh, cái mà thầy bôn ba tìm kiếm lâu nay, nó đang nằm sờ sờ đó kìa! Nó đó kìa! This is it!” Lời khai thị, chỉ điểm đó đã như giọt nước cuối cùng công phá khiến nước tràn ly, tạo nên một sự toang mở và tháo tung trong tâm thầy, chạm tới được cái trạng thái kỳ diệu, cởi trói và giải thoát trong tâm thức. Niềm hạnh phúc của sự nếm trải tự do trào dâng. Có lẽ cảm giác hạnh phúc vô tận đó chỉ có thầy mới cảm nhận được rõ ràng. Thầy đã thực sự chấm dứt sự bôn ba tìm cầu và ở lại nương tựa Sư Ông cho tới khi viên tịch. Từ mùa thu năm đó, mỗi khi tưởng nhớ đến thầy Giác Thanh, các sư em của thầy luôn hát *Một lá ngô đồng rơi,* bài hát mà thầy rất thích:
 
-> Một lá ngô đồng rơi<br/>
-> Có hay chăng người ơi<br/>
-> Một lá ngô đồng rơi<br/>
-> Thu đẹp đã về rồi.<br/>
-> Ngàn chiếc lá còn rơi<br/>
-> Đỏ au hay vàng tươi<br/>
-> Ngàn chiếc lá rơi rơi<br/>
+> Một lá ngô đồng rơi  
+> Có hay chăng người ơi  
+> Một lá ngô đồng rơi  
+> Thu đẹp đã về rồi.  
+> Ngàn chiếc lá còn rơi  
+> Đỏ au hay vàng tươi  
+> Ngàn chiếc lá rơi rơi  
 > Bay vèo ngập cả trời…
 
 Sư Ông cũng làm câu đối này tặng thầy sau khi thầy viên tịch:
 
-> Một lá ngô đồng rơi, người vẫn cùng ta leo đồi thế kỷ<br/>
+> Một lá ngô đồng rơi, người vẫn cùng ta leo đồi thế kỷ  
 > Ngàn hoa thủy tiên hé, đất cứ theo trời hát khúc vô sinh
 
 Trong những năm gần gũi học hỏi, uống trà với thầy, thầy có kể rằng trước khi tới Làng Mai, thầy có một giấc mơ. Khi đang nằm ngủ trên giường, thầy thấy có một bà lão đứng dưới chân giường nhìn thầy với ánh mắt hiền lành, rất từ bi, rất sáng và nói: “Về thôi con!” Sau này gặp được Sư Ông, thầy thấy bà lão trong giấc mơ đó hao hao giống Sư Ông lắm. Thầy khẳng định bà lão đó không ai khác chính là Sư Ông. Cũng chính những nhân duyên như thế mà trong lòng thầy luôn kính và thương quý Sư Ông một cách vừa kín đáo vừa dễ thương vô cùng.
 
 Câu chuyện giác ngộ khi ngắm mùa thu rực rỡ ấy có lẽ khiến chúng ta nhớ lại câu chuyện của thiền sư Linh Vân Chí Cần. Trong một sáng thức dậy, nhìn thấy hoa đào nở, bỗng nhiên thiền sư giác ngộ, bao nhiêu mối nghi hoặc trong lòng được tháo gỡ xuống, và chạm tới được cái *như nhiên* của sự sống, của bản thân mình. Ngài đã bỏ ra tới ba mươi năm để tìm *trang kiếm khách,* tức là khám phá cho ra cái bản lai diện mục, cái con người đích thực của mình. Hoa đào nở, và thiền sư thấy.
 
-> Tam thập niên lai tầm kiếm khách<br/>
-> Kỷ hồi lạc diệp hựu trừu chi<br/>
-> Tự tòng nhất kiến đào hoa hậu<br/>
+> Tam thập niên lai tầm kiếm khách  
+> Kỷ hồi lạc diệp hựu trừu chi  
+> Tự tòng nhất kiến đào hoa hậu  
 > Trực đáo như kim cánh bất  nghi
 
-> (Ba mươi năm tìm trang kiếm khách<br/>
-> Bao phen lá rụng lại đâm chồi<br/>
-> Từ khi nhìn thấy hoa đào nở<br/>
-> Đến nay tin chắc chẳng còn nghi)<br/>
+> (Ba mươi năm tìm trang kiếm khách  
+> Bao phen lá rụng lại đâm chồi  
+> Từ khi nhìn thấy hoa đào nở  
+> Đến nay tin chắc chẳng còn nghi)  
 > (Hòa thượng Thích Thanh Từ dịch)
 
 ## Mặc áo giải thoát
@@ -52,21 +52,21 @@ Có một thời gian khá dài thầy “không đắp y”. Vào các buổi t
 
 Cố Hòa thượng Mãn Giác, là huynh đệ, là bạn thâm giao của Sư Ông, có làm bài thơ *Đạt đạo*:
 
-> “Qua thiền môn: thấy trời xanh<br/>
-> Kim Cang kinh tụng chân thành từng trang<br/>
-> Khói hương quyện cảnh mơ màng<br/>
-> Hư không là chiếc y vàng quấn thân<br/>
-> Thiền Môn xưa sạch phong trần<br/>
-> Kim Cang kinh khép trầm luân thoát rồi<br/>
-> Ta từ sinh tử về chơi<br/>
-> Ngồi trên chót đỉnh mỉm cười với trăng<br/>
-> Thân ta là giải đất bằng<br/>
-> Tâm ta là nước sông Hằng mênh mông<br/>
-> Tình ta là đóa hoa hồng<br/>
-> Ý ta là cả cánh đồng tâm linh<br/>
-> Còn đâu nữa Kim Cang kinh<br/>
-> Thiền Môn biến mất mà mình vô ngôn<br/>
-> Bình minh về ngập hoàng hôn<br/>
+> “Qua thiền môn: thấy trời xanh  
+> Kim Cang kinh tụng chân thành từng trang  
+> Khói hương quyện cảnh mơ màng  
+> Hư không là chiếc y vàng quấn thân  
+> Thiền Môn xưa sạch phong trần  
+> Kim Cang kinh khép trầm luân thoát rồi  
+> Ta từ sinh tử về chơi  
+> Ngồi trên chót đỉnh mỉm cười với trăng  
+> Thân ta là giải đất bằng  
+> Tâm ta là nước sông Hằng mênh mông  
+> Tình ta là đóa hoa hồng  
+> Ý ta là cả cánh đồng tâm linh  
+> Còn đâu nữa Kim Cang kinh  
+> Thiền Môn biến mất mà mình vô ngôn  
+> Bình minh về ngập hoàng hôn  
 > Cười lên một tiếng tỉnh hồn ngàn năm”
 
 Có lẽ bài thơ *Đạt đạo* này đã nói lên tất cả tâm tư của con người giải thoát trong thầy. Thầy đã vượt ra khỏi cái tướng giả tạo và thể nhập vào thực tại vô tướng mà chỉ có thầy mới cảm nhận sâu sắc về nó. Sư Ông hiểu được thầy. Tuy trên hình tướng thầy đã không đắp y, nhưng trong nội dung, trong lòng của một người đã đạt tới thực tại vô tướng thì thầy vẫn luôn đắp y. Thầy đã đắp y giải thoát, mặc áo giải thoát và ai có thể thấy biết được điều đó? Chính thầy và Sư Ông. 
@@ -93,9 +93,9 @@ Năm 2001, trong khi Sư Ông và tăng thân đang hoằng pháp ở Trung Qu�
 
 Ở tu viện Lộc Uyển, trên sườn núi, có dựng ngôi tháp để tưởng nhớ thầy. Lòng tháp khắc bài thơ Sư Ông viết truy tán thầy:
 
-> Trượng phu tiếng đã biết<br/>
-> Việc đáng làm đã làm<br/>
-> Tháp vừa dựng sườn núi<br/>
+> Trượng phu tiếng đã biết  
+> Việc đáng làm đã làm  
+> Tháp vừa dựng sườn núi  
 > Tiếng cười trẻ đã vang
 
 Thầy đúng là một bậc anh hùng, một trượng phu. Và việc đáng làm nhất của người tu thầy đã thực hiện được, đó là sự nghiệp giác ngộ. Ngôi tháp mà giờ đây chúng con đang được thừa hưởng đã được thầy dựng lên không phải bằng đá mà bằng chính chất liệu giải thoát, giác ngộ, bất động, tự tại. Ngôi tháp đó cũng là tăng thân của thầy. Trong nhiều năm qua, từ khi thầy thị tịch, đã có nhiều bạn trẻ người Việt cũng như người Mỹ đến tu tập và xuất gia tại Lộc Uyển. Tất cả đều là sự tiếp nối của thầy. Tiếng cười hồn nhiên, an vui, tự tại và giải thoát vẫn luôn vang vọng giữa đất trời bao la vô tận này. 

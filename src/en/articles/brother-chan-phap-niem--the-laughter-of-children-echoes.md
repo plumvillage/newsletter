@@ -23,13 +23,13 @@ While searching for a teacher, as far as I know, Br. Giác Thanh was keen to lea
 
 Br. Giác Thanh was searching for a teacher. One day while visiting family in Canada, he met Thầy at a retreat in Maple Village, Montreal, Canada. Autumn in North America with its brilliant colours is always magnificent beyond words. One can only be silent and enjoy it, fully enjoy it. During one walking meditation, Thầy and the sangha stopped, sat down on the grass to bathe in the Fall colours, and drank tea. Br. Giác Thanh sat next to Thầy. Amidst that wondrous reality Thầy pointed at the radiant Autumn forest and said: “Br. Giác Thanh, that which you have been searching for so long is right there! There it is! This is it!” Those instructive words were the last drop of water leading to an overflow, creating an opening, a loosening in Br. Giác Thanh’s mind, reaching a wonderful state of freedom. The happiness of that taste of freedom was immense. Perhaps only he could feel it clearly and no one else can possibly describe it. From then on, he truly stopped searching. He took refuge in Thầy as his teacher until he passed away. Since that Autumn, whenever the younger ones thought of Br. Giác Thanh, we couldn’t help but sing *“One maple leaf falls”* as an offering to him. He really liked that song.  
 
-> One maple leaf falls<br/>
-> My dear, do you hear it?<br/>
-> One maple leaf falls<br/>
-> Autumn returns with its beauty.<br/>
-> A thousand leaves are falling<br/>
-> Amber, crimson, gold<br/>
-> A thousand leaves are falling<br/>
+> One maple leaf falls  
+> My dear, do you hear it?  
+> One maple leaf falls  
+> Autumn returns with its beauty.  
+> A thousand leaves are falling  
+> Amber, crimson, gold  
+> A thousand leaves are falling  
 > Soaring across the sky.
 
 During the years of learning from him and drinking tea by his side, I heard from Br. Giác Thanh that before coming to Plum Village, he had a dream. In it, he was lying down and saw an old woman by the foot of his bed. She looked at him with very gentle, kind, and bright eyes, and said: “Come home my child”. Later when he met Thầy, he saw that the old woman in the dream looked very much like Thầy, and he was certain that she was no other than Thầy. It is precisely due to these predestined conditions that Br. Giác Thanh always held Thầy in his heart with much respect and love, in a quiet and infinitely lovely way. 
@@ -41,14 +41,15 @@ The story of awakening while viewing the Autumn splendor may remind us of the st
 自从一见桃花后</br>
 直至如今更不疑</blockquote>
 
-> For thirty years I've sought the swordsman 
-> Many times the leaves have fallen to sprout anew.
-> Following one glance at a peach blossom,
+> For thirty years I've sought the swordsman  
+> Many times the leaves have fallen to sprout anew.  
+> Following one glance at a peach blossom,  
 > I no longer have any more doubts.<span class="note">Translated by Andy Ferguson. In: Zen's Chinese Heritage: The Masters and Their Teachings, Wisdom Publications, 2000, pp. 183-184.</span>
 
 Thầy offered a pair of parallel verses to Br. Giác Thanh when he passed away: 
 
-> One maple leaf has fallen down, and yet you continue to climb the hill of the 21<sup>st</sup> century with us.<br/>Thousands of daffodils are beginning to bloom and the earth continues to be with the sky, singing the song of no-birth and no-death.
+> One maple leaf has fallen down, and yet you continue to climb the hill of the 21<sup>st</sup> century with us.  
+> Thousands of daffodils are beginning to bloom and the earth continues to be with the sky, singing the song of no-birth and no-death.
 
 ## Putting on the Robe of Freedom
 

@@ -23,10 +23,10 @@ Mình cần tập nhìn như thế. Mỗi bước chân đi, mỗi hơi thở, m
 
 Cơm và rau luộc đã trở thành những thứ bình thường có thể do cách mình ăn. Nó đặc biệt thật đó nhưng mình chưa một lần cảm nhận được “hạt cơm là hạt ngọc của trời”. Nếu có một lần mình nâng bát cơm lên, cho phép mình nhìn vào bát cơm với sự trân quý thì lòng biết ơn và hạnh phúc sẽ có mặt ngay trong giây phút ấy. Hạnh phúc sẽ đến rất mau, chỉ trong một hơi thở. Mình sẽ mỉm cười và thấy mình thật may mắn.
 
-> “Vạn vật tranh sống<br/>
-> Trên trái đất này<br/>
-> Nguyện cho tất cả<br/>
-> Có bát cơm đầy.”
+> Vạn vật tranh sống  
+> Trên trái đất này  
+> Nguyện cho tất cả  
+> Có bát cơm đầy.
 
 Vậy đó, có những thứ rất quen mà không bao giờ cũ. Mỗi bước chân đi, mỗi hơi thở vào ra, mỗi bát cơm mình ăn mỗi ngày sẽ là những bữa tiệc nếu mình có lòng trân quý. 
 

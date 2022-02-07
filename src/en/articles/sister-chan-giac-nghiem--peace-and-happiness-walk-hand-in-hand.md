@@ -35,10 +35,10 @@ From then on, all the mindfulness practices I applied while working in the hospi
 
 Every day we had some working meditation with the Sangha. At that time, Thay printed his teachings and then placed the sheets of the future book on a table. With mindfulness, we walked slowly around the table, collecting the sheets one by one, following our breathing and our steps, before placing at the end of the table the reunited sheets awaiting to be turned into a book. Then we started again, with smiling faces, to give birth to the next book.
 
-> “With one step I breathe in, I take a sheet of paper,<br/>
-> With one step I breathe out, I smile.<br/>
-> With one step I breathe in, a book will be born<br/>
-> With one step I breathe out, I smile. …”
+> With one step I breathe in, I take a sheet of paper,  
+> With one step I breathe out, I smile.  
+> With one step I breathe in, a book will be born  
+> With one step I breathe out, I smile.…
 
 This is an amazing experience from my early practice. I really enjoyed working meditation with the community. Everyone participated, including Thay. One morning a young woman came up to me and asked me to cut some bread “in mindfulness”, she added seriously.
 
@@ -46,13 +46,13 @@ This is an amazing experience from my early practice. I really enjoyed working m
 
 Huge doubts arose in me… With this on-going question : '*What does it mean to cut bread in mindfulness*?' The lady came back a while later, nothing had happened… She kindly liberated me from my frozen state of mind. When the intellect dominates, doubt appears…
 
-> Plum Village is full of fond memories.<br/>
-> Teaching<br/>
-> Sitting in Peace,<br/>
-> At the feet of Thây,<br/>
-> In the shade of the great venerable oaks<br/>
-> In Lower Hamlet.<br/>
-> Brown heads, blond heads,<br/>
-> Turned towards its light,<br/>
-> The Nectar of Dharma<br/>
+> Plum Village is full of fond memories.  
+> Teaching  
+> Sitting in Peace,  
+> At the feet of Thây,  
+> In the shade of the great venerable oaks  
+> In Lower Hamlet.  
+> Brown heads, blond heads,  
+> Turned towards its light,  
+> The Nectar of Dharma  
 > Trickles down. 
