@@ -18,11 +18,12 @@
 
     {%- for article in articles -%}
         <article class="article-{{ article.data.title | slugify }}">
-            <h1 id="{{ article.data.title | slugify }}" class="chapter">
             {% set artCall = articleCalligraphies(article.fileSlug) %}
             {%- if artCall.hasCalligraphy %}
-                {% image artCall.calligraphyPath %}
+                <h1 id="{{ article.data.title | slugify }}" class="chapter calligraphyTitle">
+                {% image artCall.calligraphyPath, "articleCalligraphy" %}
             {%- else %}
+                <h1 id="{{ article.data.title | slugify }}" class="chapter">
                 {{ article.data.title }}
             {%- endif %}
             </h1>

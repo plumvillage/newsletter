@@ -5,6 +5,7 @@ const slugify = require('slugify')
 const sharp = require("sharp");
 const Image = require("@11ty/eleventy-img");
 // Image.concurrency = 4; // default is 10
+var articleTitleCalligraphies = fs.readdirSync(`./src/media/publish/Calligraphy/article-titles/`)
 
 async function imageShortcode(src, optClasses) {
     // src: article/su-ong/ThayHeaderImg_whiteFadeout2.jpg
@@ -93,9 +94,6 @@ async function imageShortcode(src, optClasses) {
     }
 }
 
-var articleTitleCalligraphies = fs.readdirSync(`./src/media/publish/Calligraphy/article-titles/`)
-console.log(articleTitleCalligraphies)
-
 module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("src/pagedjs");
 
@@ -110,22 +108,22 @@ module.exports = function(eleventyConfig) {
 
     eleventyConfig.addPassthroughCopy("src/CNAME");
 
-    // /media/Calligraphy/article-titles/sister-chan-tue-nghiem--safe-harbor.webp
-    // /media/Calligraphy/article-titles/sister-chan-tue-nghiem--safe-harbor.webp
-
     let createSortedCollection = function(lang) {
         eleventyConfig.addCollection(`articles_${lang}`,
-        (collection) => {
-            let newC = collection.getFilteredByGlob(`./src/${lang}/articles/*.md`)
+        (collection) => collection
+            .getFilteredByGlob(`./src/${lang}/articles/*.md`)
             .sort((a, b) => {
                 console.assert((articleOrder[lang].includes(a.fileSlug)), `Missing order for ${a.fileSlug}`);
                 return articleOrder[lang].indexOf(a.fileSlug) - articleOrder[lang].indexOf(b.fileSlug);
             })
-
-            return newC
-        })
+        )
     }
-
+    
+    // Articles: https://docs.google.com/spreadsheets/d/1pC-qmOUWU6diB3jMjgpbRYse9seF1wOx_XF3gJBeTC4/edit#gid=0
+    createSortedCollection("vi")
+    createSortedCollection("en")
+    
+    // https://www.11ty.dev/docs/languages/nunjucks/#generic-global
     eleventyConfig.addNunjucksGlobal("articleCalligraphies", function(fileSlug) {
         let e = {}
         e.hasCalligraphy = articleTitleCalligraphies.includes(`${fileSlug}.webp`)
@@ -135,10 +133,6 @@ module.exports = function(eleventyConfig) {
         }
         return e
     });
-    
-    // Articles: https://docs.google.com/spreadsheets/d/1pC-qmOUWU6diB3jMjgpbRYse9seF1wOx_XF3gJBeTC4/edit#gid=0
-    createSortedCollection("vi")
-    createSortedCollection("en")
 
     eleventyConfig.addNunjucksAsyncShortcode("image", imageShortcode);
     eleventyConfig.addLiquidShortcode("image", imageShortcode);

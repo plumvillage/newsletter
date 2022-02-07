@@ -194,7 +194,8 @@ h1, article .author {
     color: var(--color-bark-dark);
 }
 
-h1 { /* title */
+ /* title */
+h1 {
     font-family: "Cormorant Garamond";
     font-weight: bold;
     font-size: 32pt;
@@ -204,6 +205,14 @@ h1 { /* title */
     /* font-style: italic; */
     /* changes how numbers look like */
     font-feature-settings: 'lnum';
+}
+h1.calligraphyTitle {
+    margin-top: -3mm;
+    margin-bottom: -8mm;
+}
+h1.calligraphyTitle img {
+    max-height: 30mm;
+    max-width: 100%;
 }
 
 h2 { /* section in article */
@@ -248,7 +257,7 @@ article p, article blockquote {
 
 article p + p,
 /* since images float around text, paragraphs can be adjacent even when an image intersects them */
-article img + p:not(.image-label) {
+article img:not(.articleCalligraphy) + p:not(.image-label) {
     margin-top: 14pt;
     text-indent: 16pt;
 }
@@ -368,7 +377,7 @@ article span.color {
     color: var(--color-tower-dark);
 }
 
-article img {
+article img:not(.articleCalligraphy) {
     display: block; /* block eliminates remaining space between image and label*/
     float: right; /* makes paragraph text float/break around it */
     max-width: 100%;
