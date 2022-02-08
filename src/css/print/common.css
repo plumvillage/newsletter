@@ -206,13 +206,24 @@ h1 {
     /* changes how numbers look like */
     font-feature-settings: 'lnum';
 }
-h1.calligraphyTitle {
-    margin-top: -3mm;
-    margin-bottom: -8mm;
+
+article img {
+    display: block; /* block eliminates space around image */
+    float: right; /* makes paragraph text float/break around it */
+    max-width: 100%;
+    margin-top: 6pt;
+    margin-bottom: 6pt;
 }
+
+h1.calligraphyTitle {
+    margin-top: 0mm;
+    margin-bottom: -5mm;
+}
+
 h1.calligraphyTitle img {
     max-height: 30mm;
-    max-width: 100%;
+    margin: 0 auto;
+    float: none;
 }
 
 h2 { /* section in article */
@@ -377,13 +388,6 @@ article span.color {
     color: var(--color-tower-dark);
 }
 
-article img:not(.articleCalligraphy) {
-    display: block; /* block eliminates remaining space between image and label*/
-    float: right; /* makes paragraph text float/break around it */
-    max-width: 100%;
-    margin-top: 6pt;
-    margin-bottom: 6pt;
-}
 article img.has-label {
     margin-bottom: 0;
     padding-bottom: 0;
@@ -463,6 +467,34 @@ img#CalligraphyParallels-VI-p2-Bon-Vertical {
 
 
 
+/* ////////////////////////////////////////////////// */
+/* ////////////////////////////////////////////////// */
+/* /////////////  CASE-BASED STYLING  /////////////// */
+/* ////////////////////////////////////////////////// */
+/* ////////////////////////////////////////////////// */
+
+
+/* reduce space between calligraphy and author */
+h1#the-true-sangha,
+h1#tang-than-dich-thuc,
+h1#dharma-banquet,
+h1#chicken-and-egg
+{
+    margin-bottom: -8mm;
+}
+/* increase space between calligraphy and author */
+h1#peace-and-happiness-walk-hand-in-hand
+{
+    margin-bottom: -3mm;
+}
+
+/* calligraphy should not intersect with author */
+#nep-xua + .author,
+#tieng-chuong-chanh-niem + .author
+{
+    padding-left: 60mm;
+}
+
 img#articlebr-troi-thien-chi21767317541562549611291283397034335052574932n {
     float: left;
     margin-right: 6pt;
@@ -471,7 +503,7 @@ img#articlebr-troi-thien-chi21767317541562549611291283397034335052574932n {
 
 img#articlesu-ongTheTrueSangha2 {
     margin: 0;
-    max-width: none;
+    max-width: none !important;
     position: absolute;
     z-index: -1;
     width: calc(var(--pagedjs-pagebox-width) + (var(--bleed)) * 2);
@@ -494,6 +526,7 @@ h1#the-true-sangha, h1#tang-than-dich-thuc {
     overflow: visible;
 }
 h1#the-true-sangha + .author, h1#tang-than-dich-thuc + .author {
+    font-weight: bold;
     text-shadow: white 1px 0 5px
 }
 
@@ -508,10 +541,10 @@ img#articlebr-phap-dungthay-bell3-torn-edges {
     padding-right: 0;
 }
 img#articlebr-phap-dungthay-bell3-torn-edges {
-    max-width: 97%;
+    width: 97%;
 }
 img#articlebr-troi-dao-quangIMG1129 {
-    max-width: 50%;
+    width: 70%;
 }
 /* img#articlebr-phap-kham1998-TangThanXomThuong-MuaHecut {
     max-width: 99%;
@@ -528,7 +561,7 @@ img#articlesr-chuan-nghiemSc-Chuan-N-3,img#articledr-elli-weisbaumScientific-Day
 ,img#articlebr-phap-dungbai-T-Phap-Dung-4
 {
     margin: 0;
-    max-width: none;
+    max-width: none !important;
     position: absolute;
     z-index: -1;
     width: calc(var(--pagedjs-pagebox-width) + (var(--bleed)) * 2);
