@@ -11,7 +11,7 @@ Mùa an cư năm 2019, đại chúng đã được tham gia một chuỗi các b
 
 Từ lúc đó, con bắt đầu nhìn lại vấn đề thải rác ở tu viện và thử tìm xem có cách nào giảm thiểu dư lượng carbon cũng như lượng rác mà chúng ta thải ra. Hiện giờ, lối tư duy thông thường của chúng ta là chở hết những thứ bỏ đi ra trung tâm tái chế. Chúng ta chẳng nghĩ gì nhiều tới chuyện xảy ra sau đó với đống rác thải. Đấy là vấn đề của người khác. 
 
-{% image "article/brother-chan-troi-dai-dao/IMG_0428.jpg" %}
+{% image "article/br-troi-dai-dao/IMG_0428.jpg" %}
 
 Những buổi sinh hoạt đã cho chúng con biết chuyện diễn ra sau đó. Chúng con đã thấy lượng rác khổng lồ không được tái chế. Có những thứ được tái chế nhưng không phải tại chỗ mà được vận chuyển tới những khu xử lý rác lớn. Quá trình vận chuyển tất nhiên sẽ thải ra thêm lượng khí carbon. Chúng con đã thấy rõ là tìm cách xử lý rác ngay tại chỗ có thể giúp giảm thiểu không chỉ nhiên liệu chạy xe mà cả lượng rác bị chôn xuống đất. 
 
@@ -31,7 +31,7 @@ Khi nhìn lại các loại rác thải được chở trên các xe đổ rác 
 
 Hiện giờ chúng con đang thực hiện việc xé vụn các loại bìa carton và trộn thêm với rác cỏ cắt trong vườn để chuyển hóa chúng thành một loại phân hữu cơ (compost) rất tốt cho đất. Chúng con trữ lượng phân này trong các vỏ bao đựng gạo được nhà bếp cung cấp khá thường xuyên. Thật mãn nguyện khi chứng kiến quá trình chuyển biến từ việc đảo đều cỏ và vụn bìa cứng để giữ cho hỗn hợp này được thông thoáng đến việc nhìn thấy các chú giun xuất hiện và rồi cả đống rác chuyển thành compost màu nâu sẫm giàu dinh dưỡng. 
 
-{% image "article/brother-chan-troi-dai-dao/IMG0411_crop.jpg" %}
+{% image "article/br-troi-dai-dao/IMG0411_crop.jpg" %}
 
 Các loại rác thải giấy khác và các loại bìa carton thô được xén nhỏ và ngâm trong nước mưa trước khi được dầm ra và trộn với mạt cưa thu từ khu vực xưởng gỗ, rồi được nén lại thành các thanh củi để đốt lò. Chúng con tự chế ra máy làm củi ép đó từ một cái kích nâng xe cũ và một số đồ kim loại phế thải. 
 
@@ -43,7 +43,7 @@ Việc có đồng loạt các hoạt động tái chế từ việc trữ nư�
 
 Trong hai năm qua chúng con cũng đã chật vật tìm kiếm giải pháp cho vấn đề tái chế một lượng lớn vỏ hộp đựng sữa thực vật. Các vỏ hộp sữa do Tetrapak sản xuất này chiếm đến một phần ba các thùng đựng rác tái chế màu vàng. Mình không thể ép mỏng các hộp này vì khu tập trung rác tái chế chỉ xử lý được chúng khi chúng còn nguyên vẹn. Chúng là loại một loại hỗn hợp cán bồi giấy - nhựa – nhôm rất khó để tái chế. Lâu lâu, con lại cố gắng tìm giải pháp cho vấn đề này. Đôi khi con tìm ra những ý tưởng rất hài hước nhưng không thực sự có ích lợi gì. Con tiếp tục giữ chuyện này trong tâm trí mình và đợi câu trả lời xuất hiện. 
 
-{% image "article/brother-chan-troi-dai-dao/IMG_0430.jpg" %}
+{% image "article/br-troi-dai-dao/IMG_0430.jpg" %}
 
 Một ngày nọ chúng con được rủ đi giúp gieo hạt bí ở vườn rau hữu cơ. Chúng con gieo hạt bí vào các chậu đen nhỏ làm bằng một loại nhựa rất mỏng manh mà lại không thể tái chế được. Mấy chậu này cứ liên tục nứt vỡ mỗi khi dồn thêm đất hay phân hữu cơ vào. Chúng con nhận ra là mình có thể cắt mấy cái hộp nhựa tetrapak đó làm đôi và có thể làm thành 2 cái chậu nhỏ để trồng cây vào thay vì đi mua. Các bạn làm ở Nông trại Hạnh phúc (Happy Farm) đã rất hạnh phúc khi thử nghiệm cách mới này. Từ đó hàng ngàn hộp nhựa tetrapak mà chúng con thải ra mỗi năm lại có được một đời sống mới. Chúng bền hơn rất nhiều so với mấy cái chậu nhựa nhỏ phải đi mua bên ngoài. Vậy là chậu cây Tetrapot được ra đời. 
 

@@ -5,7 +5,7 @@ author: Sư cô Chân Hoa Nghiêm
 
 Làng của những năm 1980, 1990 như một cái làng ở thôn quê, vẫn còn đơn sơ lắm! Làng khi đó rất ít người, đời sống đơn giản. Phòng chúng tôi chỉ có một cái bàn và một giường ngủ. Giường là một miếng ván được kê trên bốn miếng gạch vậy thôi. Ngày xuất gia, tôi được sư chị Đoan Nghiêm tặng bộ vạt hò màu nâu đã nhạt màu. Sư cô Viên Quang cho tôi một cái áo, sư chị Chân Vị cho tôi một cái quần, tôi chỉ có hai bộ thôi. Sư Ông cho tôi một cái áo nhật bình lam. Tôi thích chiếc áo nhật bình đó lắm. 
 
-{% image "article/sister-chan-hoa-nghiem/20211212042copy.jpg" %}
+{% image "article/sr-hoa-nghiem/20211212042copy.jpg" %}
 
 Lúc đó, tuổi của tôi chỉ bằng nửa số tuổi bây giờ. Một bầu nhiệt huyết tuổi trẻ, rất năng động, việc gì cũng muốn làm. Tôi xung phong làm vườn, vì chúng tôi ăn uống đạm bạc, tự trồng rau mà ăn. Từ khi sinh ra và lớn lên tôi đều sống ở thành phố, nên việc làm vườn đối với tôi thật là mới mẻ. Tôi theo sư chị Chân Vị để học cách làm vườn. Tôi hăng say cuốc đất, trồng rau, gieo hạt. Đôi khi mê làm vườn quá nên bỏ giờ công phu chiều, chúng tôi bị sư cô Thanh Lương rầy: “Vào đây để đi tu chứ có phải đi làm việc đâu”. Chúng tôi liền đi sám hối với sư cô, vì sư cô là vị chúng trưởng của chúng tôi thời bấy giờ.
 
@@ -19,7 +19,7 @@ Có tuần người Việt về rất đông, Thanh Tuyền xếp các bác vào
 
 Trong rừng của xóm Hạ có một cái hồ dài, nước trong veo. Cây trong rừng rất đẹp với những nhánh nương nhau, như tăng thân của chúng tôi vậy. Sau khóa tu mùa Hè chúng tôi có mười ngày làm biếng. Ngày làm biếng tôi thường đeo một cái túi nhỏ, trong đó có một miếng bánh mì, một trái chuối, một bình nước nóng rồi đi vào rừng. Tôi tìm một khoảng đất trống trải tọa cụ, ngồi thiền rồi ăn trưa. Sau đó tôi đánh một giấc ngủ thật dài cho đến khi chiều xuống thì tôi thu dọn đi về lại xóm. Thời sadini của tôi ngày xưa thật trong sáng, thánh thiện, chỉ biết tu thôi, chẳng biết gì.
 
-{% image "article/sister-chan-hoa-nghiem/summer-retreat.jpg" %}
+{% image "article/sr-hoa-nghiem/summer-retreat.jpg" %}
 
 Ngày xưa khi ở Làng, chúng tôi chỉ tiếp xúc với thiền sinh. Thiền sinh lại chỉ lo tu học theo thời khóa, rất ít nói chuyện về xã hội bên ngoài. Những tin tức về thế giới, chính trị, bạo động, v.v. chưa từng xuất hiện một lần trong trí não của tôi, chứ đừng nói rằng tôi đã tưởng tượng hay nghĩ về chúng. Mỗi tháng chúng tôi được phát tiền túi đủ để mua những thứ cá nhân căn bản, như một cuốn tập để ghi chép lời Thầy dạy, sang lắm thì một hộp bánh LU khi mình thèm ăn bánh ngọt. Hai từ “cúng dường” thật xa lạ và mới mẻ đối với tôi. Tôi nhớ mình chỉ nhận được một lần tiền cúng dường duy nhất sau bao nhiêu năm ở Làng, khoảng năm mười đô gì đó. Tôi luôn tự nói: Mình đi tu đâu phải để tìm sự cúng dường. Thầy có dạy trong một khóa tu xuất sĩ, rằng mục đích của người tu không phải là cơm áo, cũng không phải đi tìm vật chất tiện nghi. Thực tập của Làng Mai là để có hạnh phúc. 
 

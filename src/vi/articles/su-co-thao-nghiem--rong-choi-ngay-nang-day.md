@@ -23,7 +23,7 @@ Xóm Mới có một nơi linh thiêng mà chị rất nhớ, đó là Phật đ
 >
 > Giữa rừng tre tím Quán Âm ngồi
 
-{% image "article/sister-chan-thao-nghiem/CCI0224201600039.jpg" %}
+{% image "article/sr-thao-nghiem/CCI0224201600039.jpg" %}
 
 Đọc lên sẽ cảm nhận được liền nơi mình đang đứng. 
 

@@ -9,7 +9,7 @@ Tôi qua Học viện EIAB đã hơn hai năm. Học viện và Làng cũng khô
 
 Nhớ về Làng, về xóm Mới, trong tôi như hiện về từng khung trời tươi đẹp.
 
-{% image "article/sister-chan-chuan-nghiem/Sc-Chuan-N-5_cut.JPG" %}
+{% image "article/sr-chuan-nghiem/Sc-Chuan-N-5_cut.JPG" %}
 
 ## Sân Chim
 
@@ -33,7 +33,7 @@ Sau bữa cơm trưa, các sư con đi theo sau Sư Ông cả một hàng dài, 
 
 ## Hồ sen
 
-{% image "article/sister-chan-chuan-nghiem/su-co-Chuan-N.jpg" %}
+{% image "article/sr-chuan-nghiem/su-co-Chuan-N.jpg" %}
 
 Một điều đặc biệt ở Làng là xóm nào cũng có hồ sen, và tôi thấy hồ sen nào cũng có hình trái tim! Xóm Thượng thì đặc biệt hơn vì có hai hồ sen. Cứ hè về là xóm nào cũng có sen thơm dâng Bụt. Thiền sinh về Làng thì vô cùng hạnh phúc vì được ngắm hoa sen ngay từ tuần đầu tiên của khóa tu mùa Hè. Sen nở nhiều, vậy là có trà ướp sen. Ở tận EIAB nhưng tôi cũng nhận được trà sen từ Làng. Thưởng thức từng ly trà thơm ngát, tôi biết ơn huynh đệ thật nhiều.
 
@@ -57,7 +57,7 @@ Khi tôi đang ngồi lạch cạch những dòng chữ này thì cũng sắp t�
 
 Nhìn lại chặng đường 13 năm xuất gia, tôi thấy mình may mắn lắm. Tôi vẫn tin là nhờ vào phước đức của tổ tiên, ông bà, cha mẹ mà tôi có phước duyên được gặp tăng thân, được làm học trò của Sư Ông. Làm một người tu là tôi thấy hạnh phúc nhất. 
 
-{% image "article/sister-chan-chuan-nghiem/Sc-Chuan-N-4.JPG" %}
+{% image "article/sr-chuan-nghiem/Sc-Chuan-N-4.JPG" %}
 
 Sáng nay, ngày xuất sĩ, tôi được cùng đại chúng nghe pháp thoại DVD vào ngày 18 tháng 2 năm 2002 của Sư Ông. Tôi thấy thấm thía quá và mong mình có thể thực tập thành công. Tôi xin phép được trích ra đây một vài lời mà Sư Ông dạy, cũng là để cho tôi mở ra đọc khi thấy cần quay trở về với sự thực tập.
 
@@ -72,7 +72,7 @@ Sáng nay, ngày xuất sĩ, tôi được cùng đại chúng nghe pháp thoạ
 > Mình không cần phải có một ngôi chùa rất lớn, có một tượng Phật sơn son thiếp vàng bóng loáng, hay là một sự khen ngợi, sự giàu sang, sự cung phụng của người ta. Chỉ cần suy nghĩ như vậy: mình có sư anh dễ thương, mình có sư chị dễ thương, mình có đệ tử dễ thương là mình đã có hạnh phúc rồi. Và hạnh phúc đó là hạnh phúc thiệt, chứ không phải là tự kỷ ám thị. Làm thầy, làm trò, làm anh, làm chị, làm em, chúng ta đều phải có hạnh phúc. Chúng ta quy định với nhau ở chỗ đó. Sự thực tập hàng ngày làm cho ta có hạnh phúc thêm nữa, vì ta có khả năng giúp cho anh em ta dễ thương hơn. Anh em ta dễ thương 50%, bây giờ ta làm cho người đó dễ thương 60%. Đó là kết quả của sự thực tập. Và chúng ta có vốn liếng của hạnh phúc. Vốn liếng đó mỗi ngày đều lớn lên. Hạnh phúc đó đến một lúc mình chịu không được nữa vì nó nhiều quá, và mình phải tìm cách chia sẻ, phân phát cho người khác. Đó là việc của chúng ta. ‘Khi lá hoa thật nhiều, trái yêu thương đầy cành, hái đem cho mọi người.’ Chúng ta hãy nhìn bằng con mắt như vậy, con mắt hiểu và thương. Đừng đòi hỏi. Mình đâu có nghèo đói gì đâu về phương diện hạnh phúc. Mình là người có phước, mình là người có hạnh phúc. Và với vốn liếng của hạnh phúc đó ta có thể đi tới mỗi ngày, nhất là khi ta đã có những pháp môn tu tập rất cụ thể. <cite>Sư Ông</cite>
 <!-- Block Quote End -->
 
-{% image "article/sister-chan-chuan-nghiem/Sc-Chuan-N-3.JPG" %}
+{% image "article/sr-chuan-nghiem/Sc-Chuan-N-3.JPG" %}
 
 Tôi viết đã dài nhưng liệu tôi thực tập được bao nhiêu? Tôi hy vọng rằng lời Sư Ông dạy sẽ giúp tôi, sẽ làm đuốc soi đường cho tôi. Hạt giống nóng tính của tôi chưa được chuyển hóa bao nhiêu, nhưng tôi hy vọng rằng với sức mạnh và sự soi sáng của tăng thân thì tôi cũng sẽ phần nào chuyển hóa, như lời thiền sư Quy Sơn đã dạy:
 

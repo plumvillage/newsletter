@@ -7,7 +7,7 @@ Brother Giác Thanh was one of the elder brothers of Plum Village. He lived in t
 
 Aside from the nicknames *Brother Floating Cloud* and *Brother Fleurs de Cactus* that some knew of, there was another name given by Thầy– *Trà Sư (Tea Master)*. Perhaps this is the name that everyone liked and associated with Br. Giác Thanh’s Zen Master style. He also really liked the name *Floating Cloud*. These two names captured his peace, freedom, and ease, and anyone who had a chance to approach him could enjoy these qualities because he always exuded a holy and pure energy. Friends from the west treasured him and loved being near him.
 
-{% image "article/brother-chan-phap-niem/12Thay-Giac-Thanh_edit.jpg" %}
+{% image "article/br-phap-niem/12Thay-Giac-Thanh_edit.jpg" %}
 
 ## The Seeker
 
@@ -15,7 +15,7 @@ When I arrived in Plum Village on the 12<sup>th</sup> of June 1994 to be an aspi
 
 The story of how he came to Plum Village, according to what I have heard, is very interesting. Br. Giác Thanh was someone who always sought to learn, especially about meditation. While still in Vietnam, he already learned meditation with Zen Master Thích Thanh Từ of Bamboo Forest Monastery (tu viện Trúc Lâm). At that time, his fellow students included Br. Thích Minh Nghĩa (now the Abbot of Toàn Giác Monastery and also Giác Nguyên Ancestral Temple), Br. Thích Phước Tịnh, who is now at Deer Park Monastery, and many others. Those who wish to know more about Br. Giác Thanh should come to the above-mentioned venerable monks, especially the Venerable Phước Tịnh.       
   
-{% image "article/brother-chan-phap-niem/ToBeAdded_edited.jpg" %}
+{% image "article/br-phap-niem/ToBeAdded_edited.jpg" %}
 
 While searching for a teacher, as far as I know, Br. Giác Thanh was keen to learn, sincere, spacious, and someone who is not caught in the form. As for certain work skills, or Zen rituals, perhaps he was not so proficient. He focused all his energy on the practice and preferred a quiet, contemplative life. He always had a burning desire to learn and to realize the essence of Zen. Br. Giác Thanh wandered everywhere wanting to learn, even after coming to the west. Whenever he heard of a well-known meditation master, whether lay or monastic, he would come to learn meditation with them. It is said that he even visited female lay meditation masters to learn methods of meditation. This shows the extent of his desire to learn and his free, unconventional spirit. He meditated diligently for long periods of time, reflecting in silence, hoping to realize the essence of  Zen. Perhaps Br. Giác Thanh often went into deep concentration and completely unaware about his body. It is also perhaps because of this that whenever he sat in deep concentration, even while listening to Thầy’s teaching, he often rolled his head back and forth without realizing it. Every time Thầy saw this, Thầy would call out: “Brother Giác Thanh, open your eyes! Don’t keep your eyes closed in concentration!” Hearing Thầy, Br. Giác Thanh opened his eyes and his head stopped rolling.  	
 
@@ -65,7 +65,7 @@ Br. Giác Thanh has transcended false appearances into a signless reality that o
 
 The Upper Hamlet in the early days when I first came was still very rustic. The material conditions and infrastructure were still quite poor. There were only about 15 monks at the time. We lived happily and contentedly together. On freezing winter days, the unsealed bedrooms just had a small wood-fired stove [for heating] and a bed made of one sheet of plywood placed on four bricks. We lit the stove before going to bed. But by the middle of the night the wood ran out, the stove was cold, and huddled in our flimsy sleeping bags, we were also cold. Getting up in the morning was always a huge challenge. We had to be very *Heroic*. If we wanted to get up, we had to do so right away! We danced around and moved our bodies for a while before bravely heading out to wash our face, brush our teeth, and then go for the morning practice session. 
 
-{% image "article/brother-chan-phap-niem/ToBeAdded2-edited.jpg" %}
+{% image "article/br-phap-niem/ToBeAdded2-edited.jpg" %}
 
 The old meditation hall was originally a cow shed. It did not have a fireplace and the walls were built of limestone. Even though it was icy cold, the brothers diligently continued the morning and evening meditations. Upper Hamlet had a small kitchen with an attic above it which was the monks' dining room. The dining tables were arranged in a square so that while eating, the brothers could see each other and practice being present for each other. 
 

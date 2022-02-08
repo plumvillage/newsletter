@@ -11,7 +11,7 @@ I heard this anecdote when the Venerable Abbot of Bao Lam Temple recounted it to
 
 At parties, we often offer special dishes. If there is only rice and green vegetables, we cannot call it  We eat them every day, every week, every month, the whole year round, we eat them our whole life through. There are people who cannot bear it if they don’t have rice, even for one or two days. But if that is so, then rice and green vegetables are not ordinary. They are special because everyone can eat them and cannot live without these staples. “Special dishes” at parties are special, but we only eat them occasionally. We cannot eat them every day like we eat rice. *No one loves us like rice does.* 
 
-{% image "article/brother-chan-minh-hy/IMG_0786.jpg" %}
+{% image "article/br-minh-hy/IMG_0786.jpg" %}
 
 The teachings of the Buddha are the same. There are Dharma doors that we practice every day so we find them very ordinary. In fact, they are very special because irrespective of place or situation, they can be easily practiced by everyone. 
 
@@ -28,7 +28,7 @@ Perhaps rice and boiled vegetables have become ordinary due to the way we eat th
 
 In this way, there are things that are very familiar, but they never become out of date. Each step, each in and out breath, each bowl of rice can become a party if our heart is filled with gratitude.
 
-{% image "article/brother-chan-minh-hy/DSC_3796-edit.jpg" %}
+{% image "article/br-minh-hy/DSC_3796-edit.jpg" %}
 
 One time, Thay’s attendant noticed that Thay was a little different. After giving a Dharma talk Thay came back to his hut, drank a cup of tea, took his straw hat and went directly for walking meditation. Usually he would rest a little longer. Upon arriving at the gathering place, Thay bowed to the sangha and led the walk. Everything unfolded without delay. With light and free steps, Thay led the sangha to the Sixteen Buddhas, his favorite place, where he liked to stop and rest during walking meditation. As soon as the sangha sat down, the church bells rang. The attendant looked at Thay who had a very bright smile on his face. It turned out that there was a delegation of monks from another country visiting Plum Village. That was the very first time they had came to Upper Hamlet and joined the practice of walking meditation. Therefore, Thay wanted to offer them a miraculous moment. Thay was very pleased with that moment, as everything happened just at the right time. It is not only with good tea or delicious food that we can treat our guests. 
 

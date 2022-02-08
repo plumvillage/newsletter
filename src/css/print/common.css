@@ -463,7 +463,7 @@ img#CalligraphyParallels-VI-p2-Bon-Vertical {
 
 
 
-img#articlebrother-chan-troi-thien-chi21767317541562549611291283397034335052574932n {
+img#articlebr-troi-thien-chi21767317541562549611291283397034335052574932n {
     float: left;
     margin-right: 6pt;
     width: 60%;
@@ -497,9 +497,9 @@ h1#the-true-sangha + .author, h1#tang-than-dich-thuc + .author {
     text-shadow: white 1px 0 5px
 }
 
-/* img#articlebrother-chan-phap-kham1998-TangThanXomThuong-MuaHecut, */
-img#articlebrother-chan-troi-dao-quangIMG1129,
-img#articlebrother-chan-phap-dungthay-bell3-torn-edges {
+/* img#articlebr-phap-kham1998-TangThanXomThuong-MuaHecut, */
+img#articlebr-troi-dao-quangIMG1129,
+img#articlebr-phap-dungthay-bell3-torn-edges {
     column-span: all;
     float: none;
     margin-left: auto;
@@ -507,25 +507,25 @@ img#articlebrother-chan-phap-dungthay-bell3-torn-edges {
     padding-left: 0;
     padding-right: 0;
 }
-img#articlebrother-chan-phap-dungthay-bell3-torn-edges {
+img#articlebr-phap-dungthay-bell3-torn-edges {
     max-width: 97%;
 }
-img#articlebrother-chan-troi-dao-quangIMG1129 {
+img#articlebr-troi-dao-quangIMG1129 {
     max-width: 50%;
 }
-/* img#articlebrother-chan-phap-kham1998-TangThanXomThuong-MuaHecut {
+/* img#articlebr-phap-kham1998-TangThanXomThuong-MuaHecut {
     max-width: 99%;
 } */
 
 
 
 img#articlerichard-bradyR-and-KJ-at-Centro-Avalokita-2015,
-img#articlesister-chan-thao-nghiemCCI0224201600039,
-img#articlesister-chan-chuan-nghiemSc-Chuan-N-3,img#articledr-elli-weisbaumScientific-Day-Poster-Presentation-at-The-University-of-Toronto-20182
-,img#articlebrother-chan-phap-linhIMG0436crop
-,img#articlebrother-chan-minh-hyDSC3796-edit
-,img#articlebrother-chan-phap-linhCS21202110152RL0936-crop3
-,img#articlebrother-chan-phap-dungbai-T-Phap-Dung-4
+img#articlesr-thao-nghiemCCI0224201600039,
+img#articlesr-chuan-nghiemSc-Chuan-N-3,img#articledr-elli-weisbaumScientific-Day-Poster-Presentation-at-The-University-of-Toronto-20182
+,img#articlebr-phap-linhIMG0436crop
+,img#articlebr-minh-hyDSC3796-edit
+,img#articlebr-phap-linhCS21202110152RL0936-crop3
+,img#articlebr-phap-dungbai-T-Phap-Dung-4
 {
     margin: 0;
     max-width: none;
@@ -549,30 +549,30 @@ img#articlerichard-bradyR-and-KJ-at-Centro-Avalokita-2015 {
 }
 
 
-img#articlesister-chan-thao-nghiemCCI0224201600039 {
+img#articlesr-thao-nghiemCCI0224201600039 {
     bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + 130mm) * -1);
 }
-.PAGE-OF-articlesister-chan-thao-nghiemCCI0224201600039 .pagedjs_page_content {
+.PAGE-OF-articlesr-thao-nghiemCCI0224201600039 .pagedjs_page_content {
     height: calc(100% - var(--pagedjs-footnotes-height) - 105mm) !important;
 }
 
 
-img#articlesister-chan-chuan-nghiemSc-Chuan-N-3 {
+img#articlesr-chuan-nghiemSc-Chuan-N-3 {
     bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + 60mm) * -1);
     mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 30%,rgba(0,0,0,1.0) 45%);
     -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 30%,rgba(0,0,0,1.0) 45%);
 }
-.PAGE-OF-articlesister-chan-chuan-nghiemSc-Chuan-N-3 .pagedjs_page_content {
+.PAGE-OF-articlesr-chuan-nghiemSc-Chuan-N-3 .pagedjs_page_content {
     height: calc(100% - var(--pagedjs-footnotes-height) - 60mm) !important;
 }
 
 
-img#articlebrother-chan-phap-linhIMG0436crop {
+img#articlebr-phap-linhIMG0436crop {
     bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + 60mm) * -1);
     mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 6%,rgba(0,0,0,1.0) 26%);
     -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 6%,rgba(0,0,0,1.0) 26%);
 }
-.PAGE-OF-articlebrother-chan-phap-linhIMG0436crop .pagedjs_page_content {
+.PAGE-OF-articlebr-phap-linhIMG0436crop .pagedjs_page_content {
     height: calc(100% - var(--pagedjs-footnotes-height) - 50mm) !important;
 }
 
@@ -588,49 +588,49 @@ img#articledr-elli-weisbaumScientific-Day-Poster-Presentation-at-The-University-
 }
 
 
-img#articlebrother-chan-phap-linhCS21202110152RL0936-crop3 {
+img#articlebr-phap-linhCS21202110152RL0936-crop3 {
     bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + 108mm) * -1);
     mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 0.5%,rgba(0,0,0,1.0) 10%);
     -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 0.5%,rgba(0,0,0,1.0) 10%);
 }
-.PAGE-OF-articlebrother-chan-phap-linhCS21202110152RL0936-crop3 .pagedjs_page_content {
+.PAGE-OF-articlebr-phap-linhCS21202110152RL0936-crop3 .pagedjs_page_content {
     height: calc(100% - var(--pagedjs-footnotes-height) - 108mm) !important;
 }
 
 
-img#articlebrother-chan-phap-dungbai-T-Phap-Dung-4 {
+img#articlebr-phap-dungbai-T-Phap-Dung-4 {
     bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + 100mm) * -1);
     mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 12%,rgba(0,0,0,1.00) 35%);
     -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 12%,rgba(0,0,0,1.00) 35%);
 }
-.PAGE-OF-articlebrother-chan-phap-dungbai-T-Phap-Dung-4 .pagedjs_page_content {
+.PAGE-OF-articlebr-phap-dungbai-T-Phap-Dung-4 .pagedjs_page_content {
     height: calc(100% - var(--pagedjs-footnotes-height) - 84mm) !important;
 }
 
 
-img#articlebrother-chan-minh-hyDSC3796-edit {
+img#articlebr-minh-hyDSC3796-edit {
     bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + 96mm) * -1);
     mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%,rgba(0,0,0,1.00) 20%);
     -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%,rgba(0,0,0,1.00) 20%);
 }
-.PAGE-OF-articlebrother-chan-minh-hyDSC3796-edit .pagedjs_page_content {
+.PAGE-OF-articlebr-minh-hyDSC3796-edit .pagedjs_page_content {
     height: calc(100% - var(--pagedjs-footnotes-height) - 96mm) !important;
 }
 
 .PAGE-OF-articlerichard-bradyR-and-KJ-at-Centro-Avalokita-2015 .pagedjs_margin-bottom,
-.PAGE-OF-articlesister-chan-thao-nghiemCCI0224201600039 .pagedjs_margin-bottom,
-.PAGE-OF-articlesister-chan-chuan-nghiemSc-Chuan-N-3 .pagedjs_margin-bottom, .PAGE-OF-articledr-elli-weisbaumScientific-Day-Poster-Presentation-at-The-University-of-Toronto-20182 .pagedjs_margin-bottom
-,.PAGE-OF-articlebrother-chan-minh-hyDSC3796-edit .pagedjs_margin-bottom
-,.PAGE-OF-articlebrother-chan-phap-linhCS21202110152RL0936-crop3 .pagedjs_margin-bottom
-,.PAGE-OF-articlebrother-chan-phap-linhIMG0436crop .pagedjs_margin-bottom
-,.PAGE-OF-articlebrother-chan-phap-dungbai-T-Phap-Dung-4 .pagedjs_margin-bottom
+.PAGE-OF-articlesr-thao-nghiemCCI0224201600039 .pagedjs_margin-bottom,
+.PAGE-OF-articlesr-chuan-nghiemSc-Chuan-N-3 .pagedjs_margin-bottom, .PAGE-OF-articledr-elli-weisbaumScientific-Day-Poster-Presentation-at-The-University-of-Toronto-20182 .pagedjs_margin-bottom
+,.PAGE-OF-articlebr-minh-hyDSC3796-edit .pagedjs_margin-bottom
+,.PAGE-OF-articlebr-phap-linhCS21202110152RL0936-crop3 .pagedjs_margin-bottom
+,.PAGE-OF-articlebr-phap-linhIMG0436crop .pagedjs_margin-bottom
+,.PAGE-OF-articlebr-phap-dungbai-T-Phap-Dung-4 .pagedjs_margin-bottom
 {
     width: 0 !important;
     height: 0 !important;
     display: none !important;
 }
 
-.PAGE-OF-articlebrother-chan-phap-linhCS21202110152RL0936-crop3 .pagedjs_footnote_area {
+.PAGE-OF-articlebr-phap-linhCS21202110152RL0936-crop3 .pagedjs_footnote_area {
     text-align: right;
     color: var(--color-tower);
     bottom: -120mm;

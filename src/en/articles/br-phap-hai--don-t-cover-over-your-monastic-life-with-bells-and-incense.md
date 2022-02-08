@@ -10,7 +10,7 @@ author: Brother Chân Pháp Hải
 
 When I first arrived in 1996 I was touched by the joy and enthusiasm that everybody had, even with the very simple conditions at the time. For example, when travelling from Upper Hamlet to New Hamlet, we did not have enough transport, so many of us would sit on the floor in the back of the shopping van, on blankets.
 
-{% image "article/brother-chan-phap-hai/scan00012.jpg", "has-label" %}
+{% image "article/br-phap-hai/scan00012.jpg", "has-label" %}
 <p class="image-label">Br. Pháp Hải ordaining as a novice.</p>
 
 When I ordained as a novice, the community was small – around 15 brothers – and the majority of us were of a similar age, so we had a lot of energy. I remember when we planted the trees and dug out the lotus pond in the middle of Upper Hamlet, Br. Pháp Ứng and Br. Pháp Hiền (Michael C.) ran jumping into the pond in their short robes, playing in the mud. There were many simple joys like that. Many trees that now provide shade around Upper Hamlet were planted as small saplings by the brothers on their ordination anniversaries. Going through everything together in such a small sangha fostered a sense of closeness.
@@ -33,7 +33,7 @@ Today I hear some of the young ones say, “I’m not ready.” Honestly, after 
 
 Thầy also had different emphases from time to time. At one time he would ask us to give spontaneous teachings. In the middle of walking meditation or another activity, he might ask, “Sr. Kính Nghiêm, offer us a sutra,” and the person would then need to share an invitation to practice from a place of aliveness and spontaneity. There was no time to prepare, we just had to do it. It was nerve-wracking, but also a lot of fun.
 
-{% image "article/brother-chan-phap-hai/13116163101541470842192695476293997605142558o_cut.jpg", "img-small" %}
+{% image "article/br-phap-hai/13116163101541470842192695476293997605142558o_cut.jpg", "img-small" %}
 
 ## Strong Medicine from Thầy
 
@@ -45,7 +45,7 @@ Whilst others can help and support us, ultimately, as practitioners, we ourselve
 
 One of the challenges I faced growing up in the Sangha was learning how to ask for and receive support. I came from a family environment in which I had to be very responsible in order to survive, so I had a tendency to be a bit too responsible and not want to communicate what was really going on inside. I also did not know how to take advantage of the presence of my elder brothers or sisters. The sangha’s Shining Light and guidance helped me to realise that my real contribution and real transformation was not in volunteering for many things, but something else entirely. I had to learn to be one element of the Sangha rather than taking over, even if I thought I was helping. This is a bit like the difference between being a soloist and playing in a band. Of course, this is a lifetime’s journey and I still have a lot to learn in this area.
 
-{% image "article/brother-chan-phap-hai/12065878101536898390142693147459611197513014n-2_cut.jpg", "img-small" %}
+{% image "article/br-phap-hai/12065878101536898390142693147459611197513014n-2_cut.jpg", "img-small" %}
 
 Another challenge was our distinctly direct Australian communication style. We show respect and closeness to those we care about by being very direct, and have a self- and other-deprecating sense of humour. This comes from the background of the difficult environment of Australia - droughts, floods, fires - needing to make light of it and to come together as a collective. For example, last year a flood washed out both roads into and out of this mountain, leaving us cut off from supplies for 10 days. The local people began joking around, downplaying it, “Oh, it’s a bit bloody wet, hey mate?! (laughter)”. I had that tendency coming to Plum Village. If somebody was too serious or emotional about something, I would respond in this way. For many other cultures, this feels rude, which meant I had a lot of Beginning Anews. I needed to learn and adapt. Between us, coming back to Australia I had to go through reverse culture shock.
 
@@ -71,7 +71,7 @@ What I really want to share with you is that even though we may have different w
 
 A while back I had the chance to mentor aspirants and young novices at Deer Park. They asked me for some advice on how to connect with the elders since sometimes they felt a bit distant. If we see the sangha as a garden, like Thầy shared in *Joyfully Together*, then as a young monastic the most wonderful thing we can do is walk under the shade of these tall trees who are our elders and rest against their trunk. Soon enough, you will also have younger brothers (and sisters) to whom you will be offering support and care and guidance.
 
-{% image "article/brother-chan-phap-hai/scan3.jpg", "has-label" %}
+{% image "article/br-phap-hai/scan3.jpg", "has-label" %}
 <p class="image-label">Lamp Transmission, 2003</p>
 
 Good friendship in Buddhism means more than just associating with people that share our interests or have similar outlooks. It means actively seeking out companions to whom we can look for guidance and instruction.
