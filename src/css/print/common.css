@@ -274,12 +274,9 @@ article img:not(.articleCalligraphy) + p:not(.image-label) {
 }
 
 /* does not work ... pagedjs has a way to connect articles */
-article > p:nth-of-type(1) { /* first direct element on new page */
+article > p:nth-of-type(1) {
     margin-top: 0;
     text-indent: 0;
-}
-article > h2:nth-of-type(1) { /* first direct element on new page */
-    margin-top: 0;
 }
 
 article blockquote {
@@ -552,6 +549,8 @@ img#articlebr-troi-dao-quangIMG1129 {
 
 
 
+img#articlesr-thao-nghiemIMG6614-edited,
+img#articlesr-thao-nghiemSc-Thao-N-2-edited,
 img#articlerichard-bradyR-and-KJ-at-Centro-Avalokita-2015,
 img#articlesr-thao-nghiemCCI0224201600039,
 img#articlesr-chuan-nghiemSc-Chuan-N-3,img#articledr-elli-weisbaumScientific-Day-Poster-Presentation-at-The-University-of-Toronto-20182
@@ -559,6 +558,8 @@ img#articlesr-chuan-nghiemSc-Chuan-N-3,img#articledr-elli-weisbaumScientific-Day
 ,img#articlebr-minh-hyDSC3796-edit
 ,img#articlebr-phap-linhCS21202110152RL0936-crop3
 ,img#articlebr-phap-dungbai-T-Phap-Dung-4
+,img#articlesr-chan-ducSrChanDuc3-edited
+,img#articlesr-hoa-nghiemHinh-cho-bai-Sc-Hoa-N1
 {
     margin: 0;
     max-width: none !important;
@@ -570,6 +571,47 @@ img#articlesr-chuan-nghiemSc-Chuan-N-3,img#articledr-elli-weisbaumScientific-Day
     /* this is removing an artefact in the pdf, which would otherwise display a thin line of the image above the white mask */
     border-top: 2px solid white;
 }
+
+
+img#articlesr-thao-nghiemSc-Thao-N-2-edited {
+    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + 100mm) * -1);
+    mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 15%,rgba(0,0,0,1.00) 30%);
+    -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 15%,rgba(0,0,0,1.00) 30%);
+}
+.PAGE-OF-articlesr-thao-nghiemSc-Thao-N-2-edited .pagedjs_page_content {
+    height: calc(100% - var(--pagedjs-footnotes-height) - 100mm) !important;
+}
+
+
+img#articlesr-thao-nghiemIMG6614-edited {
+    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + 80mm) * -1);
+    mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%,rgba(0,0,0,1.00) 20%);
+    -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%,rgba(0,0,0,1.00) 20%);
+}
+.PAGE-OF-articlesr-thao-nghiemIMG6614-edited .pagedjs_page_content {
+    height: calc(100% - var(--pagedjs-footnotes-height) - 80mm) !important;
+}
+
+
+img#articlesr-hoa-nghiemHinh-cho-bai-Sc-Hoa-N1 {
+    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + 90mm) * -1);
+    mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%,rgba(0,0,0,1.00) 20%);
+    -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%,rgba(0,0,0,1.00) 20%);
+}
+.PAGE-OF-articlesr-hoa-nghiemHinh-cho-bai-Sc-Hoa-N1 .pagedjs_page_content {
+    height: calc(100% - var(--pagedjs-footnotes-height) - 90mm) !important;
+}
+
+
+img#articlesr-chan-ducSrChanDuc3-edited {
+    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + 90mm) * -1);
+    mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%,rgba(0,0,0,1.00) 20%);
+    -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%,rgba(0,0,0,1.00) 20%);
+}
+.PAGE-OF-articlesr-chan-ducSrChanDuc3-edited .pagedjs_page_content {
+    height: calc(100% - var(--pagedjs-footnotes-height) - 60mm) !important;
+}
+
 
 
 img#articlerichard-bradyR-and-KJ-at-Centro-Avalokita-2015 {
@@ -650,6 +692,9 @@ img#articlebr-minh-hyDSC3796-edit {
     height: calc(100% - var(--pagedjs-footnotes-height) - 96mm) !important;
 }
 
+
+.PAGE-OF-articlesr-thao-nghiemIMG6614-edited .pagedjs_margin-bottom,
+.PAGE-OF-articlesr-thao-nghiemSc-Thao-N-2-edited .pagedjs_margin-bottom,
 .PAGE-OF-articlerichard-bradyR-and-KJ-at-Centro-Avalokita-2015 .pagedjs_margin-bottom,
 .PAGE-OF-articlesr-thao-nghiemCCI0224201600039 .pagedjs_margin-bottom,
 .PAGE-OF-articlesr-chuan-nghiemSc-Chuan-N-3 .pagedjs_margin-bottom, .PAGE-OF-articledr-elli-weisbaumScientific-Day-Poster-Presentation-at-The-University-of-Toronto-20182 .pagedjs_margin-bottom
@@ -657,6 +702,8 @@ img#articlebr-minh-hyDSC3796-edit {
 ,.PAGE-OF-articlebr-phap-linhCS21202110152RL0936-crop3 .pagedjs_margin-bottom
 ,.PAGE-OF-articlebr-phap-linhIMG0436crop .pagedjs_margin-bottom
 ,.PAGE-OF-articlebr-phap-dungbai-T-Phap-Dung-4 .pagedjs_margin-bottom
+,.PAGE-OF-articlesr-chan-ducSrChanDuc3-edited .pagedjs_margin-bottom
+,.PAGE-OF-articlesr-hoa-nghiemHinh-cho-bai-Sc-Hoa-N1 .pagedjs_margin-bottom
 {
     width: 0 !important;
     height: 0 !important;

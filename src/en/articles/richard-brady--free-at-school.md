@@ -5,8 +5,6 @@ author: Richard Brady
 
 <p class="editors-preface">Richard (True Dharma Bridge) is a retired high school math teacher, and a lay Dharma teacher in the Plum Village tradition. He is also a retreat leader, writer, educational consultant, and coordinator of the Wake Up Schools Level II Program in North America and he recently wrote a book titled “Walking the Teacher’s Path with Mindfulness - Stories for Reflection and Action”. This is an excerpt from a longer interview of Richard conducted by Kaira Jewel Lingo in August 2021, hosted by Wake Up Schools, Plum Village. Full interview at youtu.be/o68kYh2N_U4</p>
 
-<!-- <span class="note">Full interview at youtu.be/o68kYh2N_U4</span></p> -->
-
 {% image "article/richard-brady/R-and-KJ-at-Centro-Avalokita-2015.jpg" %}
 
 ## Finding the Path of Mindfulness 

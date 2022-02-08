@@ -9,7 +9,7 @@ author: Sister Chân Đoan Nghiêm
 
 **So what has made you stay till now?**
 
-***Sr. Doan Nghiem:*** It is because I truly want to walk this path. In the beginning, I came to Plum Village out of curiosity. My sisters and nieces talked a lot about Plum Village, so I wanted to find out for myself. When I saw people attending the schedule, I just followed them. I didn’t really want to learn anything yet. Fortunately that year, Thay was writing “Old Path White Clouds” and teaching on it at the same time in the Winter Retreat. I felt like Thay was recounting stories about the Buddha and his disciples as well as their way of life. I really liked it. The stories showed me that there was a way of life different from the conventional one that I knew. In fact, I did not know what I wanted then. There was nothing out in society that touched me or appealed to me. I was always brooding and did not see a way out. 
+***Sr. Doan Nghiem:*** It is because I truly want to walk this path. In the beginning, I came to Plum Village out of curiosity. My sisters and nieces talked a lot about Plum Village, so I wanted to find out for myself. When I saw people attending the schedule, I just followed them. I didn’t really want to learn anything yet. Fortunately that year, Thay was writing “Old Path White Clouds” and teaching on it at the same time in the Winter Retreat. I felt like Thay was recounting stories about the Buddha and his disciples as well as their way of life. I really liked it. The stories showed me that there was a way of life different from the conventional one that I knew. In fact, I did not know what I wanted then. There was nothing out in society that touched me or appealed to me. I was always brooding and did not see a way out.
 
 Then I heard the teaching on the blind turtle. This was the essential key for my decision to ordain as a monastic. In that teaching, the Buddha taught that it is very difficult to have the chance to be born a human, more so to encounter the Dharma, and even more so to become a monastic, and even rarer to become enlightened. 
 
@@ -18,6 +18,8 @@ While listening, I ticked off the difficult parts that I had already gone throug
 **When you were Thay’s attendant, did you have fun? Did Thay teach you how to be an attendant?**
 
 ***Sr. Doan Nghiem:*** Thay didn’t teach me how to be an attendant. In 1990, right after my ordination, Thay went on a U.S. teaching tour. Before leaving, Thay gave me a copy of the “Commentary on Trainings for Novices” by Venerable Thich Hanh Tru. Thay really treasured this old yellowing book. He said that he himself used this very book to practice as a new novice. Hearing that, I also treasured the book. I bought some transparent sticky plastic to cover the book, which was frayed and torn. However, though I read the commentary, I didn’t pay much attention to its teachings. It wasn’t until the end of 1992 that I had a chance to attend Thay for the first time.
+
+{% image "article/sr-doan-nghiem/su-me-DJoan-N-3-edited.jpg" %}
 
 That day, the snow was very thick on the road, so we were unable to drive. After the meal to say farewell to the old year, Thay had to stay back in Lower Hamlet in the “Hoa Cau” room (Areca Palm Flowers). The sisters told me to attend Thay. I hurried to take care of the firewood to warm up the room. When that was done, I went back to my room and began to flip through the novice trainings commentary. By that time, how could one possibly sit down and memorize the chapter on “Attending Your Teacher”! 
 

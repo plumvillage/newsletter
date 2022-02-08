@@ -88,6 +88,7 @@ module.exports = {
     en: [
         //1
         "tributes-to-thay",
+        "thank-you-thay",
         "disciples-pv-eulogy",
         "disciples-vi-eulogy",
         "su-ong--the-true-sangha",
