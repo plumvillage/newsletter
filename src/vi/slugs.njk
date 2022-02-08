@@ -1,12 +1,13 @@
-<!DOCTYPE html>
-<html dir="ltr" lang="{{ locale }}">
-<body>
 {% set articles = collections["articles_" + locale] %}
 {%- for article in articles -%}
-{% set newSlug = article.data.author | slugify + "--" + article.data.title | slugify %}
-{%- if article.fileSlug != newSlug-%}
-mv "{{ article.fileSlug }}.md" "{{ newSlug }}.md"<br>
-{%- endif -%}
+    {% set newLine = "\n" %}
+    {% set newSlug = article.data.author | slugify
+        | replace("-chan-", "-")
+        | replace("sr-duc-", "sr-chan-duc-")
+        | replace("su-co-duc-", "su-co-chan-duc-")
+        + "--" + article.data.title | slugify %}
+    {%- if article.fileSlug != newSlug -%}
+{# git mv "{{ article.fileSlug }}.md" "{{ newSlug }}.md" #}
+git mv "{{ article.fileSlug }}.md" "{{ newSlug }}.md"
+    {%- endif -%}
 {%- endfor -%}
-</body>
-</html>

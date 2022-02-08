@@ -67,7 +67,7 @@ async function imageShortcode(src, optClasses) {
             destPath = destPath + "build/"
         }
         
-        console.log("processing:", data.filename)
+        // console.log("processing:", data.filename)
         
         /* data:
             format: 'webp',
