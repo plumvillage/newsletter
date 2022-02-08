@@ -63,8 +63,8 @@ module.exports = {
         "thay-phap-ung--con-ga-va-qua-trung",
         //37
         //38 Giấc mơ đại đồng	Chân Thu Lâm - Minh Hương
-        // "minh-huong--giac-mo-dai-dong",
-        //39
+        "minh-huong--giac-mo-dai-dong",
+        //39 su-co-hoc-nghiem--cuoc-doi-thay-rat-dep.md
         //40
         //41
         //42
@@ -72,7 +72,8 @@ module.exports = {
         "su-co-sac-nghiem--khi-tiep-nhan-cung-trao-truyen",
         //44
         //45
-        //46
+        //46 Cuộc đời Thầy rất đẹp	Sr. Học N
+        "su-co-hoc-nghiem--cuoc-doi-thay-rat-dep",
         //47
         //48
         //49
