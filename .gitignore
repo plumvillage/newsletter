@@ -1,9 +1,9 @@
 .cache
 .sass-cache
 builds
+docs
 node_modules
 sandbox
 src/media
-docs/media
 .env
 workspace.code-workspace
