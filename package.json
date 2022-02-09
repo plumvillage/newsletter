@@ -6,6 +6,7 @@
         "clean": "rm -R docs",
         "debug": "DEBUG=Eleventy* npx @11ty/eleventy",
         "start": "npx @11ty/eleventy --serve",
+        "start:incremental": "npx @11ty/eleventy --serve --incremental",
         "build-html": "npx @11ty/eleventy",
         "build-pdf-vi-letter": "pagedjs-cli --additional-script docs/js/hooks-to-pagedjs.js -i docs/vi/letter/index.html -o builds/ltlm-45-vi-letter.pdf",
         "build-pdf-vi-a4": "pagedjs-cli --additional-script docs/js/hooks-to-pagedjs.js -i docs/vi/a4/index.html -o builds/ltlm-45-vi-a4.pdf",
