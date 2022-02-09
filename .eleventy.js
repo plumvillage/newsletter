@@ -7,9 +7,11 @@ const Image = require("@11ty/eleventy-img");
 // Image.concurrency = 4; // default is 10
 var articleTitleCalligraphies = fs.readdirSync(`./src/media/publish/Calligraphy/article-titles/`)
 
+const processImages = true;
+
 async function imageShortcode(src, optClasses) {
     // src: article/su-ong/ThayHeaderImg_whiteFadeout2.jpg
-    let processImages = true;
+
     let dryRun = false;
     const srcPath = "src/media/publish";
     let srcFull = path.join(srcPath, src);
@@ -102,7 +104,12 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("src/js");
     eleventyConfig.addWatchTarget("src/js");
 
-    eleventyConfig.addPassthroughCopy({ "src/media/publish": "media" });
+    if (processImages) {
+        eleventyConfig.addPassthroughCopy({ "src/media/publish/Calligraphy": "media/Calligraphy" });
+    } else {
+        eleventyConfig.addPassthroughCopy({ "src/media/publish": "media" });
+    }
+
     eleventyConfig.addWatchTarget("src/media/publish");
 
     eleventyConfig.addPassthroughCopy("src/CNAME");
