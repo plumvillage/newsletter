@@ -71,12 +71,12 @@ What I really want to share with you is that even though we may have different w
 
 A while back I had the chance to mentor aspirants and young novices at Deer Park. They asked me for some advice on how to connect with the elders since sometimes they felt a bit distant. If we see the sangha as a garden, like Thầy shared in *Joyfully Together*, then as a young monastic the most wonderful thing we can do is walk under the shade of these tall trees who are our elders and rest against their trunk. Soon enough, you will also have younger brothers (and sisters) to whom you will be offering support and care and guidance.
 
-{% image "article/br-phap-hai/scan3.jpg", "has-label" %}
-<p class="image-label">Lamp Transmission, 2003</p>
-
 Good friendship in Buddhism means more than just associating with people that share our interests or have similar outlooks. It means actively seeking out companions to whom we can look for guidance and instruction.
 
 A good mentor or elder from time to time will hopefully share things that we disagree with or we see differently, and in those moments we should know that we have indeed met a good and kind friend, since they will help us to grow in some way.
+
+{% image "article/br-phap-hai/scan3.jpg", "has-label" %}
+<p class="image-label">Lamp Transmission, 2003</p>
 
 Our relationship with each other as elders and juniors is very much a reciprocal one. I encourage each of you to actively build your spiritual friendship with your elders, taking every opportunity to naturally approach them, drink tea and connect with them, especially if they are different from you. You will then discover many amazing things about them. They will offer you many deep gifts. Most of all, if you build a Dharma friendship with them, you will discover that they are human. That will give you confidence in your Dharma because you will see the unique nature of the Dharma Body and Dharma expression of each one - and then, most importantly, you will begin to see it in yourself.
 

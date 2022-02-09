@@ -211,8 +211,8 @@ article img {
     display: block; /* block eliminates space around image */
     float: right; /* makes paragraph text float/break around it */
     max-width: 100%;
-    margin-top: 6pt;
-    margin-bottom: 6pt;
+    margin-top: 11pt;
+    margin-bottom: 11pt;
 }
 
 h1.calligraphyTitle {
@@ -231,7 +231,7 @@ h2 { /* section in article */
     font-weight: bold;
     color: var(--color-bark-dark);
     margin-left: 8pt; /* ~ text-indent on 2 lines*/
-    margin-top: 17pt;
+    margin-top: 14pt;
     margin-bottom: 5pt;
 }
 
@@ -269,11 +269,12 @@ article p, article blockquote {
 article p + p,
 /* since images float around text, paragraphs can be adjacent even when an image intersects them */
 article img:not(.articleCalligraphy) + p:not(.image-label) {
-    margin-top: 14pt;
+    margin-top: 11pt;
     text-indent: 16pt;
 }
 
 /* does not work ... pagedjs has a way to connect articles */
+article > img:nth-of-type(1),
 article > p:nth-of-type(1) {
     margin-top: 0;
     text-indent: 0;
@@ -281,8 +282,8 @@ article > p:nth-of-type(1) {
 
 article blockquote {
     text-indent: 14pt;
-    margin-top: 14pt;
-    margin-bottom: 6pt;
+    margin-top: 11pt;
+    margin-bottom: 14pt;
 	padding-left: 6pt;
     border-left: 1pt;
 	border-top: 0;
@@ -480,7 +481,8 @@ h1#chicken-and-egg
     margin-bottom: -7mm;
 }
 /* increase space between calligraphy and author */
-h1#peace-and-happiness-walk-hand-in-hand
+h1#peace-and-happiness-walk-hand-in-hand,
+h1#strolling-with-joy-on-a-sunny-day
 {
     margin-bottom: -3mm;
 }
@@ -668,22 +670,22 @@ img#articlebr-phap-linhIMG0436crop {
 
 /*  108mm / 80mm is more spacious */
 img#articledr-elli-weisbaumScientific-Day-Poster-Presentation-at-The-University-of-Toronto-20182 {
-    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + 103mm) * -1);
+    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + 118mm) * -1);
     mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 10%,rgba(0,0,0,1.0) 30%);
     -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 10%,rgba(0,0,0,1.0) 30%);
 }
 .PAGE-OF-articledr-elli-weisbaumScientific-Day-Poster-Presentation-at-The-University-of-Toronto-20182 .pagedjs_page_content {
-    height: calc(100% - var(--pagedjs-footnotes-height) - 75mm) !important;
+    height: calc(100% - var(--pagedjs-footnotes-height) - 90mm) !important;
 }
 
 
 img#articlebr-phap-linhCS21202110152RL0936-crop3 {
-    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + 108mm) * -1);
-    mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 0.5%,rgba(0,0,0,1.0) 10%);
-    -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 0.5%,rgba(0,0,0,1.0) 10%);
+    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + 115mm) * -1);
+    /* mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 0.5%,rgba(0,0,0,1.0) 10%);
+    -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 0.5%,rgba(0,0,0,1.0) 10%); */
 }
 .PAGE-OF-articlebr-phap-linhCS21202110152RL0936-crop3 .pagedjs_page_content {
-    height: calc(100% - var(--pagedjs-footnotes-height) - 108mm) !important;
+    height: calc(100% - var(--pagedjs-footnotes-height) - 115mm) !important;
 }
 
 
@@ -727,5 +729,5 @@ img#articlebr-minh-hyDSC3796-edit {
 .PAGE-OF-articlebr-phap-linhCS21202110152RL0936-crop3 .pagedjs_footnote_area {
     text-align: right;
     color: var(--color-tower);
-    bottom: -120mm;
+    bottom: -126mm;
 }

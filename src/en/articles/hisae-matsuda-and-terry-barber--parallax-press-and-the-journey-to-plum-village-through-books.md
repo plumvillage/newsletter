@@ -5,6 +5,10 @@ author: Hisae Matsuda & Terry Barber
 
 <p class="editors-preface">In 1986, four years after the founding of Plum Village, Thầy and some of his North American students published the book <i>Being Peace</i> in Berkeley, California. Thus, Thầy became the cofounder of Parallax Press, the publishing house of the Plum Village community in the United States, with the mission “to contribute to collective insight and awakening, bringing about a more joyful, healthy, and compassionate society” and make the Plum Village teachings accessible worldwide. Thirty-six years and more than 335 books later, Parallax Press keeps Thầy’s books in print and brings out twelve new works a year, which are distributed by Penguin Random House and available in bookshops everywhere. Current publisher Hisae Matsuda sat down with editorial director and lay Dharma teacher Terry Barber, the longest-serving member of the publishing team, to talk about how their lives have been enriched through reading and working on Thầy’s books.</p>
 
+{% image "article/hisae-matsuda-and-terry-barber/HarvardBookstore.jpg" %}
+
+{% image "article/hisae-matsuda-and-terry-barber/ParallaxTeamInPV.jpg" %}
+
 **Hisae:** How did you first come to Plum Village? 
 
 **Terry:** In 1991, my studies and work were ending and I was ready for a change. For years I had been reading books about Buddhism and wanted to live in a temple or practice center. I knew for my life to move forward I needed the support of a daily schedule and practice community. One day someone put a copy of *Being Peace* into my hands and said, “I think you will like this!” and so I learned about Thầy. I thought, “If it’s possible, I’d like to go to Thầy’s practice center.” Soon after, I had the chance to attend his public talk in Los Angeles and a Day of Mindfulness at the retreat for environmentalists in Malibu. I was moved to hear Thầy address matters of social injustice; at that time it was the police beating of Rodney King, which had happened a few months before and was still in the news. I came to Plum Village in April 1992, hoping to stay indefinitely.

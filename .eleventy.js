@@ -9,7 +9,7 @@ var articleTitleCalligraphies = fs.readdirSync(`./src/media/publish/Calligraphy/
 
 async function imageShortcode(src, optClasses) {
     // src: article/su-ong/ThayHeaderImg_whiteFadeout2.jpg
-    let processImages = false;
+    let processImages = true;
     let dryRun = false;
     const srcPath = "src/media/publish/";
     let srcFull = srcPath + src
@@ -18,7 +18,7 @@ async function imageShortcode(src, optClasses) {
     let parsed = path.parse(src)
     let autoId = slugify(`${parsed.dir}/${parsed.name}`, { strict: true })
     let options = {
-        formats: ["jpeg"], /* jpeg, png, webp, gif, tiff, avif */
+        formats: ["webp"], /* jpeg, png, webp, gif, tiff, avif */
         outputDir: `docs/media/build/${parsed.dir}`,
         widths: [2000],
         dryRun: dryRun,
@@ -63,11 +63,10 @@ async function imageShortcode(src, optClasses) {
             // doesn’t generate any files, but will tell you where the asynchronously generated files will end up!
             // let metadata = Image.statsSync(srcFull, options);
 
-            data = metadata.jpeg[metadata.jpeg.length - 1];
+            data = metadata.webp[metadata.webp.length - 1];
             destPath = destPath + "build/"
         }
-        
-        // console.log("processing:", data.filename)
+        console.log("processing:", data.filename)
         
         /* data:
             format: 'webp',
