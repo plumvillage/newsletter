@@ -6,14 +6,5 @@
 {%- endif %}
 
     {% block content %}
-    <article>
-        <h1 id="ch1" class="chapter">{{ title }}</h1>
-        <h2 class="author">{{ author }}</h2>
-        {%- if pagedjsCLI == true or pagedjsCLI[pagination.pageNumber] == true %}
-            {{ content | safe | replace("/media/", "../../../media/") }}
-        {%- else %}
-            {{ content | safe }}
-        {%- endif %}
-        <div class="article-end"></div>
-    </article>
+        {% include "partials/article-content.njk" %}
     {% endblock %}

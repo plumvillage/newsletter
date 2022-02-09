@@ -1,4 +1,6 @@
 {% set i18n = site[locale] %}
+{% set articles = collections["articles_" + locale] %}
+{% set pathPrefix = "" %}
 <!DOCTYPE html>
 <html dir="ltr" lang="{{ locale }}">
 <head>

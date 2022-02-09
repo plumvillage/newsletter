@@ -53,7 +53,7 @@ html:lang(en) .pagedjs_left_page .pagedjs_margin-bottom-left {
     background: 7% 60%/20% no-repeat url('../../media/Calligraphy/Parallels EN p1 Harmony at home.jpg');
 }
 html:lang(vi) .pagedjs_left_page .pagedjs_margin-bottom-left {
-    background: 7% 60%/20% no-repeat url('../../media/Calligraphy/Parallels VI p1 Ngay Xuan Tren Hoa Duoi Thuan.jpg');
+    background: 7% 50%/35% no-repeat url('../../media/Calligraphy/Parallels VI p1 Ngay Xuan Tren Hoa Duoi Thuan.jpg');
 }
 
 @page:right {
@@ -69,7 +69,7 @@ html:lang(en) .pagedjs_right_page .pagedjs_margin-bottom-right {
     background: 93% 60%/20% no-repeat url('../../media/Calligraphy/Parallels EN p2 Peace all around.jpg');
 } 
 html:lang(vi) .pagedjs_right_page .pagedjs_margin-bottom-right {
-    background: 93% 60%/20% no-repeat url('../../media/Calligraphy/Parallels VI p2 Bon Mua Trong Am Ngoai Em.jpg');
+    background: 93% 50%/35% no-repeat url('../../media/Calligraphy/Parallels VI p2 Bon Mua Trong Am Ngoai Em.jpg');
 }
 
 .front-cover, .front-collage, .back-collage, .back-cover {
@@ -472,17 +472,31 @@ img#CalligraphyParallels-VI-p2-Bon-Vertical {
 
 
 /* reduce space between calligraphy and author */
-h1#the-true-sangha,
+/* h1#the-true-sangha, */
 h1#tang-than-dich-thuc,
 h1#dharma-banquet,
 h1#chicken-and-egg
 {
-    margin-bottom: -8mm;
+    margin-bottom: -7mm;
 }
 /* increase space between calligraphy and author */
 h1#peace-and-happiness-walk-hand-in-hand
 {
     margin-bottom: -3mm;
+}
+
+#Calligraphyarticle-titlessu-ong-the-true-sangha {
+    max-height: 40mm !important;
+}
+
+#Calligraphyarticle-titlessu-ong-the-true-sangha
+,#Calligraphyarticle-titlessu-ong-lang-mai-tang-than-dich-thuc
+{
+    filter: drop-shadow(0 0 3pt white);
+}
+
+h1#the-true-sangha {
+    margin-bottom: -12mm;
 }
 
 /* calligraphy should not intersect with author */
@@ -506,26 +520,26 @@ img#articlesu-ongTheTrueSangha2 {
     width: calc(var(--pagedjs-pagebox-width) + (var(--bleed)) * 2);
     left: calc((var(--pagedjs-margin-left) + var(--bleed))*-1);
     top: calc((var(--pagedjs-margin-top) + var(--bleed))*-1);
-    mask-image: linear-gradient(to top, rgba(0,0,0,0) 0%,rgba(0,0,0,1) 35%);
-    -webkit-mask-image: linear-gradient(to top, rgba(0,0,0,0) 0%,rgba(0,0,0,1) 35%);
+    mask-image: linear-gradient(to top, rgba(0,0,0,0) 0.1%,rgba(0,0,0,1) 35%);
+    -webkit-mask-image: linear-gradient(to top, rgba(0,0,0,0) 0.1%,rgba(0,0,0,1) 35%);
+    border-bottom: 2px solid white;
 }
 
-h1#the-true-sangha, h1#tang-than-dich-thuc {
-    text-shadow: /* stacking */
-        var(--color-sanghati-light) 1px 0 5px
-        ,white 1px 0 10px
-        ,white 1px 0 20px
-        ,white 1px 0 30px
-    ;
-    margin-top: 70mm;
-    /* does not extend beyond article frame: */
-    /* background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(255,255,255,0) 40%); */
-    overflow: visible;
+h1#the-true-sangha {
+    margin-top: 75mm;
 }
+
+h1#tang-than-dich-thuc {
+    margin-top: 80mm;
+}
+
 h1#the-true-sangha + .author, h1#tang-than-dich-thuc + .author {
     font-weight: bold;
     text-shadow: white 1px 0 5px
 }
+
+
+
 
 /* img#articlebr-phap-kham1998-TangThanXomThuong-MuaHecut, */
 img#articlebr-troi-dao-quangIMG1129,

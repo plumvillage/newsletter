@@ -116,19 +116,23 @@ module.exports = function(eleventyConfig) {
                 console.assert((articleOrder[lang].includes(a.fileSlug)), `Missing order for ${a.fileSlug}`);
                 return articleOrder[lang].indexOf(a.fileSlug) - articleOrder[lang].indexOf(b.fileSlug);
             })
+            // .map(e => {
+            //     // we could do some custom processing here
+            //     return e
+            // })
         )
     }
     
     // Articles: https://docs.google.com/spreadsheets/d/1pC-qmOUWU6diB3jMjgpbRYse9seF1wOx_XF3gJBeTC4/edit#gid=0
     createSortedCollection("vi")
     createSortedCollection("en")
-    
+
     // https://www.11ty.dev/docs/languages/nunjucks/#generic-global
     eleventyConfig.addNunjucksGlobal("articleCalligraphies", function(fileSlug) {
         let e = {}
         e.hasCalligraphy = articleTitleCalligraphies.includes(`${fileSlug}.webp`)
         if (e.hasCalligraphy) {
-            console.log("found calligraphy for article: ", fileSlug)
+            // console.log("found calligraphy for article: ", fileSlug)
             e.calligraphyPath = `Calligraphy/article-titles/${fileSlug}.webp`
         }
         return e

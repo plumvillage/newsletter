@@ -13,28 +13,14 @@
         {% image "Calligraphy/Parallels VI p1 Ngay Vertical.jpg" %}
         {% image "Calligraphy/Parallels VI p2 Bon Vertical.jpg" %}
     </div>
-
     {%- endif %}
 
     {%- for article in articles -%}
-        <article class="article-{{ article.data.title | slugify }}">
-            {% set artCall = articleCalligraphies(article.fileSlug) %}
-            {%- if artCall.hasCalligraphy %}
-                <h1 id="{{ article.data.title | slugify }}" class="chapter calligraphyTitle">
-                {% image artCall.calligraphyPath, "articleCalligraphy" %}
-            {%- else %}
-                <h1 id="{{ article.data.title | slugify }}" class="chapter">
-                {{ article.data.title }}
-            {%- endif %}
-            </h1>
-            <div class="author">{{ article.data.author }}</div>
-            {%- if pagedjsCLI == true %}
-                {{ article.data.content | safe | replace("/media/", "../../media/") }}
-            {%- else %}
-                {{ article.data.content | safe }}
-            {%- endif %}
-            <div class="article-end"></div>
-        </article>
+        {% set title = article.data.title %}
+        {% set author = article.data.author %}
+        {% set content = article.data.content %}
+
+        {% include "partials/article-content.njk" %}
     {%- endfor -%}
 
     <div class="contents">

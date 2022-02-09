@@ -13,6 +13,8 @@ Xa Làng, chị thường nhớ và thường mơ về những lối mòn mình 
 
 Những con đường thiền hành của ba xóm ở Làng sao đẹp quá! Không biết bao nhiêu lần bước đi trên những con đường đó mà sao lần nào chị cũng thấy đẹp. Con đường quanh hồ sen hình trăng khuyết hay con đường nằm giữa những hàng mận hướng lên ngọn đồi của xóm Mới. Con đường xuyên qua Thánh đường Bạch Dương, dẫn vào rừng nơi có hồ nước của xóm Hạ. Con đường đi xuống dốc, qua rừng sồi xuống đồi Bụt của xóm Thượng, và không thể không kể tới con đường thông huyền thoại mà Thầy thường nhắc tới. Còn nhiều con đường nữa, đẹp lắm! Đẹp trong khi mình dạo chơi một mình ở xóm, càng đẹp hơn khi chị em mình cùng được thiền hành với tăng thân. Hình ảnh đại chúng lặng lẽ, bình yên đi với nhau thật sống động, thân thương. Những ngày sắp rời Làng, mỗi lần thiền hành trên những nẻo đường ấy, chị đều có ý thức rất rõ. Chị đi cẩn trọng, gởi lòng biết ơn của mình đến con đường. Đôi lúc chị chạm vào một gốc mận hay một gốc thông để cảm nhận và cũng như gửi một lời chào. 
 
+{% image "article/sr-thao-nghiem/CCI0224201600039.jpg" %}
+
 Rồi trên chặng đường tiếp theo, sẽ có những lối mòn thân thương mới, nơi ta có những trải nghiệm mới, nơi sẽ mãi ở lại trong lòng ta.
 
 ## Phật đường
@@ -22,8 +24,6 @@ Xóm Mới có một nơi linh thiêng mà chị rất nhớ, đó là Phật đ
 > Trên đài sen trắng Như Lai hiện
 >
 > Giữa rừng tre tím Quán Âm ngồi
-
-{% image "article/sr-thao-nghiem/CCI0224201600039.jpg" %}
 
 Đọc lên sẽ cảm nhận được liền nơi mình đang đứng. 
 
@@ -53,6 +53,8 @@ Giờ cơm trưa là vui nhất. Hàng khất thực dài thật dài vì chỉ 
 
 Trong những khóa tu lớn, tới Sơn Cốc là dịp thầy trò có mặt cho nhau, sạc lại năng lượng và thắp lại ý thức mình là một người may mắn đang có nhiều cơ hội để thực tập và giúp người. Thầy luôn có đó như một người cha, quan tâm tới từng đứa con, không ai là không nhận được. Chị, em và các anh chị em khác đều mang theo trong mình tình thương ấy tới giờ đó thôi.
 
+{% image "article/sr-thao-nghiem/IMG_6614-edited.jpg" %}
+
 ## Thiền đường “Tình Thầy”
 
 Dãy nhà đó đã có mặt từ khi Thầy có Sơn Cốc. Trong bức hình chụp Sơn Cốc từ những ngày đầu mà Thầy treo ở thư viện, mình đã thấy khu vực phía sau đó rồi. Thế nhưng nó bị hư hỏng nặng và không dùng được nên không ai quan tâm làm gì. Vậy mà không hiểu sao Thầy lại muốn sửa lại. Sau vài lần bảo thị giả đẩy xe vào tự mình xem xét, Thầy bắt đầu ra dấu gọi các thị giả ra dọn dẹp khu nhà bỏ hoang đó. Đầu tiên là hai thị giả theo hầu, sau đó gọi thêm nhóm thị giả còn lại và tiếp theo là cả đại chúng tham gia dọn dẹp. Thầy mời thầy Pháp Dung thiết kế bản vẽ. Thầy là người ra ý, đốc thúc, giám sát công trình. Những ngày thợ bắt đầu tới làm hầu như ngày nào Thầy cũng ra thăm và rất hứng khởi với dự án đó. 
@@ -67,6 +69,8 @@ Nói đến Sơn Cốc và Thầy là chị nhớ đến có một ngày đáng 
 
 Để chuẩn bị cho ngày gặp đại chúng, Thầy đã sắp xếp rất kĩ càng. Không biết Thầy nghĩ gì mà một ngày nọ Thầy đề nghị mua cho Thầy một cái máy làm popcorn. Sư cô Chân Không và anh chị em thị giả nghe Thầy nói vậy ai cũng ngạc nhiên. Mọi người chưa tưởng tượng ra tu viện có một cái máy làm popcorn thì như thế nào. Cái máy đó chắc khó kiếm lắm, mà cũng không biết mua làm gì, để ở đâu? Thầy nói: mua cho Thầy đi, Thầy trả tiền, Thầy có tiền bán thư pháp. Nghe cũng đủ biết Thầy rất thích ý tưởng đó nên sư cô Định Nghiêm tìm trên mạng và mua được một cái máy để làm popcorn thật. Cái máy màu đỏ, không lớn lắm, có bánh xe để kéo. 
 
+{% image "article/sr-thao-nghiem/Sc-Thao-N-2-edited.JPG" %}
+
 Ngày máy được chuyển về, Thầy trò háo hức mở ra xem. Khi lắp ráp mới phát hiện ra do vận chuyển nên một miếng kính bị bể, thị giả dùng bao ni lông che tạm. Có được cái máy rồi, Thầy dạy: Bây giờ phải lên mạng học cách làm popcorn. Thầy Pháp Hữu, sư cô Nho Nghiêm, thầy Pháp Áo, thầy Pháp Nguyện và chị là ban thử máy, nổ bắp. Khách hàng là Thầy, sư cô Chân Không và sư cô Định Nghiêm. Thật hồi hộp với giây phút bỏ dầu ăn và bắp vào máy để thử và chờ đợi. Rồi bắp nổ trào ra khỏi cái nồi nhỏ ở trong máy, chao ôi là vui. Thầy thì cười tươi, quý sư cô thì hoan hô còn tụi chị cứ gọi là nhảy tưng lên. Thầy được mời chén bắp nổ đầu tiên và anh chị em cũng hào hứng thử. Thầy còn đề nghị nghiên cứu để vào ít muối và caramel cho bắp có vị nữa. Thế là thị giả lại tất bật nổ hết mẻ này tới mẻ khác để canh đo liều lượng và thời gian cho đúng. Những ngày đó anh chị em tha hồ ăn bắp nổ và còn gởi về cho xóm Mới ăn giùm.
 
 Vài ngày sau, Thầy viết thư mời đại chúng đến dự ngày xuất sĩ và ăn popcorn. Những ngày đó, ngày nào Thầy cũng nhắc thị giả phải lấy máy ra tập luyện cho thật nhuần nhuyễn để trình diễn trước đại chúng. 
@@ -75,7 +79,7 @@ Trước ngày hẹn vài ngày Thầy phải đi kiểm tra sức khỏe ở b�
 
 Rồi ngày đại chúng tập trung cũng tới. Ai cũng hào hứng. Từ trưa anh chị em thị giả đã chuẩn bị sẵn sàng nào là máy nổ bắp, bếp để thắng đường làm caramel, một ít muối và thùng để đựng khi ra sản phẩm. Ai cũng lo là đại chúng đông, làm không kịp. Còn Thầy thì chuẩn bị xuất hiện sao cho đẹp và Thầy cũng sắp xếp để lúc nào mình đem xe popcorn ra cho ấn tượng. Có cả một chương trình hẳn hoi, công nhận Thầy kỹ thật!
 
-Chị cứ nhớ các thị giả nổ bắp ở trong phòng nghỉ phía sau, chỗ nhìn ra ba cây thông của Thầy (Thầy thường gọi đó là ba sư anh của các con). Đại chúng thì tập trung tụng bài Tâm kinh tuệ giác qua bờ, nghe hùng và hay lắm. Rồi thầy Pháp Áo đẩy xe chở Thầy ra ngồi ngắm đại chúng tụng kinh. Nhìn từ trong ra có thể thấy một số quý thầy, quý sư cô không tụng kinh được, chỉ đứng nhìn, một số đứng núp đằng sau… khóc. 
+Chị cứ nhớ các thị giả nổ bắp ở trong phòng nghỉ phía sau, chỗ nhìn ra ba cây thông của Thầy (Thầy thường gọi đó là ba sư anh của các con). Đại chúng thì tập trung tụng bài Tâm kinh tuệ giác qua bờ, nghe hùng và hay lắm. Rồi thầy Pháp Áo đẩy xe chở Thầy ra ngồi ngắm đại chúng tụng kinh. Nhìn từ trong ra có thể thấy một số quý thầy, quý sư cô không tụng kinh được, chỉ đứng nhìn, một số đứng núp đằng sau… khóc.
 
 Sau khi giới thiệu, Thầy ra dấu gọi đem xe popcorn ra và nổ cho đại chúng xem. Mọi người cùng được ăn popcorn. Đó là quà của Thầy và công thực hiện của ban thị giả. Thầy rất hạnh phúc được thấy đại chúng và đại chúng cũng hạnh phúc, cảm động được thấy Thầy. Popcorn ngon hay không ngon không quan trọng mà cái quý là ai cũng nhận được tình Thầy.
 
