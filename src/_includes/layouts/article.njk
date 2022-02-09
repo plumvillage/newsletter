@@ -6,5 +6,21 @@
 {%- endif %}
 
     {% block content %}
-        {% include "partials/article-content.njk" %}
+        <article>
+            {% set artCall = articleCalligraphies(page.fileSlug) %}
+            {%- if artCall.hasCalligraphy %}
+                <h1 id="{{ title | slugify }}" class="chapter calligraphyTitle">
+                {% image artCall.calligraphyPath, "articleCalligraphy" %}</h1>
+            {%- else %}
+                <h1 id="{{ title | slugify }}" class="chapter">{{ title }}</h1>
+            {%- endif %}
+                
+            <h2 class="author">{{ author }}</h2>
+            {%- if pathPrefix != "" %}
+                {{ content | safe | replace("/media/", pathPrefix+"/media/") }}
+            {%- else %}
+                {{ content | safe }}
+            {%- endif %}
+            <div class="article-end"></div>
+        </article>
     {% endblock %}

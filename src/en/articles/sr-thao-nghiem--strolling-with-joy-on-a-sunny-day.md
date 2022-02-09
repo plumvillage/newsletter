@@ -7,6 +7,8 @@ My beloved younger siblings,
 
 It has been two years since I left Plum Village, France. How time flies! So much has happened in the world and in the sangha, for you and for me. Sometimes in my dreams or when we sit around and share stories, many memories return to me. You know what the sisters are like - we are easily carried away by stories, one after another. They contain anecdotes about Thay, about brotherhood and sisterhood, and all of the joyful times.
 
+{% image "article/sr-thao-nghiem/CCI0224201600039.jpg" %}
+
 ## The Walking Meditation Paths
 
 Being far away from Plum Village, I often remember and dream about the paths I have walked on. Walking them many times, they have gradually become well worn even in my mind. The ones I walked upon with a deeper awareness are more “worn” and feel dearer to me when I recall them. Those are the paths we often use during the day, especially the walking meditation paths.
@@ -16,8 +18,6 @@ How beautiful the walking meditation paths are in the three hamlets! I have walk
 There are many more paths that are incredibly delightful. Beautiful while we stroll freely and alone in our own hamlet, and even more beautiful when we go for walking meditation with our sisters and brothers. The images of the sangha walking quietly and peacefully are so alive and dear to me. In the days just before leaving France, I stayed very clearly aware whenever we went for walking meditation on those paths. I walked with reverence, expressing my gratitude to them. Sometimes I placed my hand on a plum tree or a pine tree to feel it, and to say hello.
 
 On the continuing journey, there will be new paths that become dear, where we will have new experiences that will stay within our hearts.
-
-{% image "article/sr-thao-nghiem/CCI0224201600039.jpg" %}
 
 ## Buddha Hall
 

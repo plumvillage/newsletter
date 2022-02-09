@@ -7,15 +7,13 @@ Brother Giác Thanh was one of the elder brothers of Plum Village. He lived in t
 
 Aside from the nicknames *Brother Floating Cloud* and *Brother Fleurs de Cactus* that some knew of, there was another name given by Thầy– *Trà Sư (Tea Master)*. Perhaps this is the name that everyone liked and associated with Br. Giác Thanh’s Zen Master style. He also really liked the name *Floating Cloud*. These two names captured his peace, freedom, and ease, and anyone who had a chance to approach him could enjoy these qualities because he always exuded a holy and pure energy. Friends from the west treasured him and loved being near him.
 
-{% image "article/br-phap-niem/12Thay-Giac-Thanh_edit.jpg" %}
-
 ## The Seeker
 
 When I arrived in Plum Village on the 12<sup>th</sup> of June 1994 to be an aspirant, Br. Giác Thanh was already there. He first came to Plum Village in 1991, and I do not know much about his earlier years. I would just like to recount a few anecdotes and special moments from my time attending and learning from my elder brother. 
 
+{% image "article/br-phap-niem/12Thay-Giac-Thanh_edit.jpg" %}
+
 The story of how he came to Plum Village, according to what I have heard, is very interesting. Br. Giác Thanh was someone who always sought to learn, especially about meditation. While still in Vietnam, he already learned meditation with Zen Master Thích Thanh Từ of Bamboo Forest Monastery (tu viện Trúc Lâm). At that time, his fellow students included Br. Thích Minh Nghĩa (now the Abbot of Toàn Giác Monastery and also Giác Nguyên Ancestral Temple), Br. Thích Phước Tịnh, who is now at Deer Park Monastery, and many others. Those who wish to know more about Br. Giác Thanh should come to the above-mentioned venerable monks, especially the Venerable Phước Tịnh.       
-  
-{% image "article/br-phap-niem/ToBeAdded_edited.jpg" %}
 
 While searching for a teacher, as far as I know, Br. Giác Thanh was keen to learn, sincere, spacious, and someone who is not caught in the form. As for certain work skills, or Zen rituals, perhaps he was not so proficient. He focused all his energy on the practice and preferred a quiet, contemplative life. He always had a burning desire to learn and to realize the essence of Zen. Br. Giác Thanh wandered everywhere wanting to learn, even after coming to the west. Whenever he heard of a well-known meditation master, whether lay or monastic, he would come to learn meditation with them. It is said that he even visited female lay meditation masters to learn methods of meditation. This shows the extent of his desire to learn and his free, unconventional spirit. He meditated diligently for long periods of time, reflecting in silence, hoping to realize the essence of  Zen. Perhaps Br. Giác Thanh often went into deep concentration and completely unaware about his body. It is also perhaps because of this that whenever he sat in deep concentration, even while listening to Thầy’s teaching, he often rolled his head back and forth without realizing it. Every time Thầy saw this, Thầy would call out: “Brother Giác Thanh, open your eyes! Don’t keep your eyes closed in concentration!” Hearing Thầy, Br. Giác Thanh opened his eyes and his head stopped rolling.  	
 
@@ -33,6 +31,8 @@ Br. Giác Thanh was searching for a teacher. One day while visiting family in Ca
 > Soaring across the sky.
 
 During the years of learning from him and drinking tea by his side, I heard from Br. Giác Thanh that before coming to Plum Village, he had a dream. In it, he was lying down and saw an old woman by the foot of his bed. She looked at him with very gentle, kind, and bright eyes, and said: “Come home my child”. Later when he met Thầy, he saw that the old woman in the dream looked very much like Thầy, and he was certain that she was no other than Thầy. It is precisely due to these predestined conditions that Br. Giác Thanh always held Thầy in his heart with much respect and love, in a quiet and infinitely lovely way. 
+  
+{% image "article/br-phap-niem/ToBeAdded_edited.jpg" %}
 
 The story of awakening while viewing the Autumn splendor may remind us of the story of Zen master Lingyun Zhiqin (*Master “Sacred Cloud”*). One morning he woke to blooming peach blossoms and became suddenly enlightened. Many doubts in his mind were dispelled and he touched the nature of life, of oneself. The master had spent thirty years to find the *master swordsman,* that is, finding one's original face, one's true nature. Peach blossoms bloom, the Zen master sees. 
 
@@ -65,8 +65,6 @@ Br. Giác Thanh has transcended false appearances into a signless reality that o
 
 The Upper Hamlet in the early days when I first came was still very rustic. The material conditions and infrastructure were still quite poor. There were only about 15 monks at the time. We lived happily and contentedly together. On freezing winter days, the unsealed bedrooms just had a small wood-fired stove [for heating] and a bed made of one sheet of plywood placed on four bricks. We lit the stove before going to bed. But by the middle of the night the wood ran out, the stove was cold, and huddled in our flimsy sleeping bags, we were also cold. Getting up in the morning was always a huge challenge. We had to be very *Heroic*. If we wanted to get up, we had to do so right away! We danced around and moved our bodies for a while before bravely heading out to wash our face, brush our teeth, and then go for the morning practice session. 
 
-{% image "article/br-phap-niem/ToBeAdded2-edited.jpg" %}
-
 The old meditation hall was originally a cow shed. It did not have a fireplace and the walls were built of limestone. Even though it was icy cold, the brothers diligently continued the morning and evening meditations. Upper Hamlet had a small kitchen with an attic above it which was the monks' dining room. The dining tables were arranged in a square so that while eating, the brothers could see each other and practice being present for each other. 
 
 One morning, after two sounds of the bell to end the silent meal, one younger brother (who was a very impatient person) stood up on the side opposite Br. Giác Thanh. Before anyone else could stand up, he shocked everyone by heavily insulting Br. Giác Thanh. As a younger brother, I couldn't believe another young one could insult our eldest brother like that. For whatever reason he was so angry and was yelling: “Zen master? What kind of a zen master are you? You are shit, pee pee … !” When I looked over to Br. Giác Thanh I was even more surprised. He sat and ate calmly, peaceful, free, entirely unmoved by the insults. He looked at his younger brother with compassion and understanding. The other elder brothers intervened and dragged the young brother out of the dining room. I thought something big was going to happen.  
@@ -80,6 +78,8 @@ Once while being Br. Giác Thanh's attendant, I accidentally broke one of his te
 ## The Cute Inner Child 
 
 For a long time Br. Giác Thanh did not go for walking meditation with the sangha. Severe diabetes had hit him. Apart from being Thầy's attendant, I also took care of Br. Giác Thanh's food and laundry for two years. An ordinary person could not possibly eat his food because it did not have any seasoning, not even salt. I had to be very creative to make inspiring dishes. Br. Giác Thanh ate very well, but no matter how well one eats or how hard one tries, one still gets bored. One time he was incredibly bored by the food and somehow, found a packet of instant noodles and secretly made it. I caught him and tried to stop him from eating it. Br. Giác Thanh said: “Pháp Niệm, let your elder brother eat just one packet to ease the boredom.” I could not stop him. Actually I was only pretending to stop him because I knew he had been so very bored of his food.    
+
+{% image "article/br-phap-niem/ToBeAdded2-edited.jpg" %}
 
 Once Br. Giác Thanh had swollen ankles and could not walk easily unless he really tried. Because he did not go for walking meditation for many months, Thầy personally visited him and asked him to come walk with the sangha. Br. Giác Thanh said his legs hurt and he could not walk. He thought this way, Thầy would leave him alone. But who would have expected Thầy to pressure him to go for walking meditation? Thầy scolded him lightly and told him he had to walk outdoors for his legs to heal. Not daring to disobey Thầy, Br. Giác Thanh managed to follow Thầy's instructions. But he harboured the thought: “Yes, ok, let's go. I will walk and let my legs swell up, then you will see… Already there is no pity. Then even forcing me to go walking meditation!” But after walking with the sangha for about one week a miracle occurred - his swelling went down, his legs healed and he could walk easily again. Br. Giác Thanh was very surprised and he exclaimed: “Huh! The old man is scary!” We all have a little child in us no matter how old we are. And that inner child is innocent and uniquely beautiful. 
 

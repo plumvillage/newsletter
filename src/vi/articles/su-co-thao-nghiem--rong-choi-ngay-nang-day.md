@@ -7,13 +7,13 @@ Sư em thương,
 
 Chị xa Làng đã hai năm rồi, mau quá! Bao nhiêu chuyện đã xảy ra cho cả thế giới và cả đại chúng, cho chị và cho em. Đôi khi trong những giấc mơ hoặc khi ngồi kể chuyện cho nhau nghe, bao nhiêu kỉ niệm trong chị lại trở về. Chị em mình mà, rất dễ bị cuốn đi bởi những câu chuyện. Chuyện này nối tiếp chuyện kia thành những giai thoại trong đó có Thầy, có huynh đệ và có những ngày vui.
 
+{% image "article/sr-thao-nghiem/CCI0224201600039.jpg" %}
+
 ## Những con đường thiền hành
 
 Xa Làng, chị thường nhớ và thường mơ về những lối mòn mình đã đi. Đi quá nhiều lần và dần dần nó trở thành những lối mòn cả trong tâm thức. Những lối nào chị đi với ý thức sâu sắc thì nó “mòn” hơn, ăn sâu hơn và khi nghĩ về chị có cảm giác thân thương hơn. Đó là những con đường mình thường đi qua trong ngày, nhất là những con đường thiền hành.
 
 Những con đường thiền hành của ba xóm ở Làng sao đẹp quá! Không biết bao nhiêu lần bước đi trên những con đường đó mà sao lần nào chị cũng thấy đẹp. Con đường quanh hồ sen hình trăng khuyết hay con đường nằm giữa những hàng mận hướng lên ngọn đồi của xóm Mới. Con đường xuyên qua Thánh đường Bạch Dương, dẫn vào rừng nơi có hồ nước của xóm Hạ. Con đường đi xuống dốc, qua rừng sồi xuống đồi Bụt của xóm Thượng, và không thể không kể tới con đường thông huyền thoại mà Thầy thường nhắc tới. Còn nhiều con đường nữa, đẹp lắm! Đẹp trong khi mình dạo chơi một mình ở xóm, càng đẹp hơn khi chị em mình cùng được thiền hành với tăng thân. Hình ảnh đại chúng lặng lẽ, bình yên đi với nhau thật sống động, thân thương. Những ngày sắp rời Làng, mỗi lần thiền hành trên những nẻo đường ấy, chị đều có ý thức rất rõ. Chị đi cẩn trọng, gởi lòng biết ơn của mình đến con đường. Đôi lúc chị chạm vào một gốc mận hay một gốc thông để cảm nhận và cũng như gửi một lời chào. 
-
-{% image "article/sr-thao-nghiem/CCI0224201600039.jpg" %}
 
 Rồi trên chặng đường tiếp theo, sẽ có những lối mòn thân thương mới, nơi ta có những trải nghiệm mới, nơi sẽ mãi ở lại trong lòng ta.
 
@@ -21,9 +21,9 @@ Rồi trên chặng đường tiếp theo, sẽ có những lối mòn thân th�
 
 Xóm Mới có một nơi linh thiêng mà chị rất nhớ, đó là Phật đường. Mình thường gọi là *thiền đường tím* vì thảm trải nền có màu tím, màu đặc trưng của xóm Mới do Thầy chọn. Màu tím tượng trưng cho quốc độ của đức Bồ tát Quán Thế Âm. Ngày chị tới Làng, việc đầu tiên là tới lạy Bụt ở Phật đường. Bước vào, phát hiện ra nền nhà được lót bằng thảm màu tím, tím đậm đấy. Khoảng chính giữa có tượng Bụt màu hồng nhạt ngồi trong vòm đá thật tự nhiên, đẹp và bình yên. Thầy có viết hai câu đối cho Phật đường: 
 
-> Trên đài sen trắng Như Lai hiện
+> **Trên đài sen trắng Như Lai hiện**
 >
-> Giữa rừng tre tím Quán Âm ngồi
+> **Giữa rừng tre tím Quán Âm ngồi**
 
 Đọc lên sẽ cảm nhận được liền nơi mình đang đứng. 
 
@@ -32,6 +32,8 @@ Bước vào Phật đường, chị luôn có cảm giác mình được trang 
 Hồi trước, có một bộ xương người bằng plastic được đặt ở góc Phật đường để đại chúng quán chiếu. Có lần nó cũng được dùng làm ví dụ thế ngồi thiền cho đại chúng thấy rõ. Mỗi lần đi thực tập lạy sám pháp địa xúc một mình mà thấy bộ xương đó hoặc khi lạy xuống mà biết nó đứng đằng sau thì: Ôi sao mà sợ thế! Sau này, khi bộ xương bị hư hỏng, xộc xệch, chân một đường, tay một nẻo, rớt tùm lum thì mình đã “tiễn nó lên đường”.
 
 Ngày xóm Mới bị lụt, nước tràn vào cả Phật đường làm ướt tấm thảm, không thể cứu chữa được nên mình phải buông bỏ. Gắn bó biết bao nhiêu năm trời nên ai cũng tiếc và nhớ tấm thảm tím đó. May sao mình đã tìm được tấm thảm nhựa màu tím khác để lót sàn nhà nên màu đặc trưng của Phật đường vẫn được giữ lại.
+
+{% image "article/sr-thao-nghiem/IMG_6614-edited.jpg" %}
 
 Chị thích nhất là hình ảnh mọi người thực tập ở Phật đường. Lâu lâu có công việc, không đi công phu với đại chúng được, khi đi ngang qua nhìn vào thấy đại chúng đang ngồi tụng kinh trong đó, đẹp và hùng hậu quá, ai mà không được đánh động. Sáng sớm và sau giờ ngồi thiền tối, các sư chị, sư em thường vào Phật đường để thực tập cá nhân. Hình ảnh đó đẹp lắm! Đôi khi chị không phải là người đang ngồi đó tâm tình với Bụt, lạy xuống tiếp xúc với đất Mẹ hay kinh hành thong thả, nhưng đứng nhìn thôi chị cũng được hưởng lây năng lượng của sự bình an. Tự nhiên lòng chị cũng có sự buông bỏ và hạnh phúc. 
 
@@ -52,8 +54,6 @@ Những ngày này Thầy trò thường ngồi quanh bếp lửa ngoài trời,
 Giờ cơm trưa là vui nhất. Hàng khất thực dài thật dài vì chỉ có hai bàn thôi, đại chúng nếu ai không có công việc gì thì đều tranh thủ đứng xếp hàng trước. Tới đúng giờ ăn là mọi người đều hàng lối ngay ngắn, không thể rời hàng vì sẽ mất chỗ ngay. Nếu đội nấu ăn đem cơm tới, nhờ người đi thỉnh chuông thì ai cũng nhường nhau, không ai chịu đi mới khổ chứ! Bao nhiêu là câu chuyện vui xoay quanh bàn khất thực ở Sơn Cốc. Có những ngày mưa không có đủ chỗ ngồi ăn, đại chúng khất thực và ngồi ăn trong nhà thì ôi thôi là chật chội. Vậy mà ai cũng hạnh phúc và hứng thú với những ngày xuất sĩ mới hay chứ.
 
 Trong những khóa tu lớn, tới Sơn Cốc là dịp thầy trò có mặt cho nhau, sạc lại năng lượng và thắp lại ý thức mình là một người may mắn đang có nhiều cơ hội để thực tập và giúp người. Thầy luôn có đó như một người cha, quan tâm tới từng đứa con, không ai là không nhận được. Chị, em và các anh chị em khác đều mang theo trong mình tình thương ấy tới giờ đó thôi.
-
-{% image "article/sr-thao-nghiem/IMG_6614-edited.jpg" %}
 
 ## Thiền đường “Tình Thầy”
 

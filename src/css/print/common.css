@@ -251,24 +251,27 @@ h2 { /* section in article */
     font-size: 12pt;
     font-weight: bold;
     color: var(--color-bark-dark);
-    margin-left: 8pt; /* ~ text-indent on 2 lines*/
     margin-top: 14pt;
     margin-bottom: 5pt;
 }
 
 article .author {
-    /* font-family: "Open Sans"; */
-    /* font-weight: bold; */
     font-size: 14pt;
     line-height: 16pt;
     margin-top: 6pt;
-    font-family: "Gentium Plus"; /* less bold */
+     /* less bold */
+    /* font-family: "Gentium Plus"; */
+    font-weight: normal;
     font-variant: small-caps;
     margin-bottom: 8mm;
 }
 
-article .author + h2 {
+article .author + h2,
+article .author + img,
+article .author + p
+{
     margin-top: 0;
+    text-indent: 0;
 }
 
 /* Vietnamese words are smaller on average, thus more suitable for block text */
@@ -292,13 +295,6 @@ article p + p,
 article img:not(.articleCalligraphy) + p:not(.image-label) {
     margin-top: 11pt;
     text-indent: 16pt;
-}
-
-/* does not work ... pagedjs has a way to connect articles */
-article > img:nth-of-type(1),
-article > p:nth-of-type(1) {
-    margin-top: 0;
-    text-indent: 0;
 }
 
 article blockquote {
@@ -342,10 +338,11 @@ blockquote cite {
 }
 
 article blockquote:lang(zh) {
-    font-size: 130%;
-    line-height: 120%;
-    margin-top: 9pt;
-    margin-bottom: 9pt;
+    font-size: 140%;
+    line-height: 130%;
+    text-indent: 0;
+    /* margin-top: 9pt; */
+    /* margin-bottom: 9pt; */
 }
 
 p.verse {
@@ -585,7 +582,7 @@ img#articlebr-troi-dao-quangIMG1129 {
 } */
 
 
-
+img#articlebr-troi-dao-biDSC6747-edited,
 img#articlesr-thao-nghiemIMG6614-edited,
 img#articlesr-thao-nghiemSc-Thao-N-2-edited,
 img#articlerichard-bradyR-and-KJ-at-Centro-Avalokita-2015,
@@ -607,6 +604,16 @@ img#articlesr-chuan-nghiemSc-Chuan-N-3,img#articledr-elli-weisbaumScientific-Day
     overflow: visible;
     /* this is removing an artefact in the pdf, which would otherwise display a thin line of the image above the white mask */
     border-top: 2px solid white;
+}
+
+
+img#articlebr-troi-dao-biDSC6747-edited {
+    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + 100mm) * -1);
+    mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%,rgba(0,0,0,1.00) 20%);
+    -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%,rgba(0,0,0,1.00) 20%);
+}
+.PAGE-OF-articlebr-troi-dao-biDSC6747-edited .pagedjs_page_content {
+    height: calc(100% - var(--pagedjs-footnotes-height) - 100mm) !important;
 }
 
 
@@ -662,10 +669,10 @@ img#articlerichard-bradyR-and-KJ-at-Centro-Avalokita-2015 {
 
 
 img#articlesr-thao-nghiemCCI0224201600039 {
-    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + 130mm) * -1);
+    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + 131mm) * -1);
 }
 .PAGE-OF-articlesr-thao-nghiemCCI0224201600039 .pagedjs_page_content {
-    height: calc(100% - var(--pagedjs-footnotes-height) - 105mm) !important;
+    height: calc(100% - var(--pagedjs-footnotes-height) - 120mm) !important;
 }
 
 
@@ -701,13 +708,19 @@ img#articledr-elli-weisbaumScientific-Day-Poster-Presentation-at-The-University-
 
 
 img#articlebr-phap-linhCS21202110152RL0936-crop3 {
-    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + 115mm) * -1);
-    /* mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 0.5%,rgba(0,0,0,1.0) 10%);
-    -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 0.5%,rgba(0,0,0,1.0) 10%); */
+    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + 105mm) * -1);
+    mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 5%,rgba(0,0,0,1.0) 6%);
+    -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 5%,rgba(0,0,0,1.0) 6%);
 }
 .PAGE-OF-articlebr-phap-linhCS21202110152RL0936-crop3 .pagedjs_page_content {
-    height: calc(100% - var(--pagedjs-footnotes-height) - 115mm) !important;
+    height: calc(100% - var(--pagedjs-footnotes-height) - 105mm) !important;
 }
+.PAGE-OF-articlebr-phap-linhCS21202110152RL0936-crop3 .pagedjs_footnote_area {
+    text-align: right;
+    color: var(--color-tower);
+    bottom: -116mm;
+}
+
 
 
 img#articlebr-phap-dungbai-T-Phap-Dung-4 {
@@ -730,6 +743,7 @@ img#articlebr-minh-hyDSC3796-edit {
 }
 
 
+.PAGE-OF-articlebr-troi-dao-biDSC6747-edited .pagedjs_margin-bottom,
 .PAGE-OF-articlesr-thao-nghiemIMG6614-edited .pagedjs_margin-bottom,
 .PAGE-OF-articlesr-thao-nghiemSc-Thao-N-2-edited .pagedjs_margin-bottom,
 .PAGE-OF-articlerichard-bradyR-and-KJ-at-Centro-Avalokita-2015 .pagedjs_margin-bottom,
@@ -745,10 +759,4 @@ img#articlebr-minh-hyDSC3796-edit {
     width: 0 !important;
     height: 0 !important;
     display: none !important;
-}
-
-.PAGE-OF-articlebr-phap-linhCS21202110152RL0936-crop3 .pagedjs_footnote_area {
-    text-align: right;
-    color: var(--color-tower);
-    bottom: -126mm;
 }

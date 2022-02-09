@@ -20,11 +20,23 @@
     {%- endif %}
 
     {%- for article in articles -%}
-        {% set title = article.data.title %}
-        {% set author = article.data.author %}
-        {% set content = article.data.content %}
-
-        {% include "partials/article-content.njk" %}
+        <article>
+            {% set artCall = articleCalligraphies(article.fileSlug) %}
+            {%- if artCall.hasCalligraphy %}
+                <h1 id="{{ article.data.title | slugify }}" class="chapter calligraphyTitle">
+                {% image artCall.calligraphyPath, "articleCalligraphy" %}</h1>
+            {%- else %}
+                <h1 id="{{ article.data.title | slugify }}" class="chapter">{{ article.data.title }}</h1>
+            {%- endif %}
+                
+            <h2 class="author">{{ article.data.author }}</h2>
+            {%- if pathPrefix != "" %}
+                {{ article.data.content | safe | replace("/media/", pathPrefix+"/media/") }}
+            {%- else %}
+                {{ article.data.content | safe }}
+            {%- endif %}
+            <div class="article-end"></div>
+        </article>
     {%- endfor -%}
 
     <div class="contents">
