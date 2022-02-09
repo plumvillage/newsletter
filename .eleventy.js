@@ -11,15 +11,16 @@ async function imageShortcode(src, optClasses) {
     // src: article/su-ong/ThayHeaderImg_whiteFadeout2.jpg
     let processImages = true;
     let dryRun = false;
-    const srcPath = "src/media/publish/";
-    let srcFull = srcPath + src
-    let destPath = "/media/";
+    const srcPath = "src/media/publish";
+    let srcFull = path.join(srcPath, src);
+    let destPath = "/media";
     let data = { filename: path.basename(src) };
-    let parsed = path.parse(src)
-    let autoId = slugify(`${parsed.dir}/${parsed.name}`, { strict: true })
+    let parsed = path.parse(src);
+    let autoId = slugify(`${parsed.dir}/${parsed.name}`, { strict: true });
+    let outputDir = parsed.dir ? path.join("docs/media/build", parsed.dir) : "docs/media/build";
     let options = {
         formats: ["webp"], /* jpeg, png, webp, gif, tiff, avif */
-        outputDir: `docs/media/build/${parsed.dir}`,
+        outputDir: outputDir,
         widths: [2000],
         dryRun: dryRun,
         sharpOptions: {},
@@ -58,16 +59,16 @@ async function imageShortcode(src, optClasses) {
         if (processImages) {
             // can be async
             let metadata = await Image(srcFull, options)
-            
+
             // Image(srcFull, options)
             // doesn’t generate any files, but will tell you where the asynchronously generated files will end up!
             // let metadata = Image.statsSync(srcFull, options);
 
             data = metadata.webp[metadata.webp.length - 1];
-            destPath = destPath + "build/"
+            destPath = path.join(destPath, "build");
         }
         console.log("processing:", data.filename)
-        
+
         /* data:
             format: 'webp',
             width: 600,
@@ -82,10 +83,9 @@ async function imageShortcode(src, optClasses) {
         // "../../media/build/article/su-ong/ThayHeaderImg_whiteFadeout2-600w.webp"
 
         // img loading="lazy" is buggy! stops chrome from running pagedjs
-        let html = `<img id="${autoId}" class="${optClasses ? optClasses : ""}" src="${destPath}${parsed.dir}/${data.filename}" decoding="async">`
-        
-        // console.log(html)
-        
+        let srcAttribute = path.join(destPath, parsed.dir, data.filename);
+        let html = `<img id="${autoId}" class="${optClasses ? optClasses : ""}" src="${srcAttribute}" decoding="async">`;
+
         return html;
     } catch (err) {
         console.error(src, err)
@@ -121,7 +121,7 @@ module.exports = function(eleventyConfig) {
             // })
         )
     }
-    
+
     // Articles: https://docs.google.com/spreadsheets/d/1pC-qmOUWU6diB3jMjgpbRYse9seF1wOx_XF3gJBeTC4/edit#gid=0
     createSortedCollection("vi")
     createSortedCollection("en")
