@@ -67,7 +67,7 @@ html:lang(vi) .pagedjs_left_page .pagedjs_margin-bottom-left {
 }
 html:lang(en) .pagedjs_right_page .pagedjs_margin-bottom-right {
     background: 93% 60%/20% no-repeat url('../../media/Calligraphy/Parallels EN p2 Peace all around.jpg');
-} 
+}
 html:lang(vi) .pagedjs_right_page .pagedjs_margin-bottom-right {
     background: 93% 50%/35% no-repeat url('../../media/Calligraphy/Parallels VI p2 Bon Mua Trong Am Ngoai Em.jpg');
 }
@@ -110,6 +110,27 @@ html:lang(vi) .pagedjs_right_page .pagedjs_margin-bottom-right {
 
 .front-cover img, .front-collage img, .back-collage img, .back-cover img {
     width: 100%;
+}
+
+.full-page-image {
+    width: 100%;
+    height: 100%;
+    overflow:hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* size matches the "LTLM front and back cover size.psd" template */
+.full-page-image img {
+    width: 226mm;
+    height: 307mm;
+}
+
+/*=zencircle  */
+.opening-page img {
+    max-width: 100%;
+    margin-top: 20%;
 }
 
 
@@ -290,9 +311,9 @@ article blockquote {
 	border-right: 0;
 	border-bottom: 0;
     border-style: solid;
-    border-image: 
+    border-image:
     linear-gradient(
-      to bottom, 
+      to bottom,
         transparent,
         var(--color-bark-light) 15%,
 		var(--color-bark-light) 85%,

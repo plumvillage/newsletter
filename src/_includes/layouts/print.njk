@@ -4,14 +4,18 @@
 {% block content %}
     {%- if pagedjsCLI != true %}
     <div class="front-cover bleed">
-        {% image ["front-cover-", locale, "-bleed.jpg"] | join %}
+        <div class="full-page-image">
+                {% image ["LTLM45-2022-cover-front-", locale, "-v20220209a.jpg"] | join %}
+        </div>
+    </div>
+
+
     </div>
     <div class="front-collage bleed">
         {% image "front-photos-bleed.jpg" %}
     </div>
-    <div class="parallels">
-        {% image "Calligraphy/Parallels VI p1 Ngay Vertical.jpg" %}
-        {% image "Calligraphy/Parallels VI p2 Bon Vertical.jpg" %}
+    <div class="opening-page">
+        {% image "Calligraphy/zen-circle.jpg" %}
     </div>
     {%- endif %}
 
@@ -38,7 +42,9 @@
         {% image "back-photos-bleed.jpg" %}
     </div>
     <div class="back-cover bleed">
-        {% image ["back-cover-", locale, "-bleed.jpg"] | join %}
+        <div class="full-page-image">
+                {% image ["LTLM45-2022-cover-back-", locale, "-v20220209a.jpg"] | join %}
+        </div>
     </div>
     {%- endif %}
 
