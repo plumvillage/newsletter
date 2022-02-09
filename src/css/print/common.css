@@ -127,6 +127,10 @@ html:lang(vi) .pagedjs_right_page .pagedjs_margin-bottom-right {
     height: 307mm;
 }
 
+.opening-page {
+    break-after: page;
+}
+
 /*=zencircle  */
 .opening-page img {
     max-width: 100%;
