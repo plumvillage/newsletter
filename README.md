@@ -4,7 +4,7 @@ Single source publishing project using [Eleventy](https://www.11ty.dev) and [Pag
 
 ## Running locally
 ```
-npm install
+./bin/setup.sh
 npm start
 ```
 Browse to http://localhost:8080/.
@@ -19,7 +19,7 @@ npm run build
 - Use hyphenated class names in CSS.
 
 ## Useful resources
-- PagedJS [cheat sheet](https://www.pagedjs.org/documentation/cheatsheet/)
+- PagedJS [documentation](https://www.pagedjs.org/documentation/)
 & [quick solution & fix to layout problems](https://gitlab.pagedmedia.org/tools/pagedjs/-/wikis/Quick-solution-&-fix-to-layout-problems)
 
 - [Designing For Print With CSS - Rachel Andrew in Smashing Magazine](https://www.smashingmagazine.com/2015/01/designing-for-print-with-css/)
