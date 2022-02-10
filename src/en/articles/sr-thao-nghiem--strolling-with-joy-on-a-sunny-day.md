@@ -27,7 +27,7 @@ There is a sacred space in New Hamlet that I miss very much, and that is the Bud
 > On a white lotus throne, the Tathagata appears.
 
 > <span class="color">Giữa rừng tre tím Quán Âm ngồi</span><br/>
-> In the midst of the violet bamboo forest, Avalokiteshvara dwells.<span class="note">Further reading: https://plumvillage.org/articles/parallel-verses-of-our-plum-village-temples-i/</span>
+> In the midst of the violet bamboo forest, Avalokiteshvara dwells.<span class="note">Further reading: <a href="https://plumvillage.org/articles/parallel-verses-of-our-plum-village-temples-i/">plumvillage.org/articles/parallel-verses-of-our-plum-village-temples-i/</a></span>
 
 Reading it, you will immediately feel the essence of the place in which you are standing.
 

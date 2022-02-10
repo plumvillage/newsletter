@@ -181,6 +181,7 @@ figure {
 }
 
 /* TODO does not work */
+/* https://pagedjs.org/documentation/-cross-references/ */
 .toc-links::before {
     content: "p. " target-counter(attr(href url), page);
 }
@@ -285,6 +286,10 @@ article .author + p
     text-indent: 0;
 }
 
+.editors-preface + p {
+    text-indent: 0 !important;
+}
+
 /* Vietnamese words are smaller on average, thus more suitable for block text */
 html:lang(vi) article p {
     text-align: justify;
@@ -313,7 +318,7 @@ article blockquote {
     margin-top: 11pt;
     margin-bottom: 14pt;
 	padding-left: 6pt;
-    border-left: 1pt;
+    border-left: 1.5pt;
 	border-top: 0;
 	border-right: 0;
 	border-bottom: 0;
@@ -327,13 +332,16 @@ article blockquote {
         transparent
     ) 1 100%;
 }
-article blockquote p::before {
+article blockquote p:first-child::before {
     position: absolute;
     line-height: 20pt;
     text-indent: -14pt;
     content: "“";
     font-size: 200%;
     color: var(--color-bark-light);
+}
+article blockquote p + p {
+    margin-top: 6pt;
 }
 blockquote cite::before {
     color: var(--color-bark-dark);
@@ -382,7 +390,7 @@ p.verse b {
     /* font-variant: all-small-caps; */
 }
 
-/* 21st century*/
+/* 21st century */
 /* https://en.wikipedia.org/wiki/Ordinal_indicator */
 sup { /* superscript */
     /* otherwise, the line above is pushed up  */
@@ -391,6 +399,7 @@ sup { /* superscript */
 }
 
 /* https://www.pagedjs.org/documentation/cheatsheet/ */
+
 .note {
     float: footnote;
     font-size: 10pt;
@@ -409,6 +418,10 @@ sup { /* superscript */
     font-weight: bold;
     border-top: 0.6pt solid black;
     list-style-position: outside;
+}
+
+a.note {
+    text-decoration: none;
 }
 
 article span.color {
@@ -490,7 +503,17 @@ img#CalligraphyParallels-VI-p2-Bon-Vertical {
     width: 50%;
 }
 
-
+article ul {
+    list-style: none;
+    padding-left: 6pt;
+}
+article ul li + li {
+    margin-top: 4pt;
+}
+article ul li::before {
+    content: "• ";
+    color: var(--color-bark-light);
+}
 
 
 
@@ -565,7 +588,7 @@ h1#tang-than-dich-thuc {
 }
 
 h1#the-true-sangha + .author, h1#tang-than-dich-thuc + .author {
-    font-weight: bold;
+    font-weight: bold !important;
     text-shadow: white 1px 0 5px
 }
 
@@ -590,7 +613,7 @@ img#articlebr-troi-dao-quangIMG1129 {
     margin-bottom: 0;
 }
 img#articlesr-giac-nghiemSu-me-Giac-Nghiem-2-edited {
-    width: 66%;
+    width: 64%;
     margin-bottom: 0;
 }
 

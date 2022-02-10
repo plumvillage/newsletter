@@ -5,15 +5,17 @@ author: Sister Chân Trăng Tam Muội
 
 ## A year in lockdown with very elderly parents 
 
-I stood in the hallway, one hand placed lightly on the banister, and breathed slowly. 
+I stood in the hallway, one hand placed lightly on the banister, and breathed slowly.
 
 Suddenly, I heard the thumping steps of two young girls galloping and laughing up and down the stairs. I saw Dad standing in the hall calling upstairs, and heard sounds of cooking from the kitchen, Mum preparing lunch. Standing in the heart of the now empty house, our  family home for sixty years, I said goodbye and left the spirits of the place to play on.
 
-It had been a long journey. *Rewind 18 months to Spring 2019* I receive *y*et another urgent call to come home. My father 96, blind, with failing health may be dying. Over the years I had been preparing myself for their passing and I knew the importance of “Don’t wait.” With deep gratitude for the support of the Lower Hamlet sisters, I left for England. Thankfully Dad rallied once again, but it was not to last. With the UK and France going into full Covid lockdown, I stayed on and was thus able to enjoy two more months by his side. Dad died peacefully in his own bed  on a beautiful May morning with the family all around him, Mum holding his hand. Minutes after my father’s last breath Mum said, with relief, “Well, if that’s what dying’s like, it’s not so bad.” 
+It had been a long journey. *Rewind 18 months to Spring 2019* I receive *yet* another urgent call to come home. My father 96, blind, with failing health may be dying. Over the years I had been preparing myself for their passing and I knew the importance of “Don’t wait.” With deep gratitude for the support of the Lower Hamlet sisters, I left for England. Thankfully Dad rallied once again, but it was not to last. With the UK and France going into full Covid lockdown, I stayed on and was thus able to enjoy two more months by his side. Dad died peacefully in his own bed  on a beautiful May morning with the family all around him, Mum holding his hand. Minutes after my father’s last breath Mum said, with relief, “Well, if that’s what dying’s like, it’s not so bad.” 
 
 A carer had shared with me how the family can take care of the body in a respectful and nourishing way. First, my elder sister and I requested to help the nurse mindfully and lovingly wash his body and dress him in his best pyjamas. We asked to keep Dad’s body at home for another day. I surrounded his body with fresh May flowers from the garden that he and Mum had grown and tended for over 60 years. Rose petals were strewn over the bed, lily of the valley placed at his head.
 
 To sit with his body was a wonderful experience. In England the old traditions have been lost and most people want death to leave the house immediately. The close family visited and we were able to sit around Dad and recall our happy memories to honour his life. Mum also had quiet time to say her goodbyes, so essential because they had been married for almost 70 years. When she finally decided that she was definitely going to attend the funeral, on leaving the house in a wheelchair, she was moved to see the whole street gathered to greet and applaud her. 
+
+{% image "article/sr-trang-tam-muoi/Togetherness.JPG" %}
 
 Later when the ceremonies were completed, I had to decide when to return to Plum Village. I felt deeply conflicted because on the one hand how could I leave my Mum to mourn alone, even if she had a wonderful live-in carer to take care of her personal needs? On the other hand, as any of her carers could tell you, Mum is not an easy woman and the idea of staying with her for an extended period was frankly scary. 
 
@@ -45,6 +47,8 @@ Practicing self-compassion for having safely navigated the latest emotional chal
 
 One of the highlights of my stay was finding an old box containing 200 letters that Dad had written to Mum when he had TB. He was diagnosed just five years after they married, and my mother found herself alone taking care of my three-year-old sister, far from any family members. He wrote to her *every* day even though Mum visited him twice a week! I offered to read the letters to her, although I felt nervous entering into their intimacy. But she replied, “Oh yes, then he will be here with us.” So after each meal, I would read a few letters. It was a real gift, to discover the  sensitive, affectionate man who could write so tenderly. It was lovely to read his enthusiastic dreaming of “another infant” (me!) and of his love for my sister, for whom he made wooden and basketwork toys whilst in the sanatorium.
 
+{% image "article/sr-trang-tam-muoi/Mums-portait-100-edited.jpg" %}
+
 My “No Escape” retreat would not have been possible without the support of many carers and nurses who were coming in and out throughout the day. We had two principle live-in carers who alternated, three weeks on, three weeks off, Charity from Essex and Zimbabwe, and Marian from London and Uganda. It was a real privilege for me to share my life with these women, supporting each other, or dancing round the kitchen as we cooked together. Not only are they excellent professional carers but we became friends, supporting each other through Mum’s ups, but particularly her downs. Many times, I or they would come back to the kitchen having been roundly scolded by Mum, and we would be there for each other with a hug or a hilarious reflection to bring back a smile. As they shared more about their lives, I was humbled by their capacity for joy, sacrifice and resilience especially as they navigate the challenges of being Black in Britain.
 
 Seven months on, it seemed that Mum was not going to die a few months after Dad (as everyone had thought), and that she really had her eye on getting to 100 (like her cousin Edith), which was still ten months away. I started to think about returning to Plum Village. I had a dream where I was making a delicious meal. I opened the lid of the saucepan to check on the dish and happily exclaimed “It’s cooked!” Waking up I felt a deep sense of fulfilment that lasted for several days.  I felt *I* was cooked, it was time to go home.
@@ -53,38 +57,46 @@ Seven months on, it seemed that Mum was not going to die a few months after Dad 
 
 The day before her funeral I was able to sit a long while with her body and place a bouquet of flowers in her hands. This is the poem that came to me, which I read out during her service.
 
-## Contemplation on Mum's Body 
+## Contemplation on Mum’s Body 
 
 > Your two hands  
 > Now folded in peace upon your chest  
 > Were once working tirelessly.  
-> Caring for family, caressing a child's feverish brow,  
+> Caring for family, caressing a child’s feverish brow,  
 > Laundering, chopping the veg,  
 > Making the tea.  
 > Or typing furiously,  
 > Or with hands plunged in warm earth  
 > Tending your beloved garden.  
-> Now, fingers and joints are gnarled like the ancient oaks of Sheet.  
+> Now, fingers and joints are gnarled like the ancient oaks of Sheet. 
+>  
 > Crooked feet, once strode boldly across fields  
 > And lightly skimmed the dancefloor in the arms of Dad, quickstepping.  
+>  
 > Barefoot, we wandered together through Indian temples  
 > And hand in hand, paddled along the English shore.  
+>  
 > Breasts, become flat and empty,  
 > Once plumply suckled two tiny infants  
 > Whilst you sang to them  
 > sweet lullabies of love.  
+>  
 > Your eyes, clear and twinkling   
 > of Wedgewood blue, laughing.  
-> Gazing on the Queen's card  
+> Gazing on the Queen’s card  
 > received for your one hundred years lived fully,  
 > You said  
-> "I am so lucky!"  
+> “I am so lucky!”  
+>  
 > Now, your body like old leaves of tea,  
 > Used up and discarded.  
+>  
 > But we, amongst many,  
 > Have drunk your tea, your essence.  
 > You are in each one of us.  
 > We are your continuation.
+
+{% image "article/sr-trang-tam-muoi/Peggy-100.JPG" %}
 
 ## Epilogue
 
