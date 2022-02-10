@@ -184,13 +184,18 @@ ul.toc {
     break-after: page;
 }
 
+.toc-title {
+    font-weight: bold;
+    color: var(--color-tower-dark);
+}
+
 /* create page numbers using target-counter in the TOC */
 ul.toc a::after {
     content: leader('.') target-counter(attr(href), page);
 }
 
 ul.toc li {
-    line-height: 2;
+    margin-bottom: 6pt;
 }
 
 ul.toc li a {
@@ -567,6 +572,7 @@ h1#the-true-sangha + .author, h1#tang-than-dich-thuc + .author {
 
 /* img#articlebr-phap-kham1998-TangThanXomThuong-MuaHecut, */
 img#articlebr-troi-dao-quangIMG1129,
+img#articlesr-giac-nghiemSu-me-Giac-Nghiem-2-edited,
 img#articlebr-phap-dungthay-bell3-torn-edges {
     column-span: all;
     float: none;
@@ -581,11 +587,17 @@ img#articlebr-phap-dungthay-bell3-torn-edges {
 img#articlebr-troi-dao-quangIMG1129 {
     width: 70%;
 }
+img#articlesr-giac-nghiemSu-me-Giac-Nghiem-2-edited {
+    width: 66%;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
 /* img#articlebr-phap-kham1998-TangThanXomThuong-MuaHecut {
     max-width: 99%;
 } */
 
 
+img#articlesr-doan-nghiemSr-Doan-N-edited,
 img#articlebr-troi-dao-biDSC6747-edited,
 img#articlesr-thao-nghiemIMG6614-edited,
 img#articlesr-thao-nghiemSc-Thao-N-2-edited,
@@ -608,6 +620,16 @@ img#articlesr-chuan-nghiemSc-Chuan-N-3,img#articledr-elli-weisbaumScientific-Day
     overflow: visible;
     /* this is removing an artefact in the pdf, which would otherwise display a thin line of the image above the white mask */
     border-top: 2px solid white;
+}
+
+
+img#articlesr-doan-nghiemSr-Doan-N-edited {
+    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + 100mm) * -1);
+    mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%,rgba(0,0,0,1.00) 20%);
+    -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%,rgba(0,0,0,1.00) 20%);
+}
+.PAGE-OF-articlesr-doan-nghiemSr-Doan-N-edited .pagedjs_page_content {
+    height: calc(100% - var(--pagedjs-footnotes-height) - 100mm) !important;
 }
 
 
@@ -747,6 +769,7 @@ img#articlebr-minh-hyDSC3796-edit {
 }
 
 
+.PAGE-OF-articlesr-doan-nghiemSr-Doan-N-edited .pagedjs_margin-bottom,
 .PAGE-OF-articlebr-troi-dao-biDSC6747-edited .pagedjs_margin-bottom,
 .PAGE-OF-articlesr-thao-nghiemIMG6614-edited .pagedjs_margin-bottom,
 .PAGE-OF-articlesr-thao-nghiemSc-Thao-N-2-edited .pagedjs_margin-bottom,
