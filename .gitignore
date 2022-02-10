@@ -8,3 +8,6 @@ src/media
 src/pagedjs
 .env
 workspace.code-workspace
+
+# Local Netlify folder
+.netlify

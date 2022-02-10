@@ -106,6 +106,7 @@ module.exports = function(eleventyConfig) {
 
     if (processImages) {
         eleventyConfig.addPassthroughCopy({ "src/media/publish/Calligraphy": "media/Calligraphy" });
+        eleventyConfig.addPassthroughCopy({ "src/media/publish/*.jpg": "media" });
     } else {
         eleventyConfig.addPassthroughCopy({ "src/media/publish": "media" });
     }

@@ -2,8 +2,8 @@
 
 ## Prerequisites
 
-1. Install [gsutil](https://cloud.google.com/storage/docs/gsutil_install#install)
-2. Set the bucket name in `.env`
+1. Install the Netlify CLI: `npm install netlify-cli -g`
+2. Login: `netlify login`
 
 ## Deploy
 
