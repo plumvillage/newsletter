@@ -88,10 +88,6 @@ html:lang(vi) .pagedjs_right_page .pagedjs_margin-bottom-right {
     height: calc(var(--pagedjs-pagebox-height) + (var(--bleed) * 2));
     top: calc((var(--pagedjs-margin-top) + var(--bleed)) * -1);
     left: calc((var(--pagedjs-margin-left) + var(--bleed)) * -1);
-    /* width: calc(var(--pagedjs-pagebox-width) + (var(--bleed) * 2));
-    height: calc(var(--pagedjs-pagebox-height) + (var(--bleed) * 2));
-    top: calc((var(--pagedjs-margin-top) + var(--bleed)) * -1);
-    left: calc((var(--pagedjs-margin-left) + var(--bleed)) * -1); */
 }
 
 @page photopage {
@@ -184,6 +180,11 @@ figure {
     font-size: 12pt;
 }
 
+/* TODO does not work */
+.toc-links::before {
+    content: "p. " target-counter(attr(href url), page);
+}
+
 ul.toc {
     list-style: none;
     margin: 0;
@@ -194,11 +195,6 @@ ul.toc {
 .toc-title {
     font-weight: bold;
     color: var(--color-tower-dark);
-}
-
-/* create page numbers using target-counter in the TOC */
-ul.toc a::after {
-    content: leader('.') target-counter(attr(href), page);
 }
 
 ul.toc li {
@@ -576,7 +572,6 @@ h1#the-true-sangha + .author, h1#tang-than-dich-thuc + .author {
 
 
 
-/* img#articlebr-phap-kham1998-TangThanXomThuong-MuaHecut, */
 img#articlebr-troi-dao-quangIMG1129,
 img#articlesr-giac-nghiemSu-me-Giac-Nghiem-2-edited,
 img#articlebr-phap-dungthay-bell3-torn-edges {
@@ -591,16 +586,15 @@ img#articlebr-phap-dungthay-bell3-torn-edges {
     width: 97%;
 }
 img#articlebr-troi-dao-quangIMG1129 {
-    width: 70%;
+    width: 82%;
+    margin-bottom: 0;
 }
 img#articlesr-giac-nghiemSu-me-Giac-Nghiem-2-edited {
     width: 66%;
     margin-bottom: 0;
-    padding-bottom: 0;
 }
-/* img#articlebr-phap-kham1998-TangThanXomThuong-MuaHecut {
-    max-width: 99%;
-} */
+
+
 
 
 img#articlesr-doan-nghiemSr-Doan-N-edited,

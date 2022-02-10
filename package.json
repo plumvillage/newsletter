@@ -15,7 +15,7 @@
         "build-pdf-en-a4": "pagedjs-cli --additional-script docs/js/hooks-to-pagedjs.js -i docs/en/a4/index.html -o builds/pvnewsletter-45-a4.pdf",
         "build-articles-en": "ls -1 \"docs/en/articles-print/\" | parallel -j 4 pagedjs-cli --additional-script docs/js/hooks-to-pagedjs.js -i \"docs/en/articles-print/{}/index.html\" -o \"builds/articles-print/{}.pdf\"",
         "build": "run-s build-html build-pdf-vi-letter build-pdf-vi-a4 build-pdf-en-letter build-pdf-en-a4 build-articles-en",
-        "upload": "eval $(grep '^BUCKET_NAME' .env) && gsutil -p my-project-1505145523006 -o \"GSUtil:parallel_process_count=1\" -m rsync -j html,js,css -cr docs gs://$BUCKET_NAME/",
+        "upload": "eval $(grep '^BUCKET_NAME' .env) && gsutil -u my-project-1505145523006 -o \"GSUtil:parallel_process_count=1\" -m rsync -j html,js,css -cr docs gs://$BUCKET_NAME/",
         "deploy": "run-s clean:media upload"
     },
     "keywords": [],
