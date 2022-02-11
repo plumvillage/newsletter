@@ -72,6 +72,17 @@ html:lang(vi) .pagedjs_right_page .pagedjs_margin-bottom-right {
     background: 93% 50%/35% no-repeat url('../../media/calligraphy/Parallels VI p2 Bon Mua Trong Am Ngoai Em.jpg');
 }
 
+.lastmod {
+    color: gray;
+}
+.pagedjs_right_page .lastmod {
+    text-align: left;
+}
+
+.pagedjs_left_page .lastmod {
+    text-align: right;
+}
+
 .front-cover, .front-collage, .back-collage, .back-cover {
     page: photopage; /* named pages*/
     width: calc(var(--pagedjs-pagebox-width));
