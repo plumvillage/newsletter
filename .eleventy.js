@@ -33,7 +33,7 @@ async function imageData(src) {
 
     let outputDir = parsed.dir ? path.join("docs/media/build", parsed.dir) : "docs/media/build";
     let options = {
-        formats: ["webp"], /* jpeg, png, webp, gif, tiff, avif */
+        formats: ["webp", "svg"], /* jpeg, png, webp, gif, tiff, avif */
         outputDir: outputDir,
         widths: [2000],
         dryRun: dryRun,
@@ -41,6 +41,7 @@ async function imageData(src) {
         // https://sharp.pixelplumbing.com/api-output#webp
         sharpWebpOptions: { quality: 50, },
         sharpJpegOptions: { quality: 40, },
+        svgShortCircuit: true
         // disk cache works only when using the built-in hashing algorithm and not custom filenames
         // filenameFormat: function (id, src, width, format, options) {
         //     const extension = path.extname(src);
@@ -78,7 +79,11 @@ async function imageData(src) {
             // doesn’t generate any files, but will tell you where the asynchronously generated files will end up!
             // let metadata = Image.statsSync(srcFull, options);
 
-            data = metadata.webp[metadata.webp.length - 1];
+            if(metadata.svg.length) {
+                data = metadata.svg[metadata.svg.length - 1];
+            } else {
+                data = metadata.webp[metadata.webp.length - 1];
+            }
             destPath = path.join(destPath, "build");
         }
         console.log("processing:", data.filename)
