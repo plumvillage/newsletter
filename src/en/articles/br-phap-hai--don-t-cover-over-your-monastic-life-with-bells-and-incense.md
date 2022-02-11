@@ -1,7 +1,6 @@
 ﻿---
 title: Don’t Cover Over Your Monastic Life with Bells and Incense
 author: Brother Chân Pháp Hải
-# date: 17 December 2021
 ---
 
 <p class="editors-preface">Brother Chân Phap Hai is an elder in the Plum Village tradition. In this interview excerpt from the budding <i>Mountain Spring Monastery</i> near Sydney, he shares with his younger monastic siblings his experiences, challenges, growing insights and lifesavers through 25 years of living in the Dharma and the sangha.</p>
