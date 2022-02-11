@@ -6,6 +6,11 @@ module.exports = {
         "su-co-thoai-nghiem--mot-dong-xanh-biec",
         "su-co-hoa-nghiem--nep-xua",
         "thay-phap-dung--tieng-chuong-chanh-niem",
+<<<<<<< HEAD
+=======
+        //7
+        "le-trang--cung-tan",
+>>>>>>> 1723bd7 (adding 2 VI articles)
         //8 Thầy ôm các con vào lòng	Sc. Sùng N
         // "su-co-sung-nghiem--thay-om-cac-vao-long",
         "thay-phap-an--thap-len-ngon-nen",
@@ -36,6 +41,13 @@ module.exports = {
         //46 Cuộc đời Thầy rất đẹp	Sr. Học N
         "su-co-hoc-nghiem--cuoc-doi-thay-rat-dep",
         "su-co-hoi-nghiem--thoi-gian-la-su-song",
+<<<<<<< HEAD
+=======
+        //50
+        "br-linh-nam--kinh-so-tam",
+        //51
+        //52
+>>>>>>> 1723bd7 (adding 2 VI articles)
         "thay-phap-kha--quan-tam",
         //63
         "lang-mai-nam-qua",
