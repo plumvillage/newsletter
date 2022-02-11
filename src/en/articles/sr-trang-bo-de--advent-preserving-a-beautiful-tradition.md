@@ -5,6 +5,8 @@ author: Sister Chân Trăng Bồ Đề
 
 When I was little, at Christmas time all the streets were strewn with twinkling lights and Christmas trees - plastic, but beautiful. The quiet church near my home came alive with joy. Even though I didn’t know about Christmas, I was still very happy because I could wander the streets at night, looking at this and that. I never had the courage to step foot in a church, except for one time when curiosity got the better of me, and the only reason was: I am a Buddhist. There seemed to be a line dividing church and temple. My parents and grandparents all agreed that a Buddhist should not go to a church. It would be an act of impiety. So that idea was firmly planted in the heads of all the children in my family. 
 
+{% image "article/sr-trang-bo-de/Sc-Bo-DJe-2-edit.JPG" %}
+
 When I came to Diệu Trạm Temple, I had more chances to enjoy the Christmas spirit. From decorating the meditation hall, practising performances, preparing *“Secret Santa”* gifts… to the moment when all my roommates gathered to unwrap gifts; it was so joyful, lively, and warm. I wondered why we celebrated Christmas in the temple. The idea sown in me as a child was still there and as far as I know, we were the only temple that celebrated Christmas. I asked my older sister about it. She replied that it was a way of integrating cultures.
 
 Christmas in the west is as significant as the Lunar New Year in the east. It is an occasion for families to gather, offer mutual words of appreciation as well as send their peaceful prayers to the world. “Later when you go to Plum Village France or other centres in the west, you will see the Christmas spirit clearer.” “The Christmas spirit?“ I was a little confused. But my heart was already full of joy because I received many gifts, so I did not ask any more.
@@ -17,13 +19,17 @@ Coming back to myself, the sound of chatter around me became pleasant. Sometimes
 
 The Christmas carols became more solemn in the silence of the night, opening the way for all to return to the deepest beauty of the soul. Closing my eyes, I relaxed to let the refreshing sound sink forever into my heart. Amidst that peace, it was as if every unwholesome thought had to dissolve. People's hearts became as clear as the morning dew, as holy as the baby Jesus. The candlelight flickered and danced, carrying afar the prayers of the brothers and sisters.
 
-> “I pray for peace for all the victims of Covid in Vietnam and around the world.”
+> I pray for peace for all the victims of Covid in Vietnam and around the world.
 
-> “I wish safety for the Afghanistan refugees that are suffering due to war.”
+> I wish safety for the Afghanistan refugees that are suffering due to war.
 
-Following suit, I joined my palms, introduced my name and spoke out the wish in my heart: *“I wish for those who are displaced to be able to return home and enjoy moments of happiness just like our's now.”* 
+Following suit, I joined my palms, introduced my name and spoke out the wish in my heart:
+
+> I wish for those who are displaced to be able to return home and enjoy moments of happiness just like our's now.
 
 After some moments of silence, the brothers and sisters began to recount joyful memories of Christmas. Almost everyone had more or less memories related to a character called *Father Christmas*. Listening is a chance for me to see more clearly the face of my siblings and to know a little more about those we rarely speak with. Living in a large sangha, connection is often no more than stopping to join palms in greeting, smile, and then pass by. Most opportunities for communication and interactions are through a bridge called *work*. Even with the elder and younger sisters I am living with, sometimes I am surprised to realize that I have never really looked carefully at their faces or been truly present for them. I am merely recognizing and distinguishing my sisters by their names.  
+
+{% image "article/sr-trang-bo-de/Sc-Bo-DJe-4-edit.JPG" %}
 
 After living for a while in the monastery, I also started to love a tranquil and peaceful life. That tranquility helps me see my mind clearer and nourishes my inner peace. But when I start to form the thought, “I like the quiet, noise is too tiring”, a wall goes up between the world and I, limiting the precious opportunities to be with my brothers and sisters. At those times when I find myself “too lazy to play”, I often think of our elder Brother Minh Hy.
 
@@ -35,7 +41,9 @@ This first experience helped me unravel my preconceptions about the event, and t
 
 The cloud in the tea I drank this morning reminds me that the most accurate answer does not come from the intellect, or from the outside; it comes from the heart of everyone. 
 
-While listening quietly to the Bible reading that evening, images of Jesus as a baby or bearing the cross, which I had seen since childhood floated to my mind's surface. Every image was beautiful. The lines on his face were as gentle as the lines sculptors often use to express the Buddha's boundless love. Buddha is beautiful and Jesus is beautiful. You are udumbara flowers that bloomed in the darkness of humanity. In that moment, I felt I had finally broken free from a narrow cage that has held so many generations captive. I am freeing my grandparents and parents from the idea of being a “Buddhist”. I am stretching my wings to soar higher and further in the vast sky of the mind. 
+While listening quietly to the Bible reading that evening, images of Jesus as a baby or bearing the cross, which I had seen since childhood floated to my mind's surface. Every image was beautiful. The lines on his face were as gentle as the lines sculptors often use to express the Buddha's boundless love. Buddha is beautiful and Jesus is beautiful. You are udumbara flowers that bloomed in the darkness of humanity. In that moment, I felt I had finally broken free from a narrow cage that has held so many generations captive. I am freeing my grandparents and parents from the idea of being a “Buddhist”. I am stretching my wings to soar higher and further in the vast sky of the mind.
+
+{% image "article/sr-trang-bo-de/IMG_0331.jpg" %}
 
 Thinking of Thay my heart warms. Thay opened the door for Buddhism’s essence to enter the west and at the same time, allowed Buddhists to discover the beauty of spiritual traditions in the west. Thanks to Thay, our generation is receiving a rich heritage of various spiritual flows - each beautiful, each worthy of respect. 
 
