@@ -1,92 +1,46 @@
 module.exports = {
     vi: [
-        //1
-        "lang-mai-nam-qua",
-        //2
+        //9
         "su-ong-lang-mai--tang-than-dich-thuc",
-        //3
         "thay-phap-niem--tieng-cuoi-tre-da-vang",
-        //4
         "su-co-thoai-nghiem--mot-dong-xanh-biec",
-        //5
         "su-co-hoa-nghiem--nep-xua",
-        //6
         "thay-phap-dung--tieng-chuong-chanh-niem",
-        //7
         //8 Thầy ôm các con vào lòng	Sc. Sùng N
         // "su-co-sung-nghiem--thay-om-cac-vao-long",
-        //9
         "thay-phap-an--thap-len-ngon-nen",
         //10 Ngàn xưa hẹn trở về	Thầy Nguyên Tịnh
         // "thay-nguyen-tinh--ngan-xua-hen-tro-ve",
-        //11
         "su-co-doan-nghiem--thuong-nhu-thay-thuong",
-        //12
-        //13
         "thay-phap-nguyen--que-me-van-toa-ngat-huong-thom",
-        //14
         "thay-minh-hy--bua-tiec-cua-nguoi-tu",
-        //15
         "thay-phap-kham--cham-soc-tang-than",
-        //16
-        //17
         "thay-phap-hoi--theo-thay-lam-bao",
-        //18
-        //19
         "su-co-trang-bo-de--advent",
         //20 Thấy Thầy trong tăng thân	Sr. Chân Đức
         "su-co-chan-duc--thay-thay-trong-tang-than",
-        //21
         //22 Niềm thương bình an	Sr. Tuyết N
         // "su-co-tuyet-nghiem--niem-thuong-binh-an",
-        //23
         "thay-troi-dao-bi--da-co-duong-di-roi-con-khong-con-lo-so",
-        //24
-        //25
-        //26
         "su-co-chuan-nghiem--thuong-yeu-muon-doi-van-hat-suong-trong",
-        //27
         "thay-troi-dai-dao--chung-tay-giu-gin-dat-me",
-        //28
         "su-co-trang-mai-thon--nhap-luu-ngay-binh-thuong",
-        //29
-        //30
-        //31
         "su-co-thao-nghiem--rong-choi-ngay-nang-day",
-        //32
         "su-co-boi-nghiem--cam-di",
-        //33
-        //34
         "su-co-thuan-khanh--duoi-chan-ngon-hung-phong",
-        //35
-        //36
         "thay-phap-ung--con-ga-va-qua-trung",
-        //37
         //38 Giấc mơ đại đồng	Chân Thu Lâm - Minh Hương
         "minh-huong--giac-mo-dai-dong",
         //39 su-co-hoc-nghiem--cuoc-doi-thay-rat-dep.md
-        //40
-        //41
-        //42
-        //43
         "su-co-sac-nghiem--khi-tiep-nhan-cung-trao-truyen",
-        //44
-        //45
         //46 Cuộc đời Thầy rất đẹp	Sr. Học N
         "su-co-hoc-nghiem--cuoc-doi-thay-rat-dep",
-        //47
-        //48
-        //49
         "su-co-hoi-nghiem--thoi-gian-la-su-song",
-        //50
-        //51
-        //52
         "thay-phap-kha--quan-tam",
-        //53
-        //54
+        //63
+        "lang-mai-nam-qua",
     ],
     en: [
-        //1
         "su-ong--the-true-sangha",
         "tributes-to-thay",
         "thank-you-thay",
@@ -130,49 +84,5 @@ module.exports = {
         "sr-tue-nghiem--safe-harbor",
         "sr-tu-nghiem--poems",
         "sr-trang-mai-thon--collecting-gum-nuts",
-        "br-phap-luu--thays-vision-for-wake-up-schools", //37
-        //2
-        //3
-        //4
-        //5
-        //6
-        //7
-        //8
-        //9
-        //10
-        //11
-        //12
-        //13
-        //14
-        //15
-        //16
-        //17
-        //18
-        //19
-        //20
-        //21
-        //22
-        //23
-        //24
-        //25
-        //26
-        //27
-        //28
-        //29
-        //30
-        //31
-        //32
-        //33
-        //34
-        //35
-        //36
-        //37
-        //38
-        //39
-        //40
-        //41
-        //42
-        //43
-        //44
-    ]
+        "br-phap-luu--thays-vision-for-wake-up-schools",]
 };
