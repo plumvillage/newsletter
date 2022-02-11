@@ -48,13 +48,6 @@ body {
         font-size: 11pt;
     }
 }
-html:lang(en) .pagedjs_left_page .pagedjs_margin-bottom-left {
-    /* margin top size */
-    background: 7% 60%/20% no-repeat url('../../media/calligraphy/Parallels EN p1 Harmony at home.jpg');
-}
-html:lang(vi) .pagedjs_left_page .pagedjs_margin-bottom-left {
-    background: 7% 50%/35% no-repeat url('../../media/calligraphy/Parallels VI p1 Ngay Xuan Tren Hoa Duoi Thuan.jpg');
-}
 
 @page:right {
     margin-left: 64pt;
@@ -64,12 +57,6 @@ html:lang(vi) .pagedjs_left_page .pagedjs_margin-bottom-left {
         content: counter(page);
         font-size: 11pt;
     }
-}
-html:lang(en) .pagedjs_right_page .pagedjs_margin-bottom-right {
-    background: 93% 60%/20% no-repeat url('../../media/calligraphy/Parallels EN p2 Peace all around.jpg');
-}
-html:lang(vi) .pagedjs_right_page .pagedjs_margin-bottom-right {
-    background: 93% 50%/35% no-repeat url('../../media/calligraphy/Parallels VI p2 Bon Mua Trong Am Ngoai Em.jpg');
 }
 
 .lastmod {

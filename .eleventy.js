@@ -14,14 +14,24 @@ var articleTitleCalligraphies = fs.readdirSync(`src/media/publish/${calligraphyP
 const processImages = true;
 
 async function imageShortcode(src, optClasses) {
-    // src: article/su-ong/ThayHeaderImg_whiteFadeout2.jpg
+    let result = await imageData(src)
+    
+    // img loading="lazy" is buggy! stops chrome from running pagedjs
+    return `<img id="${result.autoId}" class="${optClasses ? optClasses : ""}" src="${result.srcAttribute}" decoding="async">`;
+}
 
+async function imageSrcShortcode(src) {
+    let result = await imageData(src)
+    return result.srcAttribute
+}
+
+async function imageData(src) {
     let dryRun = false;
     let srcFull = path.join(srcPath, src);
     let destPath = "/media";
     let data = { filename: path.basename(src) };
     let parsed = path.parse(src);
-    let autoId = slugify(`${parsed.dir}/${parsed.name}`, { strict: true });
+
     let outputDir = parsed.dir ? path.join("docs/media/build", parsed.dir) : "docs/media/build";
     let options = {
         formats: ["webp"], /* jpeg, png, webp, gif, tiff, avif */
@@ -85,13 +95,12 @@ async function imageShortcode(src, optClasses) {
             outputPath: 'docs/media/build/article/su-ong/ThayHeaderImg_whiteFadeout2-600w.webp',
             size: 26450
         */
-        // "../../media/build/article/su-ong/ThayHeaderImg_whiteFadeout2-600w.webp"
 
-        // img loading="lazy" is buggy! stops chrome from running pagedjs
-        let srcAttribute = path.join(destPath, parsed.dir, data.filename);
-        let html = `<img id="${autoId}" class="${optClasses ? optClasses : ""}" src="${srcAttribute}" decoding="async">`;
-
-        return html;
+        let result = {
+            autoId: slugify(`${parsed.dir}/${parsed.name}`, { strict: true }),
+            srcAttribute: path.join(destPath, parsed.dir, data.filename)
+        }
+        return result
     } catch (err) {
         console.error(src, err)
         return ""
@@ -107,13 +116,8 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("src/js");
     eleventyConfig.addWatchTarget("src/js");
 
-    // if (processImages) {
-    //     // eleventyConfig.addPassthroughCopy({ "src/media/publish/Calligraphy": "media/Calligraphy" });
-    //     // eleventyConfig.addPassthroughCopy({ "src/media/publish/*.jpg": "media" });
-    // } else {
     eleventyConfig.addPassthroughCopy({ "src/media/publish": "media" });
-    // }
-
+    
     eleventyConfig.addWatchTarget("src/media/publish");
 
     eleventyConfig.addPassthroughCopy("src/CNAME");
@@ -149,6 +153,7 @@ module.exports = function(eleventyConfig) {
     });
 
     eleventyConfig.addNunjucksAsyncShortcode("image", imageShortcode);
+    eleventyConfig.addNunjucksAsyncShortcode("imageSrc", imageSrcShortcode);
     eleventyConfig.addLiquidShortcode("image", imageShortcode);
     eleventyConfig.addJavaScriptFunction("image", imageShortcode);
 
