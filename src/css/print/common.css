@@ -63,11 +63,11 @@ body {
     color: gray;
 }
 .pagedjs_right_page .lastmod {
-    text-align: left;
+    float: left;
 }
 
 .pagedjs_left_page .lastmod {
-    text-align: right;
+    float: right;
 }
 
 .front-cover, .front-collage, .back-collage, .back-cover {
