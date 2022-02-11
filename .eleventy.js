@@ -1,4 +1,6 @@
-const articleOrder = require("./src/_data/article-order.js");
+const articleOrder = {}
+articleOrder.vi = require("./src/_data/article-order-vi.js");
+articleOrder.en = require("./src/_data/article-order-en.js");
 const fs = require('fs')
 const path = require("path");
 const slugify = require('slugify')
