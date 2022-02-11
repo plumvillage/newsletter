@@ -29,7 +29,6 @@ module.exports = ["su-ong-lang-mai--tang-than-dich-thuc",
 // Giấc mơ đại đồng	Chân Thu Lâm - Minh Hương
 "minh-huong--giac-mo-dai-dong",
 // su-co-hoc-nghiem--cuoc-doi-thay-rat-dep.md
-"su-co-sac-nghiem--khi-tiep-nhan-cung-trao-truyen",
 // Cuộc đời Thầy rất đẹp	Sr. Học N
 "su-co-hoc-nghiem--cuoc-doi-thay-rat-dep",
 "su-co-hoi-nghiem--thoi-gian-la-su-song",
