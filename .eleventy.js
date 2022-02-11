@@ -5,7 +5,9 @@ const slugify = require('slugify')
 const sharp = require("sharp");
 const Image = require("@11ty/eleventy-img");
 // Image.concurrency = 4; // default is 10
-var articleTitleCalligraphies = fs.readdirSync(`./src/media/publish/Calligraphy/article-titles/`)
+const srcPath = "src/media/src";
+const calligraphyPath = "calligraphy/article-titles/";
+var articleTitleCalligraphies = fs.readdirSync(`src/media/publish/${calligraphyPath}`)
 
 const processImages = true;
 
@@ -13,7 +15,6 @@ async function imageShortcode(src, optClasses) {
     // src: article/su-ong/ThayHeaderImg_whiteFadeout2.jpg
 
     let dryRun = false;
-    const srcPath = "src/media/publish";
     let srcFull = path.join(srcPath, src);
     let destPath = "/media";
     let data = { filename: path.basename(src) };
@@ -104,12 +105,12 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("src/js");
     eleventyConfig.addWatchTarget("src/js");
 
-    if (processImages) {
-        eleventyConfig.addPassthroughCopy({ "src/media/publish/Calligraphy": "media/Calligraphy" });
-        eleventyConfig.addPassthroughCopy({ "src/media/publish/*.jpg": "media" });
-    } else {
-        eleventyConfig.addPassthroughCopy({ "src/media/publish": "media" });
-    }
+    // if (processImages) {
+    //     // eleventyConfig.addPassthroughCopy({ "src/media/publish/Calligraphy": "media/Calligraphy" });
+    //     // eleventyConfig.addPassthroughCopy({ "src/media/publish/*.jpg": "media" });
+    // } else {
+    eleventyConfig.addPassthroughCopy({ "src/media/publish": "media" });
+    // }
 
     eleventyConfig.addWatchTarget("src/media/publish");
 
@@ -140,7 +141,7 @@ module.exports = function(eleventyConfig) {
         e.hasCalligraphy = articleTitleCalligraphies.includes(`${fileSlug}.webp`)
         if (e.hasCalligraphy) {
             // console.log("found calligraphy for article: ", fileSlug)
-            e.calligraphyPath = `Calligraphy/article-titles/${fileSlug}.webp`
+            e.calligraphyFile = `/media/${calligraphyPath}${fileSlug}.webp`
         }
         return e
     });

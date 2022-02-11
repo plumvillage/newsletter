@@ -100,7 +100,7 @@ module.exports = {
         "sr-thoai-nghiem--the-emerald-stream-flows-on",
         "br-nguyen-tinh--a-thousand-years-of-returning",
         "br-phap-dung--bells-of-mindfulness",
-        "br-phap-luu--thays-vision-for-wake-up-schools.md",
+        "br-phap-luu--thays-vision-for-wake-up-schools",
         "br-phap-hai--don-t-cover-over-your-monastic-life-with-bells-and-incense",
         "br-phap-linh--two-leaves-at-the-tip-of-the-branch",
         "br-phap-niem--the-laughter-of-children-echoes",
