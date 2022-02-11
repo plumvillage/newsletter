@@ -4,7 +4,7 @@
     "description": "",
     "scripts": {
         "clean": "rm -R docs",
-        "clean:media": "rm -fR docs/media/articles",
+        "clean:media": "rm -fR docs/media/article",
         "debug": "DEBUG=Eleventy* npx @11ty/eleventy",
         "start": "npx @11ty/eleventy --serve",
         "start:incremental": "npx @11ty/eleventy --serve --incremental",

@@ -2,18 +2,22 @@
 
 Single source publishing project using [Eleventy](https://www.11ty.dev) and [PagedJS](https://www.pagedjs.org/).
 
-## Running locally
-```
-./bin/setup.sh
-npm start
-```
-Browse to http://localhost:8080/.
+## Setup for local development
+Run `./bin/setup.sh`
 
-## Generating PDF
-```
-npm install -g pagedjs-cli pagedjs
-npm run build
-```
+## Running locally
+Run `npm start` and browse to [http://localhost:8080/](http://localhost:8080/).
+
+## Generating PDF files
+Run `npm run build`
+
+## Deployment
+Because of the bug that currently sometimes renders 4 columns on first run, its best to have
+Eleventy running so you can check if the layout your deploying is correct.
+
+1. In [.eleventy](.eleventy) set `processImages` to `true`.
+2. Run `npm start`, check if the layout is ok. Trigger a re-render if needed.
+3. Run `npm run deploy`
 
 ## Code style
 - Use hyphenated class names in CSS.
