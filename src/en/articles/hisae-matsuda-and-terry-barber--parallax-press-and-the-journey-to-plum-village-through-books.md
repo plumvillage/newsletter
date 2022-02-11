@@ -7,8 +7,6 @@ author: Hisae Matsuda & Terry Barber
 
 {% image "article/hisae-matsuda-and-terry-barber/HarvardBookstore.jpg" %}
 
-{% image "article/hisae-matsuda-and-terry-barber/ParallaxTeamInPV.jpg" %}
-
 **Hisae:** How did you first come to Plum Village? 
 
 **Terry:** In 1991, my studies and work were ending and I was ready for a change. For years I had been reading books about Buddhism and wanted to live in a temple or practice center. I knew for my life to move forward I needed the support of a daily schedule and practice community. One day someone put a copy of *Being Peace* into my hands and said, “I think you will like this!” and so I learned about Thay. I thought, “If it’s possible, I’d like to go to Thay’s practice center.” Soon after, I had the chance to attend his public talk in Los Angeles and a Day of Mindfulness at the retreat for environmentalists in Malibu. I was moved to hear Thay address matters of social injustice; at that time it was the police beating of Rodney King, which had happened a few months before and was still in the news. I came to Plum Village in April 1992, hoping to stay indefinitely.
@@ -26,6 +24,8 @@ Terry, what were your first impressions and experiences of life in Plum Village?
 I stayed on as staff for the summer retreat and was lucky to be in the Lower Hamlet where the Vietnamese families stayed and created a real community (non-Vietnamese retreatants and families stayed in the Upper Hamlet). There seemed to be so much happiness and freedom in just being together, interacting, living, and eating in a Vietnamese way. After dinner the songbooks came out. I don’t have words to describe the beauty and penetrating effect of the Vietnamese songs; many had been written by Thay. At summer’s end came the first-ever plum harvest—not a commercial success! We were a crew of four or five laypeople who’d stayed on after the retreat. We were led by a friendly, well-intentioned local farmer who, knowing only grapes, was inexperienced with plums, even though they were a common local crop. Most of the plums we picked rotted in the heat before they got to the drying house. It was discouraging but, doubtless through the efforts of Sister Chan Khong, systems were put in place to ensure more efficient future harvests. It was enjoyable and tiring work, shaking the trees, gathering the plums from the ground, eating the sun-warmed fruit from the trees, and bringing buckets-full back to the kitchen for the sisters to make plum jam. To stay on for winter, I had to write a letter to Thay, asking to be a resident. Somehow I was accepted. I stayed for six years in Plum Village, and then for three years at Green Mountain Dharma Center in Vermont. 
 
 I’m always moved by Thay’s dedication to creating environments where people can find peace and healing, connect with nature and community, have the chance to look deeply, and learn ways to handle suffering and touch seeds of happiness and well-being.
+
+{% image "article/hisae-matsuda-and-terry-barber/ParallaxTeamInPV.jpg" %}
 
 **Hisae:** How did you come to be at Parallax, Terry?
 

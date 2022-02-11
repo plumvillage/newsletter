@@ -89,12 +89,14 @@ In 2001 during Thay's teaching tour in China we received the news that Br. Giác
 
 Deer Park Monastery is in Southern California. For some unknown reason, when Br. Giác Thanh went there to be the abbot, he started to wear his sanghati again. “At every point, be sovereign of yourself. Wherever you stand, be your true person.” (Master Linji - <span lang="zh">随处作主,立处皆真</span>). Depending on the place, the situation, the people, Br. Giác Thanh knew how to respond appropriately. Everything is manifestation. For him *holding on or letting go, he was free.* A free person is not caught in any form or sign, even “signlessness”. In the Diamond Sutra it says: “Subhuti, if you think that the Tathagata realizes the highest, most fulfilled, awakened mind and does not need to use all the signs, you are wrong. Subhuti, do not think in that way.”
 
-At Deer Park Monastery on the side of the mountain, a memorial stupa was erected for Br. Giác Thanh and in the heart of it is engraved a posthumous poem written for him by Thay.   
+At Deer Park Monastery on the side of the mountain, a memorial stupa was erected for Br. Giác Thanh and in the heart of it is engraved a posthumous poem written for him by Thay.
 
 > That you are a virtuous one is already heard by everyone
 > The work of a true practitioner has been accomplished
 > When you stupa has just been raised on the hillside
 > The sound of children's laughter will already be heard.
+
+{% image "article/br-phap-niem/CCI11202018_00015-edit.jpg" %}
 
 Br. Giác Thanh was truly a hero, a great man. He had accomplished the most worthy deed of a practitioner - the career of awakening. He built his stupa not with stones but with liberation, awakening, solidity, and freedom, and we continue to benefit from them. That stupa is also his sangha. In the years since Br. Giác Thanh passed away, many young people, both Vietnamese and American, have come to practise and ordain at Deer Park Monastery. They are all his continuations. The laughter of innocence, joy, and freedom still echoes in those endless skies. 
 

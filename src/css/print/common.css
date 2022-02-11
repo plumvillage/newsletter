@@ -338,6 +338,13 @@ article blockquote p:first-child::before {
     font-size: 200%;
     color: var(--color-bark-light);
 }
+/* TODO */
+/* article blockquote p:last-child::after {
+    content: "”";
+}
+article blockquote p cite::before {
+    content: "”";
+} */
 article blockquote p + p {
     margin-top: 6pt;
 }
@@ -363,8 +370,9 @@ article blockquote:lang(zh) {
 }
 
 p.verse {
+    page-break-inside: avoid;
     font-family: "Cormorant Garamond";
-    text-indent: 0pt;
+    text-indent: -3pt;
     margin-left: 6pt;
     font-weight: 600;
     font-style: italic;
@@ -384,8 +392,14 @@ p.verse b {
     font-style: normal;
     font-size: 110%;
     line-height: 110%;
-    text-transform: lowercase;
+    /* text-transform: lowercase; */
     /* font-variant: all-small-caps; */
+}
+
+p.verse p
+
+p.verse + p {
+    text-indent: 0 !important;
 }
 
 /* 21st century */
@@ -458,7 +472,7 @@ p.editors-preface i {
 }
 /* https://unicode-search.net/unicode-namesearch.pl?term=CIRCLE */
 /* https://jrgraphix.net/r/Unicode/25A0-25FF */
-p.editors-preface::after {
+p.editors-preface::after, .divider::after {
     margin-top: 12pt;
     font-style: normal;
     font-size: 70%;
@@ -482,12 +496,19 @@ p.editors-preface::after {
     transparent);
 }
 
+.divider {
+    margin-bottom: 12pt;
+}
+
 /* normally, this css would work, but articles are split between pages, so to select the last element, we need some javascript */
 /* article > p:last-child::after */
 .last-article-element::after {
     /* https://en.wikipedia.org/wiki/Fleuron_(typography) */
-    content: ' 🙢';
-    /* font-weight: bold; */
+    /* https://www.htmlsymbols.xyz/unicode/U+1F662 */
+    content: " \1F662";
+    /* content: ' 🙢'; 	 */
+    font-weight: normal !important;
+    font-style: normal !important;
     color: hsl(17, 36%, 15%);
 }
 
@@ -591,8 +612,7 @@ h1#the-true-sangha + .author, h1#tang-than-dich-thuc + .author {
 }
 
 
-
-
+img#articlebr-troi-bao-tangScreenshot-edit,
 img#articlebr-troi-dao-quangIMG1129,
 img#articlesr-giac-nghiemSu-me-Giac-Nghiem-2-edited,
 img#articlebr-phap-dungthay-bell3-torn-edges {
@@ -614,7 +634,17 @@ img#articlesr-giac-nghiemSu-me-Giac-Nghiem-2-edited {
     width: 64%;
     margin-bottom: 0;
 }
+img#articlebr-troi-bao-tangScreenshot-edit {
+    width: 87%;
+    margin-bottom: 0;
+}
 
+
+
+
+img#articlesr-tu-nghiem-and-sr-dieu-nghiemSr-tu-nghiem2-edited,
+img#articlebr-phap-niemCCI1120201800015-edit,
+img#articlesr-trang-bo-deIMG0331,
 img#articlesr-trang-bo-deIMG0331,
 img#articlesr-trang-bo-deSc-Bo-DJe-2-edit,
 img#articlebr-troi-duc-hienBrDucHien-edit,
@@ -641,6 +671,26 @@ img#articlesr-chuan-nghiemSc-Chuan-N-3,img#articledr-elli-weisbaumScientific-Day
     overflow: visible;
     /* this is removing an artefact in the pdf, which would otherwise display a thin line of the image above the white mask */
     border-top: 2px solid white;
+}
+
+
+img#articlesr-tu-nghiem-and-sr-dieu-nghiemSr-tu-nghiem2-edited {
+    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + 110mm) * -1);
+    mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 20%,rgba(0,0,0,1.00) 40%);
+    -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 20%,rgba(0,0,0,1.00) 40%);
+}
+.PAGE-OF-articlesr-tu-nghiem-and-sr-dieu-nghiemSr-tu-nghiem2-edited .pagedjs_page_content {
+    height: calc(100% - var(--pagedjs-footnotes-height) - 110mm) !important;
+}
+
+
+img#articlebr-phap-niemCCI1120201800015-edit {
+    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + 70mm) * -1);
+    mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%,rgba(0,0,0,1.00) 30%);
+    -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%,rgba(0,0,0,1.00) 30%);
+}
+.PAGE-OF-articlebr-phap-niemCCI1120201800015-edit .pagedjs_page_content {
+    height: calc(100% - var(--pagedjs-footnotes-height) - 70mm) !important;
 }
 
 
@@ -819,6 +869,12 @@ img#articlebr-minh-hyDSC3796-edit {
     height: calc(100% - var(--pagedjs-footnotes-height) - 96mm) !important;
 }
 
+
+
+
+
+.PAGE-OF-articlesr-tu-nghiem-and-sr-dieu-nghiemSr-tu-nghiem2-edited .pagedjs_margin-bottom,
+.PAGE-OF-articlebr-phap-niemCCI1120201800015-edit .pagedjs_margin-bottom,
 .PAGE-OF-articlesr-trang-bo-deIMG0331 .pagedjs_margin-bottom,
 .PAGE-OF-articlesr-trang-bo-deSc-Bo-DJe-2-edit .pagedjs_margin-bottom,
 .PAGE-OF-articlebr-troi-duc-hienBrDucHien-edit .pagedjs_margin-bottom,

@@ -11,6 +11,8 @@ At this time last year, my father passed away and I felt that my mother and sibl
 
 A few months ago, l moved to Son Ha Temple (near Upper Hamlet) to join the sangha there. In the beginning, living together with the sangha was not easy for me, especially when I did not know how to take care of myself. But thanks to the guidance and support of my mentors Br. Nguyen Tinh and Br. Phap Ao, I have been learning ways to take care of my suffering, and I don’t know where I would be without them. I realized that to practice together with the sangha is easier than to practice alone and that it is so crucial to get nourished by the sangha’s collective energy, to take refuge in the sangha. The sangha and its practice can help me purify my body and mind every day. No matter how difficult and challenging life is, the sangha is always there to support me. 
 
+{% image "article/br-troi-ruong-duc/BrRuongDuc-edit.jpg" %}
+
 The climate in Son Ha is quite humid and cold compared to the Upper Hamlet. When winter came, the temperature began to decline and the room became very cold, especially because my mentor never uses the heater and l wish to follow his way of living.
 
 However, thanks to his example and his way of training, my body began to accept the environment slowly. My mentor knows that l am afraid of the cold. Thanks to his kindness, I was able to change to a thicker quilt and the problem of keeping warm when sleeping was solved. I can now sleep peacefully at night. Sometimes I would think to myself: right this moment, there are many people, especially children, who are living in abject poverty, who do not have enough clothes for the winter. I am very lucky to have enough clothes to wear and to continue to practice.
@@ -26,6 +28,8 @@ After working in the greenhouse for just two days, I had already released a lot 
 My mentors started sowing seeds and told me to keep watering them every day. After a few days of taking care, I saw the seeds begin to sprout. A few days later, seedlings started to grow. My mentors transferred some seedlings to another place, so they had enough space to grow.
 
 During one afternoon of mindful service, while I was watering the seedlings wholeheartedly, I suddenly realized that the seedlings were smiling at me. Oh… so wonderful! It was the first time I could see this clearly. For me this was a very precious moment, and this is also what my mentors wanted to tell me. 
+
+{% image "article/br-troi-ruong-duc/BrRuongDuc2-edit.jpg" %}
 
 When the seedlings began to grow into vegetables, the weeds also gradually grew. I just kept watering the vegetables and didn’t take care of the weeds. One morning when I was enjoying a cup of tea with my mentor, who knew that I didn't take care of the weeds, he smiled and said to me, "You only know how to water the vegetables.” After that I realized that as I’m watering the vegetables, at the same time, I have to take care of the weeds. One afternoon when l was removing the weeds with my mentor Br. Nguyen Tinh, I found that I could not uproot all of the weeds because the vegetables did not have strong enough roots. I could only trim the weeds above ground. He looked at me, smiled, and said that maybe you need to wait for the vegetables to be strong enough before you can uproot the weeds. I listened and I had to wait patiently for the vegetables to grow stronger. 
 

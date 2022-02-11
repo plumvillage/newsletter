@@ -11,6 +11,8 @@ I am happy for my community in its 40<sup>th</sup> anniversary because the commu
 
 Since the Wake Up Retreat in 2016, I have been engaged in a Plum Village practice community who calls themselves the “Rainbow Family”. This is a community that consists of people with diverse gender indentities and sexual orientations, LGBTIAQ+ (Lesbian, Gay, Bisexual, Transgender, Queer and Questioning, Intersex, Asexual and also includes the diverse spectrums of gender and orientation). Among much suffering that is happening in the world, people who are identifed as LGBTQIA+, until today, still live with many different degrees of suffering and discrimination from unconscious judgements of family and society, to living under a death threat by law in many countries. This suffering is simply because they are doing their best to be beautiful, to be themselves, and because of the way they love each other. As a rainbow monastic, at the beginning, it was also very hard for me to practice “*to be beautiful, to be myself”* because this has not yet been accepted fully in the collective consciousness of humans. Seeing all the suffering happening in the rainbow community, I felt the urge to come out and engage with the community, to offer my practice, my presence, with my aspiration to learn together and to understand more deeply. 
 
+{% image "article/br-troi-bao-tang/Screenshot-edit.jpg" %}
+
 ## Joyfully together as a Rainbow Family
 
 Today we have many “Rainbow Families” around the world, such as France (Sangha Queer Paris and Marseille) , Rainbow UK, Rainbow Ireland, Rainbow Sangha Indonesia, Germany (Berlin and Freiburg), US (Chrysanthemum and Cosmic Body), International LGBTIAQ+ Sangha and the PlumVillage App. All of these communities are spaces for practicing mindfulness in the Plum Village tradition and a for refuge for our lay and monastics practitioners that identify as LGBTQIA+. Some monastic siblings and I have participated in many of these sanghas’ activities. It is very inspiring to see many people of all ages with very diverse gender and sexual orientations come together to share the practice, enjoy each other’s transformation and nourish each other whether it is an in-person or online retreat.
@@ -21,7 +23,9 @@ I have been able to participate in multiple LGBTIAQ+ retreats in Plum Village Tr
 
 ## Watering the seeds of awareness in the monastic community
 
-For me, continuous right diligence is necessary to water the seeds of understanding, compassion, and awareness, so that there is more understanding in our engaged monastic community about LGBTIAQ+ concerns. I really hope we shall continue to be a refuge for this community.      
+For me, continuous right diligence is necessary to water the seeds of understanding, compassion, and awareness, so that there is more understanding in our engaged monastic community about LGBTIAQ+ concerns. I really hope we shall continue to be a refuge for this community.
+
+{% image "article/br-troi-bao-tang/IMG-20211224-WA0014.jpg" %}
 
 The Plum Village Monastic order is a real engaged Buddhist community, I was invited, on a Rains Retreat 2021 monastic day, to offer workshop on “*Understanding LGBTIAQ+”*. It was a very joyful moment, there were more than 60 monastics that came together with their open hearts, with the aspiration to understand and to find ways to support the LGBTIAQ+ practitioners. I felt so touched by the presence and the curiosity of my monastic siblings, monks and nuns.
 
@@ -39,6 +43,8 @@ LGBTIAQ+ people are not enemies to anyone but we are just unfamiliar friends to 
 
 My aspiration, as a Rainbow monk, is first of all to live a life of freedom and to help people to live in freedom too, including the LGBTIAQ+ siblings, lay and monastic. We all have Buddha nature, we all have beauty in us. I would like to see Rainbow people live happily and free and love according to who they are. I also would like to support my Rainbow monastic siblings to live happily and free as monastics, to be able to practice the precepts and cultivate merit and virtue so that we can continue the legacy of the Buddha and our teacher, Thay.
 
+{% image "article/br-troi-bao-tang/266137775101594156527050427864726797241279645n.jpg" %}
+
 In Plum Village I have had a chance to study the classical Vinaya, both Pali and Chinese translated in English, and surprisingly I discovered that in the time of the Buddha, the topic of gender had been part of the Buddha's sangha life. When I read the paragraph in the Vinaya<span class="note">Dharmaguptaka Vinaya: Ordination Skandhaka, part 5. Taisho Vol. 22 pp. 812-816, Bodhi.</span> stating that when a monk who had been ordained as a bhikshu for some time became a woman, and the Buddha said that she should join the bhikshuni sangha and keep her place in order of ordination. The same happened for a bhikshuni who became a man, I felt light at heart because I felt that a man can be female and a woman can be male and it does not mean that that person has to be expelled from the sangha. These accounts give me a lot of confidence in the Buddha’s teaching and His community and also in the inclusiveness of the Plum Village monastic community.
 
 When I contemplate the future Plum Village Monastic Community, I would love to see that we all will continue to practice the Monastic Mindfulness trainings (pratikmoksha), mindful breathing and walking, to build togetherness, brotherhood, sisterhood and siblinghood. A community that continues to contribute peace and healing to society, transforming suffering. A community that has more diversity in the monastic and lay community such as more nationalities, more ethnicities, more people of color, more diversity in gender and diverse sexual orientations.
@@ -46,15 +52,9 @@ When I contemplate the future Plum Village Monastic Community, I would love to s
 And one day LGBTIAQ+ people will be familiar friends to themselves, family, society, nation and the world and at the end we will not need the LGBTIAQ+ community or Rainbow Family anymore because we are just part of human beings who are not seen to be different from anyone else. This is the deep aspiration that I have.
 
 <!-- \*Dharmaguptaka Vinaya 
-
 Ordination Skandhaka, part5 
-
 Taisho(CBETA edition) Vol.22 pp. 812-816 Translated by the Bodhi Translation Committee 
-
 Published by the Bodhi Foundation for Culture and Education 
-
 ©2015 Bodhi Foundation for Culture and Education
-
 Website: 
-
 [http://dharmaguptakavinaya.wordpress.com](http://dharmaguptakavinaya.wordpress.com/) -->

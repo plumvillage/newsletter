@@ -19,6 +19,8 @@ We made really good use of the two weeks by applying the practice of dwelling in
 
 Stream Entering Monastery (“Nhap Luu” in Vietnamese) was relocated to Porcupine Ridge, a green and quiet suburb, in June 2021, just before the three-month Rains’ Retreat started. When we arrived, there were only five sisters in residence, including Sister Trung Chinh, who had joined for the 3-month retreat. After that she would return to Deer Park Monastery in California for the Great Ordination Ceremony. And so, including us two newcomers, the monastery only has six sisters.
 
+{% image "article/sr-trang-mai-thon/SrMaiThon1-edited.jpg" %}
+
 The first few days after arrival, I had a sense of both familiarity and unfamiliarity. There were quite a few things that were different from New Hamlet, where I had stayed and practiced for many years: the washing machine, the kitchen, the dining hall, the recycling bin, and the sangha size, which is so small compared to the size of the sangha in Plum Village. In short, there were so many things that I had to get used to. Here in Australia, one more unfamiliar thing is that when you go to town everyone speaks … English. The first few weeks, when friendly Australians said “Hello” to me, I habitually responded “Bonjour!” Then suddenly I realized where I was and a little embarrassment clicked in.
 
 On the familiar side, the size of the land here at the monastery is a bit like the New Hamlet, although it is more hilly. The land is not too big - just enough space for me to enjoy and for a “little aging person” to climb up those little hills without their legs getting too tired. The schedule, practices, and activities here are maintained regularly, which helped me to fit in right away without any effort.
@@ -51,6 +53,8 @@ Last year New Hamlet launched a tree-planting program to replace some dead plum 
 
 I visited my tree, talked to it, and put a few branches around it to stop goats and sheep from our neighbor from approaching the tree. I was thrilled when spring came. The weather was warm enough for some young green leaves to come out. One day, upon visiting my tree, I saw its young leaves had been eaten by insects - only some skinny leaf skeletons were left. As soon as I saw it, I knew that the tree would not be able to make it. I was sad, but I couldn't do much as the tree was still very young and the leaves were not able to regrow. 
 
+{% image "article/sr-trang-mai-thon/SrMaiThon3-edited.jpg" %}
+
 I thought about my Bodhicitta. At the beginning of time, it started as a cell. After countless generations, it became a seed, germinated, and sprouted. Maybe right now, my Bodhicitta (and that of my other siblings) is still in this stage, still a young bud. Probably it needs to go through many other stages or lifetimes to become as strong, solid, and powerful as Master Xuyun’s, Thay’s, or other great figures in the meditation circle. However, the presence of those young buds is still very wondrous as without the young buds, there will be no leaves, no flowers. Young buds are extremely important because if the young buds are eaten up, as my almond tree’s leaves were, then there’ll be no hope for the survival of the tree, not to mention the possibility of the tree to root deeply.
 
 Daily practices and protocols that seem to be insignificant, in fact, are effective insect repellents to prevent the young leaves from being eaten, leading to the death of the tree. Isn’t that right, dear Thay? Wisdom that has been accumulated over thousands of years by countless generations of high monks and nuns is inconceivable and inexpressible. 
@@ -70,6 +74,8 @@ What I have known, learned, experienced, and done can easily become a solid cita
 He is sixteen. This Christmas and New Year holiday he was sent to Nhap Luu to stay with the sisters. His parents and younger brother visited him once a week. In Australia, the school holiday at the end of the year lasts six weeks. His family planned to send him here for six weeks, but the sisters cautiously told him to try for two weeks to begin with.
 
 Apparently, he is a gaming addict. After the school holiday, he will go into year twelve. He is very smart yet without direction in his life. Prior to coming to the monastery, he prepared himself to just join the sisters at meal times and mindful service. Other than these, he would not join sitting meditation, walking meditation, or have any contact with the sisters. In the beginning, he responded reluctantly when asked. Not even one week later, he was already chatting, smiling, and laughing with the sisters. He started joining in with the walking and sitting meditation. In a Dharma sharing session, he said that the sisters are “normal”, not as he had thought.
+
+{% image "article/sr-trang-mai-thon/SrMaiThon2-edited.jpg" %}
 
 He still has a long way to go, but his face is brighter and lighter, his steps are dragging less. That is indeed a success.
 

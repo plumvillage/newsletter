@@ -9,24 +9,24 @@ author: Sister Chân Từ Nghiêm
 
 <p class="verse">
 <b>May the smiles from our hearts</b><br/>
-Pierce through the clouds.<br/>
-Of our confusion.<br/>
+pierce through the clouds.<br/>
+of our confusion.<br/>
 <br/>
 May the smiles from our hearts<br/>
-Reach you<br/>
-Continuing your path<br/>
-With courage and freedom.<br/>
+reach you<br/>
+continuing your path<br/>
+with courage and freedom.<br/>
 <br/>
 May the smiles from our hearts<br/>
-Melt all your obstacles<br/>
-So you can serve all beings<br/>
-With peace and wisdom<br/>
+melt all your obstacles<br/>
+so you can serve all beings<br/>
+with peace and wisdom<br/>
 <br/>
 Let the smiles from our hearts<br/>
-Encourage you on and on,<br/>
-Like the sun<br/>
-Shining everywhere<br/>
-With warmth and freedom</p>
+encourage you on and on,<br/>
+like the sun<br/>
+shining everywhere<br/>
+with warmth and freedom</p>
 
 ## Their Flowers Have Fallen
 <!-- 18 December 2021 -->
@@ -73,7 +73,7 @@ Disappearing<br/>
 And reappearing<br/>
 With the colors and sounds of spring.</p>
 
-This poem was written after the Be-In on 4 December 2021 when we were together with many Sisters who would be leaving New Hamlet in a few days to visit their families in Vietnam,  and then move on to other practice centers. We sang songs to one another and shared from our hearts the beautiful experiences we had at New Hamlet.
+This poem was written after the Be-In on 4 December 2021 when we were together with many Sisters who would be leaving New Hamlet in a few days to visit their families in Vietnam, and then move on to other practice centers. We sang songs to one another and shared from our hearts the beautiful experiences we had at New Hamlet.
 
 It was also the anniversary day of my little brother’s passing away in 1994. I remember his qualities of courage and freedom. The letting go is part of being able to continue to live after experiencing the death of a beloved one.
 

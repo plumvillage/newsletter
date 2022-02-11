@@ -8,13 +8,17 @@ We asked these elders for some of their memories of the early days of Plum Villa
 
 ## Life in Community
 
-***Sr. Tu Nghiem*:** It was such an eye-opening experience for me to (live in a Vietnamese community in rural France), coming from Manhattan – a city with big concrete apartment buildings. It was a totally different experience, and I appreciated so much the way the Vietnamese mothers and fathers, the children, were happy and harmonious together. 
+{% image "article/sr-tu-nghiem-and-sr-dieu-nghiem/Sr-tu-nghiem2-edited.jpg" %}
+
+***Sr. Tu Nghiem*:** It was such an eye-opening experience for me to (live in a Vietnamese community in rural France), coming from Manhattan – a city with big concrete apartment buildings. It was a totally different experience, and I appreciated so much the way the Vietnamese mothers and fathers, the children, were happy and harmonious together.
 
 My parents were both children of immigrants, so they had the experience of speaking their parents’ native language and learning English later on, so maybe they transmitted to me a sense of feeling comfortable with other cultures. I was used to this double culture. The adjustments were not so difficult, and the Vietnamese culture I found was gentle and very respectful. I remember how Thay greeted the father of Br. Phap Ung. Thay stood up from the table, and when (Br. Phap Ung’s) father came into the room, Thay went up to him, (as he was older than Thay), and greeted him in the appropriate way. I was just so touched by Thay continuing to keep the value of addressing the parents of his disciples in a respectful way.
 
 Thay always loved to hear Vietnamese songs, so after a dharma talk or before walking meditation he’d invite one of the brothers or sisters to come up and sing. Another time for singing together was after our meals. There were just two long tables where the whole sangha sat. Thay was at the head, Sr. Chan Khong next to him, and then the attendants. We ate our meal mindfully in silence, and then after the meal, it was time for singing and the plates were left on the table. It was really relaxed. Thay really encouraged music and singing as part of our monastic life.
 
 As I look at the name  Plum Village, I see it was truly a Village. When I had the opportunity to go to Vietnam, I recognized that this is what a village is. Thay brought this way of living, the feeling of family, this spirit, to Plum Village. We called each other Su Chi (older sister) and Su Em (younger sister/brother) and Su Ong (father). 
+
+{% image "article/sr-tu-nghiem-and-sr-dieu-nghiem/24-edited.jpg" %}
 
 ***Sr. Jina*:** When I just arrived in Plum Village, everything seemed to be more or less organised. When there was working meditation there was a gathering and they said, “Oh the toilets need to be cleaned, who wants to clean the toilets? Yes, I’ll clean the toilets! The mediation hall needs to be set up…Yes!” Everybody just volunteered to do the work. I didn’t mind that it was not organised in every detail, I thought it was very nice to have this organic kind of feeling. 
 
@@ -30,7 +34,6 @@ I was accepted, and for me that was enough. In the year 2001, I was able to be T
 
 ***Sr. Jina*:** I was very impressed by the calmness that Thay radiated. He was not in any way affected by whatever was happening around him. In the 21 Day Retreat it was all very organised and the Summer Retreat was very organic and Thay moved so naturally through both. I thought, this is very beautiful to see, in the midst of a very lively group of people, there was Thay, so naturally moving around, happy. So my first impression was of stability and clarity. 
 
-
 ## Dharma talks
 
 ***Sr. Tu Nghiem*:** What is now the Lower Hamlet dining room was very small back then. Thay would come in and give the dharma talk. In the back of this room there was a ceramic divider, not completely to the ceiling but halfway, like a little wall, and then ceramic tiles. Behind this were stove burners to cook! So towards the end of Thay’s dharma talk we would *sniff, sniff,* smell that the sisters had started to cook. What was so beautiful about Thay in those days and our simple lives, was that it was natural. 
@@ -38,6 +41,8 @@ I was accepted, and for me that was enough. In the year 2001, I was able to be T
 We already had the chiming clock in the dining hall. It would chime every fifteen minutes. Thay would stop, we’d all breathe, and it was very peaceful. Then Thay would continue with the dharma talk. In those days it was Br. Nguyen Hai who was the cameraman. It’s amazing how they’ve preserved these early teachings. In those days Thay used a cassette recorder, and they’d have to stop and put in a new cassette and continue. 
 
 ***Sr. Jina*:** Thay’s teachings were very clear. With certain teachings that one can say in a particular way, Thay just said, “This is it.” We listened to Thay, we tried to understand and even if we didn’t understand, it was just being in Thay’s presence. That was enough and I had already been so nourished by the 21 Day Retreat (after my arrival) I thought, I have at least three years material (to practice with).
+
+{% image "article/sr-tu-nghiem-and-sr-dieu-nghiem/SrDieuNghiem-edit.jpg" %}
 
 (When the talks were in Vietnamese), Sr. Chan Khong used to translate and I enjoyed listening to Sr. Chan Khong very much because you also get side information, then you have a better context! It was very alive, I really enjoyed that. 
 
@@ -61,7 +66,9 @@ Br. Giac Thanh was, I believe, the master of relaxation. He spoke very slowly an
 
 ## Continuing our Teacher and Reinventing the Practice
 
-***Sr. Tu Nghiem*:** Something I valued so much in Thay and I want to continue is the path of the Bodhissatva Sadaparibhuta, which is always finding the best in people and letting them know they have these good qualities. Thay always believed in this. He once mentioned a sutra from the Buddha that says if someone has only one eye, you protect that one eye. That means the practitioner is weak but still has an aspiration. Protect that aspiration – don’t be so harsh. Thay always had so much compassion. His understanding was so immense. 
+***Sr. Tu Nghiem*:** Something I valued so much in Thay and I want to continue is the path of the Bodhissatva Sadaparibhuta, which is always finding the best in people and letting them know they have these good qualities. Thay always believed in this. He once mentioned a sutra from the Buddha that says if someone has only one eye, you protect that one eye. That means the practitioner is weak but still has an aspiration. Protect that aspiration – don’t be so harsh. Thay always had so much compassion. His understanding was so immense.
+
+{% image "article/sr-tu-nghiem-and-sr-dieu-nghiem/1-edited.jpg" %}
 
 People came with so-called mental illnesses and Thay would say let them stay and practice. No pressure was put on them. We just asked them to come to sitting if they could, or walking meditation, and eat with us. And they would stay around a week. I remember Thay said the collective energy of mindfulness, compassion, and kindness, and the culture of gentleness would help that person. That was Thay’s way in the early days of letting the sangha be a village where everyone could come and be here. I remember Thay's qualities of deep looking, great compassion and understanding, and always looking for the best in people, giving them a chance. 
 
@@ -75,6 +82,82 @@ Thay was always practicing walking meditation, from the very beginning, even bef
 
 ***Sr. Tu Nghiem*:** I think there are several levels and aspects (to this). Thay wanted to create a monastic sangha, and an international fourfold sangha. So I think this is so important for the future of Plum Village, to keep the balance, that it remain international and fourfold – that means the nuns and laywomen and the monks and laymen are all part of the Plum Village community.
 
+{% image "article/sr-tu-nghiem-and-sr-dieu-nghiem/SrTuNghiem1-edited.jpg" %}
+
 The essence of Plum Village is to continue to share the practices of mindfulness in as simple a form as possible, to meet the needs of people around the world, of different cultures, of different religions, and to present it in a way that’s understandable and acceptable by people anywhere. We keep the simplicity of the teachings, the basic teachings, four noble truths, eightfold path (and keep it accessible to the) beginners in the practice. 
 
-Also, we keep our tradition, we don’t dilute it. We keep the Vietnamese heritage, the lineage, the culture, to learn from. We want to learn from the beauty of Vietnamese culture, its gentleness, friendliness, and acceptance of newcomers. That’s what impressed me in the early days, the beauty of the flower arrangements, the tea meditations. And the western bands, the monastics with their drums, their electric guitars, we can have all that. I think it’s important because it reflects the world now.
+Also, we keep our tradition, we don’t dilute it. We keep the Vietnamese heritage, the lineage, the culture, to learn from. We want to learn from the beauty of Vietnamese culture, its gentleness, friendliness, and acceptance of newcomers. That’s what impressed me in the early days, the beauty of the flower arrangements, the tea meditations. And the western bands, the monastics with their drums, their electric guitars, we can have all that. I think it’s important because it reflects the world now. 🙢
+
+<div class="divider"></div>
+
+## Poems by Sr. Tu Nghiem to all Bodhisattvas
+
+<p class="verse"><b>There is the Letting Go</b><br/>
+of the song in our hearts<br/>
+we have kept so long.<br/>
+<br/>
+There is the letting go<br/>
+that the trees know<br/>
+so well, when<br/>
+their leaves fly and fall.<br/>
+<br/>
+There is the letting go<br/>
+and wishing you well<br/>
+as streams of life<br/>
+flow forward<br/>
+leaving spaces<br/>
+of memories behind.<br/>
+<br/>
+There is the letting go<br/>
+which is all of life<br/>
+disappearing<br/>
+and reappearing<br/>
+with the colors and sounds of spring.</p>
+
+This poem was written after the Be-In on 4 December 2021 when we were together with many Sisters who would be leaving New Hamlet in a few days to visit their families in Vietnam, and then move on to other practice centers. We sang songs to one another and shared from our hearts the beautiful experiences we had at New Hamlet.
+
+It was also the anniversary day of my little brother’s passing away in 1994. I remember his qualities of courage and freedom. The letting go is part of being able to continue to live after experiencing the death of a beloved one.
+
+<div class="divider"></div>
+
+<p class="verse"><b>Their Flowers have Fallen</b><br/>
+but the leaves of the orchid plant<br/>
+are firm and strong,<br/>
+spreading their arms of greenness<br/>
+to the east and west.<br/>
+<br/>
+Their stems are thin and wobbly<br/>
+attached to wooden sticks<br/>
+with pins,<br/>
+yet tiny green buds<br/>
+are pushing through<br/>
+on the branches,<br/>
+like little lights of hope:<br/>
+life continues<br/>
+and will blossom again.</p>
+
+This poem was written to my orchid plant as I witnessed its changing, impermanent nature over the past two months. Impermanence can also be the continuation of life, and we are filled with happiness and joy on seeing this. The flowers have fallen, yet the tiny buds sing the song of life continuing without end.
+
+<div class="divider"></div>
+
+<!-- 9 December 2021 -->
+<p class="verse">
+<b>May the Smiles from our Hearts</b><br/>
+pierce through the clouds<br/>
+of our confusion.<br/>
+<br/>
+May the smiles from our hearts<br/>
+reach you<br/>
+continuing your path<br/>
+with courage and freedom.<br/>
+<br/>
+May the smiles from our hearts<br/>
+melt all your obstacles<br/>
+so you can serve all beings<br/>
+with peace and wisdom.<br/>
+<br/>
+Let the smiles from our hearts<br/>
+encourage you on and on,<br/>
+like the sun<br/>
+shining everywhere<br/>
+with warmth and freedom.</p>
