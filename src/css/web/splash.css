@@ -38,13 +38,14 @@
         }
     }
     
-    .splash-column-vi {
-        background: 50% 20%/cover url('/media/front-cover-vi.jpg');
+    .splash-column-vi img,
+    .splash-column-en img
+    {
+        width: 50%;
+        position: fixed;
+        z-index: -1;
     }
-    
-    .splash-column-en {
-        background: 50% 20%/cover url('/media/front-cover-en.jpg');
-    }
+    /* background: 50% 20%/cover url('/media/front-cover-vi.jpg'); */
     
     .button {
         font-size: 1rem;

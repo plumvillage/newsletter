@@ -496,10 +496,10 @@ p.editors-preface::after {
 .parallels {
     break-after: page;
 }
-img#CalligraphyParallels-VI-p1-Ngay-Vertical {
+img#calligraphyParallels-VI-p1-Ngay-Vertical {
     width: 50%;
 }
-img#CalligraphyParallels-VI-p2-Bon-Vertical {
+img#calligraphyParallels-VI-p2-Bon-Vertical {
     width: 50%;
 }
 
@@ -525,7 +525,7 @@ article ul li::before {
 
 
 /* reduce space between calligraphy and author */
-/* h1#the-true-sangha, */
+h1#the-true-sangha,
 h1#tang-than-dich-thuc,
 h1#dharma-banquet,
 h1#chicken-and-egg
@@ -539,12 +539,12 @@ h1#strolling-with-joy-on-a-sunny-day
     margin-bottom: -3mm;
 }
 
-#Calligraphyarticle-titlessu-ong-the-true-sangha {
+h1#the-true-sangha img {
     max-height: 40mm !important;
 }
 
-#Calligraphyarticle-titlessu-ong-the-true-sangha
-,#Calligraphyarticle-titlessu-ong-lang-mai-tang-than-dich-thuc
+h1#the-true-sangha img
+,h1#tang-than-dich-thuc img
 {
     filter: drop-shadow(0 0 3pt white);
 }

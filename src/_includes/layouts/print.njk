@@ -1,6 +1,5 @@
 {% extends "layouts/print-frame.njk" %}
 
-
 {% block content %}
 
     {%- if pagedjsCLI != true %}
@@ -24,25 +23,7 @@
         {% set author = article.data.author %}
         {% set content = article.data.content %}
         {% set fileSlug = article.fileSlug %}
-        <article>
-            {% set artCall = articleCalligraphies(fileSlug, "articleCalligraphy") %}
-            {%- if artCall.hasCalligraphy %}
-                <h1 id="{{ title | slugify }}" class="chapter calligraphyTitle">
-                    <img class="articleCalligraphy" src="{{ artCall.calligraphyFile }}">
-                {# {% image artCall.calligraphyFile, "articleCalligraphy" %} #}
-                </h1>
-            {%- else %}
-                <h1 id="{{ title | slugify }}" class="chapter">{{ title }}</h1>
-            {%- endif %}
-
-            <h2 class="author">{{ author }}</h2>
-            {%- if pathPrefix != "" %}
-                {{ content | safe | replace("/media/", pathPrefix+"/media/") }}
-            {%- else %}
-                {{ content | safe }}
-            {%- endif %}
-            <div class="article-end"></div>
-        </article>
+        {% include "partials/article-content.njk" %}
     {%- endfor -%}
 
     <div id="table-of-contents">
@@ -63,7 +44,7 @@
     </div>
     <div class="back-cover bleed">
         <div class="full-page-image">
-                {% image ["LTLM45-2022-cover-back-", locale, "-v20220209a.jpg"] | join %}
+            {% image ["LTLM45-2022-cover-back-", locale, "-v20220209a.jpg"] | join %}
         </div>
     </div>
     {%- endif %}
