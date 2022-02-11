@@ -41,7 +41,9 @@
     .splash-column-vi img,
     .splash-column-en img
     {
-        width: 50%;
+        max-width: 50%;
+        top: 0;
+        object-fit: cover;
         position: fixed;
         z-index: -1;
     }

@@ -616,8 +616,7 @@ img#articlesr-giac-nghiemSu-me-Giac-Nghiem-2-edited {
 }
 
 
-
-
+img#articlebr-troi-duc-hienBrDucHien-edit,
 img#articlesr-doan-nghiemSr-Doan-N-edited,
 img#articlebr-troi-dao-biDSC6747-edited,
 img#articlesr-thao-nghiemIMG6614-edited,
@@ -641,6 +640,16 @@ img#articlesr-chuan-nghiemSc-Chuan-N-3,img#articledr-elli-weisbaumScientific-Day
     overflow: visible;
     /* this is removing an artefact in the pdf, which would otherwise display a thin line of the image above the white mask */
     border-top: 2px solid white;
+}
+
+
+img#articlebr-troi-duc-hienBrDucHien-edit {
+    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + 100mm) * -1);
+    mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 10%,rgba(0,0,0,1.00) 30%);
+    -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 10%,rgba(0,0,0,1.00) 30%);
+}
+.PAGE-OF-articlebr-troi-duc-hienBrDucHien-edit .pagedjs_page_content {
+    height: calc(100% - var(--pagedjs-footnotes-height) - 100mm) !important;
 }
 
 
@@ -789,7 +798,7 @@ img#articlebr-minh-hyDSC3796-edit {
     height: calc(100% - var(--pagedjs-footnotes-height) - 96mm) !important;
 }
 
-
+.PAGE-OF-articlebr-troi-duc-hienBrDucHien-edit .pagedjs_margin-bottom,
 .PAGE-OF-articlesr-doan-nghiemSr-Doan-N-edited .pagedjs_margin-bottom,
 .PAGE-OF-articlebr-troi-dao-biDSC6747-edited .pagedjs_margin-bottom,
 .PAGE-OF-articlesr-thao-nghiemIMG6614-edited .pagedjs_margin-bottom,

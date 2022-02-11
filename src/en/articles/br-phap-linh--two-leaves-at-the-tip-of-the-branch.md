@@ -54,6 +54,6 @@ Every tiny step of transformation we have made on the path is directly connected
 
 Our own transformation *is* the offering and as a sangha we have a *lot* to offer because *all* of us are walking that path, and all of us have been able to transform *something,* even if sometimes it feels like it’s not enough, and even though we still suffer now and then. Collectively, we transmit the lived experience of the transformation of suffering—the knowledge that it is possible—and that more than anything else is what the world needs right now. 
 
-In Glasgow, both Thầy Phap Dung and I felt so lucky that we get to do this work in this life—that we get to make a difference, just by living as a cell of the Sangha body. It is truly a great fortune, given the awareness of suffering in the world, and the awareness that the suffering may increase greatly in the coming years, to realise that *we can do something,* and that as a Sangha, *we can do a lot.*
+In Glasgow, both Thay Phap Dung and I felt so lucky that we get to do this work in this life—that we get to make a difference, just by living as a cell of the Sangha body. It is truly a great fortune, given the awareness of suffering in the world, and the awareness that the suffering may increase greatly in the coming years, to realise that *we can do something,* and that as a Sangha, *we can do a lot.*
 
 

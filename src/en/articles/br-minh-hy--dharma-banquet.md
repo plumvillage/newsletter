@@ -9,13 +9,13 @@ There is an anecdote about an occasion at the Tu Dam Temple in Vietnam, when the
 
 I heard this anecdote when the Venerable Abbot of Bao Lam Temple recounted it to us at Dieu Tram Nunnery. This question has stayed with me ever since - How can the wonderful and deep Dharma be right in front of us? Why can’t I see it? Is it because there are many things around that are so ordinary that I am unable to see it?
 
-At parties, we often offer special dishes. If there is only rice and green vegetables, we cannot call it  We eat them every day, every week, every month, the whole year round, we eat them our whole life through. There are people who cannot bear it if they don’t have rice, even for one or two days. But if that is so, then rice and green vegetables are not ordinary. They are special because everyone can eat them and cannot live without these staples. “Special dishes” at parties are special, but we only eat them occasionally. We cannot eat them every day like we eat rice. *No one loves us like rice does.* 
-
 {% image "article/br-minh-hy/IMG_0786.jpg" %}
+
+At parties, we often offer special dishes. If there is only rice and green vegetables, we cannot call it  We eat them every day, every week, every month, the whole year round, we eat them our whole life through. There are people who cannot bear it if they don’t have rice, even for one or two days. But if that is so, then rice and green vegetables are not ordinary. They are special because everyone can eat them and cannot live without these staples. “Special dishes” at parties are special, but we only eat them occasionally. We cannot eat them every day like we eat rice. *No one loves us like rice does.* 
 
 The teachings of the Buddha are the same. There are Dharma doors that we practice every day so we find them very ordinary. In fact, they are very special because irrespective of place or situation, they can be easily practiced by everyone. 
 
-When learning and practicing profound meditations such as impermanence, non-self, emptiness, signlessness, aimlessness, or interbeing, we need to be able to maintain them with solidity and freedom during daily life. Our steps and mindful breathing have the capacity to reflect and also to nourish the powerful energy source of these meditations. 
+When learning and practicing profound meditations such as impermanence, non-self, emptiness, signlessness, aimlessness, or interbeing, we need to be able to maintain them with solidity and freedom during daily life. Our steps and mindful breathing have the capacity to reflect and also to nourish the powerful energy source of these meditations.
 
 We need to develop this way of looking. Each step, each breath, each time we relax is not an ordinary practice but a very special one, as it is able to carry within itself the profound insights of meditation.
 
@@ -27,6 +27,8 @@ Perhaps rice and boiled vegetables have become ordinary due to the way we eat th
 > so all may have enough to eat. <cite>Gatha ‘Before Eating’, Stepping into Freedom</cite>
 
 In this way, there are things that are very familiar, but they never become out of date. Each step, each in and out breath, each bowl of rice can become a party if our heart is filled with gratitude.
+
+{% image "article/br-minh-hy/IMG_8496-edited.jpg" %}
 
 {% image "article/br-minh-hy/DSC_3796-edit.jpg" %}
 

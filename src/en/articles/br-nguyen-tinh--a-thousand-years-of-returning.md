@@ -9,13 +9,13 @@ author: Brother Chân Nguyên Tịnh
 
 ## *03 November, 2015:*<br/> Let Me Also Be Present
 
-Today is a Monastic Day. I went quite early to the Hermitage so I could walk on the grounds. A few brown robes were already there, each enjoying the serenity. Thầy was away for health treatment in the U.S. and had yet to return. Three more days and it would be a full year since I first arrived in Plum Village.
+Today is a Monastic Day. I went quite early to the Hermitage so I could walk on the grounds. A few brown robes were already there, each enjoying the serenity. Thay was away for health treatment in the U.S. and had yet to return. Three more days and it would be a full year since I first arrived in Plum Village.
 
 The sun was rising. I sat by a tree next to *Phương Khê* - the “fragrant creek”. It was  the rainy season so the creek was in full flow, and sitting there, I could listen to its murmur. I closed my eyes and followed my breathing. The morning sun embraced me.
 
 In recent days my mind has been filled with desolation, as if I had just set foot on a cold, deserted island, so that I could face myself alone and find the answers for my life. Somewhere in me was a flicker of guilt as I seemed indifferent to all I had. Did I really need to choose my own path and leave behind all the hope and trust that so many had bestowed on me and had wished for me to fulfill? Images of Kim Sơn Temple, where I ordained and studied for 14 years, kept coming back like howling waves tormenting my five skandhas. Phrases I had heard before and thought had nothing to do with me were now arising: Have I left behind my teacher and ancestral teachers? Did I turn my back on my roots? Have I taken for granted the relationships in my life before this? Should I go back to my old life? 
 
-In those days, during sitting meditation, these thoughts continued to emerge, rocking me and confining me in an invisible room. I called on Thầy, placing my attention on his solid, peaceful, and courageous energy that was protecting me.
+In those days, during sitting meditation, these thoughts continued to emerge, rocking me and confining me in an invisible room. I called on Thay, placing my attention on his solid, peaceful, and courageous energy that was protecting me.
 
 In that same moment the image of a carp leaping the dragon gate, majestic yet unmistakably lonely, suddenly appeared in my mind. The carp leaps with all its might in order to transform into a dragon. That leap can give it a sense of loss as it leaves behind the lake, the rocks, the moss, and all the things that are familiar to the life of a carp. This loss is also a turning point. If it can leap to the other side and become a dragon, the carp of old would see that it has really lost nothing. Although there is no longer the need for moss or rock holes to make a home or for old familiar things, the carp of old does not look down on them. It still occasionally visits the old places and finds them even more beautiful, seen through the eyes of a dragon.
 

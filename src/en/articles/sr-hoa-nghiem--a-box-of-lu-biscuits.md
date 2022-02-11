@@ -27,13 +27,13 @@ In the old days when there was no Internet, or iPhones, iPads, computers etc., c
 
 I still recall the day we celebrated 20 years of Plum Village. When Plum Village was 20 years old, we were a little older in the Dharma and had already received the lamp transmission. At that time, we were like young birds trained to fly from their warm nest.  Thay assigned us with the task of going out to building Plum Village practice centers in Europe, America and Asia. 
 
-Now Plum Village is 40 years old and we are also becoming middle aged. Though the phenomenaon of birth and death, of change, are in the historical dimension, it is still time to prepare a place to return to. I always remind myself of that. My younger sister, Sister. Chỉ Nghiêm however, was already ahead of me.
+Now Plum Village is 40 years old and we are also becoming middle aged. Though the phenomenaon of birth and death, of change, are in the historical dimension, it is still time to prepare a place to return to. I always remind myself of that. My younger sister, Sister. Chỉ Nghiem however, was already ahead of me.
 
 {% image "article/sr-hoa-nghiem/Hinh-cho-bai-Sc-Hoa-N1.jpeg" %}
 
-This morning, after many months of battling with cancer, Sisterr. Chỉ Nghiêm waved her last goodbye to the Ssangha amidst the sound of our evoking the Buddha’s names. Conditions have ceased in this lifetime and when they converge again, she will manifest in a new, even more beautiful life. 
+This morning, after many months of battling with cancer, Sisterr. Chỉ Nghiem waved her last goodbye to the Ssangha amidst the sound of our evoking the Buddha’s names. Conditions have ceased in this lifetime and when they converge again, she will manifest in a new, even more beautiful life. 
 
-When Deer Park monastery was founded, Sisterr. Chỉ Nghiêm followed Thay’s instruction to go there first and build it with other sisters. When Blue Cliff was founded, she also volunteered to come here to support building the new Ssangha. She had never let down Thay and the ancestral teachers. In her last moments, she was at peace. Last night in the Purification Ceremony, Venerable Minh Tuan brought a dark yellow paper fan on which was painted a Zen circle with Thay’s calligraphy in it: “My child, smile as you cross to the other shore.”
+When Deer Park monastery was founded, Sisterr. Chỉ Nghiem followed Thay’s instruction to go there first and build it with other sisters. When Blue Cliff was founded, she also volunteered to come here to support building the new Ssangha. She had never let down Thay and the ancestral teachers. In her last moments, she was at peace. Last night in the Purification Ceremony, Venerable Minh Tuan brought a dark yellow paper fan on which was painted a Zen circle with Thay’s calligraphy in it: “My child, smile as you cross to the other shore.”
 
 Walking on the path to the Great Togetherness meditation hall, I saw the monks' residence alight with beautiful colors. Christmas has arrived. My sisters have also turned on decorative lights in our quarters to celebrate Christmas. It feels so alive and joyful as if there had never been a funeral just a few days ago. The light and shade of time!
 

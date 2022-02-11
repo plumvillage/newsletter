@@ -7,7 +7,7 @@ const slugify = require('slugify')
 const sharp = require("sharp");
 const Image = require("@11ty/eleventy-img");
 // Image.concurrency = 4; // default is 10
-const srcPath = "src/media/src";
+const srcPath = "src/media/originals";
 const calligraphyPath = "calligraphy/article-titles/";
 var articleTitleCalligraphies = fs.readdirSync(`src/media/publish/${calligraphyPath}`)
 
@@ -15,7 +15,6 @@ const processImages = true;
 
 async function imageShortcode(src, optClasses) {
     let result = await imageData(src)
-    
     // img loading="lazy" is buggy! stops chrome from running pagedjs
     return `<img id="${result.autoId}" class="${optClasses ? optClasses : ""}" src="${result.srcAttribute}" decoding="async">`;
 }
@@ -117,7 +116,7 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addWatchTarget("src/js");
 
     eleventyConfig.addPassthroughCopy({ "src/media/publish": "media" });
-    
+
     eleventyConfig.addWatchTarget("src/media/publish");
 
     eleventyConfig.addPassthroughCopy("src/CNAME");

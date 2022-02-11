@@ -3,13 +3,13 @@ title: Hello Attachment, You Are My Friend
 author: Sister Chân Trăng Hiền Nhân 
 ---
 
-Dear respected Thầy, dear noble Sangha,
+Dear respected Thay, dear noble Sangha,
 
 This year, as we are celebrating 40 years of Plum Village, I am just turning 3 years old as a monastic. I am like a tiny tree just learning to absorb the warmth and the light of the sun, and Plum Village is the great forest in which I gently grow. This past year, we have adorned Lower Hamlet with several new jewels, as if beautifying her for a great celebration of a special birthday. 
 
-We planted 150 trees, made a new, vast and spacious walking path, moved the Happy Farm, and what used to be a parking lot in front of the Big Meditation Hall is now an inviting garden, protected by the shade of the poplar trees with their gentle songs in the wind, colorful with many flowers, and tender with newly planted trees. At the same time, we also enjoy in their full growth, the many treasures offered by Thầy and the Sangha from the past 40 years: The cathedral of the poplar forest, the lotus pond, the plum orchard, and all the many trees planted along the paths and on the grass amidst flowers. 
+We planted 150 trees, made a new, vast and spacious walking path, moved the Happy Farm, and what used to be a parking lot in front of the Big Meditation Hall is now an inviting garden, protected by the shade of the poplar trees with their gentle songs in the wind, colorful with many flowers, and tender with newly planted trees. At the same time, we also enjoy in their full growth, the many treasures offered by Thay and the Sangha from the past 40 years: The cathedral of the poplar forest, the lotus pond, the plum orchard, and all the many trees planted along the paths and on the grass amidst flowers. 
 
-Thus, old and new stand together in harmony, complete each other in beauty and strength. When the Sangha practices walking meditation in the p grove and the small forest sanctuary where Thầy loved so much to take us, I feel like we are walking in Thầy’s steps and continuing the old path with a faithful and determined heart. When the Sangha walks on the newly created path, passing by the new Happy Farm, the 150 new planted trees, looking over the vast, wide open neighboring fields, I rejoice in the going forth of our Sangha and feel how together, we are carrying Thầy’s work into the future.
+Thus, old and new stand together in harmony, complete each other in beauty and strength. When the Sangha practices walking meditation in the p grove and the small forest sanctuary where Thay loved so much to take us, I feel like we are walking in Thay’s steps and continuing the old path with a faithful and determined heart. When the Sangha walks on the newly created path, passing by the new Happy Farm, the 150 new planted trees, looking over the vast, wide open neighboring fields, I rejoice in the going forth of our Sangha and feel how together, we are carrying Thay’s work into the future.
 
 {% image "article/sr-trang-hien-nhan/EN/Planting-Tree-In-LH.jpeg" %}
 
