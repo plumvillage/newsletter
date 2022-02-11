@@ -17,7 +17,7 @@ module.exports = {
         // "su-co-sung-nghiem--thay-om-cac-vao-long",
         //9
         "thay-phap-an--thap-len-ngon-nen",
-        //10 Ngàn xưa hẹn trở về	Thầy Nguyên Tịnh 
+        //10 Ngàn xưa hẹn trở về	Thầy Nguyên Tịnh
         // "thay-nguyen-tinh--ngan-xua-hen-tro-ve",
         //11
         "su-co-doan-nghiem--thuong-nhu-thay-thuong",
@@ -130,6 +130,7 @@ module.exports = {
         "sr-tue-nghiem--safe-harbor",
         "sr-tu-nghiem--poems",
         "sr-trang-mai-thon--collecting-gum-nuts",
+        "br-phap-luu--thays-vision-for-wake-up-schools", //37
         //2
         //3
         //4
