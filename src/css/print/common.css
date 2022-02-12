@@ -335,13 +335,8 @@ article blockquote p:first-child::before {
     font-size: 200%;
     color: var(--color-bark-light);
 }
-/* TODO */
-/* article blockquote p:last-child::after {
-    content: "”";
-}
-article blockquote p cite::before {
-    content: "”";
-} */
+/* the end quote ” is inserted with javascript, because it needs to be before the <cite>, if such exists */
+
 article blockquote p + p {
     margin-top: 6pt;
 }

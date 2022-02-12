@@ -27,8 +27,9 @@ class MyHandler extends Paged.Handler {
         }
     }
 
-    // for adding 🙢 to end of article
+    
     afterRendered(pages) {
+        // for adding 🙢 to end of article
         document.querySelectorAll(".article-end").forEach((e) => {
             if (e.previousSibling && e.previousSibling.classList)
                 e.previousSibling.classList.add("last-article-element")
@@ -37,6 +38,16 @@ class MyHandler extends Paged.Handler {
         document.querySelectorAll('.hasContent .pagedjs_margin-content').forEach(el => {
             el.innerHTML += `<datetime class="lastmod">${document.lastModified}</datetime>`;
         });
+
+        // add closing ” to blockquote (before <cite>, if it exists)
+        document.querySelectorAll("blockquote p:last-child").forEach((e) => {
+            let c = e.querySelector("cite")
+            if (c) {
+                e.insertBefore(document.createTextNode("”"), c)
+            } else {
+                e.append("”")
+            }
+        })
     }
 
 }
