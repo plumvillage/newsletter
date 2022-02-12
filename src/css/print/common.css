@@ -243,6 +243,20 @@ article img {
     margin-bottom: 11pt;
 }
 
+
+/* will also fill 5mm bleed */
+img.expandToRightBorder,
+img.expandToLeftBorder
+{
+    width: 120%;
+    position: relative;
+    max-width: none !important;
+}
+img.expandToRightBorder {
+    right: -20%;
+}
+/* expandToLeftBorder is already left-bound */
+
 h1.calligraphyTitle {
     margin-top: 0mm;
     margin-bottom: -5mm;
@@ -625,14 +639,6 @@ img#articlesr-giac-nghiemSu-me-Giac-Nghiem-2-edited {
 img#articlebr-troi-bao-tangScreenshot-edit {
     width: 87%;
     margin-bottom: 0;
-}
-
-/* will also fill 5mm bleed */
-img.expandToRightBorder {
-    width: 120%;
-    position: relative;
-    right: -20%;
-    max-width: none !important;
 }
 
 
