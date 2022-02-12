@@ -1,6 +1,5 @@
 ﻿---
-title: Advent
-subtitle: Một truyền thống đẹp cần gìn giữ
+title: Advent — Một truyền thống đẹp cần gìn giữ
 author: Sư cô Chân Trăng Bồ Đề
 ---
 

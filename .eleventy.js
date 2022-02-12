@@ -111,6 +111,10 @@ async function imageData(src) {
     }
 }
 
+function idMap(prefix, items, suffix = '') {
+    return items.map(e => `${prefix}${e[0]}${suffix}`)
+}
+
 module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("src/pagedjs");
 
@@ -156,6 +160,7 @@ module.exports = function(eleventyConfig) {
         return e
     });
 
+    eleventyConfig.addNunjucksShortcode("idMap", idMap);
     eleventyConfig.addNunjucksAsyncShortcode("image", imageShortcode);
     eleventyConfig.addNunjucksAsyncShortcode("imageSrc", imageSrcShortcode);
     eleventyConfig.addLiquidShortcode("image", imageShortcode);

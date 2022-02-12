@@ -15,3 +15,88 @@ html:lang(en) .pagedjs_right_page .pagedjs_margin-bottom-right {
 html:lang(vi) .pagedjs_right_page .pagedjs_margin-bottom-right {
     background: 93% 50%/35% no-repeat url("{% imageSrc 'calligraphy/Parallels VI p2 Bon Mua Trong Am Ngoai Em.jpg' %}");
 }
+
+
+/* bulk-style all those images to be set fullsize at the bottom of the page
+    parameters:
+        1: height
+        2: top-offset (pushes image down)
+        3: start of fade-in gradient (top-down)
+        4: end of fade-in gradient
+*/
+{% set items = [
+
+["su-ongDSC08780",
+	"60mm", "0mm", "0%", "20%"],
+["sr-tu-nghiem-and-sr-dieu-nghiemSr-tu-nghiem2-edited",
+	"110mm", "0mm", "20%", "40%"],
+["br-phap-niemCCI1120201800015-edit",
+	"70mm", "0mm", "0%", "30%"],
+["sr-trang-bo-deIMG0331",
+	"90mm", "0mm", "0%", "40%"],
+["sr-trang-bo-deSc-Bo-DJe-2-edit",
+	"65mm", "0mm", "10%", "30%"],
+["br-troi-duc-hienBrDucHien-edit",
+	"100mm", "0mm", "5%", "30%"],
+["sr-doan-nghiemSr-Doan-N-edited",
+	"100mm", "0mm", "0%", "20%"],
+["br-troi-dao-biDSC6747-edited",
+	"100mm", "0mm", "0%", "20%"],
+["sr-thao-nghiemIMG6614-edited",
+	"90mm", "0mm", "0%", "20%"],
+["sr-thao-nghiemSc-Thao-N-2-edited",
+	"80mm", "0mm", "0%", "20%"],
+["sr-thao-nghiemCCI0224201600039",
+    "120mm", "11mm", "0%", "0%"],
+["richard-bradyR-and-KJ-at-Centro-Avalokita-2015",
+	"90mm", "10mm", "0%", "35%"],
+["sr-chuan-nghiemSc-Chuan-N-3",
+    "50mm", "10mm", "30%", "45%"],
+["dr-elli-weisbaumScientific-Day-Poster-Presentation-at-The-University-of-Toronto-20182",
+	"90mm", "28mm", "8%", "25%"],
+["br-phap-linhIMG0436crop",
+	"50mm", "10mm", "6%", "26%"],
+["br-phap-linhCS21202110152RL0936-crop3",
+    "105mm", "0mm", "5%", "6%"],
+["br-minh-hyDSC3796-edit",
+	"96mm", "0mm", "0%", "20%"],
+["br-phap-dungbai-T-Phap-Dung-4",
+	"84mm", "16mm", "12%", "36%"],
+["sr-chan-ducSrChanDuc3-edited",
+	"60mm", "30mm", "0%", "20%"],
+["sr-hoa-nghiemHinh-cho-bai-Sc-Hoa-N1",
+	"90mm", "0mm", "0%", "20%"]
+]
+%}
+
+{# commas are added automatically by nunjucks #}
+{% idMap "img#article", items %}
+{
+    margin: 0;
+    max-width: none !important;
+    position: absolute;
+    z-index: -1;
+    width: calc(var(--pagedjs-pagebox-width) + (var(--bleed)) * 2);
+    left: calc((var(--pagedjs-margin-left) + var(--bleed))*-1);
+    overflow: visible;
+    /* this is removing an artefact in the pdf, which would otherwise display a thin line of the image above the white mask */
+    border-top: 2px solid white;
+}
+
+{% idMap ".PAGE-OF-article", items, " .pagedjs_margin-bottom" %}
+{
+    width: 0 !important;
+    height: 0 !important;
+    display: none !important;
+}
+
+{% for item in items %}
+img#article{{ item[0] }} {
+    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + {{ item[1] }} + {{ item[2] }}) * -1);
+    mask-image: linear-gradient(to bottom, rgba(0,0,0,0) {{ item[3] }}, rgba(0,0,0,1.00) {{ item[4] }});
+    -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,0) {{ item[3] }}, rgba(0,0,0,1.00) {{ item[4] }});
+}
+.PAGE-OF-article{{ item[0] }} .pagedjs_page_content {
+    height: calc(100% - var(--pagedjs-footnotes-height) - {{ item[1] }}) !important;
+}
+{% endfor %}

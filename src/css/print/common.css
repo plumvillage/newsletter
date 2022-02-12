@@ -200,11 +200,8 @@ ul.toc li {
     margin-bottom: 6pt;
 }
 
-ul.toc li a {
-    text-decoration: none;
-}
-
 a {
+    text-decoration: none;
     color: #000;
 }
 
@@ -432,10 +429,6 @@ sup { /* superscript */
     list-style-position: outside;
 }
 
-a.note {
-    text-decoration: none;
-}
-
 article span.color {
     color: var(--color-tower-dark);
 }
@@ -642,257 +635,12 @@ img#articlebr-troi-bao-tangScreenshot-edit {
 
 
 
-img#articlesr-tu-nghiem-and-sr-dieu-nghiemSr-tu-nghiem2-edited,
-img#articlebr-phap-niemCCI1120201800015-edit,
-img#articlesr-trang-bo-deIMG0331,
-img#articlesr-trang-bo-deIMG0331,
-img#articlesr-trang-bo-deSc-Bo-DJe-2-edit,
-img#articlebr-troi-duc-hienBrDucHien-edit,
-img#articlesr-doan-nghiemSr-Doan-N-edited,
-img#articlebr-troi-dao-biDSC6747-edited,
-img#articlesr-thao-nghiemIMG6614-edited,
-img#articlesr-thao-nghiemSc-Thao-N-2-edited,
-img#articlerichard-bradyR-and-KJ-at-Centro-Avalokita-2015,
-img#articlesr-thao-nghiemCCI0224201600039,
-img#articlesr-chuan-nghiemSc-Chuan-N-3,img#articledr-elli-weisbaumScientific-Day-Poster-Presentation-at-The-University-of-Toronto-20182
-,img#articlebr-phap-linhIMG0436crop
-,img#articlebr-minh-hyDSC3796-edit
-,img#articlebr-phap-linhCS21202110152RL0936-crop3
-,img#articlebr-phap-dungbai-T-Phap-Dung-4
-,img#articlesr-chan-ducSrChanDuc3-edited
-,img#articlesr-hoa-nghiemHinh-cho-bai-Sc-Hoa-N1
-{
-    margin: 0;
-    max-width: none !important;
-    position: absolute;
-    z-index: -1;
-    width: calc(var(--pagedjs-pagebox-width) + (var(--bleed)) * 2);
-    left: calc((var(--pagedjs-margin-left) + var(--bleed))*-1);
-    overflow: visible;
-    /* this is removing an artefact in the pdf, which would otherwise display a thin line of the image above the white mask */
-    border-top: 2px solid white;
-}
 
-
-img#articlesr-tu-nghiem-and-sr-dieu-nghiemSr-tu-nghiem2-edited {
-    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + 110mm) * -1);
-    mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 20%,rgba(0,0,0,1.00) 40%);
-    -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 20%,rgba(0,0,0,1.00) 40%);
-}
-.PAGE-OF-articlesr-tu-nghiem-and-sr-dieu-nghiemSr-tu-nghiem2-edited .pagedjs_page_content {
-    height: calc(100% - var(--pagedjs-footnotes-height) - 110mm) !important;
-}
-
-
-img#articlebr-phap-niemCCI1120201800015-edit {
-    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + 70mm) * -1);
-    mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%,rgba(0,0,0,1.00) 30%);
-    -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%,rgba(0,0,0,1.00) 30%);
-}
-.PAGE-OF-articlebr-phap-niemCCI1120201800015-edit .pagedjs_page_content {
-    height: calc(100% - var(--pagedjs-footnotes-height) - 70mm) !important;
-}
-
-
-img#articlesr-trang-bo-deIMG0331 {
-    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + 90mm) * -1);
-    mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%,rgba(0,0,0,1.00) 40%);
-    -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%,rgba(0,0,0,1.00) 40%);
-}
-.PAGE-OF-articlesr-trang-bo-deIMG0331 .pagedjs_page_content {
-    height: calc(100% - var(--pagedjs-footnotes-height) - 90mm) !important;
-}
-
-
-img#articlesr-trang-bo-deSc-Bo-DJe-2-edit {
-    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + 65mm) * -1);
-    mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 10%,rgba(0,0,0,1.00) 30%);
-    -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 10%,rgba(0,0,0,1.00) 30%);
-}
-.PAGE-OF-articlesr-trang-bo-deSc-Bo-DJe-2-edit .pagedjs_page_content {
-    height: calc(100% - var(--pagedjs-footnotes-height) - 65mm) !important;
-}
-
-
-img#articlebr-troi-duc-hienBrDucHien-edit {
-    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + 100mm) * -1);
-    mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 5%,rgba(0,0,0,1.00) 30%);
-    -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 5%,rgba(0,0,0,1.00) 30%);
-}
-.PAGE-OF-articlebr-troi-duc-hienBrDucHien-edit .pagedjs_page_content {
-    height: calc(100% - var(--pagedjs-footnotes-height) - 100mm) !important;
-}
-
-
-img#articlesr-doan-nghiemSr-Doan-N-edited {
-    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + 100mm) * -1);
-    mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%,rgba(0,0,0,1.00) 20%);
-    -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%,rgba(0,0,0,1.00) 20%);
-}
-.PAGE-OF-articlesr-doan-nghiemSr-Doan-N-edited .pagedjs_page_content {
-    height: calc(100% - var(--pagedjs-footnotes-height) - 100mm) !important;
-}
-
-
-img#articlebr-troi-dao-biDSC6747-edited {
-    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + 100mm) * -1);
-    mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%,rgba(0,0,0,1.00) 20%);
-    -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%,rgba(0,0,0,1.00) 20%);
-}
-.PAGE-OF-articlebr-troi-dao-biDSC6747-edited .pagedjs_page_content {
-    height: calc(100% - var(--pagedjs-footnotes-height) - 100mm) !important;
-}
-
-
-img#articlesr-thao-nghiemSc-Thao-N-2-edited {
-    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + 100mm) * -1);
-    mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 15%,rgba(0,0,0,1.00) 30%);
-    -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 15%,rgba(0,0,0,1.00) 30%);
-}
-.PAGE-OF-articlesr-thao-nghiemSc-Thao-N-2-edited .pagedjs_page_content {
-    height: calc(100% - var(--pagedjs-footnotes-height) - 100mm) !important;
-}
-
-
-img#articlesr-thao-nghiemIMG6614-edited {
-    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + 80mm) * -1);
-    mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%,rgba(0,0,0,1.00) 20%);
-    -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%,rgba(0,0,0,1.00) 20%);
-}
-.PAGE-OF-articlesr-thao-nghiemIMG6614-edited .pagedjs_page_content {
-    height: calc(100% - var(--pagedjs-footnotes-height) - 80mm) !important;
-}
-
-
-img#articlesr-hoa-nghiemHinh-cho-bai-Sc-Hoa-N1 {
-    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + 90mm) * -1);
-    mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%,rgba(0,0,0,1.00) 20%);
-    -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%,rgba(0,0,0,1.00) 20%);
-}
-.PAGE-OF-articlesr-hoa-nghiemHinh-cho-bai-Sc-Hoa-N1 .pagedjs_page_content {
-    height: calc(100% - var(--pagedjs-footnotes-height) - 90mm) !important;
-}
-
-
-img#articlesr-chan-ducSrChanDuc3-edited {
-    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + 90mm) * -1);
-    mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%,rgba(0,0,0,1.00) 20%);
-    -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%,rgba(0,0,0,1.00) 20%);
-}
-.PAGE-OF-articlesr-chan-ducSrChanDuc3-edited .pagedjs_page_content {
-    height: calc(100% - var(--pagedjs-footnotes-height) - 60mm) !important;
-}
-
-
-
-img#articlerichard-bradyR-and-KJ-at-Centro-Avalokita-2015 {
-    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + 100mm) * -1);
-    mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%,rgba(0,0,0,1.00) 35%);
-    -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 5%,rgba(0,0,0,1.00) 35%);
-}
-.PAGE-OF-articlerichard-bradyR-and-KJ-at-Centro-Avalokita-2015 .pagedjs_page_content {
-    height: calc(100% - var(--pagedjs-footnotes-height) - 90mm) !important;
-}
-
-
-img#articlesr-thao-nghiemCCI0224201600039 {
-    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + 131mm) * -1);
-}
-.PAGE-OF-articlesr-thao-nghiemCCI0224201600039 .pagedjs_page_content {
-    height: calc(100% - var(--pagedjs-footnotes-height) - 120mm) !important;
-}
-
-
-img#articlesr-chuan-nghiemSc-Chuan-N-3 {
-    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + 60mm) * -1);
-    mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 30%,rgba(0,0,0,1.0) 45%);
-    -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 30%,rgba(0,0,0,1.0) 45%);
-}
-.PAGE-OF-articlesr-chuan-nghiemSc-Chuan-N-3 .pagedjs_page_content {
-    height: calc(100% - var(--pagedjs-footnotes-height) - 60mm) !important;
-}
-
-
-img#articlebr-phap-linhIMG0436crop {
-    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + 60mm) * -1);
-    mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 6%,rgba(0,0,0,1.0) 26%);
-    -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 6%,rgba(0,0,0,1.0) 26%);
-}
-.PAGE-OF-articlebr-phap-linhIMG0436crop .pagedjs_page_content {
-    height: calc(100% - var(--pagedjs-footnotes-height) - 50mm) !important;
-}
-
-
-/*  108mm / 80mm is more spacious */
-img#articledr-elli-weisbaumScientific-Day-Poster-Presentation-at-The-University-of-Toronto-20182 {
-    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + 118mm) * -1);
-    mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 10%,rgba(0,0,0,1.0) 30%);
-    -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 10%,rgba(0,0,0,1.0) 30%);
-}
-.PAGE-OF-articledr-elli-weisbaumScientific-Day-Poster-Presentation-at-The-University-of-Toronto-20182 .pagedjs_page_content {
-    height: calc(100% - var(--pagedjs-footnotes-height) - 90mm) !important;
-}
-
-
-img#articlebr-phap-linhCS21202110152RL0936-crop3 {
-    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + 105mm) * -1);
-    mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 5%,rgba(0,0,0,1.0) 6%);
-    -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 5%,rgba(0,0,0,1.0) 6%);
-}
-.PAGE-OF-articlebr-phap-linhCS21202110152RL0936-crop3 .pagedjs_page_content {
-    height: calc(100% - var(--pagedjs-footnotes-height) - 105mm) !important;
-}
 .PAGE-OF-articlebr-phap-linhCS21202110152RL0936-crop3 .pagedjs_footnote_area {
     text-align: right;
     color: var(--color-tower);
     bottom: -116mm;
 }
-
-
-
-img#articlebr-phap-dungbai-T-Phap-Dung-4 {
-    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + 100mm) * -1);
-    mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 12%,rgba(0,0,0,1.00) 35%);
-    -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 12%,rgba(0,0,0,1.00) 35%);
-}
-.PAGE-OF-articlebr-phap-dungbai-T-Phap-Dung-4 .pagedjs_page_content {
-    height: calc(100% - var(--pagedjs-footnotes-height) - 84mm) !important;
-}
-
-
-img#articlebr-minh-hyDSC3796-edit {
-    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + 96mm) * -1);
-    mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%,rgba(0,0,0,1.00) 20%);
-    -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%,rgba(0,0,0,1.00) 20%);
-}
-.PAGE-OF-articlebr-minh-hyDSC3796-edit .pagedjs_page_content {
-    height: calc(100% - var(--pagedjs-footnotes-height) - 96mm) !important;
-}
-
-
-
-
-
-.PAGE-OF-articlesr-tu-nghiem-and-sr-dieu-nghiemSr-tu-nghiem2-edited .pagedjs_margin-bottom,
-.PAGE-OF-articlebr-phap-niemCCI1120201800015-edit .pagedjs_margin-bottom,
-.PAGE-OF-articlesr-trang-bo-deIMG0331 .pagedjs_margin-bottom,
-.PAGE-OF-articlesr-trang-bo-deSc-Bo-DJe-2-edit .pagedjs_margin-bottom,
-.PAGE-OF-articlebr-troi-duc-hienBrDucHien-edit .pagedjs_margin-bottom,
-.PAGE-OF-articlesr-doan-nghiemSr-Doan-N-edited .pagedjs_margin-bottom,
-.PAGE-OF-articlebr-troi-dao-biDSC6747-edited .pagedjs_margin-bottom,
-.PAGE-OF-articlesr-thao-nghiemIMG6614-edited .pagedjs_margin-bottom,
-.PAGE-OF-articlesr-thao-nghiemSc-Thao-N-2-edited .pagedjs_margin-bottom,
-.PAGE-OF-articlerichard-bradyR-and-KJ-at-Centro-Avalokita-2015 .pagedjs_margin-bottom,
-.PAGE-OF-articlesr-thao-nghiemCCI0224201600039 .pagedjs_margin-bottom,
-.PAGE-OF-articlesr-chuan-nghiemSc-Chuan-N-3 .pagedjs_margin-bottom, .PAGE-OF-articledr-elli-weisbaumScientific-Day-Poster-Presentation-at-The-University-of-Toronto-20182 .pagedjs_margin-bottom
-,.PAGE-OF-articlebr-minh-hyDSC3796-edit .pagedjs_margin-bottom
-,.PAGE-OF-articlebr-phap-linhCS21202110152RL0936-crop3 .pagedjs_margin-bottom
-,.PAGE-OF-articlebr-phap-linhIMG0436crop .pagedjs_margin-bottom
-,.PAGE-OF-articlebr-phap-dungbai-T-Phap-Dung-4 .pagedjs_margin-bottom
-,.PAGE-OF-articlesr-chan-ducSrChanDuc3-edited .pagedjs_margin-bottom
-,.PAGE-OF-articlesr-hoa-nghiemHinh-cho-bai-Sc-Hoa-N1 .pagedjs_margin-bottom
-{
-    width: 0 !important;
-    height: 0 !important;
-    display: none !important;
+.PAGE-OF-articlebr-phap-linhCS21202110152RL0936-crop3 .pagedjs_footnote_area a {
+    color: var(--color-tower) !important;
 }
