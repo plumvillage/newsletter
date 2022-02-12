@@ -1,5 +1,5 @@
 ﻿---
-title: My teacher, my friend
+title: My Teacher, My Friend
 author: Dharmacharya Shantum Seth
 ---
 
