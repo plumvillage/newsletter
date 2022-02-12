@@ -7,7 +7,7 @@ author: Brother Chân Nguyên Tịnh
 
 ***Excerpts from a Practice Journal***
 
-## *03 November, 2015:*<br/> Let Me Also Be Present
+## *03 November, 2015:*<br/>Let Me Also Be Present
 
 Today is a Monastic Day. I went quite early to the Hermitage so I could walk on the grounds. A few brown robes were already there, each enjoying the serenity. Thay was away for health treatment in the U.S. and had yet to return. Three more days and it would be a full year since I first arrived in Plum Village.
 
@@ -31,7 +31,7 @@ All afternoon, I sat in meditation in a corner of the old wooden barn to deepen 
 
 During my time at Kim Son Temple, I enjoyed walking in front and paying respect to the stupa of Brother Tri Thuyen, a young monk who was shot by the French in 1947. I knew Thay and Br. Tri Thuyen were close friends, having heard Thay speak of their friendship in his books and talks.
 
-On the 10<sup>th</sup> of March, 2016, I received the surprising news that I would soon have an opportunity to be Thay's attendant. Having the great fortune to be near Thay, I learned from the lessons he transmitted. At each meal, Thay brought each spoonful of food to his mouth with utter attention, care, and enjoyment. Mindfulness had become his life. Thay enjoyed each sip of tea with tranquility. Observing and enjoying nature, Thay had become a free person (with nothing to do, and nowhere to go). One bud of white champaca blooms and for Thay, it is a miracle. I loved so much every time I saw Thay taking his left hand to care for and wake up his right hand. Thay sat at his desk and with his left hand held a calligraphy brush to draw circle after circle, smiling. A flower bloomed on the page, it bloomed in Thay's heart, in the hearts of each of us. 
+On the 10<sup>th</sup>of March, 2016, I received the surprising news that I would soon have an opportunity to be Thay's attendant. Having the great fortune to be near Thay, I learned from the lessons he transmitted. At each meal, Thay brought each spoonful of food to his mouth with utter attention, care, and enjoyment. Mindfulness had become his life. Thay enjoyed each sip of tea with tranquility. Observing and enjoying nature, Thay had become a free person (with nothing to do, and nowhere to go). One bud of white champaca blooms and for Thay, it is a miracle. I loved so much every time I saw Thay taking his left hand to care for and wake up his right hand. Thay sat at his desk and with his left hand held a calligraphy brush to draw circle after circle, smiling. A flower bloomed on the page, it bloomed in Thay's heart, in the hearts of each of us. 
 
 ## *25 March, 2016:*<br/>16<sup>th</sup> Day Attending Thay
 
@@ -67,14 +67,15 @@ One afternoon I was walking from Son Ha to the Upper Hamlet. The horizon was abl
 
 When I used to listen to his Dharma talks or read his books or hear stories about Thay from my brothers, I often wondered - *What is it about those things that Thay never tires of reminding his disciples to notice?* That day, seeing the grass and new leaves on a well-trodden path, I smiled. I realized that I had found in my own eyes the beauty and mystery of these seemingly ordinary things. Having seen it once, I can offer myself once again that way of looking. These simple discoveries have nurtured my joy of practicing, nurtured my gratitude for Thay's insights, which have been adapted to the times, and nurtured my faith in the sangha's ability to receive and transmit the ceaseless flow of the spiritual river.
 
-> Con đường lá  
-> Trải ngàn thu  
-> Cánh mai nở  
-> Thoảng hương trầm  
-> Thơm mỗi nét cổ thư.
-
-> A thousand autumns pave  
-> the leaf strewn path.  
-> One plum branch blossoms,  
-> the fragrance of sandalwood incense  
-> infuses each ancient brush stroke.
+<p class="verse">Con đường lá<br/>
+Trải ngàn thu<br/>
+Cánh mai nở<br/>
+Thoảng hương trầm<br/>
+Thơm mỗi nét cổ thư.<br/>
+<br/>
+A thousand autumns pave<br/>
+the leaf strewn path.<br/>
+One plum branch blossoms,<br/>
+the fragrance of sandalwood incense<br/>
+infuses each ancient brush stroke.<br/>
+</p>
