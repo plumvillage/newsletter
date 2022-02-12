@@ -15,6 +15,8 @@ While I was lying wide awake in the middle of the night, and breathing deeply, a
 
 *I have a dream. I have a dream that one day people of all different religious, cultural, and ethnic backgrounds, of different ages, colours and genders will come together and unite. That we will join hands and join forces because we see and feel that there is something more important and precious than our individual and national interests that unites us all: peace, justice, siblinghood, and the future of our beautiful blue planet.*
 
+{% image "article/br-troi-duc-niem/BrDucNiem1-crop.jpg" %}
+
 *I have a dream that the seeds of compassion and awakening sown by the Buddha, Thay, and our spiritual ancestors, will continue to sprout and soon fully blossom like jeweled lotus flowers in the hearts of millions of people and that the vision and dream of Thay will be realized: A collective global awakening. Thay reminds us, “We have to wake up together. And if we wake up together, then we have a chance.”*
 
 *I have a dream that mother Earth will again be clothed in her beautiful green mantle as humans plant billions of trees, restoring the abundance and the wonders of life. Many people around the world have this aspiration and are already helping deserts to become oases of green, lush trees, sustainable for farming again.*
@@ -22,6 +24,8 @@ While I was lying wide awake in the middle of the night, and breathing deeply, a
 *I have a dream that on billions of rooftops, town halls, churches, and meditation halls around the globe glimmering solar panels will radiate and spread the warmth and light of Father Sun into our homes, along with wind turbines on the green land and the blue sea, totally replacing the use of fossil fuels.*
 
 *I have a dream that everywhere in the world small ‘Happy Farms’ and other kinds of intentional communities will sprout, harvesting not only delicious and fresh vegetables, but also the fruits of the practice, bringing forth the happiness and togetherness of people working and living in communities.*
+
+{% image "article/br-troi-duc-niem/Br. Duc Niem.2.jpg" %}
 
 We can celebrate the fact that in Plum Village we have been able to realize many aspects of this dream in the past 40 years already: Thay has helped his brother, Martin Luther King Jr. to make their dream of the “Beloved Community” a living reality. Thay has built a beautiful, diverse, and vibrant international community where people from various cultural and religious backgrounds have found their spiritual home and begun to explore new ways of living together. We have been practicing to be vegan since 2007 and have planted many trees. During the Rain’s Retreat we planted more than two hundred trees in a single day in New Hamlet – working and planting trees together as a fourfold Sangha has brought a lot of joy, nourishment and fulfillment to me. In Deer Park Monastery we have drawn power from solar panels since the early 2000s and in Upper Hamlet we will also install solar panels soon. Over many years volunteers and hundreds of children in the Summer Retreats have been nourished by our Happy Farms, getting in touch with nature and harvesting red tomatoes, golden corn, and black berries with their own hands. One of Plum Village’s most important contributions is that we show the world that it is possible to live a happy and fulfilled life without consuming much, without lots of money or comforts. Seeing the joy, love and harmony among our siblings helps many people to wake up to the reality that another way of life is possible. This gives people hope, strength and inspiration to change their lives and society.
 
@@ -36,6 +40,8 @@ A question that comes up here is: How can we spread the harmony, experiences and
 Many of us are aware that the climate crisis is an important challenge we face. Has this awareness - that the actions or non-actions of the next few years will very likely determine the fate of humanity - penetrated deeply into our consciousness yet? I think many of us – including me – do not feel the urgency and pain of this crisis deeply every day. It can be quite overwhelming. I feel that *manas*<span class="note">*manas* is an aspect of our consciousness that seeks pleasure and avoids pain.</span> wants to avoid suffering in the present moment. That is why our mind tells us that the crisis is not *that* urgent and we still have enough time, or helps us find ways to avoid the topic altogether *(psychological barriers like cognitive dissonance, distance, denial, doomism).* We run the risk of fooling ourselves, individually and collectively. Insights and awakening are impermanent, so we need to put some effort into keeping this awareness alive every day and to help more and more people to wake up. I have the hope that we can have regular sessions of “heart-storming” *(Thay used this term in a Dharma talk on March 1st 2003),* to share about our dreams and aspirations and to look deeply as a Sangha into what we can do to contribute locally and globally.
 
 *I have a dream that one day many different spiritual and faith traditions, humanitarian groups and NGOs will come together to co-create and follow a code of Global Ethics similar to the Five Mindfulness Trainings. I am convinced that this can serve as a connecting element between different groups and engaged people, and as a foundation, and inspiration for a new movement.*
+
+{% image "article/br-troi-duc-niem/Br. Duc Niem.3.jpg" %}
 
 *I have a dream that many different climate justice, science, and spiritual leaders and other organisations from around the globe will come together to form the most diverse, colorful and biggest non-violent movement in history, uniting behind one goal: to stay below 1.5° C by ending the era of fossil fuel consumption  and creating a just, inclusive, peaceful, and regenerative world society on a green and healthy planet.*
 
@@ -59,7 +65,7 @@ I see that I am able to live this dream here every day. We are so lucky that we 
 
 This is our hope and prayer:
 
-> *“Let the bells of freedom, mindfulness, peace, and awakening ring in every being across the universe.*  
-> *Let the bells of awakening, compassion, and climate justice ring from every temple, church, mosque and synagogue, because people of faith have the power to wake people up.*  
-> *Let the bells of awakening, strength and wisdom ring in the minds and hearts of the young generations, because they feel the urgency keenly and have the most determination, imagination and fierceness to stand up for a green, just, and regenerative world.*  
-> *Let the bells of awakening, freedom, and love ring in the hearts of every being so that the symphonic harmony, strength and beauty of the bells touch their hearts deeply and a collective global awakening will manifest widely and powerfully at last.”*
+*Let the bells of freedom, mindfulness, peace, and awakening ring in every being across the universe.*  
+*Let the bells of awakening, compassion, and climate justice ring from every temple, church, mosque and synagogue, because people of faith have the power to wake people up.*  
+*Let the bells of awakening, strength and wisdom ring in the minds and hearts of the young generations, because they feel the urgency keenly and have the most determination, imagination and fierceness to stand up for a green, just, and regenerative world.*  
+*Let the bells of awakening, freedom, and love ring in the hearts of every being so that the symphonic harmony, strength and beauty of the bells touch their hearts deeply and a collective global awakening will manifest widely and powerfully at last.*

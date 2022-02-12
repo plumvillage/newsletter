@@ -627,7 +627,13 @@ img#articlebr-troi-bao-tangScreenshot-edit {
     margin-bottom: 0;
 }
 
-
+/* will also fill 5mm bleed */
+img.expandToRightBorder {
+    width: 120%;
+    position: relative;
+    right: -20%;
+    max-width: none !important;
+}
 
 
 
