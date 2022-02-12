@@ -3,10 +3,12 @@ title: Bells of Mindfulness
 author: Brother Chân Pháp Dung
 ---
 <!-- Jan.27th, 2021 -->
+
 ## The convergence of dreams
 
 Dear Friends on the path,  
-I hope you enjoy this digital painting that was inspired by Thay’s account of his dream in which he was a music student, who had to perform in front of a university audience. I began envisioning it one morning after waking up from my own dream in which Thay invited a bell to help us all come back to the present moment. As he invited the bell, his hands moved around it in a cinematographic way with multiple hands merging in and out of each other, with some hands holding various musical instruments. 
+
+I hope you enjoy this digital painting that was inspired by Thay’s account of his dream, in which he was a music student, who had to perform in front of a university audience. I began envisioning it one morning after waking up from my own dream in which Thay invited a bell to help us all come back to the present moment. As he invited the bell, his hands moved around it in a cinematographic way with multiple hands merging in and out of each other, with some hands holding various musical instruments. 
 
 {% image "article/br-phap-dung/thay-bell3-torn-edges.jpg" %}
 
