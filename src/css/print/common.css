@@ -202,7 +202,7 @@ ul.toc {
     display: inline-block;
     text-indent: -6pt;
     padding-left: 6pt;
-    width: 66mm;
+    width: 68mm;
     font-weight: bold;
     color: var(--color-tower-dark);
 }
@@ -677,6 +677,13 @@ img#articlesr-giac-nghiemSu-me-Giac-Nghiem-2-edited {
 img#articlebr-troi-bao-tangScreenshot-edit {
     width: 87%;
     margin-bottom: 0;
+}
+
+html:lang(vi) img#articlebr-troi-thien-chi5brot {
+    width: 83%;
+    left: 9%;
+    position: relative;
+    float: none;
 }
 
 
