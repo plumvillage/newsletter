@@ -50,26 +50,6 @@ async function imageData(src) {
         // }
     }
 
-    async function getMetadata(src) {
-        const metadata = await sharp(src).metadata();
-//         {
-//   format: 'jpeg',
-//   width: 2480,
-//   height: 3508,
-//   space: 'srgb',
-//   channels: 3,
-//   depth: 'uchar',
-//   density: 72,
-//   chromaSubsampling: '4:4:4',
-//   isProgressive: true,
-//   hasProfile: true,
-//   hasAlpha: false,
-//   icc: <Buffer bytes>
-// }
-        console.log(metadata);
-    }
-    // getMetadata(srcFull)
-
     try {
         if (processImages) {
             // can be async

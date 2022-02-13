@@ -28,7 +28,8 @@ body {
     --pagedjs-margin-top: 32pt;
     margin-bottom: 40pt;
     /* is this buggy? leaves a huge amount of iterations in the css */
-    counter-reset: footnote;
+    /* BUG: this breaks the table of contents */
+    /* counter-reset: footnote; */
 
     /* this breaks pagedjs */
     /* bleed: var(--bleed); */
@@ -178,10 +179,15 @@ figure {
     font-size: 12pt;
 }
 
-/* TODO does not work */
 /* https://pagedjs.org/documentation/-cross-references/ */
 .toc-links::before {
-    content: "p. " target-counter(attr(href url), page);
+    content: target-counter(attr(href url), page);
+    position: relative;
+    display: inline-block;
+    width: 22pt;
+    text-align: right;
+    right: 8pt;
+    font-size: 14pt;
 }
 
 ul.toc {
@@ -192,12 +198,26 @@ ul.toc {
 }
 
 .toc-title {
+    position: relative;
+    display: inline-block;
+    text-indent: -6pt;
+    padding-left: 6pt;
+    width: 66mm;
     font-weight: bold;
     color: var(--color-tower-dark);
 }
+.toc-author {
+    position: relative;
+    display: inline-block;
+    text-indent: -6pt;
+    padding-left: 6pt;
+    left: 22pt;
+}
 
 ul.toc li {
+    margin-left: 15pt;
     margin-bottom: 6pt;
+    page-break-inside: avoid;
 }
 
 a {
@@ -206,9 +226,9 @@ a {
 }
 
 /* add page number to cross references */
-a.xref::after {
+/* a.xref::after {
     content: " (page " target-counter(attr(href, url), page) ")";
-}
+} */
 
 article {
     columns: 2;
