@@ -67,15 +67,15 @@ One afternoon I was walking from Son Ha to the Upper Hamlet. The horizon was abl
 
 When I used to listen to his Dharma talks or read his books or hear stories about Thay from my brothers, I often wondered - *What is it about those things that Thay never tires of reminding his disciples to notice?* That day, seeing the grass and new leaves on a well-trodden path, I smiled. I realized that I had found in my own eyes the beauty and mystery of these seemingly ordinary things. Having seen it once, I can offer myself once again that way of looking. These simple discoveries have nurtured my joy of practicing, nurtured my gratitude for Thay's insights, which have been adapted to the times, and nurtured my faith in the sangha's ability to receive and transmit the ceaseless flow of the spiritual river.
 
-<p class="verse">Con đường lá<br/>
+<div class="verse"><p>Con đường lá<br/>
 Trải ngàn thu<br/>
 Cánh mai nở<br/>
 Thoảng hương trầm<br/>
-Thơm mỗi nét cổ thư.<br/>
-<br/>
-A thousand autumns pave<br/>
+Thơm mỗi nét cổ thư.</p>
+
+<p>A thousand autumns pave<br/>
 the leaf strewn path.<br/>
 One plum branch blossoms,<br/>
 the fragrance of sandalwood incense<br/>
 infuses each ancient brush stroke.<br/>
-</p>
+</p></div>

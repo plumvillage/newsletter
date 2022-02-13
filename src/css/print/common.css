@@ -375,10 +375,15 @@ article blockquote:lang(zh) {
     /* margin-bottom: 9pt; */
 }
 
-p.verse {
+p + .verse,
+.verse + p
+{
+    margin-top: 11pt;
+}
+
+.verse {
     page-break-inside: avoid;
     font-family: "Cormorant Garamond";
-    text-indent: -3pt;
     margin-left: 6pt;
     font-weight: 600;
     font-style: italic;
@@ -393,7 +398,9 @@ p.verse {
     "dlig"
     ;
 }
-p.verse b {
+.verse b {
+    /* position: relative; */
+    /* left: -3pt; */
     font-family: "CormorantSC-SemiBold";
     font-style: normal;
     font-size: 110%;
@@ -402,9 +409,15 @@ p.verse b {
     /* font-variant: all-small-caps; */
 }
 
-p.verse p
+.verse p + p {
+    margin-top: 11pt;
+}
 
-p.verse + p {
+.verse p {
+    text-indent: -3pt !important;
+}
+
+.verse + p {
     text-indent: 0 !important;
 }
 
@@ -633,7 +646,7 @@ img#articlebr-troi-dao-quangIMG1129 {
     margin-bottom: 0;
 }
 img#articlesr-giac-nghiemSu-me-Giac-Nghiem-2-edited {
-    width: 64%;
+    width: 60%;
     margin-bottom: 0;
 }
 img#articlebr-troi-bao-tangScreenshot-edit {

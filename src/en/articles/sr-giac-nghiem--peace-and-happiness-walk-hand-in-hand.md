@@ -50,15 +50,15 @@ This is an amazing experience from my early practice. I really enjoyed working m
 
 Huge doubt arose in me… With this on-going question: *What does it mean to cut bread in mindfulness?* The lady came back a while later, nothing had happened… She kindly liberated me from my frozen state of mind. When the intellect dominates, doubt appears…
 
-> Plum Village is full of fond memories.  
-> Teaching,  
-> Sitting in Peace,  
-> At the feet of Thay,  
-> In the shade of the great venerable oaks  
-> In Lower Hamlet.  
-> Brown heads, blond heads,  
-> Turned towards the light,  
-> The Nectar of Dharma  
-> Trickles down. 
+<div class="verse"><p><b>Plum Village is full of fond memories.</b><br/>
+Teaching,<br/>
+sitting in Peace,<br/>
+at the feet of Thay,<br/>
+in the shade of the great venerable oaks<br/>
+in Lower Hamlet.<br/>
+Brown heads, blond heads,<br/>
+turned towards the light,<br/>
+the Nectar of Dharma<br/>
+trickles down.</p></div>
 
 {% image "article/sr-giac-nghiem/Su-me-Giac-Nghiem-2-edited.jpg" %}

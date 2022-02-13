@@ -92,27 +92,27 @@ Also, we keep our tradition, we don’t dilute it. We keep the Vietnamese herita
 
 ## Poems by Sr. Tu Nghiem to all Bodhisattvas
 
-<p class="verse"><b>There is the Letting Go</b><br/>
+<div class="verse"><p><b>There is the Letting Go</b><br/>
 of the song in our hearts<br/>
-we have kept so long.<br/>
-<br/>
-There is the letting go<br/>
+we have kept so long.</p>
+
+<p>There is the letting go<br/>
 that the trees know<br/>
 so well, when<br/>
-their leaves fly and fall.<br/>
-<br/>
-There is the letting go<br/>
+their leaves fly and fall.</p>
+
+<p>There is the letting go<br/>
 and wishing you well<br/>
 as streams of life<br/>
 flow forward<br/>
 leaving spaces<br/>
-of memories behind.<br/>
-<br/>
-There is the letting go<br/>
+of memories behind.</p>
+
+<p>There is the letting go<br/>
 which is all of life<br/>
 disappearing<br/>
 and reappearing<br/>
-with the colors and sounds of spring.</p>
+with the colors and sounds of spring.</p></div>
 
 This poem was written after the Be-In on 4 December 2021 when we were together with many Sisters who would be leaving New Hamlet in a few days to visit their families in Vietnam, and then move on to other practice centers. We sang songs to one another and shared from our hearts the beautiful experiences we had at New Hamlet.
 
@@ -120,13 +120,13 @@ It was also the anniversary day of my little brother’s passing away in 1994. I
 
 <div class="divider"></div>
 
-<p class="verse"><b>Their Flowers have Fallen</b><br/>
+<div class="verse"><p><b>Their Flowers have Fallen</b><br/>
 but the leaves of the orchid plant<br/>
 are firm and strong,<br/>
 spreading their arms of greenness<br/>
-to the east and west.<br/>
-<br/>
-Their stems are thin and wobbly<br/>
+to the east and west.</p>
+
+<p>Their stems are thin and wobbly<br/>
 attached to wooden sticks<br/>
 with pins,<br/>
 yet tiny green buds<br/>
@@ -134,30 +134,30 @@ are pushing through<br/>
 on the branches,<br/>
 like little lights of hope:<br/>
 life continues<br/>
-and will blossom again.</p>
+and will blossom again.</p></div>
 
 This poem was written to my orchid plant as I witnessed its changing, impermanent nature over the past two months. Impermanence can also be the continuation of life, and we are filled with happiness and joy on seeing this. The flowers have fallen, yet the tiny buds sing the song of life continuing without end.
 
 <div class="divider"></div>
 
 <!-- 9 December 2021 -->
-<p class="verse">
+<div class="verse"><p>
 <b>May the Smiles from our Hearts</b><br/>
 pierce through the clouds<br/>
-of our confusion.<br/>
-<br/>
-May the smiles from our hearts<br/>
+of our confusion.</p>
+
+<p>May the smiles from our hearts<br/>
 reach you<br/>
 continuing your path<br/>
-with courage and freedom.<br/>
-<br/>
-May the smiles from our hearts<br/>
+with courage and freedom.</p>
+
+<p>May the smiles from our hearts<br/>
 melt all your obstacles<br/>
 so you can serve all beings<br/>
-with peace and wisdom.<br/>
-<br/>
-Let the smiles from our hearts<br/>
+with peace and wisdom.</p>
+
+<p>Let the smiles from our hearts<br/>
 encourage you on and on,<br/>
 like the sun<br/>
 shining everywhere<br/>
-with warmth and freedom.</p>
+with warmth and freedom.</p></div>

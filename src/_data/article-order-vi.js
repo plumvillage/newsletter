@@ -4,6 +4,8 @@ module.exports = ["su-ong-lang-mai--tang-than-dich-thuc",
 "su-co-hoa-nghiem--nep-xua",
 "thay-phap-dung--tieng-chuong-chanh-niem",
 "le-trang--cung-tan",
+// Ngôi làng của chúng tôi - Phỏng vấn sc. Diệu Nghiêm và sc. Từ Nghiêm
+"su-co-dieu-tu-nghiem--ngoi-lang-cua-chung-toi",
 // Thầy ôm các con vào lòng	Sc. Sùng N
 // "su-co-sung-nghiem--thay-om-cac-vao-long",
 "thay-phap-an--thap-len-ngon-nen",
@@ -13,12 +15,17 @@ module.exports = ["su-ong-lang-mai--tang-than-dich-thuc",
 "thay-phap-nguyen--que-me-van-toa-ngat-huong-thom",
 "thay-minh-hy--bua-tiec-cua-nguoi-tu",
 "thay-phap-kham--cham-soc-tang-than",
+// Linh đan đổi cốt mới ra về - Phỏng vấn Sư mẹ Bảo N
+"su-co-bao-nghiem--linh-dan-doi-cot-moi-ra-ve",
 "thay-phap-hoi--theo-thay-lam-bao",
 "su-co-trang-bo-de--advent",
 "su-co-chan-duc--thay-thay-trong-tang-than",
 // Niềm thương bình an	Sr. Tuyết N
 // "su-co-tuyet-nghiem--niem-thuong-binh-an",
 "thay-troi-dao-bi--da-co-duong-di-roi-con-khong-con-lo-so",
+// Đem chánh niệm vào y tế	Elli Weisbaum
+// Thầy là tình thương -Sr Elisabeth
+"sr-elisabeth--thay-la-tinh-thuong",
 "su-co-chuan-nghiem--thuong-yeu-muon-doi-van-hat-suong-trong",
 "thay-troi-dai-dao--chung-tay-giu-gin-dat-me",
 "su-co-trang-mai-thon--nhap-luu-ngay-binh-thuong",
@@ -31,8 +38,13 @@ module.exports = ["su-ong-lang-mai--tang-than-dich-thuc",
 // su-co-hoc-nghiem--cuoc-doi-thay-rat-dep.md
 // Cuộc đời Thầy rất đẹp	Sr. Học N
 "su-co-hoc-nghiem--cuoc-doi-thay-rat-dep",
+// sc Huệ Tri - Trong nắng tôi cười
+"su-co-hue-tri--trong-nang-toi-cuoi",
+// sc Huệ Tri - lời mùa thu nhắn gửi
+"su-co-hue-tri--loi-mua-thu-nhan-gui",
 "su-co-hoi-nghiem--thoi-gian-la-su-song",
 "br-linh-nam--kinh-so-tam",
 "thay-phap-kha--quan-tam",
 "lang-mai-nam-qua",
 ]
+

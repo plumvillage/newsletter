@@ -5,16 +5,16 @@ author: Sister Chân Trăng Chánh Niệm
 
 ## Here
 
-<p class="verse">A slip of light <br/>
+<div class="verse"><p>A slip of light <br/>
 let insight ignite <br/>
 the darkness of night.<br/>
 Our hands call to the same bell<br/>
 pools of sound resound <br/>
-throughout infinity</p>
+throughout infinity</p></div>
 
 ## Sometimes
 
-<p class="verse">Sometimes I am like<br/>
+<div class="verse"><p>Sometimes I am like<br/>
 a big eye<br/>
 looking at myself.<br/>
 It gets hot<br/>
@@ -29,4 +29,4 @@ which is in this body,<br/>
 in the bones and soft movements<br/>
 whole<br/>
 whole again, and<br/>
-home</p>
+home</p></div>
