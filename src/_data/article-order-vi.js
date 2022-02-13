@@ -43,6 +43,10 @@ module.exports = ["su-ong-lang-mai--tang-than-dich-thuc",
 // sc Huệ Tri - lời mùa thu nhắn gửi
 "su-co-hue-tri--loi-mua-thu-nhan-gui",
 "su-co-hoi-nghiem--thoi-gian-la-su-song",
+// Thầy đi hái thuốc phương xa-Sr Tạng N
+"su-co-tang-nghiem--thay-di-hai-thuoc-phuong-xa",
+// Gương kia ngự ở trên tường	Br. T. Thiện Chí
+"thay-thien-chi--guong-kia-ngu-o-tren-tuong",
 "br-linh-nam--kinh-so-tam",
 "thay-phap-kha--quan-tam",
 "lang-mai-nam-qua",
