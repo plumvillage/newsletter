@@ -37,6 +37,8 @@ In this way, there are things that are very familiar, but they never become out 
 
 {% image "article/br-minh-hy/DSC_3796-edit.jpg" %}
 
+## Offering beauty
+
 One time, Thay’s attendants noticed that Thay was a little different. After giving a Dharma talk Thay came back to his hut, drank a cup of tea, took his straw hat and went directly for walking meditation whereas usually he would rest a little longer. Upon arriving at the gathering place, Thay bowed to the sangha and led the walk. Everything unfolded without delay. With light and free steps, Thay led the sangha to the Sixteen Buddhas, his favorite place, where he liked to stop and rest during walking meditation. As soon as the sangha sat down, the church bells rang. The attendant looked at Thay who had a very bright smile on his face. It turned out that there was a delegation of monks from another country visiting Plum Village. That was the very first time they had come to Upper Hamlet and joined the practice of walking meditation. Therefore, Thay wanted to offer them a moment of miracle. Thay was very pleased with that moment, as everything happened just at the right time. It is not only with good tea or delicious food that we can treat our guests. 
 
 A beautiful moment can help the happiness in people’s hearts grow bigger. Such a moment is a banquet that we can offer our beloved ones many times a day. But first of all, we need to have the ability to perceive, to feel, and to offer ourselves such banquets. If we do not know how to drink tea, how can we offer our friends a good cup of tea? It is very difficult for a busy person to treat others to a relaxing and free moment.
