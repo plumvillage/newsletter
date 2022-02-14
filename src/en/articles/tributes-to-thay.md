@@ -1,6 +1,6 @@
 ﻿---
 title: Tributes to Thay
-# author: Young nuns of Dieu Tram Nunnery
+# author: Notable
 ---
 
 <p class="editors-preface">We have been receiving an outpouring of love from the global community, offering tributes to our teacher. We offer a selection of tributes from notable figures below.</p>

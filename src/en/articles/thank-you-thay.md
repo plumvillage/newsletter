@@ -1,6 +1,6 @@
 ﻿---
 title: Thank you Thay
-# author: Young nuns of Dieu Tram Nunnery
+# author: 
 ---
 
 <p class="editors-preface">During the memorial week for Thay, we received an outpouring of gratitude from people all over the world who have been touched by Thay’s teachings. We offer you a selection to read here. Each gratitude while coming from one person in fact represents a multitude of others who have been touched in similar ways.</p>

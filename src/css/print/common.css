@@ -406,6 +406,7 @@ p + .verse,
     page-break-inside: avoid;
     font-family: "Cormorant Garamond";
     margin-left: 6pt;
+    text-align: left !important;
     font-weight: 600;
     font-style: italic;
     font-size: 120%;

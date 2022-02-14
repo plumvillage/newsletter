@@ -52,5 +52,7 @@ module.exports = ["su-ong-lang-mai--tang-than-dich-thuc",
 "br-linh-nam--kinh-so-tam",
 "thay-phap-kha--quan-tam",
 "lang-mai-nam-qua",
+"su-co-hien-nhan--hoc-tieng-viet",
+"su-co-duyet-nghiem--ngay-tuyet-nho-thay",
 ]
 
