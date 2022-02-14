@@ -21,14 +21,14 @@ While searching for a teacher, as far as I know, Br. Giác Thanh was keen to lea
 
 Br. Giác Thanh was searching for a teacher. One day while visiting family in Canada, he met Thay at a retreat in Maple Village, Montreal, Canada. Autumn in North America with its brilliant colours is always magnificent beyond words. One can only be silent and enjoy it, fully enjoy it. During one walking meditation, Thay and the sangha stopped, sat down on the grass to bathe in the Fall colours, and drank tea. Br. Giác Thanh sat next to Thay. Amidst that wondrous reality Thay pointed at the radiant Autumn forest and said: “Br. Giác Thanh, that which you have been searching for so long is right there! There it is! This is it!” Those instructive words were the last drop of water leading to an overflow, creating an opening, a loosening in Br. Giác Thanh’s mind, reaching a wonderful state of freedom. The happiness of that taste of freedom was immense. Perhaps only he could feel it clearly and no one else can possibly describe it. From then on, he truly stopped searching. He took refuge in Thay as his teacher until he passed away. Since that Autumn, whenever the younger ones thought of Br. Giác Thanh, we couldn’t help but sing *“One maple leaf falls”* as an offering to him. He really liked that song.  
 
-> One maple leaf falls  
-> My dear, do you hear it?  
-> One maple leaf falls  
-> Autumn returns with its beauty.  
-> A thousand leaves are falling  
-> Amber, crimson, gold  
-> A thousand leaves are falling  
-> Soaring across the sky.
+<div class="verse"><p><b>One maple leaf falls</b></br>
+My dear, do you hear it?</br>
+One maple leaf falls,</br>
+autumn returns with its beauty.</br>
+A thousand leaves are falling,</br>
+amber, crimson, gold.</br>
+A thousand leaves are falling,</br>
+soaring across the sky.</p></div>
 
 During the years of learning from him and drinking tea by his side, I heard from Br. Giác Thanh that before coming to Plum Village, he had a dream. In it, he was lying down and saw an old woman by the foot of his bed. She looked at him with very gentle, kind, and bright eyes, and said: “Come home my child”. Later when he met Thay, he saw that the old woman in the dream looked very much like Thay, and he was certain that she was no other than Thay. It is precisely due to these predestined conditions that Br. Giác Thanh always held Thay in his heart with much respect and love, in a quiet and infinitely lovely way. 
   
@@ -91,10 +91,10 @@ Deer Park Monastery is in Southern California. For some unknown reason, when Br.
 
 At Deer Park Monastery on the side of the mountain, a memorial stupa was erected for Br. Giác Thanh and in the heart of it is engraved a posthumous poem written for him by Thay.
 
-> That you are a virtuous one is already heard by everyone
-> The work of a true practitioner has been accomplished
-> When you stupa has just been raised on the hillside
-> The sound of children's laughter will already be heard.
+<div class="verse" style="width: 105mm;"><p>That you are a virtuous one is already heard by everyone,<br/>
+the work of a true practitioner has been accomplished.<br/>
+When you stupa has just been raised on the hillside,<br/>
+the sound of children’s laughter will already be heard.</p></div>
 
 {% image "article/br-phap-niem/CCI11202018_00015-edit.jpg" %}
 

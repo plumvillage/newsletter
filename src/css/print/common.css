@@ -391,6 +391,7 @@ article blockquote:lang(zh) {
     font-size: 140%;
     line-height: 130%;
     text-indent: 0;
+    border-left: 0 !important; /* no border */
     /* margin-top: 9pt; */
     /* margin-bottom: 9pt; */
 }
@@ -418,12 +419,25 @@ p + .verse,
     "dlig"
     ;
 }
+.special {
+    width: 105mm;
+    /* column-span: all; */
+    /* float: none; */
+    /* margin: 0 auto;
+    padding-left: 0;
+    padding-right: 0; */
+}
+.special p {
+    display: block;
+}
+
+
 html:lang(vi) .verse {
     font-size: 130%;
     line-height: 125%;
 }
 
-.verse b {
+.verse b, .verseTitle {
     /* position: relative; */
     /* left: -3pt; */
     font-family: "CormorantSC-SemiBold";

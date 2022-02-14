@@ -9,7 +9,9 @@ Ngoài hai biệt danh thầy Phù Vân và thầy Hoa Quỳnh mà một số ng
 
 ## Cầu học
 
-Ngày 12 tháng 6 năm 1994, tôi tới Làng Mai tập sự tu học thì thầy đã có mặt ở đó. Thầy tới Làng vào năm 1991. Tôi không biết nhiều về những năm trước đó của thầy. Tôi chỉ xin kể lại một vài giai thoại, vài khoảnh khắc đặc biệt khi tôi được hầu cận và học hỏi với thầy. Câu chuyện thầy đến với Làng Mai, tôi được nghe kể lại, rất kỳ thú. Thầy là một người luôn cầu học, đặc biệt về thiền. Lúc còn ở Việt Nam, thầy đã theo học thiền với thiền sư Thích Thanh Từ, Viện chủ tu viện Trúc Lâm. Thời đó cùng tu học với thầy còn có các thầy như thầy Thích Minh Nghĩa (nay là Viện chủ tu viện Toàn Giác, trú trì Tổ đình Giác Nguyên), thầy Thích Phước Tịnh (hiện đang ở tại Tu viện Lộc Uyển) và còn nhiều huynh đệ khác cùng thời với thầy nữa. Những ai muốn biết nhiều hơn về thầy thì nên thân cận với quý ngài vừa kể trên, đặc biệt là Hòa thượng Phước Tịnh. 
+Ngày 12 tháng 6 năm 1994, tôi tới Làng Mai tập sự tu học thì thầy đã có mặt ở đó. Thầy tới Làng vào năm 1991. Tôi không biết nhiều về những năm trước đó của thầy. Tôi chỉ xin kể lại một vài giai thoại, vài khoảnh khắc đặc biệt khi tôi được hầu cận và học hỏi với thầy. Câu chuyện thầy đến với Làng Mai, tôi được nghe kể lại, rất kỳ thú. Thầy là một người luôn cầu học, đặc biệt về thiền. Lúc còn ở Việt Nam, thầy đã theo học thiền với thiền sư Thích Thanh Từ, Viện chủ tu viện Trúc Lâm. Thời đó cùng tu học với thầy còn có các thầy như thầy Thích Minh Nghĩa (nay là Viện chủ tu viện Toàn Giác, trú trì Tổ đình Giác Nguyên), thầy Thích Phước Tịnh (hiện đang ở tại Tu viện Lộc Uyển) và còn nhiều huynh đệ khác cùng thời với thầy nữa. Những ai muốn biết nhiều hơn về thầy thì nên thân cận với quý ngài vừa kể trên, đặc biệt là Hòa thượng Phước Tịnh.
+
+{% image "article/br-phap-niem/12Thay-Giac-Thanh_edit.jpg" %}
 
 Trong quá trình tìm thầy học đạo, theo tôi được biết, thầy là một con người rất ham học, chân tình, phóng khoáng, phá chấp. Còn về những kỹ năng công việc hay lễ nghi thiền môn thì có lẽ thầy không giỏi lắm. Thầy là một người chuyên tu và thích một đời sống trầm tư mặc tĩnh. Thầy luôn có một khát khao cháy bỏng tìm học và đạt cho được ý chỉ về thiền. Thầy bôn ba khắp chốn để cầu học, ngay cả sau khi qua đến phương Tây. Hễ nghe ở đâu có các vị thiền sư nổi tiếng, thì dù họ là người xuất sĩ hay cư sĩ, thầy đều tới để tham cứu về thiền. Nghe kể rằng thậm chí thầy còn đến đảnh lễ thiền sư nữ cư sĩ để cầu pháp thiền. Chỉ chừng ấy cũng chứng tỏ được sự khát khao học hỏi và tinh thần phóng khoáng, phá chấp nơi thầy. Thầy nỗ lực tham thiền nhiều giờ và trầm tư mặc tĩnh mong tỏ ngộ thiền cơ. Có lẽ thầy thường hay nhập định sâu mà quên cả hình hài. Cũng có lẽ vì như thế mà sau này mỗi khi thầy ngồi nhập định dù là trong khi nghe Sư Ông giảng, thầy hay lắc đầu qua lại mà không ý thức được cái đầu đang lắc. Mỗi lần thấy như vậy, Sư Ông thường hay gọi tên thầy: “Thầy Giác Thanh, thầy mở mắt ra đi! Đừng nhắm mắt nhập định nữa!” Nghe lời Sư Ông, thầy mở mắt ra thì đầu hết lắc.
 
@@ -17,57 +19,72 @@ Trong quá trình tìm thầy học đạo, theo tôi được biết, thầy l�
 
 Thầy bôn ba khắp nơi tìm thầy học đạo. Một hôm đi Canada thăm gia đình, thầy gặp lại Sư Ông trong một khóa tu tổ chức tại Làng Cây Phong, Montreal. Mùa thu ở vùng Bắc Mỹ luôn rực rỡ sắc màu, đẹp không lời nào tả được, chỉ có thể im lặng mà thưởng thức, mà tận hưởng thôi. Trong buổi thiền hành, Sư Ông và đại chúng dừng lại, ngồi trên cỏ, ngắm mùa thu, uống trà. Thầy Giác Thanh ngồi bên cạnh Sư Ông. Trong cái thực tại mầu nhiệm ấy, Sư Ông đã chỉ tay vào rừng thu đang phô bày rạng rỡ rồi nói với thầy Giác Thanh: “Thầy Giác Thanh, cái mà thầy bôn ba tìm kiếm lâu nay, nó đang nằm sờ sờ đó kìa! Nó đó kìa! This is it!” Lời khai thị, chỉ điểm đó đã như giọt nước cuối cùng công phá khiến nước tràn ly, tạo nên một sự toang mở và tháo tung trong tâm thầy, chạm tới được cái trạng thái kỳ diệu, cởi trói và giải thoát trong tâm thức. Niềm hạnh phúc của sự nếm trải tự do trào dâng. Có lẽ cảm giác hạnh phúc vô tận đó chỉ có thầy mới cảm nhận được rõ ràng. Thầy đã thực sự chấm dứt sự bôn ba tìm cầu và ở lại nương tựa Sư Ông cho tới khi viên tịch. Từ mùa thu năm đó, mỗi khi tưởng nhớ đến thầy Giác Thanh, các sư em của thầy luôn hát *Một lá ngô đồng rơi,* bài hát mà thầy rất thích:
 
-> Một lá ngô đồng rơi  
-> Có hay chăng người ơi  
-> Một lá ngô đồng rơi  
-> Thu đẹp đã về rồi.  
-> Ngàn chiếc lá còn rơi  
-> Đỏ au hay vàng tươi  
-> Ngàn chiếc lá rơi rơi  
-> Bay vèo ngập cả trời…
+<div class="verse"><p>Một lá ngô đồng rơi<br/>
+Có hay chăng người ơi<br/>
+Một lá ngô đồng rơi<br/>
+Thu đẹp đã về rồi.<br/>
+Ngàn chiếc lá còn rơi<br/>
+Đỏ au hay vàng tươi<br/>
+Ngàn chiếc lá rơi rơi<br/>
+Bay vèo ngập cả trời…</p></div>
 
 Sư Ông cũng làm câu đối này tặng thầy sau khi thầy viên tịch:
 
-> Một lá ngô đồng rơi, người vẫn cùng ta leo đồi thế kỷ  
-> Ngàn hoa thủy tiên hé, đất cứ theo trời hát khúc vô sinh
+<div class="verse"><p>Một lá ngô đồng rơi,<br/>
+người vẫn cùng ta leo đồi thế kỷ</p>
+
+<p>Ngàn hoa thủy tiên hé,<br/>
+đất cứ theo trời hát khúc vô sinh</p></div>
 
 Trong những năm gần gũi học hỏi, uống trà với thầy, thầy có kể rằng trước khi tới Làng Mai, thầy có một giấc mơ. Khi đang nằm ngủ trên giường, thầy thấy có một bà lão đứng dưới chân giường nhìn thầy với ánh mắt hiền lành, rất từ bi, rất sáng và nói: “Về thôi con!” Sau này gặp được Sư Ông, thầy thấy bà lão trong giấc mơ đó hao hao giống Sư Ông lắm. Thầy khẳng định bà lão đó không ai khác chính là Sư Ông. Cũng chính những nhân duyên như thế mà trong lòng thầy luôn kính và thương quý Sư Ông một cách vừa kín đáo vừa dễ thương vô cùng.
 
 Câu chuyện giác ngộ khi ngắm mùa thu rực rỡ ấy có lẽ khiến chúng ta nhớ lại câu chuyện của thiền sư Linh Vân Chí Cần. Trong một sáng thức dậy, nhìn thấy hoa đào nở, bỗng nhiên thiền sư giác ngộ, bao nhiêu mối nghi hoặc trong lòng được tháo gỡ xuống, và chạm tới được cái *như nhiên* của sự sống, của bản thân mình. Ngài đã bỏ ra tới ba mươi năm để tìm *trang kiếm khách,* tức là khám phá cho ra cái bản lai diện mục, cái con người đích thực của mình. Hoa đào nở, và thiền sư thấy.
 
-> Tam thập niên lai tầm kiếm khách  
-> Kỷ hồi lạc diệp hựu trừu chi  
-> Tự tòng nhất kiến đào hoa hậu  
-> Trực đáo như kim cánh bất  nghi
+<blockquote lang="zh">三十年來尋剑客</br>
+几回落叶又抽枝</br>
+自从一见桃花后</br>
+直至如今更不疑</blockquote>
 
-> (Ba mươi năm tìm trang kiếm khách  
-> Bao phen lá rụng lại đâm chồi  
-> Từ khi nhìn thấy hoa đào nở  
-> Đến nay tin chắc chẳng còn nghi)  
-> (Hòa thượng Thích Thanh Từ dịch)
+<div class="verse"><p>
+Tam thập niên lai tầm kiếm khách<br/>
+Kỷ hồi lạc diệp hựu trừu chi<br/>
+Tự tòng nhất kiến đào hoa hậu<br/>
+Trực đáo như kim cánh bất  nghi</p>
+
+<p>Ba mươi năm tìm trang kiếm khách<br/>
+Bao phen lá rụng lại đâm chồi<br/>
+Từ khi nhìn thấy hoa đào nở<br/>
+Đến nay tin chắc chẳng còn nghi<br/>
+<cite>Hòa thượng Thích Thanh Từ dịch</cite></p></div>
 
 ## Mặc áo giải thoát
 
 Có một thời gian khá dài thầy “không đắp y”. Vào các buổi tụng giới thầy chỉ mặc áo tràng, thậm chí chỉ mặc bộ áo vạt hò rồi khoác chiếc áo Tiếp Hiện bên ngoài. Mỗi lần thấy thầy Giác Thanh, một đại sư huynh tới thiền đường tụng giới mà *không đắp y*, thầy trụ trị xóm Thượng lúc bấy giờ tỏ ra rất không vui. Tất nhiên sự không hài lòng của một vị trụ trì, người anh lớn thứ hai trong tăng thân, là điều dễ hiểu, vì trách nhiệm của thầy là phải hướng đại chúng vào nề nếp, không muốn trong chúng ai thích làm gì thì làm. Biết là vậy, nhưng dù thầy trụ trì có không vui, có xin thầy đắp y để tụng giới, làm gương cho các em, thầy cũng *không đắp y*. Tôi lúc đó còn là một sư chú nhỏ, không đủ trình độ để có thể nói lên điều gì, nên chỉ ghi nhận một cách vô tư chuyện đang xảy ra. Sư Ông hẳn có nghe phàn nàn và biết chuyện đó, nhưng chẳng hiểu sao Sư Ông tỏ vẻ như không có chuyện gì xảy ra. Đại chúng cũng không ai phàn nàn gì và cũng không ai bắt chước. Có một sự thật rằng Sư Ông là Thầy của thầy, Sư Ông không nói gì thì mình làm sao đủ trình độ để hiểu sự kiện ấy? Chỉ có Sư Ông và thầy ở trong tần số ấy mới hiểu nhau. Có lẽ là vậy nên Sư Ông không nói gì. Cuối cùng thầy vẫn là thầy, *không đắp y*. Mùa xuân ở phương Tây đẹp vô cùng. Vào mùa đông, rừng cây trút hết lá, chỉ còn trơ trọi cành, trông như cây chết. Thế nhưng sau hơn ba tháng ngủ đông, những nụ, chồi non nứt ra rất nhanh, và chỉ trong một thời gian ngắn là bao nhiêu lá xanh biểu hiện. Rừng cây đã xanh mơn mởn, đầy sức sống. Có những lần vào mùa xuân, thầy hay ngồi dưới hiên cốc Phù Vân rồi ngâm nga: “Y ta là đất trời bao la, là màu xanh của thiên nhiên, ngày này, thời nào ta cũng mặc…” 
 
-Cố Hòa thượng Mãn Giác, là huynh đệ, là bạn thâm giao của Sư Ông, có làm bài thơ *Đạt đạo*:
+Cố Hòa thượng Mãn Giác, là huynh đệ, là bạn thâm giao của Sư Ông, có làm bài thơ:
 
-> “Qua thiền môn: thấy trời xanh  
-> Kim Cang kinh tụng chân thành từng trang  
-> Khói hương quyện cảnh mơ màng  
-> Hư không là chiếc y vàng quấn thân  
-> Thiền Môn xưa sạch phong trần  
-> Kim Cang kinh khép trầm luân thoát rồi  
-> Ta từ sinh tử về chơi  
-> Ngồi trên chót đỉnh mỉm cười với trăng  
-> Thân ta là giải đất bằng  
-> Tâm ta là nước sông Hằng mênh mông  
-> Tình ta là đóa hoa hồng  
-> Ý ta là cả cánh đồng tâm linh  
-> Còn đâu nữa Kim Cang kinh  
-> Thiền Môn biến mất mà mình vô ngôn  
-> Bình minh về ngập hoàng hôn  
-> Cười lên một tiếng tỉnh hồn ngàn năm”
+<div class="verse"><p><b>Đạt đạo</b></p>
+<p>Qua thiền môn: thấy trời xanh<br/>
+Kim Cang kinh tụng chân thành từng trang<br/>
+Khói hương quyện cảnh mơ màng<br/>
+Hư không là chiếc y vàng quấn thân</p>
+
+<p>Thiền Môn xưa sạch phong trần<br/>
+Kim Cang kinh khép trầm luân thoát rồi<br/>
+Ta từ sinh tử về chơi<br/>
+Ngồi trên chót đỉnh mỉm cười với trăng</p>
+
+<p>Thân ta là giải đất bằng<br/>
+Tâm ta là nước sông Hằng mênh mông<br/>
+Tình ta là đóa hoa hồng<br/>
+Ý ta là cả cánh đồng tâm linh</p>
+
+<p>Còn đâu nữa Kim Cang kinh<br/>
+Thiền Môn biến mất mà mình vô ngôn<br/>
+Bình minh về ngập hoàng hôn<br/>
+Cười lên một tiếng tỉnh hồn ngàn năm</p></div>
+
+{% image "article/br-phap-niem/ToBeAdded_edited.jpg" %}
 
 Có lẽ bài thơ *Đạt đạo* này đã nói lên tất cả tâm tư của con người giải thoát trong thầy. Thầy đã vượt ra khỏi cái tướng giả tạo và thể nhập vào thực tại vô tướng mà chỉ có thầy mới cảm nhận sâu sắc về nó. Sư Ông hiểu được thầy. Tuy trên hình tướng thầy đã không đắp y, nhưng trong nội dung, trong lòng của một người đã đạt tới thực tại vô tướng thì thầy vẫn luôn đắp y. Thầy đã đắp y giải thoát, mặc áo giải thoát và ai có thể thấy biết được điều đó? Chính thầy và Sư Ông. 
 
@@ -83,6 +100,8 @@ Có lần trong khi làm thị giả, tôi vô ý làm vỡ cái tách trà cổ
 
 ## Chút trẻ con dễ thương trong thầy
 
+{% image "article/br-phap-niem/ToBeAdded2-edited.jpg" %}
+
 Có một thời gian dài thầy không đi thiền ngoài trời với đại chúng. Bệnh tiểu đường khá nặng đã hành thầy. Trong hai năm liền, ngoài việc làm thị giả cho Sư Ông, tôi còn đảm trách lo cơm nước, giặt giũ cho thầy. Thức ăn của thầy người bình thường không thể ăn nổi vì không sử dụng bất cứ gia vị gì kể cả muối. Tôi đã phải sáng tạo rất nhiều, chế biến các món ăn lạ lẫm để tạo cảm hứng cho thầy. Thầy ăn giỏi lắm. Nhưng giỏi cách mấy, cố gắng cách mấy có khi cũng ngán. Có lần thầy ngán quá, không biết thầy đã xin đâu được gói mì, thầy lén chế mì ăn. Tôi bắt gặp và cố gắng ngăn thầy không cho thầy ăn. Thầy nói: “Pháp Niệm! Để sư huynh ăn một gói này cho đỡ ngán”. Thế là tôi không thể ngăn cản thầy được. Thật ra tôi cũng chỉ giả bộ làm vậy chứ biết là thầy ngán thức ăn của thầy lắm lắm rồi. 
 
 Có lần thầy bị sưng cổ chân, đi lại không dễ dàng. Tuy nhiên, nếu cố gắng thì thầy vẫn đi được. Vì nhiều tháng thầy không đi thiền ngoài trời với đại chúng nên Sư Ông đã đích thân đến thăm và bảo thầy nên ra ngoài đi thiền với đại chúng. Thầy nói chân con đau, đi không được. Tưởng như vậy thì Sư Ông sẽ để yên, ai dè Sư Ông còn ép ra đi thiền hành. Sư Ông đã rầy nhẹ thầy và bảo thầy phải đi thiền ngoài trời mỗi ngày thì cái chân đó mới lành được. Không dám trái lệnh Sư Ông, thầy tuân theo, nhưng trong lòng thầy khó chịu, thầy thầm nghĩ: “Dạ, được thôi, mình đi cho cái chân này nó sưng vù lên cho bỏ ghét! Đã không thương hại rồi mà còn ép đi thiền nữa!” Nhưng sau khi thầy đi thiền với đại chúng chừng một tuần thì điều kỳ diệu xảy ra, cổ chân của thầy hết sưng, lành lặn và đi lại dễ dàng.  Vô cùng ngạc nhiên, thầy đã  thốt lên: “Hừ! Ông già ghê quá!” Chúng ta ai cũng có cái tính trẻ con trong mình dù mình đã lớn cách mấy. Và cái tính trẻ con đó hồn nhiên, đẹp một cách lạ lùng nơi thầy.
@@ -93,10 +112,12 @@ Năm 2001, trong khi Sư Ông và tăng thân đang hoằng pháp ở Trung Qu�
 
 Ở tu viện Lộc Uyển, trên sườn núi, có dựng ngôi tháp để tưởng nhớ thầy. Lòng tháp khắc bài thơ Sư Ông viết truy tán thầy:
 
-> Trượng phu tiếng đã biết  
-> Việc đáng làm đã làm  
-> Tháp vừa dựng sườn núi  
-> Tiếng cười trẻ đã vang
+<div class="verse"><p>Trượng phu tiếng đã biết<br/>
+Việc đáng làm đã làm<br/>
+Tháp vừa dựng sườn núi<br/>
+Tiếng cười trẻ đã vang</p></div>
+
+{% image "article/br-phap-niem/CCI11202018_00015-edit.jpg" %}
 
 Thầy đúng là một bậc anh hùng, một trượng phu. Và việc đáng làm nhất của người tu thầy đã thực hiện được, đó là sự nghiệp giác ngộ. Ngôi tháp mà giờ đây chúng con đang được thừa hưởng đã được thầy dựng lên không phải bằng đá mà bằng chính chất liệu giải thoát, giác ngộ, bất động, tự tại. Ngôi tháp đó cũng là tăng thân của thầy. Trong nhiều năm qua, từ khi thầy thị tịch, đã có nhiều bạn trẻ người Việt cũng như người Mỹ đến tu tập và xuất gia tại Lộc Uyển. Tất cả đều là sự tiếp nối của thầy. Tiếng cười hồn nhiên, an vui, tự tại và giải thoát vẫn luôn vang vọng giữa đất trời bao la vô tận này. 
 
