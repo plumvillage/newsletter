@@ -5,7 +5,7 @@ author: Sư cô Chân Hoa Nghiêm
 
 Làng của những năm 1980, 1990 như một cái làng ở thôn quê, vẫn còn đơn sơ lắm! Làng khi đó rất ít người, đời sống đơn giản. Phòng chúng tôi chỉ có một cái bàn và một giường ngủ. Giường là một miếng ván được kê trên bốn miếng gạch vậy thôi. Ngày xuất gia, tôi được sư chị Đoan Nghiêm tặng bộ vạt hò màu nâu đã nhạt màu. Sư cô Viên Quang cho tôi một cái áo, sư chị Chân Vị cho tôi một cái quần, tôi chỉ có hai bộ thôi. Sư Ông cho tôi một cái áo nhật bình lam. Tôi thích chiếc áo nhật bình đó lắm. 
 
-{% image "article/sr-hoa-nghiem/20211212042copy.jpg" %}
+{% image "article/sr-hoa-nghiem/20211212042copy-edit.jpg" %}
 
 Lúc đó, tuổi của tôi chỉ bằng nửa số tuổi bây giờ. Một bầu nhiệt huyết tuổi trẻ, rất năng động, việc gì cũng muốn làm. Tôi xung phong làm vườn, vì chúng tôi ăn uống đạm bạc, tự trồng rau mà ăn. Từ khi sinh ra và lớn lên tôi đều sống ở thành phố, nên việc làm vườn đối với tôi thật là mới mẻ. Tôi theo sư chị Chân Vị để học cách làm vườn. Tôi hăng say cuốc đất, trồng rau, gieo hạt. Đôi khi mê làm vườn quá nên bỏ giờ công phu chiều, chúng tôi bị sư cô Thanh Lương rầy: “Vào đây để đi tu chứ có phải đi làm việc đâu”. Chúng tôi liền đi sám hối với sư cô, vì sư cô là vị chúng trưởng của chúng tôi thời bấy giờ.
 
@@ -23,7 +23,11 @@ Trong rừng của xóm Hạ có một cái hồ dài, nước trong veo. Cây t
 
 Ngày xưa khi ở Làng, chúng tôi chỉ tiếp xúc với thiền sinh. Thiền sinh lại chỉ lo tu học theo thời khóa, rất ít nói chuyện về xã hội bên ngoài. Những tin tức về thế giới, chính trị, bạo động, v.v. chưa từng xuất hiện một lần trong trí não của tôi, chứ đừng nói rằng tôi đã tưởng tượng hay nghĩ về chúng. Mỗi tháng chúng tôi được phát tiền túi đủ để mua những thứ cá nhân căn bản, như một cuốn tập để ghi chép lời Thầy dạy, sang lắm thì một hộp bánh LU khi mình thèm ăn bánh ngọt. Hai từ “cúng dường” thật xa lạ và mới mẻ đối với tôi. Tôi nhớ mình chỉ nhận được một lần tiền cúng dường duy nhất sau bao nhiêu năm ở Làng, khoảng năm mười đô gì đó. Tôi luôn tự nói: Mình đi tu đâu phải để tìm sự cúng dường. Thầy có dạy trong một khóa tu xuất sĩ, rằng mục đích của người tu không phải là cơm áo, cũng không phải đi tìm vật chất tiện nghi. Thực tập của Làng Mai là để có hạnh phúc. 
 
+{% image "article/sr-hoa-nghiem/Hinh-cho-bai-Sc-Hoa-N1.jpeg" %}
+
 Ngày xưa, khi thế giới chưa có hệ thống internet, chưa có Iphone, Ipad, computer, sự truyền thông còn giới hạn, nên con người ít sợ hãi. Còn thời đại bây giờ, càng văn minh, sự truyền thông được mở rộng, thì con người càng thích tom góp những thông tin. Nhưng những thông tin này đa số đem đến cho chúng ta nhiều lo âu, phiền não và sợ hãi. Đời sống luôn bận rộn không một chút bình yên.
+
+{% image "article/sr-hoa-nghiem/20211212029-edited.jpg" %}
 
 Nhớ hôm nào, chúng tôi ăn mừng Làng Mai hai mươi tuổi. Năm ấy, chúng tôi đã lớn hơn và đã nhận truyền đăng. Lúc đó, chúng tôi như những con chim non tập bay ra khỏi tổ ấm của mình. Thầy giao phó nhiệm vụ đi xây dựng các trung tâm tu học Làng Mai, từ Âu, Mỹ rồi sang Á. Làng Mai bây giờ đã bốn mươi tuổi, chúng tôi cũng đã đến thời trung niên. Những hiện tượng sinh diệt, đổi thay là thế giới tích môn. Cũng đã đến lúc mình phải chuẩn bị cho mình một chốn để đi về, tôi luôn tự nhắc mình như thế. Nhưng sư em Chỉ Nghiêm của tôi đã đi trước tôi rồi. Sáng nay, sau bao nhiêu ngày chống chọi với căn bệnh ung thư, giờ phút này sư cô Chỉ Nghiêm đã thực sự vẫy tay chào đại chúng trong tiếng niệm Bụt. Điều kiện đã mãn trong kiếp này, để rồi khi nhân duyên hội tụ sư cô sẽ biểu hiện ở một đời sống mới đẹp hơn. Khi tu viện Lộc Uyển mới thành lập, sư cô nghe theo lời chỉ dạy của Thầy đi về đó để cùng với quý sư cô khác xây dựng Lộc Uyển. Khi Bích Nham mới thành lập, sư cô cũng tình nguyện về Bích Nham để cùng giúp xây dựng tăng thân. Sư cô đã không phụ lòng Thầy Tổ. Giờ phút chót sư cô đã ra đi thanh thản. Tối qua khi chúng tôi làm lễ tẩy tịnh, Ôn Minh Tuấn đem một cây quạt màu vàng sậm, trên quạt có hình vẽ vòng tròn, trong vòng tròn là bút pháp của Thầy: “Con hãy mỉm cười đi để bước qua bờ bên kia”. 
 

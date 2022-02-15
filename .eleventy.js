@@ -95,6 +95,24 @@ function idMap(prefix, items, suffix = '') {
     return items.map(e => `${prefix}${e[0]}${suffix}`)
 }
 
+// https://rbyte.github.io/spreadFn/
+const spreadFn = (y) => y === 0 ? (x) => x : (y > 0
+	? (x) => Math.atan( (x-0.5)*y*2 )/Math.atan(y)/2+0.5
+	: (x) => Math.tan( (x-0.5)*Math.atan(-y)*2 )/-y/2+0.5)
+
+function easingGradient(start = 0, end = 100, stops = 10, smoothness = 3) {
+	var fn = spreadFn(smoothness)
+	var range = end - start
+	var result = []
+	for (let i = 0; i < stops; i++) {
+		var posR = 1 / (stops-1) * i
+		posR = posR.toFixed(2)
+		var posFn = fn(posR).toFixed(2)
+		result.push(`rgba(0,0,0, ${posFn}) ${start + range * posR}%`)
+	}
+	return result.join(',\n')
+}
+
 module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("src/pagedjs");
 
@@ -141,6 +159,7 @@ module.exports = function(eleventyConfig) {
     });
 
     eleventyConfig.addNunjucksShortcode("idMap", idMap);
+    eleventyConfig.addNunjucksShortcode("easingGradient", easingGradient);
     eleventyConfig.addNunjucksAsyncShortcode("image", imageShortcode);
     eleventyConfig.addNunjucksAsyncShortcode("imageSrc", imageSrcShortcode);
     eleventyConfig.addLiquidShortcode("image", imageShortcode);

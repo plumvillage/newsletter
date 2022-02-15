@@ -641,19 +641,6 @@ img#articlebr-troi-thien-chi21767317541562549611291283397034335052574932n {
     width: 60%;
 }
 
-img#articlesu-ongTheTrueSangha2 {
-    margin: 0;
-    max-width: none !important;
-    position: absolute;
-    z-index: -1;
-    width: calc(var(--pagedjs-pagebox-width) + (var(--bleed)) * 2);
-    left: calc((var(--pagedjs-margin-left) + var(--bleed))*-1);
-    top: calc((var(--pagedjs-margin-top) + var(--bleed))*-1);
-    mask-image: linear-gradient(to top, rgba(0,0,0,0) 0.1%,rgba(0,0,0,1) 35%);
-    -webkit-mask-image: linear-gradient(to top, rgba(0,0,0,0) 0.1%,rgba(0,0,0,1) 35%);
-    border-bottom: 2px solid white;
-}
-
 h1#the-true-sangha {
     margin-top: 75mm;
 }

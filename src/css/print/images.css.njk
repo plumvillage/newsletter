@@ -21,65 +21,65 @@ html:lang(vi) .pagedjs_right_page .pagedjs_margin-bottom-right {
     parameters:
         1: height
         2: top-offset (pushes image down)
-        3: start of fade-in gradient (top-down)
-        4: end of fade-in gradient
+        3: start of fade-in gradient (top-down) in % percent
+        4: end of fade-in gradient %
 */
 {% set items = [
 
 ["su-ongDSC08780",
-	"60mm", "0mm", "0%", "20%"],
+	"60mm", "0mm", 0, 20],
 ["sr-tu-nghiem-and-sr-dieu-nghiemSr-tu-nghiem2-edited",
-	"110mm", "0mm", "20%", "40%"],
+	"110mm", "0mm", 20, 40],
 ["br-phap-niemCCI1120201800015-edit",
-	"70mm", "0mm", "0%", "30%"],
+	"70mm", "0mm", 0, 40],
 ["sr-trang-bo-deIMG0331",
-	"90mm", "0mm", "0%", "40%"],
+	"90mm", "0mm", 0, 40],
 ["sr-trang-bo-deSc-Bo-DJe-2-edit",
-	"65mm", "0mm", "10%", "30%"],
+	"65mm", "0mm", 10, 30],
 ["br-troi-duc-hienBrDucHien-edit",
-	"100mm", "0mm", "5%", "30%"],
+	"100mm", "0mm", 5, 30],
 ["sr-doan-nghiemSr-Doan-N-edited",
-	"100mm", "0mm", "0%", "20%"],
+	"83mm", "0mm", 0, 30],
 ["br-troi-dao-biDSC6747-edited",
-	"100mm", "0mm", "0%", "20%"],
+	"100mm", "0mm", 0, 20],
 ["sr-thao-nghiemIMG6614-edited",
-	"90mm", "0mm", "0%", "20%"],
+	"90mm", "0mm", 0, 20],
 ["sr-thao-nghiemSc-Thao-N-2-edited",
-	"80mm", "0mm", "0%", "20%"],
+	"80mm", "0mm", 0, 20],
 ["sr-thao-nghiemCCI0224201600039",
-    "120mm", "11mm", "0%", "0%"],
+    "120mm", "11mm", 0, 0],
 ["richard-bradyEducators-retreat-in-Italy-Avalokita-centre1-edited",
-	"90mm", "15mm", "0%", "25%"],
+	"90mm", "15mm", 0, 25],
 ["sr-chuan-nghiemSc-Chuan-N-3",
-    "50mm", "10mm", "30%", "45%"],
+    "50mm", "10mm", 30, 45],
 ["dr-elli-weisbaumScientific-Day-Poster-Presentation-at-The-University-of-Toronto-20182",
-	"90mm", "28mm", "8%", "25%"],
+	"90mm", "28mm", 8, 25],
 ["br-phap-linhIMG0436crop",
-	"50mm", "10mm", "6%", "26%"],
+	"50mm", "10mm", 0, 26],
 ["br-phap-linhCS21202110152RL0936-crop3",
-    "105mm", "0mm", "5%", "6%"],
+    "105mm", "0mm", 5, 6],
 ["br-minh-hyDSC3796-edit",
-	"96mm", "0mm", "0%", "20%"],
+	"96mm", "0mm", 0, 20],
 ["br-phap-dungbai-T-Phap-Dung-4",
-	"84mm", "16mm", "12%", "36%"],
+	"84mm", "16mm", 12, 36],
 ["sr-chan-ducSrChanDuc3-edited",
-	"60mm", "30mm", "0%", "20%"],
+	"60mm", "30mm", 0, 20],
 ["sr-hoa-nghiemHinh-cho-bai-Sc-Hoa-N1",
-	"90mm", "0mm", "0%", "20%"],
+	"90mm", "0mm", 0, 20],
 ["br-phap-anthay-phap-an-edited",
-	"70mm", "0mm", "25%", "45%"],
+	"70mm", "0mm", 25, 45],
 ["br-phap-anDSC5530-edited",
-	"90mm", "10mm", "10%", "35%"],
+	"90mm", "10mm", 10, 35],
 ["br-phap-nguyenbai-T-Phap-Nguyen-2e",
-	"125mm", "0mm", "0%", "20%"],
+	"125mm", "0mm", 0, 20],
 ["br-phap-nguyenBOO6566e",
-	"62mm", "0mm", "0%", "20%"],
+	"62mm", "0mm", 0, 20],
 ["sr-tue-nghiem20211212087e",
-	"90mm", "0mm", "25%", "40%"],
+	"90mm", "0mm", 25, 40],
 ["sr-bao-nghiemSr-Bao-Ne",
-	"90mm", "0mm", "25%", "40%"],
+	"90mm", "0mm", 25, 40],
 ["br-phap-luuEducators-Workshop-2017-18-group-photo-edit",
-	"90mm", "0mm", "0%", "20%"]
+	"90mm", "0mm", 0, 20]
 ]
 %}
 
@@ -107,10 +107,35 @@ html:lang(vi) .pagedjs_right_page .pagedjs_margin-bottom-right {
 {% for item in items %}
 img#article{{ item[0] }} {
     bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + {{ item[1] }} + {{ item[2] }}) * -1);
-    mask-image: linear-gradient(to bottom, rgba(0,0,0,0) {{ item[3] }}, rgba(0,0,0,1.00) {{ item[4] }});
-    -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,0) {{ item[3] }}, rgba(0,0,0,1.00) {{ item[4] }});
+    mask-image: linear-gradient(to bottom,
+        {% easingGradient item[3], item[4] %}
+    );
+    -webkit-mask-image: linear-gradient(to bottom,
+        {% easingGradient item[3], item[4] %}
+    );
 }
 .PAGE-OF-article{{ item[0] }} .pagedjs_page_content {
     height: calc(100% - var(--pagedjs-footnotes-height) - {{ item[1] }}) !important;
 }
 {% endfor %}
+
+
+{# special case: to top #}
+img#articlesu-ongTheTrueSangha2 {
+    margin: 0;
+    max-width: none !important;
+    position: absolute;
+    z-index: -1;
+    width: calc(var(--pagedjs-pagebox-width) + (var(--bleed)) * 2);
+    left: calc((var(--pagedjs-margin-left) + var(--bleed))*-1);
+    width: calc(var(--pagedjs-pagebox-width) + (var(--bleed)) * 2);
+    left: calc((var(--pagedjs-margin-left) + var(--bleed))*-1);
+    top: calc((var(--pagedjs-margin-top) + var(--bleed))*-1);
+    mask-image: linear-gradient(to top,
+        {% easingGradient 0, 35 %}
+    );
+    -webkit-mask-image: linear-gradient(to top,
+        {% easingGradient 0, 35 %}
+    );
+    border-bottom: 2px solid white;
+}
