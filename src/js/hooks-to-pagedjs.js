@@ -24,6 +24,11 @@ class MyHandler extends Paged.Handler {
     Also, the image style need to be applied BEFORE the layout engine of pagedjs has placed the content, which is the reason why we do it on renderNode(), right when placing the element in question (not later).
     */
     renderNode(node, sourceNode) {
+        if (node.id == "verse-uyen-nguyen") {
+            addClassToPageDIV(node, `PAGE-OF-verse-uyen-nguyen`)
+            console.log("do: PAGE-OF-verse-uyen-nguyen")
+        }
+
         if (node.nodeName == "IMG" && node.id) {
             addClassToPageDIV(node, `PAGE-OF-${node.id}`)
         }

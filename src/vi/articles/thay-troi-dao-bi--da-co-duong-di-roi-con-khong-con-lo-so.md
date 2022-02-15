@@ -3,9 +3,11 @@ title: Đã có đường đi rồi, con không còn lo sợ
 author: Thầy Chân Trời Đạo Bi
 ---
 
-*Thầy Chân Trời Đạo Bi là người Indonesia, thọ giới lớn với Sư Ông Làng Mai trong Đại giới đàn “Bây giờ – Ở đây” tháng 2 năm 2019 và hiện đang tu tập tại xóm Thượng, Làng Mai. Bài viết được dịch từ tiếng Anh.*
+<p class="editors-preface">Thầy Chân Trời Đạo Bi là người Indonesia, thọ giới lớn với Sư Ông Làng Mai trong Đại giới đàn “Bây giờ – Ở đây” tháng 2 năm 2019 và hiện đang tu tập tại xóm Thượng, Làng Mai. Bài viết được dịch từ tiếng Anh.</p>
 
 Khi còn trẻ, tôi không biết mình thật sự muốn làm điều gì cho cuộc đời mình. Tôi không có một hướng đi. Năm 2010, khi biết Thầy sẽ đến Indonesia mở khóa tu, tôi không hề do dự, lập tức ghi danh tham dự. Sau vài ngày tu học, tôi nhận ra rằng tôi muốn bước đi trên con đường của một xuất sĩ. Lúc đầu ba mẹ tôi không tán thành, nhưng thấy đời sống của tôi có nhiều thay đổi tích cực nên ba mẹ cũng dần nhận ra con đường này sẽ mang lại hạnh phúc cho con trai mình. Ba mẹ khuyên tôi nên hoàn tất việc học dang dở ở trường rồi hãy tính tiếp. Cũng hay, tôi có thời gian nhìn lại rõ hơn tâm nguyện của mình và hiểu sâu sắc hơn ý nghĩa của con đường xuất gia.
+
+{% image "article/br-troi-dao-bi/9193025135868320367651704298813o.jpg" %}
 
 Chúng tôi thành lập nhóm Wake Up Indonesia sau khoá tu 2010. Nhờ chương trình này mà rất nhiều bạn trẻ tìm lại được chính mình. Năm 2013, tôi cùng vài người bạn đến Thái Lan tham dự khoá tu Wake Up do chính Thầy hướng dẫn. Trong buổi sinh hoạt cuối cùng, tôi thấy trên màn hình máy chiếu có dòng thư pháp “Đã có đường đi rồi, con không còn lo sợ” lướt qua. Tôi như nghe được lời Thầy đang khích lệ, vỗ về: không phải là thấy Thầy trong hình hài này đâu, quan trọng là con phải thấy được con đường. Có lẽ tôi đã sợ một ngày nào đó Thầy sẽ không còn bên tôi nữa. Thông điệp trong bức thư pháp đã làm tôi rúng động và hai dòng nước mắt cứ thế lăn dài trên má.
 
@@ -25,6 +27,8 @@ Thầy đã viết rất nhiều thư cho đệ tử. Trong một lá thư Thầ
 
 “Mình thấy được con đường chưa?” là một công án vẫn theo tôi trên suốt chặng đường. Thỉnh thoảng tôi tự hỏi bản thân nhưng cũng không chắc câu trả lời. Tôi biết mình còn lắm niềm đau, buồn phiền và sợ hãi. Tuy vậy, mỗi khi khi tiếng chuông vang lên, tôi thầm niệm “nghe chuông phiền não tan mây khói”, tôi biết nỗi sợ cùng niềm đau trong tôi đang dần được chuyển hóa.
 
+{% image "article/br-troi-dao-bi/DSC6747-edited.JPG" %}
+
 ## Ban chăm sóc nhóm Wake Up châu Âu
 
 Năm 2018, khóa tu Đại sứ Wake Up (Wake Up Ambassadors retreat) đầu tiên được tổ chức tại Làng Mai. Trong khóa này, để được vui chơi, gắn kết và học hỏi lẫn nhau, chúng tôi đã thành lập nhóm nòng cốt cho Wake Up châu Âu với tên gọi mới là ‘Oomph” (viết tắt của *Organism for Optimising Many People’s Happiness*, nghĩa là một cơ thể có nhiệm vụ làm cho nhiều người hạnh phúc).
@@ -32,6 +36,8 @@ Năm 2018, khóa tu Đại sứ Wake Up (Wake Up Ambassadors retreat) đầu ti�
 Oomph không phải là một tổ chức mà là một cơ thể. Khi các thành viên nòng cốt của tăng thân Wake Up (còn được gọi là “Wake Up Ambassadors”, các vị đại sứ của tăng thân Wake Up) có một nơi để trở về nương tựa, các bạn sẽ có cơ hội nuôi dưỡng hạnh phúc trong tự thân. Và khi có đủ hạnh phúc, các bạn mới có thể giúp các thành viên khác trong tăng thân cũng như giúp cho mọi người được hạnh phúc.
 
 Hiện tại Oomph có các thành viên: Annica Bauer, Verena Böttcher, Toos Vergote, Arlind Reuter, Fransisco Vogel, Jan-Jitze Hees, sư cô Tảo Nghiêm, Xương Nghiêm, Trăng Lộc Uyển, sư chú Đức Niệm và tôi. Hằng tháng, các thành viên gặp nhau một lần qua Zoom. Đến cuối năm 2019 chúng tôi thành lập nhóm điều phối quốc tế của Wake Up (Wake Up International Co-ordinators). Mỗi nhóm Wake Up trên thế giới sẽ cử một liên lạc viên, trong đó có bạn Jazz đại diện nhóm châu Úc, bạn Lewis đại diện nhóm Bắc Mỹ và bạn Annica đại diện nhóm châu Âu.
+
+{% image "article/br-troi-dao-bi/Happy-Radish-Family2_edited.jpg" %}
 
 Ba tháng một lần, vào tối thứ Năm hoặc Chủ nhật, chúng tôi sẽ gặp trực tuyến với đại diện của các nhóm Wake Up tại châu Âu. Các anh chị em xuất sĩ tại Làng Mai sử dụng tối làm biếng của mình để sinh hoạt với các bạn. Có khi tôi hơi mệt sau một ngày quán niệm nhưng khi tham gia cùng mọi người tôi lại cảm thấy như mình đang trở về nhà, gặp người thân trong phòng khách rồi thăm hỏi lẫn nhau “chị khỏe không? Em vui không? Công việc ổn định không?” Các bạn chia sẻ những khó khăn trong cuộc sống và ngược lại, quý thầy, quý sư cô cũng cởi mở sẻ chia những chông gai mà xuất sĩ gặp phải trong môi trường tu viện. Có khi chúng tôi còn ngẫu hứng cùng hát múa, nghe đàn hoặc bày ra vài trò chơi nho nhỏ để thay đổi không khí. Cứ như vậy, tình anh chị em giữa chúng tôi ngày thêm gắn bó, bền chặt.
 

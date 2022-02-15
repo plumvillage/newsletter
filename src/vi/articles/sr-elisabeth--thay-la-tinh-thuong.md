@@ -46,7 +46,7 @@ Kinh nghiệm “lạ lùng” này đã tới với Giác Nghiêm ngày mới t
 
 Trời ơi, thế nào là cắt bánh mì *trong chánh niệm* đây? Một mối hoài nghi lớn đi lên trong Giác Nghiêm. Câu hỏi cứ trở đi trở lại. Cắt bánh mì *trong chánh niệm* là như thế nào? Một lát sau, người phụ nữ quay lại, chẳng có gì xảy ra cả. Cô ấy đã nhẹ nhàng giúp Giác Nghiêm thoát ra được giây phút “đứng hình” này. Khi để trí năng chế ngự, nghi ngờ sẽ bắt đầu nảy sinh trong lòng chúng ta… 
 
-<div class="verse"><p><b>Những kỷ niệm đẹp ở Làng Mai nhiều biết bao nhiêu.</b><br/>
+<div class="verse"><p><b>Những kỷ niệm đẹp</b><br/>
 Nghe Pháp<br/>
 Ngồi trong bình an<br/>
 Bên chân Thầy<br/>

@@ -375,17 +375,24 @@ article blockquote p:first-child::before {
 article blockquote p + p {
     margin-top: 6pt;
 }
-blockquote cite::before {
+/* can be in blockquote and .verse */
+article cite::before {
     color: var(--color-bark-dark);
     content: "~ "; /* —🙒🙛🙘 */
 	font-size: 80%;
 }
-blockquote cite {
+article cite {
 	position: relative;
 	display: inline-block;
 	left: 3pt;
     font-style: italic;
     color: var(--color-bark-dark);
+}
+
+.verse cite {
+    font-family: "Gentium Book Plus";
+    font-weight: normal;
+    font-size: 11pt;
 }
 
 article blockquote:lang(zh) {
@@ -722,4 +729,31 @@ html:lang(vi) img#articlebr-troi-thien-chi5brot {
 
 .article-snow-falling-autumn {
     columns: 1 !important;
+}
+
+#verse-uyen-nguyen {
+    position: absolute;
+    width: var(--pagedjs-pagebox-width);
+    left: 6mm;
+    /* column-span: all; */
+    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) - 56mm));
+}
+
+.PAGE-OF-verse-uyen-nguyen .pagedjs_page_content {
+    height: calc(100% - var(--pagedjs-footnotes-height) - 45mm) !important;
+    
+}
+
+.PAGE-OF-verse-uyen-nguyen p {
+    text-shadow: white 1px 0 2px;
+}
+
+img#articlesr-thuan-khanhIMG9250-light {
+    margin: 0;
+    max-width: none !important;
+    position: absolute;
+    z-index: -1;
+    right: calc((var(--pagedjs-margin-left) + var(--bleed))*-2 - 9mm);
+    width: 176mm;
+    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + 64mm) * -1);
 }

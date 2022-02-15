@@ -9,8 +9,6 @@ Tôi qua Học viện EIAB đã hơn hai năm. Học viện và Làng cũng khô
 
 Nhớ về Làng, về xóm Mới, trong tôi như hiện về từng khung trời tươi đẹp.
 
-{% image "article/sr-chuan-nghiem/Sc-Chuan-N-5_cut.JPG" %}
-
 ## Sân Chim
 
 Thời gian tôi ở Làng chỉ vẻn vẹn sáu năm, kém hai ngày. Ngày đầu tiên đặt chân đến xóm Mới đúng kỳ làm biếng của đại chúng sau khóa tu mùa Hè nên chị em từ Việt Nam mới qua được tha hồ ngủ. Vì chưa quen giờ nên mấy ngày đầu tôi thường đi ngủ sớm. Nhớ một hôm, khi tôi cùng các chị em vừa buông mùng nhưng chưa ngủ thì nghe tiếng sư mẹ Bảo Nghiêm và sư mẹ Thoại Nghiêm. Hai sư mẹ ghé thăm chị em chúng tôi nhưng thấy đã tắt đèn, buông mùng nên hai sư mẹ đi về. Tôi nghe hai sư mẹ nói với nhau: “Các sư em mới qua nên chưa quen giờ. Thôi mình về cho các sư em ngủ”. Nghe quý sư mẹ nói vậy tôi đã dễ ngủ thì ngủ lại càng thêm ngon. 
@@ -18,6 +16,8 @@ Thời gian tôi ở Làng chỉ vẻn vẹn sáu năm, kém hai ngày. Ngày đ
 Nghe kể là vì cái sân có nhiều chim nên quý sư cô tự nhiên đặt tên cho nó là Sân Chim, nơi tôi thấy vui nhất ở xóm Mới, làm cho tôi nhớ đến câu thành ngữ: Đất lành chim đậu.
 
 Sân Chim là nơi diễn ra nhiều sinh hoạt vui và nuôi dưỡng tình huynh đệ. Tôi nhớ mãi những buổi trưa của ngày quán niệm tại xóm Mới. Lâu lâu, nhân dịp nào đó thì đại chúng lại được cùng nhau ngồi quây quần quanh đống lửa đã được chuẩn bị sẵn ở giữa sân để thưởng thức tô bún nóng, hơi cay trong tiết trời se lạnh. Lại còn có bánh tráng quết nước tương nướng trên than hồng, ăn giòn tan và thơm. Rồi những bữa cơm picnic, chị em cùng nhau quây quần quanh một chiếc bàn tròn để cùng ăn, và kể chuyện đông tây cho nhau nghe. 
+
+{% image "article/sr-chuan-nghiem/Sc-Chuan-N-5_cut.JPG", "expandToRightBorder" %}
 
 Sân Chim cũng có một cái xích đu đặt dưới gốc cây đoàn đã nhiều tuổi, đứng khiêm tốn ở góc sân nhưng cho nhiều bóng mát. Tôi thích nhất là những buổi trưa trong khóa tu mùa Hè. Sau khi đi quán niệm từ xóm khác về, tôi chưa về phòng liền mà vào tủ đá của đại chúng lấy một cây kem (tôi thích loại kem đá, nhiều màu sắc) rồi ngồi xích đu, nhâm nhi cây kem mát lạnh. Ăn mà ăn rất từ từ vì sợ cây kem đó hết. Viết đến đây tôi thấy thèm kem quá chừng. Bây giờ tôi đang được ở xứ lạnh thì lại ăn kem không được vì ăn vào là bị ho. Tôi đành cất những kỷ niệm tuổi thơ vào trong ký ức. 
 
@@ -31,9 +31,9 @@ Tôi cúi đầu, chắp tay xá Sư Ông mà không suy nghĩ gì cả vì tôi
 
 Sau bữa cơm trưa, các sư con đi theo sau Sư Ông cả một hàng dài, tiễn Sư Ông ra xe về lại Sơn Cốc. Quý sư cô, chị em chúng tôi chẳng ai nói với ai câu nào nhưng tôi biết là chúng tôi đều mang chung một tâm niệm là mong Sư Ông có thêm nhiều sức khỏe. 
 
-## Hồ sen
+{% image "article/sr-chuan-nghiem/su-co-Chuan-N.jpg", "expandToLeftBorder" %}
 
-{% image "article/sr-chuan-nghiem/su-co-Chuan-N.jpg" %}
+## Hồ sen
 
 Một điều đặc biệt ở Làng là xóm nào cũng có hồ sen, và tôi thấy hồ sen nào cũng có hình trái tim! Xóm Thượng thì đặc biệt hơn vì có hai hồ sen. Cứ hè về là xóm nào cũng có sen thơm dâng Bụt. Thiền sinh về Làng thì vô cùng hạnh phúc vì được ngắm hoa sen ngay từ tuần đầu tiên của khóa tu mùa Hè. Sen nở nhiều, vậy là có trà ướp sen. Ở tận EIAB nhưng tôi cũng nhận được trà sen từ Làng. Thưởng thức từng ly trà thơm ngát, tôi biết ơn huynh đệ thật nhiều.
 
