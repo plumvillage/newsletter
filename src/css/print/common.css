@@ -35,6 +35,7 @@ body {
     /* bleed: var(--bleed); */
     @footnote {
         padding-top: 8pt;
+        color: rgb(94, 94, 94);
         float: bottom;
     }
 }
@@ -717,6 +718,7 @@ html:lang(vi) img#articlebr-troi-thien-chi5brot {
 }
 
 
+
 .article-ngay-tuyet-nho-thay {
     columns: 1 !important;
     width: 134mm;
@@ -729,4 +731,8 @@ html:lang(vi) img#articlebr-troi-thien-chi5brot {
 .PAGE-OF-article-ngay-tuyet-nho-thay .pagedjs_footnote_area {
     /* border-top: 2px solid grey; */
     margin-left: 23mm;
+}
+
+.article-snow-falling-autumn {
+    columns: 1 !important;
 }

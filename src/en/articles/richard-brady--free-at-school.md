@@ -3,15 +3,17 @@ title: Free at School
 author: Richard Brady
 ---
 
-<p class="editors-preface">Richard (True Dharma Bridge) is a retired high school math teacher, and a lay Dharma teacher in the Plum Village tradition. He is also a retreat leader, writer, educational consultant, and coordinator of the Wake Up Schools Level II Program in North America and he recently wrote a book titled “Walking the Teacher’s Path with Mindfulness - Stories for Reflection and Action”. This is an excerpt from a longer interview of Richard conducted by Kaira Jewel Lingo in August 2021, hosted by Wake Up Schools, Plum Village. Full interview at <a href="http://youtu.be/o68kYh2N_U4">youtu.be/o68kYh2N_U4</a></p>
+<p class="editors-preface">Richard (True Dharma Bridge) is a retired high school math teacher, and a lay Dharma teacher in the Plum Village tradition. He is also a retreat leader, writer, educational consultant, and coordinator of the Wake Up Schools Level II Program in North America and he recently wrote a book titled “Walking the Teacher’s Path with Mindfulness - Stories for Reflection and Action”<span class="note">Book cover photo from Educators retreat in Avalokita Centre, Italy</span>. This is an excerpt from a longer interview of Richard conducted by Kaira Jewel Lingo in August 2021, hosted by Wake Up Schools, Plum Village. Full interview at <a href="http://youtu.be/o68kYh2N_U4">youtu.be/o68kYh2N_U4</a></p>
 
-{% image "article/richard-brady/R-and-KJ-at-Centro-Avalokita-2015.jpg" %}
+{% image "article/richard-brady/Educators retreat in Italy - Avalokita centre.1-edited.jpg" %}
 
-## Finding the Path of Mindfulness 
+## Finding the Path of Mindfulness
 
 ***Can you tell us some stories about how you found the path of mindfulness and how it has changed you?***
 
 In 1987 I found Thay’s book *The Miracle of Mindfulness* and started reading it. When I read the first story, about how to have unlimited time for yourself, I realized I wanted to bring this book into my math classes and read it to my students. I was certain they would get much benefit from it. The students have so much work and there is so much pressure on them that having unlimited time for themselves would be the greatest gift I could possibly give them.
+
+{% image "article/richard-brady/R-and-KJ-at-Centro-Avalokita-2015_crop.jpg" %}
 
 Everyday I began math class reading from the book. When I finished, my students said they would like another book, so I read *The Sun, My Heart*, which was kind of the sequel. For me it was like reading science fiction. I didn’t know anyone who lived their life the way Thay described, and I didn’t know how one could go about beginning to live that way. At the end of the year, the seniors went off to do their special projects and came back to report on them. I was touched by one of the seniors who reported on his two weeks at a zen center in Washington, DC, where he went every day to meditate and to help out. He returned to school so invigorated; he was just beaming. The audience had an opportunity for a Q&A about his report. A student asked, “Chris, I can see that your life has been changed by your experience and that you spent a lot of time sitting on a cushion. Can you tell us any other way in which your life is different?” Chris thought for a minute and then replied, “There are many ways my life has been affected by my mindfulness practice. Most of them are very subtle and difficult to put into words, but I can tell you that I am less angry.” When I heard this, I thought, “Here is my teacher!” And I said to Chris, “I need to do what you’ve been doing. I need to begin a meditation practice.”
 
@@ -53,6 +55,8 @@ It seemed to me that I was much more successful in my math classes at giving stu
 Before taking tests, I invited students to do five minutes of meditation. The first half of the meditation focused on how you were feeling and what you were thinking as you went into the test. As there may have been a number of students who were not feeling comfortable or confident, I wanted to give them the message that there was nothing wrong with those feelings. They were completely understandable in light of the amount of studying they’d done or how they did on their last test. My message was, “It’s okay; it’s not something that needs to take over your life for the next 45 minutes.”
 
 Next we would turn our attention to something mathematical we had done in our life that we felt proud of or happy about. It might be when we learned to count to 10, solved a hard problem, or finally understood a difficult concept. We closed our eyes, and sat with that feeling, knowing that we have in us many positive experiences with math which are there even if we also have feelings of concern right now. If during the test they reached a point where they started to blank out or something similar, I asked them to just close their eyes and go back to that moment that they had thought of earlier when they felt very happy with mathematics and their relationship to it.
+
+{% image "article/richard-brady/53beedc0-2482-4ae6-949b-d5ab58b60333-1365x1024-edited.jpg" %}
 
 ## The Aspiration to Help Teachers 
 
