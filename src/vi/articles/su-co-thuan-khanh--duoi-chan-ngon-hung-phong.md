@@ -55,4 +55,6 @@ Nụ cười nở trên tảng rêu ngàn năm tuổi<br/>
 Đến vô cùng<br/>
 Thơm một cõi Phương Khê.</p></div>
 
+{% image "article/sr-thuan-khanh/IMG5032q50.jpg" %}
+
 Có mặt với Phương Khê, tôi sẽ chẳng bao giờ cần phải lớn lên. Ở Phương Khê có nắng, có mưa, có cây, có suối, có đá, có Thầy và có cả rừng áo nâu. Phương Khê đang cất giữ bao nhiêu là kỷ niệm tình thầy trò, bao nhiêu là niềm thương, tiếng cười, tâm nguyện. Phương Khê còn cất giữ những bước chân tự do và hơi thở an lành của Thầy để trao tặng và gửi gắm gia tài cho các con. Tôi biết Thầy ở đâu thì Phương Khê ở đó, tôi ở đâu thì Phương Khê ở đó, sư em ở đâu thì Phương Khê ở đó. Những lúc ở xa Phương Khê về mặt địa lý, tôi cũng đã nuôi Phương Khê như vậy trong lòng.
