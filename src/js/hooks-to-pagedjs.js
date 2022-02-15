@@ -1,3 +1,15 @@
+function addClassToPageDIV(e, className) {
+    let i = 0
+    while (e && i++ < 10) {
+        e = e.parentNode
+        if (e.tagName == "DIV" && e.classList.contains('pagedjs_page')) {
+            e.classList.add(className)
+            // console.log("added to:", e, className)
+            break;
+        }
+    }
+}
+
 // https://www.pagedjs.org/documentation/11-hooks/
 class MyHandler extends Paged.Handler {
     constructor(chunker, polisher, caller) {
@@ -10,24 +22,13 @@ class MyHandler extends Paged.Handler {
     A better way to achieve this would be pagedjs' named pages. However, named pages break the page after whichever element sets it up.
 
     Also, the image style need to be applied BEFORE the layout engine of pagedjs has placed the content, which is the reason why we do it on renderNode(), right when placing the element in question (not later).
-     */
-
+    */
     renderNode(node, sourceNode) {
         if (node.nodeName == "IMG" && node.id) {
-            let e = node
-            let i = 0
-            while (e && i++ < 10) {
-                e = e.parentNode
-                if (e.tagName == "DIV" && e.classList.contains('pagedjs_page')) {
-                    e.classList.add(`PAGE-OF-${node.id}`)
-                    // console.log("added to:", e)
-                    break;
-                }
-            }
+            addClassToPageDIV(node, `PAGE-OF-${node.id}`)
         }
     }
 
-    
     afterRendered(pages) {
         // for adding 🙢 to end of article
         document.querySelectorAll(".article-end").forEach((e) => {
@@ -37,6 +38,13 @@ class MyHandler extends Paged.Handler {
 
         document.querySelectorAll('.hasContent .pagedjs_margin-content').forEach(el => {
             el.innerHTML += `<datetime class="lastmod">${document.lastModified}</datetime>`;
+        });
+
+        document.querySelectorAll('article').forEach(e => {
+            let artName = e.classList.item(0)
+            if (artName && artName.match(/article-.*/g)) {
+                addClassToPageDIV(e, `PAGE-OF-${artName}`)
+            }
         });
 
         // add closing ” to blockquote (before <cite>, if it exists)

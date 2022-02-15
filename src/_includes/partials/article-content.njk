@@ -1,4 +1,4 @@
-<article>
+<article class="article-{{ title | slugify }}">
     {% set artCall = articleCalligraphies(fileSlug) %}
     {%- if artCall.hasCalligraphy %}
         <h1 id="{{ title | slugify }}" class="chapter calligraphyTitle">

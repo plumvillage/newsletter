@@ -46,4 +46,3 @@ You have said that, “Time is stilled in eternity, where love and the beloved a
 This is a legendary moment. 
 
 This is a moment of continuation.
-

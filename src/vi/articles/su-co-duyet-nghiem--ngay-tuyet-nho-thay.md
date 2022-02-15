@@ -33,9 +33,9 @@ Cúi đầu thành tâm đảnh lễ
 Muôn vạn cuộc đời đã đổi thay  
 từ lời dạy:
 
-> Mỗi lần ngã là một lần đứng dậy.  
-> Để trưởng thành  
-> Để cuộc đời nhường một bước đi lên<cite>Dựng tượng tuổi thơ - Thơ Thầy</cite>
+Mỗi lần ngã là một lần đứng dậy.  
+Để trưởng thành  
+Để cuộc đời nhường một bước đi lên<span class="note">Dựng tượng tuổi thơ - Thơ Thầy</span>
 
 Đừng tìm kiếm hạnh phúc xa vời giữa cuộc sống vô thường…   
 Hãy sống trọn vẹn từng phút, từng giây  

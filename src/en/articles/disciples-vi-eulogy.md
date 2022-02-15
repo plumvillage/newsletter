@@ -1,7 +1,8 @@
 ﻿---
 title: Eulogy
-author: Young nuns of Dieu Tram Nunnery
+author: Thay’s Disciples in Vietnam
 ---
+<!-- author: Young nuns of Dieu Tram Nunnery -->
 
 Dearly Beloved Thay,
 

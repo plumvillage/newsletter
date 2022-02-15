@@ -701,8 +701,6 @@ html:lang(vi) img#articlebr-troi-thien-chi5brot {
     float: none;
 }
 
-
-
 .PAGE-OF-articlebr-phap-linhCS21202110152RL0936-crop3 .pagedjs_footnote_area {
     text-align: right;
     color: var(--color-tower);
@@ -710,4 +708,25 @@ html:lang(vi) img#articlebr-troi-thien-chi5brot {
 }
 .PAGE-OF-articlebr-phap-linhCS21202110152RL0936-crop3 .pagedjs_footnote_area a {
     color: var(--color-tower) !important;
+}
+
+
+.PAGE-OF-articlebr-phap-luuEducators-Workshop-2017-18-group-photo-edit .pagedjs_footnote_area {
+    text-align: right;
+    bottom: -100mm;
+}
+
+
+.article-ngay-tuyet-nho-thay {
+    columns: 1 !important;
+    width: 134mm;
+    margin: 0 auto;
+}
+.article-ngay-tuyet-nho-thay p {
+    text-indent: 0;
+}
+
+.PAGE-OF-article-ngay-tuyet-nho-thay .pagedjs_footnote_area {
+    /* border-top: 2px solid grey; */
+    margin-left: 23mm;
 }
