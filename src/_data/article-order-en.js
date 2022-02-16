@@ -43,5 +43,6 @@ module.exports = ["su-ong--the-true-sangha",
 "sr-trang-mai-thon--collecting-gum-nuts",
 "sr-dao-nghiem-poems",
 "sr-quy-nghiem--meditation-songs",
+"sr-tri-nghiem--taking-stock",
 "ocean-vuong--letter",
 ]
