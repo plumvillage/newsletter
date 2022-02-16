@@ -1,5 +1,5 @@
 ﻿---
-title: You Have Seen the Path, Do Not Fear Anymore
+title: Walking the Path of Compassion
 author: Brother Chân Trời Đạo Bi
 ---
 
