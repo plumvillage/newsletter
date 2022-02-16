@@ -44,8 +44,7 @@ Sáng hôm đó, ngồi trong rừng trúc, Thầy dang hai cánh tay ra hai bê
 
 Thầy, trong tôi, mãi mãi vẫn là một ngọn hùng phong không tuổi cho tôi nương tựa, hướng về. Hễ lắng lòng thì sư em sẽ nghe thấy tiếng hải triều vẫn trầm hùng vang vọng. Ngọn hùng phong vẫn muôn đời còn đó, uy nghiêm, che chở, hùng anh.
 
-<div class="verse"><p>
-<b>Một buổi mai</b><br/>
+<div class="verse"><p>Một buổi mai<br/>
 Thức dậy<br/>
 Dưới chân ngọn hùng phong<br/>
 Đầu ngẩng lên đỉnh non cao vút<br/>

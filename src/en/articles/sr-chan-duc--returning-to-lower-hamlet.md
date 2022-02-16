@@ -58,7 +58,7 @@ I have been in Lower Hamlet for about twelve months now. I left Lower Hamlet in 
 
 I remember one time in the Lower Hamlet when I was a layperson and we were preparing to get in the car to go to visit *Fleurs de Cactus* in Paris. I had a deep aspiration to walk just like Thay walked, so I tried it out for myself while waiting for others to arrive. Maybe at the time it was more outer form than content, but over the years, the peace and joy that come from walking like this are authentic. Thay’s steps in Plum Village are what have made the atmosphere of Plum Village sacred, and of course we all want to keep this sacred atmosphere alive by continuing to walk mindfully.
 
-{% image "article/sr-chan-duc/Sr.ChanDuc.3-edited.JPG" %}
+{% image "article/sr-chan-duc/Sr.ChanDuc.3-edited2.JPG" %}
 
 ## Letter to Thay, October 2021
 
@@ -66,19 +66,13 @@ Beloved and respected Thay,
 
 Last night at about 04.00 am I had a dream. Our international monastic sangha had gathered at a train station. Hundreds of us were all there together. Sister Tu Nghiem (sister Eleni) and I for some reason did not have a ticket. I felt it was urgent that we buy a ticket without delay. We went to the ticket office but it was closed. Then the man who sold tickets appeared. He was very kind and agreed to sell us tickets immediately. I worried that I did not have any money but the man said he wanted to give us a ticket for two for the price of a ticket for one. I had exactly the right amount of money. With our tickets we went outside to join the sangha which was going up the steps to the train together. On seeing the sangha i could not believe how beautiful it was: even more beautiful than the wild-goose sangha that migrates over France in the autumn and spring in a stunning V formation.
 
-When I woke up I thought, “I have seen Thay. The sangha is Thay; Thay’s lifetime creation.”
-
-I remembered the times I accompanied Thay on tours to China or Korea. We visited ancient monasteries with old attic libraries full of wood blocks from which the sutras were printed. On two separate occasions Thay had pointed out to me the gatha from the Vajracchedika Sutra:
+When I woke up I thought, “I have seen Thay. The sangha is Thay; Thay’s lifetime creation.” I remembered the times I accompanied Thay on tours to China or Korea. We visited ancient monasteries with old attic libraries full of wood blocks from which the sutras were printed. On two separate occasions Thay had pointed out to me the gatha from the Vajracchedika Sutra:
 
 > Someone who looks for me in form  
 > Or seeks me in sound  
 > Is caught in an abstraction  
 > And will not find me.
 
-For many years I have been caught in that abstraction, that misapprehension. This morning I have seen a much greater Thay.
+For many years I have been caught in that abstraction, that misapprehension. This morning I have seen a much greater Thay. Sometimes as an elder sister I need to be a teacher for my younger siblings. I need to practice signlessness in looking at them too and realise that Thay is in each of them.
 
-Sometimes as an elder sister I need to be a teacher for my younger siblings. I need to practice signlessness in looking at them too and realise that Thay is in each of them.
-
-Touching the earth in boundless gratitude,
-
-your child chan duc.
+Touching the earth in boundless gratitude, your child chan duc.
