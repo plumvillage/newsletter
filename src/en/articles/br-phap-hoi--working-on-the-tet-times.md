@@ -1,17 +1,17 @@
 ﻿---
-title: Working on the “Tet Times”
+title: Working on “The Tet Times”
 author: Brother Chân Pháp Hội
 ---
 
 <p class="editors-preface">Brother Phap Hoi has been connected with the Plum Village newsletter for many years. This year’s newsletter editorial team had the chance to sit down with him to listen to him recount some memorable moments. The following is an excerpt from the interview.</p>
 
-## Memorable Moments
+## Memorable moments
 
 The *Plum Village newsletter* editorial team works to create a plate of spiritual food to offer to the world. Many people respect Thay, wish to learn Thay’s teachings, and at the same time are interested in knowing about the sangha’s activities during the past year. Thay always placed great importance on this spiritual food. In fact, Thay was the chief editor, and a very careful and serious one, of the annual newsletter for many years. Along the way, Thay has shown the brothers and sisters many things about how to create this kind of spiritual food.
 
-I was fortunate enough to be involved with the newsletter from early on. After ordaining in 1997, I followed the footsteps of Br. Phap An, Phap Kham, and other elder sisters and brothers in assisting Thay with the 1998 newsletter. I felt that Thay expended a great deal of energy and spirit on each article, editing word-by-word and phrase-by-phrase clearly. This helped us to understand the newsletter’s essence and how to express the Plum Village style.
+I was fortunate enough to be involved with the newsletter from early on. After ordaining in 1997, I followed in the footsteps of Brothers Phap An, Phap Kham, and other elder sisters and brothers in assisting Thay with the 1998 newsletter. I felt that Thay expended a great deal of energy and spirit on each article, editing word-by-word and phrase-by-phrase clearly. This helped us to understand the newsletter’s essence and how to express the Plum Village style.
 
-Thay was very happy that the newsletter only published positive, high quality news and was not interspersed with advertising. The content came not only from Thay, but also from the insights of the practice of his monastic and lay disciples. Therefore, the newsletter expressed, from many different angles, insights on happiness in the practice, how the sangha was contributing to the world, and also contained archival material; Accounts of Thay’s teaching tours, or the first steps on a new land to continue the spiritual ancestors there, or descriptions of new ways of practice being applied… they were all recorded. These later became key elements in the formation, development and history of Plum Village.
+Thay was very happy that the newsletter only published positive, high quality news and was not interspersed with advertising. The content came not only from Thay, but also from the insights of the practice of his monastic and lay disciples. Therefore, the newsletter expressed, from many different angles, insights on happiness in the practice, how the sangha was contributing to the world, and also contained archival material; Accounts of Thay’s teaching tours, or the first steps on a new land to continue the spiritual ancestors there, or descriptions of new ways of applying the practice … they were all recorded. These later became key elements in documenting the formation, development and history of Plum Village.
 
 The publication of the newsletter has become a tradition that many people look forward to and is lovingly called by its familiar name **“The Tet Times”**.<span class="note"><i>Tet</i> is the Vietnamese word for the Lunar New Year celebrated by many Asian and international communities around the world.</span> Thay hoped for it to be a gift for the Lunar New Year, so we usually published it before Tet, in time to print and post to everyone. The editorial team therefore was also under time pressure.
 
