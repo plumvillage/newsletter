@@ -4,7 +4,7 @@ author: Sister Chân Diệu Nghiêm (Jina) & Sister Chân Từ Nghiêm (Eleni)
 ---
 
 <p class="editors-preface">Sister Dieu Nghiem (also known as Sr. Jina) arrived in Plum Village in 1990. She ordained as a monastic in Japan in the Soto Zen tradition. Sr. Jina was the abbess of Lower Hamlet from 1998 to 2014. Sister Tu Nghiem (also known as Sr. Eleni) first came from America as a lay friend in 1990 and ordained in 1991.</br>
-We asked our beloved elders to share some of their memories of the early days of Plum Village with us, and about the beginnings of the Plum Village basic practices, and about their lives in the fledgling community.</p>
+We asked our beloved elders to share some of their memories of the early days of Plum Village with us, and about the beginnings of the Plum Village basic practices, and their lives in the fledgling community.</p>
 
 ## Life in community
 
