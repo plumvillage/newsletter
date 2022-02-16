@@ -363,6 +363,10 @@ article blockquote {
         transparent
     ) 1 100%; */
 }
+article blockquote i {
+    font-style: normal;
+}
+
 article blockquote p:first-child::before {
     position: absolute;
     line-height: 20pt;
@@ -810,4 +814,40 @@ img#articlefor-poemsorchid-light2 {
     right: calc((var(--pagedjs-margin-left) + var(--bleed))*-2);
     width: 148mm;
     bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed)) * -1);
+}
+
+img#articlebr-nguyen-tinhBrNguyenTinh1-edit {
+    display: block;
+    float: none;
+    width: 70%;
+    column-span: all;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#poem-true-source {
+    width: 90mm;
+}
+
+.PAGE-OF-articlesr-thuan-khanhtrang-tuyet-hoa-illustration-pbieu-article-1-composition-light2 p {
+    text-shadow:
+        1px 0 1px white,
+        0px 0 3px white,
+        0px 0 8px white,
+        0px 0 15px white,
+        0px 0 20px white
+    ;
+}
+
+#poem-mighty-mountain {
+    position: absolute;
+    bottom: -2mm;
+    left: 37mm;
+    font-size: 180%;
+    font-weight: 400;
+    line-height: 140%;
+    /* width: 50%; */
+    /* column-span: all; */
+    /* margin-left: auto; */
+    /* margin-right: auto; */
 }

@@ -3,6 +3,8 @@ title: A Thousand Years of Returning
 author: Brother Chân Nguyên Tịnh
 ---
 
+{% image "article/br-nguyen-tinh/BrNguyenTinh1-edit.jpg" %}
+
 <p class="editors-preface">Brother Nguyên Tịnh was ordained in the year 2000 in Vietnam. In 2014, he decided to join the Plum Village sangha in Upper Hamlet. He is one of our Senior Dharma Teachers and is much loved for his gentle, humble bearing and for his love of poetry. In recent years he has spent much of his time as an attendant to Thay.</p>
 
 ***Excerpts from a Practice Journal***
@@ -16,8 +18,6 @@ The sun was rising. I sat by a tree next to *Phương Khê* - the “fragrant cr
 In recent days my mind has been filled with desolation, as if I had just set foot on a cold, deserted island, so that I could face myself alone and find the answers for my life. Somewhere in me was a flicker of guilt as I seemed indifferent to all I had. Did I really need to choose my own path and leave behind all the hope and trust that so many had bestowed on me and had wished for me to fulfill? Images of Kim Sơn Temple, where I ordained and studied for 14 years, kept coming back like howling waves tormenting my five skandhas. Phrases I had heard before and thought had nothing to do with me were now arising: Have I left behind my teacher and ancestral teachers? Did I turn my back on my roots? Have I taken for granted the relationships in my life before this? Should I go back to my old life? 
 
 In those days, during sitting meditation, these thoughts continued to emerge, rocking me and confining me in an invisible room. I called on Thay, placing my attention on his solid, peaceful, and courageous energy that was protecting me.
-
-{% image "article/br-nguyen-tinh/BrNguyenTinh1-edit.jpg" %}
 
 In that same moment the image of a carp leaping the dragon gate, majestic yet unmistakably lonely, suddenly appeared in my mind. The carp leaps with all its might in order to transform into a dragon. That leap can give it a sense of loss as it leaves behind the lake, the rocks, the moss, and all the things that are familiar to the life of a carp. This loss is also a turning point. If it can leap to the other side and become a dragon, the carp of old would see that it has really lost nothing. Although there is no longer the need for moss or rock holes to make a home or for old familiar things, the carp of old does not look down on them. It still occasionally visits the old places and finds them even more beautiful, seen through the eyes of a dragon.
 
@@ -61,21 +61,15 @@ Something about the dream shook my five skandhas fiercely. I felt like the poor,
 
 ## The Call to Enter the Stream
 
-{% image "article/br-nguyen-tinh/IMG_2341-edit.JPG", "img-small" %}
-
 One afternoon I was walking from Son Ha to the Upper Hamlet. The horizon was ablaze with the changing colours and falling leaves of the forest, and golden leaves carpeted the path. I saw a small tuft of grass and some new leaves that I had not noticed before though I have trodden this path countless times. Suddenly, I understood why Thay taught us again and again about breathing and walking, about the beauty of the legendary path, or sang praises of the purple bamboo and the blue sky, or showed us the miracle of a single leaf.
 
 When I used to listen to his Dharma talks or read his books or hear stories about Thay from my brothers, I often wondered - *What is it about those things that Thay never tires of reminding his disciples to notice?* That day, seeing the grass and new leaves on a well-trodden path, I smiled. I realized that I had found in my own eyes the beauty and mystery of these seemingly ordinary things. Having seen it once, I can offer myself once again that way of looking. These simple discoveries have nurtured my joy of practicing, nurtured my gratitude for Thay's insights, which have been adapted to the times, and nurtured my faith in the sangha's ability to receive and transmit the ceaseless flow of the spiritual river.
 
-<div class="verse"><p>Con đường lá<br/>
-Trải ngàn thu<br/>
-Cánh mai nở<br/>
-Thoảng hương trầm<br/>
-Thơm mỗi nét cổ thư.</p>
-
-<p>A thousand autumns pave<br/>
+<div class="verse"><p>A thousand autumns pave<br/>
 the leaf strewn path.<br/>
 One plum branch blossoms,<br/>
 the fragrance of sandalwood incense<br/>
 infuses each ancient brush stroke.<br/>
 </p></div>
+
+{% image "article/br-nguyen-tinh/IMG_2341-edit.JPG" %}

@@ -25,6 +25,8 @@ Thay led us to a small room surrounded by stacks of pages from books. A few book
 
 After the introduction, Thay handed us two books: *Entry into Meditation* and *Collection of Poems*, and said, “My child, this is a gift for you. I bound these books myself.” My eyes opened wide and my heart brimmed with joy. With both hands I received the books while my eyes remained fixed on Thay. Seeing me thus, Thay smiled. He turned, walked out the door and continued to lead us to explore the nooks and crannies of this old and strange building. Then he brought us outside to the Hermitage grounds to visit the bamboo forest and the creek he had named “Fragrant Creek” (“Phuong Khe” in Vietnamese).
 
+{% image "article/sr-thuan-khanh/IMG_1671ec.JPG", "expandToLeftBorder" %}
+
 ## Bringing home the children
 
 The Fragrant Creek is a quiet, gentle creek that flows along the grounds of the Hermitage. Thay had planted a bamboo forest by it. I don’t know when he did that, but I do know that he called it the “bamboo forest”. I recall a passage in a letter that Thay had written to his students who were working at the School of Youths for Social Services. I felt that it was the most profound wish Thay had for building the community:
@@ -35,7 +37,7 @@ From then on, the Hermitage and Fragrant Creek became a sacred place for me. Lat
 
 One morning, Thay led Sr. Tinh Hang and I on walking meditation around the Hermitage. Afterwards, we sat down on the low rocks in the bamboo forest by the creek. By that time I could begin to call my teacher “Thay”, after he told me many times that he wished for me to call him “Thay”. Teacher and students did not say much. The creek flowed by, tinkling with joy and peace as if to bring home its tired and itinerant children. Sitting at Thay’s feet amidst the bamboo and by the creek, I saw myself sitting at the foot of an ancient, majestic mountain. Thay is that majestic mountain, calling back to me my own immense space.
 
-<div class="verse"><p>Beings all over the Earth<br/>
+<div class="verse" id="poem-true-source"><p>Beings all over the Earth<br/>
 are struggling to live.<br/>
 I aspire to practice deeply<br/>
 so all may have enough to eat.</p>
@@ -43,7 +45,7 @@ so all may have enough to eat.</p>
 <p>Let us go together to climb that nameless mountain,<br/>
 let us sit on the ageless blue-green stone,<br/>
 quietly watching time weave the skilken thread<br/>
-that creates the dimension called space.<cite>Excerpt from Thay’s poem <i>True Source</i></cite></p></div>
+that creates the dimension called space.<cite>Excerpt from Thay’s poem <b>True Source</b></cite></p></div>
 
 After that, every time I returned to the Hermitage, I could hear the call of the sweet and majestic creek in my heart. A few younger sisters have asked me, why is the creek given such a special name - “Fragrant Creek”? It seems rather tiny. I smiled, not knowing how to answer. What they said was true from the phenomenological perspective. But in those moments, the image of a mighty mountain touching the sky and clouds, and the image of Thay - the mighty mountain of my life, with his serene smile and leisurely steps walking along the creek always arose in my mind.
 
@@ -65,7 +67,7 @@ Since then, I have never gone to the Hermitage wearing an old robe to meet Thay.
 
 In me, Thay will forever be the majestic, ageless mountain that I can lean on and turn to. Whenever you listen to your heart, you will hear the deep roar of the rising tide. The majestic mountain is there for eons, mighty, protective, and heroic.
 
-<div class="verse"><p>One morning<br/>
+<div class="verse" id="poem-mighty-mountain"><p>One morning<br/>
 waking up,<br/>
 I stood at the foot of the mighty mountain.<br/>
 My eyes rose to its peak,<br/>
@@ -74,5 +76,7 @@ smiles blooming on the thousand year old moss.<br/>
 Warm and inviting,<br/>
 towards infinity,<br/>
 fragrant is the sacred creek.<p></div>
+
+{% image "article/sr-thuan-khanh/trang tuyet hoa illustration pbieu article 1-composition-light2.webp" %}
 
 Being there with the Fragrant Creek, I will never need to grow up. At the Fragrant Creek, there is sunshine, rain, trees, stream, rocks, Thay, and the entire forest of brown robes. The Fragrant Creek is keeping alive so many memories of the love between teacher and student, the care, the laughter, and the heartfelt vows. The Fragrant Creek is also keeping alive the free steps and peaceful breaths of Thay, so this heritage can be given and entrusted to his monastic children. I know that wherever Thay is, Fragrant Creek is there. Wherever I am, the Fragrant Creek is there. In the moments when I am far from the Fragrant Creek geographically, I have nourished it in my heart like this.
