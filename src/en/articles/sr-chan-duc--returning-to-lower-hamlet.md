@@ -3,7 +3,9 @@ title: Returning to Lower Hamlet
 author: Sister Chân Đức
 ---
 
-I arrived in Plum Village on the first of July 1986. A lay friend driving an old yellow Quatrelle picked me up at Sainte-Foy-La-Grande station. Three months earlier when Thay was in England at the invitation of myself and some friends at the Buddhist Peace Fellowship, he had suggested I come to Plum Village for a month. When I arrived in Upper Hamlet, Thay was sitting in a hammock, which was always slung between two trees opposite the *Stone Building*. He was wearing grey *ao vat ho*<span class="note">Traditional Vietnamese short robes worn by monastic practitioners</span> because it was a very hot day.
+## Here is India, India is here
+
+I arrived in Plum Village on the first of July, 1986. A lay friend driving an old yellow Quatrelle picked me up at Sainte-Foy-La-Grande station. Three months earlier when Thay was in England at the invitation of myself and some friends at the Buddhist Peace Fellowship, he had suggested I come to Plum Village for a month. When I arrived in Upper Hamlet, Thay was sitting in a hammock, which was always slung between two trees opposite the Stone Building. He was wearing a grey *ao vat ho*<span class="note">Traditional Vietnamese short robes worn by monastic practitioners</span> because it was a very hot day.
 
 When I joined my palms to greet Thay, he said: “Here is India. India is Here.” I did not understand and I thought Thay meant: “The weather is very hot here, like in India.” Later, on reflection, I realised Thay meant something like: “My child, this is your spiritual home. You do not need to go to India to find your home.” Thay told me later that this was a quotation from a poem by the Vietnamese meditation master Vô Ngôn Thông of the 9<sup>th</sup> Century<span class="note">Tây Thiên thử độ, thử độ Tây Thiên (<span lang="zh">西天此度，此度西天  - 無言通禪師</span>)</span>.
 
