@@ -226,6 +226,10 @@ a {
     color: #000;
 }
 
+.note a {
+    color: rgb(94, 94, 94) !important;
+}
+
 /* add page number to cross references */
 /* a.xref::after {
     content: " (page " target-counter(attr(href, url), page) ")";
@@ -712,10 +716,9 @@ html:lang(vi) img#articlebr-troi-thien-chi5brot {
 
 
 .PAGE-OF-articlebr-phap-luuEducators-Workshop-2017-18-group-photo-edit .pagedjs_footnote_area {
-    text-align: right;
-    bottom: -100mm;
+    /* text-align: right;
+    bottom: -100mm; */
 }
-
 
 
 .article-ngay-tuyet-nho-thay {
@@ -829,7 +832,7 @@ img#articlebr-nguyen-tinhBrNguyenTinh1-edit {
     width: 90mm;
 }
 
-.PAGE-OF-articlesr-thuan-khanhtrang-tuyet-hoa-illustration-pbieu-article-1-composition-light2 p {
+.PAGE-OF-articlesr-thuan-khanhtrang-tuyet-hoa-illustration-pbieu-article-1-composition-light3 p {
     text-shadow:
         1px 0 1px white,
         0px 0 3px white,
@@ -850,4 +853,16 @@ img#articlebr-nguyen-tinhBrNguyenTinh1-edit {
     /* column-span: all; */
     /* margin-left: auto; */
     /* margin-right: auto; */
+}
+
+.PAGE-OF-articlesr-thoai-nghiemDSC1153e .pagedjs_footnote_area {
+    bottom: -70mm !important;
+    text-align: right;
+}
+.PAGE-OF-articlesr-thoai-nghiemDSC1153e .pagedjs_footnote_area span {
+    color: #d7d7d7 !important;
+    text-shadow:
+        1px 0 2px black,
+        0px 0 3px black
+    ;
 }

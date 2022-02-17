@@ -27,8 +27,6 @@ Phương Khê là suối thơm. Có một con suối đơn giản hiền hòa ch
 
 Hôm đó là buổi sáng. Thầy dẫn tôi và sư chị Tịnh Hằng thiền hành quanh Sơn Cốc, rồi thầy trò cùng ngồi trên những mô đá thấp trong rừng trúc cạnh bờ suối. Đó là thời gian tôi bắt đầu gọi được tiếng Thầy, sau rất nhiều lần Sư Ông dạy tôi rằng Người muốn tôi gọi Người là Thầy. Thầy trò không nói gì nhiều, tiếng suối đổ như reo vui, như an lành, như đón về những đứa con lang thang mệt mỏi. Ngồi như thế dưới chân Thầy bên bờ suối, trong rừng trúc, tôi thấy mình ngồi dưới chân ngọn hùng phong cổ xưa hùng vĩ. Thầy chính là ngọn hùng phong đó, gọi về trong tôi sự khoảng khoát bao la của chính mình.
 
-{% image "article/sr-thuan-khanh/IMG_9250-light.jpeg" %}
-
 <div class="verse" id="verse-uyen-nguyen"><p>Hãy đến cùng tôi dưới chân hùng phong không tên gọi<br/>
 Ngồi trên những tảng đá xanh không tuổi<br/>
 Lặng nhìn thời gian se từng sợi tơ óng ánh<br/>
