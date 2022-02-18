@@ -35,7 +35,7 @@ body {
     /* bleed: var(--bleed); */
     @footnote {
         padding-top: 8pt;
-        color: rgb(94, 94, 94);
+        color: var(--color-footnote);
         float: bottom;
     }
 }
@@ -223,11 +223,12 @@ ul.toc li {
 
 a {
     text-decoration: none;
+}
+article a {
     color: #000;
 }
-
-.note a {
-    color: rgb(94, 94, 94) !important;
+.pagedjs_footnote_area a {
+    color: var(--color-footnote) !important;
 }
 
 /* add page number to cross references */
@@ -260,6 +261,8 @@ h1 {
     font-feature-settings: 'lnum';
 }
 
+/* https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Mastering_margin_collapsing
+-> Note that the margins of floating and absolutely positioned elements never collapse. */
 article img {
     display: block; /* block eliminates space around image */
     float: right; /* makes paragraph text float/break around it */
@@ -268,6 +271,9 @@ article img {
     margin-bottom: 11pt;
 }
 
+img.noFloat {
+    float: none !important;
+}
 
 /* will also fill 5mm bleed */
 img.expandToRightBorder,
@@ -278,7 +284,11 @@ img.expandToLeftBorder
     max-width: none !important;
 }
 img.expandToRightBorder {
+    /* because float is normally: right */
     right: -20%;
+}
+img.expandToRightBorder.noFloat {
+    right: 0 !important;
 }
 /* expandToLeftBorder is already left-bound */
 
@@ -504,7 +514,6 @@ sup { /* superscript */
 
 .note::footnote-marker {
     font-weight: bold;
-    border-top: 0.6pt solid black;
     list-style-position: outside;
 }
 
@@ -605,6 +614,15 @@ article ul li::before {
     content: "• ";
     color: var(--color-bark-light);
 }
+.divider.page {
+    display: block;
+    column-span: all;
+    width: 40%;
+    margin-top: 17pt;
+    margin-bottom: 25pt;
+    margin-left: auto;
+    margin-right: auto;
+}
 
 
 
@@ -651,12 +669,6 @@ h1#the-true-sangha {
     padding-left: 60mm;
 }
 
-img#articlebr-troi-thien-chi21767317541562549611291283397034335052574932n {
-    float: left;
-    margin-right: 6pt;
-    width: 60%;
-}
-
 h1#the-true-sangha {
     margin-top: 75mm;
 }
@@ -670,6 +682,18 @@ h1#the-true-sangha + .author, h1#tang-than-dich-thuc + .author {
     text-shadow: white 1px 0 5px
 }
 
+html:lang(vi) img#articlebr-troi-thien-chi5brot {
+    width: 83%;
+    left: 9%;
+    position: relative;
+    float: none;
+}
+
+img#articlebr-troi-thien-chi21767317541562549611291283397034335052574932n{
+    float: left;
+    margin-right: 6pt;
+    width: 60%;
+}
 
 img#articlebr-troi-bao-tangScreenshot-edit,
 img#articlebr-troi-dao-quangIMG1129,
@@ -698,27 +722,46 @@ img#articlebr-troi-bao-tangScreenshot-edit {
     margin-bottom: 0;
 }
 
-html:lang(vi) img#articlebr-troi-thien-chi5brot {
-    width: 83%;
-    left: 9%;
-    position: relative;
+img#articlefor-poemsseparator1 {
+    display: block;
+    column-span: all;
     float: none;
+    width: 10%;
+    margin-top: 20pt;
+    margin-bottom: 20pt;
+    margin-left: auto;
+    margin-right: auto;
+}
+img#articlefor-poemsorchid-light2 {
+    margin: 0;
+    max-width: none !important;
+    position: absolute;
+    z-index: -1;
+    right: calc((var(--pagedjs-margin-left) + var(--bleed))*-2);
+    width: 148mm;
+    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed)) * -1);
 }
 
-.PAGE-OF-articlebr-phap-linhCS21202110152RL0936-crop3 .pagedjs_footnote_area {
-    text-align: right;
-    color: var(--color-tower);
-    bottom: -116mm;
+img#articlebr-nguyen-tinhBrNguyenTinh1-edit {
+    display: block;
+    float: none;
+    width: 70%;
+    column-span: all;
+    margin-left: auto;
+    margin-right: auto;
 }
-.PAGE-OF-articlebr-phap-linhCS21202110152RL0936-crop3 .pagedjs_footnote_area a {
-    color: var(--color-tower) !important;
+
+img#articlesr-chan-khong-letter-to-ThaySCCK-with-MLK-and-TNH-statue-high-quality-e-crop {
+    display: block;
+    float: none;
+    width: 63%;
+    column-span: all;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0;
 }
 
 
-.PAGE-OF-articlebr-phap-luuEducators-Workshop-2017-18-group-photo-edit .pagedjs_footnote_area {
-    /* text-align: right;
-    bottom: -100mm; */
-}
 
 
 .article-ngay-tuyet-nho-thay {
@@ -773,26 +816,6 @@ img#articlebr-phap-an60e {
     margin-right: auto;
 }
 
-.divider.page {
-    display: block;
-    column-span: all;
-    width: 40%;
-    margin-top: 17pt;
-    margin-bottom: 25pt;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-img#articlefor-poemsseparator1 {
-    display: block;
-    column-span: all;
-    float: none;
-    width: 10%;
-    margin-top: 20pt;
-    margin-bottom: 20pt;
-    margin-left: auto;
-    margin-right: auto;
-}
 
 #poem-orchid {
     width: 50%;
@@ -809,37 +832,8 @@ img#articlefor-poemsseparator1 {
     display: none !important;
 }
 
-img#articlefor-poemsorchid-light2 {
-    margin: 0;
-    max-width: none !important;
-    position: absolute;
-    z-index: -1;
-    right: calc((var(--pagedjs-margin-left) + var(--bleed))*-2);
-    width: 148mm;
-    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed)) * -1);
-}
-
-img#articlebr-nguyen-tinhBrNguyenTinh1-edit {
-    display: block;
-    float: none;
-    width: 70%;
-    column-span: all;
-    margin-left: auto;
-    margin-right: auto;
-}
-
 #poem-true-source {
     width: 90mm;
-}
-
-.PAGE-OF-articlesr-thuan-khanhtrang-tuyet-hoa-illustration-pbieu-article-1-composition-light3 p {
-    text-shadow:
-        1px 0 1px white,
-        0px 0 3px white,
-        0px 0 8px white,
-        0px 0 15px white,
-        0px 0 20px white
-    ;
 }
 
 #poem-mighty-mountain {
@@ -855,12 +849,36 @@ img#articlebr-nguyen-tinhBrNguyenTinh1-edit {
     /* margin-right: auto; */
 }
 
-.PAGE-OF-articlesr-thoai-nghiemDSC1153e .pagedjs_footnote_area {
-    bottom: -70mm !important;
+
+
+.PAGE-OF-articlesr-thuan-khanhtrang-tuyet-hoa-illustration-pbieu-article-1-composition-light3 p {
+    text-shadow:
+        1px 0 1px white,
+        0px 0 3px white,
+        0px 0 8px white,
+        0px 0 15px white,
+        0px 0 20px white
+    ;
+}
+
+
+.PAGE-OF-articlebr-phap-linhCS21202110152RL0936-crop3 .pagedjs_footnote_area
+,.PAGE-OF-articlebr-phap-huuIMG2227e .pagedjs_footnote_area
+,.PAGE-OF-articlesr-thoai-nghiemDSC1153e .pagedjs_footnote_area
+{
+    position: absolute !important;
+    bottom: 4.5mm !important;
+    /* bottom: calc(var(--pagedjs-margin-bottom) - var(--pagedjs-footnotes-height)) !important; */
+    right: var(--pagedjs-margin-right);
     text-align: right;
 }
-.PAGE-OF-articlesr-thoai-nghiemDSC1153e .pagedjs_footnote_area span {
-    color: #d7d7d7 !important;
+
+.PAGE-OF-articlebr-phap-huuIMG2227e .pagedjs_footnote_area {
+    text-shadow:
+        0px 0 3px white
+    ;
+}
+.PAGE-OF-articlesr-thoai-nghiemDSC1153e .pagedjs_footnote_area {
     text-shadow:
         1px 0 2px black,
         0px 0 3px black

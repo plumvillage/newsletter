@@ -53,7 +53,7 @@ class MyHandler extends Paged.Handler {
         });
 
         // add closing ” to blockquote (before <cite>, if it exists)
-        document.querySelectorAll("blockquote p:last-child").forEach((e) => {
+        document.querySelectorAll("blockquote:not([data-split-to]) p:last-child").forEach((e) => {
             let c = e.querySelector("cite")
             if (c) {
                 e.insertBefore(document.createTextNode("”"), c)

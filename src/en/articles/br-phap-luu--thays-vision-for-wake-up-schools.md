@@ -62,16 +62,16 @@ Recently the work of Wake Up Schools was featured in a new evidence-based guide 
 
 ## Events Up to and During the Pandemic
 
-In January of 2019, Br. Phap Dung, Sr. Hiền Hạnh, Sr. Thanh Nghiêm, Br. Phap Luu, Sr. Thao Nghiem, Br. Bao Tang and Br. Pham Hanh brought Wake Up Schools to Uganda. Most of the 250 or so teachers were Catholic—they even held a Catholic mass every day during the retreat. This was a new environment for us because we're used to teaching in the more secular parts of the West. But there was really no obstacle. We went there to teach mindfulness, how to understand your mind: how do you get to know difficult emotions directly and understand what kind of nutriment gives rise to them. People there got that everyone needs this - it's a kind of teaching that every human being really needs to live happy and healthy lives. Now the teachers are bringing their experience of deep transformation back to their schools and sharing itas more compassionate teachers with their colleagues and students. This trip was filmed by Wouter Verhoeven of Evermind Media<span class="note">Photos kindly provided by Evermind Media</span> and is being made into a documentary.<a class="note" href="https://evermind.media/happy-teachers-change-africa/">evermind.media/happy-teachers-change-africa</a>
+In January of 2019, Br. Phap Dung, Sr. Hiền Hạnh, Sr. Thanh Nghiêm, Br. Phap Luu, Sr. Thao Nghiem, Br. Bao Tang and Br. Pham Hanh brought Wake Up Schools to Uganda. Most of the 250 or so teachers were Catholic—they even held a Catholic mass every day during the retreat. This was a new environment for us because we're used to teaching in the more secular parts of the West. But there was really no obstacle. We went there to teach mindfulness, how to understand your mind: how do you get to know difficult emotions directly and understand what kind of nutriment gives rise to them. People there got that everyone needs this - it's a kind of teaching that every human being really needs to live happy and healthy lives. Now the teachers are bringing their experience of deep transformation back to their schools and sharing itas more compassionate teachers with their colleagues and students. This trip was filmed by Wouter Verhoeven of Evermind Media and is being made into a documentary.<a class="note" href="https://evermind.media/happy-teachers-change-africa/">evermind.media/happy-teachers-change-africa</a>
 
 During the pandemic Wake Up Schools offered webinars to support healthcare workers in Vietnam, including a workshop hosted with the Center for Healthcare Improvement Research and the Oxford University Clinical Research Unit (OUCRU).
 
 Staff from the Hospital of Tropical Disease (Bệnh viện Bệnh nhiệt đới Trung ương) in Hanoi and Chợ Rẫy Hospital in Ho Chi Minh City - two hospitals that have been at the front line in Vietnam’s effort to contain and to treat COVID-19 - participated. The webinar is now available for their healthcare staff of 30,000 people.
 
-{% image "article/br-phap-luu/Educators retreat in Uganda 2019.1 - Credit - Evermind Media.jpg", "expandToRightBorder" %}
-{% image "article/br-phap-luu/Educators retreat in Uganda 2019.4- Credit - Evermind Media-edited.jpg", "expandToRightBorder" %}
-{% image "article/br-phap-luu/Educators retreat in Uganda 2019.2- Credit - Evermind Media.jpg", "has-label expandToRightBorder" %}
-<p class="image-label">Uganda, 2019</p>
+{% image "article/br-phap-luu/Educators retreat in Uganda 2019.4- Credit - Evermind Media-edited.jpg", "expandToRightBorder noFloat" %}
+{% image "article/br-phap-luu/Educators retreat in Uganda 2019.1 - Credit - Evermind Media.jpg", "expandToRightBorder noFloat" %}
+{% image "article/br-phap-luu/Educators retreat in Uganda 2019.2- Credit - Evermind Media.jpg", "has-label expandToRightBorder noFloat" %}
+<p class="image-label">Uganda, 2019<span class="note">Photos kindly provided by Evermind Media</span></p>
 
 We also offered two webinars in Vietnam to support teachers and parents as schools reopened. On Sunday May 3, 2020, as schools were about to reopen, we supported an online seminar for educators and parents called “2020 Noble Semester - Học kỳ cao quý”<a class="note" href="https://youtu.be/WVHVwZa4wK8">https://youtu.be/WVHVwZa4wK8</a>, which was included teachings by Sr. Bội Nghiem of Magnolia Grove Monastery.
 

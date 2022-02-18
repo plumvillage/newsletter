@@ -21,6 +21,7 @@
     /* C 8%   M 0%   Y 39%   K 27% */
     --color-sky-dark: #0A2436;
     --color-tower-dark: #360B0E;
+    --color-footnote: rgb(94, 94, 94);
     
     text-rendering: optimizeLegibility;
 }
