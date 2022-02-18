@@ -42,9 +42,10 @@ class MyHandler extends Paged.Handler {
         })
 
         document.querySelectorAll('.hasContent .pagedjs_margin-content').forEach(el => {
+        // document.querySelectorAll('.hasContent .pagedjs_margin-bottom-center div').forEach(el => {
             el.innerHTML += `<datetime class="lastmod">${document.lastModified}</datetime>`;
         });
-
+        
         document.querySelectorAll('article').forEach(e => {
             let artName = e.classList.item(0)
             if (artName && artName.match(/article-.*/g)) {

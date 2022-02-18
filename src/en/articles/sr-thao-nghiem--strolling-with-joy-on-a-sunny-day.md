@@ -23,10 +23,13 @@ On the continuing journey, there will be new paths that become dear, where we wi
 
 There is a sacred space in New Hamlet that I miss very much, and that is the Buddha Hall. We often called it the *Purple Hall* because in the past, the carpet there was purple (the signature colour of New Hamlet), which was chosen by Thay. Purple represents the land of the Bodhisattva Avalokiteshvara. The day I arrived in Plum Village, the first thing I did was to go to the Buddha Hall and touch the earth in front of the Buddha. Entering the hall, I discovered that the floor was lined with dark purple carpet. At the end of the hall was a Buddha statue, light pink in colour, sitting very beautifully and serenely in a natural stone enclave. Thay had written a pair of parallel verses for the Buddha Hall:
 
-> <span class="color">Trên đài sen trắng Như Lai hiện</span><br/>
-> On a white lotus throne, the Tathagata appears.
+<!-- > <span class="color">Trên đài sen trắng Như Lai hiện</span><br/>
+> <span class="color">Giữa rừng tre tím Quán Âm ngồi</span><br/> -->
 
-> <span class="color">Giữa rừng tre tím Quán Âm ngồi</span><br/>
+> Trên đài sen trắng Như Lai hiện  
+> Giữa rừng tre tím Quán Âm ngồi
+
+> On a white lotus throne, the Tathagata appears.  
 > In the midst of the violet bamboo forest, Avalokiteshvara dwells.<span class="note">Further reading: <a href="https://plumvillage.org/articles/parallel-verses-of-our-plum-village-temples-i/">plumvillage.org/articles/parallel-verses-of-our-plum-village-temples-i/</a></span>
 
 Reading it, you will immediately feel the essence of the place in which you are standing.
@@ -71,7 +74,7 @@ Speaking of the Hermitage and Thay, I recall a very memorable, very special day 
 
 It was during the early days of Thay’s illness. The sangha had not been with Thay for quite a while because he was resting and recuperating at the Hermitage. The sangha missed Thay and Thay also thought of the sangha. Thay did not want the sangha to worry too much for him. Thay had already wanted to have a Monastic Day before that so the sangha could meet him at the Hermitage and feel peace of mind. He also wanted to hear the community chant the new *Sutra of the Insight That Brings Us to the Other Shore*, which Brother Phap Linh had just set to music.
 
-Thay made very careful arrangements to prepare for the day. I do not know how Thay thought of it, but one day, he suggested we buy a popcorn machine for him. Sister Chan Khong and the attending brothers and sisters were all very surprised when we heard Thay’s suggestion. None of us had ever imagined what it would be like to have a popcorn machine in a monastery. It must be very difficult to find, what would we buy and where would we put it? Thay said, “Go ahead, buy it for Thay. I will pay for it. I have some money from selling calligraphies.” That was enough for us to know that Thay really liked the idea, so Sister Dinh Nghiem searched online and found a real popcorn machine. It was red, not too big, and had wheels to cart it along.*   
+Thay made very careful arrangements to prepare for the day. I do not know how Thay thought of it, but one day, he suggested we buy a popcorn machine for him. Sister Chan Khong and the attending brothers and sisters were all very surprised when we heard Thay’s suggestion. None of us had ever imagined what it would be like to have a popcorn machine in a monastery. It must be very difficult to find, what would we buy and where would we put it? Thay said, “Go ahead, buy it for Thay. I will pay for it. I have some money from selling calligraphies.” That was enough for us to know that Thay really liked the idea, so Sister Dinh Nghiem searched online and found a real popcorn machine. It was red, not too big, and had wheels to cart it along. 
 
 The day the machine was delivered, teacher and disciples eagerly opened it to check it out. After assembling it, we discovered that one side of the glass had broken in transit; the attendants used a plastic sheet to cover it temporarily. Now that the machine was there, Thay said, “Now we go online to learn how to make popcorn.” 
 

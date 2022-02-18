@@ -42,6 +42,8 @@ When students returned years later, some talked about remembering something I ha
 
 In my last two years of teaching I took the step of getting permission from the school principal to begin every one of my classes with five minutes of mindfulness. Sometimes we read a short poem or story having wisdom and intelligence from Thay or another teacher or poet. There was also weekly free writing where we all just recorded whatever was in our minds for five minutes. It was a revolutionary experience for many of the students. They wrote to me at the end of the year to tell me about important breakthroughs or things they had learned, sometimes from themselves, in the course of these writing meditations.
 
+{% image "article/richard-brady/Educators retreat - Bordighera Italy.jpg" %}
+
 ## Mindfulness and mathematics 
 
 ***How did you connect mindfulness with math in your teaching?***
@@ -56,9 +58,7 @@ Before taking tests, I invited students to do five minutes of meditation. The fi
 
 Next we would turn our attention to something mathematical we had done in our life that we felt proud of or happy about. It might be when we learned to count to ten, solved a hard problem, or finally understood a difficult concept. We closed our eyes, and sat with that feeling, knowing that we have in us many positive experiences with math which are there even if we also have feelings of concern right now. If during the test they reached a point where they started to blank out or something similar, I asked them to just close their eyes and go back to that moment that they had thought of earlier when they felt very happy with mathematics and their relationship to it.
 
-{% image "article/richard-brady/53beedc0-2482-4ae6-949b-d5ab58b60333-1365x1024-edited.jpg" %}
-
-## The aspiration to help teachers 
+## The aspiration to help teachers
 
 ***What is your aspiration in sharing mindfulness with educators, especially in this wonderful new book? What are you hoping educators will come away with from a retreat or from reading this book?***
 
@@ -73,3 +73,8 @@ I recently wrote an exercise called “Free at Work.” It was for anyone who wo
 ## Connecting teachers 
 
 The Mindfulness in Education Network has over a thousand members all over the world. They are focused on young people of different ages, on different subjects, on higher education, the arts, yoga, etc., using all kinds of different approaches. As an early leader in this field, I would often get questions from other teachers asking me for advice on how to deal with a problem involving mindfulness. I could answer only a few of the questions from my own experience. When I knew I didn’t have a very helpful response for a particular question, I would invite the person who’d submitted it to me to go to the Mindfulness in Education Network website, join the listserv, and post their question. It was surprising and wonderful to see the wisdom that was available to answer the questions.
+
+<div class="article-end"></div>
+
+{% image "article/richard-brady/53beedc0-edited-crop.jpg", "has-label" %}
+<p class="image-label">Educators together at MorningSun Mindfulness Center in New Hampshire</p>

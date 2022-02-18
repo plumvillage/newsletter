@@ -330,6 +330,12 @@ article .author + p
     text-indent: 0;
 }
 
+/* for some reason, appending this above does not work */
+article > *:first-child:not(h1) {
+    margin-top: 0 !important;
+    text-indent: 0;
+}
+
 .editors-preface + p {
     text-indent: 0 !important;
 }
@@ -353,7 +359,11 @@ article p, article blockquote {
 article p + p,
 /* since images float around text, paragraphs can be adjacent even when an image intersects them */
 article img:not(.articleCalligraphy) + p:not(.image-label) {
+    text-indent: 16pt;
     margin-top: 11pt;
+}
+
+article h2:not(.author) + p {
     text-indent: 16pt;
 }
 
@@ -363,6 +373,7 @@ article blockquote {
     margin-bottom: 14pt;
 	padding-left: 6pt;
     font-style: italic;
+    /* font-size: 105%; */
     /* border-left: 1.5pt;
 	border-top: 0;
 	border-right: 0;
@@ -416,6 +427,7 @@ article cite {
 
 article blockquote:lang(zh) {
     font-size: 140%;
+    font-style: normal;
     line-height: 130%;
     text-indent: 0;
     border-left: 0 !important; /* no border */
@@ -431,21 +443,21 @@ p + .verse,
 
 .verse {
     page-break-inside: avoid;
-    font-family: "Cormorant Garamond";
+    /* font-family: "Cormorant Garamond"; */
     margin-left: 6pt;
     text-align: left !important;
-    font-weight: 600;
+    /* font-weight: 600; */
     font-style: italic;
-    font-size: 120%;
-    line-height: 120%;
-    font-feature-settings:
+    /* font-size: 105%; */
+    /* line-height: 120%; */
+    /* font-feature-settings: */
     /* calligraphic forms */
-    "ss01",
+    /* "ss01", */
     /* swash italic Q */
-    "ss08",
+    /* "ss08", */
     /* discretionary ligatures */
-    "dlig"
-    ;
+    /* "dlig" */
+    /* ; */
 }
 .special {
     width: 105mm;
@@ -461,19 +473,20 @@ p + .verse,
 
 
 html:lang(vi) .verse {
-    font-size: 130%;
-    line-height: 125%;
+    /* font-size: 130%;
+    line-height: 125%; */
 }
 
 .verse b, .verseTitle {
     /* position: relative; */
     /* left: -3pt; */
-    font-family: "CormorantSC-SemiBold";
+    /* font-family: "CormorantSC-SemiBold"; */
+    font-variant: small-caps;
     font-style: normal;
-    font-size: 110%;
-    line-height: 110%;
+    font-weight: normal;
+    /* font-size: 120%; */
+    /* line-height: 120%; */
     /* text-transform: lowercase; */
-    /* font-variant: all-small-caps; */
 }
 
 .verse p + p {
@@ -760,6 +773,45 @@ img#articlesr-chan-khong-letter-to-ThaySCCK-with-MLK-and-TNH-statue-high-quality
     margin-right: auto;
     margin-bottom: 0;
 }
+img#articlesr-hoa-nghiemHinh-cho-bai-Sc-Hoa-N1 {
+    display: block;
+    float: none;
+    width: 90%;
+    margin-top: 10%;
+    column-span: all;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0;
+}
+
+
+
+
+.PAGE-OF-articlesr-hoa-nghiemsummer-retreat .pagedjs_page_content {
+    margin-top: 60mm;
+    height: calc(100% - var(--pagedjs-footnotes-height) - 60mm) !important;
+}
+
+#horizontal-img-column {
+    width: 100%;
+    height: 80mm;
+    position: absolute;
+    top: -60mm;
+    left: 0;
+}
+#horizontal-img-column img {
+    display: inline-block;
+    float: none;
+    width: 48%;
+    margin: 0;
+    padding: 0;
+}
+#horizontal-img-column img + img {
+    margin-left: 4% !important;
+}
+
+/* img#articlesr-hoa-nghiemsummer-retreat {
+img#articlesr-hoa-nghiem20211212029-edited { */
 
 
 
@@ -782,39 +834,119 @@ img#articlesr-chan-khong-letter-to-ThaySCCK-with-MLK-and-TNH-statue-high-quality
     columns: 1 !important;
 }
 
-#verse-uyen-nguyen {
-    position: absolute;
-    width: var(--pagedjs-pagebox-width);
-    left: 6mm;
-    /* column-span: all; */
-    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) - 56mm));
-}
-
-.PAGE-OF-verse-uyen-nguyen .pagedjs_page_content {
-    height: calc(100% - var(--pagedjs-footnotes-height) - 45mm) !important;
-    
-}
-
-.PAGE-OF-verse-uyen-nguyen p {
-    text-shadow: white 1px 0 2px;
-}
-
-img#articlesr-thuan-khanhIMG9250-light {
-    margin: 0;
-    max-width: none !important;
-    position: absolute;
-    z-index: -1;
-    right: calc((var(--pagedjs-margin-left) + var(--bleed))*-2 - 9mm);
-    width: 176mm;
-    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + 64mm) * -1);
-}
-
 img#articlebr-phap-an60e {
     float: none !important;
     width: 60% !important;
     margin-left: auto;
     margin-right: auto;
 }
+img#articlebr-phap-ung8826595315246533743600235026231803661254656ne {
+    float: none !important;
+    width: 90% !important;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img#articlebr-phap-huuIMG2211e {
+    display: block;
+    float: none;
+    width: 90%;
+    margin-top: 45pt;
+    column-span: all;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+img#articlerichard-brady53beedc0-edited-crop {
+    display: block;
+    float: none;
+    width: 97%;
+    /* margin-top: 45pt; */
+    column-span: all;
+    margin-left: auto;
+    margin-right: auto;
+}
+img#articlerichard-brady53beedc0-edited-crop + .image-label {
+    display: block;
+    float: none;
+    column-span: all;
+    width: 97%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.PAGE-OF-articlebr-phap-kham1998-TangThanXomThuong-MuaHe-cut .pagedjs_page_content {
+    height: calc(100% - var(--pagedjs-footnotes-height) - 95mm) !important;
+}
+
+img#articlebr-phap-kham1998-TangThanXomThuong-MuaHe-cut {
+    position: absolute;
+    bottom: -89mm;
+    display: block;
+    float: none;
+    width: 70%;
+    left: 15%;
+    column-span: all;
+    /* margin-left: auto; */
+    /* margin-right: auto; */
+}
+img#articlebr-phap-kham1998-TangThanXomThuong-MuaHe-cut + .image-label {
+    position: absolute;
+    bottom: -95mm;
+    display: block;
+    float: none;
+    width: 70%;
+    left: 15%;
+    column-span: all;
+    /* margin-left: auto; */
+    /* margin-right: auto; */
+}
+
+img#articlesr-doan-nghiemSr-doan-nghiem-edited {
+    display: block;
+    float: none;
+    width: 70%;
+    column-span: all;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.PAGE-OF-articlesr-doan-nghiemSr-Doan-N-edited .pagedjs_page_content {
+    height: calc(100% - var(--pagedjs-footnotes-height) - 95mm) !important;
+}
+
+img#articlesr-doan-nghiemSr-Doan-N-edited {
+    position: absolute;
+    bottom: -89mm;
+    display: block;
+    float: none;
+    width: 70%;
+    left: 15%;
+    column-span: all;
+    /* margin-left: auto; */
+    /* margin-right: auto; */
+}
+
+.PAGE-OF-articlesr-doan-nghiemsu-me-DJoan-N-3-edited .pagedjs_page_content {
+    height: calc(100% - var(--pagedjs-footnotes-height) - 80mm) !important;
+}
+
+img#articlesr-doan-nghiemsu-me-DJoan-N-3-edited {
+    position: absolute;
+    bottom: -80mm;
+    display: block;
+    float: none;
+    width: 60%;
+    left: 20%;
+    column-span: all;
+    /* margin-left: auto; */
+    /* margin-right: auto; */
+}
+
 
 
 #poem-orchid {
@@ -835,32 +967,6 @@ img#articlebr-phap-an60e {
 #poem-true-source {
     width: 90mm;
 }
-
-#poem-mighty-mountain {
-    position: absolute;
-    bottom: -2mm;
-    left: 37mm;
-    font-size: 180%;
-    font-weight: 400;
-    line-height: 140%;
-    /* width: 50%; */
-    /* column-span: all; */
-    /* margin-left: auto; */
-    /* margin-right: auto; */
-}
-
-
-
-.PAGE-OF-articlesr-thuan-khanhtrang-tuyet-hoa-illustration-pbieu-article-1-composition-light3 p {
-    text-shadow:
-        1px 0 1px white,
-        0px 0 3px white,
-        0px 0 8px white,
-        0px 0 15px white,
-        0px 0 20px white
-    ;
-}
-
 
 .PAGE-OF-articlebr-phap-linhCS21202110152RL0936-crop3 .pagedjs_footnote_area
 ,.PAGE-OF-articlebr-phap-huuIMG2227e .pagedjs_footnote_area
@@ -883,4 +989,30 @@ img#articlebr-phap-an60e {
         1px 0 2px black,
         0px 0 3px black
     ;
+}
+
+.article-quan-tam {
+    text-shadow:
+        /* 1px 0 1px white, */
+        /* 0px 0 3px white, */
+        0px 0 10px white,
+        0px 0 10px white,
+        0px 0 20px white,
+        0px 0 20px white,
+        0px 0 30px white,
+        0px 0 30px white
+    ;
+}
+.article-quan-tam .verse {
+    display: block;
+    column-span: all !important;
+    width: 50%;
+    padding-left: 7%;
+    font-size: 115%;
+    line-height: 115%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.article-quan-tam .verse:after {
+    display: none;
 }

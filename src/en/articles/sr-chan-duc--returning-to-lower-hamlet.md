@@ -71,7 +71,7 @@ I have been in Lower Hamlet for about twelve months now. I left Lower Hamlet in 
 
 I remember one time in the Lower Hamlet when I was a layperson and we were preparing to get in the car to go to visit Fleurs de Cactus in Paris. I had a deep aspiration to walk just like Thay walked, so I tried it out for myself while waiting for others to arrive. Maybe at the time it was more outer form than content, but over the years, the peace and joy that come from walking like this are authentic. Thay’s steps in Plum Village are what have made the atmosphere of Plum Village sacred, and of course we all want to keep this sacred atmosphere alive by continuing to walk mindfully.
 
-{% image "article/sr-chan-duc/Sr.ChanDuc.3-edited2.JPG" %}
+{% image "article/sr-chan-duc/Sr.ChanDuc.3-edited.JPG" %}
 
 ## Letter to Thay, October 2021
 

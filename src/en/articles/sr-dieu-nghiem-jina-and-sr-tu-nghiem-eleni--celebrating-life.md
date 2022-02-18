@@ -32,7 +32,9 @@ In those days he was training the abbess and abbot. They were called into Thay�
 
 I was accepted, and for me that was enough. In the year 2001, I was able to be Thay’s attendant for one day at Deer Park (Monastery in the U.S.). The experience was so funny! “You can be Thay’s attendant this evening,” they told me. I had no training so they told me what to do carry Thay’s bag, where to place his shoes in the meditation hall, etc. While attending Thay I left my shoes there in the mudroom during the Dharma talk, but when it ended, Thay left by the opposite door. Thay left in his slippers, and I had to follow Thay in my bare feet! And then I think the brothers and sisters came to rescue me.
 
-***Sr. Jina*:** I was very impressed by the calmness that Thay radiated. He was not in any way affected by whatever was happening around him. In the 21 Day Retreat it was all very organised and the Summer Retreat was very organic and Thay moved so naturally through both. I thought, this is very beautiful to see, in the midst of a very lively group of people, there was Thay, so naturally moving around, happy. So my first impression was of stability and clarity. 
+***Sr. Jina*:** I was very impressed by the calmness that Thay radiated. He was not in any way affected by whatever was happening around him. In the 21 Day Retreat it was all very organised and the Summer Retreat was very organic and Thay moved so naturally through both. I thought, this is very beautiful to see, in the midst of a very lively group of people, there was Thay, so naturally moving around, happy. So my first impression was of stability and clarity.
+
+{% image "article/sr-tu-nghiem-and-sr-dieu-nghiem/1-edited.jpg" %}
 
 ## Dharma talks
 
@@ -40,9 +42,9 @@ I was accepted, and for me that was enough. In the year 2001, I was able to be T
 
 We already had the chiming clock in the dining hall. It would chime every fifteen minutes. Thay would stop, we’d all breathe, and it was very peaceful. Then Thay would continue with the Dharma talk. In those days it was Br. Nguyen Hai who was the cameraman. It’s amazing how they’ve preserved these early teachings. In those days Thay used a cassette recorder, and they’d have to stop and put in a new cassette and continue. 
 
-***Sr. Jina*:** Thay’s teachings were very clear. With certain teachings that one can say in a particular way, Thay just said, “This is it.” We listened to Thay, we tried to understand and even if we didn’t understand, it was just being in Thay’s presence. That was enough and I had already been so nourished by the 21 Day Retreat (after my arrival) I thought, I have at least three years material (to practice with).
-
 {% image "article/sr-tu-nghiem-and-sr-dieu-nghiem/SrDieuNghiem-edit.jpg" %}
+
+***Sr. Jina*:** Thay’s teachings were very clear. With certain teachings that one can say in a particular way, Thay just said, “This is it.” We listened to Thay, we tried to understand and even if we didn’t understand, it was just being in Thay’s presence. That was enough and I had already been so nourished by the 21 Day Retreat (after my arrival) I thought, I have at least three years material (to practice with).
 
 (When the talks were in Vietnamese), Sr. Chan Khong used to translate and I enjoyed listening to Sr. Chan Khong very much because you also get side information, then you have a better context! It was very alive, I really enjoyed that. 
 
@@ -68,8 +70,6 @@ Br. Giac Thanh was, I believe, the master of relaxation. He spoke very slowly an
 
 ***Sr. Tu Nghiem*:** Something I valued so much in Thay and I want to continue is the path of the Bodhisattva Sadaparibhuta, which is always finding the best in people and letting them know they have these good qualities. Thay always believed in this. He once mentioned a sutra from the Buddha that says if someone has only one eye, you protect that one eye. That means the practitioner is weak but still has an aspiration. Protect that aspiration – don’t be so harsh. Thay always had so much compassion. His understanding was immense.
 
-{% image "article/sr-tu-nghiem-and-sr-dieu-nghiem/1-edited.jpg" %}
-
 People came with so-called mental illnesses and Thay would say let them stay and practice. No pressure was put on them. We just asked them to come to sitting if they could, or walking meditation, and eat with us. And they would stay around a week. I remember Thay said the collective energy of mindfulness, compassion, and kindness, and the culture of gentleness would help that person. That was Thay’s way in the early days of letting the sangha be a village where everyone could come and be here. I remember Thay's qualities of deep looking, great compassion and understanding, and always looking for the best in people, giving them a chance. 
 
 Now we have also become a training center for monastics. We’ve become the Institute of Higher Buddhist Studies and we are in a digital world. But I think it’s good to maintain the values of early Vietnam, the culture, the food, the poetry, the Lunar New Year celebrations. There are brothers and sisters also interested in neuroscience, deep ecology, and that’s Thay’s Engaged Buddhism. I think all of it can be part of Plum Village.
@@ -78,11 +78,11 @@ Now we have also become a training center for monastics. We’ve become the Inst
 
 Thay was always practicing walking meditation, from the very beginning, even before there was a sangha. (I remember one day) I was attending Thay, in the sense that if Thay needed anything I would do it, Thay didn’t have an attendant as such. I would walk behind Thay from the meditation hall in the Upper Hamlet to Thay’s hut to see if Thay needed anything, and Thay said something to me as we were walking and I just kept quiet. It was not a question but I didn’t give a counter remark or start a conversation or continue the conversation because I was walking and I thought well, we’re walking, why should I say something? And Thay stopped and said, “Do you want to stop while we’re talking?”, “Yes, Thay.” So we walked and then we talked in the hut, and from then on when you walked, you walked, when you wanted to talk, you stopped. That was a new practice that came in.
 
+{% image "article/sr-tu-nghiem-and-sr-dieu-nghiem/SrTuNghiem1-edited.jpg", "expandToRightBorder" %}
+
 ## Keeping the essence of Plum Village
 
 ***Sr. Tu Nghiem*:** I think there are several levels and aspects to this. Thay wanted to create a monastic sangha, and an international fourfold sangha. So I think this is so important for the future of Plum Village, to keep the balance, that it remain international and fourfold – that means the nuns and laywomen and the monks and laymen are all part of the Plum Village community.
-
-{% image "article/sr-tu-nghiem-and-sr-dieu-nghiem/SrTuNghiem1-edited.jpg" %}
 
 The essence of Plum Village is to continue to share the practices of mindfulness in as simple a form as possible, to meet the needs of people around the world, of different cultures, of different religions, and to present it in a way that’s understandable and acceptable by people anywhere. We keep the simplicity of the teachings, the basic teachings, four noble truths, eightfold path (and keep it accessible to the) beginners in the practice. 
 

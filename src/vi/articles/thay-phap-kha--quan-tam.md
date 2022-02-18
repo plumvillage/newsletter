@@ -3,6 +3,8 @@ title: Quan tâm
 author: Thầy Chân Pháp Khả
 ---
 
+{% image "article/thay-phap-kha/trang tuyet hoa illustration pbieu article 1-composition-light3.webp" %}
+
 <div class="verse"><p>Những lúc nào, muốn trở thành bé lại<br/>
 Để cuộc đời đừng chấp kẻ thơ ngây<br/>
 Để nắng chiều phả hơi ấm đôi tay<br/>

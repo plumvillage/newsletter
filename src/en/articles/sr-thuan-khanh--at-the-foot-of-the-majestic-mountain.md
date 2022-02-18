@@ -77,6 +77,6 @@ Warm and inviting,<br/>
 towards infinity,<br/>
 fragrant is the sacred creek.</p></div>
 
-{% image "article/sr-thuan-khanh/trang tuyet hoa illustration pbieu article 1-composition-light3.webp" %}
+<!-- {% image "article/sr-thuan-khanh/trang tuyet hoa illustration pbieu article 1-composition-light3.webp" %} -->
 
 Being there with the Fragrant Creek, I will never need to grow up. At the Fragrant Creek, there is sunshine, rain, trees, stream, rocks, Thay, and the entire forest of brown robes. The Fragrant Creek is keeping alive so many memories of the love between teacher and student, the care, the laughter, and the heartfelt vows. The Fragrant Creek is also keeping alive the free steps and peaceful breaths of Thay, so this heritage can be given and entrusted to his monastic children. I know that wherever Thay is, Fragrant Creek is there. Wherever I am, the Fragrant Creek is there. In the moments when I am far from the Fragrant Creek geographically, I have nourished it in my heart like this.
