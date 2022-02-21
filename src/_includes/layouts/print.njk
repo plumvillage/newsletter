@@ -5,13 +5,13 @@
     {%- if pagedjsCLI != true %}
     <div class="front-cover bleed">
         <div class="full-page-image">
-            {% image ["LTLM45-2022-cover-front-", locale, "-v20220209a.jpg"] | join %}
+            {% image ["LTLM45-2022-cover-front-v2022-02-", locale, "-", size ,"-bleed.jpg"] | join %}
         </div>
     </div>
 
     </div>
     <div class="front-collage bleed">
-        {% image "front-photos-bleed.jpg" %}
+        {% image "LTLM45-2022-inside-covers-V2022-02-left.jpg" %}
     </div>
     <div class="opening-page">
         {% image "calligraphy/zen-circle.jpg" %}
@@ -25,7 +25,17 @@
         {% set fileSlug = article.fileSlug %}
         {% include "partials/article-content.njk" %}
     {%- endfor -%}
-    
+
+    {# Insert old photo pages somewhere in the middle? #}
+    {%- if pagedjsCLI != true %}
+    <div class="back-collage bleed">
+        {% image "back-photos-bleed.jpg" %}
+    </div>
+    <div class="front-collage bleed">
+        {% image "front-photos-bleed.jpg" %}
+    </div>
+    {%- endif %}
+
     <div id="table-of-contents">
         <h1>{{ i18n.toc }}</h1>
         <ul class="toc">
@@ -42,11 +52,11 @@
 
     {%- if pagedjsCLI != true %}
     <div class="back-collage bleed">
-        {% image "back-photos-bleed.jpg" %}
+        {% image "LTLM45-2022-inside-covers-V2022-02-right.jpg" %}
     </div>
     <div class="back-cover bleed">
         <div class="full-page-image">
-            {% image ["LTLM45-2022-cover-back-", locale, "-v20220209a.jpg"] | join %}
+            {% image ["LTLM45-2022 cover v2022-02-", locale, "-back.jpg"] | join %}
         </div>
     </div>
     {%- endif %}

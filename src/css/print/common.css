@@ -123,6 +123,12 @@ body {
     height: 307mm;
 }
 
+/* size matches A4 + 5 mm bleed around */
+.size-A4 .full-page-image img {
+    width: 220mm;
+    height: 307mm;
+}
+
 .opening-page {
     break-after: page;
 }
