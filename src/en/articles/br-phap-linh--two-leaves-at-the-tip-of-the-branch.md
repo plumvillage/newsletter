@@ -30,6 +30,9 @@ In October, Brother Phap Huu, Sister Lang Nghiem, Sister Hien Nghiem and I atten
 {% image "article/br-phap-linh/CS21_20211015_2RL0936-crop3.jpg" %}
 <!-- Sister True Dedication speaks at Session 7 at TED Countdown Summit on October 15, 2021. TED Countdown Summit. October 12-15, 2021, Edinburgh, Scotland. Photo: Ryan Lash / TED -->
 
+{% image "article/br-phap-linh/PV-Monastics-at-TED-with-Al-Gore-and-ZASP-Square-Photo-PVCEB-e.jpeg", "has-label" %}
+<p class="image-label">Meeting with Al Gore</p>
+
 Suddenly I was faced with the prospect of going to COP26, and to be honest it was quite scary. What would we say? What did we really have to offer? Would we really be able to help? I had no idea. We didn’t even really know what we would be doing there. But at the same time, I was on fire with the aspiration that had been in my heart since I was a little boy - I had been searching my whole life for a way to help avert the present and future crises that we face, and now we had an opportunity to contribute. 
 
 ## My grandfather's lawn

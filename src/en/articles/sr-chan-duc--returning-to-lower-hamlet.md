@@ -29,11 +29,11 @@ After the Summer Opening, the guests went home and I moved into the Cypress Buil
 
 Cypress Building had an attic. There were many buckets and basins up there to catch the rain. When it rained hard, there were never enough buckets in the right place and the rain would come through the ceiling and sometimes on to my bed. Plum Village did not have the money to repair the roof at that time.
 
+{% image "article/sr-chan-duc/Sr-Chan-Duc-the-bread-oven-edited.jpg" %}
+
 When I first came to the Lower Hamlet, there was a traditional brick bread oven. It was in a little stone building behind the Purple Cloud. It had been repaired by a Dutch O.I. member, Robert Naeff, who had knowledge of building this kind of bread oven, so we could actually make bread. You made a wood fire in the oven and when the wood began to turn into embers, you took them out and put them in a bucket. You had to be very careful doing this because if they fell onto the surrounding dry grass, it could cause a fire. Then you placed the uncooked bread in the heated oven. We had to try a few times in order not to burn the bread, but eventually we succeeded in making something edible.
 
 We had a wonderful neighbour who lived in what is now the Cherry House. Monsieur Mounet made apple tarts and took them to the markets to sell. He had constructed his own gas-fired oven and he said after he had finished baking the tarts, the oven was still hot enough to bake bread, so I would bring my bread and bake it in his oven, which was much simpler.
-
-{% image "article/sr-chan-duc/Sr.ChanDuc.2-edited.jpg" %}
 
 ## Dharma music 
 
@@ -57,7 +57,9 @@ Now when Thay is no longer physically there in Plum Village, my trust in the san
 
 We certainly have our ups and downs but we can sit together, begin anew, and go ahead while understanding each other more deeply. Very often it has been the difficulties that have emptied me of pride and self-confidence, and filled me with *non-self* confidence. This is how I understand “the kleśa are the bodhi, the afflictions are the awakening”.
 
-{% image "article/sr-chan-duc/3-edited.jpg" %}
+{% image "article/sr-chan-duc/Sr.ChanDuc.2-edited.jpg" %}
+
+<!-- {% image "article/sr-chan-duc/3-edited.jpg" %} -->
 
 Some of the important moments of revelation seem to occur when I am sitting in a circle with other practitioners. I suddenly realize that I do not have a separate self and I can only be in relationship to others. When I first come into a circle, I usually arrive early and watch sisters coming in. As we become settled, I like to look around and feel my affection for each sister who is sitting there. I follow my breathing as I am doing this. I know that we all come from very different backgrounds and on the surface we all look and behave very differently. Nevertheless there is something very deep that connects us. It is rather like the trees in the forest where the roots of one are always connected to the roots of others. The simple fact that we live together twenty-four hours a day, and we have all made the same commitment to the monastic life seems to bond us in a special way.
 

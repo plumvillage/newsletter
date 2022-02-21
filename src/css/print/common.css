@@ -27,12 +27,13 @@ body {
     margin-top: 32pt;
     --pagedjs-margin-top: 32pt;
     margin-bottom: 40pt;
-    /* is this buggy? leaves a huge amount of iterations in the css */
+
     /* BUG: this breaks the table of contents */
     /* counter-reset: footnote; */
 
     /* this breaks pagedjs */
     /* bleed: var(--bleed); */
+
     @footnote {
         padding-top: 8pt;
         color: var(--color-footnote);
@@ -230,7 +231,7 @@ ul.toc li {
 a {
     text-decoration: none;
 }
-article a {
+article a, #table-of-contents a {
     color: #000;
 }
 .pagedjs_footnote_area a {
@@ -773,7 +774,7 @@ img#articlebr-nguyen-tinhBrNguyenTinh1-edit {
 img#articlesr-chan-khong-letter-to-ThaySCCK-with-MLK-and-TNH-statue-high-quality-e-crop {
     display: block;
     float: none;
-    width: 63%;
+    width: 60%;
     column-span: all;
     margin-left: auto;
     margin-right: auto;
@@ -790,12 +791,11 @@ img#articlesr-hoa-nghiemHinh-cho-bai-Sc-Hoa-N1 {
     margin-bottom: 0;
 }
 
-
-
-
-.PAGE-OF-articlesr-hoa-nghiemsummer-retreat .pagedjs_page_content {
-    margin-top: 60mm;
-    height: calc(100% - var(--pagedjs-footnotes-height) - 60mm) !important;
+/* 
+on other occasions, I would adjust the margin-top and height of .pagedjs_page_content (not its div). However, this does not work in the generated PDF (the margin-top does not apply).
+*/
+.PAGE-OF-articlesr-hoa-nghiemsummer-retreat .pagedjs_page_content div {
+    margin-top: 60mm !important;
 }
 
 #horizontal-img-column {
@@ -991,10 +991,18 @@ img#articlesr-doan-nghiemsu-me-DJoan-N-3-edited {
     ;
 }
 .PAGE-OF-articlesr-thoai-nghiemDSC1153e .pagedjs_footnote_area {
+    /* color: red !important; */
     text-shadow:
         1px 0 2px black,
         0px 0 3px black
     ;
+}
+.PAGE-OF-articlebr-phap-linhCS21202110152RL0936-crop3 .pagedjs_footnote_area span,
+.PAGE-OF-articlebr-phap-linhCS21202110152RL0936-crop3 .pagedjs_footnote_area span a {
+    color: rgb(168, 168, 168) !important;
+}
+.PAGE-OF-articlesr-thoai-nghiemDSC1153e .pagedjs_footnote_area span {
+    color: rgb(201, 201, 201) !important;
 }
 
 .article-quan-tam {

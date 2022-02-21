@@ -18,6 +18,20 @@
     </div>
     {%- endif %}
 
+    <div id="table-of-contents">
+        <h1>{{ i18n.toc }}</h1>
+        <ul class="toc">
+            {%- for article in articles -%}
+                <li><a class="toc-links" href="#{{ article.data.title | slugify }}">
+                    <span class="toc-title">{{ article.data.title }}</span>
+                    {%- if article.data.author != "" -%}
+                    <br/><span class="toc-author">{{ article.data.author }}</span>
+                    {%- endif -%}
+                </a></li>
+            {%- endfor -%}
+        </ul>
+    </div>
+
     {%- for article in articles -%}
         {% set title = article.data.title %}
         {% set author = article.data.author %}
@@ -36,27 +50,13 @@
     </div>
     {%- endif %}
 
-    <div id="table-of-contents">
-        <h1>{{ i18n.toc }}</h1>
-        <ul class="toc">
-            {%- for article in articles -%}
-                <li><a class="toc-links" href="#{{ article.data.title | slugify }}">
-                    <span class="toc-title">{{ article.data.title }}</span>
-                    {%- if article.data.author != "" -%}
-                    <br/><span class="toc-author">{{ article.data.author }}</span>
-                    {%- endif -%}
-                </a></li>
-            {%- endfor -%}
-        </ul>
-    </div>
-
     {%- if pagedjsCLI != true %}
     <div class="back-collage bleed">
         {% image "LTLM45-2022-inside-covers-V2022-02-right.jpg" %}
     </div>
     <div class="back-cover bleed">
         <div class="full-page-image">
-            {% image ["LTLM45-2022 cover v2022-02-", locale, "-back.jpg"] | join %}
+            {% image ["LTLM45-2022-cover-back-", locale, "-v20220209a.jpg"] | join %}
         </div>
     </div>
     {%- endif %}
