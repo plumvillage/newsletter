@@ -98,7 +98,7 @@ body {
     margin-left: 0mm;
     /* although this should be 0mm, in chrome, it would otherwise leave a white blank bar above the full-page images with bleed */
     margin-bottom: -5mm;
-    
+
     @bottom-right {
         display: none;
     }
@@ -138,14 +138,79 @@ body {
     height: 307mm;
 }
 
-.opening-page {
+#title-page, #editors-notes, #zen-circle-page, #thays-full-title-page, #thays-portrait-page {
+    page: leadInPages;
+    /* BUG does not work fully */
     break-after: page;
+    break-before: page;
+    /* background-color: green; */
 }
 
-/*=zencircle  */
-.opening-page img {
+@page leadInPages {
+    @bottom-right {
+        display: none;
+    }
+    @bottom-left {
+        display: none;
+    }
+    @bottom-center {
+        display: none;
+    }
+}
+
+#zen-circle-page img {
     max-width: 100%;
     margin-top: 20%;
+}
+
+#title-page h1 {
+    margin: 0 auto;
+}
+#title-page img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#title-page h1 img {
+    width: 88%;
+    margin-top: 20%;
+    margin-bottom: 10%;
+}
+#calligraphyarticle-titles-2-and-dividers5-maskedDividers2-2-straight {
+    width: 25%;
+    margin-bottom: 14%;
+}
+#title-page h2 {
+    font-family: "Cormorant Garamond";
+    text-align: center;
+    margin: 0 auto;
+    font-weight: bold;
+    font-size: 250%;
+    line-height: 130%;
+}
+
+#title-page h2 .num40 {
+    display: inline-block;
+    padding-left: 5pt;
+    padding-right: 3pt;
+    font-size: 160%;
+    font-weight: 500;
+}
+/* #title-page h2 .num40 span {
+    font-size: 70%;
+    font-weight: 500;
+} */
+#title-page h2 #ambrsd {
+    display: block;
+    font-style: italic;
+    line-height: 110%;
+}
+#title-page h2 #tnh {
+    display: block;
+    font-size: 170%;
+    margin-top: 20%;
+    /* font-size: 140% matches with SemiBold */
+    font-family: "CormorantSC-SemiBold";
 }
 
 

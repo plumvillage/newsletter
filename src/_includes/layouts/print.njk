@@ -1,65 +1,83 @@
 {% extends "layouts/print-frame.njk" %}
-
 {% block content %}
 
-    {%- if pagedjsCLI != true %}
-    <div class="front-cover bleed">
-        <div class="full-page-image">
-            {% image ["LTLM45-2022-cover-front-v2022-02-", locale, "-", size ,"-bleed.jpg"] | join %}
-        </div>
-    </div>
+{# superfluous for now #}
+{%- if pagedjsCLI != true %}
+{%- endif %}
 
-    </div>
-    <div class="front-collage bleed">
-        {% image "LTLM45-2022-inside-covers-V2022-02-left.jpg" %}
-    </div>
-    <div class="opening-page">
-        {% image "calligraphy/zen-circle.jpg" %}
-    </div>
-    {%- endif %}
+<div id="table-of-contents">
+    <h1>{{ i18n.toc }}</h1>
+    <ul class="toc">
+        {%- for article in articles -%}
+            <li><a class="toc-links" href="#{{ article.data.title | slugify }}">
+                <span class="toc-title">{{ article.data.title }}</span>
+                {%- if article.data.author != "" -%}
+                <br/><span class="toc-author">{{ article.data.author }}</span>
+                {%- endif -%}
+            </a></li>
+        {%- endfor -%}
+    </ul>
+</div>
 
-    <div id="table-of-contents">
-        <h1>{{ i18n.toc }}</h1>
-        <ul class="toc">
-            {%- for article in articles -%}
-                <li><a class="toc-links" href="#{{ article.data.title | slugify }}">
-                    <span class="toc-title">{{ article.data.title }}</span>
-                    {%- if article.data.author != "" -%}
-                    <br/><span class="toc-author">{{ article.data.author }}</span>
-                    {%- endif -%}
-                </a></li>
-            {%- endfor -%}
-        </ul>
+<div class="front-cover bleed">
+    <div class="full-page-image">
+        {% image ["LTLM45-2022-cover-front-v2022-02-", locale, "-", size ,"-bleed.jpg"] | join %}
     </div>
+</div>
 
-    {%- for article in articles -%}
-        {% set title = article.data.title %}
-        {% set author = article.data.author %}
-        {% set content = article.data.content %}
-        {% set fileSlug = article.fileSlug %}
-        {% include "partials/article-content.njk" %}
-    {%- endfor -%}
+<div class="front-collage bleed">
+    {% image "LTLM45-2022-inside-covers-V2022-02-left.jpg" %}
+</div>
 
-    {# Insert old photo pages somewhere in the middle? #}
-    {%- if pagedjsCLI != true %}
-    <div class="back-collage bleed">
-        {% image "back-photos-bleed.jpg" %}
-    </div>
-    <div class="front-collage bleed">
-        {% image "front-photos-bleed.jpg" %}
-    </div>
-    {%- endif %}
+<div id="title-page">
+    <h1>{% image "calligraphy/you-have-seen-the-path/you-have-seen-the-path-masked.webp" %}</h1>
+    {% image "calligraphy/article titles 2 and dividers/5-masked/Dividers2-2-straight.webp" %}
+    <h2>Celebrating <span class="num40">4<span>0</span></span> Years of Plum Village<span id="ambrsd">&</span>Honoring our Beloved Teacher<span id="tnh">Thich Nhat Hanh</span></h2>
+</div>
 
-    {%- if pagedjsCLI != true %}
-    <div class="back-collage bleed">
-        {% image "LTLM45-2022-inside-covers-V2022-02-right.jpg" %}
-    </div>
-    <div class="back-cover bleed">
-        <div class="full-page-image">
-            {% image ["LTLM45-2022-cover-back-", locale, "-v20220209a.jpg"] | join %}
-        </div>
-    </div>
-    {%- endif %}
+<div id="editors-notes">
+    <h2>Editor’s Notes (hard)</h2>
+    <p>TODO</p>
+</div>
 
-    {# {% include "partials/testing.njk" %} #}
+<div id="zen-circle-page">
+    {% image "calligraphy/zen-circle.jpg" %}
+</div>
+
+<div id="thays-full-title-page">
+    <h2>Thay’s Full Title</h2>
+<p>42<sup>nd</sup> Generation of the Linji Dhyana School, and 8<sup>th</sup> Generation of the Liễu Quán Dharma Line, Patriarch and Abbot of Từ Hiếu Lineage, Founder of the International Plum Village Dharma School, whose first name is Trừng and whose second name is Quang, and whose lineage name is Phùng Xuân, and whose Dharma Title is Zen Master Nhất Hạnh, and whose family name is Nguyễn, an Awakened Master.</p>
+</div>
+
+<div id="thays-portrait-page">
+    <h2>Thay’s Portait</h2>
+</div>
+
+
+{%- for article in articles -%}
+    {% set title = article.data.title %}
+    {% set author = article.data.author %}
+    {% set content = article.data.content %}
+    {% set fileSlug = article.fileSlug %}
+    {% include "partials/article-content.njk" %}
+{%- endfor -%}
+
+<div class="back-collage bleed">
+    {% image "back-photos-bleed.jpg" %}
+</div>
+<div class="front-collage bleed">
+    {% image "front-photos-bleed.jpg" %}
+</div>
+
+<div class="back-collage bleed">
+    {% image "LTLM45-2022-inside-covers-V2022-02-right.jpg" %}
+</div>
+<div class="back-cover bleed">
+    <div class="full-page-image">
+        {% image ["LTLM45-2022-cover-back-", locale, "-v20220209a.jpg"] | join %}
+    </div>
+</div>
+
+{# {% include "partials/testing.njk" %} #}
+
 {% endblock %}

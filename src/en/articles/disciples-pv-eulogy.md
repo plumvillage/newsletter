@@ -43,6 +43,8 @@ Dear Thay, we know that you are much more than your physical body. You are your 
 
 You have said that, “Time is stilled in eternity, where love and the beloved are one.”* Dear Thay, you are present here with us in this very moment, as we climb the hill of the twenty-first century together. What you have not yet completed, we promise to complete for you. We would like to express our deep love and gratitude as we make the vow to carry your teachings, compassion, and insight far into the future.
 
+{% image "article/eulogy-in-PV/Eulogy from PV-edited.jpg" %}
+
 This is a legendary moment. 
 
 This is a moment of continuation.
