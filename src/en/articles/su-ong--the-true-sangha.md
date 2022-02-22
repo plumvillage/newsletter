@@ -63,7 +63,7 @@ When we practice listening to the bell or walking meditation, we stop speaking a
 
 The Three Jewels are the energies of mindfulness and concentration. Every sound of the bell, every step with such energy can heal, nourish, and liberate. If you practice it well, every sound of the bell, every step can help you to be in touch with the pure land, in touch with no birth and no death. It isn’t difficult! We can all do it. It is not a distant wish. We can realize this path by the way we walk and with the bell of mindfulness. Together with the sangha, we can make the pure land become a reality in the present with every step we take, and by placing all our heart into the sound of the mindfulness bell.
 
-{% image "article/su-ong/PVM_2753_improved_crop.JPG" %}
+{% image "article/su-ong/PVM_2753_improved2_crop.JPG" %}
 
 If we want to be a beloved disciple of the Buddha, then we should learn the art of sangha building. If I want to be a beloved student of the Buddha, then I also have to learn the art of sangha building. I would build a beloved sangha with many people who have the determination to practice. The result would be a great reward.
 
