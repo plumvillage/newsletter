@@ -1,8 +1,9 @@
+input="./builds/generated 2022-02-23 16-01-30.pdf"
 dpi=400
 Q=1.5
 
 gs \
-    -o "./builds/downsampled_dpi${dpi}_q$Q.pdf" \
+    -o "$input downsampled_dpi${dpi}_q$Q.pdf" \
     -sDEVICE=pdfwrite \
     -dNOPAUSE \
     -dDownsampleColorImages=true \
@@ -15,7 +16,7 @@ gs \
     -dGrayImageDownsampleThreshold=1.0 \
     -dMonoImageDownsampleThreshold=1.0 \
     -c "<< /GrayImageDict << /Blend 1 /VSamples [ 1 1 1 1 ] /QFactor $Q /HSamples [ 1 1 1 1 ] >> /ColorACSImageDict << /VSamples [ 1 1 1 1 ] /HSamples [ 1 1 1 1 ] /QFactor $Q /Blend 1 >> /ColorImageDownsampleType /Bicubic /ColorConversionStrategy /LeaveColorUnchanged >> setdistillerparams" \
-    -f "./builds/full.pdf"
+    -f "$input"
 
 
 <<comment

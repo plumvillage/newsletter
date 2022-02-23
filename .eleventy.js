@@ -6,7 +6,7 @@ const path = require("path");
 const slugify = require('slugify')
 const sharp = require("sharp");
 const Image = require("@11ty/eleventy-img");
-// Image.concurrency = 4; // default is 10
+Image.concurrency = 8; // default is 10
 const srcPath = "src/media/originals";
 const calligraphyPath = "calligraphy/article-titles/";
 var articleTitleCalligraphies = fs.readdirSync(`src/media/publish/${calligraphyPath}`)
@@ -35,11 +35,11 @@ async function imageData(src) {
     let options = {
         formats: ["webp", "svg"], /* jpeg, png, webp, gif, tiff, avif */
         outputDir: outputDir,
-        widths: [2000],
+        widths: [3000],
         dryRun: dryRun,
         sharpOptions: {},
         // https://sharp.pixelplumbing.com/api-output#webp
-        sharpWebpOptions: { quality: 50, },
+        sharpWebpOptions: { quality: 80, },
         sharpJpegOptions: { quality: 40, },
         svgShortCircuit: true
         // disk cache works only when using the built-in hashing algorithm and not custom filenames
