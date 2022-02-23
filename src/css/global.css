@@ -151,13 +151,19 @@ https://github.com/CatharsisFonts/Cormorant
     font-weight: 700;
     font-style: italic;
 }
+
+
 @font-face {
     font-family: "CormorantSC-SemiBold";
     src: url("fonts/CormorantSC-SemiBold.woff2") format("woff2");
 }
-@font-face {
+/* @font-face {
     font-family: "CormorantSC-Bold";
     src: url("fonts/CormorantSC-Bold.woff2") format("woff2");
+} */
+@font-face {
+    font-family: "CormorantSC-Medium";
+    src: url("fonts/CormorantSC-Medium.woff2") format("woff2");
 }
 
 

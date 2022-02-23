@@ -185,21 +185,16 @@ body {
     text-align: center;
     margin: 0 auto;
     font-weight: bold;
-    font-size: 250%;
+    font-size: 210%;
     line-height: 130%;
 }
-
 #title-page h2 .num40 {
     display: inline-block;
-    padding-left: 5pt;
-    padding-right: 3pt;
+    /* padding-left: 5pt; */
+    /* padding-right: 3pt; */
     font-size: 160%;
     font-weight: 500;
 }
-/* #title-page h2 .num40 span {
-    font-size: 70%;
-    font-weight: 500;
-} */
 #title-page h2 #ambrsd {
     display: block;
     font-style: italic;
@@ -207,10 +202,12 @@ body {
 }
 #title-page h2 #tnh {
     display: block;
-    font-size: 170%;
+    font-size: 153%;
     margin-top: 20%;
-    /* font-size: 140% matches with SemiBold */
-    font-family: "CormorantSC-SemiBold";
+    color: black;
+    font-family: "CormorantSC-Medium";
+    /* for Medium, if this is not set, chrome will look ugly */
+    font-weight: normal;
 }
 
 
@@ -258,6 +255,10 @@ figure {
     break-after: page;
     column-gap: 32pt;
     font-size: 12pt;
+}
+
+#table-of-contents h1 {
+    margin-bottom: 24pt;
 }
 
 /* https://pagedjs.org/documentation/-cross-references/ */

@@ -6,15 +6,6 @@
 {%- endif %}
 
     {% block content %}
-    {# <div id="table-of-contents">
-        <h1>{{ i18n.toc }}</h1>
-        <ul class="toc">
-            <li><a class="toc-links" href="#the-true-sangha">
-                <span class="toc-title">The True Sangha</span><br/>
-                <span class="toc-author">Thay</span>
-            </a></li>
-        </ul>
-    </div> #}
         {% set fileSlug = page.fileSlug %}
         {% include "partials/article-content.njk" %}
 

@@ -55,7 +55,7 @@ html:lang(vi) .pagedjs_right_page .pagedjs_margin-bottom-right {
 ["br-troi-dai-daoIMG0436-edited",
 	"100mm", "10mm", 0, 20],
 ["br-phap-linhCS21202110152RL0936-crop3",
-    "110mm", "0mm", 5, 6],
+    "110mm", "0mm", 4, 7],
 ["br-minh-hyDSC3796-edit",
 	"96mm", "0mm", 0, 30],
 ["br-phap-dungbai-T-Phap-Dung-4",
@@ -76,8 +76,6 @@ html:lang(vi) .pagedjs_right_page .pagedjs_margin-bottom-right {
 	"90mm", "0mm", 0, 20],
 ["sr-thuan-khanhIMG5032q50",
 	"95mm", "10mm", 0, 35],
-["sr-thuan-khanhtrang-tuyet-hoa-illustration-pbieu-article-1-composition-light3",
-	"95mm", "0mm", 0, 0],
 ["sr-thoai-nghiemDSC1153e",
 	"60mm", "5mm", 37, 50],
 ["br-phap-huuBr-Phap-Huu-e",
@@ -99,7 +97,8 @@ html:lang(vi) .pagedjs_right_page .pagedjs_margin-bottom-right {
 	"75mm", "25mm", 10, 30], #}
 {# ["sr-hoa-nghiemHinh-cho-bai-Sc-Hoa-N1",
 	"90mm", "0mm", 0, 20], #}
-
+{# ["sr-thuan-khanhtrang-tuyet-hoa-illustration-pbieu-article-1-composition-light3",
+	"95mm", "0mm", 0, 0], #}
 
 
 {# commas are added automatically by nunjucks #}
@@ -127,12 +126,14 @@ html:lang(vi) .pagedjs_right_page .pagedjs_margin-bottom-right {
 {% for item in items %}
 img#article{{ item[0] }} {
     bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + {{ item[1] }} + {{ item[2] }}) * -1);
-    mask-image: linear-gradient(to bottom,
-        {% easingGradient item[3], item[4] %}
-    );
-    -webkit-mask-image: linear-gradient(to bottom,
-        {% easingGradient item[3], item[4] %}
-    );
+    {%- if not (item[3] == 0 and item[4] == 0) %}
+        mask-image: linear-gradient(to bottom,
+            {% easingGradient item[3], item[4] %}
+        );
+        -webkit-mask-image: linear-gradient(to bottom,
+            {% easingGradient item[3], item[4] %}
+        );
+    {%- endif %}
 }
 .PAGE-OF-article{{ item[0] }} .pagedjs_page_content {
     height: calc(100% - var(--pagedjs-footnotes-height) - {{ item[1] }}) !important;
