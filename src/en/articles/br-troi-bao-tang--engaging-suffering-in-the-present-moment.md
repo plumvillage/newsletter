@@ -19,7 +19,7 @@ Today we have many “Rainbow Families” around the world, such as the Sangha Q
 
 Rainbow lay practitioners, Order of Interbeing members and monastics work hand in hand to build a spiritual family. Family is a safe space and a refuge. There are many allies who also come and help to build the community because they have been supporting their loved ones, their fathers, mothers, sons, daughters, cousins, friends...who might be suffering because they identify themselves as LGBTQIA+ and face discrimination.
 
-I have been able to participate in multiple LGBTQIA+ retreats in Plum Village Tradition, in Dharma sharings, in EIAB, in Mountagne du Dharma, in online retreats. Every retreat or Dharma sharing always brings healing to people, lay or monastics. This is because everyone of us faces more or less the same difficulty in being ourselves and being happy. 
+I have been able to participate in multiple LGBTQIA+ retreats in Plum Village, in EIAB, in Mountagne du Dharma, and in online retreats. Every retreat or Dharma sharing always brings healing to people, lay or monastics. This is because everyone of us faces more or less the same difficulty in being ourselves and being happy. 
 
 ## Watering the seeds of awareness in the monastic community
 
