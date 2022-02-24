@@ -24,7 +24,7 @@ Living in the sangha, I have many chances to practice - like inviting the Great 
 
 Working in the greenhouse has been a most wonderful gift for me during the last Rains' Retreat. At first I thought working in the greenhouse is to offer vegetables to the sangha, but actually this is not the main purpose.
 
-When we started working, my mentor Br. Phap Ao first cut the grass with a strimmer, and Br. Nguyen Tinh and I used tools to remove the weeds. We began to loosen the soil and create rectangular beds. We watered the soil and left it to be nourished by the water. Dry soil cannot absorb water easily, so it took a long time for the water to soak in. Br. Phap Ao just smiled and said to me, "Just keep watering it everyday.” Oh… It sounded like he wanted to tell me something, but what?
+When we started working, my mentor Br. Phap Ao first cut the grass with a strimmer, and Br. Nguyen Tinh and I used tools to remove the weeds. We began to loosen the soil and create rectangular beds. We watered the soil and left it to be nourished by the water. Dry soil cannot absorb water easily, so it took a long time for the water to soak in. Br. Phap Ao just smiled and said to me, “Just keep watering it everyday.” Oh… It sounded like he wanted to tell me something, but what?
 
 
 After working in the greenhouse for just two days, I had already let go of much stress and tension in my body and mind. After a few days of watering, we used chicken manure to fertilize the soil and by now, the soil could absorb the water easily. 
@@ -37,7 +37,7 @@ During one afternoon of mindful service, while I watered the seedlings wholehear
 
 {% image "article/br-troi-ruong-duc/BrRuongDuc2-edit.jpg" %}
 
-When the seedlings began to grow into vegetables, the weeds also gradually grew alongside them. I kept watering the vegetables but did not take care of the weeds. One morning while drinking tea with my mentor, who knew that I didn't take care of the weeds, he smiled and said to me, "You only know how to water the vegetables.” Then I realized that at the same time as I’m watering the vegetables, I have to also take care of the weeds. 
+When the seedlings began to grow into vegetables, the weeds also gradually grew alongside them. I kept watering the vegetables but did not take care of the weeds. One morning while drinking tea with my mentor, who knew that I didn't take care of the weeds, he smiled and said to me, “You only know how to water the vegetables.” Then I realized that at the same time as I’m watering the vegetables, I have to also take care of the weeds. 
 
 One afternoon while weeding with Br. Nguyen Tinh, I found that I could not uproot all of the weeds because their roots were entangled with the roots of the vegetables, which were not yet strong. I could only trim the weeds above ground. Br. Nguyen Tinh looked at me, smiled, and said that maybe you need to wait for the vegetables to be strong enough before you can uproot the weeds. I listened and waited patiently for the vegetables to grow stronger. 
 
@@ -63,7 +63,7 @@ With appropriate attention, the negative energies are taken care of by mindfulne
 
 I am still young in the practice and I treasure the guidance and support of my mentors and the sangha. Every morning I offer happiness to my mentor while we enjoy a cup of tea and listen to the bird songs. This is also an opportunity for me to ask questions about the practice. To me, these are very precious moments in my life. 
 
-I used to think that happiness lies somewhere else and that I needed to pursue it away from home. But when I did that and was still unhappy, I continued to look for another kind of "happiness". 
+I used to think that happiness lies somewhere else and that I needed to pursue it away from home. But when I did that and was still unhappy, I continued to look for another kind of “happiness”. 
 
 One morning while drinking tea in silence with my mentor, I realized that happiness is in the here and now. Gratitude, joy, and peace are all in this moment. It is already happiness. What else could l wish for? How lucky I am to be a monk and to practice together with the sangha here. Thay and our elder brothers and sisters established Plum Village and went through many challenges. I cherish my life here and the conditions made possible by Thay and the sangha.
 

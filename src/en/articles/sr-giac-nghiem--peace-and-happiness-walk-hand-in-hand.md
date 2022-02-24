@@ -35,7 +35,7 @@ One day during this first retreat, I did not participate in the walking meditati
 > 
 > Carry on and offer me your work,” said our teacher.
 
-From then on, all the mindfulness practices I applied while working in the hospital were written down and offered to Thay as well as to the head of the department of the hospital where I was practising. Seeing the results with the patients, he generously gave me "carte blanche" to practise mindfulness! It was in 1985. Such happiness!
+From then on, all the mindfulness practices I applied while working in the hospital were written down and offered to Thay as well as to the head of the department of the hospital where I was practising. Seeing the results with the patients, he generously gave me “carte blanche” to practise mindfulness! It was in 1985. Such happiness!
 
 ## Working in peace
 

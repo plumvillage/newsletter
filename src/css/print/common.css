@@ -818,7 +818,7 @@ img#articlesr-giac-nghiemSu-me-Giac-Nghiem-2-edited {
     margin-bottom: 0;
 }
 img#articlebr-troi-bao-tangScreenshot-edit {
-    width: 87%;
+    width: 97%;
     margin-bottom: 0;
 }
 
@@ -837,6 +837,10 @@ img#articlefor-poemsorchid-light2 {
     max-width: none !important;
     position: absolute;
     z-index: -1;
+    /* yields different results in full-page view & single ... */
+    /* works for single: */
+    /* right: calc((var(--pagedjs-margin-left) + var(--bleed) * 2)*-1); */
+    /* works for full: */
     right: calc((var(--pagedjs-margin-left))*-1);
     width: 148mm;
     bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed)) * -1);
@@ -928,7 +932,7 @@ img#articlebr-phap-an60e {
 }
 img#articlebr-phap-ung8826595315246533743600235026231803661254656ne {
     float: none !important;
-    width: 90% !important;
+    width: 80% !important;
     margin-left: auto;
     margin-right: auto;
 }
@@ -1054,7 +1058,7 @@ img#articlesr-doan-nghiemsu-me-DJoan-N-3-edited {
     width: 90mm;
 }
 
-.PAGE-OF-articlebr-phap-linhCS21202110152RL0936-crop3 .pagedjs_footnote_area
+.PAGE-OF-articlebr-phap-linhCS21202110152RL0936-crop4 .pagedjs_footnote_area
 ,.PAGE-OF-articlebr-phap-huuIMG2227e .pagedjs_footnote_area
 ,.PAGE-OF-articlesr-thoai-nghiemDSC1153e .pagedjs_footnote_area
 {
@@ -1077,8 +1081,8 @@ img#articlesr-doan-nghiemsu-me-DJoan-N-3-edited {
         0px 0 3px black
     ;
 }
-.PAGE-OF-articlebr-phap-linhCS21202110152RL0936-crop3 .pagedjs_footnote_area span,
-.PAGE-OF-articlebr-phap-linhCS21202110152RL0936-crop3 .pagedjs_footnote_area span a {
+.PAGE-OF-articlebr-phap-linhCS21202110152RL0936-crop4 .pagedjs_footnote_area span,
+.PAGE-OF-articlebr-phap-linhCS21202110152RL0936-crop4 .pagedjs_footnote_area span a {
     color: rgb(168, 168, 168) !important;
 }
 .PAGE-OF-articlesr-thoai-nghiemDSC1153e .pagedjs_footnote_area span {
