@@ -30,17 +30,18 @@ async function imageData(src) {
     let destPath = "/media";
     let data = { filename: path.basename(src) };
     let parsed = path.parse(src);
-
+    
     let outputDir = parsed.dir ? path.join("docs/media/build", parsed.dir) : "docs/media/build";
+    let imgFormat = "jpeg"
     let options = {
-        formats: ["webp", "svg"], /* jpeg, png, webp, gif, tiff, avif */
+        formats: [imgFormat, "svg"], /* jpeg, png, webp, gif, tiff, avif */
         outputDir: outputDir,
-        widths: [4000],
+        widths: [5000],
         dryRun: dryRun,
         sharpOptions: {},
         // https://sharp.pixelplumbing.com/api-output#webp
-        sharpWebpOptions: { quality: 95, },
-        sharpJpegOptions: { quality: 40, },
+        sharpWebpOptions: { quality: 50, },
+        sharpJpegOptions: { quality: 98, },
         svgShortCircuit: true
         // disk cache works only when using the built-in hashing algorithm and not custom filenames
         // filenameFormat: function (id, src, width, format, options) {
@@ -51,6 +52,9 @@ async function imageData(src) {
     }
 
     try {
+        let metadata = Image.statsSync(src, options);
+        console.log(metadata)
+
         if (processImages) {
             // can be async
             let metadata = await Image(srcFull, options)
@@ -62,11 +66,13 @@ async function imageData(src) {
             if(metadata.svg.length) {
                 data = metadata.svg[metadata.svg.length - 1];
             } else {
-                data = metadata.webp[metadata.webp.length - 1];
+                data = metadata[imgFormat][metadata[imgFormat].length - 1];
             }
             destPath = path.join(destPath, "build");
         }
         console.log("processing:", data.filename)
+
+        
 
         /* data:
             format: 'webp',
