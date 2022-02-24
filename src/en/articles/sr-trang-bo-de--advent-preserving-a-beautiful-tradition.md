@@ -40,7 +40,7 @@ After living for a while in the monastery, I also started to love the tranquil a
 
 Br. Minh Hy is very playful. He is always present with an open and friendly heart. That evening when he arrived in the rain, I couldn't contain my surprise: “Brother, you also come to Advent?” “Sure!” he replied, as naturally as the hungry eat and the thirsty drink. The image that lingers in my mind is of Br. Minh Hy holding a songbook; his mouth uttering the melody and lyrics while his eyes struggled to open to stay awake. “Brother, are you sleepy?” Catching my cheeky smile, rather than answering, he pretended to open his eyes even wider. At that moment, I understood: *To play without needing to play is truly to play…*
 
-My first impression of Advent was so beautiful that when a sister asked me, “How was your first Advent?” Without hesitation I replied, “Fun and nourishing!” “Will you go again?” “Yes, for sure”, I nodded firmly.
+My first impression of Advent was so beautiful that when a sister asked me, “How was your first Advent?” Without hesitation I replied, “Fun and nourishing!” “Will you go again?” “Yes, for sure,” I nodded firmly.
 
 ## Beginner's mind, free mind
 
