@@ -20,7 +20,7 @@ return (
 
 (async() => {
 let outputFile = `./builds/generated ${formatDate(new Date())}.pdf`;
-
+// for further processing
 fs.writeFile('./builds/latestGeneratedFile.txt', outputFile, err => {
     if (err) {
         console.error(err)

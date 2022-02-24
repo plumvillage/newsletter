@@ -4,10 +4,9 @@ module.exports = {
     data: "builds",
     size: 1
   },
-  builds: ["articles", "articles-print", "articles-print-preview"],
+  builds: ["articles", "articles-print-preview"],
   layout: "layouts/article",
-  subLayout: ["layouts/web.njk", "layouts/print-frame.njk", "layouts/print-frame.njk"],
-  pagedjsCLI: [false, true, false],
+  subLayout: ["layouts/web.njk", "layouts/print-frame.njk"],
   permalink: "/{{ locale }}/{{ builds[pagination.pageNumber] }}/{{ page.fileSlug }}/",
   locale: "en",
   size: "A4",

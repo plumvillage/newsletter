@@ -42,12 +42,12 @@ async function imageData(src) {
     let options = {
         formats: [imgFormat, "svg"], /* jpeg, png, webp, gif, tiff, avif */
         outputDir: outputDir,
-        widths: [5000],
+        widths: [1500],
         dryRun: dryRun,
         sharpOptions: {},
         // https://sharp.pixelplumbing.com/api-output#webp
-        sharpWebpOptions: { quality: 98, },
-        sharpJpegOptions: { quality: 98, },
+        sharpWebpOptions: { quality: 60, },
+        sharpJpegOptions: { quality: 60, },
         svgShortCircuit: true
         // disk cache works only when using the built-in hashing algorithm and not custom filenames
         // filenameFormat: function (id, src, width, format, options) {

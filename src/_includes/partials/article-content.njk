@@ -2,7 +2,7 @@
     {% set artCall = articleCalligraphies(fileSlug) %}
     {%- if artCall.hasCalligraphy %}
         <h1 id="{{ title | slugify }}" class="chapter calligraphyTitle">
-            <img class="articleCalligraphy" src="{{ pathPrefix }}{{ artCall.calligraphyFile }}">
+            <img class="articleCalligraphy" src="{{ artCall.calligraphyFile }}">
         {# {% image artCall.calligraphyFile, "articleCalligraphy" %} #}
         </h1>
     {%- else %}
@@ -10,10 +10,6 @@
     {%- endif %}
 
     <h2 class="author">{{ author }}</h2>
-    {%- if pathPrefix != "" %}
-        {{ content | safe | replace("/media/", pathPrefix+"/media/") }}
-    {%- else %}
-        {{ content | safe }}
-    {%- endif %}
+    {{ content | safe }}
     <div class="article-end"></div>
 </article>

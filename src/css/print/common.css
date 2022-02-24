@@ -837,7 +837,7 @@ img#articlefor-poemsorchid-light2 {
     max-width: none !important;
     position: absolute;
     z-index: -1;
-    right: calc((var(--pagedjs-margin-left) + var(--bleed))*-2);
+    right: calc((var(--pagedjs-margin-left))*-1);
     width: 148mm;
     bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed)) * -1);
 }

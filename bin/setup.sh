@@ -31,9 +31,10 @@ else
   npm install -g netlify-cli
 fi
 
+# DEPRECATED. We now use Chrome Puppeteer
 # Install Paged.js CLI for generating PDF files
-if [[ $(which pagedjs-cli) ]]; then
-  echo "pagedjs-cli already installed"
-else
-  npm install -g pagedjs-cli pagedjs
-fi
+# if [[ $(which pagedjs-cli) ]]; then
+#   echo "pagedjs-cli already installed"
+# else
+#   npm install -g pagedjs-cli pagedjs
+# fi
