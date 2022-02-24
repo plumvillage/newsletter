@@ -1,11 +1,16 @@
-input="./builds/generated 2022-02-23 16-01-30.pdf"
 dpi=400
 Q=1.5
+
+while IFS= read -r input
+do
+  echo "$input"
+done < "./builds/latestGeneratedFile.txt"
 
 gs \
     -o "$input downsampled_dpi${dpi}_q$Q.pdf" \
     -sDEVICE=pdfwrite \
     -dNOPAUSE \
+    -sColorConversionStrategy=CMYK \
     -dDownsampleColorImages=true \
     -dDownsampleGrayImages=true \
     -dDownsampleMonoImages=true \
