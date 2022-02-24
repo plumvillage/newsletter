@@ -6,6 +6,7 @@ gs \
     -o "$input downsampled_dpi${dpi}_q$Q.pdf" \
     -sDEVICE=pdfwrite \
     -dNOPAUSE \
+    
     -dDownsampleColorImages=true \
     -dDownsampleGrayImages=true \
     -dDownsampleMonoImages=true \
@@ -20,6 +21,11 @@ gs \
 
 
 <<comment
+for print:
+-sColorConversionStrategy=CMYK \
+
+
+
 for DPI 300
 Q
 0.01 -> 175 MiB
