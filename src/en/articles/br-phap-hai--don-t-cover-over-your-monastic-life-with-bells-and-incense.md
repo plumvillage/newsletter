@@ -40,7 +40,7 @@ When I was a young monk, I suffered a lot. One time, I shared with Thay a very d
 
 Whilst others can help and support us, ultimately, as practitioners, we ourselves need to be able to look deeply and understand our situation to be able to really transform our suffering. Thay gave us those tools.
 
-## My biggest challenges in the early days
+## My big challenges in the early days
 
 One of the challenges I faced growing up in the sangha was learning how to ask for and receive support. I came from a family environment in which I had to be very responsible in order to survive, so I had a tendency to be a bit too responsible and not want to communicate what was really going on inside. I also did not know how to take advantage of the presence of my elder brothers or sisters. The sangha’s Shining Light and guidance helped me to realise that my real contribution and real transformation was not in volunteering for many things, but something else entirely. I had to learn to be one element of the sangha rather than taking over, even if I thought I was helping. This is a bit like the difference between being a soloist and playing in a band. Of course, this is a lifetime’s journey and I still have a lot to learn in this area.
 
