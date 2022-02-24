@@ -1,6 +1,9 @@
 const puppeteer = require('puppeteer');
 const fs = require('fs');
 const { exec } = require('child_process');
+const articleOrder = {}
+articleOrder.vi = require("./src/_data/article-order-vi.js");
+articleOrder.en = require("./src/_data/article-order-en.js");
 
 function padTo2Digits(num) {
     return num.toString().padStart(2, '0');
@@ -17,6 +20,19 @@ return (
     padTo2Digits(date.getSeconds()),
     ].join('-')
 )}
+
+function execCMD(command) {
+    exec(command, (err, stdout, stderr) => {
+        if (err) {
+            console.log(`couldn't execute: ${command}`);
+            console.log(err);
+            return;
+        }
+        // the *entire* stdout and stderr (buffered)
+        console.log(`stdout: ${stdout}`);
+        console.log(`stderr: ${stderr}`);
+    });
+}
 
 function downsample(pdfFile, dpi = 400, Q = 1.5) {
 /*
@@ -46,7 +62,7 @@ gs -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/e
 */
 
     let command = `gs \
--o "${pdfFile} downsampled_dpi${dpi}_q${Q}.pdf" \
+-o "${pdfFile}_dpi${dpi}_q${Q}.pdf" \
 -sDEVICE=pdfwrite \
 -dNOPAUSE \
 -sColorConversionStrategy=CMYK \
@@ -64,25 +80,14 @@ gs -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/e
 
     console.log("exec: ", command)
 
-    exec(command, (err, stdout, stderr) => {
-        if (err) {
-            console.log(`couldn't execute: ${command}`);
-            console.log(err);
-            return;
-        }
-        // the *entire* stdout and stderr (buffered)
-        console.log(`stdout: ${stdout}`);
-        console.log(`stderr: ${stderr}`);
-    });
+    execCMD(command)
 }
 
-
-(async() => {
-    let outputFile = `./builds/generated ${formatDate(new Date())}.pdf`;
+async function generatePDF(url, outputFile) {
     const browser = await puppeteer.launch({});
     const page = await browser.newPage();
     await page.setDefaultNavigationTimeout(0);
-    await page.goto('http://localhost:8080/en/preview-a4/', {waitUntil: 'networkidle2'});
+    await page.goto(url, {waitUntil: 'networkidle2'});
     
     // works: [webp 3000 q50]
     // for very high quality webp [webp 4000 q50] I am getting: Protocol error (Page.printToPDF): Printing failed
@@ -101,5 +106,25 @@ gs -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/e
         await browser.close();
         downsample(outputFile, 400, 1.5)
     });
+}
 
-})();
+execCMD("rm -f ./builds/articles-print/*")
+    
+function sleep(ms) {
+    return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+// TODO I am cheating with sleep ... dunno how to make this synchronous
+let i = 0;
+function process() {
+    if (i < articleOrder.en.length) {
+        let article = articleOrder.en[i]
+        let url = `http://localhost:8080/en/articles-print-preview/${article}/`
+        console.log(url)
+        generatePDF(url, `./builds/articles-print/${article}.pdf`)
+        i++
+        sleep(5000).then(process);
+    }
+}
+
+process()

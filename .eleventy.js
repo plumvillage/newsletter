@@ -76,20 +76,6 @@ async function imageData(src) {
         }
         console.log("processing:", data.filename)
 
-        
-
-        /* data:
-            format: 'webp',
-            width: 600,
-            height: 295,
-            url: '/img/ThayHeaderImg_whiteFadeout2-600w.webp',
-            sourceType: 'image/webp',
-            srcset: '/img/ThayHeaderImg_whiteFadeout2-600w.webp 600w',
-            filename: 'ThayHeaderImg_whiteFadeout2-600w.webp',
-            outputPath: 'docs/media/build/article/su-ong/ThayHeaderImg_whiteFadeout2-600w.webp',
-            size: 26450
-        */
-
         let result = {
             autoId: slugify(`${parsed.dir}/${parsed.name}`, { strict: true }),
             srcAttribute: path.join(destPath, parsed.dir, data.filename)
