@@ -4,10 +4,10 @@
     <meta charset="utf-8" />
     {% set i18n = site[locale] %}
     {% set articles = collections["articles_" + locale] %}
-    {%- if title == "" %}
-        <title>{{ i18n.title }}</title>
-    {% else %}
+    {%- if title %}
         <title>{{ title }}</title>
+    {% else %}
+        <title>{{ i18n.title }}</title>
     {%- endif %}
     <meta name="author" content="{{ i18n.author }}" />
     <meta name="subject" content="" />

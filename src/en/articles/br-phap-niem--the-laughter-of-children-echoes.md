@@ -23,8 +23,8 @@ While searching for a teacher, as far as I know, Br. Giac Thanh was keen to lear
 
 Br. Giac Thanh was searching for a teacher. One day while visiting family in Canada, he met Thay at a retreat in Maple Village, Montreal, Canada. Autumn in North America with its brilliant colours is always magnificent beyond words. One can only be silent and enjoy it, fully enjoy it. During one walking meditation, Thay and the sangha stopped, sat down on the grass to bathe in the fall colours, and drank tea. Br. Giac Thanh sat next to Thay. Amidst that wondrous reality Thay pointed at the radiant Autumn forest and said, “Br. Giac Thanh, that which you have been searching for so long is right there! There it is! This is it!” Those instructive words were the last drop of water leading to an overflow, creating an opening, a loosening in Br. Giac Thanh’s mind, which reached a wonderful state of freedom. The happiness of that taste of freedom was immense. Perhaps only he could feel it clearly and no one else can possibly describe it. From then on, he truly stopped searching. He took refuge in Thay as his teacher until he passed away. Since that autumn, whenever the younger ones thought of Br. Giac Thanh, we couldn’t help but sing “One Maple Leaf Falls” as an offering to him. He really liked that song.  
 
-<div class="verse"><p><b>One maple leaf falls</b></br>
-My dear, do you hear it?</br>
+<div class="verse"><p>One maple leaf falls,</br>
+my dear, do you hear it?</br>
 One maple leaf falls,</br>
 autumn returns with its beauty.</br>
 A thousand leaves are falling,</br>
@@ -43,25 +43,21 @@ The story of awakening while viewing the autumn splendor may remind us of the st
 自从一见桃花后</br>
 直至如今更不疑</blockquote>
 
-> For thirty years I've sought the swordsman.  
-> Many times the leaves have fallen to sprout anew.  
-> Following one glance at a peach blossom,  
-> I no longer have any more doubts.  
->   
->   <span class="note">Translated by Andy Ferguson. In: Zen's Chinese Heritage: The Masters and Their Teachings, Wisdom Publications, 2000, pp. 183-184.</span>
+<div class="verse"><p>For thirty years I've sought the swordsman.<br/>
+Many times the leaves have fallen to sprout anew.<br/>
+Following one glance at a peach blossom,<br/>
+I no longer have any more doubts.<span class="note">Translated by Andy Ferguson. In: Zen's Chinese Heritage: The Masters and Their Teachings, Wisdom Publications, 2000, pp. 183-184.</span></p></div>
 
 Thay offered a pair of parallel verses to Br. Giac Thanh when he passed away: 
 
-> One maple leaf has fallen down,  
-> and yet you continue to climb the hill of the 21<sup>st</sup> century with us.  
-> Thousands of daffodils are beginning to bloom and the earth continues to be with the sky,  
-> singing the song of no-birth and no-death.
+<div class="verse"><p>One maple leaf has fallen down, and yet you continue to climb the hill of the 21<sup>st</sup> century with us.<br/>
+Thousands of daffodils are beginning to bloom and the earth continues to be with the sky, singing the song of no-birth and no-death.</p></div>
 
 ## Putting on the robe of freedom
 
-There was quite a long period of time when Br. Giac Thanh went “sanghati free”. He came to precept recitations wearing just the long robe, or even just short robes covered with an O.I. jacket. The abbot at that time was extremely upset. Every time he saw Br. Giac Thanh, an elder brother, coming to the precepts recitation “sanghati free”, he showed his displeasure. Of course the unhappiness of the abbot, the second oldest brother in the sangha, was understandable. It was his responsibility to guide the sangha towards order, and not unrestrained “free style”. Knowing this, as much as the abbot was displeased and has already respectfully asked Br. Giac Thanh to wear his sanghati for the precepts recitation, to be an example for the younger ones, he remained "sanghati free".
+There was quite a long period of time when Br. Giac Thanh went “sanghati free”. He came to precept recitations wearing just the long robe, or even just short robes covered with an O.I. jacket. The abbot at that time was extremely upset. Every time he saw Br. Giac Thanh, an elder brother, coming to the precepts recitation “sanghati free”, he showed his displeasure. Of course the unhappiness of the abbot, the second oldest brother in the sangha, was understandable. It was his responsibility to guide the sangha towards order, and not unrestrained “free style”. Knowing this, as much as the abbot was displeased and has already respectfully asked Br. Giac Thanh to wear his sanghati for the precepts recitation, to be an example for the younger ones, he remained “sanghati free”.
 
-I was a young monk at the time, so I barely noticed what was happening, I was not qualified to say anything. Thay must have heard the complaints and knew about it, but somehow he acted as if nothing had happened. The other brothers also knew, but no one complained and no one followed suit. The fact was that Thay was Br. Giac Thanh's teacher. If Thay said nothing, how could we? Only Thay and Br. Giac Thanh understood each other at that level. Maybe that is why Thay said nothing. In the end, Br. Giac Thanh was still Br. Giac Thanh, "sanghati free". 
+I was a young monk at the time, so I barely noticed what was happening, I was not qualified to say anything. Thay must have heard the complaints and knew about it, but somehow he acted as if nothing had happened. The other brothers also knew, but no one complained and no one followed suit. The fact was that Thay was Br. Giac Thanh's teacher. If Thay said nothing, how could we? Only Thay and Br. Giac Thanh understood each other at that level. Maybe that is why Thay said nothing. In the end, Br. Giac Thanh was still Br. Giac Thanh, “sanghati free”. 
 
 Spring in the west is incredibly beautiful. Come winter, the forest sheds all its leaves, leaving only bare branches and appearing as if dead. But after three months of sleep, the buds and shoots burst through rapidly and emerge as green leaves in just a short while. The forest was a tender green and full of life. There were times in spring when Br. Giac Thanh would sit on the deck of the Floating Cloud Hut and mutter, “My sanghati is the vast sky and earth, the green of nature,  every day, I wear it at all times…”
 
@@ -97,19 +93,16 @@ Deer Park Monastery is in Southern California. For some unknown reason, when Br.
 
 At Deer Park Monastery on the side of the mountain, a memorial stupa was erected for Br. Giac Thanh and in the heart of it is engraved a posthumous poem written for him by Thay.
 
-<div class="verse" style="width: 105mm;"><p>That you are a virtuous one is already heard by everyone,  
-    <br/>
-the work of a true practitioner has been accomplished.  
-    <br/>
-When you stupa has just been raised on the hillside,  
-    <br/>
+<div class="verse" style="width: 105mm;"><p>That you are a virtuous one is already heard by everyone,<br/>
+the work of a true practitioner has been accomplished.<br/>
+When you stupa has just been raised on the hillside,<br/>
 the sound of children’s laughter will already be heard.</p></div>
 
 {% image "article/br-phap-niem/CCI11202018_00015-edit.jpg" %}
 
 Br. Giac Thanh was truly a hero, a great man. He had accomplished the most worthy deed of a practitioner - the career of awakening. He built his stupa not with stones but with liberation, awakening, solidity, and freedom, and we continue to benefit from them. That stupa is also his sangha. In the years since Br. Giac Thanh passed away, many young people, both Vietnamese and American, have come to practise and ordain at Deer Park Monastery. They are all his continuation. The laughter of innocence, joy, and freedom still echoes in those endless skies. 
 
-There are many who can recount more wonderful moments with Br. Giac Thanh, more so than I. Whenever I sit down to make a pot of tea I remember him through the vivid Dharma sounds that resonate in my mind, and the warm cups of tea he taught me to drink with awareness. "Ha! See?" Br. Giac Thanh is still there in each of us teasing us, and drinking tea with us. "Ha! Ha! Ha!" 
+There are many who can recount more wonderful moments with Br. Giac Thanh, more so than I. Whenever I sit down to make a pot of tea I remember him through the vivid Dharma sounds that resonate in my mind, and the warm cups of tea he taught me to drink with awareness. “Ha! See?” Br. Giac Thanh is still there in each of us teasing us, and drinking tea with us. “Ha! Ha! Ha!”
 
 With my deepest respect to my beloved elder Brother Giac Thanh, 
 Chan Phap Niem

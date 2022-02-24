@@ -164,7 +164,11 @@ body {
 }
 
 #title-page h1 {
-    margin: 0 auto;
+    margin-top: 20%;
+    margin-bottom: 10%;
+    margin-left: auto;
+    margin-right: auto;
+    /* margin: 0 auto; */
 }
 #title-page img {
     display: block;
@@ -173,8 +177,8 @@ body {
 }
 #title-page h1 img {
     width: 88%;
-    margin-top: 20%;
-    margin-bottom: 10%;
+    /* margin-top: 20%;
+    margin-bottom: 10%; */
 }
 #calligraphyarticle-titles-2-and-dividers5-maskedDividers2-2-straight {
     width: 25%;
