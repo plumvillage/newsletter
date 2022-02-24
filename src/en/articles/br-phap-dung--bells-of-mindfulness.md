@@ -28,8 +28,8 @@ As the moment ended in the dream, Thay shared that he turned to the side of the 
 ## Community of awakening
 I finished this drawing on MLK (Martin Luther King) Day, at the end of our lazy days on January 18<sup>th</sup>, and so I dedicated it to the spiritual friendship between Thay and Dr. King and their mutual vision of building a global “beloved community” where we see each other as siblings of one family. I penned at the bottom of the drawing a few lines that I adapted from the bell gatha.
 
-> *May the sound of this bell bring relief to the world.  
-May the hearers awake from their delusion of a separate self.*
+<div class="verse"><p>May the sound of this bell bring relief to the world.<br/>
+May the hearers awaken from their delusion of a separate self.</p></div>
 
 ## A medicine for our time
 As I write in this moment, I think of Thay’s legacy of renewing Buddhist practices and all the effort he put into introducing to the world the meaning and practice of inviting and listening to the sound of the bell. I cannot imagine how many Dharma talks our teacher must have given on this topic. The simple act of stopping everything that we are doing when we hear the bell being invited, including our thinking and conversations, and returning all of our attention to our conscious breathing was invented or adapted by our teacher. Before that, in the temples, the bell did not have this explicit function or significance. Thay formulated this practice as a medicine for our times, an antidote to our modern culture of running and grasping and our inability to be fully present to what is happening in the present moment, caught in our constant over-thinking. 

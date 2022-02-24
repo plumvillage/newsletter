@@ -782,14 +782,17 @@ h1#the-true-sangha + .author, h1#tang-than-dich-thuc + .author {
     text-shadow: white 1px 0 5px
 }
 
-html:lang(vi) img#articlebr-troi-thien-chi5brot {
-    width: 83%;
-    left: 9%;
-    position: relative;
-    float: none;
+img#articlebr-troi-thien-chi5brot {
+    width: 90%;
+    margin-right: 5%;
 }
 
-img#articlebr-troi-thien-chi21767317541562549611291283397034335052574932n{
+html:lang(vi) img#articlebr-troi-thien-chi5brot {
+    width: 82% !important;
+    margin-right: 11% !important;
+}
+
+html:lang(vi) img#articlebr-troi-thien-chi21767317541562549611291283397034335052574932n{
     float: left;
     margin-right: 6pt;
     width: 60%;
