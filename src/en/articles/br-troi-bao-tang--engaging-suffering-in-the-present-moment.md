@@ -49,7 +49,7 @@ In Plum Village I have had the chance to study the classical Vinaya, both Pali a
 
 When I contemplate the future Plum Village monastic community, I would love to see that we will continue to practice the monastic mindfulness trainings (Pratikmoksha), mindful breathing and walking, to build togetherness and siblinghood. To be a community that continues to contribute peace and healing to society and transform suffering. To be a community that has more diversity in terms of nationalities, ethnicities, people of color, gender, and diverse sexual orientations.
 
-One day, LGBTQIA+ people will be familiar friends to themselves, their family, society, nation and the world. And in the end, we will not need the labels anymore because we are just humanity - not seen to be different from anyone else. This is my deep aspiration.
+One day, LGBTQIA+ people will be familiar friends to ourselves, our family, society, nation and the world. And in the end, we will not need the labels anymore because we are just humans - not seen to be different from anyone else. This is my deep aspiration.
 
 <!-- \*Dharmaguptaka Vinaya 
 Ordination Skandhaka, part5 
