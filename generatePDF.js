@@ -83,7 +83,7 @@ gs -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/e
     execCMD(command)
 }
 
-async function generatePDF(url, outputFile) {
+async function generatePDF(url, outputFile, onFinished = () => {}) {
     const browser = await puppeteer.launch({});
     const page = await browser.newPage();
     await page.setDefaultNavigationTimeout(0);
@@ -105,26 +105,35 @@ async function generatePDF(url, outputFile) {
     pdfStream.on('end', async () => {
         await browser.close();
         downsample(outputFile, 400, 1.5)
+        onFinished()
     });
 }
 
-execCMD("rm -f ./builds/articles-print/*")
-    
+// execCMD("rm -rf ./builds/articles-print/*")
+
 function sleep(ms) {
     return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
-// TODO I am cheating with sleep ... dunno how to make this synchronous
+let dir = `./builds/articles_${formatDate(new Date())}`
 let i = 0;
-function process() {
+function processArticle() {
     if (i < articleOrder.en.length) {
-        let article = articleOrder.en[i]
+        let article = articleOrder.en[i++]
         let url = `http://localhost:8080/en/articles-print-preview/${article}/`
         console.log(url)
-        generatePDF(url, `./builds/articles-print/${article}.pdf`)
-        i++
-        sleep(5000).then(process);
+        generatePDF(url, `${dir}/${article}.pdf`,
+        () => { // onFinished: continue:
+            processArticle()
+        })
     }
 }
 
-process()
+let generateArticles = true
+if (generateArticles) {
+    fs.mkdirSync(dir)
+    // concurrent:
+    Array(8).fill().forEach(processArticle);
+}
+
+generatePDF("http://localhost:8080/en/preview-a4/", `./builds/en-preview-a4_${formatDate(new Date())}.pdf`)
