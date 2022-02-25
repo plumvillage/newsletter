@@ -73,11 +73,9 @@ What I have known, learned, experienced, and done can easily become a solid cita
 
 He is sixteen. This Christmas and New Year holiday he was sent to Nhap Luu to stay with the sisters. His parents and younger brother visit him once a week. In Australia, the school holiday at the end of the year lasts six weeks. His family planned to send him here for six weeks, but the sisters cautiously told him to try for two weeks to begin with.
 
-Apparently, he is a gaming addict. After the school holiday he will go into year twelve. He is very smart yet without direction in his life. Prior to coming to the monastery, he prepared himself to just join the sisters at meal times and mindful service. Other than these, he would not join sitting meditation, walking meditation, or have any contact with the sisters. In the beginning, he responded reluctantly when asked. Not even one week later, he was already chatting, smiling, and laughing with the sisters. He started joining in with the walking and sitting meditation. In a Dharma sharing session, he said that the sisters are “normal”, not as he had thought.
+Apparently, he is a gaming addict. After the school holiday he will go into year twelve. He is very smart yet without direction in his life. Prior to coming to the monastery, he prepared himself to just join the sisters at meal times and mindful service. Other than these, he would not join sitting meditation, walking meditation, or have any contact with the sisters. In the beginning, he responded reluctantly when asked. Not even one week later, he was already chatting, smiling, and laughing with the sisters. He started joining in with the walking and sitting meditation. In a Dharma sharing session, he said that the sisters are “normal”, not as he had thought. He still has a long way to go, but his face is brighter and lighter, his steps are dragging less. That is indeed a success.
 
 {% image "article/sr-trang-mai-thon/SrMaiThon2-edited.jpg" %}
-
-He still has a long way to go, but his face is brighter and lighter, his steps are dragging less. That is indeed a success.
 
 Dear Thay, these stories of transformation of the lay people who join us in the practice are similar across Plum Village centers everywhere. Stream Entering Monastery is no exception.
 

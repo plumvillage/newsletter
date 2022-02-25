@@ -37,6 +37,8 @@ Có những lúc chị em chúng con đứng mải mê nhìn thế giới độn
 
 Chúng con về được vài tuần thì có khoá tu online. Covid vẫn đang hoành hành khắp nơi trên nước Úc. Không thể tổ chức hai khóa tu, một bằng tiếng Anh, một bằng tiếng Việt tại tu viện như dự định lúc ban đầu được nữa nên chúng con gộp lại, tổ chức chỉ một khoá tu hai ngôn ngữ. Lần đầu tiên có khoá tu online nên chúng con hơi dè dặt, chẳng biết khả năng của mạng lưới Wifi ở đây có đủ sức đảm đương hay không nên không dám nhận nhiều thiền sinh, chỉ giới hạn tối đa 100 đến 110 người. Nhiều người đăng ký trễ, không được tham dự nên rất buồn làm chúng con khá áy náy. Mới ban đầu chúng con sợ “bị ế” nên nhờ trang nhà Làng Mai cả Anh lẫn Việt quảng bá khóa tu cho rộng rãi. Thế là thiền sinh từ Nhật, Trung Quốc, Nam Phi, v.v. cũng đăng ký làm số lượng tăng lên khá nhanh. Một số người ở Úc để “thủng thẳng rồi hãy đăng ký”, không ngờ những người ở ngoài Úc đăng ký trước nên họ không còn chỗ. Tất cả chỉ có sáu sư cô, vừa làm ban tổ chức, ban ghi danh, cho pháp thoại, hướng dẫn pháp đàm, thảo luận theo chuyên đề (workshop), ngồi chuông các thời khoá hàng ngày và làm thiền buông thư. Còn nấu ăn nữa. Vậy mà khoá tu đã diễn ra rất suôn sẻ và thành công. Đó là nhờ sự yểm trợ hết lòng của các vị thiền sinh cư sĩ trong việc thông dịch và kỹ thuật. Rất nhiều hoa trái của sự thực tập đã được thiền sinh ghi lại, gửi đến trang nhà Nhập Lưu để chia sẻ, nuôi dưỡng và tạo cảm hứng cho người khác. Chúng con thấy mình thật may mắn được tham dự vào dòng chảy này.
 
+{% image "article/sr-trang-mai-thon/SrMaiThon3-edited.jpg" %}
+
 ## Nuôi dưỡng
 
 Mùa xuân ở xứ sở Kangaroo này bắt đầu từ tháng Mười. Nhìn từng nụ hoa, chiếc lá từ lúc mới nhú trên cành đến lúc nở bung ra, con thấy sức sống của đất trời thật mầu nhiệm. Không hiểu sao con rất thích thưởng thức lá non, có khi còn thưởng thức hơn cả hoa nữa. Ở Úc phần nhiều đất đai là sa mạc, mưa ít nên nhìn thấy cây cối ở đây nảy lộc đâm chồi, tự nhiên thấy lòng biết ơn chi lạ! Màu xanh của lá ở đây cũng khác với màu xanh của lá ở châu Âu, không mơn mởn mà có gì đó hơi khắc khổ một chút. Nhưng con thấy nó đẹp trong sự khắc khổ đó bởi vì nó mang trong mình sự chịu đựng, kiên trì và nhẫn nại. Cùng với hệ thống rễ, những chiếc lá này miên mật làm việc để nuôi cây. Không có chúng, cây không thể lớn được.
@@ -45,7 +47,7 @@ Năm ngoái, xóm Mới phát động phong trào trồng cây thay cho những 
 
 Công phu hàng ngày và những thanh quy tưởng như lặt vặt lại là loại thuốc chống côn trùng hiệu quả để cho lá non không bị gặm nham nhở dẫn đến sự kiệt quệ của cả cây phải không thưa Thầy? Tuệ giác tích tụ qua kinh nghiệm hàng ngàn năm của các thế hệ cao tăng đi trước thật là bất khả tư nghì. Nơi tu viện mới con đang ở chỉ có sáu chị em, nếu không có công phu tu tập hàng ngày miên mật bảo hộ thì thật khó để đi đường dài.
 
-{% image "article/sr-trang-mai-thon/SrMaiThon3-edited.jpg" %}
+{% image "article/sr-trang-mai-thon/SrMaiThon2-edited.jpg" %}
 
 ## Buông bỏ
 
@@ -64,8 +66,6 @@ Nhóc bị nghiện trò chơi điện tử. Sau kỳ nghỉ lễ sẽ lên lớ
 Nhóc vẫn còn con đường dài phía trước để đi, nhưng giờ gương mặt đã vui vẻ, nhẹ nhàng, bước chân bớt kéo lê. Vậy là nhóc đã thành công rồi đó!
 
 Thầy kính thương, những câu chuyện chuyển hóa của thiền sinh sau khi đến tu học với Làng Mai, dù ở đâu đều na ná như nhau. Ở Nhập Lưu chúng con cũng không ngoại lệ. Có những thiền sinh khi mới đến gương mặt buồn bã, u ám, nước mắt cứ chực rơi. Chúng con không làm gì đặc biệt ngoài thời khóa hàng ngày. Những “món hàng thường lệ” của thầy trò Làng Mai: thiền tọa, kinh hành, tụng kinh, ăn trong im lặng, thiền hành, pháp thoại, pháp đàm, thiền hướng dẫn được làm tới làm lui năm này qua năm khác. Vậy mà chỉ sau vài hôm tu tập trông họ đã rất khác. Nhìn thấy họ trở lại, đem bạn bè, người thân đến cùng tu, chúng con thấy mình chỉ cần sống đời thường nhật trong tu viện *“như bao người đang sống, thắp mặt trời làm trái tim chung”* (*Bình an* *- sư cô Giải Nghiêm*) là đã đủ để tạo nên cái đẹp, cái lành.
-
-{% image "article/sr-trang-mai-thon/SrMaiThon2-edited.jpg" %}
 
 Người ta bảo rằng những người lớn tuổi hay sống bằng kỷ niệm. Kỷ niệm đẹp hay không đẹp, người ta vẫn cứ hoài niệm như thường. Vậy người tu “lớn tuổi” có khác gì không nhỉ? Con chắc họ cũng sống bằng kỷ niệm. Một sư em hỏi con sống ở đây thấy ra sao, có lạnh lắm không? Con nói với sư em rằng vì mình biết mình sống ở đây, đây là nơi mình sống, cho nên mình làm bạn với cái lạnh, với cái nóng, với thời tiết ở đây. Con đang sống nơi đây, nơi giây phút hiện tại, con đang tạo cho mình một hiện tại đẹp, để “về già”, con sẽ không đi ngược lại với lẽ thường tình, vẫn sống bằng kỷ niệm nhưng là những kỷ niệm đẹp.
 

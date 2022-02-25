@@ -125,4 +125,4 @@ Thưa thầy Giác Thanh, có nhiều người còn có nhiều câu chuyện đ
 
 Hừ! Thầy vẫn luôn có mặt đó, trong mỗi chúng con và vẫn đang vui đùa, uống trà cùng chúng con đó mà. Hừ! Hừ! Hừ!
 
-Con thành tâm đảnh lễ Giác linh Thầy.
+<p class="noIndent">Con thành tâm đảnh lễ Giác linh Thầy.</p>
