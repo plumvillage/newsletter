@@ -1,5 +1,5 @@
 ﻿---
-title: Con đường tình thương
+title: Cuộc cách mạng đang tiếp diễn
 author: Thầy Chân Trời Đại Đạo
 ---
 

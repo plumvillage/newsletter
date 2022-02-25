@@ -1,5 +1,5 @@
 ﻿---
-title: Đã có đường đi rồi, con không còn lo sợ
+title: Con đường tình thương
 author: Thầy Chân Trời Đạo Bi
 ---
 
