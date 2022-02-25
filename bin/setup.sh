@@ -3,6 +3,11 @@
 # Install node modules
 npm install
 
+DIR="builds"
+if [ ! -d "$DIR" ]; then
+ mkdir "$DIR"
+fi
+
 # Download Paged.js
 DIR="src/pagedjs"
 if [ ! -d "$DIR" ]; then
