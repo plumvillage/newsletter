@@ -27,7 +27,7 @@ Ten years of Freudian analysis ensued, years rich with learning and insight; the
 
 However, the idea of being locked down with Mum indefinitely was way beyond my comfort zone! But in meditation I gave space to a small, quiet voice that wanted to offer love and support to the only mother I have, who had cared for me as a child and also to relieve my sister who had been caring for my parents for many years, albeit from a distance. On telling my sister these thoughts she exclaimed “What a sacrifice!” But the only sacrifice was the intention to make caring for Mum sacred, a part of my practice. Easy to say, difficult to do! The home I had run away from, fifty years before, now sent phantoms and ghosts to haunt me. My intention was to stay present and stay put. But how?
 
-***Practice*:** A checklist - Am I taking care of my freshness, solidity and joy? To my surprise I slipped into a regular daily schedule starting the day with meditation to digest and investigate the latest emotional storm which came from around and inside me. To cultivate joy, each day, rain or shine, I walked in the nearby forest where I had played as a child, taking refuge in the ancient oak trees - our ancestors - giving them a long hug. Every morning I worked in the garden, accompanied by the robins who had also accompanied Dad. Before dark, I cycled along the beautiful country lanes of Hampshire, empty now during lockdown. I facilitated Dharma sharing families for all of the Plum Village online retreats and supported the UK Sangha. With all this joy I had enough solidity to offer my presence to Mum.
+***Practice*:** A checklist - Am I taking care of my freshness, solidity and joy? To my surprise I slipped into a regular daily schedule starting the day with meditation to digest and investigate the latest emotional storm which came from around and inside me. To cultivate joy, each day, rain or shine, I walked in the nearby forest where I had played as a child, taking refuge in the ancient oak trees - our ancestors - giving them a long hug. Every morning I worked in the garden, accompanied by the robins who had also accompanied Dad. Before dark, I cycled along the beautiful country lanes of Hampshire, empty now during lockdown. By Zoom, I facilitated Dharma sharing families for all of the Plum Village online retreats and supported the UK Sangha. With all this joy I had enough solidity to offer my presence to Mum.
 
 I was also inspired by the Five Invitations of Frank Ostaseski, founder of the San Francisco Zen Hospice for the Dying, a practitioner who has spent his whole career accompanying the dying: 
 
@@ -57,7 +57,7 @@ Seven months on, it seemed that Mum was not going to die a few months after Dad 
 
 The day before her funeral I was able to sit a long while with her body and place a bouquet of flowers in her hands. This is the poem that came to me, which I read out during her service.
 
-## Contemplation on Mum’s Body 
+## Contemplation on mum’s body 
 
 <div class="verse"><p>Your two hands<br/>
 Now folded in peace upon your chest<br/>
@@ -102,4 +102,4 @@ We are your continuation.</p></div>
 
 As we emptied the house, my whole life was unravelling before me, held in old photos and worn objects, loved and well used. Each cupboard, box or tin opened, more treasures were revealed, and then in their turn, let go of. 
 
-Waking on the morning of leaving for Plum Village, I felt a deep sense of closure. My parents once more together, their ashes buried in the country village churchyard. All is well.
+Waking on the morning of leaving for Plum Village, I felt a deep sense of closure. My parents once more together, their ashes buried in Sheet village churchyard. All is well.
