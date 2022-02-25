@@ -11,6 +11,8 @@ The project now has three plots. The original farm in Upper Hamlet/Son Ha, one i
 
 The happy farmers hope to demonstrate that productivity, environmental sustainability and personal happiness do not have to be in conflict, but are three essential pillars that can strengthen each other.
 
+{% image "article/mick-mcevoy/Happy-Farm.jpg" %}
+
 ## The Aims of the Happy Farm
 
 ***To grow healthy organic vegetables for the Plum Village community***
@@ -22,6 +24,10 @@ The main aim is to nourish the soil and to grow vegetables organically by using 
 Vegetables are grown to meet the needs of each hamlet and a variety of vegetables are regularly grown. They are especially cultivated for the Spring and the Summer Retreat. The Summer Retreat in July is usually (depending on conditions) attended by more than 1,000 people per week.
 
 We know that modern agriculture, which feeds the world, unfortunately is an industrial system. There are many extra elements that are really unnecessary and not so good for our health or for Mother Earth. We are very concerned with the concept and application of interbeing as Thich Nhat Hanh teaches. We care for the ‘more than human being’ life that is here on the land. The soil is very alive, we try to have respect and reverence for the soil, as well as respect and reverence for the humans that are eating the food that we produce. That’s why we even go beyond organic.
+
+{% image "article/mick-mcevoy/Happy-Farm-Early-Day-e.jpg" %}
+
+{% image "article/mick-mcevoy/TPDung-Planting-vegetable-crop.jpg" %}
 
 ***To train people in applying the principles of mindfulness in a working***
 
@@ -59,7 +65,10 @@ In 2021 the Lower Hamlet Happy Farm was moved to new land (about 50 meters away)
 
 ***New Hamlet***
 
-The New Hamlet Happy Farm manifested the most recently. Although it officially began in the spring of 2017, gardening and farming in New Hamlet was started many years before by Sr. Bao Nghiem who had a green thumb and planted many different kinds of vegetables in the greenhouses and outdoors. We also had a horticultural garden before it became part of the Happy Farm. The first sister in charge of the Happy Farm was Sr. Nguyet Nghiem who received a lot of support from the Happy Farm brothers in Upper Hamlet. Slowly, three long term friends joined the team and  one of them is now in training to become a nun and continues to support the Happy Farm. 
+The New Hamlet Happy Farm manifested the most recently. Although it officially began in the spring of 2017, gardening and farming in New Hamlet was started many years before by Sr. Bao Nghiem who had a green thumb and planted many different kinds of vegetables in the greenhouses and outdoors. We also had a horticultural garden before it became part of the Happy Farm. The first sister in charge of the Happy Farm was Sr. Nguyet Nghiem who received a lot of support from the Happy Farm brothers in Upper Hamlet. Slowly, three long term friends joined the team and  one of them is now in training to become a nun and continues to support the Happy Farm.
+
+{% image "article/mick-mcevoy/Re-Wilding project_12-edited.jpg" %}
+{% image "article/mick-mcevoy/Happy-Farm-3-e.jpg" %}
 
 ## Looking Forwards
 
@@ -72,5 +81,7 @@ The community in Upper Hamlet has acquired more land, which is old agricultural 
 Most of the rewilding will be done through natural regeneration, relying on the earth’s capacity to heal herself. This forest will actually come from the existing pockets of woodland and seed itself. It has already begun to happen. The wild animals, the ‘more than humans’ that share the land, like the numerous wild boar, are like ecological engineers for us, they use their tusks and their nose to break open the soil leaving bare patches of soil where the seeds of many of these pioneer tree species are rooting in. We’re helping nature, for example, by excluding the deer that graze off some of this regeneration, but we’re doing it in partnership and letting Mother Nature take the lead. Our role as human beings is to get out of Mother Nature’s way and help only when needed.
 
 When Plum Village reopens, opportunities will manifest for ecological retreats where we can bring our mindfulness practice onto these lands. Guests will be able to plant more native trees to restore the ecosystem and be a part of that healing.
+
+{% image "article/mick-mcevoy/Re-Wilding project_7.jpg" %}
 
 Further down the road we have the potential to develop a portion of land for what we call agroforestry. That’s an old style of forestry that exists in places like Spain traditionally, with cereal crops growing in avenues between trees like walnuts, hazelnuts, apricots or apples and many more combinations. So the two coexist. We will probably partner with the farmers in the region. Again, it’s all in the spirit of organic cultivation. We could even grow soya for our homemade tofu and wheat, spelt or rye for our own bread baked in wood-fired ovens! We want to complete the circle a little more and produce more here for our community, in our community. This long term project will be done in the spirit of bringing greater reverence for beings that we share the land with, to bring this spirit further into our collective consciousness on the farm and in the community.

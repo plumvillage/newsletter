@@ -43,13 +43,16 @@ LGBTQIA+ people are not the enemies of anyone. We are just unfamiliar friends to
 
 My aspiration, as a Rainbow monk, is first to live a life of freedom and help others do the same. We all have Buddha nature, we all have beauty within us. I would like to see Rainbow people live happily and free and love according to who they are. I also would like to support my Rainbow monastic siblings to live happily and free as monastics, to be able to practice the precepts and cultivate merit and virtue so that we can continue the legacy of the Buddha and our teacher, Thay.
 
-{% image "article/br-troi-bao-tang/266137775101594156527050427864726797241279645n.jpg" %}
 
 In Plum Village I have had the chance to study the classical Vinaya, both Pali and Chinese translated into English. Surprisingly I discovered that in the time of the Buddha, the topic of gender was part of sangha life. I came across a paragraph in the Vinaya<span class="note">Dharmaguptaka Vinaya: Ordination Skandhaka, part 5. Taisho Vol. 22 pp. 812-816, Bodhi.</span> stating that when a monk who had been ordained as a bhikshu for some time became a woman, and the Buddha said that she should join the bhikshuni sangha and keep her place in order of ordination. The same happened for a bhikshuni who became a man. I felt light at heart because a man can be female and a woman can be male and it does not mean that that person has to be expelled from the sangha. These accounts give me confidence in the Buddha’s teaching, in his community, and also in the inclusiveness of the Plum Village monastic community.
 
 When I contemplate the future Plum Village monastic community, I would love to see that we will continue to practice the monastic mindfulness trainings (Pratikmoksha), mindful breathing and walking, to build togetherness and siblinghood. To be a community that continues to contribute peace and healing to society and transform suffering. To be a community that has more diversity in terms of nationalities, ethnicities, people of color, gender, and diverse sexual orientations.
 
 One day, LGBTQIA+ people will be familiar friends to ourselves, our family, society, nation and the world. And in the end, we will not need the labels anymore because we are just humans - not seen to be different from anyone else. This is my deep aspiration.
+
+<div class="article-end"></div>
+
+{% image "article/br-troi-bao-tang/266137775101594156527050427864726797241279645n.jpg" %}
 
 <!-- \*Dharmaguptaka Vinaya 
 Ordination Skandhaka, part5 

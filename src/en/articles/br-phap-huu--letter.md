@@ -26,9 +26,9 @@ We have a beautiful community full of talent and vitality, and we will carry the
 
 I hold you close to me, I release you to be so free; because I am in you, and you are in me.
 
-Your student,  
-Pháp Hữu  
-*Plum Village, January 30<sup>th</sup> 2022.*
+<p class="noIndent">Your student,<br/>
+Pháp Hữu<br/>
+<i>Plum Village, January 30<sup>th</sup> 2022.</i><br/></p>
 <!-- [\*\*MIC DROP\*\* ✌🏻 😎 ] -->
 <div class="article-end"></div>
 

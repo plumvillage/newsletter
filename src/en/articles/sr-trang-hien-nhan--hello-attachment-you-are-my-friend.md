@@ -13,11 +13,11 @@ We planted 150 trees, made a new, vast and spacious walking path, moved the Happ
 
 Thus, old and new stand together in harmony, complete each other in beauty and strength. When the sangha practices walking meditation in the poplar grove and the small forest sanctuary where Thay loved so much to take us, I feel like we are walking in Thay’s steps and continuing the old path with a faithful and determined heart. When the Sangha walks on the newly created path, passing by the new Happy Farm, the 150 newly planted trees, looking over the vast, wide open neighboring fields, I rejoice in the going forth of our sangha and feel how together, we are carrying Thay’s work into the future.
 
-{% image "article/sr-trang-hien-nhan/EN/Planting-Tree-In-LH.jpeg" %}
-
 ## The signs of
 
 Dear community, as a very young disciple, I want to offer you a gift - the story of my practice with one of the mental formations that I have inherited from a long stream of ancestors, their experiences, and inner formations. The name of this mental formation is attachment, and the name of this ongoing story, sometimes going up and sometimes down, is “Hello attachment, You Are My Friend”. 
+
+{% image "article/sr-trang-hien-nhan/EN/Planting-Tree-In-LH.jpeg" %}
 
 So, how does this story start? Earlier this year, mister attachment came once more to knock at the door of my heart and started singing his familiar song of fear and desire (the one I first listened to directly the day I came out of my mother’s womb). He sings to me very eloquently, with a powerful voice that can both rise very high and come down to the very low notes, accompanied by a whole orchestra. His songs can be captivating. I have to make a great effort in order not to get too absorbed in them. Mister attachment is a poet, he has a whole range of metaphors, rhythms, tones, and forms; he is grounded in a whole lineage of artists and his strength comes from the very core of human nature. He is also a philosopher capable of deep reflection, and a scientist, with proven evidence. His songs contain all of that. 
 
@@ -59,59 +59,62 @@ Since our initial encounter, there have been many more events, and there will be
 
 Dear community, here is the little poem I shared about earlier, which has helped a heart to heal and to grow. It was born in French and then translated into English, because it lives in an international sangha. 
 
-> The Sangha is as vast as the ocean  
-> High as a mountain  
-> Free as the unobstructed sky  
-> 
-> The Sangha is a festival of stars  
-> A full moon brightening the night   
-> A deep, ancient forest   
-> 
-> The Sangha is protected by a spiritual stream  
-> Within her, all that occurs is a mirror  
-> Which gently unveils our minds  
-> 
-> The Sangha is a path to awakening   
-> Each pebble invites us to take a step  
-> That brings us to the heart of our being  
->  
-> The Sangha is made of laughter and tears  
-> Because the Sangha is made of human beings  
-> Tears purify the heart   
-> 
-> The Sangha is the teacher  
-> Teaching me resilience,  
-> Inner strength, acceptance,  
-> Openness and love  
-> 
-> The Sangha is the sea that collects my tears  
-> The Sangha is the valley which echoes my laughter  
-> The Sangha makes me discover that I love what is difficult, because what is difficult makes me grow and frees me  
-> 
-> The Sangha teaches me that Manas, that emotions and hurts  
-> Are not my true mind  
-> The Sangha teaches me to stop, to breathe and to smile  
-> 
-> The Sangha teaches me to love my inner child  
-> Wounded and shy, she suddenly jumps up and runs to join a festival of joy  
-> Loved among her sisters  
-> 
-> Manas and my inner child walk hand in hand  
-> Sometimes, I let myself be a child even if then I am also Manas, I am not afraid  
-> Because the Sangha is both gentle and sharp, seeing straight into the heart   
-> 
-> The Sangha teaches me silence and the Sangha teaches me laughter and joy  
-> The Sangha teaches me to be happy and to suffer  
-> The Sangha teaches me that my body and mind are not separate from the energy of the Sangha  
-> 
-> The Sangha lives in my heart, in my body, my breath  
-> The Sangha thinks in me and dreams there  
-> The Sangha eats, drinks, falls asleep and awakes  
-> 
-> She carries me on the ocean of life  
-> She is the source of my balance, my joy, my energy  
-> Without her, I cannot say what would manifest in me - how could I know? 
->  
-> This poem is also the Sangha  
-> As well as each of my thoughts, my actions and my words  
-> Today, I cried the tears of the Sangha so that gently, my heart in the heart of the Sangha becomes freer.<br/><cite>With love & gratitude, Sr. Trăng Hiền Nhân</cite>
+<div class="verse"><p>The Sangha is as vast as the ocean<br/>
+High as a mountain<br/>
+Free as the unobstructed sky</p>
+
+<p>The Sangha is a festival of stars<br/>
+A full moon brightening the night <br/>
+A deep, ancient forest </p>
+
+<p>The Sangha is protected by a spiritual stream<br/>
+Within her, all that occurs is a mirror<br/>
+Which gently unveils our minds</p>
+
+<p>The Sangha is a path to awakening <br/>
+Each pebble invites us to take a step<br/>
+That brings us to the heart of our being<br/>
+ </p>
+<p>The Sangha is made of laughter and tears<br/>
+Because the Sangha is made of human beings<br/>
+Tears purify the heart </p>
+
+<p>The Sangha is the teacher<br/>
+Teaching me resilience,<br/>
+Inner strength, acceptance,<br/>
+Openness and love</p>
+
+<p>The Sangha is the sea that collects my tears<br/>
+The Sangha is the valley which echoes my laughter<br/>
+The Sangha makes me discover that I love what is difficult, because what is difficult makes me grow and frees me</p>
+
+<p>The Sangha teaches me that Manas, that emotions and hurts<br/>
+Are not my true mind<br/>
+The Sangha teaches me to stop, to breathe and to smile</p>
+
+<p>The Sangha teaches me to love my inner child<br/>
+Wounded and shy, she suddenly jumps up and runs to join a festival of joy<br/>
+Loved among her sisters</p>
+
+<p>Manas and my inner child walk hand in hand<br/>
+Sometimes, I let myself be a child even if then I am also Manas, I am not afraid<br/>
+Because the Sangha is both gentle and sharp, seeing straight into the heart </p>
+
+<p>The Sangha teaches me silence and the Sangha teaches me laughter and joy<br/>
+The Sangha teaches me to be happy and to suffer<br/>
+The Sangha teaches me that my body and mind are not separate from the energy of the Sangha</p>
+
+<p>The Sangha lives in my heart, in my body, my breath<br/>
+The Sangha thinks in me and dreams there<br/>
+The Sangha eats, drinks, falls asleep and awakes</p>
+
+<p>She carries me on the ocean of life<br/>
+She is the source of my balance, my joy, my energy<br/>
+Without her, I cannot say what would manifest in me - how could I know? 
+</p>
+
+<p>This poem is also the Sangha<br/>
+As well as each of my thoughts, my actions and my words<br/>
+Today, I cried the tears of the Sangha so that gently, my heart in the heart of the Sangha becomes freer.</p></div>
+
+<p class="noIndent">With love & gratitude, Sr. Trăng Hiền Nhân</p>

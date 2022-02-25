@@ -94,6 +94,5 @@ For many years I have been caught in that abstraction, that misapprehension. Thi
 
 Sometimes as an elder sister I need to be a teacher for my younger siblings. I need to practise signlessness in looking at them too and realise that Thay is in each of them.
 
-Touching the earth in boundless gratitude, 
-
-your child Chan Duc.
+<p class="noIndent">Touching the earth in boundless gratitude,<br/>
+your child Chan Duc.</p>

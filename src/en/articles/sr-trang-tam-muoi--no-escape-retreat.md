@@ -59,42 +59,42 @@ The day before her funeral I was able to sit a long while with her body and plac
 
 ## Contemplation on Mum’s Body 
 
-> Your two hands  
-> Now folded in peace upon your chest  
-> Were once working tirelessly.  
-> Caring for family, caressing a child’s feverish brow,  
-> Laundering, chopping the veg,  
-> Making the tea.  
-> Or typing furiously,  
-> Or with hands plunged in warm earth  
-> Tending your beloved garden.  
-> Now, fingers and joints are gnarled like the ancient oaks of Sheet. 
->  
-> Crooked feet, once strode boldly across fields  
-> And lightly skimmed the dancefloor in the arms of Dad, quickstepping.  
->  
-> Barefoot, we wandered together through Indian temples  
-> And hand in hand, paddled along the English shore.  
->  
-> Breasts, become flat and empty,  
-> Once plumply suckled two tiny infants  
-> Whilst you sang to them  
-> sweet lullabies of love.  
->  
-> Your eyes, clear and twinkling   
-> of Wedgewood blue, laughing.  
-> Gazing on the Queen’s card  
-> received for your one hundred years lived fully,  
-> You said  
-> “I am so lucky!”  
->  
-> Now, your body like old leaves of tea,  
-> Used up and discarded.  
->  
-> But we, amongst many,  
-> Have drunk your tea, your essence.  
-> You are in each one of us.  
-> We are your continuation.
+<div class="verse"><p>Your two hands<br/>
+Now folded in peace upon your chest<br/>
+Were once working tirelessly.<br/>
+Caring for family, caressing a child’s feverish brow,<br/>
+Laundering, chopping the veg,<br/>
+Making the tea.<br/>
+Or typing furiously,<br/>
+Or with hands plunged in warm earth<br/>
+Tending your beloved garden.<br/>
+Now, fingers and joints are gnarled like the ancient oaks of Sheet.</p>
+
+<p>Crooked feet, once strode boldly across fields<br/>
+And lightly skimmed the dancefloor in the arms of Dad, quickstepping.</p>
+ 
+<p>Barefoot, we wandered together through Indian temples<br/>
+And hand in hand, paddled along the English shore.</p>
+ 
+<p>Breasts, become flat and empty,<br/>
+Once plumply suckled two tiny infants<br/>
+Whilst you sang to them<br/>
+sweet lullabies of love.</p>
+ 
+<p>Your eyes, clear and twinkling <br/>
+of Wedgewood blue, laughing.<br/>
+Gazing on the Queen’s card<br/>
+received for your one hundred years lived fully,<br/>
+You said<br/>
+“I am so lucky!”</p>
+ 
+<p>Now, your body like old leaves of tea,<br/>
+Used up and discarded.</p>
+ 
+<p>But we, amongst many,<br/>
+Have drunk your tea, your essence.<br/>
+You are in each one of us.<br/>
+We are your continuation.</p></div>
 
 {% image "article/sr-trang-tam-muoi/Peggy-100.JPG" %}
 

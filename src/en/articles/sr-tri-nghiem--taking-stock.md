@@ -5,9 +5,11 @@ author: Sister Chân Trì Nghiêm
 
 On a cold and windy yet bright and sunny day on March 8, 2009, Thay put his hand on my head, gave me his blessing, snipped a lock of my hair, watched while I took my vows and gifted me the enduring legacy of my Dharma name. I was officially born into the Golden Lotus family, along with nine others in the Still Water Meditation Hall of Upper Hamlet, Plum Village. Thirty-six Vietnamese siblings were born into monastic life at the same time in Tu Hieu Temple, Hue. This year, those of us still in robes, celebrate 13 years of monastic life. How time flies!
 
-A year later, to mark our first anniversary and for the sake of posterity, one sister suggested we record the most memorable experiences of our first year in a little red imitation leather notebook she provided, which rather unfortunately, disappeared shortly after and I have never seen it since. So much for recording the key moments of our monastic infancy for posterity! Yes, this was *before* the time when all memories were automatically saved to the Cloud. 
+A year later, to mark our first anniversary and for the sake of posterity, one sister suggested we record the most memorable experiences of our first year in a little red imitation leather notebook she provided, which rather unfortunately, disappeared shortly after and I have never seen it since. So much for recording the key moments of our monastic infancy for posterity! Yes, this was *before* the time when all memories were automatically saved to the Cloud.
 
 Yet, even without a record, I can still remember the feel of my account: it gushed with enthusiasm. I loved everything about my new monastic life. I loved my newly acquired extended family of hundreds from so many different cultures and continents. I loved our community of practitioners from around the globe. I loved the yearly schedule of retreats – with people from near and far, all seeking change in their lives. I loved the brotherhood and sisterhood, the walks and picnics we went on in the French countryside in springtime, treading softly on fresh, spongy grass dotted with a myriad of golden dandelions and tiny white daisies between rows of budding vineyards. I even remember loving the mid-summer Health Retreat - a fasting and hiking endurance test!! We hiked along country roads with our resident health guru, Brother Phap Lu, in the scorching heat of August, our feet slowly dragging as our hot and thirsty, food-deprived and weakened bodies pushed on towards our destination. I clearly remember one conversation we had, passing by some rows of blackberry briars, “So how is monastic life treating you?” Br. Phap Lu inquired knowingly. “Well, I think I am still in the honeymoon phase.” I replied, afraid this may not have been quite the answer he was expecting. “Good!” he shot back. “Stay there!”
+
+{% image "article/sr-tri-nghiem/sr-tri-nghiem-1-e.jpg" %}
 
 With or without the sound advice of Br. Phap Lu in those early days, my honeymoon phase went on to last a solid twelve more years. 
 
@@ -17,7 +19,7 @@ What has kept me on the path till now? The sangha’s love and my volition. My d
 
 I do not know where this courage and determination came from, but I see it requires something of a warrior spirit - a willingness to face difficulties and suffering and not to run away from them. It requires a deep conviction and faith in the path in order to stay the course and overcome the many challenges that we inevitably encounter in monastic life. The more I practice, the more I recognize my shortcomings and difficulties. Alongside all the positive seeds that I am happy to embrace and call my own, I carry more problematic seeds deep within me that I try to avoid, and pretend are not mine. Sooner or later though, they manifest, and I must face them. Seeds of fear. Seeds of discrimination. Seeds of judgment. Seeds of anger. Seeds of doubt. And seeds of despair. The path of awakening inevitably leads us down this road and there is no escape.
 
-## The importance of a sense of belonging** 
+## The importance of a sense of belonging
 
 I was born as the youngest child into a small nuclear family of five - my parents, my two elder siblings and I. We lived in a small country town, far away from grandparents and relatives in the city. I rarely saw my grandparents. I barely knew my three cousins. My sense of family was small and tenuous. This all changed dramatically when I was ordained. Quite unexpectedly, my “family” suddenly expanded and multiplied.
 
@@ -54,6 +56,8 @@ In order to protect the health of our sangha, we closed our center to the public
 My heart sank. I missed the contact with our lay friends. Although I had helped with many online retreats and weekly practice sessions throughout the year, it did not satisfy my deep aspiration to help all beings cross to the other shore!
 
 For the first time in my monastic life, I began to question my sense of purpose.
+
+{% image "article/sr-tri-nghiem/sr-tri-nghiem-2.jpg" %}
 
 ## The importance of a sense of purpose
 

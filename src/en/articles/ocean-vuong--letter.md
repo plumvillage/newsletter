@@ -23,7 +23,5 @@ I am sad, yes. And I will be so for some time. My heart aches—but despite, or 
 
 That is the narrative, that is the knowledge. 
 
-Yours, in hope and word, 
-Ocean Vuong
-
-(pháp danh: đức Hải)
+<p class="noIndent">Yours, in hope and word,<br/>
+Ocean Vuong (pháp danh: đức Hải)</p>

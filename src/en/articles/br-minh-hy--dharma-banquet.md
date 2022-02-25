@@ -43,4 +43,4 @@ One time, Thay’s attendants noticed that Thay was a little different. After gi
 
 A beautiful moment can help the happiness in people’s hearts grow bigger. Such a moment is a banquet that we can offer our beloved ones many times a day. But first of all, we need to have the ability to perceive, to feel, and to offer ourselves such banquets. If we do not know how to drink tea, how can we offer our friends a good cup of tea? It is very difficult for a busy person to treat others to a relaxing and free moment.
 
-Have you treated yourself today with any happy moments?
+<p class="noIndent">Have you treated yourself today with any happy moments?</p>

@@ -7,7 +7,7 @@ author: Thay’s Disciples in Plum Village
 
 Dear Beloved Thay,
 
-It is the greatest fortune of our life to have been able to become your students, to receive your guidance, and to belong to your Beloved Community. 
+It is the greatest fortune of our life to have been able to become your students, to receive your guidance, and to belong to your Beloved Community.
 
 You are our Teacher, and you have taught and nurtured us with boundless love, patience, and care. The dewdrops of your compassionate nectar have refreshed our thirst. You have been the torch guiding us through the forest of confusion; the hand reaching out to us when we fall; the ladder rescuing us from our darkest moments. You have given us a path to walk, so that we no longer have anything to fear. 
 
@@ -15,7 +15,9 @@ You have offered us the most profound teachings, and so many practices to realiz
 
 Dear Thay, your deep bodhicitta, which began in the heart of a little child from central Vietnam, has grown to be a vast force of action across East and West. You met your hermit at the well; you saw the kind of Zen master you wanted to become. You had a dream and, dear Thay, you have realized that dream. At every turn you took the path less-traveled; the difficult path. 
 
-Throughout your life you encountered acute moments of loss and injustice—like when you were exiled, heard the news of your students being shot on the riverbank, or when your passport was cancelled, or when your program to rescue thousands of boat people from the South China Sea was shut down—and yet you met these moments with the strength of your mindfulness practice, and your indestructible courage, compassion and clarity. 
+Throughout your life you encountered acute moments of loss and injustice—like when you were exiled, heard the news of your students being shot on the riverbank, or when your passport was cancelled, or when your program to rescue thousands of boat people from the South China Sea was shut down—and yet you met these moments with the strength of your mindfulness practice, and your indestructible courage, compassion and clarity.
+
+{% image "article/eulogy-in-PV/IMG_1567-e.jpg" %}
 
 Dear Thay, despite all the difficulties, you never gave up—on hope, or on this path, or on your vision of creating a practice that could truly help the world. You found ways to build sangha out of all the non-sangha elements around you. You overcame your gentle shyness to open your heart to embrace new people, cultures and perspectives. 
 
@@ -29,6 +31,8 @@ Dear Thay, we honor and cherish your virtue, your ethics and your integrity. You
 
 Dear Thay, you are the gentle and skillful revolutionary—the Zen master who is ready to update our Pratimoksa, remove Buddhas from altars, establish equality for the nuns, and create a truly *multi-fold* sangha.
 
+{% image "article/eulogy-in-PV/IMG_1576-e.jpg" %}
+
 Dear Thay, we see you sitting in meditation on the podium: so profoundly at peace, natural and relaxed; still and unshakeable. We see your one-pointed mind as you offer incense at the altar; and your deep concentration as you touch the Earth. We see you sitting in silence on Vulture Peak as you watch the sunset—a true “soulmate of the Buddha.” And we see you sitting on the Deer Park mountain with the sangha as you watch the sun rise over the ridge. 
 
 We see you walking.  You arrive in every step; you are the master of every step, walking in freedom, one step, one breath, and we see you walking with the freedom of a Buddha. You have shown us the healing power of collective energy; and you have shown us that, with a sangha, peace becomes possible.
@@ -41,10 +45,9 @@ Dear Thay, when you returned home to Vietnam and Từ Hiếu two years ago, you 
 
 Dear Thay, we know that you are much more than your physical body. You are your teachings, your sangha, your immense compassionate action in the world. You are present wherever one of your students is taking a mindful breath or mindful step. You are also present in your cosmic body, just as the cosmos is present in you. And so, every time we enjoy the golden daffodils, or the purple bamboo, the view from the mountain peak, or the gentle creek winding its way to the ocean, we will enjoy these wonders with your eyes and with your smile. 
 
-You have said that, “Time is stilled in eternity, where love and the beloved are one.”* Dear Thay, you are present here with us in this very moment, as we climb the hill of the twenty-first century together. What you have not yet completed, we promise to complete for you. We would like to express our deep love and gratitude as we make the vow to carry your teachings, compassion, and insight far into the future.
-
 {% image "article/eulogy-in-PV/Eulogy from PV-edited.jpg" %}
 
-This is a legendary moment. 
+You have said that, “Time is stilled in eternity, where love and the beloved are one.”* Dear Thay, you are present here with us in this very moment, as we climb the hill of the twenty-first century together. What you have not yet completed, we promise to complete for you. We would like to express our deep love and gratitude as we make the vow to carry your teachings, compassion, and insight far into the future.
 
-This is a moment of continuation.
+<p class="noIndent">This is a legendary moment.<br/>
+This is a moment of continuation.</p>

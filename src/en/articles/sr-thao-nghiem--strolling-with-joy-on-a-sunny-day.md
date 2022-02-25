@@ -97,5 +97,5 @@ While at the Root Temple, myself and the other sisters and brothers often share 
 
 I wish for you, my dear younger siblings, to fully enjoy the happy days, to smile with the difficulties that are there, and to be a beautiful continuation of Thay and Plum Village. I am also doing just that.
 
-With much love, 
-Sr. Thao Nghiem 
+<p class="noIndent">With much love, 
+Sr. Thao Nghiem</p>

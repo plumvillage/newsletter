@@ -74,10 +74,10 @@ Good friendship in Buddhism means more than just associating with people that sh
 
 A good mentor or elder from time to time will hopefully share things that we disagree with or we see differently, and in those moments we should know that we have indeed met a good and kind friend, since they will help us to grow in some way.
 
+Our relationship with each other as elders and juniors is very much a reciprocal one. I encourage each of you to actively build spiritual friendships with your elders, taking every opportunity to naturally approach them, drink tea and connect with them, especially if they are different from you. You will then discover many amazing things about them. They will offer you many deep gifts. Most of all, if you build a Dharma friendship with them, you will discover that they are human. That will give you confidence in your Dharma because you will see the unique nature of the Dharma body and Dharma expression of each one - and then, most importantly, you will begin to see it in yourself.
+
 {% image "article/br-phap-hai/scan3.jpg", "has-label" %}
 <p class="image-label">Lamp Transmission, 2003</p>
-
-Our relationship with each other as elders and juniors is very much a reciprocal one. I encourage each of you to actively build spiritual friendships with your elders, taking every opportunity to naturally approach them, drink tea and connect with them, especially if they are different from you. You will then discover many amazing things about them. They will offer you many deep gifts. Most of all, if you build a Dharma friendship with them, you will discover that they are human. That will give you confidence in your Dharma because you will see the unique nature of the Dharma body and Dharma expression of each one - and then, most importantly, you will begin to see it in yourself.
 
 So please, do not underestimate the importance of this relationship between elders and juniors. Do not take this special gift for granted. It is one of the most precious transmissions of monastic culture. If we cultivate it properly by allowing ourselves to be challenged and supported by the sangha, welcoming confusion and doubt, joy, vulnerability, confidence, and guidance, then we will generate within ourselves all of the tools we need in order to go very far on the path. If you find yourself too busy in work or planning for retreats, those are the times that you should find time to hang out with your mentor or elders. Please make time in your day, and space in your mind to do so.
 
