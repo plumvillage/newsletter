@@ -25,7 +25,7 @@ module.exports = ["tri-an-thay",
 "su-co-chan-duc--thay-thay-trong-tang-than",
 // Niềm thương bình an	Sr. Tuyết N
 // "su-co-tuyet-nghiem--niem-thuong-binh-an",
-"thay-troi-dao-bi--da-co-duong-di-roi-con-khong-con-lo-so",
+"thay-troi-dai-dao--con-duong-tinh-thuong",
 // Đem chánh niệm vào y tế	Elli Weisbaum
 // Thầy là tình thương -Sr Elisabeth
 "sr-elisabeth--thay-la-tinh-thuong",

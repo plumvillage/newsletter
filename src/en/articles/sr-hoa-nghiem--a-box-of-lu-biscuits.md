@@ -21,10 +21,7 @@ When Thay was not away for teaching tours in the U.S., we were very happy. In th
 
 During the Summer Retreats, so many people came to practice. In the old days, Lower Hamlet was reserved for Vietnamese practitioners. In the first Summer Retreat I joined as a novice nun, my responsibility was to help Sr. Chan Khong to organize tea meditation sessions. I checked the registration list and made invitation letters for the tea sessions, and then prepared tea cups and took care of the work of the tea attendant. I did this for the whole Summer Retreat. Besides that, I also helped Ms. Tinh Thuy in the bookshop and joined the cooking team with Thanh Tuyen (now Sr. Huong Nghiem). Having just ordained, how could I know how to cook for that many people? At that time we hosted 60, 70 or even 100 lay friends each week. Before the Summer Retreat, Sr. Thanh Luong already trained us in cooking. Which pot should we use to cook for 50 to 100 people? How many knives and cutting boards should we prepare for lay friends to help us cut vegetables during mindful service time? Thanh Tuyen and I were on the same team. We discussed and planned that we would cook the same dishes every week. We thought that each week new friends came and no one would know! Only the sisters complained. Sr. Chan Vi said, “Every time you two cook, you do the same old thing. Don’t you get bored?” I replied quietly in my head - *Only once a week, how could anyone get bored?* I don’t really remember what dishes they were but I still remember my favorite dish, which was black bean porridge topped with coconut milk and salted roasted-peanuts for the evening meal. I cooked that dish every week when it was my turn.
 
-
-<!-- float: top and float-reference: page -->
 <!-- https://pagedjs.org/posts/avoid-whitespaces/ -->
-<!-- does work in browser preview, but does not work in pdf -->
 <div id="horizontal-img-column">
 {% image "article/sr-hoa-nghiem/summer-retreat.jpg" %}
 {% image "article/sr-hoa-nghiem/20211212029-edited-crop.jpg" %}
@@ -38,9 +35,7 @@ In a little forest near Lower Hamlet there is a creek with crystal-clear water. 
 
 In the old days of Plum Village, we only interacted with lay friends who came to practice with us. When they came here they only focused on the practice and followed the schedule. That was why we had very limited contact with the outside world. News of the world about politics or incidents of violence, etc. have never once appeared in my mind, let alone my imagination. Each month we received a modest amount of pocket money that was enough to buy personal hygiene items, or a notebook to write down the teachings from Thay, or sometimes a box of LU biscuits, which would be saved for moments of sweet craving. The word “donation” was really foreign to me. After so many years staying in Plum Village, I only received a donation one time and the amount was equivalent to 5 or 10 dollars. I always said to myself - *I didn’t become a monastic to look for donations.* Thay taught us in a monastic retreat: The purpose of a monastic is not for receiving food and clothing. It is also not to look for material comfort. The practice of Plum Village is to generate happiness.
 
-<!-- {% image "article/sr-hoa-nghiem/20211212029-edited.jpg" %} -->
-
-In the old days when there was no internet, or iPhones, iPads, computers ... communication through technology was limited and people did not have many fears or worries. Today however, the more modern and expansive the means of communication, the more people like to amass information. Most of the time however, this information brings us worry and suffering. Our lives become so busy without a moment of peace.
+In the old days when there was no internet, or iPhones, iPads, computers etc., communication through technology was limited and people did not have many fears or worries. Today however, the more modern and expansive the means of communication, the more people like to amass information. Most of the time however, this information brings us worry and suffering. Our lives become so busy without a moment of peace.
 
 ## Leaving the nest 
 

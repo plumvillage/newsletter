@@ -17,7 +17,7 @@ Nghe kể là vì cái sân có nhiều chim nên quý sư cô tự nhiên đặ
 
 Sân Chim là nơi diễn ra nhiều sinh hoạt vui và nuôi dưỡng tình huynh đệ. Tôi nhớ mãi những buổi trưa của ngày quán niệm tại xóm Mới. Lâu lâu, nhân dịp nào đó thì đại chúng lại được cùng nhau ngồi quây quần quanh đống lửa đã được chuẩn bị sẵn ở giữa sân để thưởng thức tô bún nóng, hơi cay trong tiết trời se lạnh. Lại còn có bánh tráng quết nước tương nướng trên than hồng, ăn giòn tan và thơm. Rồi những bữa cơm picnic, chị em cùng nhau quây quần quanh một chiếc bàn tròn để cùng ăn, và kể chuyện đông tây cho nhau nghe. 
 
-{% image "article/sr-chuan-nghiem/Sc-Chuan-N-5_cut.JPG", "expandToRightBorder" %}
+{% image "article/sr-chuan-nghiem/Sc-Chuan-N-5_cut.JPG" %}
 
 Sân Chim cũng có một cái xích đu đặt dưới gốc cây đoàn đã nhiều tuổi, đứng khiêm tốn ở góc sân nhưng cho nhiều bóng mát. Tôi thích nhất là những buổi trưa trong khóa tu mùa Hè. Sau khi đi quán niệm từ xóm khác về, tôi chưa về phòng liền mà vào tủ đá của đại chúng lấy một cây kem (tôi thích loại kem đá, nhiều màu sắc) rồi ngồi xích đu, nhâm nhi cây kem mát lạnh. Ăn mà ăn rất từ từ vì sợ cây kem đó hết. Viết đến đây tôi thấy thèm kem quá chừng. Bây giờ tôi đang được ở xứ lạnh thì lại ăn kem không được vì ăn vào là bị ho. Tôi đành cất những kỷ niệm tuổi thơ vào trong ký ức. 
 
@@ -31,8 +31,6 @@ Tôi cúi đầu, chắp tay xá Sư Ông mà không suy nghĩ gì cả vì tôi
 
 Sau bữa cơm trưa, các sư con đi theo sau Sư Ông cả một hàng dài, tiễn Sư Ông ra xe về lại Sơn Cốc. Quý sư cô, chị em chúng tôi chẳng ai nói với ai câu nào nhưng tôi biết là chúng tôi đều mang chung một tâm niệm là mong Sư Ông có thêm nhiều sức khỏe. 
 
-{% image "article/sr-chuan-nghiem/su-co-Chuan-N.jpg", "expandToLeftBorder" %}
-
 ## Hồ sen
 
 Một điều đặc biệt ở Làng là xóm nào cũng có hồ sen, và tôi thấy hồ sen nào cũng có hình trái tim! Xóm Thượng thì đặc biệt hơn vì có hai hồ sen. Cứ hè về là xóm nào cũng có sen thơm dâng Bụt. Thiền sinh về Làng thì vô cùng hạnh phúc vì được ngắm hoa sen ngay từ tuần đầu tiên của khóa tu mùa Hè. Sen nở nhiều, vậy là có trà ướp sen. Ở tận EIAB nhưng tôi cũng nhận được trà sen từ Làng. Thưởng thức từng ly trà thơm ngát, tôi biết ơn huynh đệ thật nhiều.
@@ -40,6 +38,9 @@ Một điều đặc biệt ở Làng là xóm nào cũng có hồ sen, và tôi
 Gia đình xuất gia của tôi được Sư Ông đặt tên là Sen Trắng. Khi còn ở Bát Nhã tôi đã được nghe kể xóm Thượng có một hồ sen trắng, hoa rất to. Đúng thật. Khi qua Làng, vào mùa sen, những ngày quán niệm tại xóm Thượng tôi không quên đi ngắm hoa sen. 
 
 Hồ sen Hồng tại xóm Mới thì nhỏ nhất so với hồ sen các xóm. Có một chiếc cầu tre nho nhỏ bắc ngang qua hồ sen. Khi những bông sen đầu tiên đã nở là chị em chúng tôi thường ra ngồi ngắm sen, uống trà và kể chuyện cho nhau nghe. Đẹp làm sao khi ánh nắng mặt trời chiếu vào những đóa sen còn đọng những giọt sương. Những câu chuyện thường ngày nhưng nuôi dưỡng đời tu. Tôi thấy thật rõ rằng chị em nuôi nhau là đây. 
+
+{% image "article/sr-chuan-nghiem/su-co-Chuan-N.jpg", "noFloat" %}
+{% image "article/sr-chuan-nghiem/Sc-Chuan-N-4.JPG", "noFloat" %}
 
 Trẻ em cũng rất thích và biết chơi với lá sen. Những năm chưa có đại dịch covid, mùa hè là mùa các em nhỏ rất hạnh phúc được ba mẹ đưa về Làng. Tôi thấy các em xin hái vài lá sen gần bờ, đổ nước vào và chơi với nhau. Lá sen cũng giống như lá khoai môn, không bị thấm nước ra ngoài. Thế là các em chơi với nhau suốt cả buổi trò lá sen đựng nước. Niềm vui của các em chỉ giản đơn vậy thôi nhưng lại là cả bầu trời tuổi thơ tươi đẹp.
 
@@ -57,9 +58,9 @@ Khi tôi đang ngồi lạch cạch những dòng chữ này thì cũng sắp t�
 
 Nhìn lại chặng đường 13 năm xuất gia, tôi thấy mình may mắn lắm. Tôi vẫn tin là nhờ vào phước đức của tổ tiên, ông bà, cha mẹ mà tôi có phước duyên được gặp tăng thân, được làm học trò của Sư Ông. Làm một người tu là tôi thấy hạnh phúc nhất. 
 
-{% image "article/sr-chuan-nghiem/Sc-Chuan-N-4.JPG" %}
-
 Sáng nay, ngày xuất sĩ, tôi được cùng đại chúng nghe pháp thoại DVD vào ngày 18 tháng 2 năm 2002 của Sư Ông. Tôi thấy thấm thía quá và mong mình có thể thực tập thành công. Tôi xin phép được trích ra đây một vài lời mà Sư Ông dạy, cũng là để cho tôi mở ra đọc khi thấy cần quay trở về với sự thực tập.
+
+{% image "article/sr-chuan-nghiem/Sc-Chuan-N-3.JPG" %}
 
 > Khi mình có một sư em dễ thương, có tâm chí tu học thì mình là một người sư chị có phước! Phải như vậy không? Bây giờ Thầy muốn hỏi, ở đây có bao nhiêu sư chị có phước? Có người nào không có phước không? Mình là sư anh, mình là sư chị, thế nào ít nhất mình cũng có một vài sư em có hạnh phúc và dễ thương, biết tu học.
 > 
@@ -71,8 +72,6 @@ Sáng nay, ngày xuất sĩ, tôi được cùng đại chúng nghe pháp thoạ
 > 
 > Mình không cần phải có một ngôi chùa rất lớn, có một tượng Phật sơn son thiếp vàng bóng loáng, hay là một sự khen ngợi, sự giàu sang, sự cung phụng của người ta. Chỉ cần suy nghĩ như vậy: mình có sư anh dễ thương, mình có sư chị dễ thương, mình có đệ tử dễ thương là mình đã có hạnh phúc rồi. Và hạnh phúc đó là hạnh phúc thiệt, chứ không phải là tự kỷ ám thị. Làm thầy, làm trò, làm anh, làm chị, làm em, chúng ta đều phải có hạnh phúc. Chúng ta quy định với nhau ở chỗ đó. Sự thực tập hàng ngày làm cho ta có hạnh phúc thêm nữa, vì ta có khả năng giúp cho anh em ta dễ thương hơn. Anh em ta dễ thương 50%, bây giờ ta làm cho người đó dễ thương 60%. Đó là kết quả của sự thực tập. Và chúng ta có vốn liếng của hạnh phúc. Vốn liếng đó mỗi ngày đều lớn lên. Hạnh phúc đó đến một lúc mình chịu không được nữa vì nó nhiều quá, và mình phải tìm cách chia sẻ, phân phát cho người khác. Đó là việc của chúng ta. ‘Khi lá hoa thật nhiều, trái yêu thương đầy cành, hái đem cho mọi người.’ Chúng ta hãy nhìn bằng con mắt như vậy, con mắt hiểu và thương. Đừng đòi hỏi. Mình đâu có nghèo đói gì đâu về phương diện hạnh phúc. Mình là người có phước, mình là người có hạnh phúc. Và với vốn liếng của hạnh phúc đó ta có thể đi tới mỗi ngày, nhất là khi ta đã có những pháp môn tu tập rất cụ thể. <cite>Sư Ông</cite>
 <!-- Block Quote End -->
-
-{% image "article/sr-chuan-nghiem/Sc-Chuan-N-3.JPG" %}
 
 Tôi viết đã dài nhưng liệu tôi thực tập được bao nhiêu? Tôi hy vọng rằng lời Sư Ông dạy sẽ giúp tôi, sẽ làm đuốc soi đường cho tôi. Hạt giống nóng tính của tôi chưa được chuyển hóa bao nhiêu, nhưng tôi hy vọng rằng với sức mạnh và sự soi sáng của tăng thân thì tôi cũng sẽ phần nào chuyển hóa, như lời thiền sư Quy Sơn đã dạy:
 

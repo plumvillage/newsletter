@@ -12,13 +12,14 @@ As a young person, I did not know what I wanted in life. I did not have a path. 
 
 After that 2010 retreat, some young people decided to establish Wake Up Indonesia. Then in 2013, some of us from Wake Up Indonesia went to the Wake Up Retreat led by Thay in Thailand. It was there that I saw Thay's calligraphy that read: “You have seen the path. Do not fear anymore.” I was moved to tears. I recognized the fear that I may not see Thay again. The calligraphy was like encouraging words from Thay, comforting me, letting me know that it is more important to see the path than to see Thay personally. 
 
-{% image "article/br-troi-dao-bi/9193025135868320367651704298813o.jpg" %}
-
 ## The path of compassion
 
 I received a lineage name, Chân Trời Đạo Bi, which means True Sky over the Path of Compassion. It reminds me that my practice is to see the Path of Compassion. “The Path of Compassion” is one of my favorite chapters in *Old Path White Clouds*. It tells the story of when Siddhartha and Yasodhara were social workers, Yasodhara was overwhelmed by grief when a young child she had tended to died. Siddharta tried to console her but he could not because he had not yet found the path. Only after Siddharta became awakened was he able to show the path of understanding and compassion to others.
 
 I feel very fortunate that Thay has pointed out the path for me. I have many wounds from my time working as a social worker. Knowing that I am on the path of healing already brings me happiness. The pain from the wounds comes up from time to time, but I have learned how to be with it, to understand it. Thay taught us that understanding suffering is the way to generate compassion. I now see my wounds as ingredients to grow compassion and non-fear. It is like a guided meditation for myself: *Breathing in, you have seen the path. Breathing out, do not fear anymore.*
+
+{% image "article/br-troi-dao-bi/9193025135868320367651704298813o.jpg", "noFloat" %}
+{% image "article/br-troi-dao-bi/Happy-Radish-Family2_edited.jpg", "noFloat" %}
 
 This practice has helped me overcome my regret of not being able to see Thay anymore. I regretted that I did not ordain earlier and have the chance to receive Thay's direct guidance. I came to Plum Village in 2015 when Thay was no longer able to speak. Sometimes I dream of talking with Thay, and it makes me very happy. 
 
@@ -45,8 +46,6 @@ During the Wake Up Ambassadors Retreat in 2018, we established the “European W
 Every month, we continue to deepen our connection and friendship. Usually we have online gatherings on Thursday or Sunday evenings, which are lazy evenings in Plum Village after the Days of Mindfulness. Sometimes I feel tired, but when I join the online gatherings, I feel as if I am coming home and spending time with the family in the living room, and asking, “How is everybody doing?” or “How was your day?” The lay members share their difficulties, both personal and in their Wake Up sanghas, and the monastic members also share our difficulties, so we create mutual support and siblinghood. We also have fun together - play online games, sing, and dance!
 
 In the *Praising the Buddha Chant*, I very much like the line - “May the sangha practice diligently, showing love and concern for one and all. Just as for our very own family…” It moves me as it reflects my deep aspiration to practice in a way that shows love and concern for young people, the human family, and all beings. It’s a lot of fun to practice with young people and to show others that when we practice we don’t have to be too serious!
-
-{% image "article/br-troi-dao-bi/Happy-Radish-Family2_edited.jpg" %}
 <!-- Happy Wake Up Ambassadors Change The World -->
 
 <!-- Calligraphy by Thay Phap Huu -->

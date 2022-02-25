@@ -100,9 +100,9 @@ Có lần trong khi làm thị giả, tôi vô ý làm vỡ cái tách trà cổ
 
 ## Chút trẻ con dễ thương trong thầy
 
-{% image "article/br-phap-niem/ToBeAdded2-edited.jpg" %}
-
 Có một thời gian dài thầy không đi thiền ngoài trời với đại chúng. Bệnh tiểu đường khá nặng đã hành thầy. Trong hai năm liền, ngoài việc làm thị giả cho Sư Ông, tôi còn đảm trách lo cơm nước, giặt giũ cho thầy. Thức ăn của thầy người bình thường không thể ăn nổi vì không sử dụng bất cứ gia vị gì kể cả muối. Tôi đã phải sáng tạo rất nhiều, chế biến các món ăn lạ lẫm để tạo cảm hứng cho thầy. Thầy ăn giỏi lắm. Nhưng giỏi cách mấy, cố gắng cách mấy có khi cũng ngán. Có lần thầy ngán quá, không biết thầy đã xin đâu được gói mì, thầy lén chế mì ăn. Tôi bắt gặp và cố gắng ngăn thầy không cho thầy ăn. Thầy nói: “Pháp Niệm! Để sư huynh ăn một gói này cho đỡ ngán”. Thế là tôi không thể ngăn cản thầy được. Thật ra tôi cũng chỉ giả bộ làm vậy chứ biết là thầy ngán thức ăn của thầy lắm lắm rồi. 
+
+{% image "article/br-phap-niem/ToBeAdded2-edited.jpg" %}
 
 Có lần thầy bị sưng cổ chân, đi lại không dễ dàng. Tuy nhiên, nếu cố gắng thì thầy vẫn đi được. Vì nhiều tháng thầy không đi thiền ngoài trời với đại chúng nên Sư Ông đã đích thân đến thăm và bảo thầy nên ra ngoài đi thiền với đại chúng. Thầy nói chân con đau, đi không được. Tưởng như vậy thì Sư Ông sẽ để yên, ai dè Sư Ông còn ép ra đi thiền hành. Sư Ông đã rầy nhẹ thầy và bảo thầy phải đi thiền ngoài trời mỗi ngày thì cái chân đó mới lành được. Không dám trái lệnh Sư Ông, thầy tuân theo, nhưng trong lòng thầy khó chịu, thầy thầm nghĩ: “Dạ, được thôi, mình đi cho cái chân này nó sưng vù lên cho bỏ ghét! Đã không thương hại rồi mà còn ép đi thiền nữa!” Nhưng sau khi thầy đi thiền với đại chúng chừng một tuần thì điều kỳ diệu xảy ra, cổ chân của thầy hết sưng, lành lặn và đi lại dễ dàng.  Vô cùng ngạc nhiên, thầy đã  thốt lên: “Hừ! Ông già ghê quá!” Chúng ta ai cũng có cái tính trẻ con trong mình dù mình đã lớn cách mấy. Và cái tính trẻ con đó hồn nhiên, đẹp một cách lạ lùng nơi thầy.
 

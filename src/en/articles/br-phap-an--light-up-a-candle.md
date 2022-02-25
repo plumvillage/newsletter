@@ -27,7 +27,7 @@ I had heard of Thay since I was young. On my older sister’s birthday in 1967 o
 
 In the autumn of 1985 while I was studying in California, Thay came to the U.S. for a retreat in Austin. My whole family joined that retreat. My parents dearly love and respect Thay. Then in 1988, I joined another retreat in Southern California. That was the year Sr. Chan Khong ordained on the Vulture Peak. 
 
-From when I was a highschool student until I became a monk, I had read many books and listened to many teachings about meditation from different zen masters. But only when I encountered Thay’s book *Vấn đề nhận thức trong Duy thức học* ( *Consciousness in the Manifestation Only School)* that I intuitively knew - here was my teacher! The more I practiced, the more I felt that the conditions that allowed me to meet Thay had been sown many lifetimes ago.
+From when I was a highschool student until I became a monk, I had read many books and listened to many teachings about meditation from different zen masters. But only when I encountered Thay’s book *Vấn đề nhận thức trong Duy thức học* (*Consciousness in the Manifestation Only School)* that I intuitively knew - here was my teacher! The more I practiced, the more I felt that the conditions that allowed me to meet Thay had been sown many lifetimes ago.
 
 {% image "article/br-phap-an/thay-phap-an-edited.jpg" %}
 

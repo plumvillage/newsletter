@@ -59,8 +59,6 @@ We certainly have our ups and downs but we can sit together, begin anew, and go 
 
 {% image "article/sr-chan-duc/Sr.ChanDuc.2-edited.jpg" %}
 
-<!-- {% image "article/sr-chan-duc/3-edited.jpg" %} -->
-
 Some of the important moments of revelation seem to occur when I am sitting in a circle with other practitioners. I suddenly realize that I do not have a separate self and I can only be in relationship to others. When I first come into a circle, I usually arrive early and watch sisters coming in. As we become settled, I like to look around and feel my affection for each sister who is sitting there. I follow my breathing as I am doing this. I know that we all come from very different backgrounds and on the surface we all look and behave very differently. Nevertheless there is something very deep that connects us. It is rather like the trees in the forest where the roots of one are always connected to the roots of others. The simple fact that we live together twenty-four hours a day, and we have all made the same commitment to the monastic life seems to bond us in a special way.
 
 Since I came to Plum Village, I have transformed, but I recognize I still have so many shortcomings. No one wants to do harm. But I can unwittingly say something, which causes trouble. I have to forgive myself because I did not know what I was doing. However, at the same time, I have to make a strong resolve to do better. When I first came to Plum Village I found it difficult to listen to someone pointing out my faults. I think I am better at doing this now. In the beginning I had trusted Thay more than the sangha. I have much more trust in the sangha now and I am able to see that Thay is in fact the sangha because the sangha is Thay's masterpiece.
@@ -85,7 +83,7 @@ When I woke up I thought, *I have seen Thay. The sangha is Thay; Thay’s lifeti
 
 I remembered the times I accompanied Thay on tours to China or Korea. We visited ancient monasteries with old attic libraries full of wood blocks from which the sutras were printed. On two separate occasions Thay had pointed out to me the gatha from the Vajracchedika Sutra:
 
-> Someone who looks for me in form
+> Someone who looks for me in form  
 > Or seeks me in sound  
 > Is caught in an abstraction  
 > And will not find me

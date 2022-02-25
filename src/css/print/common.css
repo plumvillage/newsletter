@@ -762,11 +762,11 @@ h1#the-true-sangha {
     margin-bottom: -12mm;
 }
 
-/* calligraphy should not intersect with author */
 #nep-xua + .author,
 #tieng-chuong-chanh-niem + .author
 {
-    padding-left: 60mm;
+    /* this is in addition */
+    margin-top: 5mm !important;
 }
 
 h1#the-true-sangha {

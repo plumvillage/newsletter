@@ -19,18 +19,21 @@ Có tuần người Việt về rất đông, Thanh Tuyền xếp các bác vào
 
 Trong rừng của xóm Hạ có một cái hồ dài, nước trong veo. Cây trong rừng rất đẹp với những nhánh nương nhau, như tăng thân của chúng tôi vậy. Sau khóa tu mùa Hè chúng tôi có mười ngày làm biếng. Ngày làm biếng tôi thường đeo một cái túi nhỏ, trong đó có một miếng bánh mì, một trái chuối, một bình nước nóng rồi đi vào rừng. Tôi tìm một khoảng đất trống trải tọa cụ, ngồi thiền rồi ăn trưa. Sau đó tôi đánh một giấc ngủ thật dài cho đến khi chiều xuống thì tôi thu dọn đi về lại xóm. Thời sadini của tôi ngày xưa thật trong sáng, thánh thiện, chỉ biết tu thôi, chẳng biết gì.
 
+<div id="horizontal-img-column">
 {% image "article/sr-hoa-nghiem/summer-retreat.jpg" %}
+{% image "article/sr-hoa-nghiem/20211212029-edited-crop.jpg" %}
+</div>
 
 Ngày xưa khi ở Làng, chúng tôi chỉ tiếp xúc với thiền sinh. Thiền sinh lại chỉ lo tu học theo thời khóa, rất ít nói chuyện về xã hội bên ngoài. Những tin tức về thế giới, chính trị, bạo động, v.v. chưa từng xuất hiện một lần trong trí não của tôi, chứ đừng nói rằng tôi đã tưởng tượng hay nghĩ về chúng. Mỗi tháng chúng tôi được phát tiền túi đủ để mua những thứ cá nhân căn bản, như một cuốn tập để ghi chép lời Thầy dạy, sang lắm thì một hộp bánh LU khi mình thèm ăn bánh ngọt. Hai từ “cúng dường” thật xa lạ và mới mẻ đối với tôi. Tôi nhớ mình chỉ nhận được một lần tiền cúng dường duy nhất sau bao nhiêu năm ở Làng, khoảng năm mười đô gì đó. Tôi luôn tự nói: Mình đi tu đâu phải để tìm sự cúng dường. Thầy có dạy trong một khóa tu xuất sĩ, rằng mục đích của người tu không phải là cơm áo, cũng không phải đi tìm vật chất tiện nghi. Thực tập của Làng Mai là để có hạnh phúc. 
 
-{% image "article/sr-hoa-nghiem/Hinh-cho-bai-Sc-Hoa-N1.jpeg" %}
-
 Ngày xưa, khi thế giới chưa có hệ thống internet, chưa có Iphone, Ipad, computer, sự truyền thông còn giới hạn, nên con người ít sợ hãi. Còn thời đại bây giờ, càng văn minh, sự truyền thông được mở rộng, thì con người càng thích tom góp những thông tin. Nhưng những thông tin này đa số đem đến cho chúng ta nhiều lo âu, phiền não và sợ hãi. Đời sống luôn bận rộn không một chút bình yên.
-
-{% image "article/sr-hoa-nghiem/20211212029-edited.jpg" %}
 
 Nhớ hôm nào, chúng tôi ăn mừng Làng Mai hai mươi tuổi. Năm ấy, chúng tôi đã lớn hơn và đã nhận truyền đăng. Lúc đó, chúng tôi như những con chim non tập bay ra khỏi tổ ấm của mình. Thầy giao phó nhiệm vụ đi xây dựng các trung tâm tu học Làng Mai, từ Âu, Mỹ rồi sang Á. Làng Mai bây giờ đã bốn mươi tuổi, chúng tôi cũng đã đến thời trung niên. Những hiện tượng sinh diệt, đổi thay là thế giới tích môn. Cũng đã đến lúc mình phải chuẩn bị cho mình một chốn để đi về, tôi luôn tự nhắc mình như thế. Nhưng sư em Chỉ Nghiêm của tôi đã đi trước tôi rồi. Sáng nay, sau bao nhiêu ngày chống chọi với căn bệnh ung thư, giờ phút này sư cô Chỉ Nghiêm đã thực sự vẫy tay chào đại chúng trong tiếng niệm Bụt. Điều kiện đã mãn trong kiếp này, để rồi khi nhân duyên hội tụ sư cô sẽ biểu hiện ở một đời sống mới đẹp hơn. Khi tu viện Lộc Uyển mới thành lập, sư cô nghe theo lời chỉ dạy của Thầy đi về đó để cùng với quý sư cô khác xây dựng Lộc Uyển. Khi Bích Nham mới thành lập, sư cô cũng tình nguyện về Bích Nham để cùng giúp xây dựng tăng thân. Sư cô đã không phụ lòng Thầy Tổ. Giờ phút chót sư cô đã ra đi thanh thản. Tối qua khi chúng tôi làm lễ tẩy tịnh, Ôn Minh Tuấn đem một cây quạt màu vàng sậm, trên quạt có hình vẽ vòng tròn, trong vòng tròn là bút pháp của Thầy: “Con hãy mỉm cười đi để bước qua bờ bên kia”. 
 
 Trên con đường đến thiền đường Đại Đồng, tôi thấy tăng xá của quý thầy đã lên đèn màu rất đẹp. Mùa Giáng sinh đang về, các sư em đang treo đèn đón mừng, không khí sinh động như chưa từng hiện hữu một tang lễ vừa mới xảy ra mấy ngày trước đây. Bóng thời gian!
 
 Mới hôm qua đây, tôi còn thấy Thầy đang ngồi trên bục giảng pháp. Mới hôm qua đây, tôi thấy mình đang giúp Thầy bón phân cho cây cúc đại đoá. Mới hôm qua đây, tôi thấy mình cùng với phái đoàn đi từng bước chánh niệm sau lưng Thầy lên đỉnh núi Linh Thứu… Bây giờ tất cả như là giấc mộng đẹp. Tôi phải chấp nhận sự đổi thay để thấy có những cái không bao giờ thay đổi. Đó là tình thầy trò, là tình huynh đệ, là bồ đề tâm, những điều này sẽ sống mãi trong lòng tôi, kiếp này cho đến mãi những kiếp về sau.
+
+<div class="article-end"></div>
+
+{% image "article/sr-hoa-nghiem/Hinh-cho-bai-Sc-Hoa-N1.jpeg" %}

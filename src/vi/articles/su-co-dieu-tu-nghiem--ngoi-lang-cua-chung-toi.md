@@ -56,9 +56,9 @@ Trong khóa tu 21 ngày và khóa tu mùa Hè, Thầy dạy cách thực tập v
 
 ***Sư cô Từ Nghiêm***: Chúng tôi làm những gói quà để gửi về Việt Nam trong thời kỳ đầu của Chương trình giúp trẻ em đói ở Việt Nam, vào những năm đầu thập kỷ 90. Chúng tôi đi đến các tiệm dược phẩm và mua các loại thuốc phổ thông không cần bác sĩ kê đơn như Paracetamol hay Tylenol. Chúng tôi bỏ chúng vào những cái hộp nhỏ kèm theo một lá thư. Lá thư đó được viết dưới dạng thư của một người nào đó ở Làng Mai gửi về thăm hỏi bạn bè ở Việt Nam. Hồi bấy giờ mình không thể nói quà đó từ Thầy hay Làng Mai được. Theo cách này, những gói nhỏ mang theo một lá thư rất dễ thương, viết đại ý “tôi mong gia đình anh, chị được khỏe mạnh”, động viên họ sống tích cực và mong họ nhận món quà mà chúng tôi, những người bạn, gửi đến cho họ. Tôi được biết rằng họ sẽ bán lại những thuốc đó để lấy tiền mua gạo. Những gói nhỏ tình thương thường xuyên được gửi đi, có lẽ là mỗi tuần. Đó là một công tác quan trọng trong những ngày đầu Làng Mai thực tập đạo Bụt dấn thân.
 
-## Tiếp nối Thầy và làm mới lại sự thực tập
-
 {% image "article/sr-tu-nghiem-and-sr-dieu-nghiem/1-edited.jpg" %}
+
+## Tiếp nối Thầy và làm mới lại sự thực tập
 
 ***Sư cô Diệu Nghiêm***: Thầy luôn luôn sáng tạo, luôn luôn làm mới. Chúng ta có đang làm mới không? Có sự thực tập nào mà chúng ta nghĩ nên được làm mới không? Có thể theo thời gian, có những thực tập đã mất đi chút ít ánh sáng của nó…
 
