@@ -11,7 +11,7 @@ I love the feeling of being instantly connected to the vitality of the elements 
 
 ## A gentle awareness of pain
 
-My body feels rather painful. I have a very bad cold and have been coughing for a few weeks already. Medical diagnosis reveals that bacteria have found their way into my lungs. The antibiotic treatment gives me headaches and flu-like symptoms, especially at night. It is due to the toxins released by the bacteria when they are eliminated. I know these sensations very well because I have been there before, especially with Lyme's disease. I am very tempted to stay in bed. I can see a part of me that wants to rebel against suffering, as if I could strike against life itself! I smile…
+My body feels rather painful. I have a very bad cold and have been coughing for a few weeks already. Medical diagnosis reveals that bacteria have found their way into my lungs. The antibiotic treatment gives me headaches and flu-like symptoms, especially at night. It is due to the toxins released by the bacteria when they are eliminated. I know these sensations very well because I have been there before, especially with Lyme’s disease. I am very tempted to stay in bed. I can see a part of me that wants to rebel against suffering, as if I could strike against life itself! I smile…
 
 Experience also tells me that if I surrender to that resistance, I run the risk of extracting myself from the stream of life, to start dwelling in drowsiness and open the door to complaining. I am aware that this door inside me is not totally closed and that it is not the right time to venture that way.
 
