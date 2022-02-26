@@ -24,7 +24,7 @@ Khi khổ đau em không cần vùng vẫy<br/>
 Hãy yên ngồi, uống một tách trà, ngắm bình minh</p>
 
 <p>Tôi sẽ có mặt cho em từng niệm chân tình<br/>
-<p>Để hơi thở lắng sâu, nụ cười hé<br/>
+Để hơi thở lắng sâu, nụ cười hé<br/>
 Khóe mắt em cứ để rơi giọt lệ<br/>
 Bởi không lối đi nào chỉ có nắng lung linh.</p>
 

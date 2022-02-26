@@ -19,10 +19,5 @@ Thầy không ngừng công trình hóa độ và xây dựng tăng thân. Thầ
 
 Những đóng góp của Thầy cho cuộc đời thật lớn lao và mầu nhiệm. Ngôn từ của con quá ư giới hạn, không thể diễn bày hết những công hạnh cao cả ấy của Người. Cám ơn Thầy đã và đang làm vị thầy tâm linh tuyệt hảo. Chúng con phải có phước đức lớn lắm mới được làm đệ tử của Thầy. 
 
-Con thương Thầy nhiều!
-
-Con của Thầy 
-
-
-
-
+<p class="noIndent">Con thương Thầy nhiều!<br/>
+Con của Thầy</p>
