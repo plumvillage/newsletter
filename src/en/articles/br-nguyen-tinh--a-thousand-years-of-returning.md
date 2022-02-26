@@ -35,11 +35,11 @@ I received the surprising news that I would soon have an opportunity to be Thay'
 
 Like the ancestral teachers of the past, Thay is also transmitting the living Dharma day and night: you support my feet, for you I walk; you offer medicine, for you I drink it; you bring me rice, for you I eat it; you are disrespectful, I reprimand you for your sake; you make me tea, for you I reach out to receive it; you want to learn, for you I teach; you bring me the chamber pot, for you I urinate; you want to learn impermanence, for you I am ill. Try asking me if I have transmitted the *Mind Seal* to you. Has anyone let anyone down? 
 
+{% image "article/br-nguyen-tinh/BrNguyenTinh2-edit.jpg" %}
+
 I could feel this during my time as an attendant. Thay is also ill for the sangha, for Plum Village, so that his monastic children have a chance to grow. Thay bears bodily pain each day, and he has the time to watch life springing up. If that is not a miracle, if that is not a living teaching, then what is? If we are not able to receive these concrete lessons from Thay, how can we continue to ask for more? Thay’s strength is still emanating from his eyes.
 
 I remember the second morning of the “Gratitude” Great Precepts Transmission Ceremony, Thay was staying at the Sitting Still Hut and woke early to drink tea. Thay indicated to us, his two attendants, to put on our long robes and push him in his wheelchair to view the moon. I pushed the wheelchair along a path near the Upper Hamlet bell tower. The morning moon was full and bright. Thay sat still, enjoying the moon, and often raised his hand to show us the way to be in deeper contact with the moon. Entering the Still Water Meditation Hall, Thay looked around a little at the decorations, then continued to view the moon and show it to us. After that, Thay agreed to visit the Transformation Hall.
-
-{% image "article/br-nguyen-tinh/BrNguyenTinh2-edit.jpg" %}
 
 The venerable monks were at breakfast and Thay joined them. Thay ate very mindfully, carefully and decisively bringing each spoonful of food to his mouth. His eyes were as bright as the eyes I had met in Thailand in 2013. Thay’s eyes and bearing led Venerable Giac Quang to tears. After breakfast Thay returned to the Sitting Still Hut. The sun was just appearing. Thay saw it and pointed it out to everyone, then invited the venerables to watch the sun rise in his hut. The scene was glorious.
 
@@ -69,5 +69,7 @@ One plum branch blossoms,<br/>
 the fragrance of sandalwood incense<br/>
 infuses each ancient brush stroke.<br/>
 </p></div>
+
+<div class="article-end"></div>
 
 {% image "article/br-nguyen-tinh/IMG_2341-edit.JPG" %}

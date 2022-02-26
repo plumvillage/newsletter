@@ -14,6 +14,8 @@ Sau một thời gian thực tập tại Làng Mai, niềm vui và hạnh phúc 
 
 Cũng vào dịp này năm ngoái, ba của con qua đời. Mẹ và các anh chị em cần sự có mặt của con nên con đã xin đại chúng được về Malaysia thăm và yểm trợ gia đình. Con rất biết ơn tăng thân đã cho con cơ hội quý giá này. Trong thời gian thăm nhà, con cảm thấy môi trường bên ngoài đầy cám dỗ nhưng cũng đầy áp lực và thử thách. Sau vài tuần xa tu viện, con bỗng thấy nhớ tăng thân. Mỗi ngày con đều ngồi thiền sáng tối và thực tập thiền hành, nhưng con vẫn dễ dàng bị năng lượng xung quanh kéo đi. Con thường xuyên tự nhắc nhở mình phải thực tập quay về với tự thân. Con nhận ra tăng thân là nơi để con nương tựa, thực tập cùng tăng thân dễ hơn thực tập một mình. Được nuôi dưỡng trong nguồn năng lượng tập thể của tăng, thân tâm con nhờ đó cũng được thanh lọc mỗi ngày. Dù cho khó khăn thử thách có đến nhưng con biết tăng thân vẫn luôn có mặt và yểm trợ cho con.
 
+{% image "article/br-troi-ruong-duc/BrRuongDuc-edit.jpg" %}
+
 Khoảng vài tháng trước, con chuyển xuống Sơn Hạ sau một năm sống ở xóm Thượng. Thời gian đầu, để thích nghi được với môi trường nơi đây cũng không phải là chuyện dễ dàng với con. Nhất là khi con còn chưa biết cách chăm sóc cho mình. Nhưng nhờ sự chỉ dạy và nâng đỡ của hai vị y chỉ sư là thầy Nguyên Tịnh và thầy Pháp Áo mà con dần dần biết cách chăm sóc khổ đau của mình. So với xóm Thượng thì Sơn Hạ khá ẩm ướt và lạnh. Mùa đông về, nhiệt độ bắt đầu giảm, phòng ốc cũng trở nên rất lạnh. Vậy mà y chỉ sư của con chẳng bao giờ dùng đến máy sưởi. Ước gì con cũng thực tập được như vậy.
 
 Tuy nhiên nhờ vào tấm gương và sự rèn luyện ấy của thầy mà cơ thể con cũng từ từ làm quen và thích nghi với môi trường. Biết con sợ lạnh, thầy đã cho con đổi chăn dày hơn. Bây giờ con có thể ngủ thẳng giấc. Đôi khi con cũng tự nghĩ: giờ này ngoài kia đang có rất nhiều người đói khổ, nhất là trẻ em, không có đủ cơm ăn và áo ấm để mặc. Con rất may mắn khi có đủ những điều kiện để hạnh phúc và để đi tới trên con đường thực tập.
@@ -29,6 +31,8 @@ Chỉ sau hai ngày làm việc ở vườn xanh, con đã buông bỏ được 
 Thầy y chỉ sư của con gieo hạt và dặn con tưới nước mỗi ngày. Vài ngày sau, hạt bắt đầu nảy mầm. Những mầm non theo nhau lớn rất nhanh. Để đủ không gian cho các bạn, thầy đã bứng một số và trồng sang luống khác.
 
 Một buổi chiều nọ, vào giờ chấp tác, khi đang chăm chú tưới nước cho những luống rau mầm thì bỗng nhiên con thấy các mầm non nhỏ xíu đang mỉm cười với con. Ôi! Thật là tuyệt! Lần đầu tiên con cảm nhận rõ như vậy. Đây là một giây phút rất hạnh phúc, chắc hẳn đây cũng là điều mà thầy muốn nói với con.
+
+{% image "article/br-troi-ruong-duc/BrRuongDuc2-edit.jpg" %}
 
 Lúc rau mầm lớn lên cũng là lúc cỏ mọc cao hơn. Con chỉ lo chăm chỉ tưới rau mà chẳng để ý gì đến cỏ dại. Vào một buổi sáng, trong lúc uống trà, vì biết là con quên nhổ cỏ nên thầy mỉm cười và nói: “Sư em chỉ biết tưới rau thôi”. Sau đó con nhận ra rằng dù chăm sóc rau nhưng mình cũng cần phải nhổ cỏ. Chiều hôm ấy, khi đang nhổ cỏ với thầy Nguyên Tịnh, con phát hiện ra là con không thể nhổ cỏ xung quanh các luống rau mầm được vì rễ của rau cũng rất yếu. Con chỉ có thể cắt tỉa cỏ xung quanh mà thôi. Thầy Nguyên Tịnh cười và nói rằng chắc phải đợi thêm cho đến khi cây rau đủ mạnh thì con mới có thể nhổ cỏ. Con lắng nghe và kiên nhẫn chờ đợi để rau lớn thêm.
 

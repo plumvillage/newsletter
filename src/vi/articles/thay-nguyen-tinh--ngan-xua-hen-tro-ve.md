@@ -3,6 +3,8 @@ title: Ngàn xưa hẹn trở về
 author: Thầy Thích Nguyên Tịnh
 ---
 
+{% image "article/br-nguyen-tinh/BrNguyenTinh1-edit.jpg" %}
+
 *Trích sổ công phu*
 
 ## *03 tháng 11 năm 2015*<br/>Để tôi cùng có mặt
@@ -23,6 +25,8 @@ Nơi góc của căn nhà gỗ cổ kính giữa lòng Phương Khê, tôi đã 
 Thời gian ở Kim Sơn, tôi thích đi dạo ra trước ngôi tháp và đảnh lễ thầy Trí Thuyên, một vị xuất sĩ trẻ đã bị quân Pháp bắn vào năm 1947. Đọc Việt Nam Phật giáo sử luận hay Bây giờ mới thấy, hoặc trong những bài pháp thoại của Thầy, tôi biết Thầy và thầy Trí Thuyên là bạn thân của nhau. Ngày 10 tháng 3 năm 2016, nhằm ngày 2 tháng 2 Âm lịch, tôi may mắn được làm thị giả cho Thầy. Khi nhận tin, tôi khá bất ngờ, lúc đó đang trong thời điểm làm biếng mười ngày sau khóa tu xuất sĩ. Và còn bất ngờ hơn khi tôi khám phá ra, ngày tôi bắt đầu làm thị giả cho Thầy, thì ở Kim Sơn, đại chúng cũng đang tưởng niệm 69 năm ngày thầy Trí Thuyên viên tịch. Tôi có viết trong sổ công phu rằng: “Kính bạch thầy Trí Thuyên, trong thâm sâu tâm linh con biết rằng, Người đã gọi con lên làm thị giả cho Thầy. Con tin rằng thầy của con hiện tại ở Kim Sơn cũng sẽ cảm thấy rất vui lòng vì điều này”.
 
 Được cơ may thân cận Thầy trong thời gian làm thị giả, tôi đã học được những bài học Thầy trao truyền. Trong mỗi bữa ăn, Thầy đưa từng muỗng thức ăn lên miệng bằng tất cả sự chú tâm, thận trọng và thưởng thức. Chánh niệm đã trở thành sự sống của Thầy. Thầy thưởng thức từng ngụm trà một cách trầm lặng. Ngắm nhìn thiên nhiên, Thầy trở thành người vô sự. Một bông hoa ngọc lan nở, với Thầy cũng là một phép mầu. Tôi thương lắm mỗi khi nhìn thấy bàn tay trái của Thầy chăm sóc và đánh thức bàn tay phải. Thầy ngồi vào bàn, với bàn tay trái, Thầy cầm bút, vẽ từng vòng tròn thư pháp và mỉm cười. Một bông hoa nở trên trang giấy, bông hoa nở trong lòng Thầy. Bông hoa ấy cũng nở trong lòng mỗi chúng tôi.
+
+{% image "article/br-nguyen-tinh/BrNguyenTinh2-edit.jpg" %}
 
 ## *25 tháng 3 năm 2016*<br/>Buổi thị giả thứ 16
 
@@ -50,3 +54,7 @@ Trải ngàn thu<br/>
 Cánh mai nở<br/>
 Thoảng hương trầm<br/>
 Thơm mỗi nét cổ thư.</p></div>
+
+<div class="article-end"></div>
+
+{% image "article/br-nguyen-tinh/IMG_2341-edit.JPG" %}

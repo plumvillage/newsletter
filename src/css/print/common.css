@@ -782,14 +782,14 @@ h1#the-true-sangha + .author, h1#tang-than-dich-thuc + .author {
     text-shadow: white 1px 0 5px
 }
 
-img#articlebr-troi-thien-chi5brot {
+html:lang(en) img#articlebr-troi-thien-chi5brot {
     width: 90%;
     margin-right: 5%;
 }
 
 html:lang(vi) img#articlebr-troi-thien-chi5brot {
-    width: 82% !important;
-    margin-right: 11% !important;
+    width: 82%;
+    margin-right: 11%;
 }
 
 html:lang(vi) img#articlebr-troi-thien-chi21767317541562549611291283397034335052574932n{
@@ -798,6 +798,15 @@ html:lang(vi) img#articlebr-troi-thien-chi21767317541562549611291283397034335052
     width: 60%;
 }
 
+/* //////////////////////////////////////////////// */
+/* /////////////  FULL-PAGE IMAGES  /////////////// */
+img#articlesr-doan-nghiemSr-doan-nghiem-edited,
+img#articlerichard-brady53beedc0-edited-crop,
+img#articlerichard-brady53beedc0-edited-crop + .image-label,
+img#articlesr-hoa-nghiemHinh-cho-bai-Sc-Hoa-N1,
+img#articlesr-chan-khong-letter-to-ThaySCCK-with-MLK-and-TNH-statue-high-quality-e-crop,
+img#articlebr-nguyen-tinhBrNguyenTinh1-edit,
+img#articlebr-phap-huuIMG2211e,
 img#articlebr-troi-bao-tang266137775101594156527050427864726797241279645n,
 img#articlebr-troi-bao-tangScreenshot-edit,
 img#articlebr-troi-dao-quangIMG1129,
@@ -809,6 +818,32 @@ img#articlebr-phap-dungthay-bell3-torn-edges {
     margin-right: auto;
     padding-left: 0;
     padding-right: 0;
+}
+
+img#articlesr-doan-nghiemSr-doan-nghiem-edited {
+    width: 70%;
+}
+img#articlerichard-brady53beedc0-edited-crop,
+img#articlerichard-brady53beedc0-edited-crop + .image-label {
+    width: 97%;
+}
+
+img#articlesr-hoa-nghiemHinh-cho-bai-Sc-Hoa-N1 {
+    width: 90%;
+    margin-top: 10%;
+    margin-bottom: 0;
+}
+img#articlebr-nguyen-tinhBrNguyenTinh1-edit {
+    width: 70%;
+}
+img#articlesr-chan-khong-letter-to-ThaySCCK-with-MLK-and-TNH-statue-high-quality-e-crop {
+    width: 60%;
+}
+html:lang(en) img#articlebr-phap-huuIMG2211e {
+    width: 90%;
+}
+html:lang(vi) img#articlebr-phap-huuIMG2211e {
+    width: 68%;
 }
 img#articlebr-troi-bao-tang266137775101594156527050427864726797241279645n {
     width: 67%;
@@ -828,6 +863,10 @@ img#articlebr-troi-bao-tangScreenshot-edit {
     width: 97%;
     margin-bottom: 0;
 }
+
+
+
+
 
 img#articlefor-poemsseparator1 {
     display: block;
@@ -853,34 +892,8 @@ img#articlefor-poemsorchid-light2 {
     bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed)) * -1);
 }
 
-img#articlebr-nguyen-tinhBrNguyenTinh1-edit {
-    display: block;
-    float: none;
-    width: 70%;
-    column-span: all;
-    margin-left: auto;
-    margin-right: auto;
-}
 
-img#articlesr-chan-khong-letter-to-ThaySCCK-with-MLK-and-TNH-statue-high-quality-e-crop {
-    display: block;
-    float: none;
-    width: 60%;
-    column-span: all;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 0;
-}
-img#articlesr-hoa-nghiemHinh-cho-bai-Sc-Hoa-N1 {
-    display: block;
-    float: none;
-    width: 90%;
-    margin-top: 10%;
-    column-span: all;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 0;
-}
+
 
 /* 
 on other occasions, I would adjust the margin-top and height of .pagedjs_page_content (not its div). However, this does not work in the generated PDF (the margin-top does not apply).
@@ -907,8 +920,6 @@ on other occasions, I would adjust the margin-top and height of .pagedjs_page_co
     margin-left: 4% !important;
 }
 
-/* img#articlesr-hoa-nghiemsummer-retreat {
-img#articlesr-hoa-nghiem20211212029-edited { */
 
 
 
@@ -944,41 +955,15 @@ img#articlebr-phap-ung8826595315246533743600235026231803661254656ne {
     margin-right: auto;
 }
 
-img#articlebr-phap-huuIMG2211e {
-    display: block;
-    float: none;
-    width: 90%;
-    margin-top: 45pt;
-    column-span: all;
-    margin-left: auto;
-    margin-right: auto;
-}
 
 
 
-img#articlerichard-brady53beedc0-edited-crop {
-    display: block;
-    float: none;
-    width: 97%;
-    /* margin-top: 45pt; */
-    column-span: all;
-    margin-left: auto;
-    margin-right: auto;
-}
-img#articlerichard-brady53beedc0-edited-crop + .image-label {
-    display: block;
-    float: none;
-    column-span: all;
-    width: 97%;
-    margin-left: auto;
-    margin-right: auto;
-}
+
 
 
 .PAGE-OF-articlebr-phap-kham1998-TangThanXomThuong-MuaHe-cut .pagedjs_page_content {
     height: calc(100% - var(--pagedjs-footnotes-height) - 95mm) !important;
 }
-
 img#articlebr-phap-kham1998-TangThanXomThuong-MuaHe-cut {
     position: absolute;
     bottom: -89mm;
@@ -1002,36 +987,10 @@ img#articlebr-phap-kham1998-TangThanXomThuong-MuaHe-cut + .image-label {
     /* margin-right: auto; */
 }
 
-img#articlesr-doan-nghiemSr-doan-nghiem-edited {
-    display: block;
-    float: none;
-    width: 70%;
-    column-span: all;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-
-.PAGE-OF-articlesr-doan-nghiemSr-Doan-N-edited .pagedjs_page_content {
-    height: calc(100% - var(--pagedjs-footnotes-height) - 95mm) !important;
-}
-
-img#articlesr-doan-nghiemSr-Doan-N-edited {
-    position: absolute;
-    bottom: -89mm;
-    display: block;
-    float: none;
-    width: 70%;
-    left: 15%;
-    column-span: all;
-    /* margin-left: auto; */
-    /* margin-right: auto; */
-}
 
 .PAGE-OF-articlesr-doan-nghiemsu-me-DJoan-N-3-edited .pagedjs_page_content {
     height: calc(100% - var(--pagedjs-footnotes-height) - 80mm) !important;
 }
-
 img#articlesr-doan-nghiemsu-me-DJoan-N-3-edited {
     position: absolute;
     bottom: -80mm;
@@ -1043,6 +1002,7 @@ img#articlesr-doan-nghiemsu-me-DJoan-N-3-edited {
     /* margin-left: auto; */
     /* margin-right: auto; */
 }
+
 
 img#articleeulogy-in-vietnamL1004781,
 img#articlebr-troi-duc-hienIMG5858-edited {
