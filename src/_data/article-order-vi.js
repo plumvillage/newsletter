@@ -66,7 +66,7 @@ module.exports = ["tri-an-thay",
 "thay-linh-nam--kinh-so-tam",
 "thay-phap-kha--quan-tam",
 "lang-mai-nam-qua",
-"su-co-hien-nhan--hoc-tieng-viet",
+"su-co-trang-hien-nhan--hoc-tieng-viet",
 "su-co-duyet-nghiem--ngay-tuyet-nho-thay",
 ]
 

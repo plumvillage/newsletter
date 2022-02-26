@@ -50,10 +50,10 @@ Những anh chị em xuất sĩ phụ trách nhóm Wake Up vẫn thường nhắ
 
 Tôi chưa tới 35 tuổi nên vẫn còn được sinh hoạt với nhóm Wake Up. Tuy vậy có những xuất sĩ hoặc thiền sinh đã trên 35 rồi mà vẫn thích tu học cùng nhóm Wake Up. Vì trái tim họ không già, tâm hồn họ tươi trẻ. Tôi đã được học hỏi từ những con người tràn đầy nhiệt huyết ấy. Sư em Trời Thiện Ý có tặng tôi câu thư pháp tiếng Anh *“The path of compassion is endless, but together it’s a lot of fun!”* (Con đường của tình thương dài vô tận, nhưng cùng đi với nhau ta sẽ có nhiều niềm vui). Tôi thích lắm!
 
-Trong bài kệ chúc tán, tôi vô cùng tâm đắc câu:
+<p class="noIndent">Trong bài kệ chúc tán, tôi vô cùng tâm đắc câu:</p>
 
-> Hiện tiền đại chúng
-> Tu tập tinh chuyên
+> Hiện tiền đại chúng  
+> Tu tập tinh chuyên  
 > Biết thương yêu nhau như ruột thịt…
 
 Mỗi lần đọc tụng đến câu này thì lòng tôi lại xúc động. Bởi đó cũng chính là tâm nguyện của tôi khi bước trên con đường này - tu học thật hạnh phúc cùng với người trẻ, hết lòng thương yêu và nâng đỡ mọi người xung quanh. Tôi muốn các bạn trẻ thấy rằng sự thực tập có thể rất vui, chứ không cần phải quá nghiêm túc như các bạn vẫn nghĩ. Tu học khá là vui!

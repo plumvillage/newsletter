@@ -5,17 +5,18 @@ author: Sư cô Chân Trăng Hiền Nhân
 
 <p class="editors-preface">Sư cô Trăng Hiền Nhân, người Pháp, xuất gia năm 2018 trong gia đình cây Dẻ Gai. Sư cô có nhiều cảm hứng và niềm yêu thích học tiếng Việt từ khi bước vào Tăng thân. Bài viết dưới đây do sư cô viết trực tiếp bằng tiếng Việt.</p>
 
-Con kính bạch Thầy, 
+<p class="noIntent">Con kính bạch Thầy,</br>
+Con kính thưa quý thầy, quý sư cô và đại chúng,</p>
 
-Con kính thưa quý thầy, quý sư cô và đại chúng,
-
-Năm nay con xin phép được chia sẻ về một chủ đề thú vị lắm. Chủ đề này là “học tiếng Việt”. Thực sự, học tiếng Việt ở đây không phải là học tiếng Việt, cho nên mình được nói “học tiếng Việt”. Có phải đủ thú vị chưa? 
+Năm nay con xin phép được chia sẻ về một chủ đề thú vị lắm. Chủ đề này là “học tiếng Việt”. Thực sự, học tiếng Việt ở đây không phải là học tiếng Việt, cho nên mình được nói “học tiếng Việt”. Có phải đủ thú vị chưa?
 
 Trong đời xuất sĩ của con, học tiếng Việt là một hạnh phúc lớn. Trong cái học đó, con và em bé trong con được sống với nhau những giờ phút đẹp trong đời, với năng lượng trị liệu và thương yêu. Con không học với các cuốn sách. Hoặc là khi con có đọc một cuốn sách để học tiếng Việt, thì cuốn sách đó không ngừng lại ở việc chỉ là một cuốn sách thôi mà đã trở nên một người bạn rồi. Tâm con là như thế với vấn đề học tiếng Việt.
 
 Hai năm về trước, khi mới xuất gia, con trở nên rất quan tâm đến vấn đề học hỏi văn hóa Việt Nam. Nhưng con muốn vừa học vừa chơi. Vì vậy cho nên, con vào thư viện và đã tìm thấy một cuốn sách trong đó có vài bài hát Việt Nam, như “Sài Gòn đẹp lắm” hay “Ly rượu mừng” (nói về ngày Tết) và may mắn cho con, trong sách đó cũng có một cái đĩa CD để nghe được các bài hát. Con học và nghe các bài hát đó thôi.
 
 Rồi một buổi tối, lúc con đang hát “Sài Gòn đẹp lắm! Sài Gòn ơi! Sài Gòn ơi!” thì con gặp sư cô Thanh Ý (lúc đó sư cô là y chỉ sư của con). Sư cô tỏ ra ngạc nhiên lắm và sư cô chia sẻ một chút với con về bài hát đó cũng như về bối cảnh chính trị lúc đó. Con được hiểu rằng con nên hát các bài về sự thực tập thay vì các bài khác. 
+
+{% image "article/sr-trang-hien-nhan/VI/IMG1509-e.JPG" %}
 
 Trong con, có một em bé vẫn còn đang tìm kiếm một gia đình thương yêu để được nương tựa. Con học tiếng Việt tức là con học nghe em bé trong con, con học hiểu, học ôm ấp em bé và con chơi với em bé. 
 
@@ -33,18 +34,23 @@ Vì vậy, tiếp xúc được với quý sư cô người Việt giúp con tì
 
 Con chia sẻ như vậy để nói lên lòng biết ơn của con. Quả thật là trong đời sống hàng ngày, con chưa biểu lộ được nhiều niềm biết ơn này. Con vẫn bị ảnh hưởng bởi các vết thương của quá khứ. Cho nên, để con có thể biểu lộ lòng biết ơn, con thường vào thiền đường và thực tập Sám pháp địa xúc hoặc là con viết một cái gì đó trong quyển sổ Công phu thôi. 
 
+{% image "article/sr-trang-hien-nhan/VI/Tet_2021_21.jpg" %}
+
 Để kết thúc, con xin chia sẻ một bài thơ “con cóc” mà con đã tập làm trong thời gian học tiếng Việt (cụm từ “bài thơ con cóc” con không thể nào nhớ để viết được nên con đã nhờ các sư cô viết cho con qua tiếng Việt trong khi con nói tiếng Anh).
 
-> Học tức là tu chơi  
-> Chơi học yêu cuộc đời  
-> Yêu đời nở nụ cười  
-> Thở cười bước thảnh thơi  
-> Nhưng tâm con thì nhỏ  
-> Thảnh thơi rồi bối rối
-Lo, nghĩ, hết rong chơi  
-> Vậy thì nên tu chơi  
-> Chơi, con lại hài lòng
-Vui rồi tiếp học hỏi  
-> Học nhiều xong mệt mỏi  
-> Mệt mỏi nên nghỉ ngơi…
-Học tức là ham chơi!
+<div class="verse"><p>Học tức là tu chơi<br/>
+Chơi học yêu cuộc đời<br/>
+Yêu đời nở nụ cười<br/>
+Thở cười bước thảnh thơi</p>
+
+<p>Nhưng tâm con thì nhỏ<br/>
+Thảnh thơi rồi bối rối
+Lo, nghĩ, hết rong chơi<br/>
+Vậy thì nên tu chơi</p>
+
+<p>Chơi, con lại hài lòng
+Vui rồi tiếp học hỏi<br/>
+Học nhiều xong mệt mỏi<br/>
+Mệt mỏi nên nghỉ ngơi…</p>
+
+<p>Học tức là ham chơi!</p></div>

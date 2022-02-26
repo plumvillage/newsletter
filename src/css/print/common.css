@@ -964,7 +964,6 @@ on other occasions, I would adjust the margin-top and height of .pagedjs_page_co
 
 
 
-
 .article-ngay-tuyet-nho-thay {
     columns: 1 !important;
     width: 134mm;
@@ -1084,6 +1083,9 @@ img#articlesr-trang-bo-deSc-Bo-DJe-4-edit {
 
 #poem-true-source {
     width: 90mm;
+}
+#poem-duyen {
+    margin-left: 15%;
 }
 
 .PAGE-OF-articlebr-phap-linhCS21202110152RL0936-crop4 .pagedjs_footnote_area

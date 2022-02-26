@@ -21,9 +21,12 @@ Mây mù không thấy được.</p></div>
 
 Bài thơ gợi ý cho con liên tưởng đến hình ảnh Thầy đang hái thuốc trên núi. Mây mù che phủ và dù có tìm mãi cũng không thấy Thầy đâu!
 
-*“Tùng hạ vấn đồng tử”,* khi đọc câu đầu tiên, con nhớ tới câu*“Tùng lăng đông tuyết ngọc thiên chi”(cây tùng vượt lên giá rét của mùa đông, vươn ra ngàn cánh ngọc).* Cây* tùng, loài cây có sức sống thật dẻo dai, chịu đựng giá rét, khô hạn. Cây tùng cũng được dùng để ca ngợi những ai có khí chất của người quân tử với sức sống mãnh liệt, ý chí phi thường, cao thượng kiên trung.
+*“Tùng hạ vấn đồng tử”*, khi đọc câu đầu tiên, con nhớ tới câu *“Tùng lăng đông tuyết ngọc thiên chi”(cây tùng vượt lên giá rét của mùa đông, vươn ra ngàn cánh ngọc).* Cây tùng, loài cây có sức sống thật dẻo dai, chịu đựng giá rét, khô hạn. Cây tùng cũng được dùng để ca ngợi những ai có khí chất của người quân tử với sức sống mãnh liệt, ý chí phi thường, cao thượng kiên trung.
 
-Bài thơ tả cảnh thật thi vị. Sư phụ ở trên núi, nơi có những cây tùng cao. Một ngày, có vị khách phương xa tới tham thiền, chú tiểu thưa rằng thầy mình đã đi hái thuốc (*Ngôn sư thái dược khứ*)*.*
+Bài thơ tả cảnh thật thi vị. Sư phụ ở trên núi, nơi có những cây tùng cao. Một ngày, có vị khách phương xa tới tham thiền, chú tiểu thưa rằng thầy mình đã đi hái thuốc (*Ngôn sư thái dược khứ*).
+
+{% image "article/sr-tang-nghiem/DSC_4968-e.JPG", "noFloat" %}
+{% image "article/sr-tang-nghiem/DSC_7356-e.jpg", "noFloat" %}
 
 Làng mình cũng đẹp như bức tranh phác họa trong bài thơ này, có khi còn đẹp hơn thế: Phải không ? thưa Thầy. Con nhớ ở Làng, xóm nào cũng có những cây tùng, to lớn và vững chắc. Mỗi ngày chúng con được nhìn thấy Thầy đi thiền hành, lúc thì đi với thị giả, lúc thì Thầy đi một mình. Đôi khi Thầy thiền hành lặng lẽ ẩn giữa rừng tùng, chúng con không thấy Thầy đâu cả. Mỗi bước chân, mỗi hơi thở, Thầy chế tác định và tuệ, an trú nơi hiện pháp nhiệm mầu.
 
@@ -44,6 +47,8 @@ Mây mù dày quá, không biết thầy mình đang ở nơi nào. Thầy thư�
 
 Kính bạch Thầy! Thầy đã cho chúng con một gia tài rất lớn. Là đệ tử của Thầy, chúng con thường nghe Thầy giảng về Tứ diệu đế, Bát chánh đạo, Tam Pháp ấn, Duyên khởi,… cũng như cách áp dụng những giáo lý này vào đời sống hằng ngày để trị liệu những bế tắc, hiểu lầm. Nhờ đó, chúng con tháo gỡ được rất nhiều khúc mắc và hiểu thêm ý nghĩa của các pháp môn, cũng như giáo pháp Bụt trao truyền.
 
+{% image "article/sr-tang-nghiem/DSC_7427-e.jpg" %}
+
 Nếu không phải là người xuất gia, là một sư cô học trò của Thầy, chắc con sẽ khó vượt qua những biến cố tai ương giữa cuộc sống này, khó có thể nhìn mọi chuyện mình trải qua bằng con mắt biết ơn, hạnh phúc và cảm thông. Con thấy mình quá may mắn vì được làm con của Bụt, của Thầy. Mỗi ngày con được thực tập chánh niệm, được có thời gian và không gian nhìn lại tự thân, trau dồi kiến thức, được có trái tim ướp đầy nhiệt huyết giúp người, con mắt biết cười khi nhìn thấy bông hoa ven đường. Thấy mình có trong tất cả và tất cả có trong mình…
 
 ## Thời gian đi nhanh hơn hay con đi nhanh hơn?
@@ -56,10 +61,13 @@ Giờ đây, mỗi lần nhớ Thầy, nhớ lại công án đó, công án mà
 
 Ở Thái Lan, mùa này là mùa đẹp nhất trong năm thưa Thầy! Mùa vàng rực của lá tre, lá bàng. Đã cuối đông, thời tiết chuyển, trời dần ấm hơn như để đón mùa xuân về. Chúng con mở các khóa tu trực tuyến cho thiền sinh có nơi trở về, cùng nhau học kinh Quán niệm hơi thở, Công phu nở đóa sen ngàn cánh, Duy biểu học,… Chúng con trồng thêm rau sạch để cung cấp cho đại chúng trong mùa đại dịch covid. Quan trọng nhất là chúng con nhắc nhau thực tập giữ hòa khí để con thuyền tăng thân vận hành trôi chảy. Đó là những phương thuốc mà nơi đây chúng con đang chế tác. Mỗi chúng con đều ý thức được rằng, muốn hiến tặng hạnh phúc cho mọi người trên thế giới thì bản thân chúng con phải có hạnh phúc trước.
 
+{% image "article/sr-tang-nghiem/DSC_0737-e.jpg" %}
+
 Thơ cũng là một phương thuốc đưa con trở về nếm trải hương vị nhiệm mầu của phút giây hiện tại. Thơ giúp con biết quẳng gánh lo đi mà nở nụ cười cùng hoa, lá, mây trời. Mỗi khi chạm mặt với cái đẹp thực tại, con xúc động lắm. Con cảm thấy ẩn tàng phía sau mỗi sự việc hay mỗi con người là những đáp án và những sự thật rất đỗi bất ngờ, nếu con biết hiểu và thương. Lòng từ bi là liều thuốc mở cửa trái tim để con người bình thường trở nên vĩ đại… Dài dòng thêm đôi chữ, con kính dâng Thầy cũng như quý y chỉ sư và tăng thân một bài thơ, được con góp nhặt từ những chiếc lá tre vàng ở Vườn Ươm:
 
-<div class="verse"><p><b>Duyên</b><br/>
-Chim hót<br/>
+<div class="verse" id="poem-duyen"><p><b>Duyên</b><br/>
+
+<p>Chim hót<br/>
 Ve gọi hè<br/>
 Giọt nắng rơi<br/>
 Hiên An Ban mùa hợp tấu<br/>
