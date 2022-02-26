@@ -1,5 +1,7 @@
 module.exports = ["tri-an-thay",
 "thien-thu-trong-khoanh-khac",
+// Đây là giây phút huyền thoại
+"thay-phap-huu--day-la-giay-phut-huyen-thoai",
 "so-cu-hien-nghiem--giay-phut-cua-su-tiep-noi",
 "su-ong-lang-mai--tang-than-dich-thuc",
 "thay-phap-niem--tieng-cuoi-tre-da-vang",
@@ -13,6 +15,7 @@ module.exports = ["tri-an-thay",
 // "su-co-sung-nghiem--thay-om-cac-vao-long",
 "thay-phap-an--thap-len-ngon-nen",
 // Ngàn xưa hẹn trở về	Thầy Nguyên Tịnh
+"thay-nguyen-tinh--ngan-xua-hen-tro-ve",
 // "thay-nguyen-tinh--ngan-xua-hen-tro-ve",
 "su-co-doan-nghiem--thuong-nhu-thay-thuong",
 "thay-phap-nguyen--que-me-van-toa-ngat-huong-thom",
@@ -23,12 +26,17 @@ module.exports = ["tri-an-thay",
 "thay-phap-hoi--theo-thay-lam-bao",
 "su-co-trang-bo-de--advent",
 "su-co-chan-duc--thay-thay-trong-tang-than",
+"su-co-quy-nghiem--su-tiep-noi-dep-de",
+"su-co-quy-nghiem--thien-ca",
 // Niềm thương bình an	Sr. Tuyết N
-// "su-co-tuyet-nghiem--niem-thuong-binh-an",
+"su-co-tuyet-nghiem--niem-thuong-binh-an",
 "thay-troi-dai-dao--cuoc-cach-mang-dang-tiep-dien",
 // Đem chánh niệm vào y tế	Elli Weisbaum
 // Thầy là tình thương -Sr Elisabeth
 "sr-elisabeth--thay-la-tinh-thuong",
+// Hạnh phúc ơi bạn ở đâu?	Br. T. Ruộng Đức - Nó đây rồi
+// "su-chu-ruong-duc--hanh-phuc-oi-ban-o-dau",
+"su-chu-ruong-duc--no-day-roi",
 "su-co-chuan-nghiem--thuong-yeu-muon-doi-van-hat-suong-trong",
 "thay-troi-dao-bi--con-duong-tinh-thuong",
 "su-co-trang-mai-thon--nhap-luu-ngay-binh-thuong",
