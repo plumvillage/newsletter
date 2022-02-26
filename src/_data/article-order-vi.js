@@ -32,6 +32,9 @@ module.exports = ["tri-an-thay",
 "su-co-tuyet-nghiem--niem-thuong-binh-an",
 "thay-troi-dai-dao--cuoc-cach-mang-dang-tiep-dien",
 // Đem chánh niệm vào y tế	Elli Weisbaum
+"elli-weisbaum--cong-trinh-noi-duoc",
+// Người thầy, người dẫn đường và người đồng hành thông thái của tôi - Shantum Seth
+"shantum-seth--nguoi-thay-nguoi-dan",
 // Thầy là tình thương -Sr Elisabeth
 "sr-elisabeth--thay-la-tinh-thuong",
 // Hạnh phúc ơi bạn ở đâu?	Br. T. Ruộng Đức - Nó đây rồi

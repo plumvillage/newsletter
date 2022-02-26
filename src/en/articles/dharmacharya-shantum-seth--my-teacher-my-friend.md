@@ -31,7 +31,6 @@ For the next 35 days I traveled with Thay through Uttar Pradesh and Bihar. I had
 
 It was at Vulture Peak, Thay said, that his own Buddha Eyes had opened some years before. It was also on Vulture Peak he ordained his first three monastic disciples. It was here too that he transmitted his lay teachings that had been extracted from the ancient Buddhist texts and condensed to what he called the 14 Mindfulness Trainings and the 5 Precepts. These trainings are a clear set of guidelines on how to live a good life - good in a simple, happy and peaceful way - in these confusing times.
 
-
 We sat under trees and listened to Thay talk about the Buddha’s teachings. Thay held my hand without saying a word. At that moment I felt I was looking with his eyes and that everything is interconnected. I had never thought of these matters, but at that moment I understood what he was saying, that nothing is born and nothing dies. He turned to look at me and pointing to the turban on my head, he said, “Shantum, the matter of life and death is as urgent as if your turban is on fire.”
 
 {% image "article/dharmacharya-shantum-seth/image1.jpeg" %}

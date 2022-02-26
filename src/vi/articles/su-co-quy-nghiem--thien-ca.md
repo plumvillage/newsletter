@@ -11,9 +11,9 @@ Khi con về Làng Mai, Pháp quốc, lần đầu tiên vào mùa hè 1987, con
 
 Cho nên một bài hát thiền như là một bài kinh, một ngón tay của Bụt chỉ cho mình lối đi về bình an. “May thay trong cõi ta bà, đâu cũng có cánh tay đức từ bi cứu độ”. Nếu không tu tập để có được ý thức tỏ rạng như mặt trời thì mình khó mà  thấy được ngón tay chỉ đường của Bụt, và có lòng quyết tâm đi theo dấu chân của Ngài để đến được bờ tự do.
 
-{% image "article/sr-quy-nghiem/Sr-quy-nghiem1e-crop.jpg", "expandToRightBorder" %}
-
 Một bài hát gọi là thiền ca, thì lời và nhạc phải nhẹ nhàng, quyện vào nhau hài hòa như tâm ý Bụt. Thiền ca có tác dụng đánh thức mình dậy, không còn ngủ mê nữa, không còn chìm đắm trong sầu khổ nữa. Bài *Thở vào, thở ra* là bài hát con rất thích. Đây là một bài thiền ca căn bản, được hát bằng nhiều thứ tiếng, nhắc nhở mình tỉnh thức, trở về chăm sóc thân tâm trước khi bắt đầu làm một việc gì, nói một điều gì. Có như vậy mình mới có thể tránh được những lầm lỗi, gây khổ đau cho mình và người khác.
+
+{% image "article/sr-quy-nghiem/Sr-quy-nghiem1e-crop.jpg", "expandToRightBorder" %}
 
 Cùng với bài hát, mình thực tập thở vào thở ra có ý thức, như Sư Ông dạy, làm cho thân tâm lắng dịu lại, tươi mát trở lại như hoa, vững vàng như núi, yên tĩnh như mặt hồ, và thênh thang như không gian, không còn điều gì làm vướng bận. Người hát và người nghe hát phải hết lòng sống với những gì mình đang hát, đang nghe. Có như vậy những hạt giống tốt trong mình mới thực sự được tưới tẩm và lớn mạnh, dâng hoa thơm trái ngọt cho mình, cho người.
 
