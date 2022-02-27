@@ -361,7 +361,7 @@ ul.toc {
 }
 
 ul.toc li {
-    margin-left: 15pt;
+    margin-left: 10pt;
     margin-bottom: 10pt;
     page-break-inside: avoid;
 }
@@ -1075,6 +1075,18 @@ img#articlesr-tang-nghiemNon-xua-may-trang-phu-day-thay-ngoi-thien-dinh-dem-ngay
     column-span: all;
 }
 
+img#articlefor-chaptersPlanting-trees-edit2 {
+    display: block;
+    position: absolute;
+    bottom: -20mm;
+    z-index: -1;
+    width: 90%;
+    left: 6%;
+}
+img#articlefor-chapterscoc-ngoi-yen-e {
+    overflow: hidden;
+    z-index: -1;
+}
 
 
 

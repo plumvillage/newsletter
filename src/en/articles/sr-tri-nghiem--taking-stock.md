@@ -58,7 +58,8 @@ My heart sank. I missed the contact with our lay friends. Although I had helped 
 
 For the first time in my monastic life, I began to question my sense of purpose.
 
-{% image "article/sr-tri-nghiem/sr-tri-nghiem-2.jpg" %}
+{% image "article/sr-tri-nghiem/DSC_0130.JPG" %}
+<!-- {% image "article/sr-tri-nghiem/sr-tri-nghiem-2.jpg" %} -->
 
 ## The importance of a sense of purpose
 
