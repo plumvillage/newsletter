@@ -6,7 +6,8 @@ author: Sister Chân Trăng Bồ Đề
 
 When I was little, at Christmas time all the streets in my hometown were strewn with twinkling lights and Christmas trees - plastic, but beautiful. The quiet church near my home came alive with joy. Even though I didn’t know about Christmas, I was still very happy because I could wander the streets at night, looking at this and that. I never had the courage to step foot in a church, except for one time when curiosity got the better of me, and the only reason was: I am a Buddhist. There seemed to be a line dividing church and temple. My parents and grandparents all agreed that a Buddhist should not go to a church. It would be an act of impiety. So that idea was firmly planted in the heads of all the children in my family. 
 
-{% image "article/sr-trang-bo-de/Sc-Bo-DJe-2-edit.JPG" %}
+{% image "article/sr-trang-bo-de/Sc-Bo-DJe-2-edit.JPG", "has-label" %}
+<p class="image-label">Monastic Christmas choir, 2020</p>
 
 When I came to Dieu Tram nunnery, I had more chances to enjoy the Christmas spirit. From decorating the meditation hall, practising performances, preparing “Secret Santa” gifts… to the moment when all my roommates gathered to unwrap gifts: it was so joyful, lively, and warm. I did wonder why we celebrated Christmas in the temple. The idea sown in me as a child was still there and as far as I knew, we were the only temple that celebrated Christmas. I asked an older sister about it. She replied that it was a way of integrating cultures.
 
