@@ -30,9 +30,9 @@ One of the things in Plum Village that I really appreciate is that whenever ther
 
 In those days he was training the abbess and abbot. They were called into Thay’s room, and the rest of us were left with freedom. Some were being trained to be his attendant, so they went into his room and learned to prepare tea. I have so much respect for Thay starting a monastic sangha with beginners. We were practically lay people, and Thay was teaching us how to be attendants, how to be abbots and abbesses. When Thay would learn about the difficulties in the sangha, he would give the next Dharma talk based on those difficulties.
 
-I was accepted, and for me that was enough. In the year 2001, I was able to be Thay’s attendant for one day at Deer Park (Monastery in the U.S.). The experience was so funny! “You can be Thay’s attendant this evening,” they told me. I had no training so they told me what to do carry Thay’s bag, where to place his shoes in the meditation hall, etc. While attending Thay I left my shoes there in the mudroom during the Dharma talk, but when it ended, Thay left by the opposite door. Thay left in his slippers, and I had to follow Thay in my bare feet! And then I think the brothers and sisters came to rescue me.
+I was accepted, and for me that was enough. In the year 2001, I was able to be Thay’s attendant for one day at Deer Park Monastery (in the U.S.). The experience was so funny! “You can be Thay’s attendant this evening,” they told me. I had no training so they told me what to do carry Thay’s bag, where to place his shoes in the meditation hall, etc. While attending Thay I left my shoes there in the mudroom during the Dharma talk, but when it ended, Thay left by the opposite door. Thay left in his slippers, and I had to follow Thay in my bare feet! And then I think the brothers and sisters came to rescue me.
 
-***Sr. Jina*:** I was very impressed by the calmness that Thay radiated. He was not in any way affected by whatever was happening around him. In the 21 Day Retreat it was all very organised and the Summer Retreat was very organic and Thay moved so naturally through both. I thought, this is very beautiful to see, in the midst of a very lively group of people, there was Thay, so naturally moving around, happy. So my first impression was of stability and clarity.
+***Sr. Jina*:** I was very impressed by the calmness that Thay radiated. He was not in any way affected by whatever was happening around him. In the 21 Day Retreat it was all very organised and the Summer Retreat was very organic and Thay moved so naturally through both. I thought, this is very beautiful to see, in the midst of a very lively group of people, there was Thay, so naturally moving around, happy. So my first impression was of his stability and clarity.
 
 {% image "article/sr-tu-nghiem-and-sr-dieu-nghiem/1-edited.jpg" %}
 
@@ -48,7 +48,7 @@ We already had the chiming clock in the dining hall. It would chime every fiftee
 
 (When the talks were in Vietnamese), Sr. Chan Khong used to translate and I enjoyed listening to Sr. Chan Khong very much because you also get side information, then you have a better context! It was very alive, I really enjoyed that. 
 
-In the 21 Day Retreat and the Summer Retreat, Thay was addressing a lot of issues that were happening in the sangha, like in the lay sangha, the family issues, and also from the questions of the retreatants. During my first Winter Retreat, I thought, oh now we really hear the scholar speaking, and that’s also what I was looking for. In the winter it was really study time. 
+In the 21 Day Retreat and the Summer Retreat, Thay was addressing a lot of issues that were happening in the sangha, like in the lay sangha, family issues, and also from the questions of the retreatants. During my first Winter Retreat, I thought, oh now we really hear the scholar speaking, and that’s also what I was looking for. In the winter it was really study time. 
 
 ## Care packages for Vietnam
 
@@ -84,7 +84,7 @@ Thay was always practicing walking meditation, from the very beginning, even bef
 
 ***Sr. Tu Nghiem*:** I think there are several levels and aspects to this. Thay wanted to create a monastic sangha, and an international fourfold sangha. So I think this is so important for the future of Plum Village, to keep the balance, that it remain international and fourfold – that means the nuns and laywomen and the monks and laymen are all part of the Plum Village community.
 
-The essence of Plum Village is to continue to share the practices of mindfulness in as simple a form as possible, to meet the needs of people around the world, of different cultures, of different religions, and to present it in a way that’s understandable and acceptable by people anywhere. We keep the simplicity of the teachings, the basic teachings, four noble truths, eightfold path (and keep it accessible to the) beginners in the practice. 
+The essence of Plum Village is to continue to share the practices of mindfulness in as simple a form as possible, to meet the needs of people around the world, of different cultures, of different religions, and to present it in a way that’s understandable and acceptable by people anywhere. We keep the simplicity of the teachings, the basic teachings, four noble truths, eightfold path, and keep it accessible to beginners in the practice. 
 
 Also, we keep our tradition, we don’t dilute it. We keep the Vietnamese heritage, the lineage, the culture, to learn from. We want to learn from the beauty of Vietnamese culture, its gentleness, friendliness, and acceptance of newcomers. That’s what impressed me in the early days, the beauty of the flower arrangements, the tea meditations. And the Western bands, the monastics with their drums, their electric guitars, we can have all that. I think it’s important because it reflects the world now. 🙢
 
