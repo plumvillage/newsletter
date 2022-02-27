@@ -1,11 +1,12 @@
 ﻿---
-title: At the foot of the majestic mountain
+title: At the Foot of the Majestic Mountain
 author: Sister Chân Thuần Khánh
 ---
 
 I arrived in the Lower Hamlet on a late Autumn day in 2000. The car stopped in front of a low stone house, which I later learned was the “Purple Cloud” residence. One petite sister dressed in brown, wearing a brown apron and a brown head scarf came to the door to welcome my younger brother and I. Brother Phap Do who drove us there said to her, “Dear elder sister, I have brought your new younger sister.” That sister was Sr. Bao Nghiem. She smiled, squinted her eyes, and cheerfully said to him, “Thank you dear brother.” I went into the house with her while my brother went to the Upper Hamlet with Br. Phap Do. I have stayed in Lower Hamlet since then. It has become my second home, a place of return.
 
-{% image "article/sr-thuan-khanh/SrTueNghiem1e.jpg" %}
+{% image "article/sr-thuan-khanh/SrTueNghiem1e.jpg", "has-label" %}
+<p class="image-label">Sr. Thuan Khanh (left), Sr. Tue Nghiem</p>
 
 ## “You are back my dear!”
 
