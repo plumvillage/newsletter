@@ -25,8 +25,8 @@ Bài thơ gợi ý cho con liên tưởng đến hình ảnh Thầy đang hái t
 
 Bài thơ tả cảnh thật thi vị. Sư phụ ở trên núi, nơi có những cây tùng cao. Một ngày, có vị khách phương xa tới tham thiền, chú tiểu thưa rằng thầy mình đã đi hái thuốc (*Ngôn sư thái dược khứ*).
 
-{% image "article/sr-tang-nghiem/DSC_4968-e.JPG", "noFloat" %}
-{% image "article/sr-tang-nghiem/DSC_7356-e.jpg", "noFloat" %}
+{% image "article/sr-tang-nghiem/DSC_4968-e.JPG", "noFloat expandToRightBorder" %}
+{% image "article/sr-tang-nghiem/DSC_7427-e.jpg", "noFloat expandToRightBorder" %}
 
 Làng mình cũng đẹp như bức tranh phác họa trong bài thơ này, có khi còn đẹp hơn thế: Phải không ? thưa Thầy. Con nhớ ở Làng, xóm nào cũng có những cây tùng, to lớn và vững chắc. Mỗi ngày chúng con được nhìn thấy Thầy đi thiền hành, lúc thì đi với thị giả, lúc thì Thầy đi một mình. Đôi khi Thầy thiền hành lặng lẽ ẩn giữa rừng tùng, chúng con không thấy Thầy đâu cả. Mỗi bước chân, mỗi hơi thở, Thầy chế tác định và tuệ, an trú nơi hiện pháp nhiệm mầu.
 
@@ -47,7 +47,7 @@ Mây mù dày quá, không biết thầy mình đang ở nơi nào. Thầy thư�
 
 Kính bạch Thầy! Thầy đã cho chúng con một gia tài rất lớn. Là đệ tử của Thầy, chúng con thường nghe Thầy giảng về Tứ diệu đế, Bát chánh đạo, Tam Pháp ấn, Duyên khởi,… cũng như cách áp dụng những giáo lý này vào đời sống hằng ngày để trị liệu những bế tắc, hiểu lầm. Nhờ đó, chúng con tháo gỡ được rất nhiều khúc mắc và hiểu thêm ý nghĩa của các pháp môn, cũng như giáo pháp Bụt trao truyền.
 
-{% image "article/sr-tang-nghiem/DSC_7427-e.jpg" %}
+{% image "article/sr-tang-nghiem/Non xua may trang phu day thay ngoi thien dinh dem ngay vung an_x5000_q90.jpg" %}
 
 Nếu không phải là người xuất gia, là một sư cô học trò của Thầy, chắc con sẽ khó vượt qua những biến cố tai ương giữa cuộc sống này, khó có thể nhìn mọi chuyện mình trải qua bằng con mắt biết ơn, hạnh phúc và cảm thông. Con thấy mình quá may mắn vì được làm con của Bụt, của Thầy. Mỗi ngày con được thực tập chánh niệm, được có thời gian và không gian nhìn lại tự thân, trau dồi kiến thức, được có trái tim ướp đầy nhiệt huyết giúp người, con mắt biết cười khi nhìn thấy bông hoa ven đường. Thấy mình có trong tất cả và tất cả có trong mình…
 

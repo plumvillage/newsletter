@@ -1044,6 +1044,32 @@ img#articlesr-doan-nghiemsu-me-DJoan-N-3-edited {
 }
 
 
+.PAGE-OF-articlesr-tang-nghiemNon-xua-may-trang-phu-day-thay-ngoi-thien-dinh-dem-ngay-vung-anx5000q90 .pagedjs_page_content {
+    height: calc(100% - var(--pagedjs-footnotes-height) - 100mm) !important;
+}
+img#articlesr-tang-nghiemNon-xua-may-trang-phu-day-thay-ngoi-thien-dinh-dem-ngay-vung-anx5000q90 {
+    position: absolute;
+    bottom: -100mm;
+    display: block;
+    float: none;
+    width: 90%;
+    left: 5%;
+    column-span: all;
+    /* margin-left: auto; */
+    /* margin-right: auto; */
+}
+img#articlesr-tang-nghiemDSC0737-e {
+    right: -15%;
+    width: 115%;
+    position: relative;
+    max-width: none !important;
+}
+
+
+
+
+
+
 img#articleeulogy-in-vietnamL1004781,
 img#articlebr-troi-duc-hienIMG5858-edited {
     width: 86%;
