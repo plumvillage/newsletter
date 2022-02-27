@@ -225,19 +225,13 @@ body {
     break-after: page;
 }
 .chapter h2 {
+    padding-top: 30%;
     text-align: center;
 }
 .chapter h1 {
-    /* text-align: center; */
-    /* position: relative; */
-    /* left: -3pt; */
     font-family: "CormorantSC-SemiBold";
-    /* font-variant: small-caps; */
     font-style: normal;
     font-weight: normal;
-    /* font-size: 180%;
-    line-height: 140%; */
-    /* text-transform: lowercase; */
 }
 
 
@@ -312,6 +306,24 @@ figure {
     margin-bottom: 24pt;
 }
 
+.chapterLi {
+    padding-top: 12pt;
+    padding-bottom: 4pt;
+}
+
+.toc-chapter {
+    padding-left: 6pt;
+}
+
+.toc-chapter-title {
+    font-family: "CormorantSC-Bold";
+    font-size: 140%;
+    line-height: 120%;
+    font-style: normal;
+    font-weight: normal;
+    border-bottom: 1pt solid var(--color-bark-light);
+}
+
 /* https://pagedjs.org/documentation/-cross-references/ */
 .toc-links::before {
     content: target-counter(attr(href url), page);
@@ -337,7 +349,8 @@ ul.toc {
     padding-left: 6pt; */
     width: 68mm;
     font-weight: bold;
-    color: var(--color-tower-dark);
+    /* color: var(--color-tower-dark); */
+    color: var(--color-bark-dark);
 }
 .toc-author {
     position: relative;
@@ -349,7 +362,7 @@ ul.toc {
 
 ul.toc li {
     margin-left: 15pt;
-    margin-bottom: 6pt;
+    margin-bottom: 10pt;
     page-break-inside: avoid;
 }
 

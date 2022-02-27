@@ -1,7 +1,6 @@
 ---
-title: Note from the Editors
+title: Editor’s Notes
 ---
-
 
 <p>TODO Editor’s Notes (hard)</p>
 

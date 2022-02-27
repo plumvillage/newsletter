@@ -1,6 +1,6 @@
 ---
-chapter: 1
-title: Tributes
+chapter: 6
+title: Tending the Garden
 ---
 
 {% image "article/for-chapters/Tributes.jpg" %}
