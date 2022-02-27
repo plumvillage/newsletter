@@ -51,7 +51,7 @@ A question that comes up for me is: How can we spread the harmony, experiences a
 
 Many of us are aware that the climate crisis is an important challenge we face. Has this awareness - that the actions or non-actions of the next few years will very likely determine the fate of humanity - penetrated deeply into our consciousness yet? I think many of us – including me – do not feel the urgency and pain of this crisis deeply every day. It can be quite overwhelming. I feel that *manas* (an aspect of our consciousness that seeks pleasure and avoids pain), wants to avoid suffering in the present moment. That is one reason why our mind tells us that the crisis is not *that* urgent and we still have enough time, or helps us find ways to avoid the topic altogether with psychological barriers like cognitive dissonance, distance, denial, doomism. We run the risk of fooling ourselves, individually and collectively. Insights and awakening are impermanent, so we need to put some effort into keeping this awareness alive every day and to help more and more people to wake up. I have the hope that we can have regular sessions of “heart-storming” (Thay used this term in a Dharma talk on March 1st 2003), to share about our dreams and aspirations and to look deeply as a sangha into what we can do to contribute locally and globally.
 
-## Bells of awakenings
+## Bells of awakening
 
 *I have a dream that one day many different spiritual and faith traditions, humanitarian groups and NGOs will come together to co-create and follow a code of Global Ethics similar to the Five Mindfulness Trainings. I am convinced that this can serve as a connecting element between different groups and be a foundation and inspiration for a new movement.*
 
