@@ -61,4 +61,5 @@ turned towards the light,<br/>
 the Nectar of Dharma<br/>
 trickles down.</p></div>
 
-{% image "article/sr-giac-nghiem/Su-me-Giac-Nghiem-2-edited.jpg" %}
+{% image "article/sr-giac-nghiem/Su-me-Giac-Nghiem-2-edited.jpg", "has-label" %}
+<p class="image-label">Sr. Giac Nghiem (left), Sr. Trang Khuong Am (center), Sr. Dao Nghiem</p>
