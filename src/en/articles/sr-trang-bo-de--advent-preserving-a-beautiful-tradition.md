@@ -34,7 +34,8 @@ Following suit, I joined my palms, introduced my name and spoke out the wish in 
 
 After some moments of silence, the brothers and sisters began to recount joyful memories of Christmas. Almost everyone had more or less memories related to a character called "Father Christmas". Listening is a chance for me to see more clearly the face of my siblings and to know a little more about those I rarely speak with. Living in a large sangha, connection is often no more than stopping to join palms in greeting, smile, and then pass by. Most opportunities for communication and interactions are through a bridge called *work*. Even with the elder and younger sisters I am living with, sometimes I am surprised to realize that I have never really looked carefully at them or been truly present for them. I am merely recognizing and distinguishing my sisters by their names.  
 
-{% image "article/sr-trang-bo-de/Sc-Bo-DJe-4-edit.JPG" %}
+{% image "article/sr-trang-bo-de/Sc-Bo-DJe-4-edit.JPG", "has-label" %}
+<p class="image-label">Sr. Trang Dieu Vien (left), Sr. Trang Bo De</p>
 
 After living for a while in the monastery, I also started to love the tranquil and peaceful life. That tranquility helps me see my mind more clearly and nourishes my inner peace. But when I start to form the thought, *I like the quiet, noise is too tiring*, a wall goes up between the world and myself, limiting the precious opportunities to be with my brothers and sisters. At those times when I find myself “Too lazy to play”, I often think of our elder - Brother Minh Hy.
 
