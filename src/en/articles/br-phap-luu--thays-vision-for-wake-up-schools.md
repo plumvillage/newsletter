@@ -52,7 +52,7 @@ This touches on the second pillar of Wake Up Schools: service. Service means tha
 
 This creates a precious opportunity to build community, the third pillar of Wake Up Schools. This is something that we do well; centers in the Plum Village tradition around the world make up living, breathing communities. For us mindfulness is a path, not a tool. We are here not just to transmit a technique. It’s a path - a whole way of living - that we walk together and not alone. Our international community is made up of people from many different backgrounds and cultures - European, North American, Asian - all living together year round, practicing sitting meditation, walking meditation, and eating meditation together. Community is built into our DNA. So expanding that into schools - including teachers, their families, and their students is quite natural.
 
-## Current Initiatives
+## Current initiatives
 
 When we practice, we also do it as a community. The *Happy Teachers Sangha*<a class="note" href="https://wakeupschools.org/happy-teachers-sangha/">wakeupschools.org/happy-teachers-sangha/</a> - which includes members from Japan, Russia, France, Germany, North America, The Philippines, The Netherlands, Kenya and Brazil - is a concrete manifestation of this. Teachers come together online to share their happiness and suffering with each other, so that they can deepen their understanding and support one another. We currently have one global Happy Teachers Sangha and one specifically for North America.
 
@@ -68,7 +68,8 @@ During the pandemic, Wake Up Schools offered webinars to support healthcare work
 
 Staff from the Hospital of Tropical Disease (Bệnh viện Bệnh nhiệt đới Trung ương) in Hanoi and Chợ Rẫy Hospital in Ho Chi Minh City - two hospitals that have been at the front line in Vietnam’s effort to contain and to treat COVID-19 - participated. The webinar is now available for their healthcare staff of 30,000 people.
 
-{% image "article/br-phap-luu/Educators retreat in Uganda 2019.4- Credit - Evermind Media-edited.jpg", "expandToRightBorder noFloat" %}
+{% image "article/br-phap-luu/Educators retreat in Uganda 2019.4- Credit - Evermind Media-edited.jpg", "expandToRightBorder noFloat" %}, "has-label"
+<p class="image-label">Br. Phap Luu leading an activity in Uganda</p>
 {% image "article/br-phap-luu/Educators retreat in Uganda 2019.1 - Credit - Evermind Media.jpg", "expandToRightBorder noFloat" %}
 {% image "article/br-phap-luu/Educators retreat in Uganda 2019.2- Credit - Evermind Media.jpg", "has-label expandToRightBorder noFloat" %}
 <p class="image-label">Uganda, 2019<span class="note">Photos kindly provided by Evermind Media</span></p>
