@@ -5,7 +5,8 @@ author: Sister Chân Thoại Nghiêm
 
 <p class="editors-preface">Forty years of Plum Village, 45 issues of the Plum Village Newsletter (“Newsletter”). From a few folded pages of Thay's writings sent to the family and friends of Plum Village as a Lunar New Year (“Tet” in Vietnamese) greeting, to a thick and colorful journal both in content and form, has been one long journey. The intimate words about life in the “village” within those first letters have transformed into articles and sharings with contributions from five continents. Though still bearing the name “Lá Thư Làng Mai” (literally meaning “The Plum Village Letters”), the latter is no longer in letter form. The current editorial team wanted me to write a few lines about the early days when I had the chance to work with Thay. I agreed right away. The months and years that have passed appeared clearly in my mind; but I did not know how to begin.</p>
 
-{% image "article/sr-thoai-nghiem/Sr-thoai-nghiem-2-e.jpg" %}
+{% image "article/sr-thoai-nghiem/Sr-thoai-nghiem-2-e.jpg", "has-label" %}
+<p class="image-label">The printing press - Thay's "buffalo"</p>
 
 ## In-house newsletter
 
