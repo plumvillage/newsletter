@@ -82,10 +82,11 @@ On March 20, 2021, Wake Up Schools was awarded the *2021 Laureate for Education*
 
 The Education award recognizes a community which improves the education sector by bringing greater happiness and well-being to students and families. The award was presented by founder and president of the World Happiness Foundation, Luis Gallardo. He described Wake Up Schools as a ‘remarkable’ community, “What you are doing is so remarkable. Everybody knows Thich Nhat Hanh and the Plum Village community are building this sense of belonging so that we can create a more mindful, more peaceful and more positive world. You are a true example of what it means to create a world with more happiness, more consciousness and freedom for all.”
 
-{% image "article/br-phap-luu/Educators Workshop 2017-18 group photo-edit.jpg" %}
+{% image "article/br-phap-luu/Educators Workshop 2017-18 group photo-edit.jpg", "has-label" %}
+<p class="image-label">Educators Workshop 2017-18</p>    
 
 Luis expressed his appreciation for our sangha building, “The ways that you bring all these teachers together, creating a secure base, that is so important for teachers. You are masters.” Earlier that day, the Happy Teachers Sangha had met as part of the World Happiness Week, offering teachers from around the world an opportunity to connect, care for themselves and experience the practice.
 
 On Tuesday 20 April 2021, Wake Up Schools took part in a Mind & Life Europe (MLE) webcast, part of a series exploring mindfulness in education. The webcast drew together voices from the third MLE webcast series titled “Emerging & Challenging Areas and Next Steps for Contemplative Education”.
 
-In all these events we remind teachers: happiness is possible. We have to say it because many people don't believe it. Happiness is possible. Now.<span class='note'>Photo below: Educators Workshop 2017-18</span>
+In all these events we remind teachers: happiness is possible. We have to say it because many people don't believe it. Happiness is possible. Now.
