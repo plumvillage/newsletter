@@ -13,7 +13,8 @@ So each meditation song is like a sutra, a finger of the Buddha showing us the w
 
 The words and music of a meditation song must be gentle and well blended, like the mind of the Buddha. It must be able to wake us up so that we are no longer in a slumber, no longer writhing in suffering. I love to sing the song “Breathing in, Breathing out” in many languages as a way to remind myself to wake up, to come back and take care of my body and mind before doing or saying anything. This way, I can avoid making mistakes that bring suffering to myself and to others.
 
-{% image "article/sr-quy-nghiem/Sr-quy-nghiem1e-crop.jpg", "expandToRightBorder" %}
+{% image "article/sr-quy-nghiem/Sr-quy-nghiem1e-crop.jpg", "expandToRightBorder", "has-label" %}
+<p class="image-label">Chanting before Dharma talk, 1991</p>
 
 I practice to consciously breathe in and out along with the song, like how Thay taught us, to calm the body and mind, to be fresh like a flower, solid as a mountain, still like a serene lake, and vast as the sky so nothing can disturb me. The one who sings and the one who listens must truly *be* what they are singing and listening so that the good seeds in them can be watered, grow strong, and offer flowers and sweet fruit for themselves and others. 
 
