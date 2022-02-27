@@ -33,7 +33,7 @@ Families within families within families - a never-ending network of connections
 
 I loved my international sangha of brothers and sisters in Plum Village. Everybody was so helpful, friendly, welcoming, accepting, kind, and smiling. I felt accepted and embraced by everyone. I made many mistakes and was unskilful many times, but I was always forgiven and accepted. I felt there was love and respect and an openness in our community; an acceptance of difference. 
 
-When I ordained, there were about 40 sisters in Lower Hamlet, eight of whom were from Western countries. Because we shared a common language and similar cultures, I bonded with them naturally and easily. We spent a lot of time together, going for walks, eating meals together, singing and playing music or even dancing to traditional French folk music on the slippery wooden floor of the Dharma Nectar Hall amid peals of laughter as we struggled to master the rapid steps and turns.
+When I ordained, there were about 40 sisters in Lower Hamlet, eight of whom were from Western countries. Because we shared a common language and similar cultures, I bonded with them naturally and easily. We spent a lot of time together, going for walks, eating meals together, singing and playing music or even dancing to traditional French folk music on the slippery wooden floor of the Dharma Nectar Hall, amid peals of laughter as we struggled to master the rapid steps and turns.
 
 For many years, on lazy days in cold winter months, we would huddle around the stove in the Dharma Nectar Hall to eat breakfast, talk, laugh, and share stories, forever hoping the fire’s feeble heat would eventually warm our freezing limbs. 
 
@@ -61,15 +61,13 @@ For the first time in my monastic life, I began to question my sense of purpose.
 
 ## The importance of a sense of purpose
 
-As for many others, the last two years of closures and lockdowns left their mark on me. Five months spent (unvaccinated) in a small house in Houston, TX, added to my sense of disconnection and isolation. Occasional Zoom calls, online retreats and weekly online sessions alleviated some of my felt sense of isolation but did not fulfil my need for more human contact and face to face interaction. 
+As for many others, the last two years of closures and lockdowns left their mark on me. Five months spent (unvaccinated) in a small house in Houston, Texas, added to my sense of disconnection and isolation. Occasional Zoom calls, online retreats and weekly online sessions alleviated some of my felt sense of isolation but did not fulfil my need for more human contact and face to face interaction. 
 
-Existential questions began to arise: Who* am I and what am I here for if our monastery is closed? 
+Existential questions began to arise: *Who* am I and what am I here for if our monastery is closed? 
 
 If I cannot be in contact with lay friends, how can I realize my deep aspiration - and help realize our teacher’s aspiration - of healing the world? Of bringing Buddhism to the West? Of facilitating a collective awakening?
 
 For the first time in my monastic life I felt deeply challenged and alone. 
-
-Here I was, the only Western monastic sister in our Plum Village community in the whole of the United States. Where were all the others? 
 
 ## An endangered species?
 
