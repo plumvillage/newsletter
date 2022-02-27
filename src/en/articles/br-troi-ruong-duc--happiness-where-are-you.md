@@ -12,7 +12,7 @@ This time last year, my father passed away. My mother and siblings needed my pre
 
 ## Adjusting to community life in the monastery 
 
-A few months ago, l moved to Son Ha Temple ("Foot of the Mountain Temple" near the Upper Hamlet). In the beginning, living there was not easy for me, especially when I did not know how to take care of myself. But thanks to the guidance and support of my mentors Brother Nguyen Tinh and Brother Phap Ao, I have been learning ways to take care of my suffering.I don’t know where I would be without them. I realized that it is easier to practice together with the sangha than to practice alone and that it is crucial to be nourished by the sangha’s collective energy and to take refuge in the sangha. The sangha and its practice can help me purify my body and mind every day. No matter how difficult or challenging life may be, the sangha is there to support me. 
+A few months ago, l moved to Son Ha Temple ("Foot of the Mountain Temple" near the Upper Hamlet). In the beginning, living there was not easy for me, especially when I did not know how to take care of myself. But thanks to the guidance and support of my mentors Brother Nguyen Tinh and Brother Phap Ao, I have been learning ways to take care of my suffering. I don’t know where I would be without them. I realized that it is easier to practice together with the sangha than to practice alone and that it is crucial to be nourished by the sangha’s collective energy and to take refuge in the sangha. The sangha and its practice can help me purify my body and mind every day. No matter how difficult or challenging life may be, the sangha is there to support me. 
 
 {% image "article/br-troi-ruong-duc/BrRuongDuc-edit.jpg" %}
 
@@ -37,7 +37,7 @@ During one afternoon of mindful service, while I watered the seedlings wholehear
 
 {% image "article/br-troi-ruong-duc/BrRuongDuc2-edit.jpg" %}
 
-When the seedlings began to grow into vegetables, the weeds also gradually grew alongside them. I kept watering the vegetables but did not take care of the weeds. One morning while drinking tea with my mentor, who knew that I didn't take care of the weeds, he smiled and said to me, “You only know how to water the vegetables.” Then I realized that at the same time as I’m watering the vegetables, I have to also take care of the weeds. 
+When the seedlings began to grow into vegetables, the weeds also gradually grew alongside them. I kept watering the vegetables but did not take care of the weeds. One morning while drinking tea with my mentor, he smiled and said to me, “You only know how to water the vegetables.” Then I realized that at the same time as I’m watering the vegetables, I have to also take care of the weeds. 
 
 One afternoon while weeding with Br. Nguyen Tinh, I found that I could not uproot all of the weeds because their roots were entangled with the roots of the vegetables, which were not yet strong. I could only trim the weeds above ground. Br. Nguyen Tinh looked at me, smiled, and said that maybe you need to wait for the vegetables to be strong enough before you can uproot the weeds. I listened and waited patiently for the vegetables to grow stronger. 
 
@@ -55,7 +55,7 @@ Working in the greenhouse is not separate from my practice. Every time I take ca
 
 ## Looking into the roots
 
-My suffering has a lot to do with the thoughts I produce every day. I tend to perceive things in a negative way and to be open to the views of others. Sometimes I feel others have to follow my way; my speech becomes unmindful and those people may suffer. That is my habit energy. Once the distorted views in me are in contact with other negative mental formations, they bring about an unpleasant feeling. This affects a part of my body and makes me feel uncomfortable. If I am not aware, the distorted views and negative mental formations will keep feeding each other, and I suffer day and night. Once I recognize my perceptions and can stop, I have a chance to ask myself, *Am I sure?* 
+My suffering has a lot to do with the thoughts I produce every day. I tend to perceive things in a negative way and am not always open to the views of others. Sometimes I feel others have to follow my way; my speech becomes unmindful and those people may suffer. That is my habit energy. Once the distorted views in me are in contact with other negative mental formations, they bring about an unpleasant feeling. This affects a part of my body and makes me feel uncomfortable. If I am not aware, the distorted views and negative mental formations will keep feeding each other, and I suffer day and night. Once I recognize my perceptions and can stop, I have a chance to ask myself, *Am I sure?* 
 
 With appropriate attention, the negative energies are taken care of by mindfulness and compassion. When the positive energies are taking place, they bring me a pleasant feeling and my way of looking at things is also led in a positive way. I need to keep practicing in my daily life to discover more about myself. There is no end to the process. I see how important it is to take refuge in mentors because they know what nourishment and practice are most important for me now.
 
