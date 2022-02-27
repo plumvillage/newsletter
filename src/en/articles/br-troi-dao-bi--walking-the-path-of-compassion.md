@@ -58,7 +58,9 @@ In the *Praising the Buddha Chant*, I very much like the line - “May the sangh
 
 When the Buddha was dying, Venerable Ananda had not yet attained enlightenment. Ananda was weeping and the Buddha tried to comfort him, “Don’t be so sad Ananda. The Tathagata has reminded you that all dharmas are impermanent. With birth, there is death; with arising, there is dissolving; with coming together, there is separation. How can there be birth without death? How can there be arising without dissolving? How can there be coming together without separation? Ananda, you have cared for me with all your heart for many years. You have devoted all your efforts to helping me and I am most grateful to you. Your merit is great, Ananda, but you can go even farther. If you make just a little more effort, you can overcome birth and death. You can attain freedom and transcend every sorrow. I know you can do that, and that is what would make me the most happy.”
 
-Ananda was able to see the path and attain his spiritual goal after the Buddha passed into nirvana. It gives me faith that we can attain freedom and transcend every sorrow though Thay continues in another form. Thay’s passing has given us an opportunity to make a little more effort to overcome birth and death. Thay knows we can do that, and that is what would make Thay most happy.
+Reading this in *Old Path White Clouds* always gives me faith that we can be enlightened without the presence of an awakened one. Venerable Ananda was able to see the path and attain his spiritual goal after the Buddha passed into nirvana. It gives me faith and hope that we can attain freedom and transcend every sorrow after Thay continues in another form. Thay’s passing has given us an opportunity to make a little more effort to overcome birth and death. 
+
+Thay has shown the path to me and many people. My deep aspiration is to continue to walk on this path and to help other people see this path. I know this is what would make Thay most happy.
 
 
 <!-- Wake Up online Dharma Sharing family during an online retreat -->
