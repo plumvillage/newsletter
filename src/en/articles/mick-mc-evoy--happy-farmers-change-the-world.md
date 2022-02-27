@@ -3,7 +3,7 @@ title: Happy Farmers Change the World
 author: Mick Mc Evoy
 ---
 
-## 10 years of organic, regenerative farming in Plum Village
+## Ten years of organic, regenerative farming in Plum Village
 
 In 2012, three lay practitioners and three Plum Village monastics joined forces to set out to realize our collective dream to grow fresh organic fruit and vegetables to feed the Plum Village community. Over the course of 2013, they made the first steps - laying the groundwork for the development of a small organic vegetable farm at West Lake, just down the hill from Upper Hamlet. The Happy Farm project is the concrete expression of Thay’s vision of meditation engaged with action in the area of sustainable and ethical food production.
 
@@ -67,7 +67,8 @@ In 2021 the Lower Hamlet Happy Farm was moved to new land (about 50 meters away)
 
 The New Hamlet Happy Farm manifested the most recently. Although it officially began in the spring of 2017, gardening and farming in New Hamlet was started many years before by Sr. Bao Nghiem who had a green thumb and planted many different kinds of vegetables in the greenhouses and outdoors. We also had a horticultural garden before it became part of the Happy Farm. The first sister in charge of the Happy Farm was Sr. Nguyet Nghiem who received a lot of support from the Happy Farm brothers in Upper Hamlet. Slowly, three long term friends joined the team and  one of them is now in training to become a nun and continues to support the Happy Farm.
 
-{% image "article/mick-mcevoy/Re-Wilding project_12-edited.jpg" %}
+{% image "article/mick-mcevoy/Re-Wilding project_12-edited.jpg", "has-label" %}
+<p class="image-label">Mick</p>
 {% image "article/mick-mcevoy/Happy-Farm-3-e.jpg" %}
 
 ## Looking forwards
