@@ -3,7 +3,8 @@ title: Two Leaves at the Tip of the Branch
 author: Brother Chân Pháp Linh
 ---
 
-{% image "article/br-phap-linh/FDTfJpjWUAUYC_5_crop.jpg" %}
+{% image "article/br-phap-linh/FDTfJpjWUAUYC_5_crop.jpg", "has-label" %}
+<p class="image-label">Br. Phap Dung (left), Br. Phap Linh</p>
 
 ## Living interbeing, joy, and non-fear at COP26
 
@@ -25,9 +26,10 @@ Thay has always been very clear that it is the applied insight of interbeing, th
 
 ## TED Countdown 
 
-In October, Brother Phap Huu, Sister Lang Nghiem, Sister Hien Nghiem and I attended the TED Countdown event in Edinburgh. It was an event designed to inspire and prepare people for the COP26, UN Climate Summit in Glasgow, which would take place a couple of weeks later. When we returned to Plum Village, we were all focussed on rejoining the annual Rains' Retreat. But so many people had been touched by the presence of the monastics in Edinburgh, especially by Sr. Hien Nghiem’s TED talk<span class='note'>©Photo: Ryan Lash, <a href="https://www.ted.com/talks/sister_true_dedication_3_questions_to_build_resilience_and_change_the_world">TED Countdown Summit</a>, Oct 15, 2021</span>, that they then wanted to invite us to Glasgow as well. We quickly re-assessed the situation and found a way for two of us to represent the sangha at this historic event.
+In October, Brother Phap Huu, Sister Lang Nghiem, Sister Hien Nghiem and I attended the TED Countdown event in Edinburgh. It was an event designed to inspire and prepare people for the COP26, UN Climate Summit in Glasgow, which would take place a couple of weeks later. When we returned to Plum Village, we were all focussed on rejoining the annual Rains' Retreat. But so many people had been touched by the presence of the monastics in Edinburgh, especially by Sr. Hien Nghiem’s TED talk, that they then wanted to invite us to Glasgow as well. We quickly re-assessed the situation and found a way for two of us to represent the sangha at this historic event.
 
-{% image "article/br-phap-linh/CS21_20211015_2RL0936-crop4.jpg" %}
+{% image "article/br-phap-linh/CS21_20211015_2RL0936-crop4.jpg", "has-label" %}
+<p class="image-label">Sr. Hien Nghiem speaking at the TED Countdown Summit, 15 October 2021. Photo: Ryan Lash</p>
 <!-- Sister True Dedication speaks at Session 7 at TED Countdown Summit on October 15, 2021. TED Countdown Summit. October 12-15, 2021, Edinburgh, Scotland. Photo: Ryan Lash / TED -->
 
 Suddenly I was faced with the prospect of going to COP26, and to be honest it was quite scary. What would we say? What did we really have to offer? Would we really be able to help? I had no idea. We didn’t even really know what we would be doing there. But at the same time, I was on fire with the aspiration that had been in my heart since I was a little boy - I had been searching my whole life for a way to help avert the present and future crises that we face, and now we had an opportunity to contribute. 
