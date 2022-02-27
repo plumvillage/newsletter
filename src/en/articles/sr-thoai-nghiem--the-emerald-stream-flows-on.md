@@ -80,10 +80,11 @@ I learned a great deal while working with Thay because he is so careful; attendi
 
 In 2005, I left France to go and help establish the Prajna Monastery in Vietnam. The *Plum Village Newsletter* continued to be “born” regularly, increasingly rich in both content and form. The younger brothers and sisters who came after me were technically skilled and had better Vietnamese, so Thay had more helpers.
 
-{% image "article/sr-thoai-nghiem/DSC_1153e.JPG" %}
+{% image "article/sr-thoai-nghiem/DSC_1153e.JPG", "has-label" %}
+<p class="image-label">Part of the 2021 Newsletter Team</p>
 
 In 2010 when I returned to France, I thought I had been “released”. I asked Thay (just to be sure) to allow me to come out of the editorial team. Thay was silent. Then Thay announced to the sangha that I was taking care of that year's *Newsletter* (Thay gave me such a heart attack!). Not daring to bargain with Thay, I invited other younger siblings to join the team. The year after, I had a list of suggestions for Thay's approval and to announce to the sangha. Thay nodded. The day the list was announced, I was feeling excited when I heard my name brought up as if I was the responsible person. I knew Thay was training his student, but I still felt pressured. How many years have I celebrated Tet accompanied by worries about the newsletter? Was there ever a year when I was free to sit down and wrap earth-cakes with the sangha (in Plum Village)?  
 
 Then when Thay got sick, I invited younger brothers and sisters who had the skills to join the editorial team and announced this to the sangha. Gradually these young ones took on the key roles and managed the work by themselves each year. My only responsibility was to call for submissions (which was late every year). The pressure of creating the newsletter was shouldered by the sangha. The editorial team grew stronger and stronger. There were many articles to choose from. The team started to create an English edition for the younger, international monastics. But the *Newsletter* still has the spirit of an in-house publication, the spirit of Plum Village. So don't anyone “complain”: *why only one voice, one content, one stream…?* 
 
-Thay will also be smiling because this continuation of his will always be present and grow in ever more wonderful ways<span class="note">Part of the 2021 Newsletter Team</span>.
+Thay will also be smiling because this continuation of his will always be present and grow in ever more wonderful ways.
