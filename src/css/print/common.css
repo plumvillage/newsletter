@@ -553,9 +553,9 @@ article cite {
 }
 
 article blockquote:lang(zh) {
-    font-size: 140%;
+    font-size: 120%;
     font-style: normal;
-    line-height: 130%;
+    line-height: 110%;
     text-indent: 0;
     border-left: 0 !important; /* no border */
     /* margin-top: 9pt; */
@@ -884,7 +884,7 @@ html:lang(en) img#articlebr-phap-huuIMG2211e {
     width: 90%;
 }
 html:lang(vi) img#articlebr-phap-huuIMG2211e {
-    width: 68%;
+    width: 65%;
 }
 img#articlebr-troi-bao-tang266137775101594156527050427864726797241279645n {
     width: 67%;
