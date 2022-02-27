@@ -143,7 +143,7 @@ body {
 }
 
 #title-page, #zen-circle-page, #thays-full-title-page, #thays-portrait-page {
-    page: leadInPages;
+    page: noFooter;
 }
 
 #zen-circle-page, #thays-full-title-page, #thays-portrait-page {
@@ -154,7 +154,7 @@ body {
     /* background-color: rgb(223, 255, 223); */
 }
 
-@page leadInPages {
+@page noFooter {
     @bottom-right {
         display: none;
     }
@@ -221,6 +221,11 @@ body {
 }
 
 
+.chapter {
+    break-after: page;
+}
+
+
 
 img#calligraphyzen-circlezen-circle {
     width: 100%;
@@ -257,23 +262,8 @@ img#ThayLamp-e2 {
 
 
 
-/* get the title of the current chapter - this will be the content of the h1
-reset figure counter as figures start from 1 in each chapter */
-h1 {
+article h1 {
     string-set: doctitle content(text);
-    counter-reset: figurenum;
-}
-
-/* increment chapter counter */
-h1.chapter::before {
-    counter-increment: chapternum;
-    /* content: counter(chapternum) ". "; */
-}
-
-/* increment and display figure counter */
-figcaption::before {
-    counter-increment: figurenum;
-    content: counter(chapternum) "-" counter(figurenum) ". ";
 }
 
 h1,
@@ -733,9 +723,6 @@ p.editors-preface::after, .divider::after {
     color: hsl(17, 36%, 15%);
 }
 
-.parallels {
-    break-after: page;
-}
 img#calligraphyParallels-VI-p1-Ngay-Vertical {
     width: 50%;
 }
@@ -763,6 +750,8 @@ article ul li::before {
     margin-left: auto;
     margin-right: auto;
 }
+
+
 
 
 
@@ -1055,15 +1044,8 @@ img#articlesr-tang-nghiemNon-xua-may-trang-phu-day-thay-ngoi-thien-dinh-dem-ngay
     width: 90%;
     left: 5%;
     column-span: all;
-    /* margin-left: auto; */
-    /* margin-right: auto; */
 }
-img#articlesr-tang-nghiemDSC0737-e {
-    right: -15%;
-    width: 115%;
-    position: relative;
-    max-width: none !important;
-}
+
 
 
 
