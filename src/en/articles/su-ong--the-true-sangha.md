@@ -67,7 +67,7 @@ The Three Jewels are the energies of mindfulness and concentration. Every sound 
 
 If we want to be a beloved disciple of the Buddha, then we should learn the art of sangha building. If I want to be a beloved student of the Buddha, then I also have to learn the art of sangha building. I would build a beloved sangha with many people who have the determination to practice. The result would be a great reward.
 
-## Brotherhood and Sisterhood - important food of a practitioner 
+## Brotherhood and sisterhood - important food of a practitioner 
 
 When I was a young monk, a newly ordained bhikshu no older than twenty something, my deepest desire was to build a “beloved sangha”. I already used the term “beloved sangha” then — a place in which brothers and sisters live together in brotherhood and sisterhood, loving each other like blood siblings, going together as a river. I never had the idea of being a leader or an abbot. There was nothing attractive about that to me.
 
