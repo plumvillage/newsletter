@@ -13,7 +13,7 @@ We planted 150 trees, made a new, vast and spacious walking path, moved the Happ
 
 Thus, old and new stand together in harmony, complete each other in beauty and strength. When the sangha practices walking meditation in the poplar grove and the small forest sanctuary where Thay loved so much to take us, I feel like we are walking in Thay’s steps and continuing the old path with a faithful and determined heart. When the Sangha walks on the newly created path, passing by the new Happy Farm, the 150 newly planted trees, looking over the vast, wide open neighboring fields, I rejoice in the going forth of our sangha and feel how together, we are carrying Thay’s work into the future.
 
-## The signs of
+## The signs of attachment
 
 Dear community, as a very young disciple, I want to offer you a gift - the story of my practice with one of the mental formations that I have inherited from a long stream of ancestors, their experiences, and inner formations. The name of this mental formation is attachment, and the name of this ongoing story, sometimes going up and sometimes down, is “Hello attachment, You Are My Friend”. 
 
