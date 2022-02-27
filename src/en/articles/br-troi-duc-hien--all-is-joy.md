@@ -29,7 +29,7 @@ Illuminated by candles, we drink tea. The soft warmth of the cup between my two 
 
 ## The vastness within
 
-Then I go out for a fifteen-minute walk before going to the meditation hall. The cool air strikes me and I let the deliciously humid morning breeze caress my face. A moment of grace! I love feeling so small amidst immensity, humbly walking as if carried by Mother Earth. Then I feel myself *being* beyond the apparent limits of this body and mind. What seemed only a moment ago so narrowly constrained by physical pain appears now to be but a temporary undulation on the fabric of the universe. I smile… 
+Then I go out for a fifteen-minute walk before going to the meditation hall. The cool air strikes me and I let the deliciously humid morning breeze caress my face. A moment of grace! I love feeling so small amidst immensity, humbly walking as if carried by Mother Earth. Then I feel myself being beyond the apparent limits of this body and mind. What seemed only a moment ago so narrowly constrained by physical pain appears now to be but a temporary undulation on the fabric of the universe. I smile… 
 
 Then I surrender a little more to what appears to me very concretely as the dimension of non-self, of bigger than self. I let myself be penetrated by this vastness that allows me to breathe spaciously.  Relaxed and present in each of my steps, I realize anew that I have the freedom to choose my way of viewing this path of incarnation. Either I remain conditioned by form, irremediably identified with this manifestation of a self, or I take refuge in what is larger, let myself be and smile to the mystery of existence. Then the spontaneous dynamic of *I am* releases itself without control or limitations, and generates a multitude of creative momentums.  
 
@@ -37,7 +37,7 @@ I was caught in the net of separation, identification and need for recognition f
 
 ## Carried by the sangha
 
-I hear the sound of the Great Bell and the chanting of the brother in the distance, inviting us to the meditation hall, like a call in the night, encouraging all the lost souls to unify in prayer. With tenderness, I notice all the moving shadows slowly gathering towards this place of spiritual communion. I feel carried by a siblinghood that shares the same aspiration: cultivating mindfulness energy to embrace all that is, without discrimination, with understanding and love. I smile… 
+I hear the sound of the Great Bell and the chanting of the brother in the distance, inviting us to the meditation hall, like a call in the night, encouraging all the lost souls to unify in prayer. With tenderness, I notice all the moving shadows slowly gathering towards this place of spiritual communion. I feel carried by a siblinghood that shares the same aspiration: cultivating the energy of mindfulness to embrace all that is, without discrimination, with understanding and love. I smile… 
 
 I reach the old stone barn which has been marvelously transformed into a meditation hall by the brothers who have tread this path before us. I stop for a moment to contemplate the stained glass, illuminated by a few candles from the inside. I enter the hall gently and bow before the altar. Some of the brothers are already sitting on their cushions. The quiet atmosphere of dedication instantly immerses me in a sacred dimension.  
 
@@ -47,7 +47,7 @@ Well! The headache is still there! What a powerful mindfulness bell! No doubt, i
 
 ## Being with collective and ancestral suffering
 
-A sudden thought: *How many of us on this planet are suffering at this very moment (humans, animals, plants, minerals)?* A dizzying contemplation which clutches my heart, and reveals the meaning and the need for our commitment. I take refuge in the dimension of interbeing. I am fully aware that this practice of welcoming everything that is, without condition, without rejecting anything from the experience, instantly benefits all beings.  I take root in this equanimity to connect better to the world.  My true power dwells inside me and it is my responsibility to take care of it like a gardener, but also like a guardian. I take the vow to cultivate appropriate attention at all times, so that I can discern what is good for me, for all beings and for Mother Earth. I commit to taking care of my thoughts, words, and actions, knowing they are energetic imprints that impact the present and will be transmitted to future generations. I smile… 
+A sudden thought: *How many of us on this planet are suffering at this very moment (humans, animals, plants, minerals)?* A dizzying contemplation which clutches at my heart, and reveals the meaning and the need for our commitment. I take refuge in the dimension of interbeing. I am fully aware that this practice of welcoming everything that is, without condition, without rejecting anything from the experience, instantly benefits all beings.  I take root in this equanimity to connect better to the world.  My true power dwells inside me and it is my responsibility to take care of it like a gardener, but also like a guardian. I take the vow to cultivate appropriate attention at all times, so that I can discern what is good for me, for all beings and for Mother Earth. I commit to taking care of my thoughts, words, and actions, knowing they are energetic imprints that impact the present and will be transmitted to future generations. I smile… 
 
 Then, I feel propelled into the past, by the contact with my genetic ancestors. Many of them were submerged by the waves of suffering that washed over their hearts. I see the faces of my father and my maternal grandfather who weren’t able to resist their suicidal urges after my mother died in an accident.
 
@@ -65,7 +65,7 @@ My heart sings. Thank you Thay, thank you to the past, present, and future gener
 
 {% image "article/br-troi-duc-hien/BrDucHien-edit.jpg" %}
 
-The bell is invited. I stretch, rub my knees tenderly, and delicately open my eyes. The headache is almost gone. Wonderful! We prepare to touch the earth. The text invites us to contemplate No Birth and No Death. I am touched by this synchronicity with the universe, which always offers me what I need. It is up to me to develop my availability and my capacity to fully receive what is offered. I smile…
+The bell is invited. I stretch, rub my knees tenderly, and delicately open my eyes. The headache is almost gone. Wonderful! We prepare to touch the earth. The text invites us to contemplate no-birth and no-death. I am touched by this synchronicity with the universe, which always offers me what I need. It is up to me to develop my availability and my capacity to fully receive what is offered. I smile…
 
 ## Manifestation is joy
 
