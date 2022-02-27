@@ -11,7 +11,8 @@ During the Rains' Retreat of 2019, we had a series of workshops on the environme
 
 The workshops showed us what happened next, and so we saw that vast amounts of things are not recycled but are buried in the earth in huge pits. Even things that are recycled are not processed locally but are transported on to other larger plants, creating more carbon. We also watched a documentary about a Japanese town that had achieved zero waste through the collective efforts of the whole community. They had succeeded in building a collective recycling centre that tried to re-use everything. Therefore it seemed clear that by looking into what we could process here ourselves we would reduce transport by fossil fuel burning vehicles and reduce the amount of stuff buried in the earth.
 
-{% image "article/br-troi-dai-dao/IMG0411_crop.jpg" %}
+{% image "article/br-troi-dai-dao/IMG0411_crop.jpg", "has-label" %}
+<p class="image-label">Br. Dai Dao's cardboard logs</p>
 
 When we study the 12 links of dependent co-arising, we realise that through ignorance, things are seen as separate formations without interrelations between them. We see a log on the fire but not the chainsaw that cut it up or the fossil fuels burnt in that cutting. We see a tee-shirt but not the amount of water used to make it. It is also easy for us to get rid of things and not concern ourselves with what will become of them or our planet. Can we see the future of the packaging of items we order online or buy in the shop?  
 
@@ -26,7 +27,8 @@ What are we doing with all that water? If you are planting trees it is very conv
 Two other collectors were set up to take the run off rainwater from our barn roof. We use this to process the waste cardboard and to water the flowers in the garden.
 
 {% image "article/br-troi-dai-dao/IMG_0428.jpg", "noFloat" %}
-{% image "article/br-troi-dai-dao/IMG_0429-edit.jpg", "noFloat" %}
+{% image "article/br-troi-dai-dao/IMG_0429-edit.jpg", "noFloat", "has-label" %}
+<p class="image-label">"Tetrapots"</p>
 
 ## Driving less 
 
