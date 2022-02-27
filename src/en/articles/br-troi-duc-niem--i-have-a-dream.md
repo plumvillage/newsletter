@@ -3,7 +3,7 @@ title: I Have a Dream
 author: Brother Chân Trời Đức Niệm
 ---
 
-*This article is dedicated to and inspired by Dr. Martin Luther King Jr. and his spiritual brother and friend, our beloved teacher Thay.*
+*This article is dedicated to and inspired by Dr. Martin Luther King Jr., and his spiritual brother and friend, our beloved teacher Thay.*
 
 ## The challenge we face 
 
@@ -27,7 +27,7 @@ While I was lying wide awake in the middle of the night and breathing deeply, a 
 
 *I have a dream that Mother Earth will again be clothed in her beautiful green mantle as humans plant billions of trees, restoring the abundance and the wonders of life. Many people around the world have this aspiration and are already helping deserts to become oases of green, lush trees, sustainable for farming again.*
 
-*I have a dream that on billions of rooftops, town halls, churches, and meditation halls around the globe glimmering solar panels will radiate and spread the warmth and light of Father Sun into our homes, along with wind turbines on the green land and the blue sea, totally replacing fossil fuels.*
+*I have a dream that on billions of rooftops, town halls, churches, and meditation halls around the globe, glimmering solar panels will radiate and spread the warmth and light of Father Sun into our homes, along with wind turbines on the green land and the blue sea, totally replacing fossil fuels.*
 
 *I have a dream that everywhere in the world small ‘Happy Farms’ and other kinds of intentional communities will sprout, harvesting not only delicious and fresh vegetables, but also the fruits of the practice, bringing forth the happiness and togetherness of people working and living in communities.*
 
@@ -61,7 +61,7 @@ Many of us are aware that the climate crisis is an important challenge we face. 
 
 *I have a dream that bells of mindfulness, of awakening, climate justice and peace will sound everywhere in the world, from every hill top, in every town, from countless temples and churches, and in many people’s hearts.*
 
-*I have a dream that people of different faiths in many villages and cities around the world will come together to listen to these bells of mindfulness, stopping to pray, practice, and recite the global ethics trainings together, and listen deeply to each other. Listening to each other’s suffering, joy, and insights into what we can contribute to transform this crisis, and then acting together locally to make it happen.*
+*I have a dream that people of different faiths in many villages and cities around the world will come together to listen to these bells of mindfulness, stopping to pray, practice, and recite the global ethics trainings together, and listen deeply to each other. Listening to each other’s suffering, joy, and insights into what we can contribute to transform this crisis, and then acting together to make it happen.*
 
 *I have a dream that more and more people every day will realize that this planet Earth* is *the Kingdom of God,* is *the Pure Land,* is *a most precious jewel of the cosmos, and that they fall in love deeply with Mother Earth and find true peace in their hearts.*
 
