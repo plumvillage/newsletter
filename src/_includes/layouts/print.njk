@@ -51,7 +51,7 @@
     {% set fileSlug = article.fileSlug %}
 
     {%- if article.data.chapter -%}
-        <section class="chapter" id="chapter-{{ title | slugify }}">
+        <section class="chapter" id="{{ title | slugify }}">
             <h2>Chapter {{ article.data.chapter }}</h2>
             <h1>{{ title }}</h1>
             {{ content | safe }}

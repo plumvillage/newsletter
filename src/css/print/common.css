@@ -224,6 +224,21 @@ body {
 .chapter {
     break-after: page;
 }
+.chapter h2 {
+    text-align: center;
+}
+.chapter h1 {
+    /* text-align: center; */
+    /* position: relative; */
+    /* left: -3pt; */
+    font-family: "CormorantSC-SemiBold";
+    /* font-variant: small-caps; */
+    font-style: normal;
+    font-weight: normal;
+    /* font-size: 180%;
+    line-height: 140%; */
+    /* text-transform: lowercase; */
+}
 
 
 
