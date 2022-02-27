@@ -19,7 +19,8 @@ We made really good use of the two weeks by applying the practice of dwelling in
 
 Stream Entering Monastery (“Nhap Luu” in Vietnamese) was relocated to Porcupine Ridge, a green and quiet town, in June 2021, just before the 3-month Rains’ Retreat. When we arrived, there were only five sisters, including Sister Trung Chinh, who had joined for the 3-month retreat. After that she would return to Deer Park Monastery in California for the Great Ordination Ceremony. And so, including us two newcomers, the monastery only has six sisters in residence.
 
-{% image "article/sr-trang-mai-thon/SrMaiThon1-edited.jpg" %}
+{% image "article/sr-trang-mai-thon/SrMaiThon1-edited.jpg", "has-label" %}
+<p class="image-label">Sr. Trang Mai Thon - third from the right</p>
 
 The first few days after arrival, I had a sense of both familiarity and unfamiliarity. There were quite a few things that were different from New Hamlet (Plum Village France), where I had stayed and practised for many years: the washing machine, the kitchen, the dining hall, the recycling bin, and the sangha size, which are all so small compared to the size of things in Plum Village, France. In short, there were so many things that I had to get used to. Here in Australia, one more unfamiliar thing is that when you go to town everyone speaks … English. The first few weeks, when friendly Australians said “Hello” to me, I habitually responded “Bonjour!” Then suddenly I realized where I was and a little embarrassment kicked in.
 
