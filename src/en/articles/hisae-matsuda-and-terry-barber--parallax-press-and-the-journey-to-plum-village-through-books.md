@@ -25,7 +25,8 @@ I stayed on as staff for the Summer Retreat and was lucky to be in the Lower Ham
 
 I’m always moved by Thay’s dedication to creating environments where people can find peace and healing, connect with nature and community, have the chance to look deeply, and learn ways to handle suffering and touch seeds of happiness and well-being.
 
-{% image "article/hisae-matsuda-and-terry-barber/ParallaxTeamInPV.jpg" %}
+{% image "article/hisae-matsuda-and-terry-barber/ParallaxTeamInPV.jpg", "has-label" %}
+<p class="image-label">Members of the editorial board</p>
 
 **Hisae:** How did you come to be at Parallax, Terry?
 
