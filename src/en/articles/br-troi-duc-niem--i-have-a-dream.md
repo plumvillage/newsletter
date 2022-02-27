@@ -21,7 +21,8 @@ While I was lying wide awake in the middle of the night and breathing deeply, a 
 
 *I have a dream. I have a dream that one day people of all different religious, cultural, and ethnic backgrounds, of different ages, colors and genders will come together and unite. That we will join hands and join forces because we see and feel that there is something more important and precious than our individual and national interests that unites us all: peace, justice, siblinghood, and the future of our beautiful blue planet.*
 
-{% image "article/br-troi-duc-niem/BrDucNiem1-crop.jpg" %}
+{% image "article/br-troi-duc-niem/BrDucNiem1-crop.jpg", "has-label" %}
+<p class="image-label">Sr. Tue Nghiem (left), Br. Troi Duc Niem</p>
 
 *I have a dream that the seeds of compassion and awakening sown by the Buddha, Thay, and our spiritual ancestors will continue to sprout and fully blossom like jewelled lotus flowers in the hearts of millions of people and that the vision and dream of Thay will be realized: A collective global awakening. Thay reminds us, “We have to wake up together. And if we wake up together, then we have a chance.”*
 
@@ -31,7 +32,8 @@ While I was lying wide awake in the middle of the night and breathing deeply, a 
 
 *I have a dream that everywhere in the world small ‘Happy Farms’ and other kinds of intentional communities will sprout, harvesting not only delicious and fresh vegetables, but also the fruits of the practice, bringing forth the happiness and togetherness of people working and living in communities.*
 
-{% image "article/br-troi-duc-niem/Br. Duc Niem.2.jpg" %}
+{% image "article/br-troi-duc-niem/Br. Duc Niem.2.jpg", "has-label" %}
+<p class="image-label">Children on the "Happy Farm"</p>
 
 ## Mindful community - green community 
 
