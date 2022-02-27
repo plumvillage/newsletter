@@ -5,23 +5,23 @@ author: Mick Mc Evoy
 
 ## 10 years of organic, regenerative farming in Plum Village
 
-In 2012, three lay practitioners and three Plum Village monastics joined forces to set out to realize our collective dream to grow enough fresh organic fruit and vegetables to feed the entire Plum Village community. Over the course of 2013, they made the first steps - laying the groundwork for the development of a small organic vegetable farm at West Lake, just down the hill from Upper Hamlet. The Happy Farm project is the concrete expression of Thay’s vision of meditation engaged with action in the area of sustainable and ethical food production.
+In 2012, three lay practitioners and three Plum Village monastics joined forces to set out to realize our collective dream to grow fresh organic fruit and vegetables to feed the Plum Village community. Over the course of 2013, they made the first steps - laying the groundwork for the development of a small organic vegetable farm at West Lake, just down the hill from Upper Hamlet. The Happy Farm project is the concrete expression of Thay’s vision of meditation engaged with action in the area of sustainable and ethical food production.
 
 The project now has three plots. The original farm in Upper Hamlet/Son Ha, one in Lower Hamlet, and one in New Hamlet. 
 
-The happy farmers hope to demonstrate that productivity, environmental sustainability and personal happiness do not have to be in conflict, but are three essential pillars that can strengthen each other.
+The Happy Farmers hope to demonstrate that productivity, environmental sustainability and personal happiness do not have to be in conflict, but are three essential pillars that can strengthen each other.
 
 {% image "article/mick-mcevoy/Happy-Farm.jpg" %}
 
-## The Aims of the Happy Farm
+## The aims of the Happy Farm
 
 ***To grow healthy organic vegetables for the Plum Village community***
 
-The Happy Farm Method is an intensive method, growing a lot of vegetables on a small scale, combining classical organic farming methods with permaculture elements.
+The Happy Farm method is an intensive method, growing a lot of vegetables on a small scale, combining classical organic farming methods with permaculture elements.
 
 The main aim is to nourish the soil and to grow vegetables organically by using natural soil amendments, organic fertilizer and natural pesticides, crop rotation, green manure, cultivating the soil in ways that preserves the delicate soil ecosystem, mulching, companion planting and more. We also try to take care of the surrounding habitat, and to provide good conditions for pollinating insects to flourish. 
 
-Vegetables are grown to meet the needs of each hamlet and a variety of vegetables are regularly grown. They are especially cultivated for the Spring and the Summer Retreat. The Summer Retreat in July is usually (depending on conditions) attended by more than 1,000 people per week.
+A variety of vegetables are grown in each hamlet. They are especially cultivated to supplement the food bought for the Spring and the Summer Retreat. The Summer Retreat in July is usually (depending on conditions) attended by more than 1,000 people per week.
 
 We know that modern agriculture, which feeds the world, unfortunately is an industrial system. There are many extra elements that are really unnecessary and not so good for our health or for Mother Earth. We are very concerned with the concept and application of interbeing as Thich Nhat Hanh teaches. We care for the ‘more than human being’ life that is here on the land. The soil is very alive, we try to have respect and reverence for the soil, as well as respect and reverence for the humans that are eating the food that we produce. That’s why we even go beyond organic.
 
@@ -29,11 +29,11 @@ We know that modern agriculture, which feeds the world, unfortunately is an indu
 
 {% image "article/mick-mcevoy/TPDung-Planting-vegetable-crop.jpg" %}
 
-***To train people in applying the principles of mindfulness in a working***
+***To train people in applying the principles of mindfulness in a working environment***
 
 Spiritual cultivation and mindfulness training are essential aspects of the Happy Farm. It is a training ground for applying the principles of mindfulness in a working environment. 
 
-The Farmers practice to farm as a family, a spiritual community, taking care of each other’s wellbeing and spiritual growth. We begin each work day with a short sitting meditation, followed by a check-in where each person shares how they are at the moment. We can share our joys and offer support to anyone going through something difficult. We also enjoy working in silence for certain periods, using the breath to anchor ourselves in the present moment, stopping to listen to the bell throughout the day, and having regular team sharings. Sharing responsibilities, we also learn from each other and enjoy many joyful moments. The farmers from the different farms benefit from each other's experience, meet for work exchanges and spend time together. 
+The farmers practice to farm as a family, a spiritual community, taking care of each other’s wellbeing and spiritual growth. We begin each work day with a short sitting meditation, followed by a check-in where each person shares how they are at the moment. We can share our joys and offer support to anyone going through something difficult. We also enjoy working in silence for certain periods, using the breath to anchor ourselves in the present moment, stopping to listen to the bell throughout the day, and having regular team sharings. Sharing responsibilities, we also learn from each other and enjoy many joyful moments. The farmers from the different farms benefit from each other's experience, meet for work exchanges and spend time together. 
 
 We observe the Five Mindfulness Trainings and the Six Harmonies while striving to find a balance between practicing deeply and getting the work done. 
 
@@ -41,7 +41,7 @@ We have a core team who live as a Happy Farm family within the monastery as well
 
 Happy farmers are not fundamentalists in happiness: all emotions are welcome, all human experience is welcome in our inner landscapes. It’s about bringing that onto the land, into the working environment, with the stresses and pressures that we all experience, into the team dynamic, the family dynamic and learning to communicate and to listen to another’s needs. This is the idea of mindful living in day-to-day life.
 
-***Education in organic growing, sustainability and mindfulness practice.***
+***Education in growing organic food, sustainability and mindfulness practice.***
 
 The project exists also to inspire and to educate people in a pedagogical way, with learning by doing rather than a more theoretical or classroom-based form of learning. People who come to the farm for the one year program go through the whole cycle of seasons from seed to plate and beyond. They go away after the year with the skills to start growing some of their own food or set up their own projects, which many people have done in different parts of the world.
 
@@ -70,9 +70,9 @@ The New Hamlet Happy Farm manifested the most recently. Although it officially b
 {% image "article/mick-mcevoy/Re-Wilding project_12-edited.jpg" %}
 {% image "article/mick-mcevoy/Happy-Farm-3-e.jpg" %}
 
-## Looking Forwards
+## Looking forwards
 
-During the pandemic we haven’t been able to host guests and that has given myself and the community around the Happy Farm the opportunity to step back and really reflect on what is its real meaning and purpose. We moved away from getting caught up by wanting to cultivate just a little bit more, to offer just a little bit more food. We came to realize that it’s not about the carrots, but about collective awakening. It’s coming back to the spirit of bringing our mindfulness practice, our spiritual practice, our practice of a family, siblinghood, manifesting joy, manifesting harmony and having fun –bringing the element of play, into the farm.
+During the pandemic we haven’t been able to host guests and that has given myself and the community around the Happy Farm the opportunity to step back and really reflect on what is its real meaning and purpose. We have moved away from getting caught up with wanting to cultivate just a little bit more, to offer just a little bit more food. We have come to realize that it’s not about the carrots, but about collective awakening. It’s coming back to the spirit of our mindfulness practice, our spiritual practice, our practice as a family, siblinghood, manifesting joy, manifesting harmony and having fun –bringing the element of play, into the farm.
 
 More and more now it becomes clear as the farm matures, that we are in such a beautiful setting; we have mature oak forest on one side with a beautiful wetland on the other. We are very fortunate. We also have a very species rich grassland and a wildflower grassland. The existing ecology and the ‘more than human beings’ that we share the land with, are showing themselves every year as the site develops and maybe actually has healed a little from when we first made an intervention onto the land as farmers.
 
