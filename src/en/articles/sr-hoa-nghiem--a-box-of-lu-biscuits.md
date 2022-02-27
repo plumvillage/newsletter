@@ -1,5 +1,5 @@
 ﻿---
-title: A box of LU biscuits
+title: A Box of LU Biscuits
 author: Sister Chân Hoa Nghiêm
 ---
 
@@ -24,7 +24,8 @@ During the Summer Retreats, so many people came to practice. In the old days, Lo
 <!-- https://pagedjs.org/posts/avoid-whitespaces/ -->
 <div id="horizontal-img-column">
 {% image "article/sr-hoa-nghiem/summer-retreat.jpg" %}
-{% image "article/sr-hoa-nghiem/20211212029-edited-crop.jpg" %}
+{% image "article/sr-hoa-nghiem/20211212029-edited-crop.jpg", "has-label" %}
+    <p class="image-label">Lamp Transmission, 1999</p>
 </div>
 
 There were weeks when many Vietnamese people came. Thanh Tuyen arranged for the aunties (the elder women) to stay in my room. I once shared the room with seven of them. I was quite happy. Sharing the room with them I could listen to stories about their families and children. I felt very fortunate that I took the monastic path; otherwise I would have suffered as much as they did at the time.
@@ -55,4 +56,5 @@ It seems like only yesterday that I saw Thay sitting on the podium teaching. It 
 
 <div class="article-end"></div>
 
-{% image "article/sr-hoa-nghiem/Hinh-cho-bai-Sc-Hoa-N1.jpeg" %}
+{% image "article/sr-hoa-nghiem/Hinh-cho-bai-Sc-Hoa-N1.jpeg", "has-label" %}
+<p class="image-label">Sr. Chi Nghiem - front row, 5th from the left, with the Blue Cliff sangha</p>
