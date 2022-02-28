@@ -8,7 +8,8 @@ We asked our beloved elders to share some of their memories of the early days of
 
 ## Life in community
 
-{% image "article/sr-tu-nghiem-and-sr-dieu-nghiem/Sr-tu-nghiem2-edited.jpg" %}
+{% image "article/sr-tu-nghiem-and-sr-dieu-nghiem/Sr-tu-nghiem2-edited.jpg", "has-label" %}
+<p class="image-label">Lower Hamlet sangha, 1995</p>
 
 ***Sr. Tu Nghiem*:** It was such an eye-opening experience for me (to live in a Vietnamese community in rural France), coming from Manhattan - a city with big concrete apartment buildings. It was a totally different experience, and I appreciated so much the way the Vietnamese mothers and fathers, the children, were happy and harmonious together.
 
@@ -43,7 +44,7 @@ I was accepted, and for me that was enough. In the year 2001, I was able to be T
 We already had the chiming clock in the dining hall. It would chime every fifteen minutes. Thay would stop, we’d all breathe, and it was very peaceful. Then Thay would continue with the Dharma talk. In those days it was Br. Nguyen Hai who was the cameraman. It’s amazing how they’ve preserved these early teachings. In those days Thay used a cassette recorder, and they’d have to stop and put in a new cassette and continue. 
 
 {% image "article/sr-tu-nghiem-and-sr-dieu-nghiem/SrDieuNghiem-edit.jpg", "has-label" %}
-<p class="image-label">From left: Sr. Trang Lien Chieu, Sr. Trang Khuong Y, Sr. Dieu Nghiem, Sr. Trien Nghiem</p>
+<p class="image-label">From left: Srs. Lien Chieu, Khuong Y, Dieu Nghiem, Trien Nghiem</p>
 
 ***Sr. Jina*:** Thay’s teachings were very clear. With certain teachings that one can say in a particular way, Thay just said, “This is it.” We listened to Thay, we tried to understand and even if we didn’t understand, it was just being in Thay’s presence. That was enough and I had already been so nourished by the 21 Day Retreat (after my arrival) I thought, I have at least three years material (to practice with).
 
