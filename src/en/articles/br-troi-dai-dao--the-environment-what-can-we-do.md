@@ -1,5 +1,5 @@
 ﻿---
-title: The Environment – What can we do?
+title: The Environment – What Can We Do?
 author: Brother Chân Trời Đại Đạo
 ---
 
