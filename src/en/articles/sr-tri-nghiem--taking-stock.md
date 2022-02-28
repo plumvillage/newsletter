@@ -1,5 +1,5 @@
 ﻿---
-title: "Thirteen years of monastic life: Taking stock"
+title: "Thirteen years of Monastic Life: Taking stock"
 author: Sister Chân Trì Nghiêm
 ---
 
