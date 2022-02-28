@@ -1,5 +1,5 @@
 ﻿---
-title: Strolling With Joy on a Sunny Day
+title: Strolling with Joy on a Sunny Day
 author: Sister Chân Thao Nghiêm
 ---
 
