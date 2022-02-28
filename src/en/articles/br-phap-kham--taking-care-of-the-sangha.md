@@ -4,11 +4,13 @@ author: Brother Chân Pháp Khâm
 ---
 <!-- *Chân Pháp Khâm, 20.12.2021* -->
 
-<p class="editors-preface">Brother Phap Kham has been a disciple of our teacher Thay since 1987. Since 2005, he has been practicing, teaching and taking care of the sangha as a senior Dharma Teacher in Asia. Currently he resides in the Asian Institute of Applied Buddhism, Hong Kong.</p>
+<p class="editors-preface">Brother Phap Kham ordained as Thay's disciple in 1987. Since 2005, he has been practicing, teaching and taking care of the sangha as a senior Dharma Teacher in Asia. Currently he resides in the Asian Institute of Applied Buddhism, Hong Kong.</p>
 
-In *Old Path White Clouds*, Thay taught that the “*harmony of views* means to exchange and share understanding and knowledge with each other, and not to hide understanding only for oneself. In this way, everyone can learn and understand together." He encouraged the sangha to share our views with each other. 
+In *Old Path White Clouds*, Thay taught that the *harmony of views* means to exchange and share understanding and knowledge with each other, and not to hide understanding only for oneself. In this way, everyone can learn and understand together. He encouraged the sangha to share our views with each other. 
 
-***Thay always listened to suggestions from the sangha.*** The sangha consulted with Thay, and he also consulted with the sangha when dealing with various matters. The Caretaking Council (CTC, *ban chăm sóc* in Vietnamese; also formerly known as *ban điều hành -* “Executive Council”) was born in this spirit. In April 1999, Thay asked the sangha for ideas on how to organize sangha life so that studying and practicing could bring more happiness. Some brothers and sisters gave suggestions to Thay. He then asked the sangha to review these suggestions. This article documents the birth of the Caretaking Council.  
+**Listening to the sangha** 
+
+Thay always listened to suggestions from the sangha. The sangha consulted with Thay, and he also consulted with the sangha when dealing with various matters. The Caretaking Council (CTC, *ban chăm sóc* in Vietnamese; also formerly known as *ban điều hành -* “Executive Council”) was born in this spirit. In April 1999, Thay asked the sangha for ideas on how to organize sangha life so that studying and practicing could bring more happiness. Some brothers and sisters gave suggestions to Thay. He then asked the sangha to review these suggestions. This article documents the birth of the Caretaking Council.  
 
 {% image "article/br-phap-kham/1998-TangThanXomThuong-MuaHe-cut.jpg", "has-label" %}
 <p class="image-label">Upper Hamlet Sangha, summer 1998</p>
