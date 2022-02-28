@@ -29,7 +29,9 @@ After the Summer Opening, the guests went home and I moved into the Cypress Buil
 
 Cypress Building had an attic. There were many buckets and basins up there to catch the rain. When it rained hard, there were never enough buckets in the right place and the rain would come through the ceiling and sometimes on to my bed. Plum Village did not have the money to repair the roof at that time.
 
-{% image "article/sr-chan-duc/Sr-Chan-Duc-the-bread-oven-edited.jpg" %}
+{% image "article/sr-chan-duc/Sr-Chan-Duc-the-bread-oven-edited.jpg", "has-label" %}
+<p class="image-label">Monsieur Mounet (left) and Robert Naeff, standing to the right of the bread oven</p>
+
 
 When I first came to the Lower Hamlet, there was a traditional brick bread oven. It was in a little stone building behind the Purple Cloud. It had been repaired by a Dutch O.I. member, Robert Naeff, who had knowledge of building this kind of bread oven, so we could actually make bread. You made a wood fire in the oven and when the wood began to turn into embers, you took them out and put them in a bucket. You had to be very careful doing this because if they fell onto the surrounding dry grass, it could cause a fire. Then you placed the uncooked bread in the heated oven. We had to try a few times in order not to burn the bread, but eventually we succeeded in making something edible.
 
@@ -37,7 +39,7 @@ We had a wonderful neighbour who lived in what is now the Cherry House. Monsieur
 
 ## Dharma music 
 
-For Thay, music and poetry were an important part of the practice. We did not have any English practice songs when I first came to Plum Village. Thay encouraged all his students to write Dharma songs. At first we thought we could never write a song but somehow Thay managed to water that seed in us. The first song I wrote was before I ordained as a nun. It came to me as I was washing dishes in the small, low sink that we had in the kitchen of Cypress Building. It was *Breathe and you know that you are alive*. Thay had been teaching the *Anapanasatti Sutta*. When I look at this song, I see that Thay must have taught this sutta in a very colourful and poetic way and I had already heard about Great Master Bamboo Forest (Truc Lam Dai Si) of the 13h Century who told his disciples, “Whenever I pick something up, it is always new”, and that’s what gave rise to the last line of the song.
+For Thay, music and poetry were an important part of the practice. We did not have any English practice songs when I first came to Plum Village. Thay encouraged all his students to write Dharma songs. At first we thought we could never write a song but somehow Thay managed to water that seed in us. The first song I wrote was before I ordained as a nun. It came to me as I was washing dishes in the small, low sink that we had in the kitchen of. It was *Breathe and you know that you are alive*. Thay had been teaching the *Anapanasatti Sutta*. When I look at this song, I see that Thay must have taught this sutta in a very colourful and poetic way and I had already heard about Great Master Bamboo Forest (Truc Lam Dai Si) of the 13h Century who told his disciples, “Whenever I pick something up, it is always new”, and that’s what gave rise to the last line of the song.
 
 ## Taking care of the brothers 
 
