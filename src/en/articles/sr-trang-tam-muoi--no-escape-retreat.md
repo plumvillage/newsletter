@@ -1,5 +1,5 @@
 ﻿---
-title: “No Escape!” retreat
+title: “No Escape!” Retreat
 author: Sister Chân Trăng Tam Muội
 ---
 
