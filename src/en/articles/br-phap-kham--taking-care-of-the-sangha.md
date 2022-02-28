@@ -8,7 +8,7 @@ author: Brother Chân Pháp Khâm
 
 In *Old Path White Clouds*, Thay taught that the *harmony of views* means to exchange and share understanding and knowledge with each other, and not to hide understanding only for oneself. In this way, everyone can learn and understand together. He encouraged the sangha to share our views with each other. 
 
-**Listening to the sangha** 
+## Listening to the sangha 
 
 Thay always listened to suggestions from the sangha. The sangha consulted with Thay, and he also consulted with the sangha when dealing with various matters. The Caretaking Council (CTC, *ban chăm sóc* in Vietnamese; also formerly known as *ban điều hành -* “Executive Council”) was born in this spirit. In April 1999, Thay asked the sangha for ideas on how to organize sangha life so that studying and practicing could bring more happiness. Some brothers and sisters gave suggestions to Thay. He then asked the sangha to review these suggestions. This article documents the birth of the Caretaking Council.  
 
