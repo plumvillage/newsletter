@@ -1,6 +1,8 @@
 {% extends "layouts/print-frame.njk" %}
 {% block content %}
 
+{% set chapter = {en: "Chapter", vi: "Chương"} %}
+
 <div id="table-of-contents">
     <h1>{{ i18n.toc }}</h1>
     <ul class="toc">
@@ -8,7 +10,7 @@
             {%- if article.data.chapter -%}
             <li class="chapterLi">
                 <a class="" href="#{{ article.data.title | slugify }}">
-                <span class="toc-chapter">Chapter {{ article.data.chapter }}:</span><br/><span class="toc-chapter-title">{{ article.data.title }}</span>
+                <span class="toc-chapter">{{ chapter[locale] }} {{ article.data.chapter }}:</span><br/><span class="toc-chapter-title">{{ article.data.title }}</span>
             {%- else -%}
             <li>
                 <a class="toc-links" href="#{{ article.data.title | slugify }}">
@@ -32,22 +34,20 @@
     {% image "LTLM45-2022-inside-covers-V2022-02-left.jpg" %}
 </div>
 
+<div id="title-page">
 {%- if locale == "en" -%}
-    <div id="title-page">
-        <h1>{% image "calligraphy/you-have-seen-the-path/you-have-seen-the-path-masked.webp" %}</h1>
-        {% image "calligraphy/article titles 2 and dividers/5-masked/Dividers2-2-straight.webp" %}
-        <h2>Celebrating <span class="num40">40</span> Years of Plum Village<span id="ambrsd">&</span>Honoring our Beloved Teacher<span id="tnh">Thich Nhat Hanh</span></h2>
-    </div>
+    <h1>{% image "calligraphy/you-have-seen-the-path/you-have-seen-the-path-masked.webp" %}</h1>
+    {% image "calligraphy/article titles 2 and dividers/5-masked/Dividers2-2-straight.webp" %}
+    <h2>Celebrating <span class="num40">40</span> Years of Plum Village<span id="ambrsd">&</span>Honoring our Beloved Teacher<span id="tnh">Thich Nhat Hanh</span></h2>
 {%- endif -%}
 
 {%- if locale == "vi" -%}
-    <div id="title-page">
     {# da-co-duong-di-roi-con-khong-con-lo-so #}
-        <h1>{% image "calligraphy/article titles/webp-marked/V2_Da-Co.webp" %}</h1>
-        {% image "calligraphy/article titles 2 and dividers/5-masked/Dividers2-2-straight.webp" %}
-        <h2>Translating: <span class="num40">40</span> Years of Plum Village<span id="ambrsd">&</span>Honoring our Beloved Teacher<span id="tnh">Thich Nhat Hanh</span></h2>
-    </div>
+    <h1>{% image "calligraphy/article titles/webp-marked/V2_Da-Co.webp" %}</h1>
+    {% image "calligraphy/article titles 2 and dividers/5-masked/Dividers2-2-straight.webp" %}
+    <h2>Translating: <span class="num40">40</span> Years of Plum Village<span id="ambrsd">&</span>Honoring our Beloved Teacher<span id="tnh">Thich Nhat Hanh</span></h2>
 {%- endif -%}
+</div>
 
 
 
@@ -59,7 +59,7 @@
 
     {%- if article.data.chapter -%}
         <section class="chapter" id="{{ title | slugify }}">
-            <h2>Chapter {{ article.data.chapter }}</h2>
+            <h2>{{ chapter[locale] }} {{ article.data.chapter }}</h2>
             <h1>{{ title }}</h1>
             {{ content | safe }}
         </section>
