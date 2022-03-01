@@ -78,7 +78,7 @@ Now we have also become a training center for monastics. We’ve become the Inst
 
 Thay was always practicing walking meditation, from the very beginning, even before there was a sangha. (I remember one day) I was attending Thay, in the sense that if Thay needed anything I would do it, Thay didn’t have an attendant as such. I would walk behind Thay from the meditation hall in the Upper Hamlet to Thay’s hut to see if Thay needed anything, and Thay said something to me as we were walking and I just kept quiet. It was not a question but I didn’t give a counter remark or start a conversation or continue the conversation because I was walking and I thought well, we’re walking, why should I say something? And Thay stopped and said, “Do you want to stop while we’re talking?”, “Yes, Thay.” So we walked and then we talked in the hut, and from then on when you walked, you walked, when you wanted to talk, you stopped. That was a new practice that came in.
 
-{% image "article/sr-tu-nghiem-and-sr-dieu-nghiem/SrTuNghiem1-edited.jpg", "expandToRightBorder", "", "Sr. Tu Nghiem - center right" %}
+{% image "article/sr-tu-nghiem-and-sr-dieu-nghiem/SrTuNghiem1-edited.jpg", "", "Sr. Tu Nghiem - center right" %}
 
 ## Keeping the essence of Plum Village
 

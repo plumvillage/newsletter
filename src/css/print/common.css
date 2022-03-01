@@ -428,6 +428,14 @@ article .imgD {
     position: relative;
     max-width: none !important;
 }
+.imgD.expandToLeftBorder .image-label
+{
+    margin-left: 10% !important;
+}
+.imgD.expandToRightBorder .image-label
+{
+    margin-right: 10% !important;
+}
 .imgD.expandToRightBorder {
     /* because float is normally: right */
     right: -20%;
@@ -681,14 +689,11 @@ article span.color {
 }
 
 .imgD img {
-    display: inline-block;
+    display: block;
+    margin: 0 auto;
     max-width: 100%;
 }
 
-article .imgD.has-label {
-    margin-bottom: 0;
-    padding-bottom: 0;
-}
 article .imgD.img-small {
     float: right;
     margin-left: 6pt;
@@ -701,7 +706,8 @@ article .imgD .image-label {
     text-indent: 0;
     text-align: right !important;
     margin-top: 0;
-    padding-top: 0;
+    margin-bottom: 0 !important;
+    padding-top: 1pt;
     margin-bottom: 6pt;
 }
 
@@ -922,7 +928,7 @@ html:lang(vi) .imgD#articlebr-phap-huuIMG2211e {
     margin-bottom: 0;
 }
 .imgD#articlesr-giac-nghiemSu-me-Giac-Nghiem-2-edited {
-    width: 70%;
+    width: 60%;
     margin-bottom: 0;
 }
 .imgD#articlebr-troi-bao-tangScreenshot-edit {
@@ -1015,7 +1021,7 @@ on other occasions, I would adjust the margin-top and height of .pagedjs_page_co
 }
 .imgD#articlebr-phap-ung8826595315246533743600235026231803661254656ne {
     float: none !important;
-    width: 80% !important;
+    width: 75% !important;
     margin-left: auto;
     margin-right: auto;
 }

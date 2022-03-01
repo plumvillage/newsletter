@@ -25,9 +25,9 @@ A variety of vegetables are grown in each hamlet. They are especially cultivated
 
 We know that modern agriculture, which feeds the world, unfortunately is an industrial system. There are many extra elements that are really unnecessary and not so good for our health or for Mother Earth. We are very concerned with the concept and application of interbeing as Thich Nhat Hanh teaches. We care for the ‘more than human being’ life that is here on the land. The soil is very alive, we try to have respect and reverence for the soil, as well as respect and reverence for the humans that are eating the food that we produce. That’s why we even go beyond organic.
 
-{% image "article/mick-mcevoy/Happy-Farm-Early-Day-e.jpg" %}
+{% image "article/mick-mcevoy/Happy-Farm-Early-Day-e.jpg", "noFloat" %}
 
-{% image "article/mick-mcevoy/TPDung-Planting-vegetable-crop.jpg" %}
+{% image "article/mick-mcevoy/TPDung-Planting-vegetable-crop.jpg", "noFloat" %}
 
 ***To train people in applying the principles of mindfulness in a working environment***
 
@@ -67,8 +67,8 @@ In 2021 the Lower Hamlet Happy Farm was moved to new land (about 50 meters away)
 
 The New Hamlet Happy Farm manifested the most recently. Although it officially began in the spring of 2017, gardening and farming in New Hamlet was started many years before by Sr. Bao Nghiem who had a green thumb and planted many different kinds of vegetables in the greenhouses and outdoors. We also had a horticultural garden before it became part of the Happy Farm. The first sister in charge of the Happy Farm was Sr. Nguyet Nghiem who received a lot of support from the Happy Farm brothers in Upper Hamlet. Slowly, three long term friends joined the team and  one of them is now in training to become a nun and continues to support the Happy Farm.
 
-{% image "article/mick-mcevoy/Re-Wilding project_12-edited.jpg", "", "Mick" %}
-{% image "article/mick-mcevoy/Happy-Farm-3-e.jpg" %}
+{% image "article/mick-mcevoy/Happy-Farm-3-e.jpg", "noFloat" %}
+{% image "article/mick-mcevoy/Re-Wilding project_12-edited.jpg", "noFloat", "Mick" %}
 
 ## Looking forwards
 

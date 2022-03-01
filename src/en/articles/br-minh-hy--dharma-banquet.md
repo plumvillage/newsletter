@@ -15,13 +15,13 @@ I heard this anecdote when the Venerable Abbot of Bao Lam Temple recounted it to
 
 At banquets, we often offer special dishes. If a meal only has rice and green vegetables, we cannot call it a banquet since they are eaten every day, every week, every month, the whole year round, and throughout our whole life. But there are people who cannot bear it if they don’t have rice, even just for one or two days. If that is so, then rice and green vegetables are not ordinary. They are in fact special because almost everyone can eat them and many cannot live without these staples. “Special dishes” at banquets are special, but they can only be eaten occasionally. We cannot eat them every day like the way we eat rice. As the Vietnamese proverb says - *No one loves us like rice does.* 
 
-{% image "article/br-minh-hy/IMG_0786.jpg", "", "Br. Minh Hy leading walking meditation in Upper Hamlet" %}
-
 The teachings of the Buddha are the same. There are Dharma doors that we practice every day and we come to find them very ordinary. But the truth is, they are very special because irrespective of place or situation, they can be easily practiced by everyone. 
 
 ## Finding depth and gratitude here and now 
 
 When learning and practicing profound meditations such as impermanence, non-self, emptiness, signlessness, aimlessness, or interbeing, we need to be able to maintain them with solidity and freedom during daily life. Our steps and mindful breathing must be able to reflect and also to nourish the powerful energy source of these meditations.
+
+{% image "article/br-minh-hy/IMG_0786.jpg", "", "Br. Minh Hy leading walking meditation in Upper Hamlet" %}
 
 We need to develop this way of looking. Each step, each breath, each time we relax is not an ordinary practice but a very special one, as it is able to carry within itself the profound insights of meditation.
 

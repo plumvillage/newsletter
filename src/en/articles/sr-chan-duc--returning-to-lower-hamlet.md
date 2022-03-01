@@ -71,11 +71,11 @@ I have been in Lower Hamlet for about twelve months now. I left Lower Hamlet in 
 
 I remember one time in the Lower Hamlet when I was a layperson and we were preparing to get in the car to go to visit Fleurs de Cactus in Paris. I had a deep aspiration to walk just like Thay walked, so I tried it out for myself while waiting for others to arrive. Maybe at the time it was more outer form than content, but over the years, the peace and joy that come from walking like this are authentic. Thay’s steps in Plum Village are what have made the atmosphere of Plum Village sacred, and of course we all want to keep this sacred atmosphere alive by continuing to walk mindfully.
 
-{% image "article/sr-chan-duc/Sr.ChanDuc.3-edited.JPG", "", "With sisters during earthcake wrapping, 2021" %}
-
 ## Letter to Thay, October 2021
 
 Beloved and respected Thay,
+
+{% image "article/sr-chan-duc/Sr.ChanDuc.3-edited.JPG", "", "With sisters during earthcake wrapping, 2021" %}
 
 Last night at about 04.00 am I had a dream. Our international monastic sangha had gathered at a train station. Hundreds of us were all there together. Sr. Tu Nghiem (Sr. Eleni) and I for some reason did not have a ticket. I felt it was urgent that we buy a ticket without delay. We went to the ticket office but it was closed. Then the man who sold tickets appeared. He was very kind and agreed to sell us tickets immediately. I worried that I did not have any money but the man said he wanted to give us two tickets for the price of one. I had exactly the right amount of money. With our tickets we went outside to join the sangha which was going up the steps to the train together. On seeing the sangha I could not believe how beautiful it was: even more beautiful than the wild-goose sangha that migrates over France in the autumn and spring in a stunning “V” formation.
 
