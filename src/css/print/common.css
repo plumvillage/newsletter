@@ -142,7 +142,7 @@ body {
     break-after: page;
 }
 
-#title-page, #zen-circle-page, #thays-full-title-page, #thays-portrait-page {
+#title-page, #zen-circle-page, #thays-full-title-page, #thays-portrait-page, .chapter {
     page: noFooter;
 }
 
@@ -1075,20 +1075,31 @@ img#articlesr-tang-nghiemNon-xua-may-trang-phu-day-thay-ngoi-thien-dinh-dem-ngay
     column-span: all;
 }
 
+/* those values are NOT relative to the page */
 img#articlefor-chaptersPlanting-trees-edit2 {
     display: block;
     position: absolute;
-    bottom: -20mm;
     z-index: -1;
     width: 90%;
+    bottom: -20mm;
     left: 6%;
 }
-img#articlefor-chapterscoc-ngoi-yen-e {
-    overflow: hidden;
+img#articlefor-chaptersSunflowerChapter {
+    display: block;
+    position: absolute;
     z-index: -1;
+    width: 100%;
+    bottom: -40mm;
+    left: 10%;
 }
-
-
+img#articlefor-chaptersHandsReadingOut2 {
+    display: block;
+    position: absolute;
+    z-index: -1;
+    width: 90%;
+    bottom: -25mm;
+    left: 10%;
+}
 
 
 

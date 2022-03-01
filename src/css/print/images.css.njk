@@ -102,9 +102,11 @@ html:lang(vi) .pagedjs_right_page .pagedjs_margin-bottom-right {
 	"80mm", "0mm", 30, 50],
 ["sr-trang-hien-nhanVITet202121",
 	"100mm", "0mm", 0, 25],
-["for-chaptersTributes",
-	"100mm", "0mm", 0, 10],
+["for-chaptersScan-Tranh-ve-Tuyet-Hoa-3edit",
+	"10mm", "0mm", 0, 0],
 ["for-chapterscoc-ngoi-yen-e",
+	"10mm", "0mm", 0, 0],
+["for-chaptersIMG4739-e",
 	"10mm", "0mm", 0, 0],
 ["sr-hoc-nghiemIMG8126-5x7-e",
 	"110mm", "0mm", 0, 50]
@@ -151,8 +153,21 @@ img#article{{ item[0] }} {
 .PAGE-OF-article{{ item[0] }} .pagedjs_page_content {
     height: calc(100% - var(--pagedjs-footnotes-height) - {{ item[1] }}) !important;
 }
-{% endfor %}
+img#article{{ item[0] }}.has-label + p {
+    position: absolute;
+    right: 0;
+    width: 60mm;
+    bottom: calc((var(--pagedjs-footnotes-height) + var(--bleed) + {{ item[1] }} - 11mm) * -1);
+    background-color: red;
+    color: rgb(201, 201, 201) !important;
+    text-shadow:
+        1px 0 2px black,
+        0px 0 3px black
+    ;
 
+}
+{% endfor %}
+ {# + {{ item[2] }} #}
 
 {# special case: to top #}
 img#articlesu-ongTheTrueSangha2 {

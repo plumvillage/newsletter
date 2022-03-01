@@ -49,7 +49,7 @@ Practicing self-compassion for having safely navigated the latest emotional chal
 One of the highlights of my stay was finding an old box containing 200 letters that Dad had written to Mum when he had TB. He was diagnosed just five years after they married, and my mother found herself alone taking care of my three-year-old sister, far from any family members. He wrote to her *every* day even though Mum visited him twice a week! I offered to read the letters to her, although I felt nervous entering into their intimacy. But she replied, “Oh yes, then he will be here with us.” So after each meal, I would read a few letters. It was a real gift, to discover the sensitive, affectionate man who could write so tenderly. It was lovely to read his enthusiastic dreaming of “another infant” (me!) and of his love for my sister, for whom he made wooden and basketwork toys whilst in the sanatorium.
 
 {% image "article/sr-trang-tam-muoi/Mums-portait-100-edited.jpg", "has-label" %}
-<p class="image-label">The portrait Sr. Tam Muoi painted for her mum's 100th birthday</p>
+<p class="image-label">The portrait Sr. Tam Muoi painted for her mum’s 100<sup>th</sup> birthday</p>
 
 My “No Escape” retreat would not have been possible without the support of many carers and nurses who were coming in and out throughout the day. We had two principle live-in carers who alternated, three weeks on, three weeks off, Charity from Essex and Zimbabwe, and Marian from London and Uganda. It was a real privilege for me to share my life with these women, supporting each other, or dancing round the kitchen as we cooked together. Not only are they excellent professional carers but we became friends, supporting each other through Mum’s ups, but particularly her downs. Many times, I or they would come back to the kitchen having been roundly scolded by Mum, and we would be there for each other with a hug or a hilarious reflection to bring back a smile. As they shared more about their lives, I was humbled by their capacity for joy, sacrifice and resilience especially as they navigate the challenges of being Black in Britain.
 
@@ -99,7 +99,7 @@ You are in each one of us.<br/>
 We are your continuation.</p></div>
 
 {% image "article/sr-trang-tam-muoi/Peggy-100.JPG", "has-label" %}
-<p class="image-label">The gold tasselled 100th birthday card from the Queen of England</p>
+<p class="image-label">The gold tasselled 100<sup>th</sup> birthday card from the Queen of England</p>
 
 ## Epilogue
 

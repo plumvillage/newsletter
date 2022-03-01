@@ -59,14 +59,15 @@ https://stackoverflow.com/questions/40849325/ghostscript-pdfwrite-specify-jpeg-q
 gs -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/ebook -sOutputFile=out.pdf full.pdf
     75dpi	150		300		    300, colour preserving
     /screen	/ebook	/printer	/prepress	        /default
-*/
 
-    let command = `gs \
--o "${pdfFile}_dpi${dpi}_q${Q}.pdf" \
--sDEVICE=pdfwrite \
--dNOPAUSE \
--sColorConversionStrategy=CMYK \
--dDownsampleColorImages=true \
+*/
+   
+   let command = `gs \
+   -o "${pdfFile}_dpi${dpi}_q${Q}.pdf" \
+   -sDEVICE=pdfwrite \
+   -dNOPAUSE \
+   -sColorConversionStrategy=CMYK \
+   -dDownsampleColorImages=true \
 -dDownsampleGrayImages=true \
 -dDownsampleMonoImages=true \
 -dColorImageResolution=${dpi} \
@@ -95,10 +96,11 @@ async function generatePDF(url, outputFile, onFinished = () => {}) {
     
     // https://github.com/puppeteer/puppeteer/blob/main/docs/api.md#pagecreatepdfstreamoptions
     const pdfStream = await page.createPDFStream({
+        // format: "A4",
+        preferCSSPageSize: true,
         timeout: 0,
         displayHeaderFooter: false,
         printBackground: true,
-        preferCSSPageSize: true
     });
     const writeStream = fs.createWriteStream(outputFile);
     pdfStream.pipe(writeStream);
@@ -129,11 +131,12 @@ function processArticle() {
     }
 }
 
-let generateArticles = true
+let generateArticles = false
 if (generateArticles) {
     fs.mkdirSync(dir)
     // concurrent:
     Array(8).fill().forEach(processArticle);
 }
 
-generatePDF("http://localhost:8080/en/preview-a4/", `./builds/en-preview-a4_${formatDate(new Date())}.pdf`)
+generatePDF("http://localhost:8080/en/a4/", `./builds/en-a4_${formatDate(new Date())}.pdf`)
+// generatePDF("http://localhost:8080/en/a4-bleed/", `./builds/en-a4-bleed_${formatDate(new Date())}.pdf`)
