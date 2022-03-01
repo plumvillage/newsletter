@@ -37,9 +37,13 @@
             justify-content: center;
         }
     }
+
+    .imgD img {
+        max-width: 100%;
+    }
     
-    .splash-column-vi img,
-    .splash-column-en img
+    .splash-column-vi .imgD,
+    .splash-column-en .imgD
     {
         max-width: 50%;
         top: 0;
