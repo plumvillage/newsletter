@@ -512,7 +512,9 @@ article p, article blockquote {
     widows: 2;
 }
 
-article p + p {
+article p + p,
+article .imgD + p
+{
     text-indent: 16pt;
     margin-top: 11pt;
 }
@@ -1027,6 +1029,12 @@ on other occasions, I would adjust the margin-top and height of .pagedjs_page_co
 .imgD#articlebr-phap-ung8826595315246533743600235026231803661254656ne {
     float: none !important;
     width: 75% !important;
+    margin-left: auto;
+    margin-right: auto;
+}
+.imgD#articlebr-phap-haiThay-with-Br-Phap-Hai-e {
+    float: none !important;
+    width: 88% !important;
     margin-left: auto;
     margin-right: auto;
 }

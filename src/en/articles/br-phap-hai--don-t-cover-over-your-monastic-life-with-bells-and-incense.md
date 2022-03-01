@@ -21,6 +21,8 @@ Other practices have disappeared, like fast walking meditation. One time, Thay s
 
 At one point, Thay suggested for every hamlet to have a scale at the end of the table to weigh our food. We would serve our food, weigh our bowl, and take note of how much we took. One time Thay noticed I was not doing it and Thay said to me, “Br. Phap Hai, you need to be like a river, not like a drop of water.” I replied, “Thay, a kilo of potatoes is very different from a kilo of lettuce.” Thay replied, “You think too much, Br. Phap Hai.”
 
+{% image "article/br-phap-hai/Thay with Br Phap Hai-e.jpg" %}
+
 ## Not feeling ready is a gift
 
 We did not have all the classes and the structure that we have today. We learned mostly by observing and doing. Classes are wonderful, important and needed. At the same time the greatest learning we can ever have is in our everyday life. We do not discover the heart of the Dharma through books or classes. Those are about the Dharma, but they are not the Dharma. This is the difference between Dharma as lists, techniques, and concepts, and Dharma as a lived reality.
@@ -31,7 +33,7 @@ Today I hear some of the young ones say, “I’m not ready.” Honestly, after 
 
 Thay also had different emphases from time to time. At one time he would ask us to give spontaneous teachings. In the middle of walking meditation or another activity, he might ask, “Sr. Kinh Nghiem, offer us a sutra,” and the person would then need to share an invitation to practise from a place of aliveness and spontaneity. There was no time to prepare, we just had to do it. It was nerve-wracking, but also a lot of fun.
 
-{% image "article/br-phap-hai/13116163101541470842192695476293997605142558o_cut.jpg", "img-small" %}
+<!-- {% image "article/br-phap-hai/13116163101541470842192695476293997605142558o_cut.jpg", "img-small" %} -->
 
 ## Strong medicine from Thay
 
