@@ -37,10 +37,14 @@ class MyHandler extends Paged.Handler {
 
     afterRendered(pages) {
         // for adding 🙢 to end of article
-        document.querySelectorAll(".article-end").forEach((e) => {
-            if (e.previousSibling && e.previousSibling.classList)
-                e.previousSibling.classList.add("last-article-element")
+        document.querySelectorAll("article").forEach((e) => {
+            // get only the first .article-end, ignore the others
+            let x = e.querySelector(".article-end")
+            if (x && x.previousSibling && x.previousSibling.classList)
+                x.previousSibling.classList.add("last-article-element")
         })
+
+
 
         document.querySelectorAll('.hasContent .pagedjs_margin-content').forEach(el => {
         // document.querySelectorAll('.hasContent .pagedjs_margin-bottom-center div').forEach(el => {

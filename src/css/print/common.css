@@ -504,9 +504,7 @@ article p, article blockquote {
     widows: 2;
 }
 
-article p + p,
-/* since images float around text, paragraphs can be adjacent even when an image intersects them */
-article .imgD:not(.articleCalligraphy) + p:not(.image-label) {
+article p + p {
     text-indent: 16pt;
     margin-top: 11pt;
 }
@@ -870,10 +868,8 @@ html:lang(vi) .imgD#articlebr-troi-thien-chi217673175415625496112912833970343350
 .imgD#calligraphyzen-circlezen-circle,
 .imgD#articlesr-doan-nghiemSr-doan-nghiem-edited,
 .imgD#articlerichard-brady53beedc0-edited-crop,
-.imgD#articlerichard-brady53beedc0-edited-crop + .image-label,
 .imgD#articlesr-hoa-nghiemHinh-cho-bai-Sc-Hoa-N1,
 .imgD#articlesr-chan-khong-letter-to-ThaySCCK-with-MLK-and-TNH-statue-high-quality-e-crop,
-.imgD#articlesr-chan-khong-letter-to-ThaySCCK-with-MLK-and-TNH-statue-high-quality-e-crop + .image-label,
 .imgD#articlebr-nguyen-tinhBrNguyenTinh1-edit,
 .imgD#articlebr-phap-huuIMG2211e,
 .imgD#articlebr-troi-bao-tang266137775101594156527050427864726797241279645n,
@@ -892,8 +888,7 @@ html:lang(vi) .imgD#articlebr-troi-thien-chi217673175415625496112912833970343350
 .imgD#articlesr-doan-nghiemSr-doan-nghiem-edited {
     width: 70%;
 }
-.imgD#articlerichard-brady53beedc0-edited-crop,
-.imgD#articlerichard-brady53beedc0-edited-crop + .image-label {
+.imgD#articlerichard-brady53beedc0-edited-crop {
     width: 97%;
 }
 
@@ -905,7 +900,7 @@ html:lang(vi) .imgD#articlebr-troi-thien-chi217673175415625496112912833970343350
 .imgD#articlebr-nguyen-tinhBrNguyenTinh1-edit {
     width: 70%;
 }
-.imgD#articlesr-chan-khong-letter-to-ThaySCCK-with-MLK-and-TNH-statue-high-quality-e-crop  + .image-label,
+
 .imgD#articlesr-chan-khong-letter-to-ThaySCCK-with-MLK-and-TNH-statue-high-quality-e-crop {
     width: 50%;
     margin-bottom: 0;
@@ -1037,17 +1032,6 @@ on other occasions, I would adjust the margin-top and height of .pagedjs_page_co
 .imgD#articlebr-phap-kham1998-TangThanXomThuong-MuaHe-cut {
     position: absolute;
     bottom: -89mm;
-    display: block;
-    float: none;
-    width: 70%;
-    left: 15%;
-    column-span: all;
-    /* margin-left: auto; */
-    /* margin-right: auto; */
-}
-.imgD#articlebr-phap-kham1998-TangThanXomThuong-MuaHe-cut + .image-label {
-    position: absolute;
-    bottom: -95mm;
     display: block;
     float: none;
     width: 70%;
