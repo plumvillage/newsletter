@@ -863,6 +863,7 @@ img#articlerichard-brady53beedc0-edited-crop,
 img#articlerichard-brady53beedc0-edited-crop + .image-label,
 img#articlesr-hoa-nghiemHinh-cho-bai-Sc-Hoa-N1,
 img#articlesr-chan-khong-letter-to-ThaySCCK-with-MLK-and-TNH-statue-high-quality-e-crop,
+img#articlesr-chan-khong-letter-to-ThaySCCK-with-MLK-and-TNH-statue-high-quality-e-crop + .image-label,
 img#articlebr-nguyen-tinhBrNguyenTinh1-edit,
 img#articlebr-phap-huuIMG2211e,
 img#articlebr-troi-bao-tang266137775101594156527050427864726797241279645n,
@@ -894,8 +895,9 @@ img#articlesr-hoa-nghiemHinh-cho-bai-Sc-Hoa-N1 {
 img#articlebr-nguyen-tinhBrNguyenTinh1-edit {
     width: 70%;
 }
+img#articlesr-chan-khong-letter-to-ThaySCCK-with-MLK-and-TNH-statue-high-quality-e-crop  + .image-label,
 img#articlesr-chan-khong-letter-to-ThaySCCK-with-MLK-and-TNH-statue-high-quality-e-crop {
-    width: 60%;
+    width: 50%;
     margin-bottom: 0;
 }
 html:lang(en) img#articlebr-phap-huuIMG2211e {

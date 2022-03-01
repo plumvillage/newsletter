@@ -133,10 +133,10 @@ html:lang(vi) .pagedjs_right_page .pagedjs_margin-bottom-right {
 {% idMap ".PAGE-OF-article", items, " .pagedjs_margin-bottom" %}
 {
     filter: drop-shadow(0 0 1pt white) drop-shadow(0 0 3pt white);
-    {# width: 0 !important;
-    height: 0 !important;
-    display: none !important; #}
 }
+
+    {# I had first factored out the static rules to apply to all elements, which did not work. I suspect because pagedjs somehow merges the static and dynamic rules (data-following) #}
+{# {% idMap "img#article", items, ".has-label + p" %} #}
 
 {% for item in items %}
 img#article{{ item[0] }} {
@@ -156,18 +156,18 @@ img#article{{ item[0] }} {
 img#article{{ item[0] }}.has-label + p {
     position: absolute;
     right: 0;
-    width: 60mm;
-    bottom: calc((var(--pagedjs-footnotes-height) + var(--bleed) + {{ item[1] }} - 11mm) * -1);
-    background-color: red;
+    width: 70mm;
     color: rgb(201, 201, 201) !important;
     text-shadow:
-        1px 0 2px black,
-        0px 0 3px black
+        0 0 1pt black,
+        0 0 1pt black,
+        0 0 5pt black,
+        0 0 10pt black
     ;
-
+    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + {{ item[1] }} - 9mm) * -1);
 }
 {% endfor %}
- {# + {{ item[2] }} #}
+
 
 {# special case: to top #}
 img#articlesu-ongTheTrueSangha2 {
