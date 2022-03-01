@@ -19,7 +19,7 @@ I received a lineage name, Chan Troi Dao Bi, which means "True Sky over the Path
 I feel very fortunate that Thay has pointed out the path for me. I have many wounds from my time working as a social worker. Knowing that I am on the path of healing already brings me happiness. The pain from the wounds comes up from time to time, but I have learned how to be with it, to understand it. Thay taught us that understanding suffering is the way to generate compassion. I now see my wounds as ingredients to grow compassion and non-fear. It is like a guided meditation for myself: *Breathing in, you have seen the path. Breathing out, do not fear anymore.*
 
 {% image "article/br-troi-dao-bi/9193025135868320367651704298813o.jpg", "has-label noFloat" %}
-<p class="image-label"></p>
+<p class="image-label">Wake Up and Family Retreat, Thailand, 2013</p>
 {% image "article/br-troi-dao-bi/Happy-Radish-Family2_edited.jpg", "has-label noFloat" %}
 <p class="image-label">Online Dharma sharing. Brs. Duc Pho, Dao Bi: top second left</p>
 
