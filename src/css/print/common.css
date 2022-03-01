@@ -894,8 +894,13 @@ html:lang(vi) .imgD#articlebr-troi-thien-chi217673175415625496112912833970343350
 .imgD#articlesr-doan-nghiemSr-doan-nghiem-edited {
     width: 70%;
 }
-.imgD#articlerichard-brady53beedc0-edited-crop {
+html:lang(en) .imgD#articlerichard-brady53beedc0-edited-crop {
     width: 97%;
+    margin-bottom: 0;
+}
+html:lang(vi) .imgD#articlerichard-brady53beedc0-edited-crop {
+    width: 60%;
+    margin-bottom: 0;
 }
 
 .imgD#articlesr-hoa-nghiemHinh-cho-bai-Sc-Hoa-N1 {

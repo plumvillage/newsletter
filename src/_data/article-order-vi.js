@@ -1,4 +1,8 @@
 module.exports = ["tri-an-thay",
+"lang-mai-nam-2021",
+"richard-brady--hanh-trinh-dem-chanh-niem-vao-lop-hoc",
+"hisae-matsuda-and-terry-barber--hanh-trinh-den-voi-lang-mai",
+"dieu-tram--thien-thu-trong-khoanh-khac",
 "thien-thu-trong-khoanh-khac",
 // Đây là giây phút huyền thoại
 "thay-phap-huu--day-la-giay-phut-huyen-thoai",
@@ -6,9 +10,13 @@ module.exports = ["tri-an-thay",
 "su-ong-lang-mai--tang-than-dich-thuc",
 "thay-phap-niem--tieng-cuoi-tre-da-vang",
 "su-co-thoai-nghiem--mot-dong-xanh-biec",
+"tam-tue-vien--vi-thay",
 "su-co-hoa-nghiem--nep-xua",
 "thay-phap-dung--tieng-chuong-chanh-niem",
 "le-trang--cung-tan",
+"tray-troi-noi-tam--dau-dau-cung-dau-hai",
+"thay-phap-linh--hai-chiec-la-dau-canh",
+"thay-tri-chon--mai-rung-lang-xua",
 // Ngôi làng của chúng tôi - Phỏng vấn sc. Diệu Nghiêm và sc. Từ Nghiêm
 "su-co-dieu-tu-nghiem--ngoi-lang-cua-chung-toi",
 // Thầy ôm các con vào lòng	Sc. Sùng N
