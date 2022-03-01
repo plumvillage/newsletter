@@ -45,5 +45,4 @@ Today, I also make the deep vow that I will never forget Thay’s roots. Thay’
 
 <div class="article-end"></div>
 
-{% image "article/sr-chan-khong-letter-to-Thay/SCCK with MLK and TNH statue - high quality-e-crop.jpg", "has-label" %}
-<p class="image-label">Dr. Martin Luther King and Thich Nhat Hanh memorial statue, Magnolia Grove Monastery</p>
+{% image "article/sr-chan-khong-letter-to-Thay/SCCK with MLK and TNH statue - high quality-e-crop.jpg", "", "Dr. Martin Luther King and Thich Nhat Hanh memorial statue, Magnolia Grove Monastery" %}

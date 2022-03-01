@@ -15,8 +15,7 @@ Thay was very happy that the newsletter only published positive, high quality ne
 
 The publication of the newsletter has become a tradition that many people look forward to and is lovingly called by its familiar name “The Tet Times”.<span class="note"><i>Tet</i> is the Vietnamese word for the Lunar New Year celebrated by many Asian and international communities around the world.</span> Thay hoped for it to be a gift for the Lunar New Year, so we usually published it before Tet, in time to print and post to everyone. The editorial team therefore was also under some time pressure.
 
-{% image "article/br-phap-hoi/Br-Phap-Hoi.jpg", "has-label" %}
-<p class="image-label">From left: Brs. Phap Son, Phap Hai, Phap Khai, Phap Hoi, Phap Kien</p>
+{% image "article/br-phap-hoi/Br-Phap-Hoi.jpg", "", "From left: Brs. Phap Son, Phap Hai, Phap Khai, Phap Hoi, Phap Kien" %}
 
 Thay was very active and open to new and more effective ways of working. Even though the newsletter is only published once a year, it is of very high quality. Its content carries the flavor of Zen as well as realistically describing the process and results of Plum Village’s socially engaged actions. Thay placed a great deal of energy into calling for support for charitable work. It also shows that practitioners are not only focused on our practice but also help and contribute to the world.
 
@@ -26,8 +25,7 @@ Through the process of creating the newsletter, the editorial team had the chanc
 
 When I came to Plum Village I brought with me a new Vietnamese font software. The font was very beautiful and easier to use with computers. At that time in Plum Village we were using a very old Apple Macintosh. The Vietnamese font in it was usable but had many limitations. Thay was designing the *Daily Chanting Book* using the old font. The lay friend in charge of the computer suggested installing the new font. Sr. Thoai Nghiem volunteered to re-type all the sutras using the new font and she had to do so quickly, therefore even though there were still many errors, she had to overlook them in order for the text to be converted into the new style. Back then computers did not have font conversion systems like they do now and we still needed many humans to correct the grammar and spelling. I am from the North of Vietnam where the Vietnamese was very standardized, so I am quite comfortable with this kind of work, which Thay called “worm catching”.
 
-{% image "article/br-phap-hoi/Br-Phap-Hoi 2-e.jpg", "has-label" %}
-<p class="image-label">Thay giving a Dharma talk during the Summer Retreat</p>
+{% image "article/br-phap-hoi/Br-Phap-Hoi 2-e.jpg", "", "Thay giving a Dharma talk during the Summer Retreat" %}
 
 Thay taught us what words to use so that the language was in keeping with Plum Village principles. Not every word could be used. Thay himself paid great attention to that. Even though Thay had a deep mastery of language, literature, and Vietnamese culture, he was always willing to accept and learn from his disciples new ways of using language. I saw that as a disciple, I benefited greatly from Thay and Thay was also always at the forefront of learning along with his disciples.
 

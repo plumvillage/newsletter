@@ -29,8 +29,7 @@ In the autumn of 1985 while I was studying in California, Thay came to the U.S. 
 
 From when I was a highschool student until I became a monk, I had read many books and listened to many teachings about meditation from different zen masters. But only when I encountered Thay’s book *Vấn đề nhận thức trong Duy thức học* (*Consciousness in the Manifestation Only School*) that I intuitively knew - here was my teacher! The more I practiced, the more I felt that the conditions that allowed me to meet Thay had been sown many lifetimes ago.
 
-{% image "article/br-phap-an/thay-phap-an-edited.jpg", "has-label" %}
-<p class="image-label">Transmitting the 14 Mindfulness Trainings</p>
+{% image "article/br-phap-an/thay-phap-an-edited.jpg", "", "Transmitting the 14 Mindfulness Trainings" %}
 
 In the past, I thought that I was choosing this teacher or that teacher, that I liked this temple or that temple. But in the end, all phenomena come together due to conditions. The first few days in Upper Hamlet, I often dreamt about Thay practicing sitting meditation. He sat very straight and in a regal way. I could feel that the connection between us went very deep. I have many memories with Thay that really nourish me. 
 

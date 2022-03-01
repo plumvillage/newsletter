@@ -12,8 +12,7 @@ In *Old Path White Clouds*, Thay taught that the *harmony of views* means to exc
 
 Thay always listened to suggestions from the sangha. The sangha consulted with Thay, and he also consulted with the sangha when dealing with various matters. The Caretaking Council (CTC, *ban chăm sóc* in Vietnamese; also formerly known as *ban điều hành -* “Executive Council”) was born in this spirit. In April 1999, Thay asked the sangha for ideas on how to organize sangha life so that studying and practicing could bring more happiness. Some brothers and sisters gave suggestions to Thay. He then asked the sangha to review these suggestions. This article documents the birth of the Caretaking Council.  
 
-{% image "article/br-phap-kham/1998-TangThanXomThuong-MuaHe-cut.jpg", "has-label" %}
-<p class="image-label">Upper Hamlet sangha, summer 1998</p>
+{% image "article/br-phap-kham/1998-TangThanXomThuong-MuaHe-cut.jpg", "", "Upper Hamlet sangha, summer 1998" %}
 
 The Plum Village monastic sangha was established in November 1988 with the ordination of Sisters Chân Không, Chân Đức and Chân Vị. In 1991 there were three monks and nine nuns, which grew to five monks and eleven nuns in 1992, and 10 monks and 13 nuns in 1993. The number of monastics increased slowly. By April 1999, a total of 40 monks and 45 nuns were ordained with Thay.
 

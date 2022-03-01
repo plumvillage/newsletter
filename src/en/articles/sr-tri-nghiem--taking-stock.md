@@ -9,8 +9,7 @@ A year later, to mark our first anniversary and for the sake of posterity, one s
 
 Yet, even without a record, I can still remember the feel of my account: it gushed with enthusiasm. I loved everything about my new monastic life. I loved my newly acquired extended family of hundreds from so many different cultures and continents. I loved our community of practitioners from around the globe. I loved the yearly schedule of retreats – with people from near and far, all seeking change in their lives. I loved the brotherhood and sisterhood, the walks and picnics we went on in the French countryside in springtime, treading softly on fresh, spongy grass dotted with a myriad of golden dandelions and tiny white daisies between rows of budding vineyards. I even remember loving the mid-summer Health Retreat - a fasting and hiking endurance test!! We hiked along country roads with our resident health guru, Brother Phap Lu, in the scorching heat of August, our feet slowly dragging as our hot and thirsty, food-deprived and weakened bodies pushed on towards our destination. I clearly remember one conversation we had, passing by some rows of blackberry briars, “So how is monastic life treating you?” Br. Phap Lu inquired knowingly. “Well, I think I am still in the honeymoon phase.” I replied, afraid this may not have been quite the answer he was expecting. “Good!” he shot back. “Stay there!”
 
-{% image "article/sr-tri-nghiem/sr-tri-nghiem-1-e.jpg", "has-label" %}
-<p class="image-label">With Thay after the novice ordination</p>
+{% image "article/sr-tri-nghiem/sr-tri-nghiem-1-e.jpg", "", "With Thay after the novice ordination" %}
 
 With or without the sound advice of Br. Phap Lu in those early days, my honeymoon phase went on to last a solid twelve more years. 
 
@@ -59,7 +58,6 @@ My heart sank. I missed the contact with our lay friends. Although I had helped 
 For the first time in my monastic life, I began to question my sense of purpose.
 
 {% image "article/sr-tri-nghiem/DSC_0130.JPG" %}
-<!-- {% image "article/sr-tri-nghiem/sr-tri-nghiem-2.jpg" %} -->
 
 ## The importance of a sense of purpose
 

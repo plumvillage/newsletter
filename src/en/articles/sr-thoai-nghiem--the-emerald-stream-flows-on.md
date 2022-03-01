@@ -3,10 +3,9 @@ title: The Emerald Stream Flows On
 author: Sister Chân Thoại Nghiêm 
 ---
 
-<p class="editors-preface">Forty years of Plum Village, 45 issues of the Plum Village Newsletter (“Newsletter”). From a few folded pages of Thay's writings sent to the family and friends of Plum Village as a Lunar New Year (“Tet” in Vietnamese) greeting, to a thick and colorful journal both in content and form, has been one long journey. The intimate words about life in the “village” within those first letters have transformed into articles and sharings with contributions from five continents. Though still bearing the name “Lá Thư Làng Mai” (literally meaning “The Plum Village Letters”), the latter is no longer in letter form. The current editorial team wanted me to write a few lines about the early days when I had the chance to work with Thay. I agreed right away. The months and years that have passed appeared clearly in my mind; but I did not know how to begin.</p>
+<p class="editors-preface">Forty years of Plum Village, 45 issues of the Plum Village Newsletter (“Newsletter”). From a few folded pages of Thay's writings sent to the family and friends of Plum Village as a Lunar New Year (“Tet” in Vietnamese) greeting, to a thick and colorful journal both in content and form, has been one long journey. The intimate words about life in the “village” within those first letters have transformed into articles and sharings with contributions from five continents. Though still bearing the name “Lá Thư Làng Mai” (literally meaning “The Plum Village Letters”), the latter is no longer in letter form. The current editorial team wanted me to write a few lines about the early days when I had the chance to work with Thay. I agreed right away. The months and years that have passed appeared clearly in my mind; but I did not know how to begin." %}
 
-{% image "article/sr-thoai-nghiem/Sr-thoai-nghiem-2-e.jpg", "has-label" %}
-<p class="image-label">The printing press - Thay's "buffalo"</p>
+{% image "article/sr-thoai-nghiem/Sr-thoai-nghiem-2-e.jpg", "", "The printing press - Thay’s “buffalo”" %}
 
 ## In-house newsletter
 
@@ -80,8 +79,7 @@ I learned a great deal while working with Thay because he is so careful; attendi
 
 In 2005, I left France to go and help establish the Prajna Monastery in Vietnam. The *Plum Village Newsletter* continued to be “born” regularly, increasingly rich in both content and form. The younger brothers and sisters who came after me were technically skilled and had better Vietnamese, so Thay had more helpers.
 
-{% image "article/sr-thoai-nghiem/DSC_1153e.JPG", "has-label" %}
-<p class="image-label">Part of the 2021 Newsletter Team</p>
+{% image "article/sr-thoai-nghiem/DSC_1153e.JPG", "", "Part of the 2021 Newsletter Team" %}
 
 In 2010 when I returned to France, I thought I had been “released”. I asked Thay (just to be sure) to allow me to come out of the editorial team. Thay was silent. Then Thay announced to the sangha that I was taking care of that year's *Newsletter* (Thay gave me such a heart attack!). Not daring to bargain with Thay, I invited other younger siblings to join the team. The year after, I had a list of suggestions for Thay's approval and to announce to the sangha. Thay nodded. The day the list was announced, I was feeling excited when I heard my name brought up as if I was the responsible person. I knew Thay was training his student, but I still felt pressured. How many years have I celebrated Tet accompanied by worries about the newsletter? Was there ever a year when I was free to sit down and wrap earth-cakes with the sangha (in Plum Village)?  
 

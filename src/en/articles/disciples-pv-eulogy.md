@@ -17,8 +17,7 @@ Dear Thay, your deep bodhicitta, which began in the heart of a little child from
 
 Throughout your life you encountered acute moments of loss and injustice - like when you were exiled, heard the news of your students being shot on the riverbank, or when your passport was cancelled, or when your program to rescue thousands of boat people from the South China Sea was shut down - and yet you met these moments with the strength of your mindfulness practice, and your indestructible courage, compassion and clarity.
 
-{% image "article/eulogy-in-PV/IMG_1567-e.jpg", "has-label" %}
-<p class="image-label">Sr. Trai Nghiem, Br. Troi Niem Tan</p>
+{% image "article/eulogy-in-PV/IMG_1567-e.jpg", "", "Sr. Trai Nghiem, Br. Troi Niem Tan" %}
 
 Dear Thay, despite all the difficulties, you never gave up - on hope, or on this path, or on your vision of creating a practice that could truly help the world. You found ways to build sangha out of all the non-sangha elements around you. You overcame your gentle shyness to open your heart to embrace new people, cultures and perspectives. 
 

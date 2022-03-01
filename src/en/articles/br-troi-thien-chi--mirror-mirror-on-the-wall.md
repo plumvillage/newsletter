@@ -5,8 +5,7 @@ author: Brother Chân Trời Thiện Chí
 
 Shortly after the pandemic began, my mother told me that she felt lonely. I called her every week – even twice a week – during that time, but that was clearly not enough. Since I knew my mom loves mirrors, I decided to craft a gift for her: an enchanting, miraculous mirror that would speak with Thay’s voice to comfort her. I wanted it to look creative, old and a little mysterious, with a classic oval shape. Imagining it lit up a Buddha’s smile in my chest. I thought, *Yes! The glass should spill out of the mirror frame and reveal the gatha for looking into the mirror.* With this fire of inspiration, immense determination, power and sweet excitement began to circulate in my body. It was easy to find some recycled materials and get started. But soon the difficulties began to overwhelm me.
 
-{% image "article/br-troi-thien-chi/21767317541562549611291283397034335052574932n.jpg", "has-label" %}
-<p class="image-label">Br. Thien Chi with his mother after his novice ordination</p>
+{% image "article/br-troi-thien-chi/21767317541562549611291283397034335052574932n.jpg", "", "Br. Thien Chi with his mother after his novice ordination" %}
 
 Firstly, building the frame was not easy – it took me months. I did not know how to attach the clay to the wooden backboard, and the shape I envisioned was rather complicated, with many minute details and bent inward like a bow. I put in a lot of effort, but it did not work out well. Eventually I had to let go of the project. Despair spread through me.
 

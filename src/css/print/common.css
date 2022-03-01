@@ -110,7 +110,7 @@ body {
     }
 }
 
-.front-cover img, .front-collage img, .back-collage img, .back-cover img {
+.front-cover .imgD, .front-collage .imgD, .back-collage .imgD, .back-cover .imgD {
     width: 100%;
 }
 
@@ -127,13 +127,13 @@ body {
 /* pagedjs_bleed pagedjs_bleed-bottom */
 
 /* size matches the "LTLM front and back cover size.psd" template */
-.full-page-image img {
+.full-page-image .imgD {
     width: 226mm;
     height: 307mm;
 }
 
 /* size matches A4 + 5 mm bleed around */
-.size-A4 .full-page-image img {
+.size-A4 .full-page-image .imgD {
     width: 220mm;
     height: 307mm;
 }
@@ -176,12 +176,12 @@ body {
     margin-right: auto;
     /* margin: 0 auto; */
 }
-#title-page img {
+#title-page .imgD {
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
-#title-page h1 img {
+#title-page h1 .imgD {
     width: 88%;
     /* margin-top: 20%;
     margin-bottom: 10%; */
@@ -236,12 +236,12 @@ body {
 
 
 
-img#calligraphyzen-circlezen-circle {
+.imgD#calligraphyzen-circlezen-circle {
     width: 100%;
     padding-top: 30%;
 }
 
-img#ThayLamp-e2 {
+.imgD#ThayLamp-e2 {
     float: none;
     width: 60%;
     padding-top: 10%;
@@ -408,7 +408,7 @@ h1 {
 
 /* https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Mastering_margin_collapsing
 -> Note that the margins of floating and absolutely positioned elements never collapse. */
-article img {
+article .imgD {
     display: block; /* block eliminates space around image */
     float: right; /* makes paragraph text float/break around it */
     max-width: 100%;
@@ -416,23 +416,23 @@ article img {
     margin-bottom: 11pt;
 }
 
-img.noFloat {
+.imgD.noFloat {
     float: none !important;
 }
 
 /* will also fill 5mm bleed */
-img.expandToRightBorder,
-img.expandToLeftBorder
+.imgD.expandToRightBorder,
+.imgD.expandToLeftBorder
 {
     width: 120%;
     position: relative;
     max-width: none !important;
 }
-img.expandToRightBorder {
+.imgD.expandToRightBorder {
     /* because float is normally: right */
     right: -20%;
 }
-img.expandToRightBorder.noFloat {
+.imgD.expandToRightBorder.noFloat {
     right: 0 !important;
 }
 /* expandToLeftBorder is already left-bound */
@@ -442,10 +442,13 @@ h1.calligraphyTitle {
     margin-bottom: -5mm;
 }
 
-h1.calligraphyTitle img {
+h1.calligraphyTitle .imgD {
     max-height: 30mm;
     margin: 0 auto;
     float: none;
+}
+h1.calligraphyTitle .imgD img {
+    max-height: 30mm;
 }
 
 h2 { /* section in article */
@@ -468,7 +471,7 @@ article .author {
 }
 
 article .author + h2,
-article .author + img,
+article .author + .imgD,
 article .author + p
 {
     margin-top: 0;
@@ -503,7 +506,7 @@ article p, article blockquote {
 
 article p + p,
 /* since images float around text, paragraphs can be adjacent even when an image intersects them */
-article img:not(.articleCalligraphy) + p:not(.image-label) {
+article .imgD:not(.articleCalligraphy) + p:not(.image-label) {
     text-indent: 16pt;
     margin-top: 11pt;
 }
@@ -679,16 +682,21 @@ article span.color {
     color: var(--color-tower-dark);
 }
 
-article img.has-label {
+.imgD img {
+    display: inline-block;
+    max-width: 100%;
+}
+
+article .imgD.has-label {
     margin-bottom: 0;
     padding-bottom: 0;
 }
-article img.img-small {
+article .imgD.img-small {
     float: right;
     margin-left: 6pt;
     width: 50%;
 }
-article img + p.image-label {
+article .imgD .image-label {
     display: block; /* block eliminates remaining space between image and label*/
     font-size: 80%;
     line-height: 120%;
@@ -751,10 +759,10 @@ p.editors-preface::after, .divider::after {
     color: hsl(17, 36%, 15%);
 }
 
-img#calligraphyParallels-VI-p1-Ngay-Vertical {
+.imgD#calligraphyParallels-VI-p1-Ngay-Vertical {
     width: 50%;
 }
-img#calligraphyParallels-VI-p2-Bon-Vertical {
+.imgD#calligraphyParallels-VI-p2-Bon-Vertical {
     width: 50%;
 }
 
@@ -805,12 +813,14 @@ h1#strolling-with-joy-on-a-sunny-day
     margin-bottom: -3mm;
 }
 
-h1#the-true-sangha img {
+h1#the-true-sangha .imgD,
+h1#the-true-sangha .imgD img
+{
     max-height: 40mm !important;
 }
 
-h1#the-true-sangha img
-,h1#tang-than-dich-thuc img
+h1#the-true-sangha .imgD img
+,h1#tang-than-dich-thuc .imgD img
 {
     filter: drop-shadow(0 0 3pt white);
 }
@@ -839,17 +849,17 @@ h1#the-true-sangha + .author, h1#tang-than-dich-thuc + .author {
     text-shadow: white 1px 0 5px
 }
 
-html:lang(en) img#articlebr-troi-thien-chi5brot {
+html:lang(en) .imgD#articlebr-troi-thien-chi5brot {
     width: 90%;
     margin-right: 5%;
 }
 
-html:lang(vi) img#articlebr-troi-thien-chi5brot {
+html:lang(vi) .imgD#articlebr-troi-thien-chi5brot {
     width: 82%;
     margin-right: 11%;
 }
 
-html:lang(vi) img#articlebr-troi-thien-chi21767317541562549611291283397034335052574932n{
+html:lang(vi) .imgD#articlebr-troi-thien-chi21767317541562549611291283397034335052574932n{
     float: left;
     margin-right: 6pt;
     width: 60%;
@@ -857,20 +867,20 @@ html:lang(vi) img#articlebr-troi-thien-chi21767317541562549611291283397034335052
 
 /* //////////////////////////////////////////////// */
 /* /////////////  FULL-PAGE IMAGES  /////////////// */
-img#calligraphyzen-circlezen-circle,
-img#articlesr-doan-nghiemSr-doan-nghiem-edited,
-img#articlerichard-brady53beedc0-edited-crop,
-img#articlerichard-brady53beedc0-edited-crop + .image-label,
-img#articlesr-hoa-nghiemHinh-cho-bai-Sc-Hoa-N1,
-img#articlesr-chan-khong-letter-to-ThaySCCK-with-MLK-and-TNH-statue-high-quality-e-crop,
-img#articlesr-chan-khong-letter-to-ThaySCCK-with-MLK-and-TNH-statue-high-quality-e-crop + .image-label,
-img#articlebr-nguyen-tinhBrNguyenTinh1-edit,
-img#articlebr-phap-huuIMG2211e,
-img#articlebr-troi-bao-tang266137775101594156527050427864726797241279645n,
-img#articlebr-troi-bao-tangScreenshot-edit,
-img#articlebr-troi-dao-quangIMG1129,
-img#articlesr-giac-nghiemSu-me-Giac-Nghiem-2-edited,
-img#articlebr-phap-dungthay-bell3-torn-edges {
+.imgD#calligraphyzen-circlezen-circle,
+.imgD#articlesr-doan-nghiemSr-doan-nghiem-edited,
+.imgD#articlerichard-brady53beedc0-edited-crop,
+.imgD#articlerichard-brady53beedc0-edited-crop + .image-label,
+.imgD#articlesr-hoa-nghiemHinh-cho-bai-Sc-Hoa-N1,
+.imgD#articlesr-chan-khong-letter-to-ThaySCCK-with-MLK-and-TNH-statue-high-quality-e-crop,
+.imgD#articlesr-chan-khong-letter-to-ThaySCCK-with-MLK-and-TNH-statue-high-quality-e-crop + .image-label,
+.imgD#articlebr-nguyen-tinhBrNguyenTinh1-edit,
+.imgD#articlebr-phap-huuIMG2211e,
+.imgD#articlebr-troi-bao-tang266137775101594156527050427864726797241279645n,
+.imgD#articlebr-troi-bao-tangScreenshot-edit,
+.imgD#articlebr-troi-dao-quangIMG1129,
+.imgD#articlesr-giac-nghiemSu-me-Giac-Nghiem-2-edited,
+.imgD#articlebr-phap-dungthay-bell3-torn-edges {
     column-span: all;
     float: none;
     margin-left: auto;
@@ -879,48 +889,48 @@ img#articlebr-phap-dungthay-bell3-torn-edges {
     padding-right: 0;
 }
 
-img#articlesr-doan-nghiemSr-doan-nghiem-edited {
+.imgD#articlesr-doan-nghiemSr-doan-nghiem-edited {
     width: 70%;
 }
-img#articlerichard-brady53beedc0-edited-crop,
-img#articlerichard-brady53beedc0-edited-crop + .image-label {
+.imgD#articlerichard-brady53beedc0-edited-crop,
+.imgD#articlerichard-brady53beedc0-edited-crop + .image-label {
     width: 97%;
 }
 
-img#articlesr-hoa-nghiemHinh-cho-bai-Sc-Hoa-N1 {
+.imgD#articlesr-hoa-nghiemHinh-cho-bai-Sc-Hoa-N1 {
     width: 90%;
     margin-top: 10%;
     margin-bottom: 0;
 }
-img#articlebr-nguyen-tinhBrNguyenTinh1-edit {
+.imgD#articlebr-nguyen-tinhBrNguyenTinh1-edit {
     width: 70%;
 }
-img#articlesr-chan-khong-letter-to-ThaySCCK-with-MLK-and-TNH-statue-high-quality-e-crop  + .image-label,
-img#articlesr-chan-khong-letter-to-ThaySCCK-with-MLK-and-TNH-statue-high-quality-e-crop {
+.imgD#articlesr-chan-khong-letter-to-ThaySCCK-with-MLK-and-TNH-statue-high-quality-e-crop  + .image-label,
+.imgD#articlesr-chan-khong-letter-to-ThaySCCK-with-MLK-and-TNH-statue-high-quality-e-crop {
     width: 50%;
     margin-bottom: 0;
 }
-html:lang(en) img#articlebr-phap-huuIMG2211e {
+html:lang(en) .imgD#articlebr-phap-huuIMG2211e {
     width: 90%;
 }
-html:lang(vi) img#articlebr-phap-huuIMG2211e {
+html:lang(vi) .imgD#articlebr-phap-huuIMG2211e {
     width: 65%;
 }
-img#articlebr-troi-bao-tang266137775101594156527050427864726797241279645n {
+.imgD#articlebr-troi-bao-tang266137775101594156527050427864726797241279645n {
     width: 67%;
 }
-img#articlebr-phap-dungthay-bell3-torn-edges {
+.imgD#articlebr-phap-dungthay-bell3-torn-edges {
     width: 97%;
 }
-img#articlebr-troi-dao-quangIMG1129 {
+.imgD#articlebr-troi-dao-quangIMG1129 {
     width: 78%;
     margin-bottom: 0;
 }
-img#articlesr-giac-nghiemSu-me-Giac-Nghiem-2-edited {
+.imgD#articlesr-giac-nghiemSu-me-Giac-Nghiem-2-edited {
     width: 70%;
     margin-bottom: 0;
 }
-img#articlebr-troi-bao-tangScreenshot-edit {
+.imgD#articlebr-troi-bao-tangScreenshot-edit {
     width: 97%;
     margin-bottom: 0;
 }
@@ -929,7 +939,7 @@ img#articlebr-troi-bao-tangScreenshot-edit {
 
 
 
-img#articlefor-poemsseparator1 {
+.imgD#articlefor-poemsseparator1 {
     display: block;
     column-span: all;
     float: none;
@@ -939,7 +949,7 @@ img#articlefor-poemsseparator1 {
     margin-left: auto;
     margin-right: auto;
 }
-img#articlefor-poemsorchid-light2 {
+.imgD#articlefor-poemsorchid-light2 {
     margin: 0;
     max-width: none !important;
     position: absolute;
@@ -970,14 +980,14 @@ on other occasions, I would adjust the margin-top and height of .pagedjs_page_co
     top: -60mm;
     left: 0;
 }
-#horizontal-img-column img {
+#horizontal-img-column .imgD {
     display: inline-block;
     float: none;
     width: 48%;
     margin: 0;
     padding: 0;
 }
-#horizontal-img-column img + img {
+#horizontal-img-column .imgD + .imgD {
     margin-left: 4% !important;
 }
 
@@ -1002,13 +1012,13 @@ on other occasions, I would adjust the margin-top and height of .pagedjs_page_co
     columns: 1 !important;
 }
 
-img#articlebr-phap-an60e {
+.imgD#articlebr-phap-an60e {
     float: none !important;
     width: 60% !important;
     margin-left: auto;
     margin-right: auto;
 }
-img#articlebr-phap-ung8826595315246533743600235026231803661254656ne {
+.imgD#articlebr-phap-ung8826595315246533743600235026231803661254656ne {
     float: none !important;
     width: 80% !important;
     margin-left: auto;
@@ -1024,7 +1034,7 @@ img#articlebr-phap-ung8826595315246533743600235026231803661254656ne {
 .PAGE-OF-articlebr-phap-kham1998-TangThanXomThuong-MuaHe-cut .pagedjs_page_content {
     height: calc(100% - var(--pagedjs-footnotes-height) - 95mm) !important;
 }
-img#articlebr-phap-kham1998-TangThanXomThuong-MuaHe-cut {
+.imgD#articlebr-phap-kham1998-TangThanXomThuong-MuaHe-cut {
     position: absolute;
     bottom: -89mm;
     display: block;
@@ -1035,7 +1045,7 @@ img#articlebr-phap-kham1998-TangThanXomThuong-MuaHe-cut {
     /* margin-left: auto; */
     /* margin-right: auto; */
 }
-img#articlebr-phap-kham1998-TangThanXomThuong-MuaHe-cut + .image-label {
+.imgD#articlebr-phap-kham1998-TangThanXomThuong-MuaHe-cut + .image-label {
     position: absolute;
     bottom: -95mm;
     display: block;
@@ -1051,7 +1061,7 @@ img#articlebr-phap-kham1998-TangThanXomThuong-MuaHe-cut + .image-label {
 .PAGE-OF-articlesr-doan-nghiemsu-me-DJoan-N-3-edited .pagedjs_page_content {
     height: calc(100% - var(--pagedjs-footnotes-height) - 80mm) !important;
 }
-img#articlesr-doan-nghiemsu-me-DJoan-N-3-edited {
+.imgD#articlesr-doan-nghiemsu-me-DJoan-N-3-edited {
     position: absolute;
     bottom: -80mm;
     display: block;
@@ -1067,7 +1077,7 @@ img#articlesr-doan-nghiemsu-me-DJoan-N-3-edited {
 .PAGE-OF-articlesr-tang-nghiemNon-xua-may-trang-phu-day-thay-ngoi-thien-dinh-dem-ngay-vung-anx5000q90 .pagedjs_page_content {
     height: calc(100% - var(--pagedjs-footnotes-height) - 100mm) !important;
 }
-img#articlesr-tang-nghiemNon-xua-may-trang-phu-day-thay-ngoi-thien-dinh-dem-ngay-vung-anx5000q90 {
+.imgD#articlesr-tang-nghiemNon-xua-may-trang-phu-day-thay-ngoi-thien-dinh-dem-ngay-vung-anx5000q90 {
     position: absolute;
     bottom: -100mm;
     display: block;
@@ -1078,7 +1088,7 @@ img#articlesr-tang-nghiemNon-xua-may-trang-phu-day-thay-ngoi-thien-dinh-dem-ngay
 }
 
 /* those values are NOT relative to the page */
-img#articlefor-chaptersPlanting-trees-edit2 {
+.imgD#articlefor-chaptersPlanting-trees-edit2 {
     display: block;
     position: absolute;
     z-index: -1;
@@ -1086,7 +1096,7 @@ img#articlefor-chaptersPlanting-trees-edit2 {
     bottom: -20mm;
     left: 6%;
 }
-img#articlefor-chaptersSunflowerChapter {
+.imgD#articlefor-chaptersSunflowerChapter {
     display: block;
     position: absolute;
     z-index: -1;
@@ -1094,7 +1104,7 @@ img#articlefor-chaptersSunflowerChapter {
     bottom: -40mm;
     left: 10%;
 }
-img#articlefor-chaptersHandsReadingOut2 {
+.imgD#articlefor-chaptersHandsReadingOut2 {
     display: block;
     position: absolute;
     z-index: -1;
@@ -1106,13 +1116,13 @@ img#articlefor-chaptersHandsReadingOut2 {
 
 
 
-img#articleeulogy-in-vietnamL1004781,
-img#articlebr-troi-duc-hienIMG5858-edited {
+.imgD#articleeulogy-in-vietnamL1004781,
+.imgD#articlebr-troi-duc-hienIMG5858-edited {
     width: 86%;
     margin-right: 7%;
 }
 
-img#articlesr-trang-bo-deSc-Bo-DJe-4-edit {
+.imgD#articlesr-trang-bo-deSc-Bo-DJe-4-edit {
     width: 86%;
     margin-right: 7%;
 }

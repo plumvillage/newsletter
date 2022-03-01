@@ -14,8 +14,7 @@ Vào năm 1998, lúc tôi lên mười tuổi, cha mẹ đã cho tôi tham dự 
 
 Từ đó, năm nào cả nhà chúng tôi cũng về tham dự khóa tu gia đình mỗi khi Thầy và tăng thân đến Bắc Mỹ. Vì vậy mà tôi có niềm hạnh phúc được lớn lên trong chiếc nôi của Làng. Tôi được tham gia từ chương trình trẻ em đến chương trình dành cho thiếu niên. May mắn không lâu sau khi tôi “tốt nghiệp” chương trình thiếu niên, Thầy và tăng thân bắt đầu tổ chức chương trình Wake Up dành cho người trẻ. Tôi tham gia trong chương trình Wake Up Tour vùng Bờ Đông năm 2011. Trong chuyến đi này, một nhóm quý thầy, quý sư cô và các bạn thiền sinh trẻ ở tuổi 20 - 30 đã đến sinh hoạt với các trường đại học dọc bờ Đông Hoa Kỳ (kể cả các trường Yale, Harvard và Brown). Tiếp tục tu tập và sinh hoạt rất thường xuyên và gần gũi với tăng thân, tôi thọ giới Tiếp Hiện năm 2015. Hiện tôi đang là một trong các thành viên sáng lập của tăng thân Wake Up ở Toronto và thành viên Ban chăm sóc của Wake Up Bắc Mỹ.
 
-{% image "article/dr-elli-weisbaum/Wake-Up-Toronto-Monastics-from-BCM-May-2018.jpg", "has-label" %}
-<p class="image-label">WakeUp Toronto, 2018</p>
+{% image "article/dr-elli-weisbaum/Wake-Up-Toronto-Monastics-from-BCM-May-2018.jpg", "", "WakeUp Toronto, 2018" %}
 
 ## Nguồn cảm hứng mới
 
@@ -29,8 +28,7 @@ Niềm cảm hứng trong tôi lớn thêm trong quá trình tôi học thạc s
 
 Những kinh nghiệm sống khác nhau đã khiến tôi quan tâm tìm hiểu làm cách nào để môi trường y tế trở nên lành mạnh, nuôi dưỡng, giúp các bác sĩ và nhân viên y tế được phát triển vững mạnh, thay vì phải rơi vào tình trạng kiệt sức vì công việc quá tải. Tôi nhớ trong buổi nói chuyện với vị hiệu trưởng trường Y tế cộng đồng thuộc đại học Harvard, Thầy đã đề nghị mỗi thành viên của một cộng đồng y tế phải học cách sống như thế nào để góp phần tạo nên một môi trường làm việc lành mạnh. Thầy cho rằng cách các nhân viên y tế ăn uống, đi đứng, và làm việc cũng có thể tạo nên một môi trường đầy an vui, để rồi bản thân cộng đồng đó sẽ trở thành một yếu tố mang lại sự thay đổi lành mạnh*.* Một môi trường như thế sẽ mang lại lợi lạc về sức khỏe cho mọi thành viên của cộng đồng, bao gồm cả bệnh nhân, gia đình, y bác sĩ và các nhân viên quản lý trong ngành y tế.
 
-{% image "article/dr-elli-weisbaum/New-Hamlet-2015-From-left-SrJewel-Thay-Elli-Weisbaum.jpg", "has-label" %}
-<p class="image-label">Sr Jewel Kaira, Thay, Elli Weisbaum. 2015</p>
+{% image "article/dr-elli-weisbaum/New-Hamlet-2015-From-left-SrJewel-Thay-Elli-Weisbaum.jpg", "", "Sr Jewel Kaira, Thay, Elli Weisbaum. 2015" %}
 
 {% image "article/dr-elli-weisbaum/PV-Upper-Hamlet-2019-From-left-Sharon-Weisbaum-Elli-Weisbaum-Harry-Weisbaum-cut.jpg" %}
 

@@ -88,7 +88,7 @@ It was also the anniversary day of my little brother’s passing away in 1994. I
 For them, who are sad<br/>
 And lonely, without homes.<br/>
 Little things will do, <br/>
-And tenderness.</p>
+And tenderness." %}
 
 <p>Be a source of love<br/>
 For them,<br/>

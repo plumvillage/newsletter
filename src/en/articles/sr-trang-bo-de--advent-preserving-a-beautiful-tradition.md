@@ -6,8 +6,7 @@ author: Sister Chân Trăng Bồ Đề
 
 When I was little, at Christmas time all the streets in my hometown were strewn with twinkling lights and Christmas trees - plastic, but beautiful. The quiet church near my home came alive with joy. Even though I didn’t know about Christmas, I was still very happy because I could wander the streets at night, looking at this and that. I never had the courage to step foot in a church, except for one time when curiosity got the better of me, and the only reason was: I am a Buddhist. There seemed to be a line dividing church and temple. My parents and grandparents all agreed that a Buddhist should not go to a church. It would be an act of impiety. So that idea was firmly planted in the heads of all the children in my family. 
 
-{% image "article/sr-trang-bo-de/Sc-Bo-DJe-2-edit.JPG", "has-label" %}
-<p class="image-label">Monastic Christmas choir, 2020</p>
+{% image "article/sr-trang-bo-de/Sc-Bo-DJe-2-edit.JPG", "", "Monastic Christmas choir, 2020" %}
 
 When I came to Dieu Tram nunnery, I had more chances to enjoy the Christmas spirit. From decorating the meditation hall, practising performances, preparing “Secret Santa” gifts… to the moment when all my roommates gathered to unwrap gifts: it was so joyful, lively, and warm. I did wonder why we celebrated Christmas in the temple. The idea sown in me as a child was still there and as far as I knew, we were the only temple that celebrated Christmas. I asked an older sister about it. She replied that it was a way of integrating cultures.
 
@@ -35,8 +34,7 @@ Following suit, I joined my palms, introduced my name and spoke out the wish in 
 
 After some moments of silence, the brothers and sisters began to recount joyful memories of Christmas. Almost everyone had more or less memories related to a character called "Father Christmas". Listening is a chance for me to see more clearly the face of my siblings and to know a little more about those I rarely speak with. Living in a large sangha, connection is often no more than stopping to join palms in greeting, smile, and then pass by. Most opportunities for communication and interactions are through a bridge called *work*. Even with the elder and younger sisters I am living with, sometimes I am surprised to realize that I have never really looked carefully at them or been truly present for them. I am merely recognizing and distinguishing my sisters by their names.  
 
-{% image "article/sr-trang-bo-de/Sc-Bo-DJe-4-edit.JPG", "has-label" %}
-<p class="image-label">Sr. Trang Dieu Vien (left), Sr. Trang Bo De</p>
+{% image "article/sr-trang-bo-de/Sc-Bo-DJe-4-edit.JPG", "", "Sr. Trang Dieu Vien (left), Sr. Trang Bo De" %}
 
 After living for a while in the monastery, I also started to love the tranquil and peaceful life. That tranquility helps me see my mind more clearly and nourishes my inner peace. But when I start to form the thought, *I like the quiet, noise is too tiring*, a wall goes up between the world and myself, limiting the precious opportunities to be with my brothers and sisters. At those times when I find myself “Too lazy to play”, I often think of our elder - Brother Minh Hy.
 

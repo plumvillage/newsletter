@@ -5,8 +5,7 @@ author: Sister Chân Thuần Khánh
 
 I arrived in the Lower Hamlet on a late Autumn day in 2000. The car stopped in front of a low stone house, which I later learned was the “Purple Cloud” residence. One petite sister dressed in brown, wearing a brown apron and a brown head scarf came to the door to welcome my younger brother and I. Brother Phap Do who drove us there said to her, “Dear elder sister, I have brought your new younger sister.” That sister was Sr. Bao Nghiem. She smiled, squinted her eyes, and cheerfully said to him, “Thank you dear brother.” I went into the house with her while my brother went to the Upper Hamlet with Br. Phap Do. I have stayed in Lower Hamlet since then. It has become my second home, a place of return.
 
-{% image "article/sr-thuan-khanh/SrTueNghiem1e.jpg", "has-label" %}
-<p class="image-label">Sr. Thuan Khanh (left), Sr. Tue Nghiem</p>
+{% image "article/sr-thuan-khanh/SrTueNghiem1e.jpg", "", "Sr. Thuan Khanh (left), Sr. Tue Nghiem" %}
 
 ## “You are back my dear!”
 
@@ -54,8 +53,7 @@ After that, every time I returned to the Hermitage, I could hear the call of the
 
 My younger siblings often feel that they need to organize a Monastic Day at the Hermitage in a lively way for it to be a happy day. For me, I just need to step into the Hermitage, to experience that very first step into this sacred place. Standing at the gate, I join my palms to greet Thay - just like that day long ago when I placed my head on the sacred earth. This is enough to make me happy. I like to come to every corner of the Hermitage, the winding path through the bamboo forest where Thay did walking meditation every day; the small rock formations by the creek where Thay often stopped to lay in a hammock, the peach tree that Thay brought me to see just the other day… 
 
-{% image "article/sr-thuan-khanh/IMG5032q50.jpg", "has-label" %}
-<p class="image-label">Sr. Chan Duc and Sr. Thuan Khanh greeting the sangha in Vietnam on a Monastic Day</p>
+{% image "article/sr-thuan-khanh/IMG5032q50.jpg", "", "Sr. Chan Duc and Sr. Thuan Khanh greeting the sangha in Vietnam on a Monastic Day" %}
 
 The Hermitage grounds are not as large as the other hamlets, but every time I enter it, I find it truly spacious and safe. I feel that the four sides of the Hermitage are sheltered by an energy that when I, or any monastic, can be in touch with it, will protectus on our spiritual path. I often mock myself because these ideas seem to be “up in the clouds”. But I have never entered the Hermitage without feeling and receiving that protective energy. I have never sat in a corner by the creek without feeling that I have returned to sit at the foot of that majestic mountain, and suddenly, all my woes have dissipated. After sitting in the heart of the Hermitage, I can return simply to a pristine self. 
 

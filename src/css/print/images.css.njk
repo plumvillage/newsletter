@@ -117,7 +117,7 @@ html:lang(vi) .pagedjs_right_page .pagedjs_margin-bottom-right {
 	"132mm", "0mm", 0, 30] #}
 
 {# commas are added automatically by nunjucks #}
-{% idMap "img#article", items %}
+{% idMap ".imgD#article", items %}
 {
     margin: 0;
     max-width: none !important;
@@ -136,10 +136,10 @@ html:lang(vi) .pagedjs_right_page .pagedjs_margin-bottom-right {
 }
 
     {# I had first factored out the static rules to apply to all elements, which did not work. I suspect because pagedjs somehow merges the static and dynamic rules (data-following) #}
-{# {% idMap "img#article", items, ".has-label + p" %} #}
+{# {% idMap ".imgD#article", items, ".has-label + p" %} #}
 
 {% for item in items %}
-img#article{{ item[0] }} {
+.imgD#article{{ item[0] }} {
     bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + {{ item[1] }} + {{ item[2] }}) * -1);
     {%- if not (item[3] == 0 and item[4] == 0) %}
         mask-image: linear-gradient(to bottom,
@@ -153,9 +153,9 @@ img#article{{ item[0] }} {
 .PAGE-OF-article{{ item[0] }} .pagedjs_page_content {
     height: calc(100% - var(--pagedjs-footnotes-height) - {{ item[1] }}) !important;
 }
-img#article{{ item[0] }}.has-label + p {
+.imgD#article{{ item[0] }}.has-label p {
     position: absolute;
-    right: 0;
+    right: 17mm;
     width: 70mm;
     color: rgb(201, 201, 201) !important;
     text-shadow:
@@ -164,13 +164,14 @@ img#article{{ item[0] }}.has-label + p {
         0 0 5pt black,
         0 0 10pt black
     ;
-    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + {{ item[1] }} - 9mm) * -1);
+    {# bottom: 15mm; #}
+    bottom: calc(14mm + {{ item[2] }});
 }
 {% endfor %}
 
 
 {# special case: to top #}
-img#articlesu-ongTheTrueSangha2 {
+.imgD#articlesu-ongTheTrueSangha2 {
     margin: 0;
     max-width: none !important;
     position: absolute;

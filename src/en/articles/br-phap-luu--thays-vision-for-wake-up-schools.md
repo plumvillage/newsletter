@@ -41,8 +41,7 @@ By “happy teacher” Thay means you. Being a “happy teacher” doesn't mean 
 
 If the first person doesn't know how to take care of themselves, then they cannot help other people to take care of themselves. That's why in Wake Up Schools we always say that the practice starts with ourselves - the teachers. You have to transform yourself first.
 
-{% image "article/br-phap-luu/Dharma School in UK 2016 - the sisters taught children PV songs-edited.jpg", "has-label expandToLeftBorder" %}
-<p class="image-label">Dharma School in the UK, 2016</p>
+{% image "article/br-phap-luu/Dharma School in UK 2016 - the sisters taught children PV songs-edited.jpg", "expandToLeftBorder", "Dharma School in the UK, 2016" %}
 
 ## The Three Pillars of Wake Up Schools
 
@@ -68,11 +67,9 @@ During the pandemic, Wake Up Schools offered webinars to support healthcare work
 
 Staff from the Hospital of Tropical Disease (Bệnh viện Bệnh nhiệt đới Trung ương) in Hanoi and Chợ Rẫy Hospital in Ho Chi Minh City - two hospitals that have been at the front line in Vietnam’s effort to contain and to treat COVID-19 - participated. The webinar is now available for their healthcare staff of 30,000 people.
 
-{% image "article/br-phap-luu/Educators retreat in Uganda 2019.4- Credit - Evermind Media-edited.jpg", "expandToRightBorder noFloat" %}, "has-label"
-<p class="image-label">Br. Phap Luu leading an activity in Uganda</p>
+{% image "article/br-phap-luu/Educators retreat in Uganda 2019.4- Credit - Evermind Media-edited.jpg", "expandToRightBorder noFloat" %}, "", "Br. Phap Luu leading an activity in Uganda" %}
 {% image "article/br-phap-luu/Educators retreat in Uganda 2019.1 - Credit - Evermind Media.jpg", "expandToRightBorder noFloat" %}
-{% image "article/br-phap-luu/Educators retreat in Uganda 2019.2- Credit - Evermind Media.jpg", "has-label expandToRightBorder noFloat" %}
-<p class="image-label">Uganda, 2019<span class="note">Photos kindly provided by Evermind Media</span></p>
+{% image "article/br-phap-luu/Educators retreat in Uganda 2019.2- Credit - Evermind Media.jpg", "expandToRightBorder noFloat", "Uganda, 2019<span class='note'>Photos kindly provided by Evermind Media</span>" %}
 
 We also offered two webinars in Vietnam to support teachers and parents as schools reopened. On Sunday May 3, 2020, as schools were about to reopen, we supported an online seminar for educators and parents called “2020 Noble Semester - Học kỳ cao quý”<a class="note" href="https://youtu.be/WVHVwZa4wK8">https://youtu.be/WVHVwZa4wK8</a>, which included teachings by Sr. Bội Nghiem of Magnolia Grove Monastery.
 
@@ -82,8 +79,7 @@ On March 20, 2021, Wake Up Schools was awarded the *2021 Laureate for Education*
 
 The Education award recognizes a community which improves the education sector by bringing greater happiness and well-being to students and families. The award was presented by founder and president of the World Happiness Foundation, Luis Gallardo. He described Wake Up Schools as a ‘remarkable’ community, “What you are doing is so remarkable. Everybody knows Thich Nhat Hanh and the Plum Village community are building this sense of belonging so that we can create a more mindful, more peaceful and more positive world. You are a true example of what it means to create a world with more happiness, more consciousness and freedom for all.”
 
-{% image "article/br-phap-luu/Educators Workshop 2017-18 group photo-edit.jpg", "has-label" %}
-<p class="image-label">Educators Workshop 2017-18</p>    
+{% image "article/br-phap-luu/Educators Workshop 2017-18 group photo-edit.jpg", "", "Educators Workshop 2017-18" %}
 
 Luis expressed his appreciation for our sangha building, “The ways that you bring all these teachers together, creating a secure base, that is so important for teachers. You are masters.” Earlier that day, the Happy Teachers Sangha had met as part of the World Happiness Week, offering teachers from around the world an opportunity to connect, care for themselves and experience the practice.
 

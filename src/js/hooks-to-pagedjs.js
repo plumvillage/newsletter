@@ -10,6 +10,7 @@ function addClassToPageDIV(e, className) {
     }
 }
 
+
 // https://www.pagedjs.org/documentation/11-hooks/
 class MyHandler extends Paged.Handler {
     constructor(chunker, polisher, caller) {
@@ -29,7 +30,7 @@ class MyHandler extends Paged.Handler {
             console.log("do: PAGE-OF-verse-uyen-nguyen")
         }
 
-        if (node.nodeName == "IMG" && node.id) {
+        if (node.nodeName == "DIV" && node.id) {
             addClassToPageDIV(node, `PAGE-OF-${node.id}`)
         }
     }

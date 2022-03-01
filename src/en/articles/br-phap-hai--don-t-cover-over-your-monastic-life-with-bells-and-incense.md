@@ -9,8 +9,7 @@ author: Brother Chân Pháp Hải
 
 When I first arrived in 1996 I was touched by the joy and enthusiasm that everybody had, even with the very simple conditions at the time. For example, when travelling from Upper Hamlet to New Hamlet, we did not have enough transport, so many of us would sit on the floor in the back of the shopping van, on blankets.
 
-{% image "article/br-phap-hai/scan00012.jpg", "has-label" %}
-<p class="image-label">Br. Phap Hai ordaining as a novice.</p>
+{% image "article/br-phap-hai/scan00012.jpg", "", "Br. Phap Hai ordaining as a novice" %}
 
 When I ordained as a novice, the community was small – around 15 brothers – and the majority of us were of a similar age, so we had a lot of energy. I remember when we planted the trees and dug out the lotus pond in the middle of Upper Hamlet, Br. Phap Ung and Br. Phap Hien (Michael C.) ran jumping into the pond in their short robes, playing in the mud. There were many simple joys like that. Many trees that now provide shade around Upper Hamlet were planted as small saplings by the brothers on their ordination anniversaries. Going through everything together in such a small sangha fostered a sense of closeness.
 
@@ -76,8 +75,7 @@ A good mentor or elder from time to time will hopefully share things that we dis
 
 Our relationship with each other as elders and juniors is very much a reciprocal one. I encourage each of you to actively build spiritual friendships with your elders, taking every opportunity to naturally approach them, drink tea and connect with them, especially if they are different from you. You will then discover many amazing things about them. They will offer you many deep gifts. Most of all, if you build a Dharma friendship with them, you will discover that they are human. That will give you confidence in your Dharma because you will see the unique nature of the Dharma body and Dharma expression of each one - and then, most importantly, you will begin to see it in yourself.
 
-{% image "article/br-phap-hai/scan3.jpg", "has-label" %}
-<p class="image-label">Lamp Transmission, 2003</p>
+{% image "article/br-phap-hai/scan3.jpg", "", "Lamp Transmission, 2003" %}
 
 So please, do not underestimate the importance of this relationship between elders and juniors. Do not take this special gift for granted. It is one of the most precious transmissions of monastic culture. If we cultivate it properly by allowing ourselves to be challenged and supported by the sangha, welcoming confusion and doubt, joy, vulnerability, confidence, and guidance, then we will generate within ourselves all of the tools we need in order to go very far on the path. If you find yourself too busy in work or planning for retreats, those are the times that you should find time to hang out with your mentor or elders. Please make time in your day, and space in your mind to do so.
 

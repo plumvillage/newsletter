@@ -29,9 +29,7 @@ After the Summer Opening, the guests went home and I moved into the Cypress Buil
 
 Cypress Building had an attic. There were many buckets and basins up there to catch the rain. When it rained hard, there were never enough buckets in the right place and the rain would come through the ceiling and sometimes on to my bed. Plum Village did not have the money to repair the roof at that time.
 
-{% image "article/sr-chan-duc/Sr-Chan-Duc-the-bread-oven-edited.jpg", "has-label" %}
-<p class="image-label">Monsieur Mounet (left) and Robert Naeff, standing to the right of the bread oven</p>
-
+{% image "article/sr-chan-duc/Sr-Chan-Duc-the-bread-oven-edited.jpg", "", "Monsieur Mounet (left) and Robert Naeff, standing to the right of the bread oven" %}
 
 When I first came to the Lower Hamlet, there was a traditional brick bread oven. It was in a little stone building behind the Purple Cloud. It had been repaired by a Dutch O.I. member, Robert Naeff, who had knowledge of building this kind of bread oven, so we could actually make bread. You made a wood fire in the oven and when the wood began to turn into embers, you took them out and put them in a bucket. You had to be very careful doing this because if they fell onto the surrounding dry grass, it could cause a fire. Then you placed the uncooked bread in the heated oven. We had to try a few times in order not to burn the bread, but eventually we succeeded in making something edible.
 
@@ -59,8 +57,7 @@ Now when Thay is no longer physically there in Plum Village, my trust in the san
 
 We certainly have our ups and downs but we can sit together, begin anew, and go ahead while understanding each other more deeply. Very often it has been the difficulties that have emptied me of pride and self-confidence, and filled me with *non-self* confidence. This is how I understand “the kleśa are the bodhi, the afflictions are the awakening”.
 
-{% image "article/sr-chan-duc/Sr.ChanDuc.2-edited.jpg", "has-label" %}
-<p class="image-label">Sr. Chan Duc, Br. Phap An</p>
+{% image "article/sr-chan-duc/Sr.ChanDuc.2-edited.jpg", "", "Sr. Chan Duc, Br. Phap An" %}
 
 Some of the important moments of revelation seem to occur when I am sitting in a circle with other practitioners. I suddenly realize that I do not have a separate self and I can only be in relationship to others. When I first come into a circle, I usually arrive early and watch sisters coming in. As we become settled, I like to look around and feel my affection for each sister who is sitting there. I follow my breathing as I am doing this. I know that we all come from very different backgrounds and on the surface we all look and behave very differently. Nevertheless there is something very deep that connects us. It is rather like the trees in the forest where the roots of one are always connected to the roots of others. The simple fact that we live together twenty-four hours a day, and we have all made the same commitment to the monastic life seems to bond us in a special way.
 
@@ -74,8 +71,7 @@ I have been in Lower Hamlet for about twelve months now. I left Lower Hamlet in 
 
 I remember one time in the Lower Hamlet when I was a layperson and we were preparing to get in the car to go to visit Fleurs de Cactus in Paris. I had a deep aspiration to walk just like Thay walked, so I tried it out for myself while waiting for others to arrive. Maybe at the time it was more outer form than content, but over the years, the peace and joy that come from walking like this are authentic. Thay’s steps in Plum Village are what have made the atmosphere of Plum Village sacred, and of course we all want to keep this sacred atmosphere alive by continuing to walk mindfully.
 
-{% image "article/sr-chan-duc/Sr.ChanDuc.3-edited.JPG", "has-label" %}
-<p class="image-label">With sisters during earthcake wrapping, 2021</p>
+{% image "article/sr-chan-duc/Sr.ChanDuc.3-edited.JPG", "", "With sisters during earthcake wrapping, 2021" %}
 
 ## Letter to Thay, October 2021
 

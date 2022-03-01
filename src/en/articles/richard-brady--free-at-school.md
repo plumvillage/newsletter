@@ -13,8 +13,7 @@ author: Richard Brady
 
 In 1987 I found Thay’s book *The Miracle of Mindfulness* and started reading it. When I read the first story, about how to have unlimited time for yourself, I realized I wanted to bring this book into my maths classes and read it to my students. I was certain they would get much benefit from it. The students have so much work and there is so much pressure on them that having unlimited time for themselves would be the greatest gift I could possibly give them.
 
-{% image "article/richard-brady/R-and-KJ-at-Centro-Avalokita-2015_crop.jpg", "has-label" %}
-<p class="image-label">Richard and Sr. Kaira Jewel</p>
+{% image "article/richard-brady/R-and-KJ-at-Centro-Avalokita-2015_crop.jpg", "", "Richard and Sr. Kaira Jewel" %}
 
 Everyday I began maths class reading from the book. When I finished, my students said they would like another book, so I read *The Sun, My Heart*, which was kind of the sequel. For me it was like reading science fiction. I didn’t know anyone who lived their life the way Thay described, and I didn’t know how one could go about beginning to live that way. At the end of the year, the seniors went off to do their special projects and came back to report on them. I was touched by one of the seniors who reported on his two weeks at a Zen center in Washington, DC, where he went every day to meditate and to help out. He returned to school so invigorated; he was just beaming. The audience had an opportunity for a Q&A about his report. A student asked, “Chris, I can see that your life has been changed by your experience and that you spent a lot of time sitting on a cushion. Can you tell us any other way in which your life is different?” Chris thought for a minute and then replied, “There are many ways my life has been affected by my mindfulness practice. Most of them are very subtle and difficult to put into words, but I can tell you that I am less angry.” When I heard this, I thought, “Here is my teacher!” And I said to Chris, “I need to do what you’ve been doing. I need to begin a meditation practice.”
 
@@ -77,5 +76,4 @@ The Mindfulness in Education Network has over a thousand members all over the wo
 
 <div class="article-end"></div>
 
-{% image "article/richard-brady/53beedc0-edited-crop.jpg", "has-label" %}
-<p class="image-label">Educators together at the Morning Sun Mindfulness Center in New Hampshire</p>
+{% image "article/richard-brady/53beedc0-edited-crop.jpg", "", "Educators together at the Morning Sun Mindfulness Center in New Hampshire" %}

@@ -8,15 +8,23 @@ const sharp = require("sharp");
 const Image = require("@11ty/eleventy-img");
 Image.concurrency = 8; // default is 10
 const srcPath = "src/media/originals";
-const calligraphyPath = "calligraphy/article-titles/";
-var articleTitleCalligraphies = fs.readdirSync(`src/media/publish/${calligraphyPath}`)
+const calligraphyPath = "calligraphy/article titles/article-titles/";
+// const calligraphyPath = "calligraphy/article-titles/";
+var articleTitleCalligraphies = fs.readdirSync(`src/media/originals/${calligraphyPath}`)
+// var articleTitleCalligraphies = fs.readdirSync(`src/media/publish/${calligraphyPath}`)
 
 const processImages = true;
 
-async function imageShortcode(src, optClasses) {
+async function imageShortcode(src, optClasses = "", imgLabel = "") {
     let result = await imageData(src)
+    // let html = `<img id="${result.autoId}" class="${optClasses ? optClasses : ""}" src="${result.srcAttribute}" decoding="async">`
+    if (imgLabel != "")
+        optClasses += " has-label"
+
+    let html = `<div id="${result.autoId}" class="imgD ${optClasses}"><img src="${result.srcAttribute}" decoding="async">${imgLabel != "" ? `<p class="image-label">${imgLabel}</p>` : ""}</div>`;
+
     // img loading="lazy" is buggy! stops chrome from running pagedjs
-    return `<img id="${result.autoId}" class="${optClasses ? optClasses : ""}" src="${result.srcAttribute}" decoding="async">`;
+    return html;
 }
 
 async function imageSrcShortcode(src) {
@@ -150,7 +158,8 @@ module.exports = function(eleventyConfig) {
         e.hasCalligraphy = articleTitleCalligraphies.includes(`${fileSlug}.webp`)
         if (e.hasCalligraphy) {
             // console.log("found calligraphy for article: ", fileSlug)
-            e.calligraphyFile = `/media/${calligraphyPath}${fileSlug}.webp`
+            e.calligraphyFile = `${calligraphyPath}${fileSlug}.webp`
+            // e.calligraphyFile = `/media/${calligraphyPath}${fileSlug}.webp`
         }
         return e
     });

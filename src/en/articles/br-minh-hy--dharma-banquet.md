@@ -15,8 +15,7 @@ I heard this anecdote when the Venerable Abbot of Bao Lam Temple recounted it to
 
 At banquets, we often offer special dishes. If a meal only has rice and green vegetables, we cannot call it a banquet since they are eaten every day, every week, every month, the whole year round, and throughout our whole life. But there are people who cannot bear it if they don’t have rice, even just for one or two days. If that is so, then rice and green vegetables are not ordinary. They are in fact special because almost everyone can eat them and many cannot live without these staples. “Special dishes” at banquets are special, but they can only be eaten occasionally. We cannot eat them every day like the way we eat rice. As the Vietnamese proverb says - *No one loves us like rice does.* 
 
-{% image "article/br-minh-hy/IMG_0786.jpg", "has-label" %}
-<p class="image-label">Br. Minh Hy leading walking meditation in Upper Hamlet</p>
+{% image "article/br-minh-hy/IMG_0786.jpg", "", "Br. Minh Hy leading walking meditation in Upper Hamlet" %}
 
 The teachings of the Buddha are the same. There are Dharma doors that we practice every day and we come to find them very ordinary. But the truth is, they are very special because irrespective of place or situation, they can be easily practiced by everyone. 
 

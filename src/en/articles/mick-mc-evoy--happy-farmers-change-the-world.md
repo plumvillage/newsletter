@@ -67,8 +67,7 @@ In 2021 the Lower Hamlet Happy Farm was moved to new land (about 50 meters away)
 
 The New Hamlet Happy Farm manifested the most recently. Although it officially began in the spring of 2017, gardening and farming in New Hamlet was started many years before by Sr. Bao Nghiem who had a green thumb and planted many different kinds of vegetables in the greenhouses and outdoors. We also had a horticultural garden before it became part of the Happy Farm. The first sister in charge of the Happy Farm was Sr. Nguyet Nghiem who received a lot of support from the Happy Farm brothers in Upper Hamlet. Slowly, three long term friends joined the team and  one of them is now in training to become a nun and continues to support the Happy Farm.
 
-{% image "article/mick-mcevoy/Re-Wilding project_12-edited.jpg", "has-label" %}
-<p class="image-label">Mick</p>
+{% image "article/mick-mcevoy/Re-Wilding project_12-edited.jpg", "", "Mick" %}
 {% image "article/mick-mcevoy/Happy-Farm-3-e.jpg" %}
 
 ## Looking forwards

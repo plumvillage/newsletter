@@ -17,9 +17,7 @@ Thus, old and new stand together in harmony, complete each other in beauty and s
 
 Dear community, as a very young disciple, I want to offer you a gift - the story of my practice with one of the mental formations that I have inherited from a long stream of ancestors, their experiences, and inner formations. The name of this mental formation is attachment, and the name of this ongoing story, sometimes going up and sometimes down, is “Hello attachment, You Are My Friend”. 
 
-{% image "article/sr-trang-hien-nhan/EN/Planting-Tree-In-LH.jpeg", "has-label" %}
-<p class="image-label">Lower Hamlet tree planting day</p>
-
+{% image "article/sr-trang-hien-nhan/EN/Planting-Tree-In-LH.jpeg", "", "Lower Hamlet tree planting day" %}
 
 So, how does this story start? Earlier this year, mister attachment came once more to knock at the door of my heart and started singing his familiar song of fear and desire (the one I first listened to the day I came out of my mother’s womb). He sings to me very eloquently, with a powerful voice that can both rise very high and come down to the very low notes, accompanied by a whole orchestra. His songs can be captivating. I have to make a great effort in order not to get too absorbed in them. Mister attachment is a poet, he has a whole range of metaphors, rhymes, tones, and forms; he is grounded in a whole lineage of artists and his strength comes from the very core of human nature. He is also a philosopher capable of deep reflection, and a scientist, with proven evidence. His songs contain all of that. 
 
@@ -41,8 +39,7 @@ But it started to unfold like a fruit ripening in the store consciousness. Durin
 
 While writing the poem, I suddenly felt so happy. Images from the sutras came up in me, praising the sangha. I didn’t have to make any effort to write, the sentences just came up from store consciousness and surprised me. I felt great happiness because I was experiencing the fruits of entrusting myself to store consciousness and my deepening roots in the sangha.
 
-{% image "article/sr-trang-hien-nhan/EN/DSC9591-edited.JPG", "has-label" %}
-<p class="image-label">Sr. Trang Hien Nhan</p>
+{% image "article/sr-trang-hien-nhan/EN/DSC9591-edited.JPG", "", "Sr. Trang Hien Nhan" %}
 
 ## Taking refuge in the spiritual stream
 

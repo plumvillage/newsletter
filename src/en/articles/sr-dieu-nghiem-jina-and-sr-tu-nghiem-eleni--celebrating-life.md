@@ -8,8 +8,7 @@ We asked our beloved elders to share some of their memories of the early days of
 
 ## Life in community
 
-{% image "article/sr-tu-nghiem-and-sr-dieu-nghiem/Sr-tu-nghiem2-edited.jpg", "has-label" %}
-<p class="image-label">Inter-faith "nun's retreat", Lower Hamlet, 1995</p>
+{% image "article/sr-tu-nghiem-and-sr-dieu-nghiem/Sr-tu-nghiem2-edited.jpg", "", "Inter-faith “nun's retreat”, Lower Hamlet, 1995" %}
 
 ***Sr. Tu Nghiem*:** It was such an eye-opening experience for me (to live in a Vietnamese community in rural France), coming from Manhattan - a city with big concrete apartment buildings. It was a totally different experience, and I appreciated so much the way the Vietnamese mothers and fathers, the children, were happy and harmonious together.
 
@@ -43,8 +42,7 @@ I was accepted, and for me that was enough. In the year 2001, I was able to be T
 
 We already had the chiming clock in the dining hall. It would chime every fifteen minutes. Thay would stop, we’d all breathe, and it was very peaceful. Then Thay would continue with the Dharma talk. In those days it was Br. Nguyen Hai who was the cameraman. It’s amazing how they’ve preserved these early teachings. In those days Thay used a cassette recorder, and they’d have to stop and put in a new cassette and continue. 
 
-{% image "article/sr-tu-nghiem-and-sr-dieu-nghiem/SrDieuNghiem-edit.jpg", "has-label" %}
-<p class="image-label">From left: Srs. Lien Chieu, Khuong Y, Dieu Nghiem, Trien Nghiem</p>
+{% image "article/sr-tu-nghiem-and-sr-dieu-nghiem/SrDieuNghiem-edit.jpg", "", "From left: Srs. Lien Chieu, Khuong Y, Dieu Nghiem, Trien Nghiem" %}
 
 ***Sr. Jina*:** Thay’s teachings were very clear. With certain teachings that one can say in a particular way, Thay just said, “This is it.” We listened to Thay, we tried to understand and even if we didn’t understand, it was just being in Thay’s presence. That was enough and I had already been so nourished by the 21 Day Retreat (after my arrival) I thought, I have at least three years material (to practice with).
 
@@ -80,8 +78,7 @@ Now we have also become a training center for monastics. We’ve become the Inst
 
 Thay was always practicing walking meditation, from the very beginning, even before there was a sangha. (I remember one day) I was attending Thay, in the sense that if Thay needed anything I would do it, Thay didn’t have an attendant as such. I would walk behind Thay from the meditation hall in the Upper Hamlet to Thay’s hut to see if Thay needed anything, and Thay said something to me as we were walking and I just kept quiet. It was not a question but I didn’t give a counter remark or start a conversation or continue the conversation because I was walking and I thought well, we’re walking, why should I say something? And Thay stopped and said, “Do you want to stop while we’re talking?”, “Yes, Thay.” So we walked and then we talked in the hut, and from then on when you walked, you walked, when you wanted to talk, you stopped. That was a new practice that came in.
 
-{% image "article/sr-tu-nghiem-and-sr-dieu-nghiem/SrTuNghiem1-edited.jpg", "expandToRightBorder", "has-label" %}
-<p class="image-label">Sr. Tu Nghiem - center right</p>
+{% image "article/sr-tu-nghiem-and-sr-dieu-nghiem/SrTuNghiem1-edited.jpg", "expandToRightBorder", "", "Sr. Tu Nghiem - center right" %}
 
 ## Keeping the essence of Plum Village
 

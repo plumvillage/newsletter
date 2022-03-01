@@ -63,8 +63,8 @@ When we practice listening to the bell or walking meditation, we stop speaking a
 
 The Three Jewels are the energies of mindfulness and concentration. Every sound of the bell, every step with such energy can heal, nourish, and liberate. If you practice it well, every sound of the bell, every step can help you to be in touch with the Pure Land, in touch with no birth and no death. It isn’t difficult! We can all do it. It is not a distant wish. We can realize this path by the way we walk and with the bell of mindfulness. Together with the sangha, we can make the Pure Land become a reality in the present with every step we take, and by placing all our heart into the sound of the mindfulness bell.
 
-{% image "article/su-ong/PVM_2753_improved2_crop.JPG", "has-label" %}
-<p class="image-label">Calligraphy: “Sangha is a beautiful community that walks together on the joyful path”</p>
+{% image "article/su-ong/PVM_2753_improved2_crop.JPG", "has-label", "Calligraphy: “Sangha is a beautiful community that walks together on the joyful path”" %}
+<!-- <p class="image-label">Calligraphy: “Sangha is a beautiful community that walks together on the joyful path”</p> -->
 
 If we want to be a beloved disciple of the Buddha, then we should learn the art of sangha building. If I want to be a beloved student of the Buddha, then I also have to learn the art of sangha building. I would build a beloved sangha with many people who have the determination to practice. The result would be a great reward.
 
@@ -76,7 +76,6 @@ In the years 1954 to 1955, I had the opportunity to realize that dream for the f
 
 A few months ago while in Plum Village, I had a dream. It was very simple, but it made me very happy. I dreamt that I woke up in a temple or a practice center where I felt a very joyful atmosphere of practice. While still lying on the bed, I asked an attendant nearby, “What is it that is so joyful?” He answered, “Dear Thay, a number of brothers and sisters have just returned. We are cooking a pot of rice to eat together.”  Still in the dream, I sat up, stepped out into the temple courtyard and did walking meditation. I looked into each orchid, the bamboo grove, every tree and blossom. My heart was filled with joy as if there was a festival happening because I felt I was living in the heart of the sangha. There was nothing to it. Just a few brothers and sisters returning to the temple. Just a pot of rice being cooked so they could eat together. Just the orchids and the bamboo in the yard. But why was I so happy? Because we still had each other, because we had brotherhood and sisterhood. A simple dream, but it made me happy for many days. It is exactly that brotherhood and sisterhood, that simple happiness which propels us to practice for our entire life. A practitioner also needs food. The key food that helps us to practice our entire life is brotherhood and sisterhood.
 
-{% image "article/su-ong/DSC08780.jpg", "has-label" %}
-<p class="image-label">The Sixteen Buddhas in the Upper Hamlet</p>
+{% image "article/su-ong/DSC08780.jpg", "", "The Sixteen Buddhas in the Upper Hamlet" %}
 
 I want to transmit my happiness and experience to you, my students. If you want to be a happy practitioner, if you want to practice for your whole life and fulfill the career of a practitioner, then you should aspire to build a harmonious community with brotherhood and sisterhood. With such a community, not only will you be nourished, but you will also help the world more. Without his sangha, the Buddha would not have fulfilled his great career and handed it down to us. It is the same today. As descendants of the Buddha, we should make that aspiration: I vow to follow in the footsteps of the Buddha, to build a sangha that has brotherhood and sisterhood, a happy sangha where I can be nourished and help the world.

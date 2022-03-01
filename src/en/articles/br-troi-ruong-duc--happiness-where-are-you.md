@@ -14,8 +14,7 @@ This time last year, my father passed away. My mother and siblings needed my pre
 
 A few months ago, l moved to Son Ha Temple ("Foot of the Mountain Temple" near the Upper Hamlet). In the beginning, living there was not easy for me, especially when I did not know how to take care of myself. But thanks to the guidance and support of my mentors Brother Nguyen Tinh and Brother Phap Ao, I have been learning ways to take care of my suffering. I don’t know where I would be without them. I realized that it is easier to practice together with the sangha than to practice alone and that it is crucial to be nourished by the sangha’s collective energy and to take refuge in the sangha. The sangha and its practice can help me purify my body and mind every day. No matter how difficult or challenging life may be, the sangha is there to support me. 
 
-{% image "article/br-troi-ruong-duc/BrRuongDuc-edit.jpg", "has-label" %}
-<p class="image-label">Br. Nguyen Tinh (left), Br. Troi Ruong Duc</p>
+{% image "article/br-troi-ruong-duc/BrRuongDuc-edit.jpg", "", "Br. Nguyen Tinh (left), Br. Troi Ruong Duc" %}
 
 Son Ha is quite humid and cold compared to the Upper Hamlet. When winter came, my room became very cold. My mentor never uses the heater and l wished to learn his way of living. Thanks to his example and way of training, my body slowly began to accept the environment. My mentor knows that l am afraid of the cold. He kindly suggested that I change to a thicker quilt and the problem of keeping warm when sleeping was solved. I can now sleep peacefully at night. Sometimes I would think to myself: *Right this moment, there are many people, especially children, who are living in abject poverty, who do not have enough clothes for the winter. I am very lucky to have enough clothes to wear and to continue to practice.*
 
