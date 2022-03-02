@@ -6,13 +6,13 @@ author: Thầy Chân Pháp Linh
 <p class="editors-preface"><b>Trải nghiệm tương tức, niềm vui và sự không sợ hãi tại Hội nghị Liên hiệp quốc về khí hậu lần thứ 26 (COP-26).</b><br/>
 Bài viết được chuyển ngữ từ tiếng Anh</p>
 
-{% image "article/br-phap-linh/FDTfJpjWUAUYC_5_crop.jpg", "", "Thầy Pháp Dung & Thầy Pháp Linh" %}
-
 Bạn có nhớ khoảnh khắc bạn đi từ sự nhận thức rằng thiên nhiên đang bị tàn phá và hủy hoại đến quyết định rằng bạn sẽ hành động để chấm dứt sự hủy diệt đó không?
 
 Khi còn bé, một trong những chốn vô cùng linh thiêng đối với tôi là khu rừng trên những triền đồi gần nhà ở miền Bắc nước Anh. Vào mùa thu, cả gia đình chúng tôi thường tới đó hái nấm. Đó là những kỷ niệm trong số những ký ức hạnh phúc nhất trong thời thơ ấu của tôi. Khu rừng hoang sơ và đẹp đẽ trải xuống một thung lũng sâu uốn lượn, chạm khắc bởi một dòng nước lớn ào ạt chảy. Những chỗ tốt nhất để tìm nấm nằm hai bên bờ rêu phong dốc đứng mà bạn phải dùng tay bám chặt vào cỏ nếu không muốn ngã nhào xuống khe suối. Chúng tôi chưa từng gặp ai trong khu rừng đó. Có cảm giác như đây là chốn dành riêng cho chúng tôi vậy. Chúng tôi thường về nhà với những giỏ đầy những thứ nấm ngon lành: nấm mào gà, nấm sừng, nấm nhím và tất nhiên có cả nấm cèpes tuyệt vời! Trong trí nhớ của tôi vẫn còn sống động niềm vui đơn giản và tinh khiết khi khám phá ra những mảnh thân nấm lấp ló dưới những đám lá rụng, nép mình thật sâu trong lớp rêu dầy.
 
 Một năm nọ, chúng tôi trở lại đó và một nửa khu rừng đã không còn. Ở một phía của thung lũng, từng cái cây đã bị đốn ngã và kéo đi. Những gì còn lại trông giống như một bãi chiến trường. Ngay cả phía bên thung lũng chưa bị cắt cũng có cảm giác tổn thất, dường như những cái cây bên này đang để tang vậy. Nơi khu rừng ngã xuống, mặt đất đầy những vết sẹo rách nát do những máy móc lớn gây nên. Cả khu rừng như co rúm lại, đổ vỡ và thương tổn. Tôi cảm thấy đầy giận dữ và hoang mang. Làm sao có người lại làm điều này được? Tại sao người ta có thể tàn phá thánh đường xanh kỳ diệu này và để lại đằng sau một bãi đất hoang như vậy?
+
+{% image "article/br-phap-linh/FDTfJpjWUAUYC_5_crop.jpg", "", "Thầy Pháp Dung & Thầy Pháp Linh" %}
 
 Nhìn lại, tôi thấy rằng đó là những giây phút then chốt để tôi bước từ sự nhận thức rằng thiên nhiên đang bị tàn phá và hủy hoại, tới quyết tâm hành động để dừng lại sự hủy diệt môi sinh. Tôi nhất định tìm ra con đường để chúng ta có thể sống mà không phải cắt bỏ ngay cành cây mà chúng ta đang ngồi lên. Lần đầu tiên tôi nghe nhắc đến cụm từ “hâm nóng địa cầu” là năm tôi khoảng 12 tuổi. Kể từ đó, cuộc sống của tôi luôn đi cùng ý thức về sự gia tăng nhanh chóng quá trình hủy hoại đất Mẹ của chúng ta. Đối diện với mối đe dọa khổng lồ như vậy, trong suốt nhiều năm tôi đã gắng sức tìm cách tạo ra một sự thay đổi, và tôi đã bị thuyết phục rằng nền văn minh của chúng ta đang thực sự diệt vong. Chỉ tới khi tôi gặp Thầy và tăng thân, tôi mới bắt đầu nhìn ra hướng đi. 
 

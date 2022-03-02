@@ -13,7 +13,7 @@ Làng ngày xưa rất nghèo. Khi tới lần đầu, Bảo Nghiêm thấy Làn
 
 Cái mà Bảo Nghiêm thích nhất ở Làng là Làng rất Việt Nam và còn giữ được nhiều cách dạy dỗ, giáo dục theo truyền thống Việt Nam. Hồi ấy, Làng chỉ mở khóa tu mùa Hè vì chỉ khi đó các gia đình mới có thể mang con cháu tới được. Nhiều gia đình có cả ba thế hệ ông bà, cha mẹ và các cháu cùng đến. Vui lắm! Người già thì dọn một chỗ trong nhà để ngủ, người trẻ thì ngủ ngoài lều hết vì trời ấm.
 
-{% image "article/sr-bao-nghiem/DSC3854e.JPG" %}
+<!-- {% image "article/sr-bao-nghiem/DSC3854e.JPG" %} -->
 
 Thầy dạy cho người già cũng có việc làm, người trẻ hay con nít cũng đều có việc làm. Giả dụ người già sẽ giúp làm những ngày lễ giỗ Tổ tiên. Thầy chỉ cách để làm lễ, cách quỳ lạy, cách đặt bàn thờ ngoài trời, ông bà lạy trước, con cái lạy sau, rồi cháu chắt lạy sau nữa, y như ở Việt Nam… Người Việt Nam có truyền thống quý trọng tổ tiên, ông bà, cha mẹ nên khi được làm lễ như vậy họ đều hạnh phúc, sung sướng, tươi mát ra. Những thế hệ đó không bao giờ quên Làng, năm nào cũng về. Các em nhỏ thì được học tiếng Việt. Thầy chỉ cho các em lớn, đã biết chữ, dạy các em nhỏ hơn. Cũng tập viết, làm bài, cũng chấm điểm, trao phần thưởng, có giấy khen, đẹp lắm! 
 

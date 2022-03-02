@@ -19,7 +19,7 @@ Có tuần người Việt về rất đông, Thanh Tuyền xếp các bác vào
 
 Trong rừng của xóm Hạ có một cái hồ dài, nước trong veo. Cây trong rừng rất đẹp với những nhánh nương nhau, như tăng thân của chúng tôi vậy. Sau khóa tu mùa Hè chúng tôi có mười ngày làm biếng. Ngày làm biếng tôi thường đeo một cái túi nhỏ, trong đó có một miếng bánh mì, một trái chuối, một bình nước nóng rồi đi vào rừng. Tôi tìm một khoảng đất trống trải tọa cụ, ngồi thiền rồi ăn trưa. Sau đó tôi đánh một giấc ngủ thật dài cho đến khi chiều xuống thì tôi thu dọn đi về lại xóm. Thời sadini của tôi ngày xưa thật trong sáng, thánh thiện, chỉ biết tu thôi, chẳng biết gì.
 
-<div id="horizontal-img-column">
+<div class="horizontal-img-column">
 {% image "article/sr-hoa-nghiem/summer-retreat.jpg" %}
 {% image "article/sr-hoa-nghiem/20211212029-edited-crop.jpg" %}
 </div>

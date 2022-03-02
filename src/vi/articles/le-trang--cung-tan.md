@@ -1,9 +1,9 @@
 ﻿---
-title: Cung Tán
+title: Cung Tán Nhất Hạnh Thiền Sư Niết Bàn Nhập Diệu
 author: Hòa thượng Lệ Trang
 ---
 
-## Cung Tán Nhất Hạnh Thiền Sư Niết Bàn Nhập Diệu
+{% image "article/Venerable Le Trang/Cung-tan-e.jpg" %}
 
 <div class="verse"><p>Nhất niệm oai hùng trang sử Việt<br/>
 Hạnh tâm sáng toả đẹp ngàn phương<br/>

@@ -39,8 +39,7 @@ Gia đình xuất gia của tôi được Sư Ông đặt tên là Sen Trắng. 
 
 Hồ sen Hồng tại xóm Mới thì nhỏ nhất so với hồ sen các xóm. Có một chiếc cầu tre nho nhỏ bắc ngang qua hồ sen. Khi những bông sen đầu tiên đã nở là chị em chúng tôi thường ra ngồi ngắm sen, uống trà và kể chuyện cho nhau nghe. Đẹp làm sao khi ánh nắng mặt trời chiếu vào những đóa sen còn đọng những giọt sương. Những câu chuyện thường ngày nhưng nuôi dưỡng đời tu. Tôi thấy thật rõ rằng chị em nuôi nhau là đây. 
 
-{% image "article/sr-chuan-nghiem/su-co-Chuan-N.jpg", "noFloat" %}
-{% image "article/sr-chuan-nghiem/Sc-Chuan-N-4.JPG", "noFloat" %}
+{% image "article/sr-chuan-nghiem/Sc-Chuan-N-4.JPG" %}
 
 Trẻ em cũng rất thích và biết chơi với lá sen. Những năm chưa có đại dịch covid, mùa hè là mùa các em nhỏ rất hạnh phúc được ba mẹ đưa về Làng. Tôi thấy các em xin hái vài lá sen gần bờ, đổ nước vào và chơi với nhau. Lá sen cũng giống như lá khoai môn, không bị thấm nước ra ngoài. Thế là các em chơi với nhau suốt cả buổi trò lá sen đựng nước. Niềm vui của các em chỉ giản đơn vậy thôi nhưng lại là cả bầu trời tuổi thơ tươi đẹp.
 

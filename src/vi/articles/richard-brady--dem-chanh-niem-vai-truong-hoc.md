@@ -1,7 +1,8 @@
 ﻿---
-title: Hành trình đem chánh niệm vào lớp học
+title: Đem chánh niệm vào trường học
 author: Phỏng vấn thầy giáo Richard Brady
 ---
+<!-- title: Hành trình đem chánh niệm vào lớp học -->
 
 <p class="editors-preface">Richard Brady (Chân Pháp Kiều) là một giáo viên toán trung học đã nghỉ hưu, và là một giáo thọ cư sĩ của Làng Mai. Richard cũng là người hướng dẫn khóa tu, là nhà văn, nhà tư vấn giáo dục và điều phối viên của Chương trình Wake Up Schools (cấp độ II) ở Bắc Mỹ. Gần đây ông đã viết một cuốn sách có tựa đề “Walking the Teacher's Path with Mindfulness” (tạm dịch: “Bước đi trên con đường nhà giáo cùng chánh niệm”). Đây là đoạn trích của một cuộc phỏng vấn do Kaira Jewel Lingo thực hiện vào tháng 8 năm 2021, được tổ chức bởi Wake Up Schools, Làng Mai. Các bạn có thể xem toàn bộ cuộc phỏng vấn tại <a href="http://youtu.be/o68kYh2N_U4">youtu.be/o68kYh2N_U4</a>.<br/>
 Bài viết được chuyển ngữ bởi An Ban Team, Wakeup schools Việt Nam</p>
