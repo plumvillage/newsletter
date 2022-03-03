@@ -138,7 +138,7 @@ body {
     height: 307mm;
 }
 
-#title-page {
+#title-page, .pageBreak {
     break-after: page;
 }
 
@@ -527,32 +527,18 @@ article blockquote {
     margin-bottom: 14pt;
 	padding-left: 6pt;
     font-style: italic;
-    /* font-size: 105%; */
-    /* border-left: 1.5pt;
-	border-top: 0;
-	border-right: 0;
-	border-bottom: 0;
-    border-style: solid;
-    border-image:
-    linear-gradient(
-      to bottom,
-        transparent,
-        var(--color-bark-light) 15%,
-		var(--color-bark-light) 85%,
-        transparent
-    ) 1 100%; */
 }
 article blockquote i {
     font-style: normal;
 }
 
 article blockquote p:first-child::before {
-    position: absolute;
+    /* position: absolute;
     line-height: 20pt;
-    text-indent: -14pt;
+    text-indent: -14pt; */
     content: "“";
-    font-size: 200%;
-    color: var(--color-bark-light);
+    /* font-size: 200%; */
+    /* color: var(--color-bark-light); */
 }
 /* the end quote ” is inserted with javascript, because it needs to be before the <cite>, if such exists */
 
@@ -1269,4 +1255,48 @@ on other occasions, I would adjust the margin-top and height of .pagedjs_page_co
     padding-left: 11%;
     margin-left: auto;
     margin-right: auto;
+}
+
+
+
+
+/* those blockquotes are styled completely differently */
+.article-lang-mai-nam-qua > blockquote {
+    page-break-inside: avoid;
+    text-indent: 0pt;
+    margin-top: 11pt;
+    margin-bottom: 14pt;
+	padding-left: 0pt;
+    font-style: normal;
+}
+.article-lang-mai-nam-qua > blockquote > p > strong {
+    /* font-family: "CormorantSC-Bold"; */
+    /* font-size: 120%; */
+    padding-top: 1pt;
+    /* border-bottom: 1pt solid var(--color-bark-light); */
+    /* font-style: normal; */
+    /* font-weight: normal; */
+}
+.article-lang-mai-nam-qua > blockquote p {
+    text-align: left !important;
+}
+.article-lang-mai-nam-qua blockquote p:first-child::before {
+    content: none;
+}
+.article-lang-mai-nam-qua > blockquote > p > em {
+    display: block;
+    padding-top: 2pt;
+    padding-left: 12pt;
+}
+.article-lang-mai-nam-qua > blockquote > blockquote {
+    text-indent: 0pt;
+    margin-top: 4pt;
+    margin-bottom: 20pt;
+	padding-left: 7pt;
+    font-style: normal;
+}
+article blockquote span:lang(zh) {
+    font-size: 120%;
+    line-height: 110%;
+    font-style: normal;
 }
