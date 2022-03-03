@@ -13,8 +13,7 @@ Chúng tôi thành lập nhóm Wake Up Indonesia sau khoá tu 2010. Nhờ chươ
 
 Thầy đặt cho tôi pháp tự Chân Trời Đạo Bi. Bi trong chữ Từ Bi, nghĩa là tình thương sâu. Pháp tự này nhắc cho tôi nhớ sự thực tập là để giúp mình thấy được con đường của tình thương sâu. Trong tác phẩm *Đường xưa mây trắng* có một chương như thế. Tôi đã đọc đi đọc lại không biết bao nhiêu lần và nó trở thành chương yêu thích nhất của tôi. Chuyện kể về Siddharta và Yasodhara khi còn làm công tác xã hội. Yasodhara đã tận tình chăm sóc cho em bé bị ốm hơn một tuần mà đứa trẻ vẫn không qua khỏi, nàng đau xót vô hạn. Những lời an ủi của Siddharta cũng không thể nào xoa dịu được nỗi buồn trong lòng nàng. Cả hai người dù có giúp được dân chúng phần nào về vật chất, nhưng nỗi khổ niềm đau trong trái tim họ không vì thế mà nguôi ngoai. Không có ai chỉ cho họ cách vượt qua những cảm xúc đang giằng xé trong lòng hai người. Siddharta chưa tìm ra con đường thoát khổ. Chỉ đến khi Siddharta trở thành một bậc giác ngộ thì chàng mới giúp được người khác thoát khỏi những khổ đau trong tâm hồn.
 
-{% image "article/br-troi-dao-bi/9193025135868320367651704298813o.jpg", "noFloat" %}
-{% image "article/br-troi-dao-bi/Happy-Radish-Family2_edited.jpg", "noFloat" %}
+{% image "article/br-troi-dao-bi/9193025135868320367651704298813o.jpg" %}
 
 Trước khi xuất gia, tôi cũng là một tác viên xã hội, cũng chất chứa trong lòng khá nhiều thương tích. Những thương tích ấy đang trên đường được trị liệu. Thầy đã dạy khổ đau là chất liệu làm nên hạnh phúc. Nhờ đó mà tôi đã thấy được chính những tổn thương trong quá khứ đang nuôi dưỡng cho hiểu biết và thương yêu trong tôi ngày một lớn hơn. Chỉ cần ý thức mình đang bước đi trên con đường ấy, ngay lập tức tôi cảm thấy mình thật may mắn. Khi tình thương có mặt thì hạnh phúc có mặt và mình sẽ không còn sợ hãi nữa. Câu thần chú của tôi là: “Thở vào, đã có đường đi rồi. Thở ra, con không còn lo sợ”.
 
@@ -28,13 +27,13 @@ Thầy đã viết rất nhiều thư cho đệ tử. Trong một lá thư Thầ
 
 “Mình thấy được con đường chưa?” là một công án vẫn theo tôi trên suốt chặng đường. Thỉnh thoảng tôi tự hỏi bản thân nhưng cũng không chắc câu trả lời. Tôi biết mình còn lắm niềm đau, buồn phiền và sợ hãi. Tuy vậy, mỗi khi khi tiếng chuông vang lên, tôi thầm niệm “nghe chuông phiền não tan mây khói”, tôi biết nỗi sợ cùng niềm đau trong tôi đang dần được chuyển hóa.
 
-{% image "article/br-troi-dao-bi/DSC6747-edited.JPG" %}
-
 ## Ban chăm sóc nhóm Wake Up châu Âu
 
 Năm 2018, khóa tu Đại sứ Wake Up (Wake Up Ambassadors retreat) đầu tiên được tổ chức tại Làng Mai. Trong khóa này, để được vui chơi, gắn kết và học hỏi lẫn nhau, chúng tôi đã thành lập nhóm nòng cốt cho Wake Up châu Âu với tên gọi mới là ‘Oomph” (viết tắt của *Organism for Optimising Many People’s Happiness*, nghĩa là một cơ thể có nhiệm vụ làm cho nhiều người hạnh phúc).
 
 Oomph không phải là một tổ chức mà là một cơ thể. Khi các thành viên nòng cốt của tăng thân Wake Up (còn được gọi là “Wake Up Ambassadors”, các vị đại sứ của tăng thân Wake Up) có một nơi để trở về nương tựa, các bạn sẽ có cơ hội nuôi dưỡng hạnh phúc trong tự thân. Và khi có đủ hạnh phúc, các bạn mới có thể giúp các thành viên khác trong tăng thân cũng như giúp cho mọi người được hạnh phúc.
+
+{% image "article/br-troi-dao-bi/Happy-Radish-Family2_edited.jpg" %}
 
 Hiện tại Oomph có các thành viên: Annica Bauer, Verena Böttcher, Toos Vergote, Arlind Reuter, Fransisco Vogel, Jan-Jitze Hees, sư cô Tảo Nghiêm, Xương Nghiêm, Trăng Lộc Uyển, sư chú Đức Niệm và tôi. Hằng tháng, các thành viên gặp nhau một lần qua Zoom. Đến cuối năm 2019 chúng tôi thành lập nhóm điều phối quốc tế của Wake Up (Wake Up International Co-ordinators). Mỗi nhóm Wake Up trên thế giới sẽ cử một liên lạc viên, trong đó có bạn Jazz đại diện nhóm châu Úc, bạn Lewis đại diện nhóm Bắc Mỹ và bạn Annica đại diện nhóm châu Âu.
 
@@ -61,6 +60,8 @@ Mỗi lần đọc tụng đến câu này thì lòng tôi lại xúc động. B
 ## Bụt và Thầy đã chỉ cho ta một con đường
 
 Thầy và tăng thân đã làm mới đạo Bụt, làm cho đạo Bụt gần gũi hơn với người trẻ. Phong trào Wake Up là một phần của cuộc cách mạng ấy. Wake Up đã trở thành nơi nương tựa tinh thần, là sân chơi tâm linh, thu hút rất nhiều người trẻ khắp nơi trên thế giới. Wake Up là viên ngọc của truyền thống Làng Mai. Những buổi pháp đàm với các bạn trẻ trong nhóm Wake Up là những giây phút hết sức quý báu. Tôi được lắng nghe những kinh nghiệm của mọi người, học cách các bạn áp dụng sự thực tập vào đời sống hàng ngày, được chia sẻ sự tu tập của mình. Và đó cũng là cơ hội cho những cái thấy mới nảy mầm.
+
+{% image "article/br-troi-dao-bi/DSC6747-edited.JPG" %}
 
 Trong tác phẩm *Đường xưa mây trắng*, có đoạn nói về tôn giả Ananda. Tôn giả vẫn chưa giác ngộ mà Bụt thì không còn trụ thế được bao lâu nữa. Thấy Anada sụt sùi, Bụt ân cần căn dặn tôn giả: *“Ananda, đừng buồn khổ nữa, Như Lai đã từng nhắc thầy là vạn pháp vô thường, có sinh thì có diệt, có thành thì có hoại, có hợp thì có tan. Làm sao có sinh mà không có diệt cho được? Làm sao có thành mà không có hoại cho được? Làm sao có hợp mà không có tan cho được? Ananda, mấy mươi năm nay thầy đã thân cận Như Lai, săn sóc Như Lai với tất cả tấm lòng thương mến của thầy. Thầy đã đem hết lòng hết sức để giúp đỡ Như Lai, Như Lai rất cám ơn thầy, công đức của thầy rất lớn nhưng Ananda, thầy có thể đi xa hơn, nếu thầy cố gắng thêm chút nữa thì thầy sẽ thoát được sinh tử, đạt tới tự do, và vượt thoát mọi sầu khổ và bi ai”.*
 

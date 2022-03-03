@@ -853,21 +853,8 @@ h1#the-true-sangha + .author, h1#tang-than-dich-thuc + .author {
     text-shadow: white 1px 0 5px
 }
 
-html:lang(en) .imgD#articlebr-troi-thien-chi5brot {
-    width: 90%;
-    margin-right: 5%;
-}
 
-html:lang(vi) .imgD#articlebr-troi-thien-chi5brot {
-    width: 82%;
-    margin-right: 11%;
-}
 
-html:lang(vi) .imgD#articlebr-troi-thien-chi21767317541562549611291283397034335052574932n{
-    float: left;
-    margin-right: 6pt;
-    width: 60%;
-}
 
 /* //////////////////////////////////////////////// */
 /* /////////////  FULL-PAGE IMAGES  /////////////// */
@@ -912,8 +899,12 @@ html:lang(vi) .imgD#articlerichard-brady53beedc0-edited-crop {
     width: 70%;
 }
 
-.imgD#articlesr-chan-khong-letter-to-ThaySCCK-with-MLK-and-TNH-statue-high-quality-e-crop {
+html:lang(en) .imgD#articlesr-chan-khong-letter-to-ThaySCCK-with-MLK-and-TNH-statue-high-quality-e-crop {
     width: 50%;
+    margin-bottom: 0;
+}
+html:lang(vi) .imgD#articlesr-chan-khong-letter-to-ThaySCCK-with-MLK-and-TNH-statue-high-quality-e-crop {
+    width: 75%;
     margin-bottom: 0;
 }
 html:lang(en) .imgD#articlebr-phap-huuIMG2211e {
@@ -948,7 +939,8 @@ html:lang(vi) .imgD#articlebr-phap-huuIMG2211e {
 .imgD#articlerichard-bradyR-and-KJ-at-Centro-Avalokita-2015crop,
 .imgD#articlebr-phap-ung8826595315246533743600235026231803661254656ne,
 .imgD#articlebr-phap-haiThay-with-Br-Phap-Hai-e,
-.imgD#articlebr-phap-linhFDTfJpjWUAUYC5crop
+.imgD#articlebr-phap-linhFDTfJpjWUAUYC5crop,
+.imgD#articlebr-troi-thien-chi5brot
 {
     float: none !important;
     margin-left: auto;
@@ -969,7 +961,24 @@ html:lang(vi) .imgD#articlebr-phap-huuIMG2211e {
 .imgD#articlerichard-bradyR-and-KJ-at-Centro-Avalokita-2015crop {
     width: 80% !important;
 }
+html:lang(en) .imgD#articlebr-troi-thien-chi5brot {
+    width: 70%;
+}
+html:lang(vi) .imgD#articlebr-troi-thien-chi5brot {
+    width: 50%;
+}
 
+span.lmnq {
+    font-style: italic;
+    font-weight: 400;
+}
+
+html:lang(vi) .imgD#articlebr-troi-thien-chi21767317541562549611291283397034335052574932n{
+    float: left;
+    margin-right: 8pt;
+    margin-bottom: 3pt;
+    width: 100%;
+}
 
 
 

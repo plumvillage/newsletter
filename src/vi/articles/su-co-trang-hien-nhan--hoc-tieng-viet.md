@@ -16,9 +16,9 @@ Hai năm về trước, khi mới xuất gia, con trở nên rất quan tâm đ�
 
 Rồi một buổi tối, lúc con đang hát “Sài Gòn đẹp lắm! Sài Gòn ơi! Sài Gòn ơi!” thì con gặp sư cô Thanh Ý (lúc đó sư cô là y chỉ sư của con). Sư cô tỏ ra ngạc nhiên lắm và sư cô chia sẻ một chút với con về bài hát đó cũng như về bối cảnh chính trị lúc đó. Con được hiểu rằng con nên hát các bài về sự thực tập thay vì các bài khác. 
 
-{% image "article/sr-trang-hien-nhan/VI/IMG1509-e.JPG" %}
-
 Trong con, có một em bé vẫn còn đang tìm kiếm một gia đình thương yêu để được nương tựa. Con học tiếng Việt tức là con học nghe em bé trong con, con học hiểu, học ôm ấp em bé và con chơi với em bé. 
+
+{% image "article/sr-trang-hien-nhan/VI/IMG1509-e2.JPG" %}
 
 Với em bé trong con, thì quý sư cô, các sư chị người Việt là hình ảnh của một gia đình có sự ôm ấp, có tình thương, có sự tươi mát, cái đẹp, một trái tim đơn giản và trong trắng. Em bé trong con thấy quý sư cô đẹp như các thiên thần và hiền lành như một cánh đồng hoa. 
 
@@ -34,7 +34,7 @@ Vì vậy, tiếp xúc được với quý sư cô người Việt giúp con tì
 
 Con chia sẻ như vậy để nói lên lòng biết ơn của con. Quả thật là trong đời sống hàng ngày, con chưa biểu lộ được nhiều niềm biết ơn này. Con vẫn bị ảnh hưởng bởi các vết thương của quá khứ. Cho nên, để con có thể biểu lộ lòng biết ơn, con thường vào thiền đường và thực tập Sám pháp địa xúc hoặc là con viết một cái gì đó trong quyển sổ Công phu thôi. 
 
-{% image "article/sr-trang-hien-nhan/VI/Tet_2021_21.jpg" %}
+{% image "article/sr-trang-hien-nhan/VI/Tet_2021_21-e.jpg" %}
 
 Để kết thúc, con xin chia sẻ một bài thơ “con cóc” mà con đã tập làm trong thời gian học tiếng Việt (cụm từ “bài thơ con cóc” con không thể nào nhớ để viết được nên con đã nhờ các sư cô viết cho con qua tiếng Việt trong khi con nói tiếng Anh).
 

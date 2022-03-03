@@ -25,8 +25,6 @@ I stayed on as staff for the Summer Retreat and was lucky to be in the Lower Ham
 
 I’m always moved by Thay’s dedication to creating environments where people can find peace and healing, connect with nature and community, have the chance to look deeply, and learn ways to handle suffering and touch seeds of happiness and well-being.
 
-{% image "article/hisae-matsuda-and-terry-barber/ParallaxTeamInPV.jpg", "", "Members of the editorial board" %}
-
 **Hisae:** How did you come to be at Parallax, Terry?
 
 **Terry:** While living in Plum Village and Green Mountain, I’d sometimes visit my family in California and spend time in the Parallax office, where I continued my work of transcribing Thay’s Dharma talks. In spring 2001, my father entered his last illness and I went home to be with him. He passed away at the end of the year. I needed dental work and a job to pay for it, and Parallax seemed the logical place to apply. I began a few months later, packing and shipping book orders.
@@ -40,6 +38,8 @@ I was always so grateful to you, Terry, and to everyone at Parallax for holding 
 Terry, what are the changes you’ve seen at Parallax over the years and what are your aspirations for its future? 
 
 **Terry:** Bridging distance, time zones, and ways of life between a monastery in France and a publishing office in California has always held challenges. It’s been heartening to see the Plum Village and Parallax sanghas mature over the years, and to see the next generation of Plum Village teachers emerge and become authors. Significant changes have come with you, Hisae, as publisher. A publishing professional whose heart is with Thay’s teachings and the Plum Village community is just what Parallax needed. From the outset you’ve dedicated yourself to growing a more integrated relationship with Plum Village and their editorial team. Parallax has become a tighter, more professional and transparent operation with a happy, caring staff who work together as a team. You have a keen sensibility for which books are appropriate for Parallax to publish, and you’ve acquired and edited some wonderful books. You’ve also ensured we’re regularly publishing Thay’s scholarly works on our Palm Leaves imprint. I’d like to see the press continue in this same direction, helping to preserve Thay’s legacy, collaborating with Plum Village, and serving the international community with nourishing books. 
+
+{% image "article/hisae-matsuda-and-terry-barber/ParallaxTeamInPV.jpg", "", "Members of the editorial board" %}
 
 At Plum Village I found a tradition to be rooted in and a way ahead. At Parallax - as so many people meet Thay through books - I’ve found a place where I can play a small role in making the Plum Village teachings more widely available, helping us as individuals and as a global community to navigate the times we’re in.
 

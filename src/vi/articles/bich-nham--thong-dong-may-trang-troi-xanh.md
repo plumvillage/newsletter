@@ -1,11 +1,11 @@
 ﻿---
 title: Thong dong mây trắng trời xanh
-author: Đại chúng Bích Nham
+author: Đại chúng Tu viện Bích Nham
 ---
 
-Đại chúng Tu viện Bích Nham
+Thế rồi tuyết cũng rơi trắng xóa Tu viện Bích Nham những ngày cuối năm, những ngày mùa đông đặc trưng, những ngày an cư đặc biệt của năm nay. Đây cũng là lúc chúng tôi vẫy tay chào một người sư chị yêu quý của tăng thân để sư chị thanh thản về với Bụt, về với đất Mẹ, với hóa thân mới khỏe mạnh an lành. Sư chị như đám mây rong chơi ngày hôm qua, sáng nay đã trở thành cơn mưa tuyết phủ đầy nơi đây.
 
-Thế rồi tuyết cũng rơi trắng xóa Tu viện Bích Nham những ngày cuối năm, những ngày mùa đông đặc trưng, những ngày an cư đặc biệt của năm nay. Đây cũng là lúc chúng tôi vẫy tay chào một người sư chị yêu quý của tăng thân để sư chị thanh thản về với Bụt, về với đất Mẹ, với hóa thân mới khỏe mạnh an lành. Sư chị như đám mây rong chơi ngày hôm qua, sáng nay đã trở thành cơn mưa tuyết phủ đầy nơi đây. 
+{% image "article/sr-chi-nghiem/Sc-Chi-Nghiem.jpeg" %}
 
 Thời gian vừa qua, đại chúng Bích Nham từ sư mẹ lớn nhất cho đến sư em nhỏ nhất đều chung tay chăm sóc, hỗ trợ sư cô Chỉ Nghiêm trong những ngày bệnh nặng cuối đời. Đây thật sự là công trình của cả đại chúng: Những bàn tay chăm sóc tận tình của quý sư cô xóm Hạc Trắng, sự yểm trợ hết lòng của quý thầy xóm Tùng Xanh, cho đến hai tu viện Mộc Lan và Lộc Uyển cũng gửi hai vị sứ giả chữa lành là sư cô Bội Nghiêm và Hướng Nghiêm đến tiếp sức cho đại chúng Bích Nham. Trải qua cơn đau này của sư chị, chúng con thấm hơn tình huynh đệ và sự nâng đỡ như những cái nắm tay không bao giờ muốn buông lơi của những anh chị em đồng tu trong tăng thân mình. 
 

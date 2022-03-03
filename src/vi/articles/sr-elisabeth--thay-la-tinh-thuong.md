@@ -56,4 +56,6 @@ Bao mái đầu vàng, nâu khắp các nẻo<br/>
 Cam lộ một dòng biếc <br/>
 Thấm nhuận trần gian</p></div>
 
+<div class="article-end"></div>
+
 {% image "article/sr-giac-nghiem/Su-me-Giac-Nghiem-2-edited.jpg" %}

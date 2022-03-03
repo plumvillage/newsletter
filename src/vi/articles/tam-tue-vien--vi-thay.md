@@ -1,5 +1,5 @@
 ﻿---
-title: "Thiền sư Thích Nhất Hạnh: Vị Thầy thuyết pháp bằng sự tĩnh lặng"
+title: Vị Thầy thuyết pháp bằng sự tĩnh lặng
 author: Tâm Tuệ Viên
 ---
 
@@ -8,6 +8,8 @@ author: Tâm Tuệ Viên
 Tháng 9 năm 2018, tôi tham gia một khóa tu học tại Làng Mai Thái Lan do Thiền sư Thích Nhất Hạnh lập ra. Trong khóa tu học đó, ngoài những giờ yên lặng ngồi thiền, chúng tôi còn thực tập ăn cơm trong yên lặng, thiền hành trong yên lặng, nghe giảng pháp trong yên lặng. Cứ 15 phút, chuông đồng hồ lại điểm ba tiếng. Khi nghe chuông, ai đang đi thì dừng đi, ai đang nói thì dừng nói, ai đang ăn thì dừng ăn, ai đang rửa bát thì dừng rửa bát. Tiếng chuông nhắc nhở mọi người dừng lại, lặng yên quan sát hơi thở của chính mình. Ngoài ra, từ chín giờ tối đến khoảng bảy giờ sáng ngày hôm sau là thời khóa “Im lặng hùng tráng”. Tất cả mọi người ở Làng giữ yên lặng hoàn toàn, trường hợp thật cần thiết phải nói thành lời thì nói rất khẽ và ngắn để không ảnh hưởng đến mọi người xung quanh. 
 
 Ngày thứ năm của khóa tu là một kỷ niệm không thể nào quên đối với tôi khi được diện kiến Thiền sư. Hôm đó thời tiết rất đẹp, sức khỏe của Thiền sư cũng tốt lên sau một thời gian dài tĩnh dưỡng trong tịnh thất riêng. Vậy nên, các vị thị giả đưa Thiền sư ra ngoài, đi thiền hành và dùng bữa sáng tại khu nhà ăn cùng với quý thầy, quý sư cô và toàn thể đại chúng. Lần đầu tiên được diện kiến Thiền sư, nhiều người trong đoàn bật khóc vì xúc động. Với ánh mắt sáng, trong và định tĩnh, Thiền sư chăm chú nhìn từng người rồi giơ cánh tay còn khỏe lên xá chào đại chúng rất trang nghiêm. Thiền sư giữ sự trang nghiêm như vậy từ khi Người xuất hiện cho đến khi Người rời đi. Pháp thân tĩnh lặng của Người chính là bài pháp không lời tuyệt diệu dành cho tôi và những ai có mặt ở Làng ngày hôm đó.
+
+{% image "article/tam-tue-vien/DSC_6069-e.jpg" %}
 
 Khu nhà ăn của Làng được thiết kế rất thoáng, không có tường ngăn cách với thiên nhiên. Như mọi ngày, chúng tôi xếp hàng ngay ngắn đi lấy đồ ăn rồi tìm một chỗ ngồi cho mình, chờ khai chuông để bắt đầu thọ nhận bữa sáng. Chỉ khác là sáng nay có sự hiện diện của Thiền sư. Tôi không nghe được bất cứ một tiếng động bát, đũa, thìa hay tiếng nhai thức ăn nào, tất cả đều im phăng phắc. Mọi người đặt toàn tâm toàn ý vào từng cử động của mình, dù rất nhỏ. Tôi nghe thấy tiếng xào xạc của gió đùa trên lá, tôi nghe tâm mình thỉnh thoảng lại trồi lên ý muốn rời mắt ra khỏi bát cơm trước mặt để ngước nhìn về phía Thiền sư. Một sự tĩnh lặng gần như tuyệt đối của không gian giúp tôi có thể nhận diện rất rõ các ý phát khởi trong tâm mình. 
 
