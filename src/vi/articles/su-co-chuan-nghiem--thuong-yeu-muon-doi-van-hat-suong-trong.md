@@ -5,7 +5,7 @@ author: Sư cô Chân Chuẩn Nghiêm
 
 Vừa về đến phòng tôi đã nhìn thấy gói bánh crêpe để trên bàn. Nhìn nét chữ quen thuộc không thể lẫn vào đâu, tôi biết ngay ai là người gửi. Cầm gói bánh lên mời sư chị cùng phòng, tôi không quên nói thêm: Tại Nghiêm gửi quà cho em chị ạ. Nét chữ của Tại Nghiêm đây mà.
 
-Tôi qua Học viện EIAB đã hơn hai năm. Học viện và Làng không cách xa nhau lắm nên thỉnh thoảng vẫn có quý thầy, quý sư cô đi qua đi lại để làm giấy tờ cũng như những công việc khác. Mỗi khi có xe qua về thì việc diễn ra đầu tiên là… gửi quà và nhận quà. Tôi xưa nay ít gửi quà cho ai nhưng lại được nhận rất nhiều quà từ các sư em, sư chị đến quý sư mẹ Bảo Nghiêm, sư mẹ Từ nghiêm, sư cô Tuệ Nghiêm… Tôi càng thêm thấm thía câu: tình thương không cần điều kiện. Tôi rất trân quý tình thương này và thầm nhắc: mình cũng cứ thương các sư em như quý sư mẹ, quý sư cô lớn đã thương mình, dù cho sư em đó có những tính cách nhiều khi làm mình chưa được hài lòng lắm. 
+Tôi qua Học viện EIAB đã hơn hai năm. Học viện và Làng không cách xa nhau lắm nên thỉnh thoảng vẫn có quý thầy, quý sư cô đi qua đi lại để làm giấy tờ cũng như những công việc khác. Mỗi khi có xe qua về thì việc diễn ra đầu tiên là… gửi quà và nhận quà. Tôi xưa nay ít gửi quà cho ai nhưng lại được nhận rất nhiều quà từ các sư em, sư chị đến quý sư mẹ Bảo Nghiêm, sư mẹ Từ Nghiêm, sư cô Tuệ Nghiêm… Tôi càng thêm thấm thía câu: tình thương không cần điều kiện. Tôi rất trân quý tình thương này và thầm nhắc: mình cũng cứ thương các sư em như quý sư mẹ, quý sư cô lớn đã thương mình, dù cho sư em đó có những tính cách nhiều khi làm mình chưa được hài lòng lắm. 
 
 Nhớ về Làng, về xóm Mới, từng khung trời tươi đẹp như hiện về trong tôi.
 
@@ -41,7 +41,7 @@ Hồ sen Hồng tại xóm Mới nhỏ nhất so với hồ sen các xóm. Có m
 
 Trẻ em cũng rất thích và biết chơi với lá sen. Những năm chưa có đại dịch covid, mùa hè là mùa các em nhỏ rất hạnh phúc được ba mẹ đưa về Làng. Tôi thấy các em xin hái vài lá sen gần bờ, đổ nước vào và chơi với nhau. Lá sen cũng giống như lá khoai môn, không bị thấm nước ra ngoài. Thế là các em chơi với nhau suốt cả buổi trò lá sen đựng nước. Niềm vui của các em chỉ giản đơn vậy thôi nhưng lại là cả bầu trời tuổi thơ tươi đẹp.
 
-Nhắc đến hồ sen làm tôi nhớ đến Sư Ông. Sư Ông có thể trở về với tuổi thơ bất cứ lúc nào. Mùa đông ở Làng, khi hồ sen bị đóng băng trên mặt Sư Ông rất thích. Đang đi, Sư Ông dừng lại và ngồi xuống cạnh hồ sen để cầm miếng băng lên. Sư Ông thường hay dạy mây, tuyết và nước đều là một và thiên nhiên đã cho tôi thấy thật rõ điều này. Bây giờ tôi đang ở EIAB, tuyết rất nhiều. Đôi khi tôi cũng bắt chước Sư Ông, nghịch một chút để chơi với tuyết và với huynh đệ.
+Nhắc đến hồ sen làm tôi nhớ đến Sư Ông. Sư Ông có thể trở về với tuổi thơ bất cứ lúc nào. Mùa đông ở Làng, khi hồ sen bị gđóng băng trên mặt Sư Ông rất thích. Đang đi, Sư Ông dừng lại và ngồi xuống cạnh hồ sen để cầm miếng băng lên. Sư Ông thường hay dạy mây, tuyết và nước đều là một và thiên nhiên đã cho tôi thấy thật rõ điều này. Bây giờ tôi đang ở EIAB, tuyết rất nhiều. Đôi khi tôi cũng bắt chước Sư Ông, nghịch một chút để chơi với tuyết và với huynh đệ.
 
 ## Món quà Noel đặc biệt
 
@@ -51,7 +51,7 @@ Vài năm sau, cũng một mùa Noel tôi đã nhận được tới chín đôi
 
 Khi tôi đang ngồi lạch cạch những dòng chữ này thì cũng sắp tới Noel. Tôi sẽ dành tình thương cho huynh đệ - tình thương như tôi đã được nhận. Tôi thấy thương tất cả các anh chị em, vì có huynh đệ cho nên mới có tôi. Chúng ta là con một nhà, cùng mang một màu áo, cùng đi chung một con đường, cùng chung một lý tưởng. Thương lắm áo nâu ơi! 
 
-## Con là người có phước
+#g# Con là người có phước
 
 Nhìn lại chặng đường 13 năm xuất gia, tôi thấy mình may mắn lắm. Tôi vẫn tin là nhờ vào phước đức của tổ tiên, ông bà, cha mẹ mà tôi có phước duyên được gặp tăng thân, được làm học trò của Sư Ông. Làm một người tu là tôi thấy hạnh phúc nhất. 
 
