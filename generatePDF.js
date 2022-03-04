@@ -106,7 +106,7 @@ async function generatePDF(url, outputFile, onFinished = () => {}) {
     pdfStream.pipe(writeStream);
     pdfStream.on('end', async () => {
         await browser.close();
-        downsample(outputFile, 400, 1.5)
+        // downsample(outputFile, 400, 1.5)
         onFinished()
     });
 }
@@ -138,7 +138,7 @@ if (generateArticles) {
     Array(3).fill().forEach(processArticle);
 }
 
-// generatePDF("http://fee:8080/vi/articles-print-preview/su-ong-lang-mai--tang-than-dich-thuc/", `MYOUTPUT.pdf`)
+generatePDF("http://fee:8080/vi/articles-print-preview/su-ong-lang-mai--tang-than-dich-thuc/", `./builds/MYOUTPUT.pdf`)
 
 
 

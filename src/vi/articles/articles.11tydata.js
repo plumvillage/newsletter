@@ -1,5 +1,4 @@
 // https://www.11ty.dev/docs/data-template-dir/
-// https://www.11ty.dev/docs/data-js/
 module.exports = {
     pagination: {
         data: "builds",
@@ -11,6 +10,6 @@ module.exports = {
     permalink: "/{{ locale }}/{{ builds[pagination.pageNumber] }}/{{ page.fileSlug }}/",
     locale: "vi",
     size: "A4",
-    bleed: "5mm",
-    marks: "crop",
+    bleed: "0mm",
+    marks: "none",
 }

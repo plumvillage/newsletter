@@ -198,9 +198,11 @@ figure#articlesu-ongTheTrueSangha2 {
     z-index: -1;
     width: calc(var(--pagedjs-pagebox-width) + (var(--bleed)) * 2);
     left: calc((var(--pagedjs-margin-left) + var(--bleed)) * -1);
-    {# *2 for PDF output ... bug? #}
-    top: calc((32pt + var(--bleed)) * -1) !important;
-    {# top: calc((var(--pagedjs-margin-top) * 2 + var(--bleed)) * -1) !important; #}
+    {# in PDF output, setting "top" <0 does not work! we must use "bottom" as a workaround (ugly fixed setting for A4) #}
+    bottom: calc(186mm - var(--pagedjs-footnotes-height) - var(--pagedjs-margin-bottom));
+    {# in theory, more variables are: pagedjs-pagebox-height, imgHeight #}
+    
+    {# top: calc((var(--pagedjs-margin-top) + var(--bleed)) * -1) !important; #}
     mask-image: linear-gradient(to top,
         {% easingGradient 0, 35 %}
     );
