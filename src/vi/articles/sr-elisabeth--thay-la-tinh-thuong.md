@@ -3,8 +3,7 @@ title: Thầy là Tình thương
 author: Sư cô Chân Giác Nghiêm
 ---
 
-*Bài viết được BBT chuyển ngữ từ tiếng Pháp*
-<!-- ## Ngày đầu về Làng -->
+<p class="editors-note">Bài viết được BBT chuyển ngữ từ tiếng Pháp</p>
 
 Nghĩ về Làng Mai những ngày đầu giống như mở ra một cuốn sách linh thiêng và mầu nhiệm, nơi hạnh phúc và bình an cùng nhau bước, tay trong tay. 
 

@@ -1150,7 +1150,16 @@ figure#articlefor-chaptersHandsReadingOut2 {
     left: 10%;
 }
 
-
+.editors-note {
+    font-size: 110%;
+    font-style: italic;
+}
+.editors-note:before {
+    content: '(';
+}
+.editors-note:after {
+    content: ')';
+}
 
 
 figure#articleeulogy-in-vietnamL1004781,
