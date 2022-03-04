@@ -17,10 +17,7 @@ const processImages = true;
 
 async function imageShortcode(src, optClasses = "", imgLabel = "") {
     let result = await imageData(src)
-    // let html = `<img id="${result.autoId}" class="${optClasses ? optClasses : ""}" src="${result.srcAttribute}" decoding="async">`
-    if (imgLabel != "")
-        optClasses += " has-label"
-
+    
     let html = `<figure id="${result.autoId}" class="${optClasses}"><img src="${result.srcAttribute}" decoding="async">${imgLabel != "" ? `<figcaption>${imgLabel}</figcaption>` : ""}</figure>`;
 
     // img loading="lazy" is buggy! stops chrome from running pagedjs

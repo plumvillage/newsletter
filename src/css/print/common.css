@@ -481,18 +481,19 @@ article .author {
     margin-bottom: 8mm;
 }
 
+article .editors-preface,
 article .author + h2,
 article .author + figure,
 article .author + p
 {
-    margin-top: 0;
-    text-indent: 0;
+    margin-top: 0 !important;
+    text-indent: 0 !important;
 }
 
 /* for some reason, appending this above does not work */
 article > *:first-child:not(h1) {
     margin-top: 0 !important;
-    text-indent: 0;
+    text-indent: 0 !important;
 }
 
 .editors-preface + p {
@@ -536,17 +537,6 @@ article blockquote {
 article blockquote i {
     font-style: normal;
 }
-
-article blockquote p:first-child::before {
-    /* position: absolute;
-    line-height: 20pt;
-    text-indent: -14pt; */
-    content: "“";
-    /* font-size: 200%; */
-    /* color: var(--color-bark-light); */
-}
-/* the end quote ” is inserted with javascript, because it needs to be before the <cite>, if such exists */
-
 article blockquote p + p {
     margin-top: 6pt;
 }
@@ -1274,18 +1264,10 @@ figure#articlesr-trang-bo-deSc-Bo-DJe-4-edit {
     font-style: normal;
 }
 .article-lang-mai-nam-qua > blockquote > p > strong {
-    /* font-family: "CormorantSC-Bold"; */
-    /* font-size: 120%; */
     padding-top: 1pt;
-    /* border-bottom: 1pt solid var(--color-bark-light); */
-    /* font-style: normal; */
-    /* font-weight: normal; */
 }
 .article-lang-mai-nam-qua > blockquote p {
     text-align: left !important;
-}
-.article-lang-mai-nam-qua blockquote p:first-child::before {
-    content: none;
 }
 .article-lang-mai-nam-qua > blockquote > p > em {
     display: block;

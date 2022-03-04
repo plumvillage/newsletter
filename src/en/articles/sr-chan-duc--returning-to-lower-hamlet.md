@@ -83,10 +83,10 @@ When I woke up I thought, *I have seen Thay. The sangha is Thay; Thay’s lifeti
 
 I remembered the times I accompanied Thay on tours to China or Korea. We visited ancient monasteries with old attic libraries full of wood blocks from which the sutras were printed. On two separate occasions Thay had pointed out to me the gatha from the Vajracchedika Sutra:
 
-> Someone who looks for me in form  
-> Or seeks me in sound  
-> Is caught in an abstraction  
-> And will not find me
+<div class="verse"><p>Someone who looks for me in form<br/>
+Or seeks me in sound<br/>
+Is caught in an abstraction<br/>
+And will not find me</p></div>
 
 For many years I have been caught in that abstraction, that misapprehension. This morning I have seen a much greater Thay.
 

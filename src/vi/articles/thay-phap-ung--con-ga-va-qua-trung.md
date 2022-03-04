@@ -4,9 +4,7 @@ subtitle: Từ Trái Tim Đến Trái Tim
 author: Thầy Chân Pháp Ứng
 ---
 
-Tình thầy trò đã được trao truyền qua rất nhiều thế hệ, chưa bao giờ đứt đoạn, từ thời đức Thế Tôn cho tới bây giờ. Sự trao truyền ấy là có thật. Con đã tiếp nhận được tình thầy trò giữa Sư Cố với Sư Ông qua một cách nào đó mà tự thân con cảm nhận được. 
-
-> Điều này đã biểu hiện rõ nét trong một khóa tu rất khó khăn đối với con.
+Tình thầy trò đã được trao truyền qua rất nhiều thế hệ, chưa bao giờ đứt đoạn, từ thời đức Thế Tôn cho tới bây giờ. Sự trao truyền ấy là có thật. Con đã tiếp nhận được tình thầy trò giữa Sư Cố với Sư Ông qua một cách nào đó mà tự thân con cảm nhận được. Điều này đã biểu hiện rõ nét trong một khóa tu rất khó khăn đối với con.
 
 Lúc ấy, con mới tu được bốn hay năm năm, sự thực tập chưa vững vàng. Đại chúng đề cử con và một sư chú đi hướng dẫn khóa tu ở Đức. Đó là một khóa tu năm ngày, dành cho người Việt và người Đức. Khổ đau của thiền sinh trong khóa tu  rất lớn, thậm chí, có người đã chia sẻ ý định tự tử. Con đã khóc khi nói pháp thoại. Vì biết khả năng của mình còn kém, thành ra con khóc giống như đang “ăn vạ" vậy, giống như đang “cầu cứu" năng lượng tâm linh từ liệt vị tổ sư. Và rồi, khóa tu đã diễn ra thật mầu nhiệm! Trong ngày có buổi lễ tạ ơn Tam Bảo, khi cùng đại chúng lạy xuống, bỗng nhiên con cảm được rằng Sư Cố đã luôn âm thầm có mặt trong suốt năm ngày của khóa tu để nâng đỡ cho con mà con không hề hay biết. Ngay giây phút đó, bao nhiêu căng thẳng, bao nhiêu nỗi niềm lo âu đều tan biến. Con cảm được tình thương của Sư Cố, hoàn toàn là tình thương. Sư Cố ôm con vào lòng. Tình thương ấy đã được Sư Ông tiếp nhận và trao truyền lại cho con. Tình thương đó thấm vào thân tâm giúp con nhẹ, khỏe và đầy khiêm cung.
 

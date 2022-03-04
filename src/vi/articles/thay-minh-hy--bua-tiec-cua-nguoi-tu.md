@@ -5,11 +5,11 @@ author: Thầy Chân Minh Hy
 
 Có một giai thoại kể rằng, trong một lần quý thầy đang chuẩn bị đắp y cho lễ tụng giới tại chùa Từ Đàm, Hòa thượng Thiện Siêu quay sang hỏi quý thầy rằng:
 
-> Quý thầy có biết vì răng mình gọi *‘pháp Bụt cao siêu mầu nhiệm’* không?
+> “Quý thầy có biết vì răng mình gọi *‘pháp Bụt cao siêu mầu nhiệm’* không?”
 
 Đợi một lúc, rồi Ngài nói tiếp:
 
-> Vì nó ở ngay trước mặt quý thầy đó. 
+> “Vì nó ở ngay trước mặt quý thầy đó.”
 
 Tôi đã nghe giai thoại ấy trong một lần Hòa thượng chùa Bảo Lâm kể tại Ni xá Diệu Trạm. Câu nói ấy cứ ở mãi trong tôi. Tại sao cái cao siêu mầu nhiệm lại có thể ở trước mặt mình được. Sao mình không thấy. Có phải chăng, chung quanh mình có nhiều thứ bình thường quá đỗi mình không nhận ra.
 

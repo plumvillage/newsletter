@@ -23,11 +23,11 @@ On the continuing journey, there will be new paths that become dear, where we wi
 
 There is a sacred space in New Hamlet that I miss very much, and that is the Buddha Hall. We often called it the “Purple Hall” because in the past, the carpet there was purple (the signature colour of New Hamlet), which was chosen by Thay. Purple represents the land of the Bodhisattva Avalokiteshvara. The day I arrived in Plum Village, the first thing I did was to go to the Buddha Hall and touch the earth in front of the Buddha. Entering the hall, I discovered that the floor was lined with dark purple carpet. At the end of the hall was a Buddha statue, light pink in colour, sitting very beautifully and serenely in a natural stone enclave. Thay had written a pair of parallel verses for the Buddha Hall:
 
-> Trên đài sen trắng Như Lai hiện  
-> Giữa rừng tre tím Quán Âm ngồi
+<div class="verse"><p>Trên đài sen trắng Như Lai hiện<br/>
+Giữa rừng tre tím Quán Âm ngồi</p>
 
-> On a white lotus throne, the Tathagata appears  
-> In the midst of the violet bamboo forest, Avalokiteshvara dwells<span class="note">Further reading: <a href="https://plumvillage.org/articles/parallel-verses-of-our-plum-village-temples-i/">plumvillage.org/articles/parallel-verses-of-our-plum-village-temples-i/</a></span>
+<p>On a white lotus throne, the Tathagata appears<br/>
+In the midst of the violet bamboo forest, Avalokiteshvara dwells<span class="note">Further reading: <a href="https://plumvillage.org/articles/parallel-verses-of-our-plum-village-temples-i/">plumvillage.org/articles/parallel-verses-of-our-plum-village-temples-i/</a></span></p></div>
 
 Reading it, you will immediately feel the essence of the place in which you are standing.
 

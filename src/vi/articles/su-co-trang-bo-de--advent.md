@@ -15,13 +15,13 @@ Cho đến khi sang Làng, được thấy nghi thức thắp nến lúc ăn cơ
 
 Với con, màn đêm là nơi dễ phát sinh những điều mờ ám và xấu xa nhất nhưng đồng thời là nơi khởi đầu cho những gì linh thiêng và thuần khiết nhất. Màn đêm có thể là cỗ xe đưa con người thẳng tiến về địa ngục mà cũng có thể là nơi chắp cánh cho lời nguyện cầu chạm đến được những vì sao. Trong giây phút này, mọi người đang cùng nhau hát và thắp lên cây nến thứ hai của mùa Vọng. Giữa sự tĩnh lặng của đêm, bài Thánh ca càng thêm trang trọng, mở lối cho con người trở về nơi đẹp đẽ nhất của tâm hồn. Nhắm mắt lại, con buông thư, để những thanh âm mát dịu kia rơi mãi, rơi mãi vào lòng. Trong khung cảnh an lành đó, dường như mọi tư tưởng bất thiện đều phải tan biến hết. Lòng người phút chốc trở nên trong trẻo như sương sớm, thánh thiện như Chúa Hài Đồng. Những ngọn nến cứ lung linh múa ca, mang lời nguyện cầu của các anh chị em đi xa:
 
-> Con cầu nguyện bình an cho những nạn nhân Covid ở Việt Nam và trên thế giới.
+> “Con cầu nguyện bình an cho những nạn nhân Covid ở Việt Nam và trên thế giới.”
 
-> Con mong ước bình an cho những người dân ở Afghanistan nơi đang chịu khổ đau vì chiến tranh.
+> “Con mong ước bình an cho những người dân ở Afghanistan nơi đang chịu khổ đau vì chiến tranh.”
 
 Học theo mọi người, con cũng chắp tay lại giới thiệu tên mình và rồi để trái tim nói lên lời nguyện cầu của nó:
 
-> Con mong cho những ai đang phải xa nhà có thể trở về và có được những giây phút hạnh phúc, hạnh phúc như chúng con đang có trong giờ phút này.
+> “Con mong cho những ai đang phải xa nhà có thể trở về và có được những giây phút hạnh phúc, hạnh phúc như chúng con đang có trong giờ phút này.”
 
 Sau những khoảng lặng, lắng yên, các anh chị em bắt đầu kể cho nhau nghe những câu chuyện vui về Giáng sinh. Hầu như ai cũng từng có ít nhiều kỉ niệm liên quan đến một nhân vật được gọi là Ông già Noel. Lắng nghe là cơ hội để con nhìn kĩ hơn gương mặt của huynh đệ mình, hiểu hơn một chút về những người mà bình thường mình ít khi có cơ hội trò chuyện. Sống trong một Chúng lớn, sự kết nối nhiều lúc chỉ dừng lại ở việc gặp nhau, chắp tay chào, mỉm cười. Cơ hội tiếp xúc, tương tác giữa các anh chị em với nhau phần nhiều là qua một cây cầu mang tên công việc. Thậm chí, với những sư cô, sư chị, sư em đang sống cùng, có những khoảnh khắc con đã ngỡ ngàng khi nhận ra mình chưa từng nhìn kỹ gương mặt của người đó, chưa từng thực sự có mặt với người đó. Mình chỉ nhận diện, phân biệt các chị em mình qua tên gọi mà thôi. 
 

@@ -24,13 +24,13 @@ Coming back to myself, the sound of chatter around me became pleasant. Sometimes
 
 The Christmas carols became more solemn in the silence of the night, opening the way for all to return to the deepest beauty of the soul. Closing my eyes, I relaxed to let the refreshing music sink forever into my heart. Amidst that peace, it was as if every unwholesome thought had to dissolve. People's hearts became as clear as the morning dew, as holy as the baby Jesus. The candlelight flickered and danced, carrying afar the prayers of the brothers and sisters.
 
-> I pray for peace for all the victims of Covid in Vietnam and around the world.
+> “I pray for peace for all the victims of Covid in Vietnam and around the world.”
 
-> I wish safety for the Afghanistan refugees that are suffering due to war.
+> “I wish safety for the Afghanistan refugees that are suffering due to war.”
 
 Following suit, I joined my palms, introduced my name and spoke out the wish in my heart:
 
-> I wish for those who are displaced to be able to return home and enjoy moments of happiness just like our's now.
+> “I wish for those who are displaced to be able to return home and enjoy moments of happiness just like our's now.”
 
 After some moments of silence, the brothers and sisters began to recount joyful memories of Christmas. Almost everyone had more or less memories related to a character called "Father Christmas". Listening is a chance for me to see more clearly the face of my siblings and to know a little more about those I rarely speak with. Living in a large sangha, connection is often no more than stopping to join palms in greeting, smile, and then pass by. Most opportunities for communication and interactions are through a bridge called *work*. Even with the elder and younger sisters I am living with, sometimes I am surprised to realize that I have never really looked carefully at them or been truly present for them. I am merely recognizing and distinguishing my sisters by their names.  
 
