@@ -71,4 +71,4 @@ Người ta bảo rằng những người lớn tuổi hay sống bằng kỷ ni
 
 Từ ngày được làm con xuất gia của Thầy, con đã sống hết mình như vậy. Nhìn lại những năm tháng đã qua trong cuộc đời người xuất sĩ, con muốn học theo thầy Ương Quật Ma, nói rằng: Từ ngày con được sinh ra trong giáo pháp, con thường sống hiện pháp lạc trú. Mong rằng nhờ sự thực đó mà khi sống bằng kỷ niệm(!), con có thể kể về những ngày tháng đã qua và sẽ tới của con với nhiều niềm vui, nhiều cái đẹp, cái lành. 
 
-* *Bình an* - Sư cô Giải Nghiêm
+(*) *Bình an* - Sư cô Giải Nghiêm
