@@ -51,7 +51,7 @@ Chánh niệm đang ngày càng trở nên phổ biến và được ứng dụn
 
 Trong lĩnh vực y khoa, các chương trình được gọi là *Những can thiệp dựa trên chánh niệm* (Mindfulness-Based Interventions – viết tắt là MBIs), đã được nghiên cứu để áp dụng cho các nhóm đối tượng bệnh nhân khác nhau: bệnh nhân đang bị các chứng đau nhức kinh niên, các chứng trầm cảm tái phát, bệnh nhân ung thư, những nhóm trẻ vị thành niên mắc phải các chứng bệnh mãn tính và những trường hợp hồi phục sau cai nghiện. Cho đến nay, trong số các chương trình can thiệp dựa trên chánh niệm đã công bố, chưa có chương trình nào chính thức được xây dựng dựa trên những phương pháp thực tập chánh niệm của Thầy. Vì vậy mà luận án tiến sĩ của tôi mong ước được đóng góp một phương pháp tiếp cận sáng tạo và mới mẻ cho lĩnh vực y tế, đồng thời góp phần tiếp nối công trình của Thầy và tăng thân Làng Mai.
 
-{% image "article/dr-elli-weisbaum/Scientific-Day-Poster-Presentation-at-The-University-of-Toronto-20182.jpg" %}
+{% image "article/dr-elli-weisbaum/Scientific-Day-Poster-Presentation-at-The-University-of-Toronto-20182-e.jpg" %}
 
 ## Tóm lược công trình nghiên cứu
 

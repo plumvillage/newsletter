@@ -12,7 +12,7 @@ The retreat somehow unfolded wonderfully. During the ceremony to express gratitu
 
 After the retreat we held a Day of Mindfulness for Vietnamese and German people. The walking meditation took place under a beautiful autumn sun. I held the hand of a young Vietnamese child who walked and played, kicking up the leaves. As the one leading the walking meditation, I held my posture upright and solemn. Suddenly I thought: *Why don’t I let myself play a little with my feet and the leaves?”* My body and mind opened at that thought and I could be myself. I did not need to be tense. I heard Thay’s voice from the depths of my heart: *Thay does not ask for anything more. Thay just wants you to be happy.*  I was very grateful for that voice.
 
-{% image "article/br-phap-ung/61-edited.jpg", "img-small" %}
+{% image "article/br-phap-ung/61-edited.jpg" %}
 
 ## Transcending time
 

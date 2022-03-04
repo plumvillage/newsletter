@@ -13,9 +13,9 @@ When I joined my palms to greet Thay, he said, “Here is India. India is Here.�
 
 My first impression was how relaxed Upper Hamlet was. It was two weeks before the annual Summer Opening and preparations were being made in such a joyful and leisurely way. A bed had been prepared for me in a room whose name over the lintel was “Young Moon”. The bed consisted of four bricks, which supported at each corner a plank of plywood, covered by a thin piece of foam. In the following days I helped prepare beds like that for the guests who were to come.
 
-{% image "article/sr-chan-duc/Sr.ChanDuc.1-edited.jpg" %}
-
 Another impression was: *This is a “five” star hotel*, because in the monastery where I had practised in India, we had been so poor. We had no running water, no electricity, and no beds. Here I had the basic amenities as well as a spiritual family to practise with, and a teacher who spoke English and French and could guide me in the practice.
+
+{% image "article/sr-chan-duc/Sr.ChanDuc.1-edited.jpg" %}
 
 ## Life in Lower Hamlet 
 

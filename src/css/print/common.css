@@ -27,6 +27,10 @@ figure {
     margin: 0;
 }
 
+.pagedjs_sheet {
+    overflow: hidden;
+}
+
 @page {
     /* chrome needs to have --pagedjs-margin-top set manually, otherwise it yields different results */
     margin-top: 32pt;
@@ -454,12 +458,12 @@ h1.calligraphyTitle {
 }
 
 h1.calligraphyTitle figure {
-    max-height: 30mm;
     margin: 0 auto;
     float: none;
 }
+h1.calligraphyTitle figure,
 h1.calligraphyTitle figure img {
-    max-height: 30mm;
+    max-height: 32mm;
 }
 
 h2 { /* section in article */
@@ -675,14 +679,10 @@ figure img {
     max-width: 100%;
 }
 
-article figure.img-small {
-    float: right;
-    margin-left: 10pt;
-    width: 50%;
-}
+
 article figure figcaption {
     display: block; /* block eliminates remaining space between image and label*/
-    font-size: 90%;
+    font-size: 85%;
     line-height: 120%;
     text-indent: 0;
     text-align: right !important;
@@ -802,6 +802,12 @@ h1#the-true-sangha figure img
 {
     max-height: 40mm !important;
 }
+
+h1#kinh-so-tam figure,
+h1#kinh-so-tam figure img {
+    max-height: 25mm !important;
+}
+
 
 h1#the-true-sangha figure img
 ,h1#tang-than-dich-thuc figure img
@@ -957,6 +963,8 @@ figure#articlepv-in-2021Monastic-retreatDSC8304 {
 }
 
 
+/* small image */
+figure#articlesr-tue-nghiem20211210012e,
 figure#articlebr-phap-ung61-edited {
     float: right;
     margin-left: 13pt;
@@ -965,10 +973,15 @@ figure#articlebr-phap-ung61-edited {
     width: 50%;
 }
 
-span.lmnq {
-    font-style: italic;
-    font-weight: 400;
+figure#articlebr-phap-haihell-2 {
+    float: right;
+    margin-left: 13pt;
+    margin-top: 13pt;
+    margin-bottom: 6pt;
+    width: 50%;
 }
+
+
 
 html:lang(vi) figure#articlebr-troi-thien-chi21767317541562549611291283397034335052574932n{
     float: left;
@@ -995,11 +1008,8 @@ figure#articlefor-poemsorchid-light2 {
     max-width: none !important;
     position: absolute;
     z-index: -1;
-    /* yields different results in full-page view & single ... */
-    /* works for single: */
-    right: calc((var(--pagedjs-margin-left) + var(--bleed) * 2)*-1);
-    /* works for full: .... ????? does it? does it depend on right/left page? */
-    /* right: calc((var(--pagedjs-margin-left))*-1); */
+    /* beware: on the right, I add margin-right, not margin-left (they differ!) */
+    right: calc((var(--pagedjs-margin-right) + var(--bleed))*-1);
     width: 148mm;
     bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed)) * -1);
 }
@@ -1271,6 +1281,11 @@ figure#articlesr-trang-bo-deSc-Bo-DJe-4-edit {
 
 
 
+span.lmnq {
+    font-style: italic;
+    font-weight: 400;
+}
+
 /* those blockquotes are styled completely differently */
 .article-lang-mai-nam-qua > blockquote {
     page-break-inside: avoid;
@@ -1304,4 +1319,23 @@ article blockquote span:lang(zh) {
     padding-right: 6pt;
     line-height: 110%;
     font-style: normal;
+}
+
+
+
+.article-loi-tri-an-tu-cong-dong-quoc-te blockquote {
+    margin-bottom: 22pt;
+    font-style: normal;
+    text-indent: 0pt;
+    page-break-inside: avoid;
+}
+
+.article-loi-tri-an-tu-cong-dong-quoc-te blockquote cite {
+	/* position: relative; */
+	display: block;
+    margin-top: 3pt;
+    width: 90%;
+    text-indent: -6pt;
+	left: 15pt;
+    /* color: var(--color-bark-dark); */
 }

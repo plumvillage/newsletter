@@ -101,7 +101,7 @@ const spreadFn = (y) => y === 0 ? (x) => x : (y > 0
 	? (x) => Math.atan( (x-0.5)*y*2 )/Math.atan(y)/2+0.5
 	: (x) => Math.tan( (x-0.5)*Math.atan(-y)*2 )/-y/2+0.5)
 
-function easingGradient(start = 0, end = 100, stops = 10, smoothness = 3) {
+function easingGradient(start = 0, end = 100, stops = 8, smoothness = 3) {
 	var fn = spreadFn(smoothness)
 	var range = end - start
 	var result = []

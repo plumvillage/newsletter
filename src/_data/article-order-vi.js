@@ -1,6 +1,6 @@
 module.exports = [
 /*************************/"Chapter1",
-"bbt--thanh-than-nguoi-ve-choi-bien-lon.md",
+"bbt--thanh-than-nguoi-ve-choi-bien-lon",
 "tri-an-thay",
 "le-trang--cung-tan",
 "so-cu-hien-nghiem--giay-phut-cua-su-tiep-noi",

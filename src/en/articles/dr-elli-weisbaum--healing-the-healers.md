@@ -57,7 +57,7 @@ My PhD research study was conducted with 45 physicians from across different spe
 
 I am deeply grateful to each participant for sharing their experience and stories with me. As I write this reflection, I am reminded of one surgeon in particular who, during the first session, expressed that they did not believe in this “mindfulness stuff”, and then in their post-program interview stated that they “fell in love with the bell” and had considered “stealing the bell” at the end of the program, so they could invite it for their colleagues before their next surgery. Below are some direct quotes from the study participants which illustrate, in their own words, their experience of the practice. 
 
-{% image "article/dr-elli-weisbaum/Scientific-Day-Poster-Presentation-at-The-University-of-Toronto-20182.jpg" %}
+{% image "article/dr-elli-weisbaum/Scientific-Day-Poster-Presentation-at-The-University-of-Toronto-20182-e.jpg" %}
 
 > “I found the awareness of breath especially helpful. I've been operating almost every day the past month and it gets stressful and the days are really long and fast-paced and we don't really stop to eat or do anything. I found just taking the few minutes to breathe betwen patients really helpful just to clear my head and then quickly move on to the next patient.” <cite>Ophthalmologist</cite>
 

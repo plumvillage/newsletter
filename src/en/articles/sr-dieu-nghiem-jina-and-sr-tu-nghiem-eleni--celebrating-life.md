@@ -86,9 +86,13 @@ Thay was always practicing walking meditation, from the very beginning, even bef
 
 The essence of Plum Village is to continue to share the practices of mindfulness in as simple a form as possible, to meet the needs of people around the world, of different cultures, of different religions, and to present it in a way that’s understandable and acceptable by people anywhere. We keep the simplicity of the teachings, the basic teachings, four noble truths, eightfold path, and keep it accessible to beginners in the practice. 
 
-Also, we keep our tradition, we don’t dilute it. We keep the Vietnamese heritage, the lineage, the culture, to learn from. We want to learn from the beauty of Vietnamese culture, its gentleness, friendliness, and acceptance of newcomers. That’s what impressed me in the early days, the beauty of the flower arrangements, the tea meditations. And the Western bands, the monastics with their drums, their electric guitars, we can have all that. I think it’s important because it reflects the world now. 🙢
+Also, we keep our tradition, we don’t dilute it. We keep the Vietnamese heritage, the lineage, the culture, to learn from. We want to learn from the beauty of Vietnamese culture, its gentleness, friendliness, and acceptance of newcomers. That’s what impressed me in the early days, the beauty of the flower arrangements, the tea meditations. And the Western bands, the monastics with their drums, their electric guitars, we can have all that. I think it’s important because it reflects the world now.
+
+<div class="article-end"></div>
 
 <div class="divider"></div>
+
+{% image "article/sr-tu-nghiem-and-sr-dieu-nghiem/IMG_9624-e.jpg" %}
 
 ## Poems by Sr. Tu Nghiem to all Bodhisattvas
 
@@ -118,25 +122,6 @@ This poem was written after the Be-In on 4 December 2021 when we were together w
 
 It was also the anniversary day of my little brother’s passing away in 1994. I remember his qualities of courage and freedom. The letting go is part of being able to continue to live after experiencing the death of a beloved one.
 
-<div class="divider"></div>
-
-<div class="verse"><p><b>Their Flowers have Fallen</b><br/>
-but the leaves of the orchid plant<br/>
-are firm and strong,<br/>
-spreading their arms of greenness<br/>
-to the east and west.</p>
-
-<p>Their stems are thin and wobbly<br/>
-attached to wooden sticks<br/>
-with pins,<br/>
-yet tiny green buds<br/>
-are pushing through<br/>
-on the branches,<br/>
-like little lights of hope:<br/>
-life continues<br/>
-and will blossom again.</p></div>
-
-This poem was written to my orchid plant as I witnessed its changing, impermanent nature over the past two months. Impermanence can also be the continuation of life, and we are filled with happiness and joy on seeing this. The flowers have fallen, yet the tiny buds sing the song of life continuing without end.
 
 <div class="divider"></div>
 
