@@ -136,8 +136,6 @@ html:lang(vi) .pagedjs_right_page .pagedjs_margin-bottom-right {
 ]
 %}
 
-{# ["sr-tang-nghiemDSC7427-e",
-	"132mm", "0mm", 0, 30] #}
 
 {# commas are added automatically by nunjucks #}
 {% idMap "figure#article", items %}
@@ -193,15 +191,16 @@ figure#article{{ item[0] }} figcaption {
 
 {# special case: to top #}
 figure#articlesu-ongTheTrueSangha2 {
-    margin: 0;
+    margin: 0 !important;
+    padding: 0 !important;
     max-width: none !important;
     position: absolute;
     z-index: -1;
     width: calc(var(--pagedjs-pagebox-width) + (var(--bleed)) * 2);
-    left: calc((var(--pagedjs-margin-left) + var(--bleed))*-1);
-    width: calc(var(--pagedjs-pagebox-width) + (var(--bleed)) * 2);
-    left: calc((var(--pagedjs-margin-left) + var(--bleed))*-1);
-    top: calc((var(--pagedjs-margin-top) + var(--bleed))*-1);
+    left: calc((var(--pagedjs-margin-left) + var(--bleed)) * -1);
+    {# *2 for PDF output ... bug? #}
+    top: calc((32pt + var(--bleed)) * -1) !important;
+    {# top: calc((var(--pagedjs-margin-top) * 2 + var(--bleed)) * -1) !important; #}
     mask-image: linear-gradient(to top,
         {% easingGradient 0, 35 %}
     );

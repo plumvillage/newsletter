@@ -33,6 +33,12 @@ class MyHandler extends Paged.Handler {
         if (node.nodeName == "FIGURE" && node.id) {
             addClassToPageDIV(node, `PAGE-OF-${node.id}`)
         }
+        if (node.nodeName == "#text") {
+            // if(node.textContent.includes("�")) {
+            if(node.textContent.includes("\uFFFD")) {
+                console.log("FOUND BUG IN: ", node.textContent)
+            }
+        }
     }
 
     afterRendered(pages) {
@@ -43,8 +49,6 @@ class MyHandler extends Paged.Handler {
             if (x && x.previousSibling && x.previousSibling.classList)
                 x.previousSibling.classList.add("last-article-element")
         })
-
-
 
         document.querySelectorAll('.hasContent .pagedjs_margin-content').forEach(el => {
             el.innerHTML += `<datetime class="lastmod">${document.lastModified}</datetime>`;

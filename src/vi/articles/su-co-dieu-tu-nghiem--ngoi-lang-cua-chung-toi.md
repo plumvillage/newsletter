@@ -72,4 +72,6 @@ Có những người đến Làng trong tình trạng có vấn đề về thầ
 
 Giờ đây Làng đã trở thành một trung tâm thiền tập quốc tế, một Viện Cao đẳng Phật học. Chúng ta đang ở trong thời đại kỹ thuật số. Nhưng tôi nghĩ vẫn rất hay nếu ta có thể duy trì được những giá trị truyền thống của Việt Nam, những nét văn hóa, ẩm thực, thơ ca, Tết… Bên cạnh đó, ta vẫn có thể đi về hướng kết hợp tuệ giác đạo Bụt với những khám phá mới trong lĩnh vực khoa học não bộ, sinh thái, v.v. Đó là con đường đạo Bụt dấn thân. Tôi nghĩ tất cả đều là một phần của Làng Mai.
 
+{% image "article/sr-tu-nghiem-and-sr-dieu-nghiem/IMG_9624-e.jpg" %}
+
 Điều quan trọng là chúng ta luôn đi về hướng xây dựng một tăng thân tứ chúng, có tính quốc tế và không ngừng tìm tòi những phương pháp mới, giản đơn để đem giáo lý đạo Bụt đến với mọi người trên khắp thế giới, không phân biệt quốc gia, tôn giáo, văn hóa…

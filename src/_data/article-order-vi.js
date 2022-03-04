@@ -19,8 +19,8 @@ module.exports = [
 "ocean-vuong--hay-de-noi-buon-tro",
 
 /*************************/"Chapter3",
-"su-ong-lang-mai--tang-than-dich-thuc",
 "su-co-dieu-tu-nghiem--ngoi-lang-cua-chung-toi",
+"su-ong-lang-mai--tang-than-dich-thuc",
 "thay-phap-an--thap-len-ngon-nen",
 "su-co-chan-duc--tro-ve-xom-ha",
 "su-co-doan-nghiem--thuong-nhu-thay-thuong",
