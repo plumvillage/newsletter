@@ -3,7 +3,7 @@ title: Cuộc cách mạng vẫn đang tiếp diễn
 author: Thầy Chân Trời Đại Đạo
 ---
 
-*Bài viết được chuyển ngữ từ tiếng Anh.*
+*Bài viết được BBT chuyển ngữ từ tiếng Anh.*
 
 Con rất thương đất Mẹ. Chẳng khi nào xem những bộ phim tài liệu về các vấn đề khủng hoảng môi sinh mà con không cảm thấy bất lực và tuyệt vọng. Chính trong hoàn cảnh đó, một loạt các sự kiện diễn ra đã truyền cho con động lực để không đánh mất hy vọng mà hướng tới làm những gì mình có thể, ngay tại nơi mình sống, với những gì sẵn có, để giúp đất Mẹ thân yêu. Đất Mẹ có thể không chỉ là một danh từ mà còn là một động từ. Đất Mẹ thương yêu chúng ta và cũng cần được chúng ta trân quý, nuôi dưỡng và chăm sóc. 
 
