@@ -21,7 +21,7 @@ async function imageShortcode(src, optClasses = "", imgLabel = "") {
     if (imgLabel != "")
         optClasses += " has-label"
 
-    let html = `<div id="${result.autoId}" class="imgD ${optClasses}"><img src="${result.srcAttribute}" decoding="async">${imgLabel != "" ? `<p class="image-label">${imgLabel}</p>` : ""}</div>`;
+    let html = `<figure id="${result.autoId}" class="${optClasses}"><img src="${result.srcAttribute}" decoding="async">${imgLabel != "" ? `<figcaption>${imgLabel}</figcaption>` : ""}</figure>`;
 
     // img loading="lazy" is buggy! stops chrome from running pagedjs
     return html;

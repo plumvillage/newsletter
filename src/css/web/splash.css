@@ -38,12 +38,12 @@
         }
     }
 
-    .imgD img {
+    figure img {
         max-width: 100%;
     }
     
-    .splash-column-vi .imgD,
-    .splash-column-en .imgD
+    .splash-column-vi figure,
+    .splash-column-en figure
     {
         max-width: 50%;
         top: 0;

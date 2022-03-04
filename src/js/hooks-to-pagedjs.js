@@ -30,7 +30,7 @@ class MyHandler extends Paged.Handler {
             console.log("do: PAGE-OF-verse-uyen-nguyen")
         }
 
-        if (node.nodeName == "DIV" && node.id) {
+        if (node.nodeName == "FIGURE" && node.id) {
             addClassToPageDIV(node, `PAGE-OF-${node.id}`)
         }
     }
@@ -47,7 +47,6 @@ class MyHandler extends Paged.Handler {
 
 
         document.querySelectorAll('.hasContent .pagedjs_margin-content').forEach(el => {
-        // document.querySelectorAll('.hasContent .pagedjs_margin-bottom-center div').forEach(el => {
             el.innerHTML += `<datetime class="lastmod">${document.lastModified}</datetime>`;
         });
         

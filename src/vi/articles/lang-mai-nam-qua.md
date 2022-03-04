@@ -339,10 +339,10 @@ Ngày 31.1.2021, trong khóa an cư kiết đông với chủ đề “Vô phân
 
 > **Sư cô Thích Nữ Chân Tu Nghiêm**
 > *(Lee Hau Wan Phime; Pháp danh: Tâm Thanh Phong –Soft Breeze of the Heart)*
-> > <span lang="zh">海衆同修終一味</span>  Chân ***tu*** nhất một niệm  
+> > <span lang="zh">海衆同修終一味</span> Chân ***tu*** nhất một niệm  
 > > <span lang="zh">莊嚴實地所歸依</span> ***Nghiêm*** hạnh đạo từ tâm  
-> > <span lang="zh">常行一向如持地</span>  Ưu đàm hoa vẫn nở  
-> > <span lang="zh">建立安般絕是非</span>  Lục độ ngát hương trầm.
+> > <span lang="zh">常行一向如持地</span> Ưu đàm hoa vẫn nở  
+> > <span lang="zh">建立安般絕是非</span> Lục độ ngát hương trầm.
 
 > **Sư cô Thích Nữ Chân Her Xuan**
 > *(Tan Lay Kuang; Pháp danh: Guan He <span lang="zh">觀和</span>)*
