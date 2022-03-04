@@ -154,7 +154,7 @@ html:lang(vi) .pagedjs_right_page .pagedjs_margin-bottom-right {
     filter: drop-shadow(0 0 1pt white) drop-shadow(0 0 3pt white);
 }
 
-    {# I had first factored out the static rules to apply to all elements, which did not work. I suspect because pagedjs somehow merges the static and dynamic rules (data-following) #}
+{# I had first factored out the static rules to apply to all elements, which did not work. I suspect because pagedjs somehow merges the static and dynamic rules (data-following) #}
 {# {% idMap "figure#article", items, ".has-label + p" %} #}
 
 {% for item in items %}
@@ -172,7 +172,7 @@ figure#article{{ item[0] }} {
 .PAGE-OF-article{{ item[0] }} .pagedjs_page_content {
     height: calc(100% - var(--pagedjs-footnotes-height) - {{ item[1] }}) !important;
 }
-figure#article{{ item[0] }}.has-label figcaption {
+figure#article{{ item[0] }} figcaption {
     position: absolute;
     right: 17mm;
     width: 70mm;
