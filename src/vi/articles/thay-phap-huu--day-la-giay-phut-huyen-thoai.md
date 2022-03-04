@@ -3,7 +3,7 @@ title: Đây là giây phút huyền thoại
 author: Thầy Chân Pháp Hữu
 ---
 
-*Bài viết được chuyển ngữ từ tiếng Anh*
+<p class="editors-note">Bài viết được BBT chuyển ngữ từ tiếng Anh.</p>
 
 Thầy kính thương,
 
@@ -23,7 +23,7 @@ Mỗi người trong chúng con chỉ cần nuôi dưỡng chánh niệm trong p
 
 {% image "article/br-phap-huu/1567876120513-edited.jpg" %}
 
-Thưa Thầy, trong hai tuần qua con thường được hỏi: “Chuyện gì sẽ xảy ra tiếp theo?” Mỗi khi có ai đó hỏi con như vậy, con đều thấy hình ảnh Thầy đang cầm ly trà trong hai tay với nụ cười hiền ấm áp. Con biết rằng thay vì hỏi “Chuyện gì sẽ xảy ra tiếp theo”, Thầy sẽ xoay ngược câu hỏi thành “Chuyện gì đang xảy ra ngay bây giờ?” Bây giờ chứa đựng cả quá khứ và tương lai, bây giờ là lúc chúng ta có cơ hội được đi cùng Thầy, được ngồi, được nói chuyện, xây dựng tăng thân, uống trà, cười và khóc cùng Thầy. Bây giờ là khi tăng thân khắp chốn đang cùng hội tụ, cùng chăm sóc, ôm ấp, nâng đỡ nhau, và sống chậm lại để cùng nhận diện, chuyển hoá những khổ đau đang có mặt trên thế giới với tuệ giác và tình thương vô biên. Đúng thật là như vậy, phải không Thầy? Bây giờ là một giây phút huyền thoại!
+Thưa Thầy, trong hai tuần qua con thường được hỏi: “Chuyện gì sẽ xảy ra tiếp theo?” Mỗi khi có ai đó hỏi con như vậy, con đều thấy hình ảnh Thầy đang cầm ly trà trong hai tay với nụ cười hiền ấm áp. Con biết rằng thay vì hỏi “Chuyện gì sẽ xảy ra tiếp theo?”, Thầy sẽ xoay ngược câu hỏi thành “Chuyện gì đang xảy ra ngay bây giờ?” Bây giờ chứa đựng cả quá khứ và tương lai, bây giờ là lúc chúng ta có cơ hội được đi cùng Thầy, được ngồi, được nói chuyện, xây dựng tăng thân, uống trà, cười và khóc cùng Thầy. Bây giờ là khi tăng thân khắp chốn đang cùng hội tụ, cùng chăm sóc, ôm ấp, nâng đỡ nhau, và sống chậm lại để cùng nhận diện, chuyển hoá những khổ đau đang có mặt trên thế giới với tuệ giác và tình thương vô biên. Đúng thật là như vậy, phải không Thầy? Bây giờ là một giây phút huyền thoại!
 
 Chúng con đang có một tăng thân tuyệt vời, đầy tài năng và sức sống. Chúng con cũng đang mang ngọn đuốc trí tuệ mà Thầy đã trao truyền để sống trọn vẹn trong giây phút hiện tại - bây giờ, ở đây - cũng như truyền đạt tới những thế hệ tương lai.
 
