@@ -27,11 +27,11 @@ Mỗi lần đọc *Đường xưa mây trắng*, đến đoạn cô bé Sujata,
 
 Tại khóa tu đầu tiên ở Làng, một hôm Giác Nghiêm không đi thiền hành mà ngồi viết dưới bóng cây đoàn xanh mát. Hết buổi thiền hành, Thầy nhẹ nhàng đến bên Giác Nghiêm và cất tiếng hỏi đầy thân thiện: 
 
-<div class="verse"><p>– “Elisabeth, cô đang làm gì vậy?”</p>
+<div class="verse"><p>– Elisabeth, cô đang làm gì vậy?</p>
 
-<p>– “Thưa Thầy, từ khi gặp Thầy, con đã áp dụng thực tập với các bệnh nhân, tại bệnh viện nơi con làm việc. Con bận quá nên không có đủ thời gian để viết về những sự thực tập này. Con đã chọn dành thời gian để viết mà không đi thiền hành, xin Thầy thứ lỗi cho con.”</p>
+<p>– Thưa Thầy, từ khi gặp Thầy, con đã áp dụng thực tập với các bệnh nhân, tại bệnh viện nơi con làm việc. Con bận quá nên không có đủ thời gian để viết về những sự thực tập này. Con đã chọn dành thời gian để viết mà không đi thiền hành, xin Thầy thứ lỗi cho con.</p>
 
-<p>– “Cô cứ tiếp tục đi. Nhớ chia sẻ với Thầy những gì cô làm nhé.”</p></div>
+<p>– Cô cứ tiếp tục đi. Nhớ chia sẻ với Thầy những gì cô làm nhé.</p></div>
 
 Từ ngày hôm ấy, mọi thực tập chánh niệm áp dụng trong công việc của mình ở bệnh viện đều được Giác Nghiêm ghi chép lại và gửi cho Thầy cũng như cho ông Trưởng khoa - người đã nhận ra những kết quả tích cực trên các bệnh nhân và đã “bật đèn xanh” cho Giác Nghiêm được phép áp dụng sự thực tập trong lúc làm việc tại khoa. Đó là vào năm 1985. Hạnh phúc biết bao!
 
