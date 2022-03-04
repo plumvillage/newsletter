@@ -1,6 +1,6 @@
 module.exports = [
 /*************************/"Chapter1",
-"Thanh thản Người về chơi biển lớn",
+"bbt--thanh-than-nguoi-ve-choi-bien-lon.md",
 "tri-an-thay",
 "le-trang--cung-tan",
 "so-cu-hien-nghiem--giay-phut-cua-su-tiep-noi",
@@ -10,13 +10,13 @@ module.exports = [
 "thay-phap-huu--day-la-giay-phut-huyen-thoai",
 "scck--con-hat-cho-thay-tho",
 "su-co-dinh-nghiem--thay-mim-cuoi-thich-thu",
-"su-co-hoi-nghiem--Tình Thầy là ánh trăng đầy",
+"su-co-hoi-nghiem--tinh-thay-la-anh-trang-day",
 "tray-troi-noi-tam--dau-dau-cung-dau-hai",
 "su-co-thuan-khanh--duoi-chan-ngon-hung-phong",
 "shantum-seth--nguoi-thay-nguoi-dan",
 "su-co-hoc-nghiem--cuoc-doi-thay-rat-dep",
 "su-co-tang-nghiem--thay-di-hai-thuoc-phuong-xa",
-"ocean-vuong--Hãy để nỗi buồn trở thành bùn cho hoa sen vươn dậy",
+"ocean-vuong--hay-de-noi-buon-tro",
 
 /*************************/"Chapter3",
 "su-ong-lang-mai--tang-than-dich-thuc",

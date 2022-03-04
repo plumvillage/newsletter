@@ -677,7 +677,7 @@ figure img {
 
 article figure.img-small {
     float: right;
-    margin-left: 6pt;
+    margin-left: 10pt;
     width: 50%;
 }
 article figure figcaption {
@@ -920,7 +920,10 @@ figure#articlerichard-bradyR-and-KJ-at-Centro-Avalokita-2015crop,
 figure#articlebr-phap-ung8826595315246533743600235026231803661254656ne,
 figure#articlebr-phap-haiThay-with-Br-Phap-Hai-e,
 figure#articlebr-phap-linhFDTfJpjWUAUYC5crop,
-figure#articlebr-troi-thien-chi5brot
+figure#articlebr-troi-thien-chi5brot,
+figure#articlepv-in-2021Monastic-retreatMonastic-retreat20211,
+figure#articlepv-in-2021Monastic-retreatMonastic-retreat202110,
+figure#articlepv-in-2021Monastic-retreatDSC8304
 {
     float: none !important;
     margin-left: auto;
@@ -945,6 +948,20 @@ html:lang(en) figure#articlebr-troi-thien-chi5brot {
     width: 70%;
 }
 html:lang(vi) figure#articlebr-troi-thien-chi5brot {
+    width: 50%;
+}
+figure#articlepv-in-2021Monastic-retreatMonastic-retreat20211,
+figure#articlepv-in-2021Monastic-retreatMonastic-retreat202110,
+figure#articlepv-in-2021Monastic-retreatDSC8304 {
+    width: 84%;
+}
+
+
+figure#articlebr-phap-ung61-edited {
+    float: right;
+    margin-left: 13pt;
+    margin-top: 0;
+    margin-bottom: 6pt;
     width: 50%;
 }
 

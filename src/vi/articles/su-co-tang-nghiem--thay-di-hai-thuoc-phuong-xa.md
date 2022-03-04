@@ -36,8 +36,8 @@ Cũng với chừng đó dược liệu, chừng đó công thức, tức là nh
 
 *Đi hái thuốc* có nghĩa là trở về. Trở về để lắng nghe mình đang bệnh gì, trong lòng có rối ren chăng, có đang mệt mỏi, bực dọc và trách móc chăng? Hỏi, nhưng con vẫn sẽ để chúng ở đó, và tiếp tục *hái thuốc*. Hái thuốc bằng cách trở về ý thức và buông thư, làm lắng dịu toàn thân trong mỗi nụ cười.
 
-> Chỉ tại thử sơn trung  
-> Vân thâm bất tri xứ
+<div class="verse"><p>Chỉ tại thử sơn trung<br/>
+Vân thâm bất tri xứ</p></div>
 
 Mây mù dày quá, không biết thầy mình đang ở nơi nào. Thầy thường nói mây mù cũng là hình ảnh để nói đến phiền não và vô minh. Chúng con vì từng bị mây mù của phiền não và vô minh che khuất nên chưa thấy được Bụt, chưa thấy được Thầy, quanh quẩn trong khổ đau quá khứ, than trách con người và cuộc đời. Nhưng nếu không có mây mù, thì làm sao chúng con thấy được sự nhiệm mầu và những tuyệt tác của vũ trụ; của ánh mặt trời đang dần hé và tỏa chiếu lấp lánh, hay vầng trăng đêm qua vén mây sáng ngời ngời chiếu đêm thâu. 
 
