@@ -3,9 +3,9 @@ title: Thương như Thầy thương
 author: Sư cô Đoan Nghiêm
 ---
 
-<p class="editors-note">BBT phỏng vấn sư cô Đoan Nghiêm.</p>
-
 {% image "article/sr-doan-nghiem/Sr-doan-nghiem-edited.jpg" %}
+
+<p class="editors-note">BBT phỏng vấn sư cô Đoan Nghiêm.</p>
 
 **BBT: Thưa sư cô, hồi mới tới Làng, hình ảnh gì khiến sư cô ấn tượng nhất?**
 

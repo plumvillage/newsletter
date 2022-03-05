@@ -45,7 +45,10 @@ Eleventy running so you can check if the layout your deploying is correct.
 ## Bugs & ToDos
  - Images that are rotated with EXIF are not processed correctly, see https://stackoverflow.com/questions/48716266/sharp-image-library-rotates-image-when-resizing
  - � in render output, seems randomly appearing
- bởi -> b���i
- giờ đây đã -> giờ ��ây đã
- vấn tại -> vấn t���i
- mảnh đất nhỏ -> mảnh đ���t nhỏ
+        bởi -> b���i
+        giờ đây đã -> giờ ��ây đã
+        vấn tại -> vấn t���i
+        mảnh đất nhỏ -> mảnh đ���t nhỏ
+        ăn mừng là -> ăn m��g là
+    keeps being in the same position until eleventy is restarted
+    appears in paragraphs after an image (e.g. first bottom placed image)

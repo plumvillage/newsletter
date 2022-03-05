@@ -33,10 +33,11 @@ class MyHandler extends Paged.Handler {
         if (node.nodeName == "FIGURE" && node.id) {
             addClassToPageDIV(node, `PAGE-OF-${node.id}`)
         }
-        if (node.nodeName == "#text") {
-            // if(node.textContent.includes("�")) {
-            if(node.textContent.includes("\uFFFD")) {
-                console.log("FOUND BUG IN: ", node.textContent)
+        
+        if (node.textContent) {
+            if(node.textContent.includes("�")) {
+                console.log("FOUND � BUG IN: ", node)
+                node.innerHTML = node.innerHTML.replaceAll("�", "·")
             }
         }
     }
