@@ -9,11 +9,7 @@ Thời tiết tháng Giêng năm nay ấm hơn mọi năm nên đại chúng T�
 
 Các thị giả làm tổng vệ sinh thất của Sư Ông, rồi vẽ một bức tranh thật to để trang hoàng cho Tết ngay trong phòng ngủ. Sư Ông không còn dạo chơi quanh thất nhiều như trước, nên tất cả mọi trang trí đều dồn vào bức tường chính trong phòng Sư Ông và hai cánh cửa sổ gần đó. Phía trên bức tranh có vẽ một cành hoa đào điểm những bông hoa bằng giấy đỏ thắm. Dưới nhánh hoa đào là hình vẽ *Áo vách núi* - hình ảnh trong một giấc mơ mà Sư Ông đã từng có.
 
-{% image "article/recap-of-ceremonies/From Hue/Sr.Thao N.jpg" %}
-
 Sư Ông nằm chơi hiền hoà và bình an. Sư Ông ngắm bức tranh. Ngoài cửa sổ nắng đang tưới lên hai chậu cúc đại đóa vàng ánh, loại hoa mà Sư Ông thích nhất. Có vẻ như Sư Ông ăn Tết sớm năm nay.
-
-{% image "article/recap-of-ceremonies/From Hue/L1004781.jpg" %}
 
 Để rồi, vào khoảng trước nửa đêm ngày 22 tháng Giêng năm 2022 (nhằm ngày 20 tháng Chạp năm Tân Sửu), tại thất Lắng Nghe nơi Tổ đình, Sư Ông bắt đầu hành trình *chuyển hóa* của mình. Sư cô Chân Không, thầy Pháp Ứng, sư cô Định Nghiêm, thầy Pháp Niệm, sư cô Linh Nghiêm, sư cô Thao Nghiêm cùng quý thầy thị giả đã có mặt bên Người trong những giây phút linh thiêng và an bình này. Quý thầy, quý sư cô chắp tay búp sen và nhẹ nhàng hát bài thiền ca Để Bụt thở do Sư Ông sáng tác, khi hơi thở của Người bắt đầu chậm lại.
 
@@ -24,6 +20,10 @@ Chỉ có thở, chỉ có đi, không người thở, không người đi.<br/>
 An khi thở, lạc khi đi, an là thở, lạc là đi.</p></div>
 
 Vị thầy kính yêu của chúng con ra đi bình an vào lúc 1:30, trụ thế 97 tuổi và 72 hạ lạp, sau ba năm và ba tháng an dưỡng tại đây, nơi Người đã xuất gia tám mươi năm về trước.
+
+{% image "article/recap-of-ceremonies/From Hue/L1004781.jpg" %}
+
+<div class="page-break"></div>
 
 {% image "article/recap-of-ceremonies/From Hue/Thay2-day1-1.jpeg", "noFloat" %}
 {% image "article/recap-of-ceremonies/From Hue/_HR59222.JPG", "noFloat" %}
@@ -112,16 +112,16 @@ Con đường từ Tổ đình Từ Hiếu lên đài Trà tỳ sáng hôm ấy 
 Đi thiền hành theo Sư Ông từ Huế hay từ khắp nơi trên thế giới có những vị xuất gia, những người cư sĩ từ mọi truyền thống Phật giáo như Nam tông, Tịnh độ tông, Tây tạng, thiền Nhật Bản, và từ mọi tôn giáo như Thiên Chúa giáo, Do Thái giáo, Ấn Độ giáo, Hồi giáo, Tin Lành. Dự tính khoảng 100 chiếc xe đưa Sư Ông nhưng thực tế, con số lên đến hơn 300. Nhiều người đặt bàn thờ trước nhà đợi Sư Ông, nhiều vị  xuất sĩ trẻ đứng đợi Sư Ông trước Phật học viện để đảnh lễ khi Sư Ông đi qua. Cây cối còn mờ trong sương mù khi Sư Ông ra đến vùng quê. Buổi thiền hành kéo dài để Sư Ông cùng đại chúng có thì giờ thưởng thức không khí trong lành, như mỗi khi Sư Ông được đi chơi trong thiên nhiên.
 
 {% image "article/recap-of-ceremonies/From Hue/_DSC4416.JPG", "noFloat" %}
-{% image "article/recap-of-ceremonies/From Hue/272876448_486020639559503_3184897081254415863_n.jpg", "noFloat" %}
+{% image "article/recap-of-ceremonies/From Hue/12b-procession-2.jpeg", "noFloat" %}
 {% image "article/recap-of-ceremonies/From Hue/PHT_2910.JPG", "noFloat" %}
 
 Tại Vườn Địa Đàng, đài trà tỳ được làm bằng đất sét, do các nghệ nhân của phường đúc đồng thành phố Huế dựng lên. Đài Địa dư (bên ngoài) cũng được chế tác thủ công với các hoa văn phật giáo. Hàng trăm bông sen trắng – loại sen bách diệp cũng được trang trí bên cạnh những hoa văn ấy. Chư Tôn Thiền đức và đệ tử Sư Ông cùng chú nguyện, rước ngọn lửa tam muội đến đài trà tỳ. Thầy Pháp Ấn đã hướng dẫn đại chúng theo dõi hơi thở. Năng lượng đại chúng yên xuống. Ai cũng thực tập hết lòng khiến định lực và năng lượng bình an tập thể trở nên rất hùng hậu. Ngọn lửa bốc cháy từ giây phút ấy. 
 
 Trong suốt thời gian trà tỳ (khoảng 17 giờ đồng hồ), đại chúng cùng thực tập ngồi thiền, thiền hành, tụng kinh, niệm Bụt, hay ngồi bên nhau nghe đọc thơ Sư Ông, hát thiền ca, cùng chia sẻ những kỷ niệm đẹp với Sư Ông, cũng như đốt nến cầu nguyện bình an cho thế giới. Sư Ông đang được tiếp nối trong mỗi thành phần của tăng thân. Chúng con biết, ai trong đại chúng cũng đang xây cho mình một cái tháp đẹp nhất bằng bước chân và hơi thở chánh niệm để dâng lên cúng dường Sư Ông.
 
+{% image "article/recap-of-ceremonies/From Hue/6-sister-chan-khong.jpeg", "noFloat" %}
 {% image "article/recap-of-ceremonies/From Hue/L1000913.JPG", "noFloat" %}
 {% image "article/recap-of-ceremonies/From Hue/272769680_486020419559525_8016276306084693244_n.jpg", "noFloat" %}
-{% image "article/recap-of-ceremonies/From Hue/L1010421.JPG", "noFloat" %}
 
 Đại chúng vô cùng xúc động khi nghe Sư cô Chân Không hát bài “The smile”. Lời bài hát giúp đại chúng tiếp xúc với Sư Ông nơi ánh mặt trời, nơi những cơn mưa, nụ hoa, nơi ánh mắt em thơ. Thường sau mỗi buổi pháp thoại công cộng, Sư Ông hay mời Sư cô lên hát bài này và trong khi Sư cô hát, Sư Ông nhẹ nhàng rời khỏi pháp tòa. Sư cô Định Nghiêm cũng cúng dường Sư Ông bài hát tiếng Pháp “Le bonheur” mà Sư Ông yêu thích. 
 
@@ -137,14 +137,10 @@ Bảy ngày Tâm tang tại Tổ đình Từ Hiếu đã diễn ra ấm cúng v�
 
 Chúng con nguyện thực tập tinh chuyên để tiếp nối sự nghiệp tuệ giác của Sư Ông, mong phần nào báo đáp được ân đức của Bụt, Tổ và chư Tôn Thiền đức Tăng Ni cũng như sự trợ duyên kiên định từ quý vị Phật tử cư sĩ. 
 
-Một mùa xuân mới đang về, chúng con nguyện cầu chư Bụt và chư liệt vị Tổ sư luôn hộ trì cho chư Tôn Thiền đức tăng ni cùng quý thân hữu một Năm Mới Nhâm Dần 2022 được nhiều sức khỏe, an vui và thành tựu được chí nguyện độ tha của chư vị. 
+Một mùa xuân mới đang về, chúng con nguyện cầu chư Bụt và chư liệt vị Tổ sư luôn hộ trì cho chư Tôn Thiền đức tăng ni cùng quý thân hữu một Năm Mới Nhâm Dần 2022 được nhiều sức khỏe, an vui và thành tựu được chí nguyện độ tha của chư vị<span class="note">Tựa đề được lấy từ câu đối do Sư Ông Làng Mai viết, treo trong thiền đường Chuyển Hóa, xóm Thượng:<br/>
+<i>Giọt nước thành dòng sông, thanh thản Người về chơi biển lớn</i><br/>
+<i>Bước chân nên cõi Tịnh, thảnh thơi ta lên dạo đồi cao.</i></span>. 
+
+<div class="article-end"></div>
 
 {% image "article/recap-of-ceremonies/From PV/IMG_1397-e.jpg" %}
-
-—-----------------
-Footnote:
-
-Tựa đề được lấy từ câu đối do Sư Ông Làng Mai viết, treo trong thiền đường Chuyển Hóa, xóm Thượng:
-
-*Giọt nước thành dòng sông, thanh thản Người về chơi biển lớn*
-*Bước chân nên cõi Tịnh, thảnh thơi ta lên dạo đồi cao.* 

@@ -4,7 +4,6 @@ title: Editor’s Notes
 
 <p>TODO Editor’s Notes (hard)</p>
 
-
 <div id="zen-circle-page">
     {% image "calligraphy/zen-circle/zen-circle.webp" %}
 </div>
@@ -15,5 +14,5 @@ title: Editor’s Notes
 
 <div id="thays-portrait-page">
     {% image "ThayLamp/ThayLamp-e2.jpg" %}
-    <div>11.10.1926 – 22.01.2022</div>
+    <div class="tpp-en">11.10.1926 – 22.01.2022</div>
 </div>

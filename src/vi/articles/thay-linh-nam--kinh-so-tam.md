@@ -15,7 +15,7 @@ Nghĩ về những ngày ba bị bệnh, con cảm thấy hối hận. Con đã 
 
 Ba biết không, từ khi vào tăng thân cho đến nay, cuộc đời con thay đổi rất nhiều. Bây giờ, con là đệ tử của Bụt, sống đời xuất gia, ăn chay, theo tăng thân học hỏi cách tổ chức khóa tu. Người ta đến tham dự khóa tu từ khắp mọi nơi, và có những người khổ đau nhiều lắm. Ấy vậy mà sau mỗi khóa tu, họ đã có sự thay đổi. Họ cười được, vui vẻ trở lại. Con hay thấy họ đến chắp tay cảm ơn quý thầy, quý sư cô.  Những điều đó như một phép lạ vậy đó ba, như thể những khổ đau của họ tan biến đi đâu hết rồi vậy! 
 
-{% image "article/br-troi-linh-nam/L1004595-e.JPG" %}
+{% image "article/br-troi-linh-nam/L1004595.JPG" %}
 
 Ba biết không, tu cũng vui nhưng không dễ đâu. Thỉnh thoảng vẫn có những khó khăn, trở ngại trong nội tâm. Con không biết phải diễn tả sao cho ba hiểu… Giống như, sau khi mình phát một lời nguyện nào đó thì trở ngại bắt đầu hiện ra trước mắt liền. Rồi thân tâm được rèn luyện từ đó, như vàng được nung trong lửa. Và nhờ lửa nung vàng nhưng vậy mà vàng trở thành vật hữu dụng. Đôi khi nung lâu quá nên cũng cảm thấy hơi nóng trong người ba ạ!
 

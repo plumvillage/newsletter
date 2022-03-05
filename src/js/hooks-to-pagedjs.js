@@ -47,8 +47,12 @@ class MyHandler extends Paged.Handler {
         document.querySelectorAll("article").forEach((e) => {
             // get only the first .article-end, ignore the others
             let x = e.querySelector(".article-end")
-            if (x && x.previousSibling && x.previousSibling.classList)
-                x.previousSibling.classList.add("last-article-element")
+            if (x && x.previousSibling && x.previousSibling.classList) {
+                // x.previousSibling may have children. we want the marker go inline, which is why we check:
+                var last = x.previousSibling.querySelector("p:last-of-type")
+                var lastE = last ? last : x.previousSibling
+                lastE.classList.add("last-article-element")
+            }
         })
 
         document.querySelectorAll('.hasContent .pagedjs_margin-content').forEach(el => {

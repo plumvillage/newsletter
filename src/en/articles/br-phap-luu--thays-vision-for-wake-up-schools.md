@@ -7,13 +7,13 @@ author: Brother Chân Pháp Lưu & Orla O’Sullivan
 
 Thay, one of the first monks to include elements of Western science and philosophy in the monastic curriculum, has always been curious about *how* we learn and how we can *live together*.
 
-{% image "article/br-phap-luu/Educators retreat in Uganda 2019.3- Credit - Evermind Media.jpg" %}
-
 ## Roots in Vietnam at war
 
 In the ‘60s during the American War, Thay, along with Sister Chan Khong, created the School of Youth and Social Service to train young volunteer teachers to go into the countryside of Vietnam to work with the children of farmers, while their parents were out in the rice fields. These volunteers would go into the villages without any money and just play with the children at first. Eventually they would start teaching them simple lessons, and offer the children a cup of soy milk each for lunch. Over time they gained the trust of the villagers; eventually one of the villagers might even offer their house during the day as a schoolhouse. The trust grew as the people saw that the volunteers weren’t trying to impose any ideology on them, or convince them to be on one side of the war or the other. They were just coming to help. At that point, the people in the town would often pool their resources to build a simple school.
 
 This movement, begun during the wartime, continues today in Vietnam, with the Love and Understanding Humanitarian Relief Program. Sr. Chan Khong and her many helpers, along with the Thich Nhat Hanh Foundation, support teachers working in very remote areas of Vietnam where they don't yet have a school. Usually, after a few years, once the basic educational system is established, the government follows by coming in and building proper schools.
+
+{% image "article/br-phap-luu/PVM_4430-edited.jpg"  %}
 
 So Thay has been training teachers since he was a young monk and Dharma teacher. This work makes up the deep roots of Wake Up Schools.
 
@@ -31,9 +31,9 @@ At the time, in France, the President was calling for schools to institute a cla
 
 Then we started doing more and more retreats for educators in Asia, Europe, Canada and the US. We had done a number of short programs in schools in England, America, India, Indonesia and all around the world, but we learned that what actually sticks and has a greater impact is the personal transformation that a teacher can experience on a five, six or seven day retreat. After a number of these retreats, teachers asked us for something they could take home with them to continue to practice and deepen what they had learned, so we started thinking about how to develop training materials.
 
-{% image "article/br-phap-luu/PVM_4430-edited.jpg"  %}
-
 Br. Phap Dung, Sr. Chau Nghiem, Br. Phap Lai, Br. Phap Luu, Br. Phap Linh, along with other monastics, worked with Professor Katherine Weare, Elli Weisbaum, Yvonne Mazurek and others to develop, over a few years, a manual for professional teachers that would cover the basic Plum Village practices. This became the book *Happy Teachers Change the World: A Guide for Cultivating Mindfulness in Education*, which is now the textbook training manual for Wake Up Schools. It includes the personal experiences of hundreds of teachers who have applied Plum Village practices in their classrooms and daily lives. The book is not just theory but the fruit of applied practice.
+
+{% image "article/br-phap-luu/Educators Workshop 2017-18 group photo-edit.jpg", "", "Educators Workshop 2017-18. Br Phap Luu on the far left." %}
 
 Beyond offering retreats for teachers, we developed a one year training program - modeled on the training program for core members of the Order of Interbeing - that we call the *Happy Teachers Training Program*. Over the past six years, teachers in North America, as well as France, Italy, Germany and Spain have gone through this program. The teachers began by undergoing a one-year mentorship with an established Plum Village Dharma teacher and teachers who have already completed the program (“Happy Teachers”), under the auspices of Plum Village and run by the Order of Interbeing in each country. Nowadays, as the program has grown and because we want it to be community-based, this mentorship program has evolved so that each group of trainees forms their own educators’ sangha.<a class="note" href="https://wakeupschools.org/what-we-offer/training/">wakeupschools.org/what-we-offer/training/</a>
 
@@ -41,7 +41,7 @@ By “happy teacher” Thay means you. Being a “happy teacher” doesn't mean 
 
 If the first person doesn't know how to take care of themselves, then they cannot help other people to take care of themselves. That's why in Wake Up Schools we always say that the practice starts with ourselves - the teachers. You have to transform yourself first.
 
-{% image "article/br-phap-luu/Dharma School in UK 2016 - the sisters taught children PV songs-edited.jpg", "expandToLeftBorder", "Dharma School in the UK, 2016" %}
+{% image "article/br-phap-luu/Dharma School in UK 2016 - the sisters taught children PV songs-edited.jpg", "expandToRightBorder", "Dharma School in the UK, 2016" %}
 
 ## The Three Pillars of Wake Up Schools
 
@@ -75,6 +75,8 @@ We also offered two webinars in Vietnam to support teachers and parents as schoo
 
 One week later, on April 12, 2020, Wake Up Schools held a workshop for Vietnamese educators.<a class="note" href="https://youtu.be/8xgcrSzso0A">youtu.be/8xgcrSzso0A</a> More than one hundred teachers from universities, colleges, high schools and kindergartens joined the workshop. The guest speakers included university lecturers, high school academic board members and a psychology counselor. They shared about the educational challenges as well as the opportunities of the COVID-19 pandemic. In this workshop, Orla O’Sullivan and Lê Thị Mỹ Hằng from Wake Up Schools introduced the practice of mindfulness so that educators could experience more peace and learn how to take care of strong emotions.
 
+{% image "article/br-phap-luu/Educators retreat in Uganda 2019.3- Credit - Evermind Media.jpg" %}
+
 On March 20, 2021, Wake Up Schools was awarded the *2021 Laureate for Education*<a class="note" href="https://worldhappiness.foundation/awards/laureates/laureates-2021/">worldhappiness.foundation/awards/laureates/laureates-2021/</a> by the World Happiness Foundation (WHF) and the United Nations University for Peace. The award was presented as part of World Happiness Week, a week-long international festival to energize wellbeing and happiness for all.
 
 The Education award recognizes a community which improves the education sector by bringing greater happiness and well-being to students and families. The award was presented by founder and president of the World Happiness Foundation, Luis Gallardo. He described Wake Up Schools as a ‘remarkable’ community, “What you are doing is so remarkable. Everybody knows Thich Nhat Hanh and the Plum Village community are building this sense of belonging so that we can create a more mindful, more peaceful and more positive world. You are a true example of what it means to create a world with more happiness, more consciousness and freedom for all.”
@@ -82,7 +84,5 @@ The Education award recognizes a community which improves the education sector b
 Luis expressed his appreciation for our sangha building, “The ways that you bring all these teachers together, creating a secure base, that is so important for teachers. You are masters.” Earlier that day, the Happy Teachers Sangha had met as part of the World Happiness Week, offering teachers from around the world an opportunity to connect, care for themselves and experience the practice.
 
 On Tuesday 20 April 2021, Wake Up Schools took part in a Mind & Life Europe (MLE) webcast, part of a series exploring mindfulness in education. The webcast drew together voices from the third MLE webcast series titled “Emerging & Challenging Areas and Next Steps for Contemplative Education”.
-
-{% image "article/br-phap-luu/Educators Workshop 2017-18 group photo-edit.jpg", "", "Educators Workshop 2017-18" %}
 
 In all these events we remind teachers: happiness is possible. We have to say it because many people don't believe it. Happiness is possible. Now.

@@ -168,7 +168,7 @@ Từ Diệu Trạm, quý sư cô chia sẻ “Chúng con có cảm giác như H�
 
 Cũng trong dịp này, hơn 20 sư cô được tiếp nhận giới Thức Xoa Ma Na, 54 vị tiếp nhận giới Tiếp Hiện. Ngoài ra còn có lễ truyền đăng cho ba mươi chín vị tân giáo thọ (cả xuất sĩ và cư sĩ) được tổ chức tại các trung tâm của Làng. Đây là một niềm hạnh phúc lớn cho cả tăng thân.
 
-<div class="pageBreak"></div>
+<div class="page-break"></div>
 
 {% image "article/pv-in-2021/Great Precepts Transmission Ceremony/G23.jpg", "noFloat" %}
 {% image "article/pv-in-2021/Great Precepts Transmission Ceremony/Plum Village.1.jpg", "noFloat" %}
@@ -180,7 +180,7 @@ Cũng trong dịp này, hơn 20 sư cô được tiếp nhận giới Thức Xoa
 {% image "article/pv-in-2021/Great Precepts Transmission Ceremony/Dieu Tram.JPG", "noFloat" %}
 {% image "article/pv-in-2021/Great Precepts Transmission Ceremony/Tram Tich.JPG", "noFloat" %}
 
-<div class="pageBreak"></div>
+<div class="page-break"></div>
 
 ## Kệ truyền đăng trong năm 2021
 
@@ -489,7 +489,7 @@ Ngày 31.1.2021, trong khóa an cư kiết đông với chủ đề “Vô phân
 > > The ground of mind is clear and free as is  
 > > It has no net or view, just letting go
 
-<div class="pageBreak"></div>
+<div class="page-break"></div>
 
 ## Làng Mai tại Hội nghị thượng đỉnh về biến đổi khí hậu của Liên Hiệp Quốc (COP-26)
 

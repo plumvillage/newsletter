@@ -147,7 +147,7 @@ figure {
     height: 307mm;
 }
 
-#title-page, .pageBreak {
+#title-page, .page-break {
     break-after: page;
 }
 
@@ -157,7 +157,7 @@ figure {
 
 #zen-circle-page, #thays-full-title-page, #thays-portrait-page {
     /* break-after: page; */
-    break-before: page;
+    /* break-before: page; */
     position: absolute;
     width: 100%;
     /* background-color: rgb(223, 255, 223); */
@@ -258,7 +258,7 @@ figure#ThayLampThayLamp-e2 {
     margin-right: auto;
 }
 
-#thays-portrait-page div {
+#thays-portrait-page .tpp-en {
     display: block;
     width: 100%;
     text-align: center;
@@ -267,6 +267,36 @@ figure#ThayLampThayLamp-e2 {
     margin-right: auto;
     font-size: 180%;
     color: var(--color-bark-dark);
+}
+
+#thays-portrait-page .tpp-vi {
+    text-align: center;
+    margin-top: 5%;
+}
+#thays-portrait-page .tpp-thay {
+    font-family: "CormorantSC-Bold";
+    font-size: 190%;
+    line-height: 130%;
+    margin-top: 5%;
+    color: var(--color-bark-dark);
+}
+#thays-portrait-page .tpp-date {
+    font-size: 14pt;
+    display: block;
+    margin-top: 3pt;
+    line-height: 130%;
+}
+
+#thays-portrait-page p {
+    font-size: 12pt;
+    line-height: 110%;
+    display: block;
+    width: 40%;
+    text-align: left;
+    padding-left: 12pt;
+    margin-top: 5%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #thays-full-title-page p {
@@ -691,7 +721,8 @@ figure img {
 
 
 article figure figcaption {
-    display: block; /* block eliminates remaining space between image and label*/
+    /* block eliminates remaining space between image and label*/
+    display: block; 
     font-size: 85%;
     line-height: 120%;
     text-indent: 0;
@@ -865,7 +896,9 @@ figure#articlebr-troi-bao-tang266137775101594156527050427864726797241279645n,
 figure#articlebr-troi-bao-tangScreenshot-edit,
 figure#articlebr-troi-dao-quangIMG1129,
 figure#articlesr-giac-nghiemSu-me-Giac-Nghiem-2-edited,
-figure#articlebr-phap-dungthay-bell3-torn-edges {
+figure#articlebr-phap-dungthay-bell3-torn-edges,
+figure#articlerecap-of-ceremoniesFrom-HueL1004781
+{
     column-span: all;
     float: none;
     margin-left: auto;
@@ -873,7 +906,10 @@ figure#articlebr-phap-dungthay-bell3-torn-edges {
     padding-left: 0;
     padding-right: 0;
 }
-
+figure#articlerecap-of-ceremoniesFrom-HueL1004781 {
+    width: 75%;
+    margin-bottom: 0;
+}
 figure#articlesr-doan-nghiemSr-doan-nghiem-edited {
     width: 70%;
 }
@@ -960,7 +996,7 @@ figure#articlebr-phap-haiThay-with-Br-Phap-Hai-e {
     width: 88% !important;
 }
 figure#articlebr-phap-linhFDTfJpjWUAUYC5crop {
-    width: 88% !important;
+    width: 100% !important;
 }
 figure#articlerichard-bradyR-and-KJ-at-Centro-Avalokita-2015crop {
     width: 80% !important;
