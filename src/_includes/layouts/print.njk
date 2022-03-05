@@ -1,27 +1,6 @@
 {% extends "layouts/print-frame.njk" %}
 {% block content %}
 
-<div id="table-of-contents">
-    <h1>{{ i18n.toc }}</h1>
-    <ul class="toc">
-        {%- for article in articles -%}
-            {%- if article.data.chapter -%}
-            <li class="chapterLi">
-                <a class="" href="#{{ article.data.title | slugify }}">
-                <span class="toc-chapter-title">{{ article.data.title }}</span>
-            {%- else -%}
-            <li>
-                <a class="toc-links" href="#{{ article.data.title | slugify }}">
-                <span class="toc-title">{{ article.data.title }}</span>
-                {%- if not article.data.author == "" -%}
-                <br/><span class="toc-author">{{ article.data.author }}</span>
-                {%- endif -%}
-            {%- endif -%}
-            </a></li>
-        {%- endfor -%}
-    </ul>
-</div>
-
 <div class="front-cover bleed">
     <div class="full-page-image">
         {% image ["LTLM45-2022 cover front v2022-02 ", size, " ", locale ," bleed.jpg"] | join %}
@@ -43,11 +22,30 @@
     {# da-co-duong-di-roi-con-khong-con-lo-so #}
     <h1>{% image "calligraphy/article titles/webp-marked/V2_Da-Co.webp" %}</h1>
     {% image "calligraphy/article titles 2 and dividers/5-masked/Dividers2-2-straight.webp" %}
-    <h2>Mừng Làng Mai <span class="num40">40</span> tuổi<span id="ambrsd">&</span>Tưởng nhớ Sư Ông<span id="tnh">Thich Nhat Hanh</span></h2>
+    <h2>Tưởng nhớ Sư Ông<span id="ambrsd">&</span>Mừng Làng Mai <span class="num40">40</span> tuổi</h2>
 {%- endif -%}
 </div>
 
-
+<div id="table-of-contents">
+    <h1>{{ i18n.toc }}</h1>
+    <ul class="toc">
+        {%- for article in articles -%}
+            {%- if article.data.chapter -%}
+            <li class="chapterLi">
+                <a class="" href="#{{ article.data.title | slugify }}">
+                <span class="toc-chapter-title">{{ article.data.title }}</span>
+            {%- else -%}
+            <li>
+                <a class="toc-links" href="#{{ article.data.title | slugify }}">
+                <span class="toc-title">{{ article.data.title }}</span>
+                {%- if not article.data.author == "" -%}
+                <br/><span class="toc-author">{{ article.data.author }}</span>
+                {%- endif -%}
+            {%- endif -%}
+            </a></li>
+        {%- endfor -%}
+    </ul>
+</div>
 
 {%- for article in articles -%}
     {% set title = article.data.title %}

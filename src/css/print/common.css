@@ -217,7 +217,9 @@ figure {
 #title-page h2 #ambrsd {
     display: block;
     font-style: italic;
-    line-height: 110%;
+    font-size: 154%;
+    font-weight: 500;
+    line-height: 120%;
 }
 #title-page h2 #tnh {
     display: block;
@@ -248,7 +250,7 @@ figure#calligraphyzen-circlezen-circle {
     padding-top: 30%;
 }
 
-figure#ThayLamp-e2 {
+figure#ThayLampThayLamp-e2 {
     float: none;
     width: 60%;
     padding-top: 10%;
@@ -314,12 +316,12 @@ figure {
 }
 
 .chapterLi {
-    padding-top: 12pt;
-    padding-bottom: 4pt;
+    padding-top: 14pt;
+    padding-bottom: 0pt;
 }
 
 .toc-chapter {
-    padding-left: 6pt;
+    padding-left: 0pt;
 }
 
 .toc-chapter-title {
@@ -337,8 +339,10 @@ figure {
     position: relative;
     display: inline-block;
     width: 22pt;
+    vertical-align: top;
     text-align: right;
-    right: 8pt;
+    left: 73mm;
+    /* right: 8pt; */
     font-size: 14pt;
 }
 
@@ -350,10 +354,11 @@ ul.toc {
 }
 
 .toc-title {
-    position: relative;
+    /* position: relative; */
     display: inline-block;
     /* text-indent: -6pt;
     padding-left: 6pt; */
+    margin-left: -5mm;
     width: 68mm;
     font-weight: bold;
     /* color: var(--color-tower-dark); */
@@ -362,15 +367,20 @@ ul.toc {
 .toc-author {
     position: relative;
     display: inline-block;
-    text-indent: -6pt;
+    padding-top: 1pt;
     padding-left: 6pt;
-    left: 22pt;
+    text-indent: -6pt;
+    width: 68mm;
+    margin-left: -5mm;
+    left: 24pt;
 }
 
 ul.toc li {
-    margin-left: 10pt;
-    margin-bottom: 10pt;
+    margin-left: 3pt;
+    margin-bottom: 12pt;
     page-break-inside: avoid;
+    /* border-top: 0.5mm solid hsla(0, 0%, 87%, 0.075); */
+    /* background-color: rgb(231, 231, 231); */
 }
 
 a {
@@ -929,12 +939,17 @@ figure#articlebr-phap-linhFDTfJpjWUAUYC5crop,
 figure#articlebr-troi-thien-chi5brot,
 figure#articlepv-in-2021Monastic-retreatMonastic-retreat20211,
 figure#articlepv-in-2021Monastic-retreatMonastic-retreat202110,
-figure#articlepv-in-2021Monastic-retreatDSC8304
+figure#articlepv-in-2021Monastic-retreatDSC8304,
+html:lang(en) figure#articlesr-tue-nghiemSrTueThay
 {
     float: none !important;
     margin-left: auto;
     margin-right: auto;
 }
+html:lang(en) figure#articlesr-tue-nghiemSrTueThay {
+    width: 60% !important;
+}
+
 figure#articlebr-phap-an60e {
     width: 60% !important;
 }
@@ -1162,6 +1177,8 @@ figure#articlefor-chaptersHandsReadingOut2 {
 }
 
 
+
+
 figure#articleeulogy-in-vietnamL1004781,
 figure#articlebr-troi-duc-hienIMG5858-edited {
     width: 86%;
@@ -1331,14 +1348,16 @@ article blockquote span:lang(zh) {
 }
 
 
-
+.article-tributes-to-thay blockquote,
 .article-loi-tri-an-tu-cong-dong-quoc-te blockquote {
+    margin-top: 22pt;
     margin-bottom: 22pt;
     font-style: normal;
     text-indent: 0pt;
     page-break-inside: avoid;
 }
 
+.article-tributes-to-thay blockquote cite,
 .article-loi-tri-an-tu-cong-dong-quoc-te blockquote cite {
 	/* position: relative; */
 	display: block;

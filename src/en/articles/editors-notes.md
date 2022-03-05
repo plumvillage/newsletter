@@ -14,6 +14,6 @@ title: Editor’s Notes
 </div>
 
 <div id="thays-portrait-page">
-    {% image "ThayLamp-e2.jpg" %}
+    {% image "ThayLamp/ThayLamp-e2.jpg" %}
     <div>11.10.1926 – 22.01.2022</div>
 </div>
