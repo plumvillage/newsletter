@@ -5,6 +5,8 @@ author: Tiến sĩ Elli Weisbaum (Chân Thanh Tuyền)
  <!-- - Ứng dụng chánh niệm vào lĩnh vực y tế -->
 <!-- *Chân Thanh Tuyền (True Blue Stream)* -->
 
+<p class="editors-note">Bài viết được BBT chuyển ngữ từ Tiếng Anh</p>
+
 {% image "article/dr-elli-weisbaum/Retreat-1998-at-OMEGA-Institute-Centre-Thay-Right-Elli-Weisbaum_cut.jpg" %}
 
 ## Khóa tu chánh niệm đầu tiên năm 10 tuổi
