@@ -5,6 +5,8 @@ author: Thầy Thích Nguyên Tịnh
 
 {% image "article/br-nguyen-tinh/BrNguyenTinh1-edit.jpg" %}
 
+<p class="editors-note">Trích sổ công phu</p>
+
 ## Để tôi cùng có mặt
 
 03 tháng 11 năm 2015
@@ -51,13 +53,12 @@ Tôi thức dậy, nước mắt đầm đìa. Tôi khóc một cách chân thà
 
 Một buổi chiều tôi đi bộ từ Sơn Hạ lên xóm Thượng. Chân trời mang màu hỏa hoàng với những rừng cây chuyển màu và rụng lá. Con đường ngập lá vàng. Tôi nhận ra một bụi cỏ nhỏ và những chiếc lá mới, những thứ mà đã đi trên con đường này bao nhiêu lần nhưng tôi chưa từng để ý. Giây phút đó, tôi chợt hiểu ra tại sao Thầy cứ dạy đi dạy lại về hơi thở và bước chân, cứ nhắc hoài cái đẹp của con đường huyền thoại, cứ ca ngợi trúc tím trời xanh hay chỉ cho học trò sự mầu nhiệm của một chiếc lá. Ngày xưa nghe pháp thoại, đọc sách hay nghe huynh đệ kể những mẩu chuyện về Thầy, tôi hay thắc mắc có gì nơi những thứ đó đâu mà Thầy cứ nhắc hoài không chán? Hôm ấy nhìn thấy một bụi cỏ và những chiếc lá mới trên con đường cũ, tôi mỉm cười và nhận ra trong mắt tôi đã tìm thấy được một lần cái đẹp, sự mầu nhiệm của những điều tưởng như bình thường đó. Và đã thấy được một lần rồi thì tôi có thể hiến tặng cho tôi cái thấy đó thêm một lần nữa. Những phát hiện đơn sơ ấy nuôi lớn niềm vui thực tập trong tôi, nuôi lớn sự biết ơn nơi tuệ giác linh động của Thầy, nuôi lớn niềm tin về khả năng tiếp nhận và trao truyền dòng chảy tâm linh không bao giờ đứt đoạn nơi tăng thân.
 
-<div class="verse"><p>Con đường lá<br/>
+<div class="verse">
+<p>Con đường lá<br/>
 Trải ngàn thu<br/>
 Cánh mai nở<br/>
 Thoảng hương trầm<br/>
 Thơm mỗi nét cổ thư.</p></div>
-
-- Trích sổ công phu -
 
 <div class="article-end"></div>
 
