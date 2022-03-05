@@ -51,7 +51,7 @@ Vài năm sau, cũng một mùa Noel tôi đã nhận được tới chín đôi
 
 Khi tôi đang ngồi lạch cạch những dòng chữ này thì cũng sắp tới Noel. Tôi sẽ dành tình thương cho huynh đệ - tình thương như tôi đã được nhận. Tôi thấy thương tất cả các anh chị em, vì có huynh đệ cho nên mới có tôi. Chúng ta là con một nhà, cùng mang một màu áo, cùng đi chung một con đường, cùng chung một lý tưởng. Thương lắm áo nâu ơi! 
 
-#g# Con là người có phước
+## Con là người có phước
 
 Nhìn lại chặng đường 13 năm xuất gia, tôi thấy mình may mắn lắm. Tôi vẫn tin là nhờ vào phước đức của tổ tiên, ông bà, cha mẹ mà tôi có phước duyên được gặp tăng thân, được làm học trò của Sư Ông. Làm một người tu là tôi thấy hạnh phúc nhất. 
 
