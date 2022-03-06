@@ -59,7 +59,7 @@ Since our initial encounter, there have been many more events, and there will be
 
 Dear community, here is the poem I shared about earlier, which has helped a heart to heal and to grow. It was born in French and then translated into English because it lives in an international sangha. 
 
-<div class="verse"><p>The sangha is as vast as the ocean<br/>
+<div class="verse" id="poem-hien-nanh"><p>The sangha is as vast as the ocean<br/>
 High as a mountain<br/>
 Free as the unobstructed sky</p>
 

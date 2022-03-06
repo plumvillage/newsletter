@@ -1009,30 +1009,35 @@ figure#articlebr-troi-thien-chi5brot,
 figure#articlepv-in-2021Monastic-retreatMonastic-retreat20211,
 figure#articlepv-in-2021Monastic-retreatMonastic-retreat202110,
 figure#articlepv-in-2021Monastic-retreatDSC8304,
-html:lang(en) figure#articlesr-tue-nghiemSrTueThay
+html:lang(en) figure#articlesr-tue-nghiemSrTueThay,
+figure#articlesr-trang-hien-nhanENDSC9591-edited
 {
     float: none !important;
     margin-left: auto;
     margin-right: auto;
 }
+
+figure#articlesr-trang-hien-nhanENDSC9591-edited {
+    width: 80%;
+}
 html:lang(en) figure#articlesr-tue-nghiemSrTueThay {
-    width: 60% !important;
+    width: 60%;
 }
 
 figure#articlebr-phap-an60e {
-    width: 60% !important;
+    width: 60%;
 }
 figure#articlebr-phap-ung8826595315246533743600235026231803661254656ne {
-    width: 75% !important;
+    width: 75%;
 }
 figure#articlebr-phap-haiThay-with-Br-Phap-Hai-e {
-    width: 88% !important;
+    width: 88%;
 }
 figure#articlebr-phap-linhFDTfJpjWUAUYC5crop {
-    width: 100% !important;
+    width: 100%;
 }
 figure#articlerichard-bradyR-and-KJ-at-Centro-Avalokita-2015crop {
-    width: 80% !important;
+    width: 80%;
 }
 html:lang(en) figure#articlebr-troi-thien-chi5brot {
     width: 70%;
@@ -1168,7 +1173,7 @@ on other occasions, I would adjust the margin-top and height of .pagedjs_page_co
 }
 figure#articlebr-phap-kham1998-TangThanXomThuong-MuaHe-cut {
     position: absolute;
-    bottom: -89mm;
+    bottom: -97mm;
     display: block;
     float: none;
     width: 70%;
@@ -1294,6 +1299,20 @@ figure#articlesr-trang-bo-deSc-Bo-DJe-4-edit {
 #poem-duyen {
     margin-left: 15%;
 }
+
+
+
+#poem-hien-nanh {
+    page-break-inside: unset !important;
+}
+#poem-hien-nanh p {
+    text-indent: -11pt !important;
+    margin-left: 11pt !important;
+}
+#poem-hien-nanh p + p {
+    margin-top: 1pt;
+}
+
 
 .PAGE-OF-articlebr-phap-linhCS21202110152RL0936-crop4 .pagedjs_footnote_area
 ,.PAGE-OF-articlebr-phap-huuIMG2227e .pagedjs_footnote_area
