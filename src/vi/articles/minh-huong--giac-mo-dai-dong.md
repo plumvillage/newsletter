@@ -1,6 +1,6 @@
 ﻿---
 title: Giấc mơ đại đồng
-author: Minh Hương (Chân Thu Lâm)
+author: Phạm Minh Hương (Chân Thu Lâm)
 ---
 
 Cuộc đời là một hành trình trải nghiệm và chế tác hạnh phúc hay khổ đau là tùy thuộc vào chính mình. Mãi khi đến Làng Mai con mới kinh nghiệm được điều đó. 
