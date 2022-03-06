@@ -22,7 +22,7 @@ module.exports = [
 "su-ong-lang-mai--tang-than-dich-thuc",
 "su-co-dieu-tu-nghiem--ngoi-lang-cua-chung-toi",
 "thay-phap-an--thap-len-ngon-nen",
-"su-co-chan-duc--tro-ve-xom-ha",
+"su-co-chan-duc--thay-thay-trong-tang-than",
 "su-co-doan-nghiem--thuong-nhu-thay-thuong",
 // Phỏng vấn thầy Pháp Hải	Br. Pháp Hải
 "su-co-hoa-nghiem--nep-xua",
