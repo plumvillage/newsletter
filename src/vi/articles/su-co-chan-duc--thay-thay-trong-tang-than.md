@@ -74,10 +74,11 @@ Con nhớ ngày xưa khi con đi theo Thầy về Hàn Quốc hay Trung Quốc, 
     Thị nhân hành tà đạo</br>
     Bất năng kiến Như Lai</p></div>
 
-<p> (Tìm ta qua hình sắc</br>  
+<div class="verse"><p> 
+    (Tìm ta qua hình sắc</br>  
     Cầu ta qua âm thanh</br> 
     Là kẻ hành tà đạo</br>  
-    Không thấy được Như Lai)</p>
+    Không thấy được Như Lai)</p></div>
 
 Bạch Thầy, trước khi Thầy thị hiện bệnh và sau khi Thầy thị hiện bệnh, con đã không thực sự thấy Thầy, nhưng khi con thấy tăng thân đẹp như vậy thì con đã bắt đầu thấy Thầy.
 
