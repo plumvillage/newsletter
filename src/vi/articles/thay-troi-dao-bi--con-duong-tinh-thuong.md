@@ -51,9 +51,10 @@ Tôi chưa tới 35 tuổi nên vẫn còn được sinh hoạt với nhóm Wake
 
 <p class="noIndent">Trong bài kệ chúc tán, tôi vô cùng tâm đắc câu:</p>
 
-> Hiện tiền đại chúng  
-> Tu tập tinh chuyên  
-> Biết thương yêu nhau như ruột thịt…
+<div class="verse"><p>
+    Hiện tiền đại chúng</br>  
+    Tu tập tinh chuyên</br>  
+    Biết thương yêu nhau như ruột thịt...</p></div>
 
 Mỗi lần đọc tụng đến câu này thì lòng tôi lại xúc động. Bởi đó cũng chính là tâm nguyện của tôi khi bước trên con đường này - tu học thật hạnh phúc cùng với người trẻ, hết lòng thương yêu và nâng đỡ mọi người xung quanh. Tôi muốn các bạn trẻ thấy rằng sự thực tập có thể rất vui, chứ không cần phải quá nghiêm túc như các bạn vẫn nghĩ. Tu học khá là vui!
 
