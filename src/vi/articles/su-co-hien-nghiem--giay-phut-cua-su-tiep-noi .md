@@ -1,10 +1,11 @@
-﻿**GIÂY PHÚT CỦA SỰ TIẾP NỐI**
+﻿---
+title: Giây phút của sự tiếp nối
+author: Sư cô Chân Hiến Nghiêm
+---
 
-***Sư cô Chân Hiến Nghiêm***
+<p class="editors-note">Bài viết được BBT chuyển ngữ từ tiếng Anh.</p>
 
-*(Bài viết được BBT chuyển ngữ từ tiếng Anh)*
-
-Thầy kính thương, 
+<p class="noIndent">Thầy kính thương,</p>
 
 Chúng con không biết nhờ phước duyên nào mà chúng con đã được may mắn làm đệ tử của Thầy, được Thầy chỉ dạy và được làm một thành phần của tăng thân.
 
@@ -14,13 +15,13 @@ Thầy đã truyền đạt lại cho chúng con những giáo lý cốt tủy c
 
 Thầy đã dạy cho chúng con một đạo Bụt mới để phụng sự xã hội cũng như tháo gỡ, hóa giải những tình trạng khổ đau và khó khăn của thời đại ngày nay. Thầy đã xây dựng nên một tăng thân lành mạnh, hạnh phúc để làm nơi nương tựa cho tất cả chúng con; một nền văn hóa xuất sĩ sinh động, giàu có để nuôi dưỡng và yểm trợ chúng con trên con đường thực tập.
 
-Kính bạch Thầy, 
+<p class="noIndent">Kính bạch Thầy,</p>
 
 Khởi nguồn từ ngọn lửa trong trái tim của một cậu bé sinh ra nơi miền Trung Việt Nam, tâm bồ đề dũng liệt của Người đã phát triển và trở thành nguồn sức mạnh phi thường cho sự nghiệp hoằng pháp độ sinh trải khắp Đông Tây. Thầy đã gặp được ông Đạo nơi giếng nước thơm trong, Thầy đã thấy được vị thiền sư mà mình muốn trở thành. Thầy có một giấc mơ và Thầy đã thành tựu được giấc mơ ấy. Tại mỗi ngã rẽ, Thầy luôn chọn cho mình con đường gập ghềnh nhiều khó khăn, trở ngại mà ít người chọn.
 
 Trong suốt cuộc đời mình, Thầy đã trải qua không biết bao nhiêu đau thương mất mát cũng như tình trạng áp bức, bất công. Đó là khi Thầy bị lưu vong, hay lúc nhận tin học trò của mình bị bắn bên bờ sông, khi hộ chiếu của Thầy bị vô hiệu hóa, hay khi chương trình “Máu chảy ruột mềm” cứu vớt hàng ngàn thuyền nhân trên biển bị buộc phải dừng lại. Thầy đã trải qua những giây phút ấy bằng sức mạnh của sự thực tập chánh niệm, của nếp sống can đảm, từ bi và cái nhìn sáng tỏ.
 
-Thầy kính thương, 
+<p class="noIndent">Thầy kính thương,</p>
 
 Dù khó khăn đến mấy, Thầy cũng không bao giờ bỏ cuộc, không bao giờ đánh mất niềm tin vào con đường, vào những pháp môn thực tập có thể thực sự giúp ích cho thế giới. Từ những yếu tố không-phải-là-tăng-thân, Thầy đã tìm ra phương cách để xây dựng nên tăng thân. Vượt qua những ngại ngùng và e dè của mình, Thầy đã mở rộng trái tim để đón nhận những con người, những nền văn hóa và những quan điểm mới.
 
@@ -52,11 +53,7 @@ Kính bạch Thầy, chúng con biết Thầy không chỉ là hình hài này. 
 
 Thầy kính thương, Thầy đã nói: “Nơi tình thương và người được thương là một, mỗi khoảnh khắc sẽ mãi là thiên thu”. Thầy đang hiện diện trong chúng con ngay lúc này đây, khi thầy trò chúng ta đang cùng leo đồi thế kỷ 21. Những gì Thầy chưa làm xong, chúng con xin hứa sẽ hoàn thành cho Thầy. Xin được kính dâng lên Thầy niềm kính thương và lòng biết ơn vô hạn của chúng con. Chúng con nguyện sẽ tiếp tục mang những lời Thầy dạy, lòng từ bi và tuệ giác của Thầy đi về tương lai. 
 
-Kính bạch Thầy,
-
-Đây là giây phút huyền thoại!
-
-Đây là giây phút của sự tiếp nối!
-
-Các sư con của Thầy. 
-
+<p class="noIndent">Kính bạch Thầy,<br/>
+Đây là giây phút huyền thoại!<br/>
+Đây là giây phút của sự tiếp nối!<br/>
+Các sư con của Thầy.</p>

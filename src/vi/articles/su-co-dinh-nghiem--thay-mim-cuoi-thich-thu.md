@@ -5,13 +5,13 @@ author: Sư cô Chân Định Nghiêm
 
 ## Đi xem tuồng Tề thiên đại thánh
 
-Bạch Thầy,
+<p class="noIndent">Bạch Thầy,</p>
 
 Con nhớ những chuyến đi hoằng pháp ở Trung Quốc vào những năm 1995, 1999, 2000 và 2002 đã mang đến cho Thầy thật nhiều niềm vui và hạnh phúc. Thầy từng nói với chúng con rằng xưa kia, các Tổ đã từ Trung Hoa đi sang Việt Nam hoằng hóa rất nhiều, kinh điển, sách Phật hầu hết bằng tiếng Hán. Hôm nay, Thầy trở lại Trung Quốc giảng dạy là để đền ơn chư Tổ. Phẩm vật cúng dường mà Thầy dâng lên chư Tổ là nhiều bộ sách của Thầy đã được dịch ra tiếng Hoa.
 
 Chuyến đi nào chương trình cũng dày đặc, nào là những khóa tu, nào là những ngày quán niệm dành cho xuất sĩ cũng như cư sĩ. Trong chuyến đi 2002, có một lần sau một ngày sinh hoạt, thầy trò mình lên xe đi về. Con và sư em Pháp Niệm làm thị giả Thầy nên sư em con ngồi cạnh Thầy, còn con thì ngồi sau lưng Thầy. Phía sau con là sư em Pháp Hải. Sư em con thông thạo tiếng Hoa nên lúc nào cũng có bao nhiêu là chuyện để kể cho các chị em, chuyện chốn chùa chiền cũng như chuyện thế giới bên ngoài. Chiều hôm đó, sư em rủ mấy chị em con đi xem tuồng hát  Tề thiên đại thánh đang được diễn tại nhà hát lớn của Bắc Kinh. Các chị em đang thầm thì bàn tán sôi nổi thì bỗng nhiên Thầy xoay qua phía con và lên tiếng thật to: “Định Nghiêm, sao con không mời Thầy đi xem hát với tụi con?” Con sửng sốt và nghĩ trong lòng: “Ủa, Thầy mà cũng đi xem hát sao?” Con còn đang ngạc nhiên và chưa kịp phản ứng thì Thầy lặp lại câu hỏi thêm một lần nữa. Con bèn nhanh nhẩu chắp tay thưa: “Bạch Thầy, tụi con thỉnh Thầy đi xem Tề thiên đại thánh với tụi con.” 
 
-Thầy mỉm cười thích thú. 
+<p class="noIndent">Thầy mỉm cười thích thú.</p>
 
 Trong lòng con và sư em Pháp Hải trào dâng một niềm vui khó tả. Không những đã không bị la vì đã dám bàn tính đến chuyện đi xem hát mà lại còn được Thầy hưởng ứng và cùng đi chung nữa chứ. Còn gì vui bằng khi có Thầy cùng tham dự cuộc vui với mình? Nhưng cuối cùng thì thầy trò đều đi về nghỉ ngơi để chuẩn bị cho một ngày dài kế tiếp chứ đâu có đi xem hát gì đâu! Ấy vậy mà cả thầy lẫn trò tràn đầy hạnh phúc, thỏa mãn không khác gì như vừa mới đi xem hát về.
 

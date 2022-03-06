@@ -5,7 +5,7 @@ author: Thay’s Disciples in Plum Village
 
 *28<sup>th</sup> January 2022*
 
-Dear Beloved Thay,
+<p class="noIndent">Dear Beloved Thay,</p>
 
 It is the greatest fortune of our life to have been able to become your students, to receive your guidance, and to belong to your Beloved Community.
 
