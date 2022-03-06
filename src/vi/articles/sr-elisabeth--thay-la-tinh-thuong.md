@@ -36,14 +36,15 @@ Từ ngày hôm ấy, mọi thực tập chánh niệm áp dụng trong công vi
 
 Trong khóa tu đầu tiên ở Làng ấy, mỗi ngày đều có chấp tác. Những bài giảng của Thầy được in thành sách. Thầy đặt lên bàn từng xấp những trang khác nhau của cuốn sách. Một cách chánh niệm, theo dõi hơi thở và bước chân, mọi người đi quanh bàn gom lại từng trang sách thành một tập. Cứ thế, lần lượt cho ra đời từng cuốn sách, trong nụ cười. 
 
-> Một bước chân, thở vào, con cầm lên một trang sách,  
-> Một bước chân, thở ra, con mỉm cười.  
-> Một bước chân, thở vào, một cuốn sách sẽ thành hình,  
-> Một bước chân, thở ra, con mỉm cười.
+<div class="verse"><p>
+    Một bước chân, thở vào, con cầm lên một trang sách,</br>  
+    Một bước chân, thở ra, con mỉm cười.</br>  
+    Một bước chân, thở vào, một cuốn sách sẽ thành hình,</br>  
+    Một bước chân, thở ra, con mỉm cười.</p></div>
 
-Kinh nghiệm “lạ lùng” này đã tới với Giác Nghiêm ngày mới thực tập. Giác Nghiêm rất thích chấp tác trong chánh niệm. Ai cũng tham gia làm việc, kể cả Thầy. Một buổi sáng, một phụ nữ trẻ tiến về phía Giác Nghiêm và đề nghị Giác Nghiêm giúp cắt bánh mì “trong chánh niệm”. Cô ấy đã nói thêm ba từ ấy một cách nghiêm túc. Thở vào, đây là ổ bánh mì. Thở ra,…
+Kinh nghiệm “lạ lùng” này đã tới với Giác Nghiêm ngày mới thực tập. Giác Nghiêm rất thích chấp tác trong chánh niệm. Ai cũng tham gia làm việc, kể cả Thầy. Một buổi sáng, một phụ nữ trẻ tiến về phía Giác Nghiêm và đề nghị Giác Nghiêm giúp cắt bánh mì “trong chánh niệm”. Cô ấy đã nói thêm ba từ ấy một cách nghiêm túc. Thở vào, đây là ổ bánh mì. Thở ra, ...
 
-Trời ơi, thế nào là cắt bánh mì *trong chánh niệm* đây? Một mối hoài nghi lớn đi lên trong Giác Nghiêm. Câu hỏi cứ trở đi trở lại. Cắt bánh mì *trong chánh niệm* là như thế nào? Một lát sau, người phụ nữ quay lại, chẳng có gì xảy ra cả. Cô ấy đã nhẹ nhàng giúp Giác Nghiêm thoát ra được giây phút “đứng hình” này. Khi để trí năng chế ngự, nghi ngờ sẽ bắt đầu nảy sinh trong lòng chúng ta… 
+Trời ơi, thế nào là cắt bánh mì *trong chánh niệm* đây? Một mối hoài nghi lớn đi lên trong Giác Nghiêm. Câu hỏi cứ trở đi trở lại. Cắt bánh mì *trong chánh niệm* là như thế nào? Một lát sau, người phụ nữ quay lại, chẳng có gì xảy ra cả. Cô ấy đã nhẹ nhàng giúp Giác Nghiêm thoát ra được giây phút “đứng hình” này. Khi để trí năng chế ngự, nghi ngờ sẽ bắt đầu nảy sinh trong lòng chúng ta ...
 
 <div class="verse"><p><b>Những kỷ niệm đẹp</b><br/>
 Nghe Pháp<br/>
