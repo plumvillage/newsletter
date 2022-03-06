@@ -138,10 +138,11 @@ if (generateArticles) {
     Array(3).fill().forEach(processArticle);
 }
 
-generatePDF("http://fee:8080/vi/articles-print-preview/su-ong-lang-mai--tang-than-dich-thuc/", `./builds/MYOUTPUT.pdf`)
+// generatePDF("http://fee:8080/vi/articles-print-preview/su-ong-lang-mai--tang-than-dich-thuc/", `./builds/MYOUTPUT.pdf`)
 
 
+generatePDF("http://localhost:8080/en/a4/", `./builds/en-a4_${formatDate(new Date())}.pdf`)
+generatePDF("http://localhost:8080/vi/a4/", `./builds/vi-a4_${formatDate(new Date())}.pdf`)
 
-// generatePDF("http://localhost:8080/en/a4/", `./builds/en-a4_${formatDate(new Date())}.pdf`)
 // generatePDF("http://localhost:8080/en/a4-bleed/", `./builds/en-a4-bleed_${formatDate(new Date())}.pdf`)
-generatePDF("http://localhost:8080/vi/a4-bleed/", `./builds/vi-a4-bleed_${formatDate(new Date())}.pdf`)
+// generatePDF("http://localhost:8080/vi/a4-bleed/", `./builds/vi-a4-bleed_${formatDate(new Date())}.pdf`)

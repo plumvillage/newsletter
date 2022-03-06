@@ -12,7 +12,7 @@ title: Thank you Thay
 > “Little did I know then that it would be the last Summer Retreat taught directly by Thay. I arrived in a state of utter exhaustion, incredibly angry at the world, and could not see a way out. Within five short days, a deep transformation had taken place. There was lightness, joy, and hope in my heart. I made lifelong friends. I took the Five Mindfulness Trainings and do my best every day to put them into practice. My life is infinitely clearer, more grounded, calm, spacious, and filled with gratitude. Thank you so much, dear Teacher, dear Community. For everything.”<cite>Tanya</cite>
 
 
-> “At 0:00, January 22nd, Thay moved outside of time……Has he passed? Is he dead? What do we see when we study the corpse? What is it that we mourn?
+> “At 0:00, January 22nd, Thay moved outside of time… Has he passed? Is he dead? What do we see when we study the corpse? What is it that we mourn?
 > 
 > “Thay was like a sun-drenched boat that kept me warm and safe on the way to the shore. He taught me how to touch the water and the earth as a means of feeling my own fundamental goodness and wisdom. He taught me how to discern the moon from the pointing finger, the name from the flower, the righteous anger from the fear, the crying infant from the tender parent. He showed me the joys and peace of uni-tasking and taking a single step. He taught me that every mindful breath is our shared humanity. He reminded me of the value of all relationships.
 > 
@@ -23,9 +23,7 @@ title: Thank you Thay
 
 ## Meeting Thay on Retreat
 
-> “Thay has been such a grounding and inspiring human in my life. Two of my favorite things he has said…
-‘You never appreciate the absence of a toothache,’ and,
-‘In this world we have honey and so we also have bees.” 
+> “Thay has been such a grounding and inspiring human in my life. Two of my favorite things he has said… ‘You never appreciate the absence of a toothache,’ and, ‘In this world we have honey and so we also have bees.
 > 
 > “This second quote is from a time I went to Deer Park Monastery to hear him speak. While on walking meditation, a woman stepped on a hive of bees and the angry bees stung the entire group. People were shrieking. Thay stayed calm as leaders at the monastery helped those who were stung. He then walked with some of the group back up to where he was giving his talk. Amidst the drama of the moment, people eventually made their way back to the building to sit down for the talk but there was a lot of anxiety and confusion in the air. After some time passed, Thay came and sat down at the front of the room, rang the bell to begin his talk, and all he said to address what had happened was – “in this world we have honey and so we also have bees.’ It’s a moment I will never forget.”<cite>Alisa</cite>
 
@@ -71,3 +69,5 @@ title: Thank you Thay
 > “Thay came into my life in 2016 just after my sister suddenly passed away and I was lost in the pain. I discovered him on Youtube and found refuge in the gentleness and loving-kindness in his words and his presence. He helped me grieve and find joy again. He has become a teacher to me although I am a Christian. He will live on in my heart and actions. May he be rewarded with eternal rest and peace and may we be his continuation on the path of love and compassion.”<cite>Trish</cite>
 
 > “I found a copy of *The Heart of the Buddha’s Teaching* in the laundry room of my apartment building 11 years ago. It transformed my life and how I interact with the world. It set me on a journey of mindfulness, open-hearted curiosity, and practice. I had the privilege to experience a retreat at Blue Cliff. Watering the seeds of wisdom and compassion and embracing impermanence and joy has resulted in action from co-leading meditation each week with my colleagues at the Environmental Protection Agency in the US, to community building, social justice and anti-racism work, to transforming old patterns of dealing with anger and loving more authentically. I still have much to learn. Thank you, Thay. I bow deeply. May we all be happy, peaceful, and free.”<cite>Denise</cite>
+
+{% image "article/thank-you-thay/21 day retreat 2014 - Thay-e.jpg" %}

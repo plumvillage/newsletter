@@ -1,4 +1,4 @@
-module.exports = ["editors-notes",
+module.exports = [
 /*------*/"Chapter1",
 "tributes-to-thay",
 "thank-you-thay",

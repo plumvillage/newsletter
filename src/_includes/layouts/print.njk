@@ -20,7 +20,7 @@
 
 {%- if locale == "vi" -%}
     {# da-co-duong-di-roi-con-khong-con-lo-so #}
-    <h1>{% image "calligraphy/article titles/webp-marked/V2_Da-Co.webp" %}</h1>
+    <h1>{% image "calligraphy/article titles 3/3-masked/da co duong di roi con khong con lo so.webp" %}</h1>
     {% image "calligraphy/article titles 2 and dividers/5-masked/Dividers2-2-straight.webp" %}
     <h2>Tưởng nhớ Sư Ông<span id="ambrsd">&</span>Mừng Làng Mai <span class="num40">40</span> tuổi</h2>
 {%- endif -%}
@@ -29,6 +29,11 @@
 
 
 {%- if locale == "vi" -%}
+<div id="zen-circle-page">
+    {% image "calligraphy/zen-circle/zen-circle.webp" %}
+<div class="page-break"></div>
+</div>
+
 <div id="thays-portrait-page">
     {% image "ThayLamp/ThayLamp-e2.jpg" %}
     <div class="tpp-vi"><span class="tpp-thay">Thiền sư Thích Nhất Hạnh</span><br/>
@@ -36,11 +41,30 @@
 <p>Thế hệ thứ 42 của tông Lâm Tế và<br/>thế hệ thứ 8 của phái Liễu Quán<br/>
 Niên trưởng, Trú trì Tổ đình Từ Hiếu<br/>
 Khai sơn Đạo tràng Mai Thôn quốc tế</p></div>
-<div class="page-break"></div>
 </div>
+{%- endif -%}
+
+
+{%- if locale == "en" -%}
+<article class="article-editors-notes">
+<h1>Editor’s Notes</h1>
+<p>TODO Editor’s Notes (hard)</p>
+<div class="article-end"></div>
+</article>
 
 <div id="zen-circle-page">
     {% image "calligraphy/zen-circle/zen-circle.webp" %}
+<div class="page-break"></div>
+</div>
+
+<div id="thays-full-title-page">
+<p>42<sup>nd</sup> Generation of the Linji Dhyana School,<br/>and 8<sup>th</sup> Generation of the Liễu Quán Dharma Line,<br/>Patriarch and Abbot of Từ Hiếu Lineage,<br/>Founder of the International Plum Village Dharma School,<br/>whose first name is Trừng<br/> and whose second name is Quang,<br/>and whose lineage name is Phùng Xuân,<br/>and whose Dharma Title is Zen Master Nhất Hạnh,<br/>and whose family name is Nguyễn,<br/>an Awakened Master.</p>
+<div class="page-break"></div>
+</div>
+
+<div id="thays-portrait-page">
+    {% image "ThayLamp/ThayLamp-e2.jpg" %}
+    <div class="tpp-en">11.10.1926 – 22.01.2022</div>
 </div>
 {%- endif -%}
 
@@ -103,10 +127,9 @@ Khai sơn Đạo tràng Mai Thôn quốc tế</p></div>
 </div>
 <div class="back-cover bleed">
     <div class="full-page-image">
-        {% image ["back-cover-", locale ,"-bleed.jpg"] | join %}
+        {# {% image ["back-cover-", locale ,"-bleed.jpg"] | join %} #}
+        {% image ["LTLM45-2022-cover-back-", locale ,"-v20220209a.jpg"] | join %}
     </div>
 </div>
-
-{# {% include "partials/testing.njk" %} #}
 
 {% endblock %}

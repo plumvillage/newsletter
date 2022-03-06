@@ -17,7 +17,9 @@ Trong sự tĩnh lặng ấy, chú chó vàng của Làng, vốn rất hiền l�
 
 Sau khoảng 30 vòng chạy đi chạy lại liên tục như vậy, chú chó vàng không sủa nữa, chú ngoan ngoãn tiến tới phủ phục trước mặt Thiền sư. Và tôi lại ngỡ ngàng thêm một lần nữa, khi lần đầu tiên nhận ra rằng sự tĩnh lặng ẩn chứa trong đó một sức mạnh vô cùng lớn lao và hùng tráng. Sự quỳ phục của chú chó vàng trước mặt vị Thiền sư tĩnh lặng là minh chứng cho điều đó.
 
-Sau này tôi mới biết, tôi đã may mắn nhường nào khi được diện kiến Thiền sư ngày hôm đó vì đã từ rất lâu, Thiền sư không ra khỏi tịnh thất. Tôi cũng đồng  cảm hơn với hành xử của chú chó. Quá phấn khích khi đã lâu lắm rồi mới được diện kiến và đảnh lễ Thiền sư nên đã “vui sướng” đến như vậy. 
+Sau này tôi mới biết, tôi đã may mắn nhường nào khi được diện kiến Thiền sư ngày hôm đó vì đã từ rất lâu, Thiền sư không ra khỏi tịnh thất. Tôi cũng đồng cảm hơn với hành xử của chú chó. Quá phấn khích khi đã lâu lắm rồi mới được diện kiến và đảnh lễ Thiền sư nên đã “vui sướng” đến như vậy.
+
+{% image "article/tam-tue-vien/13219.jpg" %}
 
 Ngày cuối cùng ở Làng, chúng tôi - những người đến từ nhiều nơi khác nhau, nói những thứ ngôn ngữ khác nhau, người trẻ người già - đều chia tay nhau trong hân hoan và an lạc. Tất cả đều tươi mát hơn ngày đầu tiên đến Làng. Tôi cũng vậy.
 

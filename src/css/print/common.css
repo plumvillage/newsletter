@@ -151,7 +151,7 @@ figure {
     break-after: page;
 }
 
-#title-page, #zen-circle-page, #thays-full-title-page, #thays-portrait-page, .chapter {
+#title-page, #zen-circle-page, #thays-full-title-page, #thays-portrait-page, .chapter, .article-editors-notes {
     page: noFooter;
 }
 
@@ -185,6 +185,11 @@ figure {
     margin-right: auto;
     /* margin: 0 auto; */
 }
+html:lang(vi) #title-page h1 {
+    padding-top: 33%;
+    /* more top space in viet */
+}
+
 #title-page figure {
     display: block;
     margin-left: auto;
@@ -302,7 +307,8 @@ figure#calligraphyzen-circlezen-circle {
 
 #thays-full-title-page p {
     display: block;
-    margin-top: 60%;
+    /* margin-top does not work in PDF output */
+    padding-top: 70%;
     margin-left: auto;
     margin-right: auto;
     width: 55%;
@@ -346,7 +352,14 @@ figure {
     margin-bottom: 24pt;
 }
 
+ul.toc > *:first-child {
+    padding-top: 0pt !important;
+}
+
+
 .chapterLi {
+    /* does not seem to work */
+    /* break-before: column; */
     padding-top: 14pt;
     padding-bottom: 0pt;
 }
@@ -854,6 +867,10 @@ h1#strolling-with-joy-on-a-sunny-day
     margin-bottom: -3mm;
 }
 
+h1#thanh-than-nguoi-ve-choi-bien-lon {
+    margin-bottom: 0mm;
+}
+
 h1#the-true-sangha figure,
 h1#the-true-sangha figure img
 {
@@ -923,7 +940,7 @@ figure#articlerecap-of-ceremoniesFrom-HueL1004781
     padding-right: 0;
 }
 figure#articlerecap-of-ceremoniesFrom-HueL1004781 {
-    width: 75%;
+    width: 80%;
     margin-bottom: 0;
 }
 figure#articlesr-doan-nghiemSr-doan-nghiem-edited {
@@ -1404,21 +1421,37 @@ article blockquote span:lang(zh) {
 
 
 .article-tributes-to-thay blockquote,
-.article-loi-tri-an-tu-cong-dong-quoc-te blockquote {
+.article-thank-you-thay blockquote,
+.article-loi-tri-an-tu-cong-dong-quoc-te blockquote
+{
     margin-top: 22pt;
     margin-bottom: 22pt;
     font-style: normal;
     text-indent: 0pt;
+}
+
+.article-tributes-to-thay blockquote,
+.article-loi-tri-an-tu-cong-dong-quoc-te blockquote
+{
     page-break-inside: avoid;
 }
 
 .article-tributes-to-thay blockquote cite,
-.article-loi-tri-an-tu-cong-dong-quoc-te blockquote cite {
-	/* position: relative; */
+.article-thank-you-thay blockquote cite,
+.article-loi-tri-an-tu-cong-dong-quoc-te blockquote cite
+{
 	display: block;
     margin-top: 3pt;
     width: 90%;
     text-indent: -6pt;
 	left: 15pt;
-    /* color: var(--color-bark-dark); */
+}
+
+/* no end marker here, because it is not in-line */
+
+.article-tributes-to-thay .last-article-element::after,
+.article-thank-you-thay .last-article-element::after,
+.article-loi-tri-an-tu-cong-dong-quoc-te .last-article-element::after
+{
+    content: none !important;
 }

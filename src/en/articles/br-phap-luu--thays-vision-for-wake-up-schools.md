@@ -33,7 +33,9 @@ Then we started doing more and more retreats for educators in Asia, Europe, Cana
 
 Br. Phap Dung, Sr. Chau Nghiem, Br. Phap Lai, Br. Phap Luu, Br. Phap Linh, along with other monastics, worked with Professor Katherine Weare, Elli Weisbaum, Yvonne Mazurek and others to develop, over a few years, a manual for professional teachers that would cover the basic Plum Village practices. This became the book *Happy Teachers Change the World: A Guide for Cultivating Mindfulness in Education*, which is now the textbook training manual for Wake Up Schools. It includes the personal experiences of hundreds of teachers who have applied Plum Village practices in their classrooms and daily lives. The book is not just theory but the fruit of applied practice.
 
-{% image "article/br-phap-luu/Educators Workshop 2017-18 group photo-edit.jpg", "", "Educators Workshop 2017-18. Br Phap Luu on the far left." %}
+{% image "article/br-phap-luu/Educators Workshop 2017-18 group photo-edit.jpg" %}
+<!-- there is a bug where, when I add the label, the text will no flow below the photo end more -->
+<!-- {% image "article/br-phap-luu/Educators Workshop 2017-18 group photo-edit.jpg", "", "Educators Workshop 2017-18. Br Phap Luu on the far left." %} -->
 
 Beyond offering retreats for teachers, we developed a one year training program - modeled on the training program for core members of the Order of Interbeing - that we call the *Happy Teachers Training Program*. Over the past six years, teachers in North America, as well as France, Italy, Germany and Spain have gone through this program. The teachers began by undergoing a one-year mentorship with an established Plum Village Dharma teacher and teachers who have already completed the program (“Happy Teachers”), under the auspices of Plum Village and run by the Order of Interbeing in each country. Nowadays, as the program has grown and because we want it to be community-based, this mentorship program has evolved so that each group of trainees forms their own educators’ sangha.<a class="note" href="https://wakeupschools.org/what-we-offer/training/">wakeupschools.org/what-we-offer/training/</a>
 
@@ -41,11 +43,11 @@ By “happy teacher” Thay means you. Being a “happy teacher” doesn't mean 
 
 If the first person doesn't know how to take care of themselves, then they cannot help other people to take care of themselves. That's why in Wake Up Schools we always say that the practice starts with ourselves - the teachers. You have to transform yourself first.
 
-{% image "article/br-phap-luu/Dharma School in UK 2016 - the sisters taught children PV songs-edited.jpg", "expandToRightBorder", "Dharma School in the UK, 2016" %}
-
 ## The Three Pillars of Wake Up Schools
 
 The first pillar of Wake Up Schools is embodiment: we need to embody the practice as teachers. We begin by helping the teachers to touch freedom, joy and happiness in a retreat. When a teacher touches that freedom, and transforms themselves, their interest deepens. Quite naturally, they will want to share their experience with others. Their colleagues and family ask, “How is it that you seem so much lighter, that you look so much happier? What did you do?”
+
+{% image "article/br-phap-luu/Dharma School in UK 2016 - the sisters taught children PV songs-edited.jpg", "expandToRightBorder", "Dharma School in the UK, 2016" %}
 
 This touches on the second pillar of Wake Up Schools: service. Service means that we're in this to change the world, not to just make a living for ourselves, to make a profit or a business out of mindfulness. The teaching is something that we offer freely, and that spirit infuses everything about Wake Up Schools. Our direction is to transform the whole school community. Starting with ourselves we expand our circle of influence to our family, our colleagues, our students and administration. By transforming the school we arrive at transformation at the level of society.
 

@@ -17,6 +17,8 @@ Sự trở về nhà lần này của chúng ta như một lời mời gọi, t�
 
 Xóm Thượng mùa này đẹp lắm, Xuân Phong ơi. Sáng thức dậy là thấy khung cảnh mây mù giăng khắp lối. Cỏ cây đất đá đều đóng một lớp băng mỏng. Đi ngồi thiền, em ưa đi trên mặt cỏ. Khi đó băng giá còn chưa tan, tiếng giày giẫm lên cỏ kêu lắc rắc. Cái giây phút bàn chân tiếp xúc đó làm cho em có cảm tưởng mình đã về, đã tới. Về tới đâu hả Xuân Phong? Có lẽ em đã về đã tới trong phút giây hiện tại. Vì chỉ có giây phút đó là giây phút chân thật nhất. Mỗi bước chân trôi qua đã là một niệm trong quá khứ, tiến thêm một bước là một niệm ở tương lai. Cái giây phút ngắn ngủi, khi mặt giày chạm vào cỏ đó, là phút giây thực sự trọn ven nhất, em không cần nắm bắt hay tìm cầu gì nữa trong cả quá khứ lẫn tương lai. Sự thật là hiện tại mà trọn vẹn thì quá khứ và tương lại cũng trọn vẹn.
 
+{% image "article/br-troi-noi-tam/IMG_0345_1.jpg" %}
+
 Mặt hồ trước thiền đường Nước Tĩnh đóng một lớp băng mỏng, thò tay xuống ấn nhẹ một cái là băng tan. Băng chìm lại vào làn nước mát, băng lại về với nước. Sự ẩn tàng của Thầy cũng giống như mọi hiện tượng cỏ cây hoa lá có tướng trạng tại xóm Thượng. Nhưng quán chiếu cho sâu thì tất cả đều đồng một thể tánh.
 
 Vào những ngày có nắng, khoảng chừng 12 giờ trưa, khi mặt trời lên cao, chỗ nào có ánh nắng mặt trời chiếu vào thì chỗ đó sẽ tan băng trước. Cả mặt băng ở hồ sen cũng thế, mà cỏ cây đất đá cũng vậy. Băng lại tạm ẩn tàng, hòa vào đất, bay lên nghi ngút thành khói, thành sương.
@@ -28,6 +30,8 @@ Hình ảnh băng tan trên cỏ làm cho em ấn tượng lắm. Cùng xảy ra
 ## Pháp giới thực ấn
 
 Xuân Phong đang được hầu kim quan Thầy những ngày cuối cùng, em tin là những đêm được ngồi bên Thầy, được thở cùng Thầy, được đi kinh hành cùng Thầy sẽ đi vào huyền thoại với Xuân Phong, và cả em nữa. Em ở đây cũng thế, em tập quán chiếu những gì mình đang thấy ở xóm Thượng, từ cỏ cây đất đá tới anh chị em xuất sĩ và các vị thiền sinh nơi đây đang nhiếp tâm hộ niệm cho Thầy. Đó chính là những pháp thân của Thầy, em cũng là một phần nhỏ bé trong đó.
+
+{% image "article/sr-trang-bo-de/IMG_0331.jpg" %}
 
 Mấy ngày nay khi tụng kinh ở thiền đường Chuyển Hóa, em quán chiếu thấy Thầy hồi còn 60 tuổi. Thầy đang đi, ra vào tự tại. Khi đó Làng còn giản dị, đơn sơ. Thầy còn trẻ, mắt Thầy sáng chưng, và miệng nở nụ cười tươi ơi là tươi. Em tụng kinh có nhiều hạnh phúc, cái giọng tụng kinh xưa nay dở tệ, bỗng hôm nay thấy hay hơn bao giờ hết. Em đi dạo một vòng quanh Làng, đi từ đồi cao xóm Thượng, men theo rừng hoa mai, đi xuống rừng thông, ngang qua vườn Bụt, ghé xuống thiền đường Thánh mẫu Maya. Ở đâu em cũng thấy pháp thân Thầy. Quả thực em chưa bao giờ thấy pháp thân Thầy rõ ràng đến thế!
 
