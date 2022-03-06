@@ -85,30 +85,44 @@ gs -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/e
 }
 
 async function generatePDF(url, outputFile, onFinished = () => {}) {
-    const browser = await puppeteer.launch({});
+    const browser = await puppeteer.launch({
+        // executablePath: "/usr/bin/google-chrome-stable"
+        // executablePath: "/usr/bin/chromium-browser"
+    });
+
     const page = await browser.newPage();
+    const version = await page.browser().version();
+    console.log(version)
     await page.setDefaultNavigationTimeout(0);
     await page.goto(url, {waitUntil: 'networkidle2'});
     
     // works: [webp 3000 q50]
     // for very high quality webp [webp 4000 q50] I am getting: Protocol error (Page.printToPDF): Printing failed
     // this does not happen with jpeg. also, the output size is generally much smaller. therefore, for print, prefer jpeg!
-    
-    // https://github.com/puppeteer/puppeteer/blob/main/docs/api.md#pagecreatepdfstreamoptions
-    const pdfStream = await page.createPDFStream({
+
+    let usePDFstream = true
+    let pdfOptions = {
         // format: "A4",
         preferCSSPageSize: true,
         timeout: 0,
         displayHeaderFooter: false,
         printBackground: true,
-    });
-    const writeStream = fs.createWriteStream(outputFile);
-    pdfStream.pipe(writeStream);
-    pdfStream.on('end', async () => {
-        await browser.close();
-        // downsample(outputFile, 400, 1.5)
-        onFinished()
-    });
+        path: outputFile
+    }
+
+    if (usePDFstream) {
+        // https://github.com/puppeteer/puppeteer/blob/main/docs/api.md#pagecreatepdfstreamoptions
+        const pdfStream = await page.createPDFStream(pdfOptions);
+        const writeStream = fs.createWriteStream(outputFile);
+        pdfStream.pipe(writeStream);
+        pdfStream.on('end', async () => {
+            await browser.close();
+            // downsample(outputFile, 400, 1.5)
+            onFinished()
+        });
+    } else {
+        await page.pdf(pdfOptions);
+    }
 }
 
 // execCMD("rm -rf ./builds/articles-print/*")
@@ -138,11 +152,11 @@ if (generateArticles) {
     Array(3).fill().forEach(processArticle);
 }
 
-// generatePDF("http://fee:8080/vi/articles-print-preview/su-ong-lang-mai--tang-than-dich-thuc/", `./builds/MYOUTPUT.pdf`)
+generatePDF("http://fee:8080/vi/articles-print-preview/su-ong-lang-mai--tang-than-dich-thuc/", `./builds/MYOUTPUT.pdf`)
 
 
-generatePDF("http://localhost:8080/en/a4/", `./builds/en-a4_${formatDate(new Date())}.pdf`)
-generatePDF("http://localhost:8080/vi/a4/", `./builds/vi-a4_${formatDate(new Date())}.pdf`)
+// generatePDF("http://localhost:8080/en/a4/", `./builds/en-a4_${formatDate(new Date())}.pdf`)
+// generatePDF("http://localhost:8080/vi/a4/", `./builds/vi-a4_${formatDate(new Date())}.pdf`)
 
 // generatePDF("http://localhost:8080/en/a4-bleed/", `./builds/en-a4-bleed_${formatDate(new Date())}.pdf`)
 // generatePDF("http://localhost:8080/vi/a4-bleed/", `./builds/vi-a4-bleed_${formatDate(new Date())}.pdf`)
