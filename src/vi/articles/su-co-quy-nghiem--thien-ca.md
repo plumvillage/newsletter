@@ -5,9 +5,9 @@ author: Sư cô Chân Quy Nghiêm
 
 Thiền ca - một pháp môn mình tưởng là mới mẻ của Làng Mai, nhưng thực ra đây là một truyền thống thiền đã được Làng Mai ứng dụng một cách sáng tạo và rộng rãi để quần chúng đương thời, nhất là giới trẻ, có thể tiếp xúc dễ dàng với giáo pháp của Bụt, giúp cho mình ý thức hơn ý nghĩa của đời sống, làm cho đời sống lành hơn, đẹp hơn, giàu có hơn.
 
-Trong đời sống thiền môn, quý thầy, quý sư cô xướng tụng kinh kệ kết hợp thỉnh chuông, mõ, linh, tang,… Mình có thể hiểu đó là thiền ca- một hình thức thực tập giúp cho mình thấm nhuần những lời Bụt dạy. Những lời kinh như những giọt nước cam lộ thánh thót rơi xuống đất tâm của mình, làm nảy mầm những hạt giống tốt và tiếp tục tưới tẩm để chúng lớn mạnh, đơm hoa kết trái, làm cho đời sống xinh tươi, tốt đẹp hơn.
+Trong đời sống thiền môn, quý thầy, quý sư cô xướng tụng kinh kệ kết hợp thỉnh chuông, mõ, linh, tang ... Mình có thể hiểu đó là thiền ca - một hình thức thực tập giúp cho mình thấm nhuần những lời Bụt dạy. Những lời kinh như những giọt nước cam lộ thánh thót rơi xuống đất tâm của mình, làm nảy mầm những hạt giống tốt và tiếp tục tưới tẩm để chúng lớn mạnh, đơm hoa kết trái, làm cho đời sống xinh tươi, tốt đẹp hơn.
 
-Khi con về Làng Mai, Pháp quốc, lần đầu tiên vào mùa hè 1987, con được nghe bài *Ý thức em mặt trời tỏ rạng* do chị ca sĩ Hà Thanh hát trong máy. Con thực sự rất xúc động, như là mình đang ngủ mê mà được lay thức dậy. Bụt nói mình khổ vì mình không thấy đường. Đường đời muôn vạn nẻo, nếu không may mắn được gặp Bụt đưa đường chỉ lối, mình rất dễ bị lầm lạc.
+Khi con về Làng Mai - Pháp quốc, lần đầu tiên vào mùa hè 1987, con được nghe bài *Ý thức em mặt trời tỏ rạng* do chị ca sĩ Hà Thanh hát trong máy. Con thực sự rất xúc động, như là mình đang ngủ mê mà được lay thức dậy. Bụt nói mình khổ vì mình không thấy đường. Đường đời muôn vạn nẻo, nếu không may mắn được gặp Bụt đưa đường chỉ lối, mình rất dễ bị lầm lạc.
 
 Cho nên một bài hát thiền như là một bài kinh, một ngón tay của Bụt chỉ cho mình lối đi về bình an. “May thay trong cõi ta bà, đâu cũng có cánh tay đức từ bi cứu độ”. Nếu không tu tập để có được ý thức tỏ rạng như mặt trời thì mình khó mà  thấy được ngón tay chỉ đường của Bụt, và có lòng quyết tâm đi theo dấu chân của Ngài để đến được bờ tự do.
 
