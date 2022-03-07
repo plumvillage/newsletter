@@ -51,6 +51,6 @@ Còn nhiều châu báu khác nữa trong tình tăng thân như thế! Tôi th�
 <div class="verse"><p>Mỗi phút giây,<br/>
 Tôi học làm người yêu chân thật<br/>
 Mỗi phút giây,<br/>
-Tôi làm phát hiện chân tình</p><cite><i>Chân tình</i>, thơ Thầy</cite></div>
+Tôi làm phát hiện chân tình</p><cite>Chân tình</cite></div>, thơ Thầy
 
 Một ngày mới nữa bắt đầu, tôi tập nhận diện và thưởng thức sự sống quanh mình. Mùi hương thiên nhiên từ đất Mẹ thật dễ chịu và đang thấm vào từng tế bào cơ thể tôi. Tôi mỉm cười vui như những đóa hoa tinh khôi đón chào ngày mới, những nụ cười của giây phút hội ngộ, những đóa hoa thương yêu của phút giây tương phùng. Cám ơn đất Mẹ, cám ơn mùa an cư, cám ơn những nhân duyên xa gần đã cho tôi nếm trải được những giá trị đích thực của phút giây ân tình.
