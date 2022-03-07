@@ -1333,6 +1333,7 @@ figure#articlesr-trang-bo-deSc-Bo-DJe-4-edit {
     margin-right: 7%;
 }
 
+.PAGE-OF-article-on-misty-days p,
 .PAGE-OF-articlesr-trang-mai-thonSrMaiThon2-edited p,
 .PAGE-OF-articleeulogy-in-vietnamL1004616-e p,
 .PAGE-OF-articlesr-trang-bo-deIMG0331 p,
@@ -1564,10 +1565,33 @@ h1#thirteen-years-of-monastic-life-taking-stock {
     width: 90%
 }
 
-/* trying to fit onto 3 pages */
-/* .article-my-teacher-my-friend p + p {
-    margin-top: 7pt !important;
+figure#articlesr-trang-tin-yeubgImage-cut {
+    margin: 0 !important;
+    padding: 0 !important;
+    max-width: none !important;
+    position: absolute;
+    z-index: -1;
+    height: calc(var(--pagedjs-pagebox-height) + (var(--bleed)) * 2);
+    left: calc((var(--pagedjs-margin-left) + var(--bleed)) * -1);
+    bottom: calc((var(--pagedjs-margin-bottom) + var(--bleed)) * -1);
 }
-.article-my-teacher-my-friend p + h2 {
-    margin-top: 7pt;
-} */
+
+.article-on-misty-days h1,
+.article-on-misty-days h2.author
+{
+    display: none;
+}
+
+.article-on-misty-days .verse {
+    display: block;
+    column-span: all !important;
+    width: 50%;
+    padding-left: 7%;
+    /* font-size: 115%; */
+    line-height: 115%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.article-on-misty-days .verse p + p {
+    /* margin-top: 2pt; */
+}

@@ -223,3 +223,26 @@ figure#articlesu-ongTheTrueSangha2 {
     );
     border-bottom: 2px solid white;
 }
+
+
+
+figure#articlesr-trang-tin-yeubgImage-cut {
+    margin: 0 !important;
+    padding: 0 !important;
+    max-width: none !important;
+    position: absolute;
+    z-index: -1;
+    height: calc(var(--pagedjs-pagebox-height) + (var(--bleed)) * 2);
+    left: calc((var(--pagedjs-margin-left) + var(--bleed)) * -1);
+    {# in PDF output, setting "top" <0 does not work! we must use "bottom" as a workaround (ugly fixed setting for A4) #}
+    {# bottom: calc((var(--pagedjs-margin-bottom) + var(--bleed)) * -1); #}
+    
+    {# top: calc((var(--pagedjs-margin-top) + var(--bleed)) * -1) !important; #}
+    mask-image: linear-gradient(to top,
+        {% easingGradient 0, 35 %}
+    );
+    -webkit-mask-image: linear-gradient(to top,
+        {% easingGradient 0, 35 %}
+    );
+    border-bottom: 2px solid white;
+}
