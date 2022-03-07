@@ -27,7 +27,7 @@ Khi quyết định viết thư cho Thầy để thỉnh nguyện xuất gia, c�
 ## Đẹp lạ lùng những điều nhỏ nhoi
 
 <div class="verse"><p>Một ngày bình thường, đẹp lạ lùng những điều nhỏ nhoi<br/>
-Đất Mẹ dịu dàng, nhẹ nâng bước ai về thảnh thơi<cite>Ngày bình thường, <i>Chân Uyển Nghiêm</i></cite></p></div>
+Đất Mẹ dịu dàng, nhẹ nâng bước ai về thảnh thơi<cite>Ngày bình thường, Chân Uyển Nghiêm</cite></p></div>
 
 Tôi đang lắng nghe âm thanh tinh khiết của buổi sớm mai. Tôi đang lắng nghe nhịp thở của những cành cây trơ trọi lá qua khung cửa, chúng đang từ từ thu hết sức mình xuống gốc để nuôi nhiệt và giữ ấm cho mùa đông. Tôi đang có mặt ngắm nhìn cơ thể đất Mẹ biểu hiện thật mầu nhiệm sáng nay. Tôi đang ngắm nhìn các luống rau xanh từ dưới nông trại Hạnh phúc, một màu xanh tràn đầy sức sống đang chứng thực cho tôi thấy rằng mùa đông sẽ không lấy đi sự sống của bất cứ ai, mà còn tạo ra thêm nhiều cơ hội, nhiều thử thách cho mình dày dặn và cứng cáp hơn. Tôi đang tập sống như những cây cổ thụ ngoài kia, đứng bên nhau thật yên thật vững, biết cách dưỡng sức và giữ hơi ấm, để bếp lửa trong tôi luôn được thắp sáng ấm áp đón tôi trở về. Thỉnh thoảng tôi nghe tiếng mở cửa đóng cửa từ bên ngoài của các chị em phòng kế bên. Tôi biết ai cũng đang trở về cần mẫn chăm sóc, gom góp củi lửa để gầy lấy nắng mà sưởi ấm cho mùa đông. Căn phòng này, khung cửa này, *sân chim* này và tất cả không gian bao la ngoài kia nữa, đã hân hoan cùng tôi hát lên khúc hát *Tịnh lạc nếp ẩn cư.*
 
@@ -51,6 +51,6 @@ Còn nhiều châu báu khác nữa trong tình tăng thân như thế! Tôi th�
 <div class="verse"><p>Mỗi phút giây,<br/>
 Tôi học làm người yêu chân thật<br/>
 Mỗi phút giây,<br/>
-Tôi làm phát hiện chân tình</p><cite>Chân tình</cite></div>, thơ Thầy
+Tôi làm phát hiện chân tình</p><cite>Chân tình</cite>, thơ Thầy</div>
 
 Một ngày mới nữa bắt đầu, tôi tập nhận diện và thưởng thức sự sống quanh mình. Mùi hương thiên nhiên từ đất Mẹ thật dễ chịu và đang thấm vào từng tế bào cơ thể tôi. Tôi mỉm cười vui như những đóa hoa tinh khôi đón chào ngày mới, những nụ cười của giây phút hội ngộ, những đóa hoa thương yêu của phút giây tương phùng. Cám ơn đất Mẹ, cám ơn mùa an cư, cám ơn những nhân duyên xa gần đã cho tôi nếm trải được những giá trị đích thực của phút giây ân tình.
