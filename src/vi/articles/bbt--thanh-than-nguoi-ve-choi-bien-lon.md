@@ -62,13 +62,13 @@ Tại Làng Mai Pháp, hàng ngày các buổi lễ đều được truyền tr�
 
 Nhớ đến Sư Cố đã được sư huynh mình làm lễ thế độ trước kim quan của Bổn sư, các sư anh sư chị lớn đã sắp xếp nhanh chóng cho lễ xuất gia của gia đình cây Mimosa (gồm 35 thành viên) được diễn ra tại nhiều tu viện Làng Mai, vào ngày 25 tháng 1: Làng Mai Pháp, Làng Mai Thái Lan, Diệu Trạm (Huế) và Bích Nham (Mỹ). Các sư em được tăng thân trao cho những cái tên thật đẹp: 
 
-***Tại Làng Mai Pháp:** Chân Trời Định Thành, Chân Trăng Lâm Hỷ, Chân Trời Định Túc, Chân Trời Định Thường, Chân Trời Định Tín.
+***Tại Làng Mai Pháp:*** Chân Trời Định Thành, Chân Trăng Lâm Hỷ, Chân Trời Định Túc, Chân Trời Định Thường, Chân Trời Định Tín.
 
-***Tại Diệu Trạm (Huế):** Chân Trời Tương Tức, Chân Trăng Tâm Tường, Chân Trăng Tâm Đức, Chân Trăng Tâm Minh, Chân Trời An Dưỡng, Chân Trăng Tâm Bi, Chân Trăng Tâm Lạc, Chân Trăng Tâm An, Chân Trăng Tâm Kính, Chân Trăng Tâm Anh, Chân Trăng Tâm Thường, Chân Trời Biển Hiếu, Chân Trăng Tâm Từ, Chân Trăng Tâm Như, Chân Trăng Tâm Hỷ, Chân Trăng Tâm Nhiên, Chân Trời Biển Tâm, Chân Trăng Tâm Xả, Chân Trời Lắng Nghe, Chân Trăng Tâm Tuệ, Chân Trăng Tâm Bình, Chân Trăng Tâm Hòa, Chân Trăng Tâm Định, Chân Trăng Tâm Hiếu, Chân Trăng Tâm Thuận, Chân Trăng Tâm Hiền, Chân Trăng Tâm Nguyên, Chân Trời Bát Nhã.
+***Tại Diệu Trạm (Huế):*** Chân Trời Tương Tức, Chân Trăng Tâm Tường, Chân Trăng Tâm Đức, Chân Trăng Tâm Minh, Chân Trời An Dưỡng, Chân Trăng Tâm Bi, Chân Trăng Tâm Lạc, Chân Trăng Tâm An, Chân Trăng Tâm Kính, Chân Trăng Tâm Anh, Chân Trăng Tâm Thường, Chân Trời Biển Hiếu, Chân Trăng Tâm Từ, Chân Trăng Tâm Như, Chân Trăng Tâm Hỷ, Chân Trăng Tâm Nhiên, Chân Trời Biển Tâm, Chân Trăng Tâm Xả, Chân Trời Lắng Nghe, Chân Trăng Tâm Tuệ, Chân Trăng Tâm Bình, Chân Trăng Tâm Hòa, Chân Trăng Tâm Định, Chân Trăng Tâm Hiếu, Chân Trăng Tâm Thuận, Chân Trăng Tâm Hiền, Chân Trăng Tâm Nguyên, Chân Trời Bát Nhã.
 
-***Tại tu viện Bích Nham (Mỹ):** Chân Trời Định Tâm*
+***Tại tu viện Bích Nham (Mỹ):*** Chân Trời Định Tâm.
 
-***Tại Làng Mai Thái Lan:** Chân Trăng Tâm Phúc.*
+***Tại Làng Mai Thái Lan:*** Chân Trăng Tâm Phúc.
 
 {% image "article/recap-of-ceremonies/From Hue/_DSC3975.JPG", "noFloat" %}
 {% image "article/recap-of-ceremonies/From PV/0015.jpg", "noFloat" %}
