@@ -74,6 +74,7 @@ Con nhớ ngày xưa khi con đi theo Thầy về Hàn Quốc hay Trung Quốc, 
     Thị nhân hành tà đạo</br>
     Bất năng kiến Như Lai</p></div>
 
+
 <div class="verse"><p> 
     (Tìm ta qua hình sắc</br>  
     Cầu ta qua âm thanh</br> 
