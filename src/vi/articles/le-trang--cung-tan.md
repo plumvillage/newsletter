@@ -5,13 +5,13 @@ author: Hòa thượng Lệ Trang
 
 {% image "article/Venerable Le Trang/Cung-tan-e.jpg" %}
 
-<div class="verse"><p>Nhất niệm oai hùng trang sử Việt<br/>
-Hạnh tâm sáng toả đẹp ngàn phương<br/>
-Thiền hòa Nam Bắc từng hơi thở<br/>
-Sư tượng Đông Tây ngát tuệ hương<br/>
-Niết thủ vào ra trong chánh niệm<br/>
-Bàn đàm tuôn chảy suối chơn thường<br/>
-Nhập tam ma địa vô sanh khúc<br/>
-Diệu sắc diệu quan diệu pháp vương.</p></div>
+<div class="verse"><p><b>Nhất</b> niệm oai hùng trang sử Việt<br/>
+<b>Hạnh</b> tâm sáng toả đẹp ngàn phương<br/>
+<b>Thiền</b> hòa Nam Bắc từng hơi thở<br/>
+<b>Sư</b> tượng Đông Tây ngát tuệ hương<br/>
+<b>Niết</b> thủ vào ra trong chánh niệm<br/>
+<b>Bàn</b> đàm tuôn chảy suối chơn thường<br/>
+<b>Nhập</b> tam ma địa vô sanh khúc<br/>
+<b>Diệu</b> sắc diệu quan diệu pháp vương.</p></div>
 
 <!-- *Tỳ kheo Lệ Trang khể thủ* -->
