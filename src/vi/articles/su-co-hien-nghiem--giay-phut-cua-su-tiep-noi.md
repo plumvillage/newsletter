@@ -61,5 +61,6 @@ Thầy kính thương, Thầy đã nói: “Nơi tình thương và người đ�
 
 <p class="noIndent">Kính bạch Thầy,<br/>
 Đây là giây phút huyền thoại!<br/>
-Đây là giây phút của sự tiếp nối!<br/>
-Các sư con của Thầy.</p>
+Đây là giây phút của sự tiếp nối!<br/></p>
+
+<p class="noIndent">Các sư con của Thầy.</p>
