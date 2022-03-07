@@ -13,6 +13,8 @@ title: Tributes to Thay
 
 > “Thich Nhat Hanh is respected by many as the most influential spiritual leader. He showed his love for humankind through his actions. His teachings on happiness touched many hearts. His footsteps and words will continue to live on through the practices of the people.”<cite><b>Moon Jae-in</b>, President of South Korea</cite>
 
+{% image "article/tributes/001030-e.jpg" %}
+
 > “Thich Nhat Hanh’s legacy is one of insight, compassion, and respect for our planet and for one another. His memory and teachings will continue to inspire the next generation of environmental and social activists in the enduring struggle to protect the Earth and its people.”<cite><b>Al Gore</b>, Former Vice President of the United States</cite>
 
 > “Thich Nhat Hanh influenced me and so many others by blending his unique approach to mindfulness with a fierce commitment to social justice. When I invited him to visit the World Bank, he touched the lives of hundreds of staff members and even led them on a walking meditation through the busy streets of downtown Washington, DC.  He will be deeply missed but his legacy will live on through his many disciples in all corners of the world.”<cite><b>Jim Yong Kim</b>, Former President of the World Bank</cite>

@@ -85,6 +85,7 @@ gs -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/e
 }
 
 async function generatePDF(url, outputFile, onFinished = () => {}) {
+    // regardless of which I choose, the pdf output and the in-browser pdf output are different: the font flows slightly different (e.g. kerning, justification)
     const browser = await puppeteer.launch({
         // executablePath: "/usr/bin/google-chrome-stable"
         // executablePath: "/usr/bin/chromium-browser"

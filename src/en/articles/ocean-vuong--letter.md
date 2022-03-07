@@ -3,6 +3,8 @@ title: Letter of Condolence
 author: Ocean Vuong
 ---
 
+<p class="editors-preface">A “love letter” to the Plum Village monastic and lay community from Ocean Vuong, a celebrated young Vietnamese-American poet and novelist, written shortly after Thay’s passing.</p>
+
 Dear monastic and lay practitioners in our Buddhist communities far and wide—
 
 In the days following Thay’s continuation, I have been asked by various media outlets, as a Buddhist author, to speak on this momentous occurrence in our community. But I declined—for what have I to say that Thay’s teaching has not already solidified, already made so self-evidently clear? His practice and life’s work were always to prepare us for this moment and, in this way, prepare us for us. For our own grief in Samsara. I have always felt that to do nothing was wiser than to do something without strong intention or proper conditions in place. But when Denise Nguyen, executive Director of the Thich Nhat Hạnh Foundation, reached out asking me to share directly to our community, this call made sense to me, to speak to you as one among you.
@@ -27,3 +29,5 @@ That is the narrative, that is the knowledge.
 
 <p class="noIndent">Yours, in hope and word,<br/>
 Ocean Vuong (pháp danh: đức Hải)</p>
+
+<div class="article-end"></div>

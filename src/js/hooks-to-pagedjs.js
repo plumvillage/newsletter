@@ -27,7 +27,6 @@ class MyHandler extends Paged.Handler {
     renderNode(node, sourceNode) {
         if (node.id == "verse-uyen-nguyen") {
             addClassToPageDIV(node, `PAGE-OF-verse-uyen-nguyen`)
-            console.log("do: PAGE-OF-verse-uyen-nguyen")
         }
 
         if (node.nodeName == "FIGURE" && node.id) {

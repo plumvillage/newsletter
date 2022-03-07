@@ -43,7 +43,7 @@ module.exports = [
 "thay-phap-linh--hai-chiec-la-dau-canh",
 "thay-troi-dai-dao--cuoc-cach-mang-dang-tiep-dien",
 "elli-weisbaum--cong-trinh-noi-duoc",
-"phap-luu-orla--nhung-ngoi-truong-tinh-thuc",
+"thay-phap-luu-orla--nhung-ngoi-truong-tinh-thuc",
 "richard-brady--dem-chanh-niem-vai-truong-hoc",
 "minh-huong--giac-mo-dai-dong",
 "thay-troi-dao-bi--con-duong-tinh-thuong",

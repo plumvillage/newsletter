@@ -178,17 +178,16 @@ figure {
 
 #title-page h1 {
     /* margin-top here needs to be replaced by padding-top, otherwise it does not work in the pdf in chrome */
-    padding-top: 20%;
+    padding-top: 15%;
     margin-top: 0;
-    margin-bottom: 10%;
+    margin-bottom: 5%;
     margin-left: auto;
     margin-right: auto;
     /* margin: 0 auto; */
 }
-html:lang(vi) #title-page h1 {
+/* html:lang(vi) #title-page h1 {
     padding-top: 33%;
-    /* more top space in viet */
-}
+} */
 
 #title-page figure {
     display: block;
@@ -196,20 +195,20 @@ html:lang(vi) #title-page h1 {
     margin-right: auto;
 }
 #title-page h1 figure {
-    width: 88%;
+    width: 90%;
     /* margin-top: 20%;
     margin-bottom: 10%; */
 }
 #calligraphyarticle-titles-2-and-dividers5-maskedDividers2-2-straight {
     width: 25%;
-    margin-bottom: 14%;
+    margin-bottom: 10%;
 }
 #title-page h2 {
     font-family: "Cormorant Garamond";
     text-align: center;
     margin: 0 auto;
     font-weight: bold;
-    font-size: 210%;
+    font-size: 190%;
     line-height: 130%;
 }
 #title-page h2 .num40 {
@@ -228,12 +227,12 @@ html:lang(vi) #title-page h1 {
 }
 #title-page h2 #tnh {
     display: block;
-    font-size: 153%;
-    margin-top: 20%;
-    color: black;
-    font-family: "CormorantSC-Medium";
+    font-size: 143%;
+    margin-top: 4%;
+    /* color: black; */
+    /* font-family: "CormorantSC-Medium"; */
     /* for Medium, if this is not set, chrome will look ugly */
-    font-weight: normal;
+    /* font-weight: normal; */
 }
 
 
@@ -298,8 +297,8 @@ figure#calligraphyzen-circlezen-circle {
     line-height: 110%;
     display: block;
     width: 38%;
-    text-align: left;
-    padding-left: 12pt;
+    text-align: center;
+    /* padding-left: 12pt; */
     margin-top: 3%;
     margin-left: auto;
     margin-right: auto;
@@ -311,8 +310,8 @@ figure#calligraphyzen-circlezen-circle {
     padding-top: 70%;
     margin-left: auto;
     margin-right: auto;
-    width: 55%;
-    text-align: justify;
+    width: 70%;
+    text-align: center;
 }
 
 
@@ -341,21 +340,42 @@ figure {
     page-break-inside: avoid;
 }
 
+
+
+
+
 #table-of-contents {
+    page: page-toc;
     columns: 2;
     break-after: page;
     column-gap: 32pt;
     font-size: 12pt;
 }
 
+/* select second page of toc */
+.pagedjs_page-toc_page:not(.pagedjs_page-toc_first_page) .pagedjs_page_content > div > div {
+    padding-top: 14.5% !important;
+}
+
+
 #table-of-contents h1 {
     margin-bottom: 24pt;
 }
 
-ul.toc > *:first-child {
-    padding-top: 0pt !important;
+ul.toc {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    break-after: page;
 }
 
+ul.toc li {
+    margin-left: 3pt;
+    margin-bottom: 15pt;
+    page-break-inside: avoid;
+    /* border-top: 0.5mm solid hsla(0, 0%, 87%, 0.075); */
+    /* background-color: rgb(231, 231, 231); */
+}
 
 .chapterLi {
     /* does not seem to work */
@@ -363,7 +383,6 @@ ul.toc > *:first-child {
     padding-top: 14pt;
     padding-bottom: 0pt;
 }
-
 .toc-chapter {
     padding-left: 0pt;
 }
@@ -390,13 +409,6 @@ ul.toc > *:first-child {
     font-size: 14pt;
 }
 
-ul.toc {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-    break-after: page;
-}
-
 .toc-title {
     /* position: relative; */
     display: inline-block;
@@ -419,13 +431,28 @@ ul.toc {
     left: 24pt;
 }
 
-ul.toc li {
-    margin-left: 3pt;
-    margin-bottom: 9pt;
-    page-break-inside: avoid;
-    /* border-top: 0.5mm solid hsla(0, 0%, 87%, 0.075); */
-    /* background-color: rgb(231, 231, 231); */
+ul.toc > *:first-child {
+    padding-top: 0pt !important;
 }
+
+/* .PAGE-OF-li-hands-reaching-out .pagedjs_page_content > div > div {
+    padding-top: 5%;
+    background-color: red;
+} */
+
+ul.toc #li-parallax-press-and-the-journey-to-plum-village-through-books {
+    /* break-after: column; */
+    /* emulate column break */
+    /* padding-bottom: 30%; */
+}
+ul.toc #li-parallax-press-and-the-journey-to-plum-village-through-books {
+    /* break-after: column; */
+    /* emulate column break */
+    /* padding-bottom: 30%; */
+}
+
+
+
 
 a {
     text-decoration: none;
@@ -1102,8 +1129,23 @@ figure#articlefor-poemsorchid-light2 {
     width: 148mm;
     bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed)) * -1);
 }
+figure#calligraphyarticle-titles-2-and-dividers5-maskedDividers1-1 {
+    display: block;
+    column-span: all;
+    float: none;
+    width: 30%;
+    margin-top: 27pt;
+    margin-bottom: 27pt;
+    margin-left: auto;
+    margin-right: auto;
+}
 
-
+#poem-sometimes, #poem-here {
+    margin-left: 30%;
+}
+#poem-sometimes b, #poem-here b {
+    font-size: 130%;
+}
 
 
 /* 

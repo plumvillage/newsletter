@@ -30,11 +30,14 @@ module.exports = [
 "br-minh-hy--dharma-banquet",
 "sr-quy-nghiem--meditation-songs",
 "br-nguyen-tinh--a-thousand-years-of-returning",
+"sr-dao-nghiem-poems",
 "sr-tri-nghiem--taking-stock",
 "sr-trang-tam-muoi--no-escape-retreat",
+"sr-trang-chanh-niem--poems",
 /*------*/"Chapter5",
 "br-phap-dung--bells-of-mindfulness",
 "br-phap-linh--two-leaves-at-the-tip-of-the-branch",
+"sr-tu-nghiem--poems",
 "br-troi-dai-dao--the-environment-what-can-we-do",
 "mick-mc-evoy--happy-farmers-change-the-world",
 "dr-elli-weisbaum--healing-the-healers",
@@ -54,15 +57,4 @@ module.exports = [
 "br-troi-thien-chi--mirror-mirror-on-the-wall",
 "sr-trang-hien-nhan--hello-attachment-you-are-my-friend",
 "ocean-vuong--letter",
-"sr-trang-chanh-niem--poems",
-"sr-tu-nghiem--poems",
-"sr-dao-nghiem-poems",
 ]
-
-// 1. Editor's notes
-// 2. Tributes
-// 3. Remembering Thay
-// 4. Early years of Plum Village 
-// 5. Harvesting the fruits 
-// 6. Hands reaching out
-// 7. Tending the garden
