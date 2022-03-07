@@ -6,7 +6,7 @@ author: Hòa thượng Lệ Trang
 {% image "article/Venerable Le Trang/Cung-tan-e.jpg" %}
 
 <div class="verse"><p><b>Nhất</b> niệm oai hùng trang sử Việt<br/>
-<b>Hạnh</b> tâm sáng toả đẹp ngàn phương<br/>
+<b>Hạnh</b> tâm sáng tỏa đẹp ngàn phương<br/>
 <b>Thiền</b> hòa Nam Bắc từng hơi thở<br/>
 <b>Sư</b> tượng Đông Tây ngát tuệ hương<br/>
 <b>Niết</b> thủ vào ra trong chánh niệm<br/>
