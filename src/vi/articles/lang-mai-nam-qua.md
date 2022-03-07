@@ -4,7 +4,7 @@ title: Làng Mai năm qua
 
 <p class="editors-preface">Khép lại năm 2021, tứ chúng Làng Mai xin gửi đến quý thân hữu lòng tri ân sâu sắc. Nhờ tình thương và sự yểm trợ hết lòng của quý thân hữu, dù trong cảnh đại dịch đầy khó khăn, các trung tâm tu học của Làng Mai vẫn tiếp tục duy trì sự thực tập và hiến tặng hoa trái của mình đến cho mọi người thông qua những khóa tu và sinh hoạt trực tuyến. Sau đây xin mời quý thân hữu cùng chúng tôi nhìn lại những hoạt động chính tại Làng Mai Pháp trong năm 2021.</p>
 
-## Khóa tu trực tuyến về nghệ thuật ngồi yên “How to Sit” <span class="lmnq">(từ ngày 29.1 đến 31.1)</span>
+## Khóa tu trực tuyến về nghệ thuật ngồi yên - “How to Sit” <span class="lmnq">(từ ngày 29.1 đến 31.1)</span>
 
 Mở đầu năm 2021, trong bối cảnh đại dịch Covid vẫn còn khá phức tạp, tăng thân đã quyết định tổ chức khóa tu trực tuyến “How to Sit” với sự tham dự của hơn 400 thiền sinh. Thầy Pháp Hữu, thầy Pháp Linh và sư cô Hội Nghiêm chia sẻ đầy sáng tạo, từ kinh nghiệm thực tập của chính mình về mười sáu phép quán niệm hơi thở. Những bài pháp thoại đã gây cảm hứng cho rất nhiều thiền sinh, giúp họ biết cách trở về với hơi thở và điều phục tâm rong ruổi của mình.
 
@@ -50,7 +50,7 @@ Khóa tu diễn ra trong tiết trời đầu xuân, thiên nhiên đã ưu đã
 
 Trong không khí ấm áp của mùa xuân, nhiều chương trình đặc biệt đã được tổ chức ngoài trời như: giải bóng đá PV Cup, lễ hội văn hóa vùng miền. Các thầy các sư cô từ các nước khác nhau có dịp chia sẻ những nét văn hóa đặc trưng của nước mình: từ y phục, ẩm thực, âm nhạc, nếp sinh hoạt,… Tất cả được hòa quyện trong một không gian đầy ắp niềm vui.
 
-Cuối khóa tu là một đêm thơ nhạc với chủ đề: “Tiếp nhận gia tài.” Sự lắng yên nội tâm được nuôi dưỡng bởi những lời thơ tiếng nhạc là một nét rất tươi mới ở Làng trong vài năm trở lại đây, khi thơ và nhạc được trình bày cho đại chúng như một buổi thiền quán. Nguồn thơ và nhạc, vì vậy, được chọn lọc rất kỹ lưỡng trong kho tàng thơ nhạc của Làng Mai. Đó là một buổi ngồi chơi hay một buổi thiền quán ? Đó là một bài thơ hay một lời kinh hay ? Thật không có chỗ cho ngôn ngữ phân biệt. Nghệ thuật và tâm linh hòa vào nhau, không còn có ranh giới trong khung cảnh ấy. 
+Cuối khóa tu là một đêm thơ nhạc với chủ đề: “Tiếp nhận gia tài.” Sự lắng yên nội tâm được nuôi dưỡng bởi những lời thơ tiếng nhạc là một nét rất tươi mới ở Làng trong vài năm trở lại đây, khi thơ và nhạc được trình bày cho đại chúng như một buổi thiền quán. Nguồn thơ và nhạc, vì vậy, được chọn lọc rất kỹ lưỡng trong kho tàng thơ nhạc của Làng Mai. Đó là một buổi ngồi chơi hay một buổi thiền quán? Đó là một bài thơ hay một lời kinh hay? Thật không có chỗ cho ngôn ngữ phân biệt. Nghệ thuật và tâm linh hòa vào nhau, không còn có ranh giới trong khung cảnh ấy. 
 
 Khóa tu, vì vậy, là môi trường trong đó mỗi người xuất sĩ được trở về nuôi dưỡng và tiếp nhận cái đẹp của nhau, là nơi giữ gìn những nét đẹp của người xuất gia. 
 
@@ -511,7 +511,7 @@ Năm 2021 khép lại với khóa tu cuối năm “Món quà của tâm tĩnh l
 
 Bước vào năm mới Nhâm Dần, với lòng tri ân sâu sắc, tứ chúng Làng Mai xin nguyện tiếp nối công hạnh của chư Bụt, chư Tổ, của Sư Ông để mang ngọn đèn chánh pháp đi về tương lai và để đáp lại ân nghĩa của tất cả quý vị đã luôn hiến tặng cho chúng con. 
 
-Chúng con nguyện cầu chư Bụt và chư liệt vị Tổ sư luôn hộ trì cho quý vị thân hữu và toàn thể gia quyến một năm mới Nhâm Dần 2022 được nhiều sức khỏe. 
+Chúng con nguyện cầu chư Bụt và chư liệt vị Tổ sư luôn hộ trì cho quý vị thân hữu và toàn thể gia quyến một năm mới Nhâm Dần 2022 được nhiều sức khỏe và an vui.
 
 > *Ngày xuân trên hòa dưới thuận*
 > *Bốn mùa trong ấm ngoài êm.*
