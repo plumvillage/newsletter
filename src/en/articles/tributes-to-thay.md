@@ -5,7 +5,7 @@ title: Tributes to Thay
 
 <p class="editors-preface">We have been receiving an outpouring of love from the global community, offering tributes to our teacher. We offer a selection of tributes from notable figures below.</p>
 
-> “In his peaceful opposition to the Vietnam war, his support for Martin Luther King and most of all his dedication to sharing with others not only how mindfulness and compassion contribute to inner peace, but also how individuals cultivating peace of mind contributes to genuine world peace, the Venerable lived a truly meaningful life.”<cite><b>His Holiness the 14th Dalai Lama</b></cite>
+> “In his peaceful opposition to the Vietnam war, his support for Martin Luther King and most of all his dedication to sharing with others not only how mindfulness and compassion contribute to inner peace, but also how individuals cultivating peace of mind contributes to genuine world peace, the Venerable lived a truly meaningful life.”<cite><b>His Holiness the 14<sup>th</sup> Dalai Lama</b></cite>
 
 > “The government hopes that the Plum Village community will continue the Zen master’s vision and aspiration for engaged Buddhism, and so contribute to the prosperity of society, and, together with the wider Buddhist community in Vietnam and abroad, promote peace in the world.”<cite><b>President Nguyen Xuan Phuc and Prime Minister Pham Minh Chinh of Vietnam</b></cite>
 

@@ -42,7 +42,7 @@ I was accepted, and for me that was enough. In the year 2001, I was able to be T
 
 We already had the chiming clock in the dining hall. It would chime every fifteen minutes. Thay would stop, we’d all breathe, and it was very peaceful. Then Thay would continue with the Dharma talk. In those days it was Br. Nguyen Hai who was the cameraman. It’s amazing how they’ve preserved these early teachings. In those days Thay used a cassette recorder, and they’d have to stop and put in a new cassette and continue. 
 
-{% image "article/sr-tu-nghiem-and-sr-dieu-nghiem/SrDieuNghiem-edit.jpg", "", "From left: Srs. Lien Chieu, Khuong Y, Dieu Nghiem, Trien Nghiem" %}
+{% image "article/sr-tu-nghiem-and-sr-dieu-nghiem/SrDieuNghiem-edit.jpg", "", "From left: Srs. Lien Chieu, Khuong Y, Dieu Nghiem, Trien N." %}
 
 ***Sr. Jina*:** Thay’s teachings were very clear. With certain teachings that one can say in a particular way, Thay just said, “This is it.” We listened to Thay, we tried to understand and even if we didn’t understand, it was just being in Thay’s presence. That was enough and I had already been so nourished by the 21 Day Retreat (after my arrival) I thought, I have at least three years material (to practice with).
 
@@ -90,59 +90,4 @@ Also, we keep our tradition, we don’t dilute it. We keep the Vietnamese herita
 
 <div class="article-end"></div>
 
-<div class="divider"></div>
-
 {% image "article/sr-tu-nghiem-and-sr-dieu-nghiem/IMG_9624-e.jpg" %}
-
-## Poems by Sr. Tu Nghiem to all Bodhisattvas
-
-<div class="verse"><p><b>There is the Letting Go</b><br/>
-of the song in our hearts<br/>
-we have kept so long.</p>
-
-<p>There is the letting go<br/>
-that the trees know<br/>
-so well, when<br/>
-their leaves fly and fall.</p>
-
-<p>There is the letting go<br/>
-and wishing you well<br/>
-as streams of life<br/>
-flow forward<br/>
-leaving spaces<br/>
-of memories behind.</p>
-
-<p>There is the letting go<br/>
-which is all of life<br/>
-disappearing<br/>
-and reappearing<br/>
-with the colors and sounds of spring.</p></div>
-
-This poem was written after the Be-In on 4 December 2021 when we were together with many Sisters who would be leaving New Hamlet in a few days to visit their families in Vietnam, and then move on to other practice centers. We sang songs to one another and shared from our hearts the beautiful experiences we had at New Hamlet.
-
-It was also the anniversary day of my little brother’s passing away in 1994. I remember his qualities of courage and freedom. The letting go is part of being able to continue to live after experiencing the death of a beloved one.
-
-
-<div class="divider"></div>
-
-<!-- 9 December 2021 -->
-<div class="verse"><p>
-<b>May the Smiles from our Hearts</b><br/>
-pierce through the clouds<br/>
-of our confusion.</p>
-
-<p>May the smiles from our hearts<br/>
-reach you<br/>
-continuing your path<br/>
-with courage and freedom.</p>
-
-<p>May the smiles from our hearts<br/>
-melt all your obstacles<br/>
-so you can serve all beings<br/>
-with peace and wisdom.</p>
-
-<p>Let the smiles from our hearts<br/>
-encourage you on and on,<br/>
-like the sun<br/>
-shining everywhere<br/>
-with warmth and freedom.</p></div>

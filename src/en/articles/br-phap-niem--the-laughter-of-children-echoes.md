@@ -104,5 +104,5 @@ Br. Giac Thanh was truly a hero, a great man. He had accomplished the most worth
 
 There are many who can recount more wonderful moments with Br. Giac Thanh, more so than I. Whenever I sit down to make a pot of tea, I remember him through the vivid Dharma sounds that resonate in my mind and the warm cups of tea he taught me to drink with awareness. “Ha! See?” Br. Giac Thanh is still there in each of us, teasing us and drinking tea with us. “Ha! Ha! Ha!”
 
-<p class="noIndent">With my deepest respect to my beloved elder Brother Giac Thanh,<br/>
-Chan Phap Niem</p>
+<p class="signoff"><span class="signoff-lvl-1">With my deepest respect to my beloved elder Brother Giac Thanh,</span><br/>
+<span class="signoff-lvl-2">Chan Phap Niem</span></p>

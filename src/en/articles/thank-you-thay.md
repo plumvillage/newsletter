@@ -12,7 +12,7 @@ title: Thank you Thay
 > “Little did I know then that it would be the last Summer Retreat taught directly by Thay. I arrived in a state of utter exhaustion, incredibly angry at the world, and could not see a way out. Within five short days, a deep transformation had taken place. There was lightness, joy, and hope in my heart. I made lifelong friends. I took the Five Mindfulness Trainings and do my best every day to put them into practice. My life is infinitely clearer, more grounded, calm, spacious, and filled with gratitude. Thank you so much, dear Teacher, dear Community. For everything.”<cite>Tanya</cite>
 
 
-> “At 0:00, January 22nd, Thay moved outside of time… Has he passed? Is he dead? What do we see when we study the corpse? What is it that we mourn?
+> “At 0:00, January 22<sup>nd</sup>, Thay moved outside of time… Has he passed? Is he dead? What do we see when we study the corpse? What is it that we mourn?
 > 
 > “Thay was like a sun-drenched boat that kept me warm and safe on the way to the shore. He taught me how to touch the water and the earth as a means of feeling my own fundamental goodness and wisdom. He taught me how to discern the moon from the pointing finger, the name from the flower, the righteous anger from the fear, the crying infant from the tender parent. He showed me the joys and peace of uni-tasking and taking a single step. He taught me that every mindful breath is our shared humanity. He reminded me of the value of all relationships.
 > 

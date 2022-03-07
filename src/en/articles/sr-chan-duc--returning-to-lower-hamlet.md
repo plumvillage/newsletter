@@ -29,7 +29,7 @@ After the Summer Opening, the guests went home and I moved into the Cypress Buil
 
 Cypress Building had an attic. There were many buckets and basins up there to catch the rain. When it rained hard, there were never enough buckets in the right place and the rain would come through the ceiling and sometimes on to my bed. Plum Village did not have the money to repair the roof at that time.
 
-{% image "article/sr-chan-duc/Sr-Chan-Duc-the-bread-oven-edited.jpg", "", "Monsieur Mounet (4<sup>th</sup> from right) and Robert Naeff (3<sup>th</sup> from right)" %}
+{% image "article/sr-chan-duc/Sr-Chan-Duc-the-bread-oven-edited.jpg", "", "Monsieur Mounet (4<sup>th</sup> from right)<br/>and Robert Naeff (3<sup>th</sup> from right)" %}
 
 When I first came to the Lower Hamlet, there was a traditional brick bread oven. It was in a little stone building behind the Purple Cloud. It had been repaired by a Dutch O.I. member, Robert Naeff, who had knowledge of building this kind of bread oven, so we could actually make bread. You made a wood fire in the oven and when the wood began to turn into embers, you took them out and put them in a bucket. You had to be very careful doing this because if they fell onto the surrounding dry grass, it could cause a fire. Then you placed the uncooked bread in the heated oven. We had to try a few times in order not to burn the bread, but eventually we succeeded in making something edible.
 
@@ -92,5 +92,6 @@ For many years I have been caught in that abstraction, that misapprehension. Thi
 
 Sometimes as an elder sister I need to be a teacher for my younger siblings. I need to practise signlessness in looking at them too and realise that Thay is in each of them.
 
-<p class="noIndent">Touching the earth in boundless gratitude,<br/>
-your child, Chan Duc.</p>
+<p class="signoff"><span class="signoff-lvl-1">Touching the earth in boundless gratitude,</span><br/>
+<span class="signoff-lvl-2">your child,<br/>
+Chan Duc</span></p>

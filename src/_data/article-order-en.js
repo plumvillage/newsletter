@@ -12,6 +12,7 @@ module.exports = [
 "sr-dinh-nghiem--thay-smiled-happily",
 "sr-thuan-khanh--at-the-foot-of-the-majestic-mountain",
 "dharmacharya-shantum-seth--my-teacher-my-friend",
+"sr-trang-tin-yeu--on-misty-days",
 "sr-thao-nghiem--strolling-with-joy-on-a-sunny-day",
 /*------*/"Chapter3",
 "sr-chan-duc--returning-to-lower-hamlet",

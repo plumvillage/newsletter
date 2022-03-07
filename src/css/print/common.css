@@ -659,6 +659,9 @@ article cite {
     font-weight: normal;
     font-size: 11pt;
 }
+.verse cite i {
+    font-style: normal;
+}
 
 article blockquote:lang(zh) {
     font-size: 120%;
@@ -749,7 +752,7 @@ sup { /* superscript */
 .note {
     float: footnote;
     font-size: 8pt;
-    line-height: 100%;
+    line-height: 120%;
     /* indent all but first line */
     /* margin-left: 5pt;
     text-indent: -5pt */
@@ -1158,8 +1161,8 @@ figure#calligraphyarticle-titles-2-and-dividers5-maskedDividers1-1 {
     float: none;
     width: 50%;
     padding-left: 8%;
-    margin-top: 37pt;
-    margin-bottom: 27pt;
+    margin-top: 34pt;
+    /* margin-bottom: 27pt; */
     margin-left: auto;
     margin-right: auto;
 }
@@ -1560,3 +1563,11 @@ article blockquote span:lang(zh) {
 h1#thirteen-years-of-monastic-life-taking-stock {
     width: 90%
 }
+
+/* trying to fit onto 3 pages */
+/* .article-my-teacher-my-friend p + p {
+    margin-top: 7pt !important;
+}
+.article-my-teacher-my-friend p + h2 {
+    margin-top: 7pt;
+} */

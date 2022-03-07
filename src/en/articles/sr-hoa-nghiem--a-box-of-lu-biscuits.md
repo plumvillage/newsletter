@@ -55,4 +55,4 @@ It seems like only yesterday that I saw Thay sitting on the podium teaching. It 
 
 <div class="article-end"></div>
 
-{% image "article/sr-hoa-nghiem/Hinh-cho-bai-Sc-Hoa-N1.jpeg", "", "Sr. Chi Nghiem - front row, 5th from the left, with the Blue Cliff sangha" %}
+{% image "article/sr-hoa-nghiem/Hinh-cho-bai-Sc-Hoa-N1.jpeg", "", "Sr. Chi Nghiem - front row, 5<sup>th</sup> from the left, with the Blue Cliff sangha" %}

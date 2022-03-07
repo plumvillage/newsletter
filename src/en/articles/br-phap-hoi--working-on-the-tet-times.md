@@ -15,7 +15,7 @@ Thay was very happy that the newsletter only published positive, high quality ne
 
 The publication of the newsletter has become a tradition that many people look forward to and is lovingly called by its familiar name “The Tet Times”.<span class="note"><i>Tet</i> is the Vietnamese word for the Lunar New Year celebrated by many Asian and international communities around the world.</span> Thay hoped for it to be a gift for the Lunar New Year, so we usually published it before Tet, in time to print and post to everyone. The editorial team therefore was also under some time pressure.
 
-{% image "article/br-phap-hoi/Br-Phap-Hoi.jpg", "", "From left: Brs. Phap Son, Phap Hai, Phap Khai, Phap Hoi, Phap Kien" %}
+{% image "article/br-phap-hoi/Br-Phap-Hoi.jpg", "", "From left: Brs. Phap Son, P. Hai, P. Khai, P. Hoi, P. Kien" %}
 
 Thay was very active and open to new and more effective ways of working. Even though the newsletter is only published once a year, it is of very high quality. Its content carries the flavor of Zen as well as realistically describing the process and results of Plum Village’s socially engaged actions. Thay placed a great deal of energy into calling for support for charitable work. It also shows that practitioners are not only focused on our practice but also help and contribute to the world.
 
