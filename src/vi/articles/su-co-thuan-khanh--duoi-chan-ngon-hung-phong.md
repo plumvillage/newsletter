@@ -37,7 +37,7 @@ Hôm đó là buổi sáng. Thầy dẫn tôi và sư chị Tịnh Hằng thiề
     Hãy đến cùng tôi dưới chân hùng phong không tên gọi<br/>
     Ngồi trên những tảng đá xanh không tuổi<br/>
     Lặng nhìn thời gian se từng sợi tơ óng ánh<br/>
-    Dệt thành bức lụa không gian</p></div><cite>Uyên nguyên</cite>, thơ Thầy
+    Dệt thành bức lụa không gian</p></div><cite>Uyên nguyên,</cite> thơ Thầy
 
 Sau này mỗi lần về Sơn Cốc, tôi vẫn nghe tiếng gọi của con suối thân thương ngọt ngào mà hùng tráng trong tâm can. Có vài sư em hỏi tôi rằng sao con suối nhỏ xíu và có gì đặc biệt đâu mà có tên là Phương Khê? Tôi mỉm cười không biết trả lời ra sao. Sư em nói chính xác về mặt hiện tượng. Những lúc đó, thế nào trong tâm thức tôi cũng hiện lên ngọn hùng phong đỉnh vươn cao vút giữa trời mây, và hiện lên hình ảnh Thầy, ngọn hùng phong của cuộc đời tôi, với nụ cười bình thản và bước chân an nhiên bên bờ suối, trong rừng trúc. Phương Khê là con suối thơm lành đẹp đẽ, cái thơm lành đẹp đẽ của tâm thức được trở về, được chở che. Con suối chảy quanh co dưới chân ngọn hùng phong đó, sư em có thấy không? Con suối này cũng đẹp đẽ không thua gì những con suối rộng lớn chảy dưới chân dãy núi Alps hùng vĩ. 
 
