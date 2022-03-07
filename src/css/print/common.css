@@ -185,9 +185,13 @@ figure {
     margin-right: auto;
     /* margin: 0 auto; */
 }
-/* html:lang(vi) #title-page h1 {
-    padding-top: 33%;
-} */
+html:lang(vi) #title-page h1 {
+    padding-top: 33% !important;
+    margin-bottom: 8%;
+}
+html:lang(vi) #title-page h2 {
+    font-size: 230% !important;
+}
 
 #title-page figure {
     display: block;
@@ -965,6 +969,7 @@ h1#kinh-so-tam figure img {
 
 /* //////////////////////////////////////////////// */
 /* /////////////  FULL-PAGE IMAGES  /////////////// */
+figure#articlethay-minh-nghiaThay-Tho-HT-Minh-Nghia-Pho-Nhac-Tue-My,
 figure#calligraphyzen-circlezen-circle,
 figure#articlesr-doan-nghiemSr-doan-nghiem-edited,
 figure#articlerichard-brady53beedc0-edited-crop,
@@ -985,6 +990,10 @@ figure#articlerecap-of-ceremoniesFrom-HueL1004781
     margin-right: auto;
     padding-left: 0;
     padding-right: 0;
+}
+figure#articlethay-minh-nghiaThay-Tho-HT-Minh-Nghia-Pho-Nhac-Tue-My {
+    width: 100%;
+    margin-bottom: 0;
 }
 figure#articlerecap-of-ceremoniesFrom-HueL1004781 {
     width: 80%;
@@ -1513,9 +1522,9 @@ article blockquote span:lang(zh) {
 .article-loi-tri-an-tu-cong-dong-quoc-te blockquote,
 .article-tributes-to-thay blockquote
 {
-    margin-top: 30pt;
-    margin-bottom: 28pt;
-    width: 90%;
+    margin-top: 24pt;
+    margin-bottom: 24pt;
+    width: 92%;
     margin-left: 5%;
     font-style: normal;
     text-indent: 0pt;
@@ -1551,8 +1560,8 @@ article blockquote span:lang(zh) {
 	left: 15pt;
 }
 
-/* no end marker here, because it is not in-line */
-
+/* no end marker here (because it is not in-line) */
+.article-thay .last-article-element::after,
 .article-tributes-to-thay .last-article-element::after,
 .article-thank-you-thay .last-article-element::after,
 .article-loi-tri-an-tu-cong-dong-quoc-te .last-article-element::after
@@ -1595,3 +1604,5 @@ figure#articlesr-trang-tin-yeubgImage-cut {
 .article-on-misty-days .verse p + p {
     /* margin-top: 2pt; */
 }
+
+
