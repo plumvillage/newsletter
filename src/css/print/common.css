@@ -748,8 +748,8 @@ sup { /* superscript */
 
 .note {
     float: footnote;
-    font-size: 10pt;
-    line-height: 120%;
+    font-size: 8pt;
+    line-height: 100%;
     /* indent all but first line */
     /* margin-left: 5pt;
     text-indent: -5pt */
@@ -779,7 +779,7 @@ figure img {
 article figure figcaption {
     /* block eliminates remaining space between image and label*/
     display: block; 
-    font-size: 85%;
+    font-size: 9pt;
     line-height: 120%;
     text-indent: 0;
     text-align: right !important;
@@ -1026,7 +1026,7 @@ figure#articlebr-troi-bao-tang266137775101594156527050427864726797241279645n {
     width: 67%;
 }
 figure#articlebr-phap-dungthay-bell3-torn-edges {
-    width: 97%;
+    width: 94%;
 }
 figure#articlebr-troi-dao-quangIMG1129 {
     width: 78%;
@@ -1044,6 +1044,7 @@ figure#articlebr-troi-bao-tangScreenshot-edit {
 
 /* //////////////////////////////////////////////// */
 /* /////////////  INLINE RESIZED IMAGES  ////////// */
+html:lang(en) figure#articlesu-ongPVM2753improved2crop,
 figure#articlebr-phap-an60e,
 figure#articlerichard-bradyR-and-KJ-at-Centro-Avalokita-2015crop,
 figure#articlebr-phap-ung8826595315246533743600235026231803661254656ne,
@@ -1059,6 +1060,10 @@ figure#articlesr-trang-hien-nhanENDSC9591-edited
     float: none !important;
     margin-left: auto;
     margin-right: auto;
+}
+
+html:lang(en) figure#articlesu-ongPVM2753improved2crop {
+    width: 90%;
 }
 
 figure#articlesr-trang-hien-nhanENDSC9591-edited {
@@ -1548,4 +1553,9 @@ article blockquote span:lang(zh) {
 .article-loi-tri-an-tu-cong-dong-quoc-te .last-article-element::after
 {
     content: none !important;
+}
+
+/* to break 2 liner at right point ":" */
+h1#thirteen-years-of-monastic-life-taking-stock {
+    width: 90%
 }

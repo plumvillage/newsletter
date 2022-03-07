@@ -3,7 +3,7 @@ title: The True Sangha
 author: A Dharma Talk by Thay
 ---
 
-Dear sangha<span class="note">Editor's note: In this article we distinguish between the “Sangha” of the Three Jewels (which consist of the Buddha, Dharma and Sangha) and “sangha” when it refers to a community of practitioners.</span>, today is the 14<sup>th</sup> of October, 2010. We are in the Space Beyond Space Meditation Hall in Pak Chong, Thailand, during our Monastic Retreat.
+Dear sangha<span class="note">Editor's note: In this article we distinguish between the “Sangha” of the Three Jewels (which consist of the Buddha, Dharma and Sangha) and “sangha” (lowercase) when it refers to a community of practitioners.</span>, today is the 14<sup>th</sup> of October, 2010. We are in the Space Beyond Space Meditation Hall in Pak Chong, Thailand, during our Monastic Retreat.
 
 {% image "article/su-ong/TheTrueSangha_2.jpg" %}
 

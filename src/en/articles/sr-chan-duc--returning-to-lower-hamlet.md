@@ -29,7 +29,7 @@ After the Summer Opening, the guests went home and I moved into the Cypress Buil
 
 Cypress Building had an attic. There were many buckets and basins up there to catch the rain. When it rained hard, there were never enough buckets in the right place and the rain would come through the ceiling and sometimes on to my bed. Plum Village did not have the money to repair the roof at that time.
 
-{% image "article/sr-chan-duc/Sr-Chan-Duc-the-bread-oven-edited.jpg", "", "Monsieur Mounet (left) and Robert Naeff, standing to the right of the bread oven" %}
+{% image "article/sr-chan-duc/Sr-Chan-Duc-the-bread-oven-edited.jpg", "", "Monsieur Mounet (4<sup>th</sup> from right) and Robert Naeff (3<sup>th</sup> from right)" %}
 
 When I first came to the Lower Hamlet, there was a traditional brick bread oven. It was in a little stone building behind the Purple Cloud. It had been repaired by a Dutch O.I. member, Robert Naeff, who had knowledge of building this kind of bread oven, so we could actually make bread. You made a wood fire in the oven and when the wood began to turn into embers, you took them out and put them in a bucket. You had to be very careful doing this because if they fell onto the surrounding dry grass, it could cause a fire. Then you placed the uncooked bread in the heated oven. We had to try a few times in order not to burn the bread, but eventually we succeeded in making something edible.
 
@@ -75,7 +75,7 @@ I remember one time in the Lower Hamlet when I was a layperson and we were prepa
 
 Beloved and respected Thay,
 
-{% image "article/sr-chan-duc/Sr.ChanDuc.3-edited.JPG", "", "With sisters during earthcake wrapping, 2021" %}
+{% image "article/sr-chan-duc/Sr.ChanDuc.3-edited.JPG", "", "With sisters during earth-cake wrapping, 2021" %}
 
 Last night at about 04.00 am I had a dream. Our international monastic sangha had gathered at a train station. Hundreds of us were all there together. Sr. Tu Nghiem (Sr. Eleni) and I for some reason did not have a ticket. I felt it was urgent that we buy a ticket without delay. We went to the ticket office but it was closed. Then the man who sold tickets appeared. He was very kind and agreed to sell us tickets immediately. I worried that I did not have any money but the man said he wanted to give us two tickets for the price of one. I had exactly the right amount of money. With our tickets we went outside to join the sangha which was going up the steps to the train together. On seeing the sangha I could not believe how beautiful it was: even more beautiful than the wild-goose sangha that migrates over France in the autumn and spring in a stunning “V” formation.
 

@@ -93,7 +93,7 @@ html:lang(vi) .pagedjs_right_page .pagedjs_margin-bottom-right {
 ["br-phap-hoiBr-Phap-Hoi-2-e",
 	"120mm", "0mm", 0, 30],
 ["mick-mcevoyHappy-Farm",
-	"118mm", "0mm", 0, 30],
+	"118mm", "0mm", 0, 20],
 ["mick-mcevoyRe-Wilding-project7",
 	"100mm", "0mm", 0, 30],
 ["eulogy-in-vietnamL1004616-e",
@@ -163,7 +163,8 @@ html:lang(vi) .pagedjs_right_page .pagedjs_margin-bottom-right {
 
 {% idMap ".PAGE-OF-article", items, " .pagedjs_margin-bottom" %}
 {
-    filter: drop-shadow(0 0 1pt white) drop-shadow(0 0 3pt white);
+    {# filter: drop-shadow(0 0 1pt white) drop-shadow(0 0 3pt white); #}
+    display: none !important;
 }
 
 {% for item in items %}
@@ -194,7 +195,8 @@ figure#article{{ item[0] }} figcaption {
         0 0 5pt black,
         0 0 10pt black
     ;
-    bottom: calc(16mm + {{ item[2] }});
+    {# 16mm if pagenumber is displayed #}
+    bottom: calc(10mm + {{ item[2] }});
 }
 {% endfor %}
 

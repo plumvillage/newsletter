@@ -15,7 +15,7 @@ A carer had shared with me how the family can take care of the body in a respect
 
 To sit with his body was a wonderful experience. In England the old traditions have been lost and most people want death to leave the house immediately. The close family visited and we were able to sit around Dad and recall our happy memories to honour his life. Mum also had quiet time to say her goodbyes, so essential because they had been married for almost 70 years. When she finally decided that she was definitely going to attend the funeral, on leaving the house in a wheelchair, she was moved to see the whole street gathered to greet and applaud her. 
 
-{% image "article/sr-trang-tam-muoi/Togetherness.JPG", "", "Sr. Tam Muoi with her 99-year-old mum, Peggy" %}
+{% image "article/sr-trang-tam-muoi/Togetherness.JPG", "", "Sr. Tam Muoi with her 99-year-old Mum, Peggy" %}
 
 Later when the ceremonies were completed, I had to decide when to return to Plum Village. I felt deeply conflicted because on the one hand how could I leave my Mum to mourn alone, even if she had a wonderful live-in carer to take care of her personal needs? On the other hand, as any of her carers could tell you, Mum is not an easy woman and the idea of staying with her for an extended period was, frankly, scary. 
 
@@ -47,7 +47,7 @@ Practicing self-compassion for having safely navigated the latest emotional chal
 
 One of the highlights of my stay was finding an old box containing 200 letters that Dad had written to Mum when he had TB. He was diagnosed just five years after they married, and my mother found herself alone taking care of my three-year-old sister, far from any family members. He wrote to her *every* day even though Mum visited him twice a week! I offered to read the letters to her, although I felt nervous entering into their intimacy. But she replied, “Oh yes, then he will be here with us.” So after each meal, I would read a few letters. It was a real gift, to discover the sensitive, affectionate man who could write so tenderly. It was lovely to read his enthusiastic dreaming of “another infant” (me!) and of his love for my sister, for whom he made wooden and basketwork toys whilst in the sanatorium.
 
-{% image "article/sr-trang-tam-muoi/Mums-portait-100-edited.jpg", "", "The portrait Sr. Tam Muoi painted for her mum’s 100<sup>th</sup> birthday" %}
+{% image "article/sr-trang-tam-muoi/Mums-portait-100-edited.jpg", "", "Portrait Sr. Tam Muoi painted for her Mum’s 100<sup>th</sup> birthday" %}
 
 My “No Escape” retreat would not have been possible without the support of many carers and nurses who were coming in and out throughout the day. We had two principle live-in carers who alternated, three weeks on, three weeks off, Charity from Essex and Zimbabwe, and Marian from London and Uganda. It was a real privilege for me to share my life with these women, supporting each other, or dancing round the kitchen as we cooked together. Not only are they excellent professional carers but we became friends, supporting each other through Mum’s ups, but particularly her downs. Many times, I or they would come back to the kitchen having been roundly scolded by Mum, and we would be there for each other with a hug or a hilarious reflection to bring back a smile. As they shared more about their lives, I was humbled by their capacity for joy, sacrifice and resilience especially as they navigate the challenges of being Black in Britain.
 
@@ -57,7 +57,7 @@ Seven months on, it seemed that Mum was not going to die a few months after Dad 
 
 The day before her funeral I was able to sit a long while with her body and place a bouquet of flowers in her hands. This is the poem that came to me, which I read out during her service.
 
-## Contemplation on mum’s body 
+## Contemplation on Mum’s body 
 
 <div class="verse"><p>Your two hands<br/>
 Now folded in peace upon your chest<br/>
@@ -96,7 +96,7 @@ Have drunk your tea, your essence.<br/>
 You are in each one of us.<br/>
 We are your continuation.</p></div>
 
-{% image "article/sr-trang-tam-muoi/Peggy-100.JPG", "", "The gold tasselled 100<sup>th</sup> birthday card from the Queen of England" %}
+{% image "article/sr-trang-tam-muoi/Peggy-100.JPG", "", "Gold tasselled 100<sup>th</sup> birthday card from the Queen of England" %}
 
 ## Epilogue
 

@@ -8,7 +8,7 @@ We asked our beloved elders to share some of their memories of the early days of
 
 ## Life in community
 
-{% image "article/sr-tu-nghiem-and-sr-dieu-nghiem/Sr-tu-nghiem2-edited.jpg", "", "Inter-faith “nun's retreat”, Lower Hamlet, 1995" %}
+{% image "article/sr-tu-nghiem-and-sr-dieu-nghiem/Sr-tu-nghiem2-edited.jpg", "", "Inter-faith “nuns retreat”, Lower Hamlet, 1995" %}
 
 ***Sr. Tu Nghiem*:** It was such an eye-opening experience for me (to live in a Vietnamese community in rural France), coming from Manhattan - a city with big concrete apartment buildings. It was a totally different experience, and I appreciated so much the way the Vietnamese mothers and fathers, the children, were happy and harmonious together.
 

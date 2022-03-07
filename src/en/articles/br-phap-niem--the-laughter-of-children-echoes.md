@@ -34,7 +34,7 @@ soaring across the sky.</p></div>
 
 During the years of learning from him and drinking tea by his side, I heard from Br. Giac Thanh that before coming to Plum Village, he had a dream. In it, he was lying down and saw an old woman by the foot of his bed. She looked at him with very gentle, kind, and bright eyes, and said, “Come home my child.” Later when he met Thay, he saw that the old woman in the dream looked very much like Thay, and he was certain that she was no other than Thay. It is precisely due to these predestined conditions that Br. Giac Thanh always held Thay in his heart with much respect and love, in a quiet and infinitely lovely way. 
   
-{% image "article/br-phap-niem/ToBeAdded_edited.jpg" %}
+{% image "article/br-phap-niem/ToBeAdded_edited.jpg", "", "Buddha Garden of the Dharma Nectar Hall in Lower Hamlet" %}
 
 The story of awakening while viewing the autumn splendor may remind us of the story of Zen Master Lingyun Zhiqin (Master "Sacred Cloud"). One morning he woke to blooming peach blossoms and suddenly became enlightened. Many doubts in his mind were dispelled and he touched the nature of life, of nonself. The master had spent thirty years to find the master swordsman, that is, finding one's original face, one's true nature. Peach blossoms bloom, the Zen master sees. 
 

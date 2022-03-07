@@ -9,7 +9,7 @@ author: Brother Chân Nguyên Tịnh
 
 ***Excerpts from a practice journal***
 
-## *2015 November 3*<br/>Let me also be present
+## <span class="lmnq">Nov 3, 2015</span><br/>Let me also be present
 
 Today is a Monastic Day. I went quite early to the Hermitage so I could walk on the grounds. A few brown robes were already there, each enjoying the serenity. Thay was away for health treatment in the U.S. and had yet to return. Three more days and it would be a full year since I first arrived in Plum Village.
 
@@ -27,11 +27,11 @@ I opened my eyes. Tears streamed down my cheeks. The sun was already high. I smi
 
 All afternoon, I sat in meditation in a corner of the old wooden barn to deepen that insight. By the time I stepped outside, the sangha had just finished playing games and were exchanging gifts. If I had not had the opportunity to sit, walk, work, drink tea, or eat, right in the midst of the sangha every day for the past year, I know it would have been very difficult to encounter a miraculous moment like this. 
 
-## *2016 March 10*<br/>The day of return
+## <span class="lmnq">Mar 10, 2016</span><br/>The day of return
 
 I received the surprising news that I would soon have an opportunity to be Thay's attendant. Having the great fortune to be near Thay, I learned from the lessons he transmitted. At each meal, Thay brought each spoonful of food to his mouth with utter attention, care, and enjoyment. Mindfulness had become his life. Thay enjoyed each sip of tea with tranquility. Observing and enjoying nature, Thay had become a free person, with nothing to do, and nowhere to go. One bud of white champaca blooms and for Thay, it is a miracle. I loved so much every time I saw Thay taking his left hand to care for and wake up his right hand. Thay sat at his desk and with his left hand held a calligraphy brush to draw circle after circle, smiling. A flower bloomed on the page, it bloomed in Thay's heart, and in the hearts of each of us. 
 
-## *2016 March 25*<br/>16<sup>th</sup> day attending Thay
+## <span class="lmnq">Mar 25, 2016</span><br/>16<sup>th</sup> day attending Thay
 
 Like the ancestral teachers of the past, Thay is also transmitting the living Dharma day and night: you support my feet, for you I walk; you offer medicine, for you I drink it; you bring me rice, for you I eat it; you are disrespectful, I reprimand you for your sake; you make me tea, for you I reach out to receive it; you want to learn, for you I teach; you bring me the chamber pot, for you I urinate; you want to learn impermanence, for you I am ill. Try asking me if I have transmitted the *Mind Seal* to you. Has anyone let anyone down? 
 
@@ -43,7 +43,7 @@ I remember the second morning of the “Gratitude” Great Precepts Transmission
 
 The venerable monks were at breakfast and Thay joined them. Thay ate very mindfully, carefully and decisively bringing each spoonful of food to his mouth. His eyes were as bright as the eyes I had met in Thailand in 2013. Thay’s eyes and bearing led Venerable Giac Quang to tears. After breakfast Thay returned to the Sitting Still Hut. The sun was just appearing. Thay saw it and pointed it out to everyone, then invited the venerables to watch the sun rise in his hut. The scene was glorious.
 
-## *2016 April 5*<br/>27<sup>th</sup> day attending Thay
+## <span class="lmnq">Apr 5, 2016</span><br/>27<sup>th</sup> day attending Thay
 
 Asleep in the heart of the Hermitage, I dreamt of a young boy of ten who was poor and sick. The boy knew he had to take a special train to go somewhere and then he would find the life he was meant to live. He had to go, but he did not have any money. Carrying a bag containing a few items, he chose his moment to hide in a dark, cramped cargo hold. The train started and meandered through the plains, hills, and wild ancient forests.
 

@@ -11,7 +11,7 @@ title: Tributes to Thay
 
 > “Thich Nhat Hanh will be most remembered for his tireless championing of religious freedom, human rights, non-violence, and his message of mindfulness in daily life.  Although Thay’s influence spread well beyond the realm of religion, he leaves a legacy as one of the most influential religious leaders in recent history.  Thay is probably best remembered as a leading light in interfaith and interreligious dialogue.”<cite><b>US Embassy in Vietnam</b></cite>
 
-{% image "article/tributes/001030-e.jpg", "noFloat" %}
+{% image "article/tributes/001030-e.jpg", "noFloat", "Thay and His Holiness the Dalai Lama in the 1990s" %}
 
 > “Thich Nhat Hanh is respected by many as the most influential spiritual leader. He showed his love for humankind through his actions. His teachings on happiness touched many hearts. His footsteps and words will continue to live on through the practices of the people.”<cite><b>Moon Jae-in</b>, President of South Korea</cite>
 

@@ -42,7 +42,7 @@ Just a few short days later I found myself in Glasgow, reunited with my mentor, 
 
 Sharing with the delegates at the conference, we were so happy to discover that the insight of interbeing and interdependence is also growing stronger in the world. Actually, in the environmental movement, almost everyone knows that this is the way forward, but what I started to see was that for many, this insight remains at the intellectual level and does not translate into their way of life. They understand the principle of interbeing, but they are still living as a separate self, as an individual who has to make a living, make a reputation for themselves - a career and an identity. But the good news is that when they see a practical example of how the insight can be applied, they get it right away. You just have to scratch the surface, and they are ready to transform. That’s the good news!
 
-{% image "article/br-phap-linh/PV-Monastics-at-TED-with-Al-Gore-and-ZASP-Square-Photo-PVCEB-e.jpeg", "", "Meeting with Al Gore" %}
+{% image "article/br-phap-linh/PV-Monastics-at-TED-with-Al-Gore-and-ZASP-Square-Photo-PVCEB-e.jpeg", "", "Meeting with Al Gore, former Vize President of the U.S." %}
 
 ## Practising applied interbeing 
 

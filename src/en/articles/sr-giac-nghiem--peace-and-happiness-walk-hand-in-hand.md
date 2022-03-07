@@ -19,7 +19,7 @@ Just opposite the entrance another stone building conceals the heart of the comm
 
 At the end of the room, a door opens into a small meditation room where a fireplace serves as an altar. Here the whole community gathers to meditate. There, all is happiness. Another door opens onto a vast field with a white cloud of wild carrot flowers interwoven with the sky-blue flowers of chicory, just like the Milky Way. I secretly think: *God has laid his finger on this precious earth. I have arrived, I am home.* Thay is there, his attentive presence pervades the garden, Thay removes the wilted flowers at the end of each day, and waters the plants with care.
 
-{% image "article/sr-giac-nghiem/Sc-Giac-Nghiem1-edited.jpg" %}
+{% image "article/sr-giac-nghiem/Sc-Giac-Nghiem1-edited.jpg", "", "Under the oak trees in Lower Hamlet" %}
 
 On arrival, I met Thay and Sister Cao Fleurette in the garden. This was in 1985. Sister Fleurette had long hair and beautiful eyes, like the eyes of a deer - full of understanding and love. Since then, I have been growing slowly next to these two wonderful trees.
 

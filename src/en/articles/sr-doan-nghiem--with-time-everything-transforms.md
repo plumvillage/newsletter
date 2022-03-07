@@ -3,7 +3,7 @@ title: With Time, Everything Transforms
 author: Sister Chân Đoan Nghiêm
 ---
 
-{% image "article/sr-doan-nghiem/Sr-doan-nghiem-edited.jpg", "", "Sr. Doan Nghiem: second from the left" %}
+{% image "article/sr-doan-nghiem/Sr-doan-nghiem-edited.jpg", "", "from left: Sr Thieu Nghiem, Sr. Doan Nghiem, Sr Tue Nghiem with 2 other siblings" %}
 
 **Dear sister, when you first came to Plum Village, what left the strongest impression on you?** 
 
@@ -21,11 +21,11 @@ While listening, I ticked off the difficult parts that I had already gone throug
 
 Thay didn’t teach me how to be an attendant. In 1990, right after my ordination, Thay went on a U.S. teaching tour. Before leaving, Thay gave me a copy of the *Commentary on Trainings for Novices* by Venerable Thich Hanh Tru. Thay really treasured this old, yellowing book. He said that he himself used this very book to practise as a new novice. Hearing that, I also treasured the book. I bought some transparent sticky plastic to cover the already frayed and torn book. However, though I read the commentary, I didn’t pay much attention to its teachings. It wasn’t until the end of 1992 that I had a chance to attend Thay for the first time.
 
+{% image "article/sr-doan-nghiem/su-me-DJoan-N-3-edited.jpg" %}
+
 That day, the snow was very thick on the road, so we were unable to drive. After the meal to say farewell to the old year, Thay had to stay back in Lower Hamlet in the “Hoa Cau” room (Areca Palm Flowers). The sisters told me to attend Thay. I hurried to take care of the firewood to warm up the room. When that was done, I went back to my room and began to flip through the novice trainings commentary. By that stage, how could anyone possibly sit down and memorize a chapter on “Attending Your Teacher”?! 
 
 I sat with that chapter almost the whole night. I had a lot of “concerns”, because the book said that we “should not go to sleep before our teacher and should rise before our teacher”. That alone was enough to make me panic! I wondered, *What time does Thay go to sleep? What time does he rise?* Questions kept popping up as I read paragraph after paragraph. So that night, I didn’t dare to go to sleep before Thay. I had to run past his room to see if the lights were off before I dared to go to bed. My room was in the Red Candle Building while Thay’s was in the Purple Cloud Building. That night, despite the newly laid thick layers of snow, I kept going back and forth checking for the lights in Thay’s room. In summary, I did not sleep for almost the whole night. I stayed up, memorizing the steps on taking care of one’s teacher - whatever the book said, I would do just the same. 
-
-{% image "article/sr-doan-nghiem/Sr-doan-nghiem.2-edited.jpg" %}
 
 I didn’t know what time Thay would rise the next morning. I thought that Thay was a Zen master, so for sure he would rise as early as the masters in the Zen stories I often read about. At three in the morning, I ran over to his room. I walked on tippy toes, and “tapped lightly with nails” on the door instead of knocking because in the commentary it said to “tap lightly with your nails”, so that was exactly what I did! But how could Thay hear a sound that was even quieter than a mosquito buzzing around his ears? How could the sound of fingernails tapping penetrate the thick stone wall and the wooden door? As I did not hear Thay’s response, I had to give up and go back to my room.
 
@@ -35,9 +35,9 @@ I was so nervous - had something happened to Thay? In the commentary, it said th
 
 In my head I already had a list of what needed to be done that I had learned from the *Commentary on Trainings for Novices*. Upon entering Thay’s room, I gently closed the door and scanned the room. Thay was still in bed, listening to the morning news (Thay told me this), so I couldn’t make his bed. My eyes went around the room to see if there was a chamber pot, which was also mentioned in the book. I followed the book exactly and completely forgot that Thay’s room had a toilet next to it, so why would he need a chamber pot? Not seeing a chamber pot, I turned to the wooden stove, fed it some firewood, then boiled water for Thay to soak his feet…
 
-{% image "article/sr-doan-nghiem/su-me-DJoan-N-3-edited.jpg" %}
-
 I was so absorbed in carrying out “the list of things to do while attending Thay” that I didn't pay any attention to Thay. Suddenly I heard some movement behind me, I turned and saw that Thay was standing up. As soon as Thay stood up, I jumped over to fold his blanket. Then I put up his hammock because Thay liked lying in the hammock in his room. After brushing his teeth, Thay lay down in the hammock. I turned to make tea, then brought a hot water basin for Thay so he could soak his feet while sipping tea. When there was nothing else to do, I came around to sit by Thay’s hammock and waited to see what he would tell me to do next. The very first thing Thay said to me was, “When I have some time, I will teach you how to be an attendant.”
+
+{% image "article/sr-doan-nghiem/Sr-doan-nghiem.2-edited.jpg", "", "Thay playing table tennis" %}
 
 However, in the end, Thay did not teach me how to be an attendant. I think he said it at the time because he saw that I was making too much of a fuss.
 

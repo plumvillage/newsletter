@@ -3,7 +3,8 @@ title: Thay’s Vision for Wake Up Schools
 author: Brother Chân Pháp Lưu & Orla O’Sullivan
 ---
 
-<p class="editors-preface">Orla is a senior member of the Order of Interbeing and the International Coordinator of Wake Up Schools. She has founded two sanghas in Dublin, one for adults and one for families and teaches how to build happier communities.</p>
+<p class="editors-preface">Orla is a member of the Order of Interbeing and the International Coordinator of Wake Up Schools. She has founded two sanghas in Dublin, one for adults and one for families and teaches how to build happier communities.<br/>
+Br. Phap Luu has been involved in WakeUp Schools since its inception in 2012.</p>
 
 Thay, one of the first monks to include elements of Western science and philosophy in the monastic curriculum, has always been curious about *how* we learn and how we can *live together*.
 
@@ -61,7 +62,7 @@ Being a mindful teacher today is to be an activist, transforming society at the 
 
 Recently the work of Wake Up Schools was featured in a new evidence-based guide published by The Mindfulness Initiative. *Implementing Mindfulness in Schools: An Evidence-Based Guide*<a class="note" href="https://wakeupschools.org/wake-up-schools-featured-in-new-evidence-based-guide/">wakeupschools.org/wake-up-schools-featured-in-new-evidence-based-guide/</a> is a comprehensive guide written by Professor Katherine Weare and Adrian Bethune after extensive consultation with an expert steering group, including our International Co-ordinator, Dr. Orlaith O’Sullivan. The guide highlights the importance of whole-school engagement and of adopting a long-term approach to infusing the school with mindfulness.
 
-## Events up to and during the pandemic
+## Blossoms of the WakeUp Schools network
 
 In January of 2019, Br. Phap Dung, Sr. Hiền Hạnh, Sr. Thanh Nghiêm, Br. Phap Luu, Sr. Thao Nghiem, Br. Bao Tang and Br. Pham Hanh brought Wake Up Schools to Uganda. Most of the 250 or so teachers were Catholic - they even held a Catholic mass every day during the retreat. This was a new environment for us because we're used to teaching in the more secular parts of the West. But there was really no obstacle. We went there to teach mindfulness, how to understand your mind: how do you get to know difficult emotions directly and understand what kind of nutriment gives rise to them. People there got that everyone needs this - it's a kind of teaching that every human being really needs to live happy and healthy lives. Now the teachers are bringing their experience of deep transformation back to their schools and sharing it as more compassionate teachers with their colleagues and students. This trip was filmed by Wouter Verhoeven of Evermind Media and is being made into a documentary.<a class="note" href="https://evermind.media/happy-teachers-change-africa/">evermind.media/happy-teachers-change-africa</a>
 

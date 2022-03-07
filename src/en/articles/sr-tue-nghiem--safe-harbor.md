@@ -3,7 +3,7 @@ title: Safe Harbor
 author: Sister Chân Tuệ Nghiêm
 ---
 
-My dear younger one, 
+My dear younger siblings, 
 
 The day I came to Plum Village thirty years ago, you had just turned one. You cannot imagine what Plum Village was like, or what I was like as a 22-year-old young woman, can you? You would ask - *Why did you come to Plum Village when there were so few people here and the living conditions so simple? What made you choose Plum Village as a safe harbor in which to live the life of a monastic?* Thirty years is a long time, but it also passes by swiftly.
 
@@ -12,8 +12,6 @@ I came to Plum Village during the Summer Retreat of 1992. Plum Village was celeb
 ## A sense of belonging
 
 Coming to Plum Village that year, I became acquainted with many young Vietnamese people who had also grown up in the West. Perhaps everyone felt the same way as I did, and therefore when we came together we could completely accept one another. Everyone opened their hearts to help, support, and love each other. The atmosphere in Plum Village,  Thay’s Dharma talks, and the presence of the brothers and sisters had created a truly wholesome and pure environment filled with serenity and love. In just a week, our group of young people had become close friends. I have been nourished by that love and friendship throughout these 30 years. Here is my true home because it is here that I have found love, humanity, acceptance, joy, safety, and teachings to help me embrace difficulties and live in kindness.
-
-<!-- {% image "article/sr-tue-nghiem/20211210012e.jpg" %} -->
 
 Thay liked to see young people, whether young men or young women, wearing the traditional Vietnamese long robe. We had many opportunities to wear the long robe during the week - while listening to Thay's Dharma talk, during tea meditation, or various ceremonies. You know what my dear? It was the first time in my life to wear the long robe regularly like that. After lunch and dinner, the young friends gathered around under the two oak trees of Lower Hamlet by the bamboo grove. Every day I was nourished and grew a little through the songs, zen music, sparkling laughter, and friendship. After one month I went back to the U.S. with joy and warmth in my heart. I knew I had a beautiful and wholesome path and what's more, there were such lovely and kind friends from Europe and America walking along it with me.
 

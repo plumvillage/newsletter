@@ -10,7 +10,7 @@ Dear friends on the path,
 
 I hope you enjoy this digital painting that was inspired by Thay’s account of his dream, in which he was a music student who had to perform in front of a university audience. I began envisioning it one morning after waking up from my own dream in which Thay invited a bell to help us all come back to the present moment. As he invited the bell, his hands moved around it in a cinematographic way with multiple hands merging in and out of each other, with some hands holding various musical instruments. 
 
-{% image "article/br-phap-dung/thay-bell3-torn-edges.jpg" %}
+{% image "article/br-phap-dung/thay-bell3-torn-edges.jpg", "", "Original artwork by Br. Phap Dung" %}
 
 In the days I was drawing this, the violent riot at the U.S. Capitol occurred (6 January 2021). America once more saw the ugly side of itself again. I felt sad for the people who were tasked to help lead and unite the divided people of this nation. So this artistic exploration became a healing activity for me, a kind of balm for my heart from the mental ache that I was feeling for our human family. Focusing on Thay’s life and all the suffering and division that he managed to overcome, I felt more determined than ever to help realize his dream of building mindful communities where people from all walks of life can live harmoniously together even with differences of opinion, values, and approaches.
 

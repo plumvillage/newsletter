@@ -53,7 +53,7 @@ The Dharma talks on Monastic Days were often very closely related to what was ha
 
 The Hermitage is small, but large enough for Thay to lead the sangha for walking meditation. Thay led us around the garden, along the creek, (which is called “Fragrant Creek - Phương Khê”), towards the rows of poplar trees, then turning back until we arrived at the three cypress trees. On those days, Thay and his disciples often sat around a bonfire outside. The brothers always brought along guitars to play and sing meditation songs. Thay liked to sit and listen to his monastic children sing, and watch us having fun and laughing. We, the young sisters at the time, rarely sat near the bonfire. Instead we liked to hide near the bamboo grove to enjoy the dishes we missed out on at lunch or run around and play games.
 
-{% image "article/sr-thao-nghiem/IMG_6614-edited.jpg", "", "Chanting practice at the Hermitage" %}
+{% image "article/sr-thao-nghiem/IMG_6614-edited.jpg", "", "Chanting practice at the Hermitage, 2014" %}
 
 Lunchtime was the most fun. The line was *really* long because there were only two serving tables. Whoever did not have responsibilities tried their best to line up first. Come lunchtime, everyone was lined up neatly. No one left the line because they would lose their spot right away. When the cooking team came carrying the food and asked for help to invite the bell, everyone would politely decline, no one was willing to do it. Tough isn’t it? So many funny stories around the serving table at the Hermitage! On rainy days when there wasn’t enough space, we all squeezed into the house to eat. Oh it was so crowded, but everyone was happy and enjoyed the Monastic Days. Isn’t that wonderful?
 
