@@ -34,6 +34,8 @@ Dear Thay, one time there was a doctor who flew in to see Thay. You were able to
 
 We know that we will miss you very much. We promise that when we miss you, we will remember to come back to our mindful breaths and mindful steps so that right away, you can be present with us. Coming home to our mindful breathing and mindful walking, we can see right away that you are present in each one of our siblings, and in each of our lay friends. We promise to nurture our brotherhood and sisterhood so that we can be worthy of your love. We will carry you with all of us into the future, and we know that you have faith in us.
 
-We humbly prostrate before you, on the grounds of the Root Temple Tu Hieu , with our deepest gratitude.
+We humbly prostrate before you, on the grounds of the Root Temple Tu Hieu,
 
-<p class="noIndent">Your “baby” disciples, the young nuns of Dieu Tram Nunnery</p>
+<p class="signoff"><span class="signoff-lvl-1">with our deepest gratitude,</span><br/>
+<span class="signoff-lvl-2">your “baby” disciples,<br/>
+the young nuns of Dieu Tram Nunnery</span></p>

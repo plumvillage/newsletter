@@ -868,6 +868,27 @@ article ul li::before {
     margin-right: auto;
 }
 
+.signoff {
+    text-indent: 0pt;
+    font-style: italic;
+}
+.signoff-lvl-1, .signoff-lvl-2, .signoff-lvl-3, .signoff small {
+    display: inline-block;
+}
+.signoff-lvl-1 {
+    padding-left: 16pt;
+}
+.signoff-lvl-2 {
+    padding-left: 32pt;
+}
+.signoff-lvl-3 {
+    padding-left: 48pt;
+}
+.signoff small {
+    padding-top: 2pt;
+    font-size: 80%;
+}
+
 
 
 
@@ -880,7 +901,6 @@ article ul li::before {
 
 
 /* reduce space between calligraphy and author */
-h1#the-true-sangha,
 h1#tang-than-dich-thuc,
 h1#dharma-banquet,
 h1#chicken-and-egg
@@ -898,17 +918,15 @@ h1#thanh-than-nguoi-ve-choi-bien-lon {
     margin-bottom: 0mm;
 }
 
+h1#the-true-sangha {
+    margin-bottom: -9mm;
+}
+
 h1#the-true-sangha figure,
 h1#the-true-sangha figure img
 {
     max-height: 40mm !important;
 }
-
-h1#kinh-so-tam figure,
-h1#kinh-so-tam figure img {
-    max-height: 25mm !important;
-}
-
 
 h1#the-true-sangha figure img
 ,h1#tang-than-dich-thuc figure img
@@ -917,20 +935,8 @@ h1#the-true-sangha figure img
 }
 
 h1#the-true-sangha {
-    margin-bottom: -12mm;
-}
-
-#nep-xua + .author,
-#tieng-chuong-chanh-niem + .author
-{
-    /* this is in addition */
-    margin-top: 5mm !important;
-}
-
-h1#the-true-sangha {
     margin-top: 75mm;
 }
-
 h1#tang-than-dich-thuc {
     margin-top: 80mm;
 }
@@ -941,6 +947,17 @@ h1#the-true-sangha + .author, h1#tang-than-dich-thuc + .author {
 }
 
 
+h1#kinh-so-tam figure,
+h1#kinh-so-tam figure img {
+    max-height: 25mm !important;
+}
+
+#nep-xua + .author,
+#tieng-chuong-chanh-niem + .author
+{
+    /* this is in addition */
+    margin-top: 5mm !important;
+}
 
 
 /* //////////////////////////////////////////////// */
@@ -1133,8 +1150,9 @@ figure#calligraphyarticle-titles-2-and-dividers5-maskedDividers1-1 {
     display: block;
     column-span: all;
     float: none;
-    width: 30%;
-    margin-top: 27pt;
+    width: 50%;
+    padding-left: 8%;
+    margin-top: 37pt;
     margin-bottom: 27pt;
     margin-left: auto;
     margin-right: auto;
@@ -1481,12 +1499,27 @@ article blockquote span:lang(zh) {
 }
 
 
-.article-tributes-to-thay blockquote,
-.article-thank-you-thay blockquote,
-.article-loi-tri-an-tu-cong-dong-quoc-te blockquote
+
+.article-loi-tri-an-tu-cong-dong-quoc-te blockquote,
+.article-tributes-to-thay blockquote
 {
-    margin-top: 22pt;
-    margin-bottom: 22pt;
+    margin-top: 30pt;
+    margin-bottom: 28pt;
+    width: 90%;
+    margin-left: 5%;
+    font-style: normal;
+    text-indent: 0pt;
+}
+.article-loi-tri-an-tu-cong-dong-quoc-te figure,
+.article-tributes-to-thay figure
+{
+    margin-bottom: 28pt;
+}
+
+.article-thank-you-thay blockquote
+{
+    margin-top: 10pt;
+    margin-bottom: 23pt;
     font-style: normal;
     text-indent: 0pt;
 }
