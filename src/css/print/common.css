@@ -1044,6 +1044,7 @@ figure#articlebr-troi-bao-tangScreenshot-edit {
 
 /* //////////////////////////////////////////////// */
 /* /////////////  INLINE RESIZED IMAGES  ////////// */
+figure#articlehisae-matsuda-and-terry-barberHarvardBookstore,
 html:lang(en) figure#articlesu-ongPVM2753improved2crop,
 figure#articlebr-phap-an60e,
 figure#articlerichard-bradyR-and-KJ-at-Centro-Avalokita-2015crop,
@@ -1061,7 +1062,7 @@ figure#articlesr-trang-hien-nhanENDSC9591-edited
     margin-left: auto;
     margin-right: auto;
 }
-
+figure#articlehisae-matsuda-and-terry-barberHarvardBookstore,
 html:lang(en) figure#articlesu-ongPVM2753improved2crop {
     width: 90%;
 }

@@ -1,5 +1,5 @@
 ﻿---
-title: Advent - Preserving a Beautiful Tradition
+title: "Advent: Preserving a Beautiful Tradition"
 author: Sister Chân Trăng Bồ Đề
 ---
 ## Discovering Christmas

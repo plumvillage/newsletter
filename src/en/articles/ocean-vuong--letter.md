@@ -1,5 +1,5 @@
 ﻿---
-title: Letter of Condolence
+title: The Mud for the Lotus
 author: Ocean Vuong
 ---
 
