@@ -25,6 +25,6 @@ Biết rằng quý vị vẫn đang ở đó, tìm kiếm những câu trả l�
 
 Vâng. Con buồn, và sẽ còn buồn như vậy một thời gian nữa. Trái tim con đau nhói, nhưng bất chấp điều đó, hoặc có thể là chính nhờ điều đó, con đã tìm thấy quý vị. Và trong quý vị, con tìm thấy chính con.
 
-<p class="noIndent">Đó là tự sự, đó là cái biết.<br/>
+<p class="noIndent">Đó là tự sự, đó là cái biết.</p>
 
-Xin gửi tới quý vị niềm thương kính và tin cậy.</p>  
+<p class="noIndent">Xin gửi tới quý vị niềm thương kính và tin cậy.</p>  
