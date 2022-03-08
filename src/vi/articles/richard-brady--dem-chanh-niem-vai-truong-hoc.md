@@ -37,10 +37,10 @@ Các em được hướng dẫn là chỉ tập trung chú ý đến những gì
 
 Khi có nhiều suy nghĩ tiêu cực đi lên trong tâm trí, có thể ta sẽ cảm thấy chán nản nếu ta chú ý quá nhiều đến chúng, trừ khi ta có thể làm gì đó với những suy nghĩ này. Vì vậy, tôi đã nói: “Có một điều các em có thể làm!” Và chúng tôi đã cùng nhau thực hành một bài thiền tập ngắn:
 
-> Thở vào, tôi thấy tôi là bông hoa.  
-> Thở ra tôi cảm thấy tươi mát.  
-> Thở vào, tôi thấy tôi là trái núi.  
-> Thở ra, tôi cảm thấy vững vàng.
+<div class="verse"><p>Thở vào, tôi thấy tôi là bông hoa.<br/>
+    Thở ra tôi cảm thấy tươi mát.<br/> 
+    Thở vào, tôi thấy tôi là trái núi.<br/>  
+    Thở ra, tôi cảm thấy vững vàng.</p></div>
 
 Qua bài thực hành, các em bắt đầu nhận thấy tâm trí có ảnh hưởng vô cùng quan trọng đến cuộc sống của mình. Và các em biết rằng mình có thể làm một điều gì đó để tâm trí trở nên cởi mở, tích cực hơn.
 
@@ -82,4 +82,4 @@ Năm 2001, Mạng lưới Chánh niệm trong Giáo dục (Mindfulness in Educat
 
 <div class="article-end"></div>
 
-{% image "article/richard-brady/53beedc0-edited-crop.jpg", "", "Morning Sun Mindfulness Center, New Hampshire" %}
+{% image "article/richard-brady/53beedc0-edited-crop.jpg", "", "Trung tâm thực tập chánh niệm Morning Sun, New Hampshire" %}
