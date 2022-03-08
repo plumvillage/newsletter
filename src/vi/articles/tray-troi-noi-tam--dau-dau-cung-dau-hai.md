@@ -51,4 +51,5 @@ Thầy kính thương, con xin được kính dâng lên Giác linh Thầy bài 
     Trong ba ngàn thế giới<br/>
     Đâu đâu cũng dấu hài</p></div>
 
-<p class="noIndent">Xóm Thượng, Làng Mai, 27 - 01 - 2022</p>
+<p class="noIndent">Con Thích Chân Trời Nội Tâm <br/>
+    Xóm Thượng, Làng Mai, 27 - 01 - 2022</p>
