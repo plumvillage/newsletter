@@ -1,6 +1,6 @@
 ﻿---
 title: Giây phút của sự tiếp nối
-author: Sư cô Chân Hiến Nghiêm
+
 ---
 
 <p class="editors-note">Bài viết được BBT chuyển ngữ từ tiếng Anh.</p>
