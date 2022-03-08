@@ -3,8 +3,6 @@ title: Mai rụng làng xưa
 author: Thầy Trí Chơn
 ---
 
-## Mai rụng làng xưa
-
 <div class="verse"><p>
     Người về thắp một bình minh<br/>
     Khơi nguồn tuệ giác kết tình năm châu<br/>
