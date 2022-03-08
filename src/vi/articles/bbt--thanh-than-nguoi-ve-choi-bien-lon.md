@@ -139,7 +139,7 @@ Chúng con nguyện thực tập tinh chuyên để tiếp nối sự nghiệp t
 
 Một mùa xuân mới đang về, chúng con nguyện cầu chư Bụt và chư liệt vị Tổ sư luôn hộ trì cho chư Tôn Thiền đức tăng ni cùng quý thân hữu một Năm Mới Nhâm Dần 2022 được nhiều sức khỏe, an vui và thành tựu được chí nguyện độ tha của chư vị.<span class="note">Tựa đề được lấy từ câu đối do Sư Ông Làng Mai viết, treo trong thiền đường Chuyển Hóa, xóm Thượng:<br/>
 <i>Giọt nước thành dòng sông, thanh thản Người về chơi biển lớn</i><br/>
-<i>Bước chân nên cõi Tịnh, thảnh thơi ta lên dạo đồi cao.</i></span>. 
+<i>Bước chân nên cõi Tịnh, thảnh thơi ta lên dạo đồi cao.</i></span>
 
 <div class="article-end"></div>
 
