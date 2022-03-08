@@ -12,7 +12,7 @@ Ngôn sư thái dược khứ<br/>
 Chỉ tại thử sơn trung<br/>
 Vân thâm bất tri xứ.</p></div>
 
-Thầy đã dịch bài thơ và viết thư pháp thật đẹp:
+<p class="noIndent">Thầy đã dịch bài thơ và viết thư pháp thật đẹp:</p>
 
 <div class="verse"><p>Dưới cội tùng chú bảo<br/>
 Thầy vừa đi hái thuốc<br/>

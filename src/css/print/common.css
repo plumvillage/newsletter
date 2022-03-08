@@ -688,21 +688,9 @@ p + .verse,
 
 .verse {
     page-break-inside: avoid;
-    /* font-family: "Cormorant Garamond"; */
     margin-left: 6pt;
     text-align: left !important;
-    /* font-weight: 600; */
     font-style: italic;
-    /* font-size: 105%; */
-    /* line-height: 120%; */
-    /* font-feature-settings: */
-    /* calligraphic forms */
-    /* "ss01", */
-    /* swash italic Q */
-    /* "ss08", */
-    /* discretionary ligatures */
-    /* "dlig" */
-    /* ; */
 }
 .special {
     width: 105mm;
@@ -740,6 +728,9 @@ html:lang(vi) .verse {
 
 .verse p {
     text-indent: -3pt !important;
+}
+html:lang(vi) .verse p {
+    text-indent: 0pt !important;
 }
 
 .noIndent {
@@ -1015,7 +1006,7 @@ html:lang(en) figure#articlerichard-brady53beedc0-edited-crop {
     margin-bottom: 0;
 }
 html:lang(vi) figure#articlerichard-brady53beedc0-edited-crop {
-    width: 85%;
+    width: 80%;
     margin-bottom: 0;
 }
 
