@@ -57,7 +57,7 @@ Hôm ấy là một ngày mùa đông năm 2010. Con được làm thị giả, 
 
 Giờ đây, mỗi lần nhớ Thầy, nhớ lại công án ngày xưa Thầy trao, bỗng nhiên con nhận ra rằng: nếu biết nhìn bằng con mắt tương tức và vô tướng, đúng là con có thể đi nhanh hơn tàu siêu tốc, máy bay, trực thăng ... đi nhanh hơn thời gian. Con vẫn đang gần Thầy dù khoảng cách địa lý giữa hai thầy trò mình xa hàng vạn cây số. Con thấy mình cũng đang ngồi thiền bên Thầy, đi thiền hành sau lưng Thầy, làm bất cứ điều gì con cũng thấy Thầy đang làm với con. Từ từ con mới hiểu, công án Thầy trao là thần dược không phải chữa bệnh liền tức thì, mà cần sự có mặt của thời gian và trải nghiệm. Sau khi hiểu được, thì chính công án đó đã giúp con tự tin, vững chãi đi tới trong sự thực tập, với trái tim chấp nhận vẹn tròn quy luật tự nhiên.
 
-## Thuốc Vườn Ươm <span class="note">Tên gọi của Trung tâm thiền tập quốc tế Làng Mai Thái Lan</span> thơm ngát trời đông
+## Thuốc Vườn Ươm<span class="note">Tên gọi của Trung tâm thiền tập quốc tế Làng Mai Thái Lan</span> thơm ngát trời đông
 
 Ở Thái Lan, mùa này là mùa đẹp nhất trong năm thưa Thầy! Mùa vàng rực của lá tre, lá bàng. Đã cuối đông, thời tiết chuyển, trời dần ấm hơn như để đón mùa xuân về. Chúng con mở các khóa tu trực tuyến cho thiền sinh có nơi trở về; cùng nhau học kinh Quán niệm hơi thở, Công phu nở đóa sen ngàn cánh, Duy biểu học,... Chúng con trồng thêm rau sạch để cung cấp cho đại chúng trong mùa đại dịch covid. Quan trọng nhất là chúng con nhắc nhau thực tập giữ hòa khí để con thuyền tăng thân vận hành trôi chảy. Đó là những phương thuốc mà nơi đây chúng con đang chế tác. Mỗi chúng con đều ý thức được rằng muốn hiến tặng hạnh phúc cho mọi người trên thế giới thì bản thân chúng con phải có hạnh phúc trước.
 
