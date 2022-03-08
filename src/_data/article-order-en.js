@@ -31,7 +31,7 @@ module.exports = [
 "br-minh-hy--dharma-banquet",
 "sr-quy-nghiem--meditation-songs",
 "br-nguyen-tinh--a-thousand-years-of-returning",
-"sr-dao-nghiem-poems",
+"sr-dao-nghiem--poems",
 "sr-tri-nghiem--taking-stock",
 "sr-trang-tam-muoi--no-escape-retreat",
 "sr-trang-chanh-niem--poems",

@@ -974,6 +974,7 @@ h1#kinh-so-tam figure img {
 /* /////////////  FULL-PAGE IMAGES  /////////////// */
 figure#articlethay-minh-nghiaThay-Tho-HT-Minh-Nghia-Pho-Nhac-Tue-My,
 figure#calligraphyzen-circlezen-circle,
+figure#articlebr-nguyen-tinhBrNguyenTinh2-edit,
 figure#articlesr-doan-nghiemSr-doan-nghiem-edited,
 figure#articlerichard-brady53beedc0-edited-crop,
 figure#articlesr-hoa-nghiemHinh-cho-bai-Sc-Hoa-N1,
@@ -993,6 +994,10 @@ figure#articlerecap-of-ceremoniesFrom-HueL1004781
     margin-right: auto;
     padding-left: 0;
     padding-right: 0;
+}
+figure#articlebr-nguyen-tinhBrNguyenTinh2-edit {
+    width: 80%;
+    margin-bottom: 0;
 }
 figure#articlethay-minh-nghiaThay-Tho-HT-Minh-Nghia-Pho-Nhac-Tue-My {
     width: 100%;
@@ -1167,7 +1172,9 @@ figure#articlefor-poemsorchid-light2 {
     width: 148mm;
     bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed)) * -1);
 }
-figure#calligraphyarticle-titles-2-and-dividers5-maskedDividers1-1 {
+
+figure#calligraphyarticle-titles-2-and-dividers5-maskedDividers1-1
+{
     display: block;
     column-span: all;
     float: none;
@@ -1237,31 +1244,116 @@ on other occasions, I would adjust the margin-top and height of .pagedjs_page_co
     margin-left: 23mm;
 }
 
+
+
+.article-poems {
+    columns: 1
+}
+.article-poems .col2 {
+    columns: 2
+}
+
 .article-snow-falling-autumn {
+    page: page-snow-aut;
     columns: 1 !important;
 }
 
+.article-snow-falling-autumn {
+    page: photopage; /* named pages*/
+    width: calc(var(--pagedjs-pagebox-width) + (var(--bleed) * 2));
+    height: calc(var(--pagedjs-pagebox-height) + (var(--bleed) * 2));
+    top: calc((var(--pagedjs-margin-top) + var(--bleed)) * -1);
+    left: calc((var(--pagedjs-margin-left) + var(--bleed)) * -1);
+    position: relative;
+    /* break-after: page; */
+    overflow: visible;
+    /* background-color: red; */
+}
+
+.article-snow-falling-autumn h1 {
+
+}
+
+.pagedjs_page-snow-aut_first_page .article-snow-falling-autumn {
+}
+/* 
+.pagedjs_page-snow-aut_first_page .pagedjs_margin-bottom {
+    display: none !important;
+} */
+
+/* @page photopage {
+    margin-top: 0mm;
+    margin-right: 0mm;
+    margin-left: 0mm;
+    margin-bottom: -5mm;
+    @bottom-right {
+        display: none;
+    }
+    @bottom-left {
+        display: none;
+    }
+    @bottom-center {
+        display: none;
+    }
+} */
+
+
+figure#articlesr-dao-nghiem2-transparentsr-dao-nghiemPoemTea {
+    float: none !important;
+    padding-top: 28%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    padding-left: 10%;
+}
+/* 
+.article-snow-falling-autumn {
+    page: photopage;
+    position: relative;
+    break-after: page;
+    overflow: visible;
+    width: calc(var(--pagedjs-pagebox-width) + (var(--bleed) * 2));
+    height: calc(var(--pagedjs-pagebox-height) + (var(--bleed) * 2));
+    top: calc((var(--pagedjs-margin-top) + var(--bleed)) * -1);
+    left: calc((var(--pagedjs-margin-left) + var(--bleed)) * -1);
+} */
 
 
 
+
+
+figure#articlesr-dao-nghiemtrasuongmunui-edit-sang-hon-e {
+    margin: 0 !important;
+    padding: 0 !important;
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    height: 100%;
+    width: 100%;
+
+    /* height: calc(var(--pagedjs-pagebox-height) + (var(--bleed)) * 2); */
+    /* height: 310mm; */
+    /* width: 210mm; */
+    /* left: calc((var(--pagedjs-margin-left) + var(--bleed)) * -1);
+    right: calc((var(--pagedjs-margin-right) + var(--bleed)) * -1);
+    bottom: calc((var(--pagedjs-margin-bottom) + var(--bleed)) * -1); */
+}
 
 
 
 
 
 .PAGE-OF-articlebr-phap-kham1998-TangThanXomThuong-MuaHe-cut .pagedjs_page_content {
-    height: calc(100% - var(--pagedjs-footnotes-height) - 95mm) !important;
+    height: calc(100% - var(--pagedjs-footnotes-height) - 75mm) !important;
 }
 figure#articlebr-phap-kham1998-TangThanXomThuong-MuaHe-cut {
     position: absolute;
-    bottom: -97mm;
+    bottom: -78mm;
     display: block;
     float: none;
-    width: 70%;
-    left: 15%;
+    width: 55%;
+    left: 25%;
     column-span: all;
-    /* margin-left: auto; */
-    /* margin-right: auto; */
 }
 
 

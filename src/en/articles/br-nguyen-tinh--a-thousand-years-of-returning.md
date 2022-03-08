@@ -31,11 +31,11 @@ All afternoon, I sat in meditation in a corner of the old wooden barn to deepen 
 
 I received the surprising news that I would soon have an opportunity to be Thay's attendant. Having the great fortune to be near Thay, I learned from the lessons he transmitted. At each meal, Thay brought each spoonful of food to his mouth with utter attention, care, and enjoyment. Mindfulness had become his life. Thay enjoyed each sip of tea with tranquility. Observing and enjoying nature, Thay had become a free person, with nothing to do, and nowhere to go. One bud of white champaca blooms and for Thay, it is a miracle. I loved so much every time I saw Thay taking his left hand to care for and wake up his right hand. Thay sat at his desk and with his left hand held a calligraphy brush to draw circle after circle, smiling. A flower bloomed on the page, it bloomed in Thay's heart, and in the hearts of each of us. 
 
+{% image "article/br-nguyen-tinh/BrNguyenTinh2-edit.jpg" %}
+
 ## <span class="lmnq">Mar 25, 2016</span><br/>16<sup>th</sup> day attending Thay
 
 Like the ancestral teachers of the past, Thay is also transmitting the living Dharma day and night: you support my feet, for you I walk; you offer medicine, for you I drink it; you bring me rice, for you I eat it; you are disrespectful, I reprimand you for your sake; you make me tea, for you I reach out to receive it; you want to learn, for you I teach; you bring me the chamber pot, for you I urinate; you want to learn impermanence, for you I am ill. Try asking me if I have transmitted the *Mind Seal* to you. Has anyone let anyone down? 
-
-{% image "article/br-nguyen-tinh/BrNguyenTinh2-edit.jpg" %}
 
 I could feel this during my time as an attendant. Thay is also ill for the sangha, for Plum Village, so that his monastic children have a chance to grow. Thay bears bodily pain each day, and he has the time to watch life springing up. If that is not a miracle, if that is not a living teaching, then what is? If we are not able to receive these concrete lessons from Thay, how can we continue to ask for more? Thay’s strength is still emanating from his eyes.
 
@@ -67,9 +67,7 @@ When I used to listen to his Dharma talks or read his books or hear stories abou
 the leaf strewn path.<br/>
 One plum branch blossoms,<br/>
 the fragrance of sandalwood incense<br/>
-infuses each ancient brush stroke.<br/>
-</p></div>
-
+infuses each ancient brush stroke.</p></div>
 <div class="article-end"></div>
 
-{% image "article/br-nguyen-tinh/IMG_2341-edit.JPG" %}
+{% image "article/br-nguyen-tinh/IMG_2341-edit.JPG", "noFloat" %}
