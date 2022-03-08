@@ -7,7 +7,7 @@ Có một giai thoại kể rằng, trong một lần quý thầy đang chuẩn 
 
 > “Quý thầy có biết vì răng mình gọi *‘pháp Bụt cao siêu mầu nhiệm’* không?”
 
-Đợi một lúc, rồi Ngài nói tiếp:
+<p class="noIndent">Đợi một lúc, rồi Ngài nói tiếp:</p>
 
 > “Vì nó ở ngay trước mặt quý thầy đó.”
 
