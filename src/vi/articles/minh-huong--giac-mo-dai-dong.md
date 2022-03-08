@@ -19,9 +19,9 @@ Trước đây, con đã chạy trốn khỏi cuộc đời mình trong một th
 
 Thế rồi, dần dần, con thấy mình bắt đầu thấm sự thực tập của Làng Mai. Sư Ông có chia sẻ: tu tập là để mình trở nên đẹp hơn chứ không phải để trở thành một thầy tu trong gia đình hay một thầy tu trong công ty. Mình phải là một chủ tịch công ty có hiểu và có thương để thực hiện bổn phận mà cuộc đời đã trao tặng cho mình. Con thấy Sư Ông trong từng lời dạy, từng lời chia sẻ của quý thầy, quý sư cô; trong những câu kinh bằng tiếng Việt trong sáng; trong lời mỗi bài thiền ca; trong nếp thực tập chánh niệm của cuộc sống hàng ngày ở Làng. Những câu thư pháp bên con đường thiền hành đã đánh thức những hạt giống trong con. Con chợt nhận ra hạnh phúc từ những điều thật đơn giản nhưng vô cùng mầu nhiệm. Con có hỏi thầy Pháp Niệm:
 
-> “Thưa thầy, điều gì là vĩ đại nhất ở Sư Ông? 
+<p class="noIndent">“Thưa thầy, điều gì là vĩ đại nhất ở Sư Ông?</p>
 
-<p class="noIndent">Thầy trả lời: *“Di sản lớn nhất Sư Ông để lại là tăng thân. Sư Ông có một giấc mơ đại đồng, giấc mơ về hạnh phúc cho muôn loài và giấc mơ về sự giác ngộ tập thể.”*</p>
+<p class="noIndent"><i>Thầy trả lời</i>: “Di sản lớn nhất Sư Ông để lại là tăng thân. Sư Ông có một giấc mơ đại đồng, giấc mơ về hạnh phúc cho muôn loài và giấc mơ về sự giác ngộ tập thể.”</p>
 
 Con đã hiểu được sứ mệnh của con, sứ mệnh được tổ tiên trao truyền, sứ mệnh được Sư Ông đánh thức. Lúc đó ở Việt Nam, con thấy chưa có nhiều người hiểu được tầm vóc của Sư Ông và những gia tài tâm linh mà Sư Ông cùng Tăng thân đang gìn giữ cho đất nước. Con quay về Việt Nam và liên tục tổ chức các chuyến đi đến Làng Mai Thái Lan cùng với những người bạn, những doanh nhân đang tìm cầu một con đường để có thể làm đẹp bổn phận của mình. Từ một người muốn chạy trốn khỏi cuộc sống và trách nhiệm công việc, con đã tìm thấy con đường. Đó là con đường tiếp nối Sư Ông xây dựng một giấc mơ đại đồng. Giấc mơ trong đó các doanh nghiệp đều biết thực tập, phụng sự *cho đất nước đi lên.* Những vướng mắc trong con tự nhiên được cởi trói, những câu hỏi trong con tự được trả lời. Con không còn cần bất cứ lời giải đáp nào nữa. 
 
