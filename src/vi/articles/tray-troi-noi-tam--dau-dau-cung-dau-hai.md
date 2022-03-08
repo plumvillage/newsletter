@@ -52,4 +52,4 @@ Thầy kính thương, con xin được kính dâng lên Giác linh Thầy bài 
     Đâu đâu cũng gót hài</p></div>
 
 <p class="noIndent">Con Thích Chân Trời Nội Tâm<br/>
-*Xóm Thượng, Làng Mai, 27 - 01 - 2022*</p>
+Xóm Thượng, Làng Mai, 27 - 01 - 2022</p>
