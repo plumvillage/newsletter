@@ -10,6 +10,6 @@ module.exports = {
     permalink: "/{{ locale }}/{{ builds[pagination.pageNumber] }}/{{ page.fileSlug }}/",
     locale: "en",
     size: "A4",
-    bleed: "0mm",
-    marks: "none",
+    bleed: "5mm",
+    marks: "crop",
 }

@@ -11,7 +11,7 @@ The project now has three plots. The original farm in Upper Hamlet/Son Ha, one i
 
 The Happy Farmers hope to demonstrate that productivity, environmental sustainability and personal happiness do not have to be in conflict, but are three essential pillars that can strengthen each other.
 
-{% image "article/mick-mcevoy/Happy-Farm.jpg" %}
+{% image "article/mick-mcevoy/Happy-Farm.jpg", "", "from left 2: Andrea, 4: Stuart Watson, 9: Jonas" %}
 
 ## The aims of the Happy Farm
 
@@ -25,7 +25,7 @@ A variety of vegetables are grown in each hamlet. They are especially cultivated
 
 We know that modern agriculture, which feeds the world, unfortunately is an industrial system. There are many extra elements that are really unnecessary and not so good for our health or for Mother Earth. We are very concerned with the concept and application of interbeing as Thich Nhat Hanh teaches. We care for the ‘more than human being’ life that is here on the land. The soil is very alive, we try to have respect and reverence for the soil, as well as respect and reverence for the humans that are eating the food that we produce. That’s why we even go beyond organic.
 
-{% image "article/mick-mcevoy/Happy-Farm-Early-Day-e.jpg", "noFloat" %}
+{% image "article/mick-mcevoy/Happy-Farm-Early-Day-e.jpg", "noFloat", "Daniel Dermitzel" %}
 
 {% image "article/mick-mcevoy/TPDung-Planting-vegetable-crop.jpg", "noFloat" %}
 
@@ -82,6 +82,6 @@ Most of the rewilding will be done through natural regeneration, relying on the 
 
 When Plum Village reopens, opportunities will manifest for ecological retreats where we can bring our mindfulness practice onto these lands. Guests will be able to plant more native trees to restore the ecosystem and be a part of that healing.
 
-{% image "article/mick-mcevoy/Re-Wilding project_7.jpg" %}
+{% image "article/mick-mcevoy/Re-Wilding project_7.jpg", "", "Solar-powered electric fence used for rewilding on the western hillside of Upper Hamlet, 2021" %}
 
 Further down the road we have the potential to develop a portion of land for what we call agroforestry. That’s an old style of forestry that exists in places like Spain traditionally, with cereal crops growing in avenues between trees like walnuts, hazelnuts, apricots or apples and many more combinations. So the two coexist. We will probably partner with the farmers in the region. Again, it’s all in the spirit of organic cultivation. We could even grow soya for our homemade tofu and wheat, spelt or rye for our own bread baked in wood-fired ovens! We want to complete the circle a little more and produce more here for our community, in our community. This long term project will be done in the spirit of bringing greater reverence for beings that we share the land with, to bring this spirit further into our collective consciousness on the farm and in the community.

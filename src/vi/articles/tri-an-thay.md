@@ -11,6 +11,8 @@ title: Lời tri ân từ cộng đồng quốc tế
 
 > “Thiền sư là một trong những người đầu tiên đem pháp môn chánh niệm hiến tặng cho người dân Hoa Kỳ. Giờ đây, sự thực tập chánh niệm đã trở nên phổ cập trong các lĩnh vực y tế, tâm lý học, giáo dục, và trong cuộc sống hàng ngày của hàng nghìn người dân trên đất nước chúng tôi. Mặc dù tầm ảnh hưởng của Người không chỉ giới hạn trong lĩnh vực tôn giáo, Thiền sư đã để lại một di sản với tư cách một trong những nhà lãnh đạo tôn giáo có ảnh hưởng nhất trong lịch sử hiện đại.”<cite><b>Phái đoàn Hoa Kỳ tại Việt Nam</b></cite>
 
+{% image "article/tributes/001030-e.jpg", "noFloat" %}
+
 > “Là một nhà hoạt động, Thiền sư luôn thể hiện tình thương yêu đối với nhân loại qua hành động của mình. Những lời dạy về nghệ thuật sống hạnh phúc của Ngài đã chạm đến trái tim và trở thành ánh sáng soi đường cho rất nhiều người. Bước chân chánh niệm và lời dạy của Thiền sư sẽ luôn được tiếp nối.”<cite>Tổng thống Hàn Quốc <b>Moon Jae In</b></cite>
 
 > “Di sản của Thiền sư Thích Nhất Hạnh là tuệ giác, lòng từ bi và sự tôn trọng đối với hành tinh của chúng ta và sự tôn trọng lẫn nhau. Những lời dạy của Người sẽ tiếp tục truyền cảm hứng cho các nhà hoạt động xã hội và môi trường trong cuộc đấu tranh bền bỉ để bảo vệ Trái đất và nhân loại.”<cite>Cựu Phó Tổng thống Hoa Kỳ <b>Al Gore</b></cite>

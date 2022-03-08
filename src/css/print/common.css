@@ -178,12 +178,11 @@ figure {
 
 #title-page h1 {
     /* margin-top here needs to be replaced by padding-top, otherwise it does not work in the pdf in chrome */
-    padding-top: 15%;
+    padding-top: 22%;
     margin-top: 0;
     margin-bottom: 5%;
     margin-left: auto;
     margin-right: auto;
-    /* margin: 0 auto; */
 }
 html:lang(vi) #title-page h1 {
     padding-top: 33% !important;
@@ -198,10 +197,12 @@ html:lang(vi) #title-page h2 {
     margin-left: auto;
     margin-right: auto;
 }
-#title-page h1 figure {
+html:lang(en) #title-page h1 figure {
+    width: 72%;
+    padding-right: 4%;
+}
+html:lang(vi) #title-page h1 figure {
     width: 90%;
-    /* margin-top: 20%;
-    margin-bottom: 10%; */
 }
 #calligraphyarticle-titles-2-and-dividers5-maskedDividers2-2-straight {
     width: 25%;
@@ -377,8 +378,10 @@ ul.toc li {
     margin-left: 3pt;
     margin-bottom: 15pt;
     page-break-inside: avoid;
-    /* border-top: 0.5mm solid hsla(0, 0%, 87%, 0.075); */
-    /* background-color: rgb(231, 231, 231); */
+}
+
+html:lang(vi) ul.toc li {
+    margin-bottom: 8pt;
 }
 
 .chapterLi {
@@ -1519,7 +1522,6 @@ article blockquote span:lang(zh) {
 
 
 
-.article-loi-tri-an-tu-cong-dong-quoc-te blockquote,
 .article-tributes-to-thay blockquote
 {
     margin-top: 24pt;
@@ -1529,6 +1531,17 @@ article blockquote span:lang(zh) {
     font-style: normal;
     text-indent: 0pt;
 }
+
+.article-loi-tri-an-tu-cong-dong-quoc-te blockquote
+{
+    margin-top: 15pt;
+    margin-bottom: 15pt;
+    /* width: 100%; */
+    /* margin-left: 2%; */
+    font-style: normal;
+    text-indent: 0pt;
+}
+
 .article-loi-tri-an-tu-cong-dong-quoc-te figure,
 .article-tributes-to-thay figure
 {
@@ -1574,29 +1587,20 @@ h1#thirteen-years-of-monastic-life-taking-stock {
     width: 90%
 }
 
-figure#articlesr-trang-tin-yeubgImage-cut {
-    margin: 0 !important;
-    padding: 0 !important;
-    max-width: none !important;
-    position: absolute;
-    z-index: -1;
-    height: calc(var(--pagedjs-pagebox-height) + (var(--bleed)) * 2);
-    left: calc((var(--pagedjs-margin-left) + var(--bleed)) * -1);
-    bottom: calc((var(--pagedjs-margin-bottom) + var(--bleed)) * -1);
-}
+
 
 .article-on-misty-days h1,
 .article-on-misty-days h2.author
 {
-    display: none;
+    /* display: none; */
 }
 
 .article-on-misty-days .verse {
     display: block;
     column-span: all !important;
-    width: 50%;
-    padding-left: 7%;
-    /* font-size: 115%; */
+    width: 100%;
+    padding-left: 28%;
+    font-size: 110%;
     line-height: 115%;
     margin-left: auto;
     margin-right: auto;
@@ -1606,3 +1610,16 @@ figure#articlesr-trang-tin-yeubgImage-cut {
 }
 
 
+figure#articlesr-trang-tin-yeuMisty-day-e {
+    margin: 0 !important;
+    padding: 0 !important;
+    position: absolute;
+    z-index: -1;
+    /* height: calc(var(--pagedjs-pagebox-height) + (var(--bleed)) * 2); */
+    height: 270mm;
+    left: calc((var(--pagedjs-margin-left) + var(--bleed)) * -1);
+    bottom: calc((var(--pagedjs-margin-bottom) + var(--bleed)) * -1);
+}
+figure#articlesr-trang-tin-yeuMisty-day-e img {
+    height: 100% !important;
+}

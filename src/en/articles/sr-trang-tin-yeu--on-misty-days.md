@@ -3,7 +3,7 @@ title: On Misty Days
 author: Sister Chân Trăng Tin Yêu
 ---
 
-{% image "article/sr-trang-tin-yeu/bgImage-cut.jpg" %}
+{% image "article/sr-trang-tin-yeu/Misty-day-e.jpg" %}
 
 <div class="verse"><p>On misty days,<br/>
 We cannot see much, except the beauty of the mist itself.<br/>
@@ -53,8 +53,9 @@ are lessened and we can be at ease<br/>
 and transformed into a source<br/>
 of endless gratitude, love and awakening.</p>
 
-<p class="signoff"><span class="signoff-lvl-1">Thank you Thay,</span></p>
-<cite>Sister Trăng Tin Yêu</cite></div>
+<p class="signoff"><span class="signoff-lvl-1">Thank you, Thay</span></p>
+<cite>Sister Tin Yêu</cite>
+</div>
 
 <!-- <p class="signoff"><span class="signoff-lvl-1"></span><br/>
 <span class="signoff-lvl-2"></span></p> -->
