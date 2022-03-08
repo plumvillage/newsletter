@@ -43,12 +43,12 @@ Chơi học yêu cuộc đời<br/>
 Yêu đời nở nụ cười<br/>
 Thở cười bước thảnh thơi</p>
 
-<p>Nhưng tâm con thì nhỏ<br/>
+<p class="noIntent">Nhưng tâm con thì nhỏ<br/>
 Thảnh thơi rồi bối rối<br/>
 Lo, nghĩ, hết rong chơi<br/>
 Vậy thì nên tu chơi</p>
 
-<p>Chơi, con lại hài lòng<br/>
+<p class="noIntent">Chơi, con lại hài lòng<br/>
 Vui rồi tiếp học hỏi<br/>
 Học nhiều xong mệt mỏi<br/>
 Mệt mỏi nên nghỉ ngơi<br/>
