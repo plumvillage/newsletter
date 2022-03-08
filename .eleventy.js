@@ -13,8 +13,6 @@ const calligraphyPath = "calligraphy/article titles/article-titles/";
 var articleTitleCalligraphies = fs.readdirSync(`src/media/originals/${calligraphyPath}`)
 // var articleTitleCalligraphies = fs.readdirSync(`src/media/publish/${calligraphyPath}`)
 
-const processImages = true;
-
 async function imageShortcode(src, optClasses = "", imgLabel = "") {
     let result = await imageData(src)
     
@@ -30,7 +28,9 @@ async function imageSrcShortcode(src) {
 }
 
 async function imageData(src) {
-    let dryRun = false;
+    // this will be slow! reloads will also be slow!
+    let justCopy = false;
+    // let dryRun = false;
     let srcFull = path.join(srcPath, src);
     let destPath = "/media";
     let data = { filename: path.basename(src) };
@@ -48,7 +48,7 @@ async function imageData(src) {
         formats: [imgFormat, "svg"], /* jpeg, png, webp, gif, tiff, avif */
         outputDir: outputDir,
         widths: [1500],
-        dryRun: dryRun,
+        dryRun: justCopy,
         sharpOptions: {},
         // https://sharp.pixelplumbing.com/api-output#webp
         sharpWebpOptions: { quality: 60, },
@@ -63,27 +63,34 @@ async function imageData(src) {
     }
 
     try {
-
-        if (processImages) {
-            // can be async
-            let metadata = await Image(srcFull, options)
-
-            // Image(srcFull, options)
-            // doesn’t generate any files, but will tell you where the asynchronously generated files will end up!
-            // let metadata = Image.statsSync(srcFull, options);
-
-            if(metadata.svg.length) {
-                data = metadata.svg[metadata.svg.length - 1];
-            } else {
-                data = metadata[imgFormat][metadata[imgFormat].length - 1];
-            }
-            destPath = path.join(destPath, "build");
+        // Image.statsSync doesn’t generate any files, but will tell you where the asynchronously generated files will end up!
+        // let metadata = await Image(srcFull, options);
+        let metadata = justCopy
+            ? Image.statsSync(srcFull, options)
+            : await Image(srcFull, options);
+        
+        if(metadata.svg.length) {
+            data = metadata.svg[metadata.svg.length - 1];
+        } else {
+            data = metadata[imgFormat][metadata[imgFormat].length - 1];
         }
+
+        destPath = path.join(destPath, "build");
+        
         console.log("processing:", data.filename)
 
         let result = {
             autoId: slugify(`${parsed.dir}/${parsed.name}`, { strict: true }),
             srcAttribute: path.join(destPath, parsed.dir, data.filename)
+        }
+
+        let destFile = path.join(outputDir, data.filename)
+        if (justCopy && !fs.existsSync(destFile)) {
+            fs.mkdirSync(outputDir, { recursive: true }, (err) => {
+                if (err) throw err;
+            });
+            console.log("COPYING: ", srcFull, " -> ", destFile)
+            fs.copyFileSync(srcFull, destFile, fs.constants.COPYFILE_EXCL);
         }
         return result
     } catch (err) {

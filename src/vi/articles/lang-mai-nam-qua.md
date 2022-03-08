@@ -222,7 +222,7 @@ Ngày 31.1.2021, trong khóa an cư kiết đông với chủ đề “Vô phân
 
 > **Thầy Thích Chân Pháp Nhiếp**
 > *(Hồ Bửu Đại; Pháp danh: Tâm Thọ Bấu)*
-> > **Pháp** mầu truyền lại còn nguyên 	
+> > **Pháp** mầu truyền lại còn nguyên   <br/>
 > > Bao môn **nhiếp** phục tinh chuyên thở cười  
 > > Tới về từng bước thảnh thơi  
 > > Trăng thu sáng tỏ chân trời lặng thinh.
@@ -258,8 +258,8 @@ Ngày 31.1.2021, trong khóa an cư kiết đông với chủ đề “Vô phân
 > **Thầy Thích Chân Trời Bao Dung**
 > *(Mai Văn Cường; Pháp danh: Tâm Quảng Hội)*
 > > **Chân trời** thương hiểu **bao dung**   
-> > Đệ huynh hôm sớm thủy chung một dòng  
-> > Bước chân địa xúc rỗng không  
+> > Đệ huynh hôm sớm thủy chung một dòng   
+> > Bước chân địa xúc rỗng không    
 > > Đóa hoa hàm tiếu mây hồng có nhau.
 
 {% image "article/pv-in-2021/Lamp transmission ceremonies/T5.jpg" %}

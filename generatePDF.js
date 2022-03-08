@@ -153,11 +153,11 @@ if (generateArticles) {
     Array(3).fill().forEach(processArticle);
 }
 
-generatePDF("http://fee:8080/en/articles-print-preview/sr-trang-tin-yeu--on-misty-days/", `./builds/sr-trang-tin-yeu--on-misty-days.pdf`)
+// generatePDF("http://fee:8080/en/articles-print-preview/sr-trang-tin-yeu--on-misty-days/", `./builds/sr-trang-tin-yeu--on-misty-days.pdf`)
 
 
 // generatePDF("http://localhost:8080/en/a4/", `./builds/en-a4_${formatDate(new Date())}.pdf`)
-// generatePDF("http://localhost:8080/vi/a4/", `./builds/vi-a4_${formatDate(new Date())}.pdf`)
+generatePDF("http://localhost:8080/vi/a4/", `./builds/vi-a4_${formatDate(new Date())}.pdf`)
 
-generatePDF("http://localhost:8080/en/a4-bleed/", `./builds/en-a4-bleed_${formatDate(new Date())}.pdf`)
+// generatePDF("http://localhost:8080/en/a4-bleed/", `./builds/en-a4-bleed_${formatDate(new Date())}.pdf`)
 // generatePDF("http://localhost:8080/vi/a4-bleed/", `./builds/vi-a4-bleed_${formatDate(new Date())}.pdf`)

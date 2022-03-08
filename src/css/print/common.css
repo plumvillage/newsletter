@@ -376,7 +376,7 @@ ul.toc {
 
 ul.toc li {
     margin-left: 3pt;
-    margin-bottom: 15pt;
+    margin-bottom: 12pt;
     page-break-inside: avoid;
 }
 
@@ -413,7 +413,7 @@ html:lang(vi) ul.toc li {
     text-align: right;
     left: 73mm;
     /* right: 8pt; */
-    font-size: 14pt;
+    /* font-size: 14pt; */
 }
 
 .toc-title {
@@ -1289,8 +1289,8 @@ figure#articlesr-tang-nghiemNon-xua-may-trang-phu-day-thay-ngoi-thien-dinh-dem-n
     bottom: -105mm;
     display: block;
     float: none;
-    width: 90%;
-    left: 5%;
+    width: 80%;
+    left: 10%;
     column-span: all;
 }
 
