@@ -156,7 +156,7 @@ if (generateArticles) {
 // generatePDF("http://fee:8080/en/articles-print-preview/sr-dao-nghiem-poems/", `./builds/dao-nghiem-poems.pdf`)
 
 
-// generatePDF("http://localhost:8080/en/a4/", `./builds/en-a4_${formatDate(new Date())}.pdf`)
+generatePDF("http://localhost:8080/en/a4/", `./builds/en-a4_${formatDate(new Date())}.pdf`)
 generatePDF("http://localhost:8080/vi/a4/", `./builds/vi-a4_${formatDate(new Date())}.pdf`)
 
 // generatePDF("http://localhost:8080/en/a4-bleed/", `./builds/en-a4-bleed_${formatDate(new Date())}.pdf`)

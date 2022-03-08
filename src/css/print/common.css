@@ -630,6 +630,10 @@ article .verse + p
     margin-top: 11pt;
 }
 
+article h2 {
+    page-break-after: avoid;
+}
+
 article h2:not(.author) + p {
     text-indent: 16pt;
 }
@@ -1055,6 +1059,7 @@ figure#articlebr-troi-bao-tangScreenshot-edit {
 
 /* //////////////////////////////////////////////// */
 /* /////////////  INLINE RESIZED IMAGES  ////////// */
+figure#articlesr-bao-nghiemsu-me-Bao-N-2e,
 figure#articlehisae-matsuda-and-terry-barberHarvardBookstore,
 html:lang(en) figure#articlesu-ongPVM2753improved2crop,
 figure#articlebr-phap-an60e,
@@ -1078,6 +1083,7 @@ html:lang(en) figure#articlesu-ongPVM2753improved2crop {
     width: 90%;
 }
 
+figure#articlesr-bao-nghiemsu-me-Bao-N-2e,
 figure#articlesr-trang-hien-nhanENDSC9591-edited {
     width: 80%;
 }

@@ -41,7 +41,7 @@ Giây phút Xuân Phong và đại chúng khắp chốn được ngồi quanh ki
 
 Em cũng sẽ tập quán chiếu như thế, để đi vào thế giới bản môn - vô sinh bất diệt, để thấy em và Xuân Phong cùng khắp pháp giới đồng chắp tay, hướng về kính lạy Thầy.
 
-Sau giờ ngồi thiền tối, ngước nhìn lên bầu trời với muôn vàn tinh tú sáng lấp lánh, ba ngôi sao thẳng hàng vẫn còn đó, bất chợt lời Thầy dạy đi lên "Trăng sao là tâm thức, ta là trăng sao". Bước chân em dường như nhẹ nhàng, hòa vào trong sương đêm tinh khiết. 
+Sau giờ ngồi thiền tối, ngước nhìn lên bầu trời với muôn vàn tinh tú sáng lấp lánh, ba ngôi sao thẳng hàng vẫn còn đó, bất chợt lời Thầy dạy đi lên “Trăng sao là tâm thức, ta là trăng sao.” Bước chân em dường như nhẹ nhàng, hòa vào trong sương đêm tinh khiết. 
 
 Thầy kính thương, con xin được kính dâng lên Giác linh Thầy bài thơ con làm, trong khi bàn tay đặt lên đầu, trước khi ngủ.
 
@@ -52,4 +52,4 @@ Thầy kính thương, con xin được kính dâng lên Giác linh Thầy bài 
     Đâu đâu cũng gót hài</p></div>
 
 <p class="noIndent">Con Thích Chân Trời Nội Tâm<br/>
-Xóm Thượng, Làng Mai, 27 - 01 - 2022</p>
+*Xóm Thượng, Làng Mai, 27 - 01 - 2022*</p>
