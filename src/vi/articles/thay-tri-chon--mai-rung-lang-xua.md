@@ -13,8 +13,8 @@ author: Thầy Trí Chơn
     Giữa khuya gió thoảng hương xa<br/>
     Làng xưa rụng cánh mai hoa trước thềm<br/>
     Dưới trăng vẳng tiếng chuông huyền<br/>
-    Thiền sư dời gót qua miền vô sinh.</p>
+    Thiền sư dời gót qua miền vô sinh.</p></div>
 
 <p>Kính lạy Thầy<br/>
-Ngày 16 tháng Giêng năm Nhâm Dần</p></div>
+Ngày 16 tháng Giêng năm Nhâm Dần</p>
 
