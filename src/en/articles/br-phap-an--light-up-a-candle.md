@@ -66,29 +66,3 @@ Only when we serve in a way that nourishes love and opens the heart is it true s
 In my first year as Thay’s attendant, he never allowed me to stay back and attend to him during meals. He said, “Leave the food for me and go out to be with the lay friends. They really need our presence.” Sometimes I came out a bit late and only a few lay friends were left. But I still sat there to be present for them. Thay also encouraged me to join Dharma sharings. When we make sacrifices or dedicate ourselves to someone else’s welfare, we naturally come to understand and free ourselves more. It is not only by taking care of ourselves that we can realize freedom. When a candle is burning, its light touches everything in its vicinity. The hottest part is the candle wick and that heat returns to melt the wax, allowing the candle to continue to burn and shine. We are the same. When we serve others, when we bring all our energy to shine light in the darkness, that energy will come back and melt the “wax” in us. We become a free person thanks to serving. That is why to practice is not just to take care of ourselves, but also to serve. This is selflessness, this is humanity. We will find that then we are the one who receives the most.
 
 If a candle is not lit, it is not truly a candle, but only a block of wax. A candle needs to be lit and in the action of  burning, it becomes a real candle. A true practitioner is the same. We have our true nature, our purpose, and our action. We have already found our form in that of a practitioner. But if we cannot radiate the energy of peace and happiness to help others change their lives, then we only have the form, we are only the wax. We need to turn the wax into light. The path of service is what creates the elements of a practitioner. From wax we become light and are no longer just wax. That is why in Plum Village, we practice while we work.  If we do not practice while working, we are not a true practitioner. To practice or not, it is up to us!
-
-<div class="article-end"></div>
-
-{% image "article/for-poems/separator1.webp" %}
-<!-- <div class="divider page"></div> -->
-
-{% image "article/for-poems/orchid-light2.webp" %}
-
-<div class="verse" id="poem-orchid"><p>Their flowers have fallen<br/>
-But the leaves of the orchid plant<br/>
-Are firm and strong,<br/>
-Spreading their arms of greenness<br/>
-To the east and west.</p>
-
-<p>Their stems are thin and wobbly<br/>
-Attached to wooden sticks<br/>
-With pins,<br/>
-Yet tiny green buds<br/>
-Are pushing through<br/>
-On the branches,<br/>
-Like little lights of hope:<br/>
-Life continues<br/>
-And will blossom again.<br/>
-<cite>Sister Chân Từ Nghiêm</cite></p></div>
-
-<!-- This poem was written to my orchid plant as I witnessed its changing, impermanent nature over the past two months. Impermanence can also be the continuation of life, and we are filled with happiness and joy on seeing this. The flowers have fallen, yet the tiny buds sing the song of life continuing without end. -->

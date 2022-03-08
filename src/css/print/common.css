@@ -736,12 +736,12 @@ html:lang(vi) .verse {
     margin-top: 11pt;
 }
 
-.verse p {
+/* .verse p {
     text-indent: -3pt !important;
 }
 html:lang(vi) .verse p {
     text-indent: 0pt !important;
-}
+} */
 
 .noIndent {
     text-indent: 0 !important;

@@ -1,5 +1,5 @@
 ﻿---
-title: Poems
+title: May the Smiles from our Hearts
 author: Sister Chân Từ Nghiêm
 ---
 
@@ -29,18 +29,22 @@ shining everywhere<br/>
 with warmth and freedom</p></div>
 
 
-
-<!-- USED: P An -->
 ## Their Flowers Have Fallen
-<!-- 18 December 2021 -->
 
-<div class="verse"><p>Their flowers have fallen<br/>
-But the leaves of the orchid<br/>
-Plant are firm and strong,<br/>
+<!-- <div class="article-end"></div> -->
+
+{% image "article/for-poems/separator1.webp" %}
+<!-- <div class="divider page"></div> -->
+
+{% image "article/for-poems/orchid-light2.webp" %}
+
+<div class="verse" id="poem-orchid"><p>Their flowers have fallen<br/>
+But the leaves of the orchid plant<br/>
+Are firm and strong,<br/>
 Spreading their arms of greenness<br/>
-To the east and west.<br/>
-<br/>
-Their stems are thin and wobbly<br/>
+To the east and west.</p>
+
+<p>Their stems are thin and wobbly<br/>
 Attached to wooden sticks<br/>
 With pins,<br/>
 Yet tiny green buds<br/>
@@ -48,9 +52,11 @@ Are pushing through<br/>
 On the branches,<br/>
 Like little lights of hope:<br/>
 Life continues<br/>
-And will blossom again.</p></div>
+And will blossom again.<br/>
+<cite>Sister Chân Từ Nghiêm</cite></p></div>
 
 This poem was written to my orchid plant as I witnessed its changing, impermanent nature over the past two months. Impermanence can also be the continuation of life, and we are filled with happiness and joy on seeing this. The flowers have fallen, yet the tiny buds sing the song of life continuing without end.
+
 
 ## There is the Letting Go
 
