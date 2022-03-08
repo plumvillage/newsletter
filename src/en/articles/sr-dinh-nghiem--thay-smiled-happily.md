@@ -56,3 +56,7 @@ After returning to Plum Village, as soon as I met Thay, I told you about this mo
 <p class="noIndent">Thay smiled happily.</p>
 
 As for me, I felt satisfied that I have found a way to bring Thay to see the beautiful scenery.
+
+<div class="article-end"></div>
+
+{% image "calligraphy/article titles 2 and dividers/5-masked/Dividers1-1.webp" %}

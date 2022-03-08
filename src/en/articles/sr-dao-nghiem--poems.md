@@ -138,6 +138,8 @@ Your hand continues through millions of hands.</p></div>
 
 I was always very moved when I watched Thay’s hands, the way that Thay held his cup of tea, opened a door, placed his hand on our heads and how Thay gave us teachings using the example of his hands. This poem was written in December 2016 for Thay.
 
+<div class="article-end"></div>
+
 {% image "article/sr-dao-nghiem/photo7e.jpg" %}
 </div>
 

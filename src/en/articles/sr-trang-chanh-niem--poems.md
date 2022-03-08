@@ -1,8 +1,9 @@
 ﻿---
-title: Poems
+title: Sometimes
 author: Sister Chân Trăng Chánh Niệm
 ---
 
+<div id="sometimes"></div>
 <div class="verse" id="poem-sometimes"><p><b>Sometimes</b></p>
 
 <p>Sometimes I am like<br/>
@@ -20,7 +21,9 @@ which is in this body,<br/>
 in the bones and soft movements<br/>
 whole<br/>
 whole again, and<br/>
-home.</p></div>
+home.</p>
+<cite>Sister Chân Trăng Chánh Niệm</cite>
+</div>
 
 
 <div class="verse" id="poem-here"><p><b>Here</b></p>

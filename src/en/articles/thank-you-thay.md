@@ -11,6 +11,7 @@ title: Thank you Thay
 > 
 > “Little did I know then that it would be the last Summer Retreat taught directly by Thay. I arrived in a state of utter exhaustion, incredibly angry at the world, and could not see a way out. Within five short days, a deep transformation had taken place. There was lightness, joy, and hope in my heart. I made lifelong friends. I took the Five Mindfulness Trainings and do my best every day to put them into practice. My life is infinitely clearer, more grounded, calm, spacious, and filled with gratitude. Thank you so much, dear Teacher, dear Community. For everything.”<cite>Tanya</cite>
 
+{% image "article/thank-you-thay/21 day retreat 2014 - Thay-e.jpg" %}
 
 > “At 0:00, January 22<sup>nd</sup>, Thay moved outside of time… Has he passed? Is he dead? What do we see when we study the corpse? What is it that we mourn?
 > 
@@ -69,5 +70,3 @@ title: Thank you Thay
 > “Thay came into my life in 2016 just after my sister suddenly passed away and I was lost in the pain. I discovered him on Youtube and found refuge in the gentleness and loving-kindness in his words and his presence. He helped me grieve and find joy again. He has become a teacher to me although I am a Christian. He will live on in my heart and actions. May he be rewarded with eternal rest and peace and may we be his continuation on the path of love and compassion.”<cite>Trish</cite>
 
 > “I found a copy of *The Heart of the Buddha’s Teaching* in the laundry room of my apartment building 11 years ago. It transformed my life and how I interact with the world. It set me on a journey of mindfulness, open-hearted curiosity, and practice. I had the privilege to experience a retreat at Blue Cliff. Watering the seeds of wisdom and compassion and embracing impermanence and joy has resulted in action from co-leading meditation each week with my colleagues at the Environmental Protection Agency in the US, to community building, social justice and anti-racism work, to transforming old patterns of dealing with anger and loving more authentically. I still have much to learn. Thank you, Thay. I bow deeply. May we all be happy, peaceful, and free.”<cite>Denise</cite>
-
-{% image "article/thank-you-thay/21 day retreat 2014 - Thay-e.jpg" %}

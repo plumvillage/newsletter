@@ -39,3 +39,7 @@ We humbly prostrate before you, on the grounds of the Root Temple Tu Hieu,
 <p class="signoff"><span class="signoff-lvl-1">with our deepest gratitude,</span><br/>
 <span class="signoff-lvl-2">your “baby” disciples,<br/>
 the young nuns of Dieu Tram Nunnery</span></p>
+
+<div class="article-end"></div>
+
+{% image "calligraphy/article titles 2 and dividers/5-masked/Dividers1-1.webp" %}

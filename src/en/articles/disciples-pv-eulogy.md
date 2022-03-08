@@ -51,3 +51,7 @@ You have said that, “Time is stilled in eternity, where love and the beloved a
 
 <p class="noIndent">This is a legendary moment.<br/>
 This is a moment of continuation.</p>
+
+<div class="article-end"></div>
+
+{% image "article/eulogy-in-PV/En_this is a legendary moment - twois-e.jpg" %}

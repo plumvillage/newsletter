@@ -54,9 +54,12 @@ class MyHandler extends Paged.Handler {
             }
         })
 
-        document.querySelectorAll('.hasContent .pagedjs_margin-content').forEach(el => {
-            el.innerHTML += `<datetime class="lastmod">${document.lastModified}</datetime>`;
-        });
+        // put stamp on every page
+        if (false) {
+            document.querySelectorAll('.hasContent .pagedjs_margin-content').forEach(el => {
+                el.innerHTML += `<datetime class="lastmod">${document.lastModified}</datetime>`;
+            });
+        }
         
         document.querySelectorAll('article').forEach(e => {
             let artName = e.classList.item(0)

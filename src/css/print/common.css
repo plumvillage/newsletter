@@ -175,6 +175,10 @@ figure {
     }
 }
 
+.article-editors-notes h1 {
+    padding-bottom: 5%;
+}
+
 
 #title-page h1 {
     /* margin-top here needs to be replaced by padding-top, otherwise it does not work in the pdf in chrome */
@@ -309,10 +313,11 @@ figure#calligraphyzen-circlezen-circle {
     margin-right: auto;
 }
 
+/* english only */
 #thays-full-title-page p {
     display: block;
     /* margin-top does not work in PDF output */
-    padding-top: 70%;
+    padding-top: 55%;
     margin-left: auto;
     margin-right: auto;
     width: 70%;
@@ -482,7 +487,8 @@ article {
     column-gap: 16pt
 }
 
-h1, article .author {
+
+h1, article .author, article h2.altAuthor {
     column-span: all;
     text-align: center;
     color: var(--color-bark-dark);
@@ -967,6 +973,9 @@ h1#kinh-so-tam figure img {
 
 /* //////////////////////////////////////////////// */
 /* /////////////  FULL-PAGE IMAGES  /////////////// */
+.article-at-the-foot-of-the-majestic-mountain #calligraphyarticle-titles-2-and-dividers5-maskedDividers2-2-straight,
+figure#articlesr-thuan-khanhEni-am-here-for-you-twois-e,
+figure#articleeulogy-in-PVEnthis-is-a-legendary-moment-twois-e,
 figure#articlethay-minh-nghiaThay-Tho-HT-Minh-Nghia-Pho-Nhac-Tue-My,
 figure#calligraphyzen-circlezen-circle,
 figure#articlebr-nguyen-tinhBrNguyenTinh2-edit,
@@ -1021,6 +1030,15 @@ figure#articlesr-hoa-nghiemHinh-cho-bai-Sc-Hoa-N1 {
 }
 figure#articlebr-nguyen-tinhBrNguyenTinh1-edit {
     width: 70%;
+}
+
+figure#articleeulogy-in-PVEnthis-is-a-legendary-moment-twois-e {
+    width: 70%;
+    margin-top: 18%;
+}
+figure#articlesr-thuan-khanhEni-am-here-for-you-twois-e {
+    width: 60%;
+    margin-top: 10%;
 }
 
 html:lang(en) figure#articlesr-chan-khong-letter-to-ThaySCCK-with-MLK-and-TNH-statue-high-quality-e-crop {
@@ -1183,6 +1201,11 @@ figure#calligraphyarticle-titles-2-and-dividers5-maskedDividers1-1
     margin-right: auto;
 }
 
+.article-thay-smiled-happily figure#calligraphyarticle-titles-2-and-dividers5-maskedDividers1-1 {
+    margin-top: 14%;
+}
+
+
 #poem-sometimes, #poem-here {
     margin-left: 30%;
 }
@@ -1302,6 +1325,9 @@ figure#articlesr-dao-nghiem2-transparentsr-dao-nghiemPoemTea {
     margin-right: auto;
     width: 70%;
     padding-left: 10%;
+}
+figure#articlesr-dao-nghiem2-transparentsr-dao-nghiemPoemTea img {
+    filter: drop-shadow(0 0 10pt white);
 }
 /* 
 .article-snow-falling-autumn {
@@ -1435,6 +1461,7 @@ figure#articlesr-trang-bo-deSc-Bo-DJe-4-edit {
 }
 
 .PAGE-OF-article-on-misty-days p,
+.PAGE-OF-article-on-misty-days cite,
 .PAGE-OF-articlesr-trang-mai-thonSrMaiThon2-edited p,
 .PAGE-OF-articleeulogy-in-vietnamL1004616-e p,
 .PAGE-OF-articlesr-trang-bo-deIMG0331 p,
@@ -1639,13 +1666,19 @@ article blockquote span:lang(zh) {
 
 .article-thank-you-thay blockquote
 {
-    margin-top: 10pt;
-    margin-bottom: 23pt;
+    margin-top: 4pt;
+    margin-bottom: 11pt;
     font-style: normal;
     text-indent: 0pt;
 }
 
+.article-thank-you-thay blockquote p + p
+{
+    margin-top: 3pt;
+}
+
 .article-tributes-to-thay blockquote,
+.article-thank-you-thay blockquote,
 .article-loi-tri-an-tu-cong-dong-quoc-te blockquote
 {
     page-break-inside: avoid;
@@ -1663,6 +1696,7 @@ article blockquote span:lang(zh) {
 }
 
 /* no end marker here (because it is not in-line) */
+.article-sometimes .last-article-element::after,
 .article-thay .last-article-element::after,
 .article-tributes-to-thay .last-article-element::after,
 .article-thank-you-thay .last-article-element::after,
@@ -1711,4 +1745,26 @@ figure#articlesr-trang-tin-yeuMisty-day-e {
 }
 figure#articlesr-trang-tin-yeuMisty-day-e img {
     height: 100% !important;
+}
+
+/* merge with succeeding poem */
+.article-at-the-foot-of-the-majestic-mountain {
+    break-after: unset !important;
+}
+
+.article-sometimes h1,
+.article-sometimes h2
+{
+    /* will break hyperlink */
+    display: none;
+}
+
+.article-at-the-foot-of-the-majestic-mountain #calligraphyarticle-titles-2-and-dividers5-maskedDividers2-2-straight {
+    width: 25%;
+    margin-bottom: 8%;
+}
+
+.article-sometimes cite {
+    font-style: normal;
+    padding-top: 8pt;
 }

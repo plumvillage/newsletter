@@ -34,5 +34,3 @@ title: Tributes to Thay
 > “Thich Nhat Hanh’s teachings and practices transformed my life. Millions of people have been touched by his wisdom. Mindfulness is more powerful than nuclear energy.”<cite><b>Alejandro González Iñárritu</b>, Academy Award-winning director</cite>
 
 > “Thich Nhat Hanh was the most influential Buddhist teacher of the past fifty years. In addition to promoting mindfulness, his ability to present Buddhist insights and practices in clear, accessible, and heartfelt language greatly increased the number of people exposed to Buddhism. Thich Nhat Hanh’s legacy will continue to shape Buddhism’s present and future.”<cite><b>Jeff Wilson</b>, Professor of Religious Studies and East Asian Studies, Renison University College, and author of Mindful America: The Mutual Transformation of Buddhist Meditation and American Culture</cite>
-
-{% image "calligraphy/article titles 2 and dividers/5-masked/Dividers1-1.webp" %}
