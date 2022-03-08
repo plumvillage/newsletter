@@ -13,6 +13,8 @@ author: Thầy Trí Chơn
     Dưới trăng vẳng tiếng chuông huyền<br/>
     Thiền sư dời gót qua miền vô sinh.</p>
 
+</br>
+
 <p class="noIndent">Kính lạy Thầy<br/>
 Ngày 16 tháng Giêng năm Nhâm Dần</p></div>
 
