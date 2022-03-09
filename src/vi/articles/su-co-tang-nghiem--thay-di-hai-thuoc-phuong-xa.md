@@ -59,7 +59,7 @@ Giờ đây, mỗi lần nhớ Thầy, nhớ lại công án ngày xưa Thầy t
 
 ## Thuốc Vườn Ươm<span class="note">Tên gọi của Trung tâm thiền tập quốc tế Làng Mai Thái Lan</span> thơm ngát trời đông
 
-Ở Thái Lan, mùa này là mùa đẹp nhất trong năm thưa Thầy! Mùa vàng rực của lá tre, lá bàng. Đã cuối đông, thời tiết chuyển, trời dần ấm hơn như để đón mùa xuân về. Chúng con mở các khóa tu trực tuyến cho thiền sinh có nơi trở về; cùng nhau học kinh Quán niệm hơi thở, Công phu nở đóa sen ngàn cánh, Duy biểu học,... Chúng con trồng thêm rau sạch để cung cấp cho đại chúng trong mùa đại dịch covid. Quan trọng nhất là chúng con nhắc nhau thực tập giữ hòa khí để con thuyền tăng thân vận hành trôi chảy. Đó là những phương thuốc mà nơi đây chúng con đang chế tác. Mỗi chúng con đều ý thức được rằng muốn hiến tặng hạnh phúc cho mọi người trên thế giới thì bản thân chúng con phải có hạnh phúc trước.
+Ở Thái Lan, mùa này là mùa đẹp nhất trong năm, thưa Thầy! Mùa vàng rực của lá tre, lá bàng. Đã cuối đông, thời tiết chuyển, trời dần ấm hơn như để đón mùa xuân về. Chúng con mở các khóa tu trực tuyến cho thiền sinh có nơi trở về; cùng nhau học kinh Quán niệm hơi thở, Công phu nở đóa sen ngàn cánh, Duy biểu học,... Chúng con trồng thêm rau sạch để cung cấp cho đại chúng trong mùa đại dịch covid. Quan trọng nhất là chúng con nhắc nhau thực tập giữ hòa khí để con thuyền tăng thân vận hành trôi chảy. Đó là những phương thuốc mà nơi đây chúng con đang chế tác. Mỗi chúng con đều ý thức được rằng muốn hiến tặng hạnh phúc cho mọi người trên thế giới thì bản thân chúng con phải có hạnh phúc trước.
 
 {% image "article/sr-tang-nghiem/DSC_0737-e.jpg" %}
 
