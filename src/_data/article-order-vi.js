@@ -1,7 +1,7 @@
 module.exports = [
 /*************************/"Chapter1",
 "bbt--thanh-than-nguoi-ve-choi-bien-lon",
-"tri-an-thay",
+"bbt--tri-an-thay",
 "le-trang--cung-tan",
 "su-co-hien-nghiem--giay-phut-cua-su-tiep-noi",
 "dieu-tram--thien-thu-trong-khoanh-khac",
@@ -11,8 +11,9 @@ module.exports = [
 "scck--con-hat-cho-thay-tho",
 "su-co-dinh-nghiem--thay-mim-cuoi-thich-thu",
 "su-co-hoi-nghiem--tinh-thay-la-anh-trang-day",
-"tray-troi-noi-tam--dau-dau-cung-dau-hai",
+"thay-troi-noi-tam--dau-dau-cung-dau-hai",
 "su-co-thuan-khanh--duoi-chan-ngon-hung-phong",
+"su-co-nhu-minh--nho-mai-on-thay",
 "shantum-seth--nguoi-thay-nguoi-dan",
 "su-co-hoc-nghiem--cuoc-doi-thay-rat-dep",
 "su-co-tang-nghiem--thay-di-hai-thuoc-phuong-xa",
@@ -25,7 +26,7 @@ module.exports = [
 "thay-phap-an--thap-len-ngon-nen",
 "su-co-chan-duc--thay-thay-trong-tang-than",
 "su-co-doan-nghiem--thuong-nhu-thay-thuong",
-// Phỏng vấn thầy Pháp Hải	Br. Pháp Hải
+"thay-phap-hai--ve-trong-tang-than",
 "su-co-hoa-nghiem--nep-xua",
 "thay-phap-kham--cham-soc-tang-than",
 "su-co-bao-nghiem--linh-dan-doi-cot-moi-ra-ve",
@@ -67,7 +68,7 @@ module.exports = [
 "thay-thien-chi--guong-kia-ngu-o-tren-tuong",
 "tam-tue-vien--vi-thay",
 "bich-nham--thong-dong-may-trang-troi-xanh",
-"lang-mai-nam-qua",
+"bbt--lang-mai-nam-qua",
 
 /*************************/"Chapter6",
 "su-co-quy-nghiem--su-tiep-noi-dep-de",
@@ -78,5 +79,8 @@ module.exports = [
 "su-co-hoi-nghiem--thoi-gian-la-su-song",
 "thay-phap-kha--quan-tam",
 "su-co-duyet-nghiem--ngay-tuyet-nho-thay",
+"bbt--lich-sinh-hoat",
+"bbt--dia-chi-lien-lac-cua-lang-mai"
+
 ]
 

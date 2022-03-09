@@ -28,8 +28,6 @@ async function imageSrcShortcode(src) {
 }
 
 async function imageData(src) {
-    // this will be slow! reloads will also be slow!
-    // with this on, pdf output stops halfway ... does not work
     let justCopy = false;
     let dryRun = false;
     let srcFull = path.join(srcPath, src);

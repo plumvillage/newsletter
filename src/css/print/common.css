@@ -386,8 +386,9 @@ ul.toc li {
 }
 
 html:lang(vi) ul.toc li {
-    margin-bottom: 8pt;
+    margin-bottom: 5pt;
 }
+
 
 .chapterLi {
     /* does not seem to work */
@@ -973,11 +974,13 @@ h1#kinh-so-tam figure img {
 
 /* //////////////////////////////////////////////// */
 /* /////////////  FULL-PAGE IMAGES  /////////////// */
+figure#articlebr-phap-haiThay-with-Br-Phap-Hai-e,
 figure#articlebr-phap-khamDSC7356,
 figure#articlemick-mcevoyHappy-Farm-2,
 figure#articlefor-poemsDSC5746,
 figure#articlesr-tri-nghiemDSC0130,
 figure#articlefor-chaptersConYeu-e,
+.article-duoi-chan-ngon-hung-phong #calligraphyarticle-titles-2-and-dividers5-maskedDividers2-2-straight,
 .article-at-the-foot-of-the-majestic-mountain #calligraphyarticle-titles-2-and-dividers5-maskedDividers2-2-straight,
 figure#articlesr-thuan-khanhEni-am-here-for-you-twois-e,
 figure#articleeulogy-in-PVEnthis-is-a-legendary-moment-twois-e,
@@ -1010,6 +1013,11 @@ figure#articlesr-tri-nghiemDSC0130 {
 }
 figure#articlefor-poemsDSC5746 {
     width: 70%;
+    margin-bottom: 0;
+    margin-top: 5%;
+}
+figure#articlebr-phap-haiThay-with-Br-Phap-Hai-e {
+    width: 60%;
     margin-bottom: 0;
     margin-top: 5%;
 }
@@ -1217,6 +1225,7 @@ figure#articlefor-poemsorchid-light2 {
     bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed)) * -1);
 }
 
+figure#calligraphyarticle-titles-2-and-dividers5-maskedDividers2-1,
 figure#calligraphyarticle-titles-2-and-dividers5-maskedDividers1-1
 {
     display: block;
@@ -1230,6 +1239,9 @@ figure#calligraphyarticle-titles-2-and-dividers5-maskedDividers1-1
     margin-right: auto;
 }
 
+.article-thay-mim-cuoi-thich-thu figure#calligraphyarticle-titles-2-and-dividers5-maskedDividers2-1 {
+    margin-top: 14%;
+}
 .article-thay-smiled-happily figure#calligraphyarticle-titles-2-and-dividers5-maskedDividers1-1 {
     margin-top: 14%;
 }
@@ -1792,8 +1804,41 @@ figure#articlesr-trang-tin-yeuMisty-day-e img {
 }
 
 /* merge with succeeding poem */
+.article-duoi-chan-ngon-hung-phong,
 .article-at-the-foot-of-the-majestic-mountain {
     break-after: unset !important;
+}
+
+.article-at-the-foot-of-the-majestic-mountain #calligraphyarticle-titles-2-and-dividers5-maskedDividers2-2-straight {
+    width: 25%;
+    margin-bottom: 8%;
+}
+.article-duoi-chan-ngon-hung-phong #calligraphyarticle-titles-2-and-dividers5-maskedDividers2-2-straight
+{
+    width: 33%;
+    margin-bottom: 4%;
+    margin-top: 6%
+}
+
+.article-nho-mai-on-thay {
+    columns: 1 !important;
+}
+
+#poem-nho-mai {
+    display: block;
+    width: 40%;
+    padding-left: 24pt;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+figure#articleVenerable-Nhu-MinhPVM8497 {
+    width: 80%;
+    display: block;
+    margin-top: 16pt;
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .article-sometimes h1,
@@ -1803,9 +1848,11 @@ figure#articlesr-trang-tin-yeuMisty-day-e img {
     display: none;
 }
 
-.article-at-the-foot-of-the-majestic-mountain #calligraphyarticle-titles-2-and-dividers5-maskedDividers2-2-straight {
-    width: 25%;
-    margin-bottom: 8%;
+.special-footnote {
+    font-style: italic;
+    font-size: 85%;
+    line-height: 110%;
+    /* color: rgb(32, 32, 32); */
 }
 
 .article-sometimes cite {
@@ -1815,4 +1862,14 @@ figure#articlesr-trang-tin-yeuMisty-day-e img {
 
 #poem-a-hand {
     width: 92mm;
+}
+
+
+#poem-de-but-tho {
+    margin-left: 0pt !important;
+}
+
+/* for removing an orphan line below the photo */
+h1#giay-phut-cua-su-tiep-noi {
+    padding-bottom: 4pt;
 }

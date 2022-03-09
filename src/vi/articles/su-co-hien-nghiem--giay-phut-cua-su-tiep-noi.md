@@ -1,7 +1,7 @@
 ﻿---
 title: Giây phút của sự tiếp nối
-
 ---
+<!-- author: Sr Hien Nghiem -->
 
 <p class="editors-note">Bài viết được BBT chuyển ngữ từ tiếng Anh.</p>
 

@@ -13,7 +13,7 @@ Sư Ông nằm chơi hiền hoà và bình an. Sư Ông ngắm bức tranh. Ngo�
 
 Để rồi, vào khoảng nửa đêm ngày 22 tháng Giêng năm 2022 (nhằm ngày 20 tháng Chạp năm Tân Sửu), tại thất Lắng Nghe nơi Tổ đình, Sư Ông bắt đầu hành trình *chuyển hóa* của mình. Sư cô Chân Không, thầy Pháp Ứng, sư cô Định Nghiêm, thầy Pháp Niệm, sư cô Linh Nghiêm, sư cô Thao Nghiêm cùng quý thầy thị giả đã có mặt bên Người trong những giây phút linh thiêng và an bình này. Quý thầy, quý sư cô chắp tay búp sen và nhẹ nhàng hát bài thiền ca *Để Bụt thở* do Sư Ông sáng tác, khi hơi thở của Người bắt đầu chậm lại.
 
-<div class="verse"><p>Để Bụt thở, để Bụt đi, mình khỏi thở, mình khỏi đi.<br/>
+<div class="verse" id="poem-de-but-tho"><p>Để Bụt thở, để Bụt đi, mình khỏi thở, mình khỏi đi.<br/>
 Bụt đang thở, Bụt đang đi, mình được thở, mình được đi.<br/>
 Bụt là thở, Bụt là đi, mình là thở, mình là đi.<br/>
 Chỉ có thở, chỉ có đi, không người thở, không người đi.<br/>
@@ -34,12 +34,12 @@ Kể từ khi bị tai biến vào tháng 11 năm 2014, Sư Ông vẫn không ng
 
 Đồng ý tới San Francisco để thử nghiệm những phương pháp điều trị đặc biệt, Sư Ông đã dạy chúng con bài học không bao giờ bỏ cuộc trước những nhiệm mầu của sự sống. Bằng sự có mặt đầy bình an tại Làng Mai Pháp trong năm 2016, Sư Ông trao truyền cho chúng con tình thương và niềm tin, giúp chúng con lớn lên một cách vững chãi. Tháng 12 năm 2016, quyết định về Làng Mai Thái Lan, Sư Ông muốn dành tình thương và sự quan tâm của mình cho các đệ tử mới xuất gia cũng như yểm trợ nền tảng tu học của tu viện. Khi quyết định trở về Tổ đình Từ Hiếu, nơi Người bắt đầu con đường xuất gia tu học 80 năm về trước, Sư Ông đã “khép lại vòng tròn”. Sư Ông muốn hiến tặng năng lượng bình an, từ bi và tình huynh đệ cho quê hương yêu dấu, đồng thời đem tăng thân quốc tế của Người trở về với gốc rễ tâm linh Việt Nam. Đối với nhiều người trong tăng thân, Sư Ông như một người mẹ đầy tình thương. Ngay cả cách Người ra đi cũng chứa đầy thương yêu, tin tưởng và bình an.
 
+{% image "article/recap-of-ceremonies/From Hue/272666966_483286959832871_5789908838953477035_n.jpg", "noFloat" %}
+{% image "article/recap-of-ceremonies/From Hue/_HR59668.JPG", "noFloat" %}
+
 Khi tăng thân đưa ra thông cáo chính thức về sự viên tịch của Sư Ông, ngay lập tức thông tin được truyền đi nhanh chóng trên các kênh truyền thông quốc tế lớn như BBC, CNN, Sky News, Al Jazeera, và báo chí của khắp các quốc gia trên thế giới. Chúng con thật xúc động khi nhận được hàng ngàn lời chia sẻ bày tỏ sự cảm kích và lòng biết ơn đối với Sư Ông trên trang nhà Làng Mai cũng như các trang mạng xã hội khác. Nhiều người chia sẻ những lời dạy của Sư Ông đã “cứu sống” hoặc giúp hàn gắn các mối quan hệ của họ như thế nào, hay đã mang lại cho họ ý nghĩa, mục đích và hy vọng ra sao khi họ cảm thấy đã mất tất cả. Chúng con thật không thể tưởng tượng có biết bao nhiêu người trên khắp thế giới yêu quý Sư Ông đến vậy. 
 
 Khi lễ Tâm tang đang được chuẩn bị tiến hành ở Việt Nam, tu viện Lộc Uyển (California) là trung tâm đầu tiên trong số các trung tâm của Làng Mai đã tổ chức một buổi lễ Tưởng niệm lớn, truyền trực tuyến từ thiền đường Thái Bình Dương. Hơn 10 ngàn người đã có mặt để chia sẻ giây phút ấy với tăng thân. Tiếp theo đó, buổi tọa thiền và tụng kinh cầu nguyện tại thiền đường Nước Tĩnh, xóm Thượng, Làng Mai Pháp cũng được truyền trực tuyến.
-
-{% image "article/recap-of-ceremonies/From Hue/272666966_483286959832871_5789908838953477035_n.jpg", "noFloat" %}
-{% image "article/recap-of-ceremonies/From Hue/_HR59668.JPG", "noFloat" %}
 
 Tại Việt Nam, vào lúc 7 giờ sáng Chủ nhật, ngày 23 tháng 1, chư Tôn đức tăng ni cùng Phật tử cư sĩ từ khắp mọi miền đất nước đều quy tụ về Tổ đình Từ Hiếu trong buổi lễ Nhập Kim Quan, dù trong bối cảnh đại dịch vẫn còn đang diễn biến phức tạp. Mười ngàn người đã tham dự buổi lễ truyền trực tuyến qua kênh Youtube Làng Mai. Những cảm xúc được lắng dịu khi trên màn hình, tăng thân khắp chốn được thấy Sư Ông, với tấm y vàng đắp trên chiếc áo Tiếp hiện và áo tràng nâu, đầu trần, nằm thư thái như đang ngủ một giấc ngủ dài, bình an vô sự. Tại chùa Tổ, xung quanh Sư Ông, mọi hình thức nghi lễ, bài trí đều rất đơn sơ, trong khung cảnh trầm lắng, thanh tịnh, trang nghiêm của núi đồi Dương Xuân. Tăng thân được chứng kiến giây phút rước Sư Ông từ thất Lắng Nghe tới thiền đường Trăng Rằm trong tiếng niệm danh hiệu Bồ tát Quan Thế Âm, với âm điệu dân tộc mà trước kia Sư Ông đã sáng tác và tập cho các đệ tử. Các sư cô ở ni xá Diệu Trạm trang trí kim quan bằng những tràng hoa cúc đại đóa màu hỏa hoàng - loài hoa mà Sư Ông  ưa thích. 
 
@@ -137,10 +137,14 @@ Bảy ngày Tâm tang tại Tổ đình Từ Hiếu đã diễn ra ấm cúng v�
 
 Chúng con nguyện thực tập tinh chuyên để tiếp nối sự nghiệp tuệ giác của Sư Ông, mong phần nào báo đáp được ân đức của Bụt, Tổ và chư Tôn Thiền đức tăng ni cũng như sự trợ duyên kiên định từ quý vị Phật tử cư sĩ. 
 
-Một mùa xuân mới đang về, chúng con nguyện cầu chư Bụt và chư liệt vị Tổ sư luôn hộ trì cho chư Tôn Thiền đức tăng ni cùng quý thân hữu một Năm Mới Nhâm Dần 2022 được nhiều sức khỏe, an vui và thành tựu được chí nguyện độ tha của chư vị.<span class="note">Tựa đề được lấy từ câu đối do Sư Ông Làng Mai viết, treo trong thiền đường Chuyển Hóa, xóm Thượng:<br/>
-<i>Giọt nước thành dòng sông, thanh thản Người về chơi biển lớn</i><br/>
-<i>Bước chân nên cõi Tịnh, thảnh thơi ta lên dạo đồi cao.</i></span>
+Một mùa xuân mới đang về, chúng con nguyện cầu chư Bụt và chư liệt vị Tổ sư luôn hộ trì cho chư Tôn Thiền đức tăng ni cùng quý thân hữu một Năm Mới Nhâm Dần 2022 được nhiều sức khỏe, an vui và thành tựu được chí nguyện độ tha của chư vị.
 
 <div class="article-end"></div>
+
+<div class="divider"></div>
+
+<p class="special-footnote">Tựa đề được lấy từ câu đối do Sư Ông Làng Mai viết, treo trong thiền đường Chuyển Hóa, xóm Thượng:<br/>
+Giọt nước thành dòng sông, thanh thản Người về chơi biển lớn<br/>
+Bước chân nên cõi Tịnh, thảnh thơi ta lên dạo đồi cao.</p>
 
 {% image "article/recap-of-ceremonies/From PV/IMG_1397-e.jpg" %}

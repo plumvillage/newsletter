@@ -31,4 +31,4 @@ Con từng nghĩ Thầy sẽ không về lại Việt Nam. Nhưng ở Thái Lan 
 
 <div class="article-end"></div>
 
-{% image "article/sr-chan-khong-letter-to-Thay/SCCK with MLK and TNH statue - high quality-e-crop.jpg" %}
+{% image "article/sr-chan-khong-letter-to-Thay/SCCK with MLK and TNH statue - high quality-e-crop.jpg", "", "SC. Chân Không tại tượng đài Mục sư Luther King và Thầy ở tu viện Mộc Lan năm 2015" %}
