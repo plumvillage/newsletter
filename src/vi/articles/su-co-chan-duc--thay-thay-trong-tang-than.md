@@ -5,6 +5,8 @@ author: Sư cô Chân Đức
 
 <p class="editors-note">Bài viết được BBT chuyển ngữ từ tiếng Anh.</p>
 
+## Trở về xóm Hạ
+
 Tôi tới Làng Mai vào ngày mùng 1 tháng 7 năm 1986. Một thiền sinh lái chiếc xe Quatrele cũ màu vàng ra đón tôi tại ga Sainte-Foy-La-Grande. Ba tháng trước, tôi và mấy bạn trong tổ chức *Phật tử thân hữu tranh đấu cho hòa bình* (Buddhist Peace Fellowship) thỉnh Thầy qua Anh hướng dẫn thực tập. Khi ấy Thầy đã gợi ý rằng tôi nên đến Làng thực tập một tháng.
 
 Về tới xóm Thượng, tôi thấy Thầy đang ngồi trên võng, chiếc võng luôn được mắc giữa hai cái cây đối diện tòa nhà Thạch Lang *(Stone building).* Thầy mặc một bộ áo vạt hò màu lam, vì hôm đó rất nóng. Tôi chắp tay xá Thầy. Thầy nói: “Đây là Ấn Độ, Ấn Độ là đây”. Tôi đã không hiểu được ý Thầy và nghĩ Thầy muốn nói: “Thời tiết ở đây nóng như ở Ấn Độ vậy”. Sau này, khi nhìn lại, tôi vỡ lẽ ra Thầy ngụ ý: “Con à, đây là ngôi nhà tâm linh của con. Con không cần phải đi Ấn Độ để tìm về ngôi nhà của mình”. Có lần Thầy nói với tôi câu đó được lấy ý từ một bài thơ của thiền sư Việt Nam ở thế kỷ thứ 9, thiền sư Vô Ngôn Thông.
