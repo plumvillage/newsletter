@@ -1,6 +1,6 @@
 ﻿---
 title: Kinh sơ tâm
-author: Chân Trời Lĩnh Nam
+author: Thầy Chân Trời Lĩnh Nam
 ---
 
 ## Đất Tổ linh thiêng
