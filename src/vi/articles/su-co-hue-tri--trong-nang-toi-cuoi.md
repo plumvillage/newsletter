@@ -1,5 +1,5 @@
 ﻿---
-title: Trong Nắng Tôi Cười
+title: Trong nắng tôi cười
 author: Sư cô Chân Huệ Tri
 ---
 
