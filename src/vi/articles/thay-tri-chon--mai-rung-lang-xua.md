@@ -15,6 +15,6 @@ author: Thầy Trí Chơn
 
 </br>
 
-<p class="noIndent"><i>Kính lạy Thầy</i><br/>
-<i>Ngày 16 tháng Giêng năm Nhâm Dần</i></p></div>
+<p class="noIndent">Kính lạy Thầy<br/>
+Ngày 16 tháng Giêng năm Nhâm Dần</p></div>
 
