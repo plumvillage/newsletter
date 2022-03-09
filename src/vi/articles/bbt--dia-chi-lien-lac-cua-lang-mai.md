@@ -5,8 +5,8 @@ title: Địa chỉ liên lạc của Làng Mai và các trung tâm
 
 ## Trang thông tin điện tử của Làng Mai, Pháp:
 
-*Tiếng Anh*: www.plumvillage.org
-*Tiếng Việt*: www.langmai.org
+*Tiếng Anh*: www.plumvillage.org<br/>
+*Tiếng Việt*: www.langmai.org<br/>
 *Tiếng Pháp*: www.villagedespruniers.net 
 
 ## Liên lạc với Làng Mai ở châu Âu
