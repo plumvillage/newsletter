@@ -3,108 +3,59 @@ title: Địa chỉ liên lạc của Làng Mai và các trung tâm
 ---
 
 
-`        `***Trang thông tin điện tử của Làng Mai, Pháp:***
+## Trang thông tin điện tử của Làng Mai, Pháp:
 
+*Tiếng Anh*: www.plumvillage.org
+*Tiếng Việt*: www.langmai.org
+*Tiếng Pháp*: www.villagedespruniers.net 
 
+## Liên lạc với Làng Mai ở châu Âu
 
-`        `*Tiếng Anh*: www.plumvillage.org
+### Chùa Pháp Vân, Xóm Thượng
 
-`        `*Tiếng Việt*: www.langmai.org
-
-`        `*Tiếng Pháp*: www.villagedespruniers.net 
-
-
-
-**Liên lạc với Làng Mai ở châu Âu**
-
-
-***Chùa Pháp Vân, Xóm Thượng***
-
-
-
-*Sơn Thượng*				
+#### Sơn Thượng			
 
 Le Pey, 24240 Thenac, France
-
 Tel.: +(33) 5.53.58.48.58
-
 Fax.: +(33) 5.53.58.49.17
-
 E-mail: uh-office@plumvillage.org
 
-
-
-*Sơn Hạ*				
+#### Sơn Hạ
 
 Fontagnane, 24240 Puyguilhem, France 
-
 Tel.: +(33) 5.53.22.88.89
-
 Fax.: +(33) 5.53.22.88.90
-
 E-mail: sonha@plumvillage.org
 
-
-
-***Chùa Cam Lộ, Xóm Hạ***
-
-
+### Chùa Cam Lộ, Xóm Hạ
 
 Meyrac, 47120 Loubes-Bernac, France 
-
 Tel.: +(33) 5.53.94.75.40
-
 Fax.: +(33) 5.53.94.75.90
-
 Email: lh-office@plumvillage.org	
 
-***Chùa Từ Nghiêm, Xóm Mới***
-
-
+### Chùa Từ Nghiêm, Xóm Mới
 
 13 Martineau, 33580 Dieulivol, France 
-
 Tel.: +(33) 5.56.61.66.88
-
 Fax.: +(33) 5.56.61.61.51
-
 Email: nh-office@plumvillage.org
 
-
-
-
-
-***Thiền đường Hơi Thở Nhẹ*** 
-
-
+### Thiền đường Hơi Thở Nhẹ
 
 (Monastère de la Maison de l’Inspir)
-
 8, rue des Fans
-
 77510 Villeneuve-sur-Bellot, Paris
-
 Tel: 09 51 35 46 34
-
 Email: info@maisondelinspir.org
-
 Trang nhà: [www.maisondelinspir.org](http://www.maisondelinspir.org/) 
 
-
-
-***Tu viện Suối Tuệ***
-
-
+### Tu viện Suối Tuệ
 
 (Monastère de la Source guérissante)
-
 2, rue Pascal Jardin
-
 77510 Verdelot
-
 Trang nhà: www.healingspringmonastery.org
-
-
 
 ***Viện Phật học Ứng dụng châu Âu***
 
