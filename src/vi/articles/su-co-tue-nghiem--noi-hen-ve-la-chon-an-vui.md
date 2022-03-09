@@ -20,7 +20,7 @@ Một yếu tố giúp chị rất nhiều chính là thiên nhiên, là đất 
 
 Lúc đó, Làng còn nghèo lắm. Nhà cửa đơn sơ, nghèo nàn. Chị ngủ trong căn nhà mà trước đó là nơi người ta phơi thuốc lá. Căn nhà này có vách tường gạch đỏ và sàn bằng xi măng. Giường ngủ cũng chỉ là một tấm ván kê trên bốn tấm gạch đỏ. Giữa đêm lạnh buốt mà muốn đi vệ sinh thì phải đi ra ngoài trời mới đến được nhà vệ sinh. Không có nước nóng ở những vòi rửa mặt. Có nước nóng để tắm đã là một sự nhiệm mầu và hạnh phúc lắm rồi. Em tưởng tượng đi, một điều chị luôn luôn trân quý và biết ơn là những căn phòng này có máy sưởi trung ương (central heating). Có những căn nhà khác chỉ dùng lò đốt củi thôi. Giữa đêm mà củi đốt hết thì căn phòng lạnh như ngoài trời vậy.
 
-{% image "article/sr-tue-nghiem/20211210036-crop.jpg", "", "Sư cô Định Nghiêm, Tuệ Nghiêm, Thiều Nghiêm" %}
+{% image "article/sr-tue-nghiem/20211210036-crop.jpg", "", "Sư cô Định Nghiêm, Tuệ Nghiêm, Giải Nghiêm" %}
 
 Tuy chỉ mười mấy thầy và sư cô thôi nhưng không khí như một gia đình ấm cúng. Ngày nào cũng có tiếng hát, tiếng ngâm thơ, tiếng cười. Trước khi thiền hành, đại chúng hát với nhau. Đôi khi sau bữa ăn cũng ngồi lại để uống ly trà thơm, ca hát, ngâm thơ, kể chuyện. Mỗi thời khóa của chúng, ai cũng có mặt. Tuy Làng nghèo và thiếu đủ điều nhưng rất giàu tình thương, tình huynh đệ, tình bạn. Chị được nuôi dưỡng mỗi ngày trong không khí bình an, thương yêu, trong cái đẹp và lành của đời sống tâm linh. Trái tim chị mở ra rất nhiều. Chị trân quý mỗi ngày, trân quý mọi cơ hội trở về nếp sống đơn giản, lành mạnh mà nhờ đó chị có nhiều thì giờ để làm mới tự thân. Nếp sống này đã làm cho chị thấy rất mãn nguyện, giống như đã thực hiện được một ước mơ gì đó trong mình.
 
