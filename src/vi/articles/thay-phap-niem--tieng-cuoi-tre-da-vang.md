@@ -1,5 +1,5 @@
 ﻿---
-title: Tiếng Cười Trẻ Đã Vang
+title: Tiếng cười trẻ đã vang
 author: Thầy Chân Pháp Niệm
 ---
 
