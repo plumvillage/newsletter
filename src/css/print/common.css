@@ -736,10 +736,10 @@ html:lang(vi) .verse {
     margin-top: 11pt;
 }
 
-/* .verse p {
-    text-indent: -3pt !important;
+.verse p {
+    text-indent: 0pt !important;
 }
-html:lang(vi) .verse p {
+/* html:lang(vi) .verse p {
     text-indent: 0pt !important;
 } */
 
@@ -973,6 +973,11 @@ h1#kinh-so-tam figure img {
 
 /* //////////////////////////////////////////////// */
 /* /////////////  FULL-PAGE IMAGES  /////////////// */
+figure#articlebr-phap-khamDSC7356,
+figure#articlemick-mcevoyHappy-Farm-2,
+figure#articlefor-poemsDSC5746,
+figure#articlesr-tri-nghiemDSC0130,
+figure#articlefor-chaptersConYeu-e,
 .article-at-the-foot-of-the-majestic-mountain #calligraphyarticle-titles-2-and-dividers5-maskedDividers2-2-straight,
 figure#articlesr-thuan-khanhEni-am-here-for-you-twois-e,
 figure#articleeulogy-in-PVEnthis-is-a-legendary-moment-twois-e,
@@ -998,6 +1003,30 @@ figure#articlerecap-of-ceremoniesFrom-HueL1004781
     margin-right: auto;
     padding-left: 0;
     padding-right: 0;
+}
+figure#articlesr-tri-nghiemDSC0130 {
+    width: 70%;
+    margin-bottom: 0;
+}
+figure#articlefor-poemsDSC5746 {
+    width: 70%;
+    margin-bottom: 0;
+    margin-top: 5%;
+}
+figure#articlemick-mcevoyHappy-Farm-2 {
+    width: 60%;
+    margin-bottom: 0;
+    margin-top: 4%;
+}
+figure#articlebr-phap-khamDSC7356 {
+    width: 90%;
+    margin-bottom: 0;
+    margin-top: 10%;
+}
+figure#articlefor-chaptersConYeu-e {
+    width: 70%;
+    margin-bottom: 0;
+    margin-top: 5%;
 }
 figure#articlebr-nguyen-tinhBrNguyenTinh2-edit {
     width: 80%;
@@ -1059,7 +1088,7 @@ figure#articlebr-troi-bao-tang266137775101594156527050427864726797241279645n {
     width: 67%;
 }
 figure#articlebr-phap-dungthay-bell3-torn-edges {
-    width: 94%;
+    width: 89%;
 }
 figure#articlebr-troi-dao-quangIMG1129 {
     width: 78%;
@@ -1209,6 +1238,7 @@ figure#calligraphyarticle-titles-2-and-dividers5-maskedDividers1-1
 #poem-sometimes, #poem-here {
     margin-left: 30%;
 }
+.article-may-the-smiles-from-our-hearts .verse b,
 #poem-sometimes b, #poem-here b {
     font-size: 130%;
 }
@@ -1367,14 +1397,27 @@ figure#articlesr-dao-nghiemtrasuongmunui-edit-sang-hon-e {
 
 
 .PAGE-OF-articlebr-phap-kham1998-TangThanXomThuong-MuaHe-cut .pagedjs_page_content {
-    height: calc(100% - var(--pagedjs-footnotes-height) - 75mm) !important;
+    height: calc(100% - var(--pagedjs-footnotes-height) - 120mm) !important;
 }
 figure#articlebr-phap-kham1998-TangThanXomThuong-MuaHe-cut {
     position: absolute;
-    bottom: -78mm;
+    bottom: -123mm;
     display: block;
     float: none;
-    width: 55%;
+    width: 85%;
+    left: 7%;
+    column-span: all;
+}
+
+html:lang(vi) .PAGE-OF-articlebr-phap-kham1998-TangThanXomThuong-MuaHe-cut .pagedjs_page_content {
+    height: calc(100% - var(--pagedjs-footnotes-height) - 70mm) !important;
+}
+html:lang(vi) figure#articlebr-phap-kham1998-TangThanXomThuong-MuaHe-cut {
+    position: absolute;
+    bottom: -73mm;
+    display: block;
+    float: none;
+    width: 50%;
     left: 25%;
     column-span: all;
 }
@@ -1677,6 +1720,7 @@ article blockquote span:lang(zh) {
     margin-top: 3pt;
 }
 
+.avoid-break-inside,
 .article-tributes-to-thay blockquote,
 .article-thank-you-thay blockquote,
 .article-loi-tri-an-tu-cong-dong-quoc-te blockquote
@@ -1767,4 +1811,8 @@ figure#articlesr-trang-tin-yeuMisty-day-e img {
 .article-sometimes cite {
     font-style: normal;
     padding-top: 8pt;
+}
+
+#poem-a-hand {
+    width: 92mm;
 }

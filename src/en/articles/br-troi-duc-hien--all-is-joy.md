@@ -77,5 +77,6 @@ A dance of wavicles (wave-particles), without goal and without form, just an elu
 
 I exit the meditation hall. The horizon quietly dons its morning blue, highlighted with a light orange hue. Despite the rain, the sun is about to pierce the thick layer of clouds. A rainbow, maybe? I smile…
 
-<p class="noIndent">Brother Kindness (Duc Hien)<br/>
-December 2021</p>
+<p class="signoff"><span class="signoff-lvl-1">Brother Kindness (Duc Hien)</span>
+<br/><span class="signoff-lvl-1"><small>December 2021</small></span>
+</p>

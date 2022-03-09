@@ -107,7 +107,7 @@ To touch serenity.</p></div>
 
 This poem was written as an offering to all my ancestors, spiritual and genetic when I received the lamp transmission to become a Dharma teacher in 2011. Thay’s teachings have helped me to heal the suffering that I carried from seeing the suffering and experiencing the loss of many members of my family.
 
-<div class="verse"><p>A hand that protects<br/>
+<div class="verse" id="poem-a-hand"><p>A hand that protects<br/>
 A hand that caresses<br/>
 A hand that loves<br/>
 A hand that guides us<br/>

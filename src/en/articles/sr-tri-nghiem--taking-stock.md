@@ -57,8 +57,6 @@ My heart sank. I missed the contact with our lay friends. Although I had helped 
 
 For the first time in my monastic life, I began to question my sense of purpose.
 
-{% image "article/sr-tri-nghiem/DSC_0130.JPG" %}
-
 ## The importance of a sense of purpose
 
 As for many others, the last two years of closures and lockdowns left their mark on me. Five months spent (unvaccinated) in a small house in Houston, Texas, added to my sense of disconnection and isolation. Occasional Zoom calls, online retreats and weekly online sessions alleviated some of my felt sense of isolation but did not fulfil my need for more human contact and face to face interaction. 
@@ -94,3 +92,7 @@ Recently I found myself talking about the trials and tribulations of monastic li
 The sangha is made of a collection of individuals, and just as no one individual is perfect, the sangha is also not perfect. We all have our blind spots, our areas of resistance, our unhealed traumas, oftentimes passed on to us by our ancestors and society, and the sangha is no different. Is practising in the sangha enough for one to be happy? Enough to transform our afflictions? Are conditions sufficient for us to grow and heal? To flourish?
 
 For myself, I have found that the practice of mindfulness as transmitted by our extraordinarily accomplished and compassionate teacher, embedded in an open, evolving, loving and supportive monastic community, was the way to achieve everything I was seeking in life. Till today, I still hold this to be true, and feel incredibly blessed. My gratitude overflows.
+
+<div class="article-end"></div>
+
+{% image "article/sr-tri-nghiem/DSC_0130.JPG" %}

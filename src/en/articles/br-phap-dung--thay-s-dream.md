@@ -1,5 +1,5 @@
 ﻿---
-title: Bells of Mindfulness
+title: Thay’s Dream
 author: Brother Chân Pháp Dung
 ---
 <!-- Jan.27th, 2021 -->
@@ -41,4 +41,6 @@ Thay has even expanded this practice of listening to the bell and applied it to 
 ## An invitation
 At this moment, I invite everyone to continue Thay’s legacy by maintaining this practice of listening to the sound of the bell in your own home, workplace, or wherever you may be. You may like to install a chiming clock in your living room or kitchen to remind you to stop. You may install a digital mindfulness bell on your laptop or smartphone and program it to sound periodically, to help you stop during your busy day. When you stop, close your eyes, recite the gatha, and come back to your “true home”, envisioning all of us breathing together throughout this land and around this planet, creating a collective energy of peace and kindness, and connecting us all in a moment of interbeing. This is not a practice of magic or romanticized imagination; it has a real potential to bring immediate benefit to ourselves, to those near, and to everyone that may randomly cross our mental field and may not even be in our awareness. No energy is ever lost. No ripples in the pond are without some effect, some retribution. No mental intention of kindness and acceptance will be lost. I invite everyone to help us maintain this collective field of good-will as opposed to ill-will, of heart force instead of aggression, no matter what or who confronts us, and together we can support one another on our path to build the beloved community, to bring change, and contribute to our collective awakening.
 
-<p class="noIndent">Sincerely, Brother Phap Dung</p>
+<p class="signoff"><span class="signoff-lvl-1">Sincerely,</span><br/>
+<span class="signoff-lvl-2">Brother Phap Dung</span>
+</p>

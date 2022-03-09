@@ -3,8 +3,8 @@ title: Thay’s Vision for Wake Up Schools
 author: Brother Chân Pháp Lưu & Orla O’Sullivan
 ---
 
-<p class="editors-preface">Orla is a member of the Order of Interbeing and the International Coordinator of Wake Up Schools. She has founded two sanghas in Dublin, one for adults and one for families and teaches how to build happier communities.<br/>
-Br. Phap Luu has been involved in WakeUp Schools since its inception in 2012.</p>
+<p class="editors-preface">Br. Phap Luu has been involved in WakeUp Schools since its inception in 2012.<br/>
+Orla is a member of the Order of Interbeing and the International Coordinator of Wake Up Schools. She has founded two sanghas in Dublin, one for adults and one for families and teaches how to build happier communities.</p>
 
 Thay, one of the first monks to include elements of Western science and philosophy in the monastic curriculum, has always been curious about *how* we learn and how we can *live together*.
 
@@ -12,11 +12,9 @@ Thay, one of the first monks to include elements of Western science and philosop
 
 In the ‘60s during the American War, Thay, along with Sister Chan Khong, created the School of Youth and Social Service to train young volunteer teachers to go into the countryside of Vietnam to work with the children of farmers, while their parents were out in the rice fields. These volunteers would go into the villages without any money and just play with the children at first. Eventually they would start teaching them simple lessons, and offer the children a cup of soy milk each for lunch. Over time they gained the trust of the villagers; eventually one of the villagers might even offer their house during the day as a schoolhouse. The trust grew as the people saw that the volunteers weren’t trying to impose any ideology on them, or convince them to be on one side of the war or the other. They were just coming to help. At that point, the people in the town would often pool their resources to build a simple school.
 
-This movement, begun during the wartime, continues today in Vietnam, with the Love and Understanding Humanitarian Relief Program. Sr. Chan Khong and her many helpers, along with the Thich Nhat Hanh Foundation, support teachers working in very remote areas of Vietnam where they don't yet have a school. Usually, after a few years, once the basic educational system is established, the government follows by coming in and building proper schools.
+This movement, begun during the wartime, continues today in Vietnam, with the Love and Understanding Humanitarian Relief Program. Sr. Chan Khong and her many helpers, along with the Thich Nhat Hanh Foundation, support teachers working in very remote areas of Vietnam where they don't yet have a school. Usually, after a few years, once the basic educational system is established, the government follows by coming in and building proper schools. So Thay has been training teachers since he was a young monk and Dharma teacher. This work makes up the deep roots of Wake Up Schools.
 
 {% image "article/br-phap-luu/PVM_4430-edited.jpg"  %}
-
-So Thay has been training teachers since he was a young monk and Dharma teacher. This work makes up the deep roots of Wake Up Schools.
 
 ## Coming to the West
 
@@ -48,7 +46,7 @@ If the first person doesn't know how to take care of themselves, then they canno
 
 The first pillar of Wake Up Schools is embodiment: we need to embody the practice as teachers. We begin by helping the teachers to touch freedom, joy and happiness in a retreat. When a teacher touches that freedom, and transforms themselves, their interest deepens. Quite naturally, they will want to share their experience with others. Their colleagues and family ask, “How is it that you seem so much lighter, that you look so much happier? What did you do?”
 
-{% image "article/br-phap-luu/Dharma School in UK 2016 - the sisters taught children PV songs-edited.jpg", "expandToRightBorder", "Dharma School in the UK, 2016" %}
+{% image "article/br-phap-luu/Dharma School in UK 2016 - the sisters taught children PV songs-edited.jpg", "", "Dharma School in the UK, 2016" %}
 
 This touches on the second pillar of Wake Up Schools: service. Service means that we're in this to change the world, not to just make a living for ourselves, to make a profit or a business out of mindfulness. The teaching is something that we offer freely, and that spirit infuses everything about Wake Up Schools. Our direction is to transform the whole school community. Starting with ourselves we expand our circle of influence to our family, our colleagues, our students and administration. By transforming the school we arrive at transformation at the level of society.
 
@@ -64,13 +62,13 @@ Recently the work of Wake Up Schools was featured in a new evidence-based guide 
 
 ## Blossoms of the WakeUp Schools network
 
-In January of 2019, Br. Phap Dung, Sr. Hiền Hạnh, Sr. Thanh Nghiêm, Br. Phap Luu, Sr. Thao Nghiem, Br. Bao Tang and Br. Pham Hanh brought Wake Up Schools to Uganda. Most of the 250 or so teachers were Catholic - they even held a Catholic mass every day during the retreat. This was a new environment for us because we're used to teaching in the more secular parts of the West. But there was really no obstacle. We went there to teach mindfulness, how to understand your mind: how do you get to know difficult emotions directly and understand what kind of nutriment gives rise to them. People there got that everyone needs this - it's a kind of teaching that every human being really needs to live happy and healthy lives. Now the teachers are bringing their experience of deep transformation back to their schools and sharing it as more compassionate teachers with their colleagues and students. This trip was filmed by Wouter Verhoeven of Evermind Media and is being made into a documentary.<a class="note" href="https://evermind.media/happy-teachers-change-africa/">evermind.media/happy-teachers-change-africa</a>
-
-During the pandemic, Wake Up Schools offered webinars to support healthcare workers in Vietnam, including a workshop hosted with the Center for Healthcare Improvement Research and the Oxford University Clinical Research Unit (OUCRU).
-
 {% image "article/br-phap-luu/Educators retreat in Uganda 2019.1 - Credit - Evermind Media.jpg", "noFloat" %}
 {% image "article/br-phap-luu/Educators retreat in Uganda 2019.2- Credit - Evermind Media.jpg", "noFloat" %}
 {% image "article/br-phap-luu/Educators retreat in Uganda 2019.4- Credit - Evermind Media-edited.jpg", "noFloat", "Br. Phap Luu leading an activity in Uganda<span class='note'>Photos kindly provided by Evermind Media</span>" %}
+
+In January of 2019, Br. Phap Dung, Sr. Hiền Hạnh, Sr. Thanh Nghiêm, Br. Phap Luu, Sr. Thao Nghiem, Br. Bao Tang and Br. Pham Hanh brought Wake Up Schools to Uganda. Most of the 250 or so teachers were Catholic - they even held a Catholic mass every day during the retreat. This was a new environment for us because we're used to teaching in the more secular parts of the West. But there was really no obstacle. We went there to teach mindfulness, how to understand your mind: how do you get to know difficult emotions directly and understand what kind of nutriment gives rise to them. People there got that everyone needs this - it's a kind of teaching that every human being really needs to live happy and healthy lives. Now the teachers are bringing their experience of deep transformation back to their schools and sharing it as more compassionate teachers with their colleagues and students. This trip was filmed by Wouter Verhoeven of Evermind Media and is being made into a documentary.<a class="note" href="https://evermind.media/happy-teachers-change-africa/">evermind.media/happy-teachers-change-africa</a>
+
+During the pandemic, Wake Up Schools offered webinars to support healthcare workers in Vietnam, including a workshop hosted with the Center for Healthcare Improvement Research and the Oxford University Clinical Research Unit (OUCRU).
 
 Staff from the Hospital of Tropical Disease (Bệnh viện Bệnh nhiệt đới Trung ương) in Hanoi and Chợ Rẫy Hospital in Ho Chi Minh City - two hospitals that have been at the front line in Vietnam’s effort to contain and to treat COVID-19 - participated. The webinar is now available for their healthcare staff of 30,000 people.
 

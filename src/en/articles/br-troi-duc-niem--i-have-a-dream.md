@@ -88,3 +88,7 @@ This is my hope and prayer:
 because they feel the urgency keenly and have the most determination, imagination and fierceness 
 to stand up for a green, just, and regenerative world.*  
 *Let the bells of awakening, freedom, and love ring in the hearts of every being so that the symphonic harmony, strength and beauty of the bells touch their hearts deeply and a collective global awakening will manifest widely and powerfully at last.*
+
+<div class="article-end"></div>
+
+{% image "article/mick-mcevoy/Happy-Farm-2.jpg" %}

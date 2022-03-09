@@ -95,11 +95,18 @@ async function generatePDF(url, outputFile, onFinished = () => {}) {
     const version = await page.browser().version();
     console.log(version)
     await page.setDefaultNavigationTimeout(0);
-    await page.goto(url, {waitUntil: 'networkidle2'});
+    // "load" does not work!
+    await page.goto(url, {waitUntil: 'networkidle0'});
     
     // works: [webp 3000 q50]
     // for very high quality webp [webp 4000 q50] I am getting: Protocol error (Page.printToPDF): Printing failed
     // this does not happen with jpeg. also, the output size is generally much smaller. therefore, for print, prefer jpeg!
+    // 187 pages
+    // [3000, q80] (media: 224 MiB)
+    // [4000, q80] -> out: 202MiB
+    // [4000, q95] -> out: 404MiB
+    // [6000, q97] -> out: 644MiB
+    // justCopy -> 738MiB
 
     let usePDFstream = true
     let pdfOptions = {
@@ -110,20 +117,26 @@ async function generatePDF(url, outputFile, onFinished = () => {}) {
         printBackground: true,
         path: outputFile
     }
-
-    if (usePDFstream) {
-        // https://github.com/puppeteer/puppeteer/blob/main/docs/api.md#pagecreatepdfstreamoptions
-        const pdfStream = await page.createPDFStream(pdfOptions);
-        const writeStream = fs.createWriteStream(outputFile);
-        pdfStream.pipe(writeStream);
-        pdfStream.on('end', async () => {
-            await browser.close();
-            // downsample(outputFile, 400, 1.5)
-            onFinished()
-        });
-    } else {
-        await page.pdf(pdfOptions);
-    }
+    
+    // wait for PagedJS to layout page
+    page.waitForTimeout(5000).then(async () => {
+        console.log('Waited 5000!')
+        if (usePDFstream) {
+            // https://github.com/puppeteer/puppeteer/blob/main/docs/api.md#pagecreatepdfstreamoptions
+            const pdfStream = await page.createPDFStream(pdfOptions);
+            const writeStream = fs.createWriteStream(outputFile);
+            pdfStream.pipe(writeStream);
+            pdfStream.on('end', async () => {
+                await browser.close();
+                downsample(outputFile, 400, 1.5)
+                downsample(outputFile, 350, 2.5)
+                downsample(outputFile, 300, 3.0)
+                onFinished()
+            });
+        } else {
+            await page.pdf(pdfOptions);
+        }
+    });
 }
 
 // execCMD("rm -rf ./builds/articles-print/*")
@@ -156,8 +169,11 @@ if (generateArticles) {
 // generatePDF("http://fee:8080/en/articles-print-preview/sr-dao-nghiem-poems/", `./builds/dao-nghiem-poems.pdf`)
 
 
-generatePDF("http://localhost:8080/en/a4/", `./builds/en-a4_${formatDate(new Date())}.pdf`)
-generatePDF("http://localhost:8080/vi/a4/", `./builds/vi-a4_${formatDate(new Date())}.pdf`)
+downsample("./builds/en-a4_final.pdf", 250, 2.5)
+downsample("./builds/en-a4_final.pdf", 200, 2.5)
+
+// generatePDF("http://localhost:8080/en/a4/", `./builds/en-a4_${formatDate(new Date())}.pdf`)
+// generatePDF("http://localhost:8080/vi/a4/", `./builds/vi-a4_${formatDate(new Date())}.pdf`)
 
 // generatePDF("http://localhost:8080/en/a4-bleed/", `./builds/en-a4-bleed_${formatDate(new Date())}.pdf`)
 // generatePDF("http://localhost:8080/vi/a4-bleed/", `./builds/vi-a4-bleed_${formatDate(new Date())}.pdf`)

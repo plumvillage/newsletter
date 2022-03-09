@@ -36,7 +36,7 @@ module.exports = [
 "sr-tri-nghiem--taking-stock",
 "sr-trang-tam-muoi--no-escape-retreat",
 /*------*/"Chapter5",
-"br-phap-dung--bells-of-mindfulness",
+"br-phap-dung--thay-s-dream",
 "br-phap-linh--two-leaves-at-the-tip-of-the-branch",
 "sr-tu-nghiem--poems",
 "br-troi-dai-dao--the-environment-what-can-we-do",

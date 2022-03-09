@@ -54,8 +54,4 @@ and transformed into a source<br/>
 of endless gratitude, love and awakening.</p>
 
 <p class="signoff"><span class="signoff-lvl-1">Thank you, Thay</span></p>
-<cite>Sister Tin Yêu</cite>
 </div>
-
-<!-- <p class="signoff"><span class="signoff-lvl-1"></span><br/>
-<span class="signoff-lvl-2"></span></p> -->

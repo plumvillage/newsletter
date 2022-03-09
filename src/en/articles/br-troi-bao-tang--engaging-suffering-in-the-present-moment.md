@@ -17,6 +17,8 @@ Since the Wake Up Retreat in 2016, I have been part of a Plum Village community 
 
 Today we have many “Rainbow Families” around the world, such as the Sangha Queer Paris and Marseille in France, Rainbow UK, Rainbow Ireland, Rainbow Sangha Indonesia, Chrysanthemum and Cosmic Body sanghas in the U.S., and International LGBTQIA+ Sangha. All of these communities are spaces for practicing mindfulness in the Plum Village tradition and a refuge for lay and monastic practitioners that identify as LGBTQIA+. Some monastic siblings and I have participated in many of these sanghas’ activities. It is very inspiring to see people of all ages with very diverse gender and sexual orientations come together to share the practice, enjoy each other’s transformation, and nourish each other whether in-person or online.
 
+{% image "article/br-troi-bao-tang/IMG-20211224-WA0014.jpg" %}
+
 Rainbow lay practitioners, Order of Interbeing members and monastics work hand in hand to build a spiritual family. Family is a safe space and a refuge. There are many allies who also come and help to build the community because they have been supporting their loved ones, their fathers, mothers, sons, daughters, cousins, friends...who might be suffering because they identify themselves as LGBTQIA+ and face discrimination.
 
 I have been able to participate in multiple LGBTQIA+ retreats in Plum Village, in EIAB, in Montagne du Dharma, and in online retreats. Every retreat or Dharma sharing always brings healing to people, lay or monastics. This is because everyone of us faces more or less the same difficulty in being ourselves and being happy. 
@@ -24,8 +26,6 @@ I have been able to participate in multiple LGBTQIA+ retreats in Plum Village, i
 ## Watering the seeds of awareness in the monastic community
 
 For me, continuous right diligence is necessary to water the seeds of understanding, compassion, and awareness, so that there is more understanding in our monastic community about LGBTQIA+ concerns. I really hope we shall continue to be a refuge for this family.
-
-{% image "article/br-troi-bao-tang/IMG-20211224-WA0014.jpg" %}
 
 During the 2021 Rains' Retreat, I was invited to offer a workshop on “Understanding LGBTQIA+” on a Monastic Day. It was a very joyful moment. More than 60 monastics came with their open hearts, with the aspiration to understand and find ways to support the LGBTQIA+ practitioners. I was touched by the presence and curiosity of my monastic siblings.
 

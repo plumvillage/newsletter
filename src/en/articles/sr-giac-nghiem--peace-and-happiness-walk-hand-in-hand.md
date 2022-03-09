@@ -41,10 +41,10 @@ From then on, all the mindfulness practices I applied while working in the hospi
 
 Every day we had some working meditation with the sangha. At that time, Thay printed his teachings and then placed the pages of the future book on a table. With mindfulness, we walked slowly around the table, collecting the sheets of paper one by one, following our breathing and our steps, before placing at the end of the table the united sheets awaiting to be turned into a book. Then we started again, with smiling faces, to give birth to the next book.
 
-> With one step I breathe in, I take a sheet of paper,
-> With one step I breathe out, I smile.  
-> With one step I breathe in, a book will be born,  
-> With one step I breathe out, I smile.
+<div class="verse"><p>With one step I breathe in, I take a sheet of paper,<br/>
+With one step I breathe out, I smile.<br/>
+With one step I breathe in, a book will be born,<br/>
+With one step I breathe out, I smile.</p></div>
 
 This is an amazing experience from my early practice. I really enjoyed working meditation with the community. Everyone participated, including Thay. One morning a young woman came up to me and asked me to cut some bread, “in mindfulness”, she added seriously. *I breathe in, here’s the bread, I breathe out (Heavens, how do you cut bread in mindfulness?), no breathe out…*
 
@@ -60,5 +60,7 @@ Brown heads, blond heads,<br/>
 turned towards the light,<br/>
 the Nectar of Dharma<br/>
 trickles down.</p></div>
+
+<div class="article-end"></div>
 
 {% image "article/sr-giac-nghiem/Su-me-Giac-Nghiem-2-edited.jpg", "", "Sr. Giac Nghiem (left), Sr. Trang Khuong Am (center), Sr. Dao Nghiem" %}

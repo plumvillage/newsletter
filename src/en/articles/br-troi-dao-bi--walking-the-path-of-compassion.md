@@ -46,13 +46,6 @@ During the Wake Up Ambassadors Retreat in 2018, we established the “European W
 Every month, we continue to deepen our connection and friendship. Usually we have online gatherings on Thursday or Sunday evenings, which are lazy evenings in Plum Village after the Days of Mindfulness. Sometimes I feel tired, but when I join the online gatherings, I feel as if I am coming home and spending time with the family in the living room, and asking, “How is everybody doing?” or “How was your day?” The lay members share their difficulties, both personal and in their Wake Up sanghas, and the monastic members also share our difficulties, so we create mutual support and siblinghood. We also have fun together - play online games, sing, and dance!
 
 In the chant *Praising the Buddha*, I very much like the line - *May the sangha practice diligently, showing love and concern for one and all. Just as for our very own family…* It moves me as it reflects my deep aspiration to practice in a way that shows love and concern for young people, the human family, and all beings. It’s a lot of fun to practice with young people and to show others that when we practice we don’t have to be too serious!
-<!-- Happy Wake Up Ambassadors Change The World -->
-
-<!-- Calligraphy by Thay Phap Huu -->
-
-<!-- The Wake Up Ambassadors enjoying PV TV -->
-
-<!-- Virtual hugging with Fearless Fluorite Family after the 5 Mindfulness Trainings Transmission Ceremony -->
 
 ## Thay and the Buddha have shown us the path
 
@@ -62,5 +55,6 @@ Reading this in *Old Path White Clouds* always gives me faith that we can be enl
 
 Thay has shown the path to me and many people. My deep aspiration is to continue to walk on this path and to help other people see this path. I know this is what would make Thay most happy.
 
+<div class="article-end"></div>
 
-<!-- Wake Up online Dharma Sharing family during an online retreat -->
+{% image "article/for-poems/DSC_5746.jpg" %}

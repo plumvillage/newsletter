@@ -29,6 +29,7 @@ async function imageSrcShortcode(src) {
 
 async function imageData(src) {
     // this will be slow! reloads will also be slow!
+    // with this on, pdf output stops halfway ... does not work
     let justCopy = false;
     // let dryRun = false;
     let srcFull = path.join(srcPath, src);
@@ -48,9 +49,12 @@ async function imageData(src) {
         formats: [imgFormat, "svg"], /* jpeg, png, webp, gif, tiff, avif */
         outputDir: outputDir,
         widths: [1500],
+        // widths: [6000],
         dryRun: justCopy,
         sharpOptions: {},
         // https://sharp.pixelplumbing.com/api-output#webp
+        // sharpWebpOptions: { quality: 97, },
+        // sharpJpegOptions: { quality: 97, },
         sharpWebpOptions: { quality: 60, },
         sharpJpegOptions: { quality: 60, },
         svgShortCircuit: true

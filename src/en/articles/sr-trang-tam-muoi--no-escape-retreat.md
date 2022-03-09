@@ -15,7 +15,7 @@ A carer had shared with me how the family can take care of the body in a respect
 
 To sit with his body was a wonderful experience. In England the old traditions have been lost and most people want death to leave the house immediately. The close family visited and we were able to sit around Dad and recall our happy memories to honour his life. Mum also had quiet time to say her goodbyes, so essential because they had been married for almost 70 years. When she finally decided that she was definitely going to attend the funeral, on leaving the house in a wheelchair, she was moved to see the whole street gathered to greet and applaud her. 
 
-{% image "article/sr-trang-tam-muoi/Togetherness.JPG", "", "Sr. Tam Muoi with her 99-year-old Mum, Peggy" %}
+{% image "article/sr-trang-tam-muoi/Togetherness-edited.JPG", "", "Sr. Tam Muoi with her 99-year-old Mum, Peggy" %}
 
 Later when the ceremonies were completed, I had to decide when to return to Plum Village. I felt deeply conflicted because on the one hand how could I leave my Mum to mourn alone, even if she had a wonderful live-in carer to take care of her personal needs? On the other hand, as any of her carers could tell you, Mum is not an easy woman and the idea of staying with her for an extended period was, frankly, scary. 
 
