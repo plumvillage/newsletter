@@ -1,5 +1,5 @@
 ﻿---
-title: Lời Mùa Thu Nhắn Gởi
+title: Lời mùa thu nhắn gởi
 author: Sư cô Chân Huệ Tri
 ---
 
