@@ -1,8 +1,7 @@
 ﻿---
-title: Lịch sinh hoạt năm 2022
+title: Lịch sinh hoạt năm 2022 của tăng thân Làng Mai
 ---
 
-**của tăng thân Làng Mai** 
 
 ***Tại Làng Mai, Pháp***
 
@@ -12,7 +11,7 @@ title: Lịch sinh hoạt năm 2022
 
 03.05 – 17.05		Khóa tu mùa Xuân
 
-*Xin vào trang nhà của Tu viện để xem chi tiết: www.langmai.org hoặc www. plumvillage.org*
+*Xin vào trang nhà của Tu viện để xem chi tiết: www.langmai.org hoặc www.plumvillage.org*
 
 
 ***Tại tu viện Suối Tuệ và Hơi Thở Nhẹ - Paris***
