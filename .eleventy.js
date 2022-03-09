@@ -31,9 +31,9 @@ async function imageData(src) {
     // this will be slow! reloads will also be slow!
     // with this on, pdf output stops halfway ... does not work
     let justCopy = false;
-    // let dryRun = false;
+    let dryRun = false;
     let srcFull = path.join(srcPath, src);
-    let destPath = "/media";
+    let destPath = "/media/build";
     let data = { filename: path.basename(src) };
     let parsed = path.parse(src);
     
@@ -50,7 +50,7 @@ async function imageData(src) {
         outputDir: outputDir,
         widths: [1500],
         // widths: [6000],
-        dryRun: justCopy,
+        dryRun: dryRun,
         sharpOptions: {},
         // https://sharp.pixelplumbing.com/api-output#webp
         // sharpWebpOptions: { quality: 97, },
@@ -58,29 +58,23 @@ async function imageData(src) {
         sharpWebpOptions: { quality: 60, },
         sharpJpegOptions: { quality: 60, },
         svgShortCircuit: true
-        // disk cache works only when using the built-in hashing algorithm and not custom filenames
-        // filenameFormat: function (id, src, width, format, options) {
-        //     const extension = path.extname(src);
-        //     const name = path.basename(src, extension);
-        //     return `${name}-${width}w.${format}`;
-        // }
     }
 
     try {
         // Image.statsSync doesn’t generate any files, but will tell you where the asynchronously generated files will end up!
         // let metadata = await Image(srcFull, options);
-        let metadata = justCopy
-            ? Image.statsSync(srcFull, options)
-            : await Image(srcFull, options);
-        
-        if(metadata.svg.length) {
-            data = metadata.svg[metadata.svg.length - 1];
-        } else {
-            data = metadata[imgFormat][metadata[imgFormat].length - 1];
+        // Image.statsSync(srcFull, options)
+
+        if (!justCopy) {
+            let metadata = await Image(srcFull, options);
+
+            if(metadata.svg.length) {
+                data = metadata.svg[metadata.svg.length - 1];
+            } else {
+                data = metadata[imgFormat][metadata[imgFormat].length - 1];
+            }
         }
 
-        destPath = path.join(destPath, "build");
-        
         console.log("processing:", data.filename)
 
         let result = {
