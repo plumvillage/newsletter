@@ -1,6 +1,6 @@
 ﻿---
 title: Đâu đâu cũng dấu hài
-author: Chân Trời Nội Tâm
+author: Thầy Chân Trời Nội Tâm
 ---
 
 Xuân Phong ơi, chuyến về Làng lần này, em có cảm giác như một đứa con cần tìm về hơi ấm của gia đình. Nó đến một cách tự nhiên, nhưng dứt khoát. Phải về Làng. Có lẽ Xuân Phong cũng thế, Xuân Phong được may mắn hơn em là được về bên Thầy, được hầu Thầy trong những ngày Thầy còn đang biểu hiện. Pháp thân Thầy thì bất diệt bất sinh, nhưng em có cảm tưởng mình vẫn muốn được gần Thầy bằng xương bằng thịt.
