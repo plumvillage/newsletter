@@ -59,8 +59,6 @@ Trang nhà: www.healingspringmonastery.org
 
 ***Viện Phật học Ứng dụng châu Âu***
 
-
-
 (European Institute of Applied Buddhism - EIAB) 
 
 Schaumburgweg 3, D-51545 Waldbröl, Germany 
@@ -74,11 +72,7 @@ Trang nhà: www.eiab.eu
 
 **Liên lạc với Làng Mai ở Mỹ**
 
-
-
 ***Tu viện Bích Nham***
-
-
 
 (Blue Cliff Monastery)
 
@@ -92,11 +86,7 @@ Email: office@bluecliffmonastery.org
 
 Trang nhà: www.bluecliffmonastery.org
 
-
-
 ***Tu viện Lộc Uyển***
-
-
 
 (Deer Park Monastery)
 
@@ -110,8 +100,6 @@ Email: deerpark@dpmail.net
 
 Trang nhà: www.deerparkmonastery.org
 
-
-
 ***Tu viện Mộc Lan***
 
 (Magnolia Grove Meditation Practice Center) 
@@ -123,8 +111,6 @@ Tel: +(1) (662) 563-0956
 Email: office@magnoliagrovemonastery.org 
 
 Trang nhà: www.magnoliagrovemonastery.org 
-
-
 
 **Liên lạc với Làng Mai ở châu Á:** 
 
@@ -152,11 +138,7 @@ Email: dieutram.dtc@plumvillage.org
 
 (Asian Institute of Applied Buddhism - AIAB) 
 
-
-
 ***Chùa Trúc Lâm***
-
-
 
 (Chu Lam Ching Yun) (Quý thầy) 
 
@@ -164,11 +146,7 @@ House No 41 Ngong Ping Village, Lantau Island, Hong Kong
 
 Tel: +(852) 2985-5033
 
-
-
 ***Chùa Liên Trì***
-
-
 
 (Lotus Pond Temple) (Quý sư cô)
 
@@ -183,12 +161,7 @@ Email: aiab@pvfhk.org
 Trang nhà: www.pvfhk.org
 
 
-
-
-
 **Tại Thái Lan:**
-
-
 
 (Thai Plum Village International Practice Center) 
 
@@ -198,19 +171,11 @@ Tambon Phongtalong, PakChong,
 
 Nakhon Ratchasima 30130 Thailand
 
-
-
 ***Xóm Trời Quang (Clear Sky Hamlet)***
-
-
 
 Email: clearsky.office@plumvillageasia.org
 
-
-
 ***Xóm Trăng Tỏ (Bright Moon Hamlet)***
-
-
 
 Email: brightmoon.office@plumvillageasia.org 
 
@@ -218,11 +183,7 @@ Email văn phòng: <visitus@thaiplumvillage.org>
 
 Tel: (+66) 943830443
 
-
-
 ***Liên lạc với Làng Mai ở châu Úc:***
-
-
 
 ***Tu viện Sơn Tuyền***
 
@@ -238,11 +199,7 @@ Tel: 0450 945 201
 
 Trang nhà: [mountainspringmonastery.org](http://mountainspringmonastery.org/)
 
-
-
 ***Tu viện Nhập Lưu***
-
-
 
 530 Porcupine Ridge Road
 
