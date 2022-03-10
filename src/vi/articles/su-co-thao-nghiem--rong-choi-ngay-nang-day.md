@@ -13,6 +13,8 @@ Xa Làng, chị thường nhớ và thường mơ về những lối mòn mình 
 
 Những con đường thiền hành của ba xóm ở Làng sao đẹp quá! Không biết bao nhiêu lần bước đi trên những con đường đó mà sao lần nào chị cũng thấy đẹp. Con đường quanh hồ sen hình trăng khuyết hay con đường nằm giữa những hàng mận hướng lên ngọn đồi của xóm Mới. Con đường xuyên qua *Thánh đường* Bạch Dương, dẫn vào cánh rừng nơi có hồ nước của xóm Hạ. Con đường đi xuống dốc, qua rừng sồi xuống đồi Bụt của xóm Thượng, và không thể không kể tới con đường thông huyền thoại mà Thầy thường nhắc đến. Còn nhiều con đường nữa, đẹp lắm! Đẹp trong khi mình dạo chơi một mình ở xóm, càng đẹp hơn khi chị em mình cùng được thiền hành với tăng thân. Hình ảnh đại chúng lặng lẽ, bình yên đi với nhau thật sống động, thân thương. Những ngày sắp rời Làng, mỗi lần thiền hành trên những nẻo đường ấy, chị đều có ý thức rất rõ. Chị đi cẩn trọng, gởi lòng biết ơn của mình đến con đường. Đôi lúc chị chạm vào một gốc mận hay một gốc thông để cảm nhận cũng như gửi một lời chào. 
 
+{% image "article/sr-thao-nghiem/CCI0224201600039.jpg" %}
+
 Rồi trên chặng đường tiếp theo, sẽ có những lối mòn thân thương mới, nơi ta có những trải nghiệm mới, nơi sẽ mãi ở lại trong lòng ta.
 
 ## Phật đường
@@ -31,8 +33,6 @@ Ngày xóm Mới bị lụt, nước tràn vào cả Phật đường làm ướ
 
 Chị thích nhất là hình ảnh mọi người thực tập ở Phật đường. Lâu lâu có công việc, không đi công phu với đại chúng được, khi đi ngang qua nhìn vào thấy đại chúng đang ngồi tụng kinh trong đó, đẹp và hùng hậu quá, ai mà không được đánh động. Sáng sớm và sau giờ ngồi thiền tối, các sư chị, sư em thường vào Phật đường để thực tập cá nhân. Hình ảnh đó đẹp lắm! Đôi khi chị không phải là người đang ngồi đó tâm tình với Bụt, lạy xuống tiếp xúc với đất Mẹ hay kinh hành thong thả, nhưng đứng nhìn thôi chị cũng được hưởng lây năng lượng của sự bình an. Tự nhiên lòng chị cũng có sự buông bỏ và hạnh phúc. 
 
-{% image "article/sr-thao-nghiem/CCI0224201600039.jpg" %}
-
 ## Sơn Cốc
 
 Nhà của Thầy. Tự nhiên thôi, Sơn Cốc trở nên thiêng liêng. Đó là nơi dành riêng cho chúng xuất sĩ và khi đến đấy, lúc nào mình cũng cảm thấy ấm cúng.
@@ -43,9 +43,7 @@ Sau đó vài năm đại chúng đông hơn nên phải chuyển xuống ngồi
 
 Những bài pháp thoại ngày xuất sĩ thường rất gần gũi và thực tế với những gì đang diễn ra trong chúng. Ai cũng ngồi nghe chăm chú và có cảm giác là Thầy đang dạy riêng cho mình. Có những vấn đề trong chúng được nêu lên để Thầy chia sẻ tuệ giác của Thầy trong cách giải quyết các vấn đề đó. Mọi người thường hỏi nhau: làm sao mà Thầy biết vậy?
 
-Sơn Cốc nhỏ nhưng cũng đủ chỗ cho Thầy dẫn đại chúng thiền hành một vòng quanh vườn, đi men theo suối Phương Khê đến hàng bạch dương và vòng về hướng có ba cây thông.
-
-Những ngày này Thầy trò thường ngồi quanh bếp lửa ngoài trời, quý thầy lúc nào cũng mang theo đàn và hát những bài thiền ca. Thầy thích ngồi chơi nghe các sư con hát, nhìn cảnh các sư con chơi với nhau rộn rã tiếng cười. Các chị em nhỏ tụi mình hồi đó ít ngồi chơi ở bếp lửa mà núp lui núp tới gần bụi tre, thưởng thức mấy món bữa lỡ, hoặc chạy nhảy chơi trò chơi. 
+Sơn Cốc nhỏ nhưng cũng đủ chỗ cho Thầy dẫn đại chúng thiền hành một vòng quanh vườn, đi men theo suối Phương Khê đến hàng bạch dương và vòng về hướng có ba cây thông. Những ngày này Thầy trò thường ngồi quanh bếp lửa ngoài trời, quý thầy lúc nào cũng mang theo đàn và hát những bài thiền ca. Thầy thích ngồi chơi nghe các sư con hát, nhìn cảnh các sư con chơi với nhau rộn rã tiếng cười. Các chị em nhỏ tụi mình hồi đó ít ngồi chơi ở bếp lửa mà núp lui núp tới gần bụi tre, thưởng thức mấy món bữa lỡ, hoặc chạy nhảy chơi trò chơi.
 
 Giờ cơm trưa là vui nhất. Hàng khất thực dài thật dài vì chỉ có hai bàn thôi, đại chúng nếu ai không có công việc gì thì đều tranh thủ đứng xếp hàng trước. Tới đúng giờ ăn là mọi người đều hàng lối ngay ngắn, không thể rời hàng vì sẽ mất chỗ ngay. Nếu đội nấu ăn đem cơm tới, nhờ người đi thỉnh chuông thì ai cũng nhường nhau, không ai chịu đi mới khổ chứ! Bao nhiêu là câu chuyện vui xoay quanh bàn khất thực ở Sơn Cốc. Có những ngày mưa không có đủ chỗ ngồi ăn, đại chúng khất thực và ngồi ăn trong nhà thì ôi thôi là chật chội. Vậy mà ai cũng hạnh phúc và hứng thú với những ngày xuất sĩ mới hay chứ.
 
@@ -77,12 +75,14 @@ Rồi ngày đại chúng tập trung cũng tới. Ai cũng hào hứng. Từ tr
 
 Chị cứ nhớ các thị giả nổ bắp ở trong phòng nghỉ phía sau, chỗ nhìn ra ba cây thông của Thầy (Thầy thường gọi đó là ba sư anh của các con). Đại chúng thì tập trung tụng bài *Tâm kinh tuệ giác qua bờ*, nghe hùng và hay lắm. Rồi thầy Pháp Áo đẩy xe chở Thầy ra ngồi ngắm đại chúng tụng kinh. Nhìn từ trong ra có thể thấy một số quý thầy, quý sư cô không tụng kinh được, chỉ đứng nhìn, một số đứng núp đằng sau… khóc.
 
-{% image "article/sr-thao-nghiem/IMG_6614-edited.jpg" %}
 
 Sau khi giới thiệu, Thầy ra dấu gọi đem xe popcorn tới và nổ cho đại chúng xem. Mọi người cùng được ăn popcorn. Đó là quà của Thầy và công thực hiện của ban thị giả. Thầy rất hạnh phúc được thấy đại chúng và đại chúng cũng hạnh phúc, cảm động được thấy Thầy. Popcorn ngon hay không ngon không quan trọng mà cái quý là ai cũng nhận được tình Thầy. Sau này cái máy được chuyển về xóm Mới, lâu lâu chị em lại mang ra nổ bắp chung ăn cho vui và ai cũng nhớ lại kỉ niệm ngày ấy.
 
-Chuyện cũ thì kể bao giờ mà hết được em ha! Bây giờ chắc chắn Làng đã và đang thay đổi nhiều rồi. Khi chị rời xóm Mới, mấy khu nhà đang được sửa chữa, khi nào có dịp về lại chắc chị sẽ nhận không ra đó chứ. Nói vậy thôi, có thay đổi bao nhiêu đi nữa thì Làng vẫn nằm ở miền quê xinh đẹp đó, nơi yên bình, tách xa sự nhộn nhịp, vẫn với sự đơn giản trong không khí sinh hoạt đầm ấm, vui tươi. 
+Chuyện cũ thì kể bao giờ mà hết được em ha! Bây giờ chắc chắn Làng đã và đang thay đổi nhiều rồi. Khi chị rời xóm Mới, mấy khu nhà đang được sửa chữa, khi nào có dịp về lại chắc chị sẽ nhận không ra đó chứ. Nói vậy thôi, có thay đổi bao nhiêu đi nữa thì Làng vẫn nằm ở miền quê xinh đẹp đó, nơi yên bình, tách xa sự nhộn nhịp, vẫn với sự đơn giản trong không khí sinh hoạt đầm ấm, vui tươi.
+
+{% image "article/sr-thao-nghiem/IMG_6614-edited.jpg" %}
 
 Những ngày ở chùa Tổ, chị và các anh chị em thị giả thường kể chuyện cho nhau nghe bao nhiêu chuyện của Thầy, của Làng, của các trung tâm. Cốc Thầy yên bình mà cũng đầy ắp tiếng nói, tiếng cười. Chị em mình còn có Thầy, được về trong lòng tăng thân, có những tháng ngày để rong chơi. Mình còn trông chờ gì hơn? Chúc sư em tận hưởng những ngày vui, cười với những khó khăn đang có và là sự tiếp nối đẹp của Thầy, của Làng. Chị cũng chỉ làm chừng đó thôi.
 
 <p class="noIndent">Thương nhiều.</p>
+
