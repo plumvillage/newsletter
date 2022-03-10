@@ -59,4 +59,4 @@ Thấm nhuận trần gian</p></div>
 
 <div class="article-end"></div>
 
-{% image "article/sr-giac-nghiem/Su-me-Giac-Nghiem-2-edited.jpg" %}
+{% image "article/sr-giac-nghiem/Su-me-Giac-Nghiem-2-edited.jpg", "", "Sc. Giác Nghiêm, Sc. Trăng Khương Âm và Sc. Đào Nghiêm" %}

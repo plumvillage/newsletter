@@ -14,11 +14,12 @@ We asked our beloved elders to share some of their memories of the early days of
 
 My parents were both children of immigrants, so they had the experience of speaking their parents’ native language and learning English later on, so maybe they transmitted to me a sense of feeling comfortable with other cultures. I was used to this double culture. The adjustments were not so difficult, and the Vietnamese culture I found was gentle and very respectful. I remember how Thay greeted the father of Br. Phap Ung. Thay stood up from the table, and when (Br. Phap Ung’s) father came into the room, Thay went up to him, (as he was older than Thay in age), and greeted him in the appropriate way. I was just so touched by Thay continuing to keep the value of addressing the parents of his disciples in a respectful way.
 
+{% image "article/sr-tu-nghiem-and-sr-dieu-nghiem/24-edited.jpg" %}
+{% image "article/sr-tu-nghiem-and-sr-dieu-nghiem/1-edited.jpg" %}
+
 Thay always loved to hear Vietnamese songs, so after a Dharma talk or before walking meditation he’d invite one of the brothers or sisters to come up and sing. Another time for singing together was after our meals. There were just two long tables where the whole sangha sat. Thay was at the head, Sr. Chan Khong next to him, and then the attendants. We ate our meal mindfully in silence, and then after the meal, it was time for singing and the plates were left on the table. It was really relaxed. Thay really encouraged music and singing as part of our monastic life.
 
 As I look at the name  Plum Village, I see it was truly a village. When I had the opportunity to go to Vietnam, I recognized that this is what a village is. Thay brought this way of living, the feeling of family, this spirit, to Plum Village. We called each other Su Chi (older sister) and Su Em (younger sister/brother) and Su Ong (father). 
-
-{% image "article/sr-tu-nghiem-and-sr-dieu-nghiem/24-edited.jpg" %}
 
 ***Sr. Jina*:** When I just arrived in Plum Village, everything seemed to be more or less organised. When there was working meditation there was a gathering and they said, “Oh the toilets need to be cleaned, who wants to clean the toilets? Yes, I’ll clean the toilets! The meditation hall needs to be set up…Yes!” Everybody just volunteered to do the work. I didn’t mind that it was not organised in every detail, I thought it was very nice to have this organic kind of feeling. 
 
@@ -34,21 +35,19 @@ I was accepted, and for me that was enough. In the year 2001, I was able to be T
 
 ***Sr. Jina*:** I was very impressed by the calmness that Thay radiated. He was not in any way affected by whatever was happening around him. In the 21 Day Retreat it was all very organised and the Summer Retreat was very organic and Thay moved so naturally through both. I thought, this is very beautiful to see, in the midst of a very lively group of people, there was Thay, so naturally moving around, happy. So my first impression was of his stability and clarity.
 
-{% image "article/sr-tu-nghiem-and-sr-dieu-nghiem/1-edited.jpg" %}
-
 ## Dharma talks
 
 ***Sr. Tu Nghiem*:** What is now the Lower Hamlet dining room was very small back then. Thay would come in and give the Dharma talk. In the back of this room there was a ceramic divider, not completely to the ceiling but halfway, like a little wall, and then ceramic tiles. Behind this were stove burners to cook! So towards the end of Thay’s Dharma talk we would *sniff, sniff,* smell that the sisters had started to cook. What was so beautiful about Thay in those days and our simple lives was that it was natural. 
 
 We already had the chiming clock in the dining hall. It would chime every fifteen minutes. Thay would stop, we’d all breathe, and it was very peaceful. Then Thay would continue with the Dharma talk. In those days it was Br. Nguyen Hai who was the cameraman. It’s amazing how they’ve preserved these early teachings. In those days Thay used a cassette recorder, and they’d have to stop and put in a new cassette and continue. 
 
-{% image "article/sr-tu-nghiem-and-sr-dieu-nghiem/SrDieuNghiem-edit.jpg", "", "From left: Srs. Lien Chieu, Khuong Y, Dieu Nghiem, Trien N." %}
-
 ***Sr. Jina*:** Thay’s teachings were very clear. With certain teachings that one can say in a particular way, Thay just said, “This is it.” We listened to Thay, we tried to understand and even if we didn’t understand, it was just being in Thay’s presence. That was enough and I had already been so nourished by the 21 Day Retreat (after my arrival) I thought, I have at least three years material (to practice with).
 
 (When the talks were in Vietnamese), Sr. Chan Khong used to translate and I enjoyed listening to Sr. Chan Khong very much because you also get side information, then you have a better context! It was very alive, I really enjoyed that. 
 
 In the 21 Day Retreat and the Summer Retreat, Thay was addressing a lot of issues that were happening in the sangha, like in the lay sangha, family issues, and also from the questions of the retreatants. During my first Winter Retreat, I thought, oh now we really hear the scholar speaking, and that’s also what I was looking for. In the winter it was really study time. 
+
+{% image "article/sr-tu-nghiem-and-sr-dieu-nghiem/SrDieuNghiem-edit.jpg", "", "From left: Srs. Lien Chieu, Khuong Y, Dieu Nghiem, Trien N." %}
 
 ## Care packages for Vietnam
 
@@ -59,6 +58,8 @@ In the 21 Day Retreat and the Summer Retreat, Thay was addressing a lot of issue
 ***Sr. Tu Nghiem*:** At Christmas we would go to the Hermitage and gather in Thay’s library. There was a little Christmas tree on Thay’s table, and underneath there were a couple of packages. When Thay received Christmas presents, he would open them very mindfully, and if it was a box of cookies or dried fruit, Thay would always share it with us. This was his practice, that he shared with the sangha. That really moved me, how he wanted to have all his children enjoy his gift. 
 
 Sometimes we were allowed to bring food to Thay on a tray. And once I remember Thay was cooking scrambled tofu for us. You know, it was so wonderful to see Thay cooking. He had on his winter sweater, a thick woolen sweater from Denmark, and he would be there at the stove cooking for all of us. It was so wonderful, so very caring for his disciples. I sat there in silence because I never knew what to say. At the table, Thay would share his food, and the plates were so small, just two, three pieces of tofu. He would take one and then share it with everyone. I thought, how can he survive, taking such little food?
+
+{% image "article/sr-tu-nghiem-and-sr-dieu-nghiem/SrTuNghiem1-edited.jpg", "", "Sr. Tu Nghiem - center right" %}
 
 ## Evolution of the basic Plum Village practices - Tea meditation
 
@@ -77,8 +78,6 @@ Now we have also become a training center for monastics. We’ve become the Inst
 ***Sr. Jina*:** Thay was always reinventing, renewing. Are we also renewing? Is there any practice that we think could be renewed? There may be some kind of practices that have lost their shine a little bit.
 
 Thay was always practicing walking meditation, from the very beginning, even before there was a sangha. (I remember one day) I was attending Thay, in the sense that if Thay needed anything I would do it, Thay didn’t have an attendant as such. I would walk behind Thay from the meditation hall in the Upper Hamlet to Thay’s hut to see if Thay needed anything, and Thay said something to me as we were walking and I just kept quiet. It was not a question but I didn’t give a counter remark or start a conversation or continue the conversation because I was walking and I thought well, we’re walking, why should I say something? And Thay stopped and said, “Do you want to stop while we’re talking?”, “Yes, Thay.” So we walked and then we talked in the hut, and from then on when you walked, you walked, when you wanted to talk, you stopped. That was a new practice that came in.
-
-{% image "article/sr-tu-nghiem-and-sr-dieu-nghiem/SrTuNghiem1-edited.jpg", "", "Sr. Tu Nghiem - center right" %}
 
 ## Keeping the essence of Plum Village
 

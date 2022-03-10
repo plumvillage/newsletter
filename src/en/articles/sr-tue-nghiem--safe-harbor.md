@@ -23,7 +23,7 @@ One element that helped me greatly was nature, Mother Earth. Apart from mealtime
 
 Plum Village was still very poor then. The houses were simple and shabby. I slept in a building that was used for drying tobacco in the past. The building had red brick walls and a cement floor. Our beds were just a plank of wood on four bricks. If you wanted to use the toilet in the middle of a cold night, you had to go outside. There was no hot water in the bathroom. A hot shower was deemed a miracle and a great happiness! Can you imagine that the one thing I always cherished and was grateful for was the central heating in this building. There were other houses that only had a small wood-fired stove in the room for heating. When the firewood ran out in the night, those rooms were as cold as the outdoors. 
 
-{% image "article/sr-tue-nghiem/20211210036-crop.jpg", "", "From left: Sr. Dinh Nghiem, Sr. Tue Nghiem, Sr. Thieu Nghiem" %}
+{% image "article/sr-tue-nghiem/20211210036-crop.jpg", "", "From left: Sr. Dinh Nghiem, Sr. Tue Nghiem, Sr. Giai Nghiem" %}
 
 Although there were only a dozen or so brothers and sisters, the atmosphere was warm and cozy, like a family. We sang before walking meditation and after the meals, we often gathered to drink a fragrant cup of tea, to sing, recite poetry, laugh and share stories. Whatever the sangha activity was, everyone was present. Despite being poor, Plum Village was rich with love, brotherhood and sisterhood and friendship. My heart continued to open. I treasured each day, treasured the opportunity to go back to a simple, wholesome life where we had the time to renew ourselves. This way of life made me feel fulfilled, as if I was realizing a long awaited dream. 
 

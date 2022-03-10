@@ -29,7 +29,7 @@ Nhà Tùng Bút có gác xép. Trên đó đặt rất nhiều xô chậu để 
 
 Khi tôi tới xóm Hạ lần đầu, ở đó còn một cái lò làm bánh mì bằng gạch theo lối truyền thống, nằm trong một cái nhà nhỏ bằng đá phía sau cư xá Mây Tím. Nó đã được một vị Tiếp Hiện người Hà Lan là anh Chân Niệm (Robert Naeff) sửa lại vào năm 1985, anh có kinh nghiệm làm những lò bánh mì kiểu này. Vậy là chúng tôi có thể làm bánh mì. Cách làm là bạn đốt củi trong lò và khi củi trở thành than thì bạn lấy ra bỏ vào xô. Khi làm vậy bạn phải hết sức cẩn thận vì nếu than rơi xuống đám cỏ khô ở xung quanh sẽ gây hỏa hoạn. Sau đó, bạn đặt những chiếc bánh mì chưa nướng vào lò nóng. Chúng tôi phải thử vài lần để đừng làm cháy bánh. Cuối cùng thì chúng tôi đã thành công và làm ra bánh mì ăn cũng được.
 
-{% image "article/sr-chan-duc/Sr-Chan-Duc-the-bread-oven-edited.jpg" %}
+{% image "article/sr-chan-duc/Sr-Chan-Duc-the-bread-oven-edited.jpg", "", "Ông Mounet (thứ 4 từ bên phải) và ông Robert Naeff (thứ 3 từ bên phải) cùng những người bạn trước lò bánh mỳ cũ" %}
 
 Chúng tôi có một người hàng xóm tuyệt vời là ông Mounet. Ông sống trong ngôi nhà mà bây giờ đã trở thành cư xá Anh Đào (Cherry House). Ông Mounet làm bánh táo và mang ra chợ bán. Ông xây một cái lò chạy bằng gas. Khi bánh táo làm xong thì lò vẫn còn đủ nóng để nướng bánh mì nên ông nói tôi có thể mang bánh mì tới nướng trong lò của ông, như vậy sẽ đơn giản hơn nhiều.
 

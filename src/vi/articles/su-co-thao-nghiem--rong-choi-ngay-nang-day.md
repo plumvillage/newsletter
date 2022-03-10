@@ -7,8 +7,6 @@ Sư em thương,
 
 Chị xa Làng đã hai năm rồi, mau quá! Bao nhiêu chuyện đã xảy ra cho cả thế giới và cả đại chúng, cho chị và cho em. Đôi khi trong những giấc mơ hoặc khi ngồi kể chuyện cho nhau nghe, bao nhiêu kỉ niệm trong chị lại trở về. Chị em mình mà, rất dễ bị cuốn đi bởi những câu chuyện. Chuyện này nối tiếp chuyện kia thành những giai thoại trong đó có Thầy, có huynh đệ và có những ngày vui.
 
-{% image "article/sr-thao-nghiem/CCI0224201600039.jpg" %}
-
 ## Những con đường thiền hành
 
 Xa Làng, chị thường nhớ và thường mơ về những lối mòn mình đã đi. Đi quá nhiều lần và dần dần nó trở thành những lối mòn cả trong tâm thức. Những lối nào chị đi với ý thức sâu sắc thì nó “mòn” hơn, ăn sâu hơn và khi nghĩ về chị có cảm giác thân thương hơn. Đó là những con đường mình thường đi qua trong ngày, nhất là những con đường thiền hành.
@@ -31,9 +29,9 @@ Hồi trước, có một bộ xương người bằng plastic được đặt �
 
 Ngày xóm Mới bị lụt, nước tràn vào cả Phật đường làm ướt tấm thảm, không thể cứu chữa được nên mình phải buông bỏ. Gắn bó biết bao nhiêu năm trời nên ai cũng tiếc và nhớ tấm thảm tím đó. May sao mình đã tìm được tấm thảm nhựa màu tím khác để lót sàn nhà nên màu đặc trưng của Phật đường vẫn được giữ lại.
 
-{% image "article/sr-thao-nghiem/IMG_6614-edited.jpg" %}
-
 Chị thích nhất là hình ảnh mọi người thực tập ở Phật đường. Lâu lâu có công việc, không đi công phu với đại chúng được, khi đi ngang qua nhìn vào thấy đại chúng đang ngồi tụng kinh trong đó, đẹp và hùng hậu quá, ai mà không được đánh động. Sáng sớm và sau giờ ngồi thiền tối, các sư chị, sư em thường vào Phật đường để thực tập cá nhân. Hình ảnh đó đẹp lắm! Đôi khi chị không phải là người đang ngồi đó tâm tình với Bụt, lạy xuống tiếp xúc với đất Mẹ hay kinh hành thong thả, nhưng đứng nhìn thôi chị cũng được hưởng lây năng lượng của sự bình an. Tự nhiên lòng chị cũng có sự buông bỏ và hạnh phúc. 
+
+{% image "article/sr-thao-nghiem/CCI0224201600039.jpg" %}
 
 ## Sơn Cốc
 
@@ -59,6 +57,8 @@ Dãy nhà đó đã có mặt từ khi Thầy có Sơn Cốc. Trong bức hình 
 
 Công trình chưa hoàn tất thì Thầy đi Thái rồi về Việt Nam. Thầy là người khởi xướng còn việc thi công và hoàn tất là của các sư con. Cuối cùng thiền đường mới cũng được “khánh thành”, nhìn rất đơn sơ mà ấm cúng. Ở Từ Hiếu, ban thị giả nhận được những hình ảnh sinh hoạt của đại chúng trong thiền đường mới và đã chiếu lên cho Thầy xem. Bây giờ chị mới hiểu tại sao Thầy muốn làm công trình đó. Còn gì hơn là để cho các sư con của Thầy có một nơi thực tập ấm áp và có mặt cho nhau. Chị nghĩ, “Tình Thầy” là từ thật thích hợp để đặt tên cho thiền đường. Ngồi trong đó chắc hẳn ai cũng nghĩ đến và cảm nhận được tình Thầy.
 
+{% image "article/sr-thao-nghiem/Sc-Thao-N-2-edited-copy.JPG" %}
+
 ## Ngày popcorn (bắp nổ)
 
 Nói đến Sơn Cốc và Thầy là chị nhớ đến có một ngày đáng nhớ, một ngày rất đặc biệt: Ngày popcorn. 
@@ -66,8 +66,6 @@ Nói đến Sơn Cốc và Thầy là chị nhớ đến có một ngày đáng 
 Đó là thời gian Thầy mới bệnh. Suốt một thời gian đại chúng không được gặp Thầy vì Thầy ở Sơn Cốc để tĩnh dưỡng. Đại chúng nhớ Thầy và Thầy cũng nghĩ tới đại chúng, Thầy muốn đại chúng đừng lo lắng cho Thầy quá. Trước đó, Thầy đã muốn có một ngày xuất sĩ để đại chúng được lên Sơn Cốc gặp Thầy cho an tâm, cũng sẵn dịp đó Thầy muốn được nghe đại chúng tụng bài *Tâm kinh tuệ giác qua bờ* bằng tiếng Anh mà thầy Pháp Linh mới làm nhạc.
 
 Để chuẩn bị cho ngày gặp đại chúng, Thầy đã sắp xếp rất kĩ càng. Không biết Thầy nghĩ gì mà một ngày nọ Thầy đề nghị mua cho Thầy một cái máy làm popcorn. Sư cô Chân Không và anh chị em thị giả nghe Thầy nói vậy ai cũng ngạc nhiên. Mọi người chưa tưởng tượng ra tu viện có một cái máy làm popcorn thì như thế nào. Cái máy đó chắc khó kiếm lắm, mà cũng không biết mua làm gì, để ở đâu? Thầy nói: mua cho Thầy đi, Thầy trả tiền, Thầy có tiền bán thư pháp. Nghe cũng đủ biết Thầy rất thích ý tưởng đó nên sư cô Định Nghiêm tìm trên mạng và mua được một cái máy để làm popcorn thật. Cái máy màu đỏ, không lớn lắm, có bánh xe để kéo. 
-
-{% image "article/sr-thao-nghiem/Sc-Thao-N-2-edited.JPG" %}
 
 Ngày máy được chuyển về, Thầy trò háo hức mở ra xem. Khi lắp ráp mới phát hiện ra do vận chuyển nên một miếng kính bị bể, thị giả dùng bao ni lông che tạm. Có được cái máy rồi, Thầy dạy: Bây giờ phải lên mạng học cách làm popcorn. Thầy Pháp Hữu, sư cô Nho Nghiêm, thầy Pháp Áo, thầy Pháp Nguyện và chị là ban thử máy, nổ bắp. Khách hàng là Thầy, sư cô Chân Không và sư cô Định Nghiêm. Thật hồi hộp với giây phút bỏ dầu ăn và bắp vào máy để thử và chờ đợi. Rồi bắp nổ trào ra khỏi cái nồi nhỏ ở trong máy, chao ôi là vui. Thầy thì cười tươi, quý sư cô thì hoan hô còn tụi chị cứ gọi là nhảy tưng lên. Thầy được mời chén bắp nổ đầu tiên và anh chị em cũng hào hứng thử. Thầy còn đề nghị nghiên cứu để vào ít muối và caramel cho bắp có vị nữa. Thế là thị giả lại tất bật nổ hết mẻ này tới mẻ khác để canh đo liều lượng và thời gian cho đúng. Những ngày đó anh chị em tha hồ ăn bắp nổ, còn gởi về cho xóm Mới ăn giùm.
 
@@ -79,9 +77,9 @@ Rồi ngày đại chúng tập trung cũng tới. Ai cũng hào hứng. Từ tr
 
 Chị cứ nhớ các thị giả nổ bắp ở trong phòng nghỉ phía sau, chỗ nhìn ra ba cây thông của Thầy (Thầy thường gọi đó là ba sư anh của các con). Đại chúng thì tập trung tụng bài *Tâm kinh tuệ giác qua bờ*, nghe hùng và hay lắm. Rồi thầy Pháp Áo đẩy xe chở Thầy ra ngồi ngắm đại chúng tụng kinh. Nhìn từ trong ra có thể thấy một số quý thầy, quý sư cô không tụng kinh được, chỉ đứng nhìn, một số đứng núp đằng sau… khóc.
 
-Sau khi giới thiệu, Thầy ra dấu gọi đem xe popcorn tới và nổ cho đại chúng xem. Mọi người cùng được ăn popcorn. Đó là quà của Thầy và công thực hiện của ban thị giả. Thầy rất hạnh phúc được thấy đại chúng và đại chúng cũng hạnh phúc, cảm động được thấy Thầy. Popcorn ngon hay không ngon không quan trọng mà cái quý là ai cũng nhận được tình Thầy.
+{% image "article/sr-thao-nghiem/IMG_6614-edited.jpg" %}
 
-Sau này cái máy được chuyển về xóm Mới, lâu lâu chị em lại mang ra nổ bắp chung ăn cho vui và ai cũng nhớ lại kỉ niệm ngày ấy.
+Sau khi giới thiệu, Thầy ra dấu gọi đem xe popcorn tới và nổ cho đại chúng xem. Mọi người cùng được ăn popcorn. Đó là quà của Thầy và công thực hiện của ban thị giả. Thầy rất hạnh phúc được thấy đại chúng và đại chúng cũng hạnh phúc, cảm động được thấy Thầy. Popcorn ngon hay không ngon không quan trọng mà cái quý là ai cũng nhận được tình Thầy. Sau này cái máy được chuyển về xóm Mới, lâu lâu chị em lại mang ra nổ bắp chung ăn cho vui và ai cũng nhớ lại kỉ niệm ngày ấy.
 
 Chuyện cũ thì kể bao giờ mà hết được em ha! Bây giờ chắc chắn Làng đã và đang thay đổi nhiều rồi. Khi chị rời xóm Mới, mấy khu nhà đang được sửa chữa, khi nào có dịp về lại chắc chị sẽ nhận không ra đó chứ. Nói vậy thôi, có thay đổi bao nhiêu đi nữa thì Làng vẫn nằm ở miền quê xinh đẹp đó, nơi yên bình, tách xa sự nhộn nhịp, vẫn với sự đơn giản trong không khí sinh hoạt đầm ấm, vui tươi. 
 

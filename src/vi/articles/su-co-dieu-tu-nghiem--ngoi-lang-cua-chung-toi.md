@@ -18,9 +18,10 @@ Thầy rất thích nghe những bài thiền ca bằng tiếng Việt. Sau phá
 
 Đúng với tên “Làng Mai”, tôi thấy đây đúng nghĩa là một ngôi làng. Tôi từng có cơ hội đi thăm Việt Nam, vì vậy tôi nhận ra một ngôi làng phải là như vậy. Thầy đã mang tinh thần đó để xây dựng Làng Mai, nơi đúng như một gia đình: có Sư Ông, sư cha, sư mẹ, sư anh, sư chị, sư em.
 
-***Sư cô Diệu Nghiêm***: Lúc tôi mới tới Làng, mọi thứ tương đối nề nếp. Khi có giờ chấp tác, đại chúng sẽ tập họp và có người nói: “Cần phải dọn nhà vệ sinh, ai muốn nhận dọn nhà vệ sinh? Vâng, con sẽ dọn nhà vệ sinh! Cần sắp xếp thiền đường… Vâng!...” Mọi người đơn giản là tự nguyện làm việc. Tôi chẳng để ý xem mọi chi tiết có được quy củ không. Tôi chỉ nghĩ rằng được có cảm giác gắn kết hài hòa như thế này thật là tuyệt vời!
-
 {% image "article/sr-tu-nghiem-and-sr-dieu-nghiem/24-edited.jpg" %}
+{% image "article/sr-tu-nghiem-and-sr-dieu-nghiem/1-edited.jpg" %}
+
+***Sư cô Diệu Nghiêm***: Lúc tôi mới tới Làng, mọi thứ tương đối nề nếp. Khi có giờ chấp tác, đại chúng sẽ tập họp và có người nói: “Cần phải dọn nhà vệ sinh, ai muốn nhận dọn nhà vệ sinh? Vâng, con sẽ dọn nhà vệ sinh! Cần sắp xếp thiền đường… Vâng!...” Mọi người đơn giản là tự nguyện làm việc. Tôi chẳng để ý xem mọi chi tiết có được quy củ không. Tôi chỉ nghĩ rằng được có cảm giác gắn kết hài hòa như thế này thật là tuyệt vời!
 
 Một trong những điều ở Làng mà tôi rất thích là bất cứ khi nào có dịp để ăn mừng là mình ăn mừng. Kể cả khi mình chưa bao giờ nghe về sự kiện hay lễ hội đó, nhưng có người kể về nó và nói cách làm, vậy là chúng ta làm. Cho nên tôi hy vọng rằng chúng ta sẽ giữ truyền thống này của Làng Mai. Thầy rất khuyến khích mình làm như vậy. Ăn mừng sự sống! Bởi thế mà mình có lễ hội hoa thủy tiên, lễ hội hoa mai, lễ mừng trăng lên…
 
@@ -44,7 +45,7 @@ Thỉnh thoảng chúng tôi được phép mang đồ ăn sang cho Thầy. Tôi
 
 ***Sư cô Từ Nghiêm***: Nhà ăn của xóm Hạ bây giờ, trước kia là một căn phòng nhỏ. Thầy thường cho pháp thoại ở đó. Cuối căn phòng có một bức tường ngăn bằng gạch men, không cao hẳn tới trần mà lưng lửng, như một bức vách thấp. Đằng sau đó có mấy cái bếp nấu ăn. Tới cuối buổi pháp thoại, chúng tôi bỗng ngửi thấy mùi thức ăn tỏa ra từ đó, do các sư cô bắt đầu nấu ăn (Cười). Cuộc sống giản đơn của chúng tôi khi đó thật đẹp, thật tự nhiên. Trong phòng ăn có một cái đồng hồ, mỗi mười lăm phút, chuông đồng hồ vang lên. Thầy ngừng giảng và thầy trò cùng thở, những giây phút đó thật bình an. Hồi đó, thầy Nguyện Hải là người ghi hình. Thật tuyệt vời khi chúng ta còn giữ lại được những bài giảng từ hồi ấy. Thầy đã sử dụng một cái máy ghi âm cassette và mỗi lần hết băng thì phải dừng lại, cho băng mới vào và lại tiếp tục.
 
-{% image "article/sr-tu-nghiem-and-sr-dieu-nghiem/SrDieuNghiem-edit.jpg" %}
+<!-- {% image "article/sr-tu-nghiem-and-sr-dieu-nghiem/SrDieuNghiem-edit.jpg" %} -->
 
 ***Sư cô Diệu Nghiêm***: Những lời dạy của Thầy rất rõ ràng. Chúng tôi lắng nghe và cố gắng để hiểu. Những điều chúng tôi chưa hiểu thì cũng không sao. Đối với tôi, được hưởng sự có mặt của Thầy đã là đủ. Tôi đã được nuôi dưỡng rất nhiều trong khóa tu 21 ngày khi tôi vừa tới Làng. Sau khóa tu đó, tôi nghĩ tôi có đủ vốn liếng để thực tập ít nhất là trong ba năm.
 
@@ -52,11 +53,11 @@ Nếu pháp thoại Thầy cho bằng tiếng Việt thì sư cô Chân Không s
 
 Trong khóa tu 21 ngày và khóa tu mùa Hè, Thầy dạy cách thực tập với rất nhiều vấn đề xảy ra trong tăng thân cư sĩ, các vấn đề gia đình, cũng như trả lời các câu hỏi từ thiền sinh. Cho đến khóa tu An cư kiết Đông đầu tiên của tôi, tôi mới thấy “Ồ, giờ thì chúng ta thực sự được nghe những giáo lý thâm sâu và được thấy khía cạnh *học giả* của Thầy. Đúng là cái mà tôi đang kiếm tìm”. Thời gian an cư thực sự là thời gian học hỏi của tôi.  
 
+{% image "article/sr-tu-nghiem-and-sr-dieu-nghiem/IMG_9624-e.jpg" %}
+
 ## Những gói quà tình thương gửi về Việt Nam
 
 ***Sư cô Từ Nghiêm***: Chúng tôi làm những gói quà để gửi về Việt Nam trong thời kỳ đầu của chương trình giúp trẻ em đói ở Việt Nam, vào những năm đầu thập kỷ 90. Chúng tôi đi đến các tiệm dược phẩm và mua các loại thuốc phổ thông không cần bác sĩ kê đơn như Paracetamol hay Tylenol. Chúng tôi bỏ chúng vào những cái hộp nhỏ kèm theo một lá thư. Lá thư đó được viết dưới dạng thư của một người nào đó ở Làng Mai gửi về thăm hỏi bạn bè ở Việt Nam. Hồi bấy giờ mình không thể nói quà đó từ Thầy hay Làng Mai được. Theo cách này, những gói nhỏ mang theo một lá thư rất dễ thương, viết đại ý “tôi mong gia đình anh, chị được khỏe mạnh”, động viên họ sống tích cực và mong họ nhận món quà mà chúng tôi, những người bạn, gửi đến cho họ. Tôi được biết rằng họ sẽ bán lại những thuốc đó để lấy tiền mua gạo. Những gói nhỏ tình thương thường xuyên được gửi đi, có lẽ là mỗi tuần. Đó là một công tác quan trọng trong những ngày đầu Làng Mai thực tập đạo Bụt dấn thân.
-
-{% image "article/sr-tu-nghiem-and-sr-dieu-nghiem/1-edited.jpg" %}
 
 ## Tiếp nối Thầy và làm mới lại sự thực tập
 
@@ -66,12 +67,12 @@ Thầy luôn thực tập thiền hành, từ những ngày đầu, thậm chí 
 
 ***Sư cô Từ Nghiêm***: Có những thực tập của Thầy mà tôi rất kính phục và muốn tiếp nối, đó là sự thực tập của Bồ tát Thường Bất Khinh. Vị Bồ tát luôn thấy được những điều tốt đẹp nơi mọi người và chia sẻ cho họ biết họ có những phẩm chất tốt đẹp như vậy. Thầy luôn luôn tin tưởng vào điều này. Có một lần Thầy đã đề cập đến một bài kinh, trong đó Bụt dạy rằng nếu một người nào đó chỉ còn một con mắt, ta phải nên tìm mọi cách bảo vệ con mắt đó. Có nghĩa là, nếu một người thực tập rất yếu nhưng vẫn còn có tâm nguyện thì phải bảo vệ tâm nguyện đó, đừng quá nghiêm khắc với người đó. Cái hiểu của Thầy rất bao la và Thầy có rất nhiều lòng từ bi.
 
-{% image "article/sr-tu-nghiem-and-sr-dieu-nghiem/SrTuNghiem1-edited.jpg" %}
-
 Có những người đến Làng trong tình trạng có vấn đề về thần kinh. Thầy luôn nói hãy để họ ở lại và thực tập. Không có một áp lực nào cho họ hết. Chúng tôi chỉ nói họ đi ngồi thiền nếu có thể, hoặc đi thiền hành và ăn cùng đại chúng. Họ ở đây trong vòng một tuần lễ. Tôi nhớ Thầy nói rằng năng lượng tập thể của chánh niệm, lòng từ bi, sự tử tế và không khí hòa nhã sẽ giúp được cho những người này. Đó là cách của Thầy trong những ngày đầu khi xây dựng tăng thân như một ngôi làng, nơi mọi người có thể đến sống và thực tập. Tôi còn nhớ khả năng nhìn nhận rất sâu sắc của Thầy, sự hiểu biết và lòng từ bi rất lớn, luôn tìm thấy những điều tốt đẹp nhất nơi mọi người và cho họ một cơ hội.
+
+{% image "article/sr-tu-nghiem-and-sr-dieu-nghiem/SrTuNghiem1-edited.jpg" %}
 
 Giờ đây Làng đã trở thành một trung tâm thiền tập quốc tế, một Viện Cao đẳng Phật học. Chúng ta đang ở trong thời đại kỹ thuật số. Nhưng tôi nghĩ vẫn rất hay nếu ta có thể duy trì được những giá trị truyền thống của Việt Nam, những nét văn hóa, ẩm thực, thơ ca, Tết… Bên cạnh đó, ta vẫn có thể đi về hướng kết hợp tuệ giác đạo Bụt với những khám phá mới trong lĩnh vực khoa học não bộ, sinh thái, v.v. Đó là con đường đạo Bụt dấn thân. Tôi nghĩ tất cả đều là một phần của Làng Mai.
 
-{% image "article/sr-tu-nghiem-and-sr-dieu-nghiem/IMG_9624-e.jpg" %}
-
 Điều quan trọng là chúng ta luôn đi về hướng xây dựng một tăng thân tứ chúng, có tính quốc tế và không ngừng tìm tòi những phương pháp mới, giản đơn để đem giáo lý đạo Bụt đến với mọi người trên khắp thế giới, không phân biệt quốc gia, tôn giáo, văn hóa…
+
+<div class="article-end"></div>

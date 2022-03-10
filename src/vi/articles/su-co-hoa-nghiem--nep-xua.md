@@ -36,4 +36,4 @@ Mới hôm qua đây, tôi còn thấy Thầy đang ngồi trên bục giảng p
 
 <div class="article-end"></div>
 
-{% image "article/sr-hoa-nghiem/Hinh-cho-bai-Sc-Hoa-N1.jpeg" %}
+{% image "article/sr-hoa-nghiem/TNH sitting on Vulture Peak India 2008.jpg", "", "Thầy trên đỉnh Linh Thứu tại Ấn Độ năm 2008" %}

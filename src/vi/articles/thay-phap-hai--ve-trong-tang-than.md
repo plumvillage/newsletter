@@ -33,8 +33,6 @@ Khi còn sadi, Pháp Hải may mắn được học lớp Uy nghi với thầy G
 
 Trong những năm gần đây, Pháp Hải thường nghe một số sư em trẻ nói: “Con chưa sẵn sàng”. Thực tình mà nói, sau 25 năm, Pháp Hải thực sự vẫn chưa cảm thấy sẵn sàng. Ngay cả bây giờ, khi cho pháp thoại, Pháp Hải luôn cảm thấy mình chưa có nhiều kinh nghiệm quý giá để chia sẻ. Nhưng biết đâu được, cảm giác mình đã sẵn sàng mới là có vấn đề. Chưa cảm thấy sẵn sàng đôi khi lại là một điều may mắn. Mình chỉ cần sống theo cách hay nhất mình có thể và cống hiến hết lòng những gì mình có. Đâu có ai mở lớp dạy cho Pháp Hải cách chia sẻ pháp thoại. Pháp Hải học từ kinh nghiệm của chính mình khi phải đứng ra cho pháp thoại đấy thôi.
 
-{% image "article/br-phap-hai/Thay with Br Phap Hai-e.jpg" %}
-
 Trong những năm Pháp Hải ở Làng, thi thoảng Thầy cũng đưa ra những điểm nhấn khác nhau cho đại chúng thực tập. Có lúc Thầy yêu cầu đại chúng chia sẻ một cách bất chợt, không có sự chuẩn bị. Có khi đang giữa buổi thiền hành hoặc một sinh hoạt nào đó, Thầy có thể hỏi: “Mời sư cô Kính Nghiêm tụng một bài kinh cho đại chúng”. Những lúc như vậy, người nào được Thầy gọi tên sẽ phải chia sẻ về sự thực tập, vậy mới sống động và tự nhiên. Không có thời gian để chuẩn bị, Thầy dạy sao thì đại chúng phải làm liền tại chỗ. Căng thẳng nhưng cũng thật là vui!
 
 ## Thuốc đắng từ Thầy
@@ -70,6 +68,8 @@ Qua những năm tháng được đi hoằng pháp cùng Thầy và tăng thân,
 ## Vai trò của sư anh, sư chị
 
 Pháp Hải xuất gia năm 21 tuổi và năm nay bước sang tuổi 46. Có nhiều sư em sinh ra đời sau khi Pháp Hải đã đi tu rồi. Tăng thân mình, từ một tăng thân non trẻ cả về tuổi đời lẫn tuổi đạo, giờ đang bắt đầu trải nghiệm làm thế nào để làm một sư anh, sư chị lớn. Pháp Hải tự hỏi mình: “Trở thành một nơi nương tựa cho các sư em, biết cách chăm sóc các sư em, tạo không gian và không lấn át, không bị cuốn quá nhiều vào công việc quản lý, thực sự lắng nghe và quan tâm đến các sư em của mình…, những điều này có nghĩa là như thế nào?”
+
+{% image "article/br-phap-hai/Thay with Br Phap Hai-e.jpg" %}
 
 {% image "article/br-phap-hai/scan3.jpg" %}
 

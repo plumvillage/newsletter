@@ -21,7 +21,7 @@ Công việc không quan trọng bằng sự thực tập. Sau này, Pháp Hội
 
 Khi đến Làng, Pháp Hội mang theo bộ phông chữ tiếng Việt mới. Bộ chữ này đẹp về mặt hình thức và cũng tiện sử dụng hơn cho máy tính. Lúc đó, ở Làng đang dùng loại máy Macintosh của Apple. Máy này đã cũ và bộ chữ trong đó tuy dùng được nhưng còn nhiều hạn chế. Khi ấy, Sư Ông đang thiết kế cuốn *Nhật tụng thiền môn* và đang sử dụng bộ chữ cũ. Khi có bộ chữ mới, vị cư sĩ phụ trách về máy tính đề nghị chuyển toàn bộ sang hệ thống mới. Sư cô Thoại Nghiêm là người phát nguyện đánh máy lại toàn bộ bộ kinh đó sang phông chữ mới, và phải làm thật nhanh. Vì vậy, tuy còn nhiều lỗi nhưng sư cô phải bỏ qua để phần chữ được chuyển sang kiểu mới trước. Hồi đó, máy tính không có hệ thống chuyển đổi phông chữ như bây giờ, mỗi máy có một bộ chữ khác nhau, và là tiếng Anh thôi. Do đó, mình cần nhiều người để chỉnh sửa ngữ pháp, chính tả. Pháp Hội là người Bắc nên khá vững về điều đó. Công việc này được Sư Ông gọi là “bắt sâu”.
 
-{% image "article/br-phap-hoi/Br-Phap-Hoi 2-e.jpg" %}
+{% image "article/br-phap-hoi/Br-Phap-Hoi 2-e.jpg", "", "Thầy cho pháp thoại dưới gốc cây sồi tại xóm Hạ năm 1987" %}
 
 Gần như phần lớn thời gian ở Làng, Pháp Hội không chỉ làm báo thôi mà còn làm sách nữa, như cuốn *Ngày Xuân bói Kiều*, *Truyện Kiều*… Pháp Hội được Sư Ông trực tiếp chỉ dạy nên làm cuốn đó như thế nào, và cũng mạnh dạn làm trên một phương thức mới, bằng máy móc mới. Đó là những cuốn sách đầu tiên được thiết kế trên máy tính một cách hoàn chỉnh chứ không phải như phương thức cũ, rời rạc. Tuy nhiên, khi gửi sang Mỹ để in thì gặp vấn đề là khổ giấy của Mỹ khác với khổ giấy của Pháp. Chính vì vậy, những cuốn sách sau này được thiết kế để có thể in được ở Pháp và ở cả những nơi khác. 
 

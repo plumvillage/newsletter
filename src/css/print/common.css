@@ -341,7 +341,8 @@ h5 {
 
 h1+p,
 h2+p,
-h3+p {
+h3+p,
+h4+p {
     page-break-before: avoid;
 }
 
@@ -975,6 +976,8 @@ h1#kinh-so-tam figure img {
 
 /* //////////////////////////////////////////////// */
 /* /////////////  FULL-PAGE IMAGES  /////////////// */
+figure#articlesr-chan-khong-hieu-va-thuongsu-co-Chan-Khong-edit,
+figure#articlesr-tu-nghiem-and-sr-dieu-nghiemIMG9624-e,
 figure#articlesr-tang-nghiemDSC7427-e,
 html:lang(vi) figure#articlebr-phap-haiThay-with-Br-Phap-Hai-e,
 figure#articlebr-phap-khamDSC7356,
@@ -982,10 +985,13 @@ figure#articlemick-mcevoyHappy-Farm-2,
 figure#articlefor-poemsDSC5746,
 figure#articlesr-tri-nghiemDSC0130,
 figure#articlefor-chaptersConYeu-e,
+figure#articlesr-hoa-nghiemTNH-sitting-on-Vulture-Peak-India-2008,
+
 .article-tang-than-dich-thuc #calligraphyarticle-titles-2-and-dividers5-maskedDividers2-2-straight,
 .article-nguoi-thay-nguoi-dan-duong-va-nguoi-dong-hanh-thong-thai #calligraphyarticle-titles-2-and-dividers5-maskedDividers2-2-straight,
 .article-duoi-chan-ngon-hung-phong #calligraphyarticle-titles-2-and-dividers5-maskedDividers2-2-straight,
 .article-at-the-foot-of-the-majestic-mountain #calligraphyarticle-titles-2-and-dividers5-maskedDividers2-2-straight,
+
 figure#articlesr-thuan-khanhEni-am-here-for-you-twois-e,
 figure#articleeulogy-in-PVEnthis-is-a-legendary-moment-twois-e,
 figure#articlethay-minh-nghiaThay-Tho-HT-Minh-Nghia-Pho-Nhac-Tue-My,
@@ -1011,10 +1017,30 @@ figure#articlerecap-of-ceremoniesFrom-HueL1004781
     padding-left: 0;
     padding-right: 0;
 }
+figure#articlesr-chan-khong-hieu-va-thuongsu-co-Chan-Khong-edit {
+    width: 100%;
+    margin-top: 10%;
+    margin-bottom: 0;
+}
+figure#articlesr-hoa-nghiemTNH-sitting-on-Vulture-Peak-India-2008 {
+    width: 70%;
+    margin-top: 30%;
+    margin-bottom: 0;
+}
+figure#articlesr-tu-nghiem-and-sr-dieu-nghiemIMG9624-e {
+    width: 100%;
+    margin-top: 5%;
+    margin-bottom: 0;
+}
+html:lang(vi) figure#articlesr-tu-nghiem-and-sr-dieu-nghiemIMG9624-e {
+    width: 90%;
+    /* margin-top: 5%; */
+    margin-bottom: 0;
+}
 figure#articlesr-tang-nghiemDSC7427-e {
     width: 65%;
-    margin-bottom: 0;
     margin-top: 11%;
+    margin-bottom: 0;
 }
 figure#articlesr-tri-nghiemDSC0130 {
     width: 70%;
@@ -1022,8 +1048,8 @@ figure#articlesr-tri-nghiemDSC0130 {
 }
 figure#articlefor-poemsDSC5746 {
     width: 70%;
-    margin-bottom: 0;
     margin-top: 5%;
+    margin-bottom: 0;
 }
 html:lang(vi) figure#articlebr-phap-haiThay-with-Br-Phap-Hai-e {
     width: 60%;
@@ -1070,8 +1096,8 @@ html:lang(vi) figure#articlerichard-brady53beedc0-edited-crop {
 }
 
 figure#articlesr-hoa-nghiemHinh-cho-bai-Sc-Hoa-N1 {
-    width: 90%;
-    margin-top: 10%;
+    width: 100%;
+    margin-top: 5%;
     margin-bottom: 0;
 }
 figure#articlebr-nguyen-tinhBrNguyenTinh1-edit {
@@ -1234,6 +1260,12 @@ figure#articlefor-poemsorchid-light2 {
     bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed)) * -1);
 }
 
+.PAGE-OF-articlefor-poemsorchid-light2 .pagedjs_margin-bottom {
+    display: none !important;
+    content: none !important;
+}
+
+
 figure#calligraphyarticle-titles-2-and-dividers5-maskedDividers2-1,
 figure#calligraphyarticle-titles-2-and-dividers5-maskedDividers1-1
 {
@@ -1330,7 +1362,6 @@ on other occasions, I would adjust the margin-top and height of .pagedjs_page_co
     page: page-snow-aut;
     columns: 1 !important;
 }
-
 .article-snow-falling-autumn {
     page: photopage; /* named pages*/
     width: calc(var(--pagedjs-pagebox-width) + (var(--bleed) * 2));
@@ -1342,35 +1373,6 @@ on other occasions, I would adjust the margin-top and height of .pagedjs_page_co
     overflow: visible;
     /* background-color: red; */
 }
-
-.article-snow-falling-autumn h1 {
-
-}
-
-.pagedjs_page-snow-aut_first_page .article-snow-falling-autumn {
-}
-/* 
-.pagedjs_page-snow-aut_first_page .pagedjs_margin-bottom {
-    display: none !important;
-} */
-
-/* @page photopage {
-    margin-top: 0mm;
-    margin-right: 0mm;
-    margin-left: 0mm;
-    margin-bottom: -5mm;
-    @bottom-right {
-        display: none;
-    }
-    @bottom-left {
-        display: none;
-    }
-    @bottom-center {
-        display: none;
-    }
-} */
-
-
 figure#articlesr-dao-nghiem2-transparentsr-dao-nghiemPoemTea {
     float: none !important;
     padding-top: 28%;
@@ -1379,20 +1381,6 @@ figure#articlesr-dao-nghiem2-transparentsr-dao-nghiemPoemTea {
     width: 70%;
     padding-left: 10%;
 }
-figure#articlesr-dao-nghiem2-transparentsr-dao-nghiemPoemTea img {
-    /* filter: drop-shadow(0 0 10pt white); */
-}
-/* 
-.article-snow-falling-autumn {
-    page: photopage;
-    position: relative;
-    break-after: page;
-    overflow: visible;
-    width: calc(var(--pagedjs-pagebox-width) + (var(--bleed) * 2));
-    height: calc(var(--pagedjs-pagebox-height) + (var(--bleed) * 2));
-    top: calc((var(--pagedjs-margin-top) + var(--bleed)) * -1);
-    left: calc((var(--pagedjs-margin-left) + var(--bleed)) * -1);
-} */
 
 
 
@@ -1406,16 +1394,24 @@ figure#articlesr-dao-nghiemtrasuongmunui-edit-sang-hon-e {
     top: 0;
     height: 100%;
     width: 100%;
-
-    /* height: calc(var(--pagedjs-pagebox-height) + (var(--bleed)) * 2); */
-    /* height: 310mm; */
-    /* width: 210mm; */
-    /* left: calc((var(--pagedjs-margin-left) + var(--bleed)) * -1);
-    right: calc((var(--pagedjs-margin-right) + var(--bleed)) * -1);
-    bottom: calc((var(--pagedjs-margin-bottom) + var(--bleed)) * -1); */
 }
 
 
+
+.PAGE-OF-articlesr-doan-nghiemSr-Doan-NiemDinhTue-edited-cut .pagedjs_page_content,
+.PAGE-OF-articlesr-doan-nghiem13 .pagedjs_page_content {
+    height: calc(100% - var(--pagedjs-footnotes-height) - 100mm) !important;
+}
+figure#articlesr-doan-nghiemSr-Doan-NiemDinhTue-edited-cut,
+figure#articlesr-doan-nghiem13 {
+    position: absolute;
+    bottom: -105mm;
+    display: block;
+    float: none;
+    width: 100%;
+    left: 0%;
+    column-span: all;
+}
 
 
 
@@ -1565,8 +1561,10 @@ figure#articlesr-trang-bo-deSc-Bo-DJe-4-edit {
     margin-left: 15%;
 }
 
-
-
+#poem-loi-nguyen {
+    font-size: 110%;
+    line-height: 120%;
+}
 #poem-hien-nanh {
     page-break-inside: unset !important;
 }
@@ -1834,10 +1832,19 @@ figure#articlesr-trang-tin-yeuMisty-day-e img {
     margin-top: 6%
 }
 
+.article-trong-nang-toi-cuoi,
 .article-su-tiep-noi-dep-de,
 .article-mai-rung-lang-xua,
 .article-nho-mai-on-thay {
     columns: 1 !important;
+}
+
+.article-trong-nang-toi-cuoi .verse {
+    display: block;
+    width: 80%;
+    padding-left: 119pt;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .article-su-tiep-noi-dep-de .verse {
@@ -1904,4 +1911,11 @@ figure#articleVenerable-Nhu-MinhPVM8497 {
 /* for removing an orphan line below the photo */
 h1#giay-phut-cua-su-tiep-noi {
     padding-bottom: 4pt;
+}
+
+.article-dia-chi-lien-lac-cua-lang-mai-va-cac-trung-tam h4 {
+    margin-bottom: 0;
+}
+.article-dia-chi-lien-lac-cua-lang-mai-va-cac-trung-tam blockquote {
+    page-break-inside: avoid;
 }

@@ -27,7 +27,7 @@ When I came to Plum Village I brought with me a new Vietnamese font software. Th
 
 Thay taught us what words to use so that the language was in keeping with Plum Village principles. Not every word could be used. Thay himself paid great attention to that. Even though Thay had a deep mastery of language, literature, and Vietnamese culture, he was always willing to accept and learn from his disciples new ways of using language. I saw that as a disciple, I benefited greatly from Thay and Thay was also always at the forefront of learning along with his disciples.
 
-{% image "article/br-phap-hoi/Br-Phap-Hoi 2-e.jpg", "", "Thay giving a Dharma talk" %}
+{% image "article/br-phap-hoi/Br-Phap-Hoi 2-e.jpg", "", "Thay giving a Dharma talk, 1987" %}
 
 Thay was not afraid of using the dictionary. With words that carried different meanings, Thay went in search of their roots and their specific definitions to ensure that they were used correctly. At times, Thay was very insistent on using the meaning he wanted even though people could not understand it yet. For example the word *awakening* in Vietnamese is *tỉnh thức*. When Thay returned to Vietnam after many years he discovered that due to typing or copying errors, many people understood it as *tính thức* (consciousness) and interpreted it accordingly, leading to misunderstandings.
 

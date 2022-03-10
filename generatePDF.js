@@ -60,12 +60,16 @@ gs -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/e
     75dpi	150		300		    300, colour preserving
     /screen	/ebook	/printer	/prepress	        /default
 
+-dFastWebView
+
+
 */
    
    let command = `gs \
    -o "${pdfFile}_dpi${dpi}_q${Q}.pdf" \
    -sDEVICE=pdfwrite \
    -dNOPAUSE \
+   -dFastWebView \
    -sColorConversionStrategy=CMYK \
    -dDownsampleColorImages=true \
 -dDownsampleGrayImages=true \
@@ -169,13 +173,11 @@ if (generateArticles) {
 // generatePDF("http://fee:8080/en/articles-print-preview/sr-dao-nghiem-poems/", `./builds/dao-nghiem-poems.pdf`)
 
 
-downsample("./builds/en-a4-bleed_final.pdf", 150, 0.01)
-downsample("./builds/en-a4-bleed_final.pdf", 150, 0.02)
-downsample("./builds/en-a4-bleed_final.pdf", 150, 0.03)
+// downsample("./builds/en-a4-bleed_final.pdf", 150, 0.22)
 
 
 // generatePDF("http://localhost:8080/en/a4/", `./builds/en-a4_${formatDate(new Date())}.pdf`)
-// generatePDF("http://localhost:8080/vi/a4/", `./builds/vi-a4_${formatDate(new Date())}.pdf`)
+generatePDF("http://localhost:8080/vi/a4/", `./builds/vi-a4_${formatDate(new Date())}.pdf`)
 
 // generatePDF("http://localhost:8080/en/a4-bleed/", `./builds/en-a4-bleed_${formatDate(new Date())}.pdf`)
 // generatePDF("http://localhost:8080/vi/a4-bleed/", `./builds/vi-a4-bleed_${formatDate(new Date())}.pdf`)
