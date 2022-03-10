@@ -12,3 +12,7 @@ Chúng ta hợp thành bồ tát ngàn mắt ngàn tay<br/>
 ta trở về lòng biển hạnh mênh mông<br/>
 Nước từ bi ngọt thấm mấy tầng không<br/>
 Không là gì cả mà là tất cả</p></div>
+
+<div class="article-end"></div>
+
+{% image "article/for-poems/DSC_8024.JPG" %}

@@ -3,7 +3,7 @@ title: With Time, Everything Transforms
 author: Sister Chân Đoan Nghiêm
 ---
 
-{% image "article/sr-doan-nghiem/Sr-doan-nghiem-edited.jpg", "", "from left: Sr Thieu Nghiem, Sr. Doan Nghiem, Sr Tue Nghiem with 2 other siblings" %}
+{% image "article/sr-doan-nghiem/Sr-doan-nghiem-edited.jpg", "", "from left: Sr. Giải Nghiêm, Sr. Đoan N., Sr. Tuệ N., Sr. Viên Quang and Sr. Thuần N." %}
 
 **Dear sister, when you first came to Plum Village, what left the strongest impression on you?** 
 

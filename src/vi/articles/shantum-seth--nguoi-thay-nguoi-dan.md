@@ -69,3 +69,7 @@ Cũng nhờ ơn Thầy mà tôi có được một nghề nghiệp sinh sống n
 Sau chuyến hành hương đầu tiên với Thầy, Người đã đề nghị tôi tổ chức các chuyến hành hương hàng năm với chủ đề “Theo dấu chân Bụt”. Tôi rất vui vẻ nhận thử thách này. Lúc đầu, tôi chỉ làm mỗi năm một lần, nhưng rồi cuối cùng công việc này đã trở thành nghề nghiệp chính của tôi trong hơn ba mươi năm qua. 
 
 Từ chuyến hành hương đó với Thầy, tôi đã quyết trong lòng là hàng năm sẽ đến và sống với Thầy một tháng, ở bất cứ nơi nào Thầy đang có mặt, dù là ở Làng Mai Pháp hay ở một đất nước nào nơi Thầy đang hoằng pháp. Những năm sau đó, đã có biết bao nhiêu kỷ niệm đẹp khi tôi được tiếp xúc với Thầy, đặc biệt là trong chuyến đi lịch sử năm 2008 khi Người ghé thăm Ấn Độ trở lại… Biết nói sao cho đủ về Thầy, người dẫn đường, người thầy và người đồng hành thông thái của tôi.
+
+<div class="article-end"></div>
+
+{% image "calligraphy/article titles 2 and dividers/5-masked/Dividers2-2-straight.webp" %}

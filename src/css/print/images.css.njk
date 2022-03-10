@@ -143,7 +143,13 @@ html:lang(vi) .pagedjs_right_page .pagedjs_margin-bottom-right {
 ["thank-you-thay21-day-retreat-2014-Thay-e",
 	"70mm", "0mm", 0, 0],
 ["for-poemsDSC5746",
-	"70mm", "0mm", 0, 30]
+	"70mm", "0mm", 0, 30],
+["for-poemsDSC8024",
+	"70mm", "0mm", 0, 30],
+["sr-duyet-nghiempic-294",
+	"125mm", "0mm", 0, 30],
+["thay-tri-chonDSC3363",
+	"70mm", "0mm", 0, 50]
 
 ]
 %}
@@ -167,6 +173,7 @@ html:lang(vi) .pagedjs_right_page .pagedjs_margin-bottom-right {
 {
     {# filter: drop-shadow(0 0 1pt white) drop-shadow(0 0 3pt white); #}
     display: none !important;
+    content: none !important;
 }
 
 {% for item in items %}
@@ -191,12 +198,14 @@ figure#article{{ item[0] }} figcaption {
     right: 17mm;
     width: 70mm;
     color: rgb(211, 211, 211) !important;
-    text-shadow:
+    {# computationally complex #}
+    {# text-shadow:
         0 0 1pt black,
         0 0 1pt black,
         0 0 5pt black,
         0 0 10pt black
-    ;
+    ; #}
+    text-shadow: 0.3pt 0.4pt 0 rgba(0,0,0, 0.8);
     {# 16mm if pagenumber is displayed #}
     bottom: calc(10mm + {{ item[2] }});
 }

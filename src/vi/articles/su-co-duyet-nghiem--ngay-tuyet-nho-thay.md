@@ -5,62 +5,68 @@ author: Sư cô Chân Duyệt Nghiêm
 
 *“Dù trần gian có xót xa, cũng đành về với quê nhà…”*<span class="note">Đóa hoa vô thường - tác phẩm của nhạc sĩ Trịnh Công Sơn</span>
 
-Thầy đã về yên nghỉ dưới cội cây  
-Sau bao tháng năm miệt mài “mòn chân du thuyết”  
-Thầy đã nghỉ ngơi rồi, thảnh thơi và bình an như chiếc lá   
-Sau đời kia mộng huyễn với phong ba…  
+<div class="verse"><p>Thầy đã về yên nghỉ dưới cội cây<br/>
+Sau bao tháng năm miệt mài “mòn chân du thuyết”<br/>
+Thầy đã nghỉ ngơi rồi, thảnh thơi và bình an như chiếc lá <br/>
+Sau đời kia mộng huyễn với phong ba…</p>
 
-Thầy trở về đây cho đất Mẹ tươi hoa  
-Lại góp cho đất đai quê hương một mảnh vườn, một khung trời xanh mát  
-Thầy nhắc: năm xưa, “*gậy trúc chống xuống, đạo Tổ hưng sùng*”  
-Để chúng con mãi nhớ, “*cháu con bảo hộ, sáng chói tông phong*”<span class="note">Hai câu đối ở bàn thờ Tổ trong thiền đường Nến Hồng, xóm Hạ</span>  
-Suối nguồn tâm linh bất tuyệt, Thầy chảy mãi giữa non sông  
-Chảy khắp trần gian mà Thầy vẫn thương yêu gọi là: “Hành tinh xanh xinh đẹp”  
-Quê hương gấm vóc mượt mà,  
-hay quê hương bình dị như rau tía tô, cơm gạo Tám  
-Thầy giữ mãi trong trái tim,  
-để trên bước đường ngược xuôi khắp nẻo địa cầu  
-Thầy vẫn luôn hướng về,  
-mà ngậm ngùi, mà thương, mà xót…  
-mà tìm mọi cách dựng xây, gieo trồng, chăm bón  
-Vững tin, ngày mai muôn triệu hạt mầm sẽ nên cây…  
+<p>Thầy trở về đây cho đất Mẹ tươi hoa<br/>
+Lại góp cho đất đai quê hương một mảnh vườn, một khung trời xanh mát<br/>
+Thầy nhắc: năm xưa, “gậy trúc chống xuống, đạo Tổ hưng sùng”<br/>
+Để chúng con mãi nhớ, “cháu con bảo hộ, sáng chói tông phong”<span class="note">Hai câu đối ở bàn thờ Tổ trong thiền đường Nến Hồng, xóm Hạ</span><br/>
+Suối nguồn tâm linh bất tuyệt, Thầy chảy mãi giữa non sông<br/>
+Chảy khắp trần gian mà Thầy vẫn thương yêu gọi là: “Hành tinh xanh xinh đẹp”<br/>
+Quê hương gấm vóc mượt mà,<br/>
+hay quê hương bình dị như rau tía tô, cơm gạo Tám<br/>
+Thầy giữ mãi trong trái tim,<br/>
+để trên bước đường ngược xuôi khắp nẻo địa cầu<br/>
+Thầy vẫn luôn hướng về,<br/>
+mà ngậm ngùi, mà thương, mà xót…<br/>
+mà tìm mọi cách dựng xây, gieo trồng, chăm bón<br/>
+Vững tin, ngày mai muôn triệu hạt mầm sẽ nên cây…</p>
 
-Chí nguyện năm xưa, Thầy khắc vào cây chốn Tổ  
-“Thệ nguyện độ chúng sanh”  
-Giờ đã viên thành  
-Để hôm nay lớp lớp người hướng về,  
-Cúi đầu thành tâm đảnh lễ  
-Muôn vạn cuộc đời đã đổi thay  
-từ lời dạy:
+<p>Chí nguyện năm xưa, Thầy khắc vào cây chốn Tổ<br/>
+“Thệ nguyện độ chúng sanh”<br/>
+Giờ đã viên thành<br/>
+Để hôm nay lớp lớp người hướng về,<br/>
+Cúi đầu thành tâm đảnh lễ<br/>
+Muôn vạn cuộc đời đã đổi thay<br/>
+từ lời dạy:</p>
 
-Mỗi lần ngã là một lần đứng dậy.  
-Để trưởng thành  
-Để cuộc đời nhường một bước đi lên<span class="note">Dựng tượng tuổi thơ - Thơ Thầy</span>
+<p>Mỗi lần ngã là một lần đứng dậy.<br/>
+Để trưởng thành<br/>
+Để cuộc đời nhường một bước đi lên<span class="note">Dựng tượng tuổi thơ - Thơ Thầy</span></p>
 
-Đừng tìm kiếm hạnh phúc xa vời giữa cuộc sống vô thường…   
-Hãy sống trọn vẹn từng phút, từng giây  
-của ngày hôm nay, ở đây,  
-cho chính mình, cho tất cả…  
+<p>Đừng tìm kiếm hạnh phúc xa vời giữa cuộc sống vô thường… <br/>
+Hãy sống trọn vẹn từng phút, từng giây<br/>
+của ngày hôm nay, ở đây,<br/>
+cho chính mình, cho tất cả…<br/></p>
 
-Giờ đây, quê hương trọn vẹn có Thầy  
-Chúng con vẫn trọn vẹn có Thầy  
-Trong từng bước chân, nụ cười, hơi thở  
-Trong niềm thương yêu, bình an của lượng cả bao dung  
-Trong những “thiên đường” Thầy đã dựng xây và chúng con vẫn chung lòng   
-“*Nếu gọi tên Thầy, con sẽ tự khắc thấy Thầy ngay*”<span class="note">Bên mé rừng đã nở rộ hoa mai - Thơ thầy</span>  
+<p>Giờ đây, quê hương trọn vẹn có Thầy<br/>
+Chúng con vẫn trọn vẹn có Thầy<br/>
+Trong từng bước chân, nụ cười, hơi thở<br/>
+Trong niềm thương yêu, bình an của lượng cả bao dung<br/>
+Trong những “thiên đường” Thầy đã dựng xây và chúng con vẫn chung lòng <br/>
+“Nếu gọi tên Thầy, con sẽ tự khắc thấy Thầy ngay”<span class="note">Bên mé rừng đã nở rộ hoa mai - Thơ thầy</span></p></div>
 
-Thầy… Thầy ơi!…  
-Những ngày này, mùa đông, tuyết cứ mải miết rơi   
-Có phải Thầy hóa thân làm tuyết?  
-Cho con nhớ, con vui, như năm nào Thầy vẫn ưa vui đùa trên tuyết   
-Hay Thầy muốn viết cho con một bài thơ màu trắng  
-Rồi kể câu chuyện của cội mai già, can trường đứng giữa mùa đông   
-Và cái đẹp của trần gian là vô tận, vô cùng  
-Bởi Thầy đã cho con một đôi mắt để ngắm nhìn, biết ơn, trân quý  
 
-Tạ ơn Thầy đã sinh ra con thêm một lần trong đời sống này  
-Cho con một con đường, để con đi theo Bụt, theo Thầy vào phương trời cao rộng  
-Cho con một niềm tin vào tình huynh đệ bao la  
-và tình thương không đòi điều kiện  
-Để con nguyện thương yêu từng cuộc đời, như chính cuộc đời con   
-Bao hoa ngọt, trái lành…, tấm lòng Thầy mãi sắt son…
+<!-- line up with left spread -->
+<div class="verse" style="padding-top: 100pt;"><p>Thầy… Thầy ơi!…<br/>
+Những ngày này, mùa đông, tuyết cứ mải miết rơi <br/>
+Có phải Thầy hóa thân làm tuyết?<br/>
+Cho con nhớ, con vui, như năm nào Thầy vẫn ưa vui đùa trên tuyết <br/>
+Hay Thầy muốn viết cho con một bài thơ màu trắng<br/>
+Rồi kể câu chuyện của cội mai già, can trường đứng giữa mùa đông <br/>
+Và cái đẹp của trần gian là vô tận, vô cùng<br/>
+Bởi Thầy đã cho con một đôi mắt để ngắm nhìn, biết ơn, trân quý</p>
+
+<p>Tạ ơn Thầy đã sinh ra con thêm một lần trong đời sống này<br/>
+Cho con một con đường, để con đi theo Bụt, theo Thầy vào phương trời cao rộng<br/>
+Cho con một niềm tin vào tình huynh đệ bao la<br/>
+và tình thương không đòi điều kiện<br/>
+Để con nguyện thương yêu từng cuộc đời, như chính cuộc đời con <br/>
+Bao hoa ngọt, trái lành…, tấm lòng Thầy mãi sắt son…</p></div>
+
+<div class="article-end"></div>
+
+{% image "article/sr-duyet-nghiem/pic 294.jpg" %}

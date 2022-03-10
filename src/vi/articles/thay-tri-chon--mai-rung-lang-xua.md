@@ -4,17 +4,16 @@ author: Thầy Trí Chơn
 ---
 
 <div class="verse"><p>
-    Người về thắp một bình minh<br/>
-    Khơi nguồn tuệ giác kết tình năm châu<br/>
-    Dấu chân trải khắp Á Âu<br/>
-    Vẫn sau trước chiếc áo nâu quê nhà<br/>
-    Giữa khuya gió thoảng hương xa<br/>
-    Làng xưa rụng cánh mai hoa trước thềm<br/>
-    Dưới trăng vẳng tiếng chuông huyền<br/>
-    Thiền sư dời gót qua miền vô sinh.</p>
+Người về thắp một bình minh<br/>
+Khơi nguồn tuệ giác kết tình năm châu<br/>
+Dấu chân trải khắp Á Âu<br/>
+Vẫn sau trước chiếc áo nâu quê nhà<br/>
+Giữa khuya gió thoảng hương xa<br/>
+Làng xưa rụng cánh mai hoa trước thềm<br/>
+Dưới trăng vẳng tiếng chuông huyền<br/>
+Thiền sư dời gót qua miền vô sinh.</p>
 
-</br>
+<p class="noIndent" style="font-style: normal;">Kính lạy Thầy<br/>
+Ngày 16 tháng Giêng năm Nhâm Dần</p></div>
 
-<p class="noIndent"><i>Kính lạy Thầy</i><br/>
-<i>Ngày 16 tháng Giêng năm Nhâm Dần</i></p></div>
-
+{% image "article/thay-tri-chon/DSC_3363.jpg" %}

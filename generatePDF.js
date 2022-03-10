@@ -169,13 +169,13 @@ if (generateArticles) {
 // generatePDF("http://fee:8080/en/articles-print-preview/sr-dao-nghiem-poems/", `./builds/dao-nghiem-poems.pdf`)
 
 
-// downsample("./builds/en-a4-bleed_final.pdf", 300, 1)
-// downsample("./builds/en-a4-bleed_final.pdf", 300, 0.7)
-// downsample("./builds/en-a4-bleed_final.pdf", 250, 0.5)
+downsample("./builds/en-a4-bleed_final.pdf", 150, 0.01)
+downsample("./builds/en-a4-bleed_final.pdf", 150, 0.02)
+downsample("./builds/en-a4-bleed_final.pdf", 150, 0.03)
 
 
 // generatePDF("http://localhost:8080/en/a4/", `./builds/en-a4_${formatDate(new Date())}.pdf`)
-generatePDF("http://localhost:8080/vi/a4/", `./builds/vi-a4_${formatDate(new Date())}.pdf`)
+// generatePDF("http://localhost:8080/vi/a4/", `./builds/vi-a4_${formatDate(new Date())}.pdf`)
 
 // generatePDF("http://localhost:8080/en/a4-bleed/", `./builds/en-a4-bleed_${formatDate(new Date())}.pdf`)
 // generatePDF("http://localhost:8080/vi/a4-bleed/", `./builds/vi-a4-bleed_${formatDate(new Date())}.pdf`)

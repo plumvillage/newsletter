@@ -3,7 +3,7 @@ title: Thương như Thầy thương
 author: Sư cô Đoan Nghiêm
 ---
 
-{% image "article/sr-doan-nghiem/Sr-doan-nghiem-edited.jpg" %}
+{% image "article/sr-doan-nghiem/Sr-doan-nghiem-edited.jpg", "", "từ trái sang: Sc. Giải N., Sc. Đoan N., Sc. Tuệ N., Sc. Viên Quang và Sc. Thuần N." %}
 
 <p class="editors-note">BBT phỏng vấn sư cô Đoan Nghiêm.</p>
 

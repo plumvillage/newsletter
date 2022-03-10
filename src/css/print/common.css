@@ -943,7 +943,8 @@ h1#the-true-sangha figure img
 h1#the-true-sangha figure img
 ,h1#tang-than-dich-thuc figure img
 {
-    filter: drop-shadow(0 0 3pt white);
+    /* computationally complex for some PDF printing apps */
+    /* filter: drop-shadow(0 0 3pt white); */
 }
 
 h1#the-true-sangha {
@@ -955,7 +956,7 @@ h1#tang-than-dich-thuc {
 
 h1#the-true-sangha + .author, h1#tang-than-dich-thuc + .author {
     font-weight: bold !important;
-    text-shadow: white 1px 0 5px
+    text-shadow: 0.3pt 0.4pt 0px white;
 }
 
 
@@ -974,12 +975,15 @@ h1#kinh-so-tam figure img {
 
 /* //////////////////////////////////////////////// */
 /* /////////////  FULL-PAGE IMAGES  /////////////// */
-figure#articlebr-phap-haiThay-with-Br-Phap-Hai-e,
+figure#articlesr-tang-nghiemDSC7427-e,
+html:lang(vi) figure#articlebr-phap-haiThay-with-Br-Phap-Hai-e,
 figure#articlebr-phap-khamDSC7356,
 figure#articlemick-mcevoyHappy-Farm-2,
 figure#articlefor-poemsDSC5746,
 figure#articlesr-tri-nghiemDSC0130,
 figure#articlefor-chaptersConYeu-e,
+.article-tang-than-dich-thuc #calligraphyarticle-titles-2-and-dividers5-maskedDividers2-2-straight,
+.article-nguoi-thay-nguoi-dan-duong-va-nguoi-dong-hanh-thong-thai #calligraphyarticle-titles-2-and-dividers5-maskedDividers2-2-straight,
 .article-duoi-chan-ngon-hung-phong #calligraphyarticle-titles-2-and-dividers5-maskedDividers2-2-straight,
 .article-at-the-foot-of-the-majestic-mountain #calligraphyarticle-titles-2-and-dividers5-maskedDividers2-2-straight,
 figure#articlesr-thuan-khanhEni-am-here-for-you-twois-e,
@@ -1007,6 +1011,11 @@ figure#articlerecap-of-ceremoniesFrom-HueL1004781
     padding-left: 0;
     padding-right: 0;
 }
+figure#articlesr-tang-nghiemDSC7427-e {
+    width: 65%;
+    margin-bottom: 0;
+    margin-top: 11%;
+}
 figure#articlesr-tri-nghiemDSC0130 {
     width: 70%;
     margin-bottom: 0;
@@ -1016,7 +1025,7 @@ figure#articlefor-poemsDSC5746 {
     margin-bottom: 0;
     margin-top: 5%;
 }
-figure#articlebr-phap-haiThay-with-Br-Phap-Hai-e {
+html:lang(vi) figure#articlebr-phap-haiThay-with-Br-Phap-Hai-e {
     width: 60%;
     margin-bottom: 0;
     margin-top: 5%;
@@ -1120,7 +1129,7 @@ html:lang(en) figure#articlesu-ongPVM2753improved2crop,
 figure#articlebr-phap-an60e,
 figure#articlerichard-bradyR-and-KJ-at-Centro-Avalokita-2015crop,
 figure#articlebr-phap-ung8826595315246533743600235026231803661254656ne,
-figure#articlebr-phap-haiThay-with-Br-Phap-Hai-e,
+html:lang(en) figure#articlebr-phap-haiThay-with-Br-Phap-Hai-e,
 figure#articlebr-phap-linhFDTfJpjWUAUYC5crop,
 figure#articlebr-troi-thien-chi5brot,
 figure#articlepv-in-2021Monastic-retreatMonastic-retreat20211,
@@ -1152,7 +1161,7 @@ figure#articlebr-phap-an60e {
 figure#articlebr-phap-ung8826595315246533743600235026231803661254656ne {
     width: 75%;
 }
-figure#articlebr-phap-haiThay-with-Br-Phap-Hai-e {
+html:lang(en) figure#articlebr-phap-haiThay-with-Br-Phap-Hai-e {
     width: 88%;
 }
 figure#articlebr-phap-linhFDTfJpjWUAUYC5crop {
@@ -1238,6 +1247,8 @@ figure#calligraphyarticle-titles-2-and-dividers5-maskedDividers1-1
     margin-left: auto;
     margin-right: auto;
 }
+
+
 
 .article-thay-mim-cuoi-thich-thu figure#calligraphyarticle-titles-2-and-dividers5-maskedDividers2-1 {
     margin-top: 14%;
@@ -1369,7 +1380,7 @@ figure#articlesr-dao-nghiem2-transparentsr-dao-nghiemPoemTea {
     padding-left: 10%;
 }
 figure#articlesr-dao-nghiem2-transparentsr-dao-nghiemPoemTea img {
-    filter: drop-shadow(0 0 10pt white);
+    /* filter: drop-shadow(0 0 10pt white); */
 }
 /* 
 .article-snow-falling-autumn {
@@ -1494,12 +1505,12 @@ figure#articlefor-chaptersHandsReadingOut2 {
     font-size: 110%;
     font-style: italic;
 }
-.editors-note:before {
+/* .editors-note:before {
     content: '(';
 }
 .editors-note:after {
     content: ')';
-}
+} */
 
 
 
@@ -1523,11 +1534,12 @@ figure#articlesr-trang-bo-deSc-Bo-DJe-4-edit {
 .PAGE-OF-articlesr-trang-bo-deIMG0443-e p,
 .PAGE-OF-articlesr-trang-bo-deIMG0359 p
 {
-    text-shadow:
+    text-shadow: 0.3pt 0.4pt 0px white;
+    /* text-shadow:
         0px 0 3px white,
         0px 0 5px white,
         0px 0 9px white
-    ;
+    ; */
 }
 
 
@@ -1578,18 +1590,6 @@ figure#articlesr-trang-bo-deSc-Bo-DJe-4-edit {
     text-align: right;
 }
 
-.PAGE-OF-articlebr-phap-huuIMG2227e .pagedjs_footnote_area {
-    text-shadow:
-        0px 0 3px white
-    ;
-}
-.PAGE-OF-articlesr-thoai-nghiemDSC1153e .pagedjs_footnote_area {
-    /* color: red !important; */
-    text-shadow:
-        1px 0 2px black,
-        0px 0 3px black
-    ;
-}
 .PAGE-OF-articlebr-phap-linhCS21202110152RL0936-crop4 .pagedjs_footnote_area span,
 .PAGE-OF-articlebr-phap-linhCS21202110152RL0936-crop4 .pagedjs_footnote_area span a {
     color: rgb(168, 168, 168) !important;
@@ -1599,16 +1599,15 @@ figure#articlesr-trang-bo-deSc-Bo-DJe-4-edit {
 }
 
 .article-quan-tam {
-    text-shadow:
-        /* 1px 0 1px white, */
-        /* 0px 0 3px white, */
+    text-shadow: 0.3pt 0.4pt 0px white;
+    /* text-shadow:
         0px 0 10px white,
         0px 0 10px white,
         0px 0 20px white,
         0px 0 20px white,
         0px 0 30px white,
         0px 0 30px white
-    ;
+    ; */
 }
 .article-quan-tam .verse {
     display: block;
@@ -1804,9 +1803,24 @@ figure#articlesr-trang-tin-yeuMisty-day-e img {
 }
 
 /* merge with succeeding poem */
+.article-tang-than-dich-thuc,
+.article-nguoi-thay-nguoi-dan-duong-va-nguoi-dong-hanh-thong-thai,
 .article-duoi-chan-ngon-hung-phong,
 .article-at-the-foot-of-the-majestic-mountain {
     break-after: unset !important;
+}
+
+.article-nguoi-thay-nguoi-dan-duong-va-nguoi-dong-hanh-thong-thai #calligraphyarticle-titles-2-and-dividers5-maskedDividers2-2-straight
+{
+    width: 25%;
+    margin-bottom: 2%;
+    margin-top: 5%
+}
+.article-tang-than-dich-thuc #calligraphyarticle-titles-2-and-dividers5-maskedDividers2-2-straight
+{
+    width: 25%;
+    margin-bottom: 2%;
+    margin-top: 5%
 }
 
 .article-at-the-foot-of-the-majestic-mountain #calligraphyarticle-titles-2-and-dividers5-maskedDividers2-2-straight {
@@ -1820,8 +1834,26 @@ figure#articlesr-trang-tin-yeuMisty-day-e img {
     margin-top: 6%
 }
 
+.article-su-tiep-noi-dep-de,
+.article-mai-rung-lang-xua,
 .article-nho-mai-on-thay {
     columns: 1 !important;
+}
+
+.article-su-tiep-noi-dep-de .verse {
+    display: block;
+    width: 60%;
+    padding-left: 61pt;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.article-mai-rung-lang-xua .verse {
+    display: block;
+    width: 40%;
+    padding-left: 24pt;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #poem-nho-mai {

@@ -10,11 +10,13 @@ module.exports = [
 "thay-phap-huu--day-la-giay-phut-huyen-thoai",
 "scck--con-hat-cho-thay-tho",
 "su-co-dinh-nghiem--thay-mim-cuoi-thich-thu",
+"su-co-duyet-nghiem--ngay-tuyet-nho-thay",
 "su-co-hoi-nghiem--tinh-thay-la-anh-trang-day",
 "thay-troi-noi-tam--dau-dau-cung-dau-hai",
 "su-co-thuan-khanh--duoi-chan-ngon-hung-phong",
 "su-co-nhu-minh--nho-mai-on-thay",
 "shantum-seth--nguoi-thay-nguoi-dan",
+"thay-tri-chon--mai-rung-lang-xua",
 "su-co-hoc-nghiem--cuoc-doi-thay-rat-dep",
 "su-co-tang-nghiem--thay-di-hai-thuoc-phuong-xa",
 "ocean-vuong--hay-de-noi-buon-tro",
@@ -22,6 +24,7 @@ module.exports = [
 
 /*************************/"Chapter3",
 "su-ong-lang-mai--tang-than-dich-thuc",
+"su-co-quy-nghiem--su-tiep-noi-dep-de",
 "su-co-dieu-tu-nghiem--ngoi-lang-cua-chung-toi",
 "thay-phap-an--thap-len-ngon-nen",
 "su-co-chan-duc--thay-thay-trong-tang-than",
@@ -71,14 +74,11 @@ module.exports = [
 "bbt--lang-mai-nam-qua",
 
 /*************************/"Chapter6",
-"su-co-quy-nghiem--su-tiep-noi-dep-de",
-"thay-tri-chon--mai-rung-lang-xua",
 "thay-nguyen-tinh--ngan-xua-hen-tro-ve",
-"su-co-hue-tri--trong-nang-toi-cuoi",
 "su-co-hue-tri--loi-mua-thu-nhan-gui",
+"su-co-hue-tri--trong-nang-toi-cuoi",
 "su-co-hoi-nghiem--thoi-gian-la-su-song",
 "thay-phap-kha--quan-tam",
-"su-co-duyet-nghiem--ngay-tuyet-nho-thay",
 "bbt--lich-sinh-hoat",
 "bbt--dia-chi-lien-lac-cua-lang-mai"
 
