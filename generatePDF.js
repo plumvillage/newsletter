@@ -111,6 +111,20 @@ async function generatePDF(url, outputFile, onFinished = () => {}) {
     // [6000, q97] -> out: 644MiB
     // justCopy -> 738MiB
 
+    // Viet: 
+    // [5000, q97] -> out: 847MiB
+
+
+/*
+    - ProtocolError: Protocol error (Page.printToPDF): Printing failed
+    at /media/data/dev/newsletter/node_modules/puppeteer/lib/cjs/puppeteer/common/Connection.js:230:24
+    at new Promise (<anonymous>)
+    at CDPSession.send (/media/data/dev/newsletter/node_modules/puppeteer/lib/cjs/puppeteer/common/Connection.js:226:16)
+    at Page.createPDFStream (/media/data/dev/newsletter/node_modules/puppeteer/lib/cjs/puppeteer/common/Page.js:2074:50)
+    at /media/data/dev/newsletter/generatePDF.js:129:42 {
+  originalMessage: 'Printing failed'
+}
+*/
     let usePDFstream = true
     let pdfOptions = {
         // format: "A4",
@@ -131,6 +145,7 @@ async function generatePDF(url, outputFile, onFinished = () => {}) {
             pdfStream.pipe(writeStream);
             pdfStream.on('end', async () => {
                 await browser.close();
+                downsample(outputFile, 500, 0.3)
                 downsample(outputFile, 400, 1.5)
                 downsample(outputFile, 350, 2.5)
                 downsample(outputFile, 300, 3.0)
@@ -176,7 +191,7 @@ if (generateArticles) {
 
 
 // generatePDF("http://localhost:8080/en/a4/", `./builds/en-a4_${formatDate(new Date())}.pdf`)
-// generatePDF("http://localhost:8080/vi/a4/", `./builds/vi-a4_${formatDate(new Date())}.pdf`)
+generatePDF("http://localhost:8080/vi/a4/", `./builds/vi-a4_${formatDate(new Date())}.pdf`)
 
-generatePDF("http://localhost:8080/en/a4-bleed/", `./builds/en-a4-bleed_${formatDate(new Date())}.pdf`)
-generatePDF("http://localhost:8080/vi/a4-bleed/", `./builds/vi-a4-bleed_${formatDate(new Date())}.pdf`)
+// generatePDF("http://localhost:8080/en/a4-bleed/", `./builds/en-a4-bleed_${formatDate(new Date())}.pdf`)
+// generatePDF("http://localhost:8080/vi/a4-bleed/", `./builds/vi-a4-bleed_${formatDate(new Date())}.pdf`)

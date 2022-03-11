@@ -46,15 +46,15 @@ async function imageData(src) {
     let options = {
         formats: [imgFormat, "svg"], /* jpeg, png, webp, gif, tiff, avif */
         outputDir: outputDir,
-        widths: [1500],
-        // widths: [6000],
+        // widths: [1500],
+        widths: [5000],
         dryRun: dryRun,
         sharpOptions: {},
         // https://sharp.pixelplumbing.com/api-output#webp
-        // sharpWebpOptions: { quality: 97, },
-        // sharpJpegOptions: { quality: 97, },
-        sharpWebpOptions: { quality: 60, },
-        sharpJpegOptions: { quality: 60, },
+        sharpWebpOptions: { quality: 96, },
+        sharpJpegOptions: { quality: 96, },
+        // sharpWebpOptions: { quality: 60, },
+        // sharpJpegOptions: { quality: 60, },
         svgShortCircuit: true
     }
 

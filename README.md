@@ -46,15 +46,8 @@ Eleventy running so you can check if the layout your deploying is correct.
  - Images that are rotated with EXIF are not processed correctly, see https://stackoverflow.com/questions/48716266/sharp-image-library-rotates-image-when-resizing
  - Image processing is not parallel. Makes the first serve very slow.
  - After first starting the server, the result is buggy (propably due to some race condition during image processing). We always need to reload after the first serve is ready.
- - for Vietnamese: � in render output, seems randomly appearing
-        bởi -> b���i
-        giờ đây đã -> giờ ��ây đã
-        vấn tại -> vấn t���i
-        mảnh đất nhỏ -> mảnh đ���t nhỏ
-        ăn mừng là -> ăn m��g là
-    Keeps being in the same position until eleventy is restarted.
-    Appears in paragraphs after an image (e.g. first bottom placed image - hiccup with image processing?!)
  - Sometimes paragraphs (and images) do not break correctly to the next page. See BugTextFragment.webp. The fragment ends up in the top right corner (or outside) of the page.
  - Orphans and Widows (css) do not work.
  - H2 are left as the last column element, even though page-break-after: avoid; is set
  - The (in Browser) Print Preview and the actual PDF output from Puppeteer are not identical. the font flows slightly different (e.g. kerning, justification). Very annoying, because I cannot 100% predict the output from the preview. Generally, Puppeteer needs less space.
+ - for very large files: ProtocolError: Protocol error (Page.printToPDF): Printing failed
