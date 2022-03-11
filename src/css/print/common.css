@@ -975,7 +975,7 @@ h1#kinh-so-tam figure img {
 figure#articletam-tue-vien13219,
 figure#articlebr-phap-luuEducators-retreat-in-Uganda-20193-Credit-Evermind-Media,
 figure#articlesr-chan-khong-hieu-va-thuongsu-co-Chan-Khong-edit,
-figure#articlesr-tu-nghiem-and-sr-dieu-nghiemIMG9624-e,
+html:lang(en) figure#articlesr-tu-nghiem-and-sr-dieu-nghiemIMG9624-e,
 figure#articlesr-tang-nghiemDSC7427-e,
 html:lang(vi) figure#articlebr-phap-haiThay-with-Br-Phap-Hai-e,
 figure#articlebr-phap-khamDSC7356,
@@ -990,6 +990,7 @@ figure#articlesr-hoa-nghiemTNH-sitting-on-Vulture-Peak-India-2008,
 .article-nguoi-thay-nguoi-dan-duong-va-nguoi-dong-hanh-thong-thai #calligraphyarticle-titles-2-and-dividers5-maskedDividers2-2-straight,
 .article-duoi-chan-ngon-hung-phong #calligraphyarticle-titles-2-and-dividers5-maskedDividers2-2-straight,
 .article-at-the-foot-of-the-majestic-mountain #calligraphyarticle-titles-2-and-dividers5-maskedDividers2-2-straight,
+figure#calligraphyarticle-titles-2-and-dividers5-maskedDividers3-1,
 
 figure#articlesr-thuan-khanhEni-am-here-for-you-twois-e,
 figure#articleeulogy-in-PVEnthis-is-a-legendary-moment-twois-e,
@@ -1015,6 +1016,11 @@ figure#articlerecap-of-ceremoniesFrom-HueL1004781
     margin-right: auto;
     padding-left: 0;
     padding-right: 0;
+}
+figure#calligraphyarticle-titles-2-and-dividers5-maskedDividers3-1 {
+    width: 40%;
+    margin-top: 5%;
+    margin-bottom: 0;
 }figure#articlebr-phap-luuEducators-retreat-in-Uganda-20193-Credit-Evermind-Media {
     width: 100%;
     margin-top: 5%;
@@ -1039,19 +1045,14 @@ figure#articlesr-hoa-nghiemTNH-sitting-on-Vulture-Peak-India-2008 {
     margin-top: 30%;
     margin-bottom: 0;
 }
-figure#articlesr-tu-nghiem-and-sr-dieu-nghiemIMG9624-e {
+html:lang(en) figure#articlesr-tu-nghiem-and-sr-dieu-nghiemIMG9624-e {
     width: 100%;
     margin-top: 5%;
     margin-bottom: 0;
 }
-html:lang(vi) figure#articlesr-tu-nghiem-and-sr-dieu-nghiemIMG9624-e {
-    width: 90%;
-    /* margin-top: 5%; */
-    margin-bottom: 0;
-}
 figure#articlesr-tang-nghiemDSC7427-e {
-    width: 65%;
-    margin-top: 11%;
+    width: 75%;
+    margin-top: 40pt;
     margin-bottom: 0;
 }
 figure#articlesr-tri-nghiemDSC0130 {
@@ -1064,7 +1065,7 @@ figure#articlefor-poemsDSC5746 {
     margin-bottom: 0;
 }
 html:lang(vi) figure#articlebr-phap-haiThay-with-Br-Phap-Hai-e {
-    width: 60%;
+    width: 75%;
     margin-bottom: 0;
     margin-top: 5%;
 }
@@ -1084,7 +1085,7 @@ figure#articlefor-chaptersConYeu-e {
     margin-top: 5%;
 }
 figure#articlebr-nguyen-tinhBrNguyenTinh2-edit {
-    width: 80%;
+    width: 70%;
     margin-bottom: 0;
 }
 figure#articlethay-minh-nghiaThay-Tho-HT-Minh-Nghia-Pho-Nhac-Tue-My {
@@ -1113,7 +1114,7 @@ figure#articlesr-hoa-nghiemHinh-cho-bai-Sc-Hoa-N1 {
     margin-bottom: 0;
 }
 figure#articlebr-nguyen-tinhBrNguyenTinh1-edit {
-    width: 70%;
+    width: 73%;
 }
 
 figure#articleeulogy-in-PVEnthis-is-a-legendary-moment-twois-e {
@@ -1164,6 +1165,7 @@ figure#articlebr-troi-bao-tangScreenshot-edit {
 
 /* //////////////////////////////////////////////// */
 /* /////////////  INLINE RESIZED IMAGES  ////////// */
+figure#articlebr-phap-niem12Thay-Giac-Thanhedit,
 figure#articlesr-bao-nghiemsu-me-Bao-N-2e,
 figure#articlehisae-matsuda-and-terry-barberHarvardBookstore,
 html:lang(en) figure#articlesu-ongPVM2753improved2crop,
@@ -1183,23 +1185,24 @@ figure#articlesr-trang-hien-nhanENDSC9591-edited
     margin-left: auto;
     margin-right: auto;
 }
+figure#articlebr-phap-niem12Thay-Giac-Thanhedit,
 figure#articlehisae-matsuda-and-terry-barberHarvardBookstore,
 html:lang(en) figure#articlesu-ongPVM2753improved2crop {
     width: 90%;
 }
-
-figure#articlesr-bao-nghiemsu-me-Bao-N-2e,
+figure#articlesr-bao-nghiemsu-me-Bao-N-2e {
+    width: 85%;
+}
 figure#articlesr-trang-hien-nhanENDSC9591-edited {
     width: 80%;
 }
 html:lang(en) figure#articlesr-tue-nghiemSrTueThay {
     width: 60%;
 }
-
 figure#articlebr-phap-an60e {
     width: 60%;
 }
-figure#articlebr-phap-ung8826595315246533743600235026231803661254656ne {
+figure#articlebr-phap-ung8826595315246533743600235026231803661254656ne{
     width: 75%;
 }
 html:lang(en) figure#articlebr-phap-haiThay-with-Br-Phap-Hai-e {
@@ -1421,6 +1424,9 @@ figure#articlesr-dao-nghiemtrasuongmunui-edit-sang-hon-e {
 
 
 
+/* ///////////////////////////////////////////////////////////// */
+/* ///////////////// IMAGES FIXED AT BOTTOM //////////////////// */
+
 .PAGE-OF-articlesr-doan-nghiemSr-Doan-NiemDinhTue-edited-cut .pagedjs_page_content,
 .PAGE-OF-articlesr-doan-nghiem13 .pagedjs_page_content {
     height: calc(100% - var(--pagedjs-footnotes-height) - 100mm) !important;
@@ -1465,6 +1471,20 @@ html:lang(vi) figure#articlebr-phap-kham1998-TangThanXomThuong-MuaHe-cut {
 }
 
 
+html:lang(vi) .PAGE-OF-articlesr-tu-nghiem-and-sr-dieu-nghiemIMG9624-e .pagedjs_page_content {
+    height: calc(100% - var(--pagedjs-footnotes-height) - 112mm) !important;
+}
+html:lang(vi) figure#articlesr-tu-nghiem-and-sr-dieu-nghiemIMG9624-e {
+    position: absolute;
+    bottom: -115mm;
+    display: block;
+    float: none;
+    width: 94%;
+    left: 3%;
+    column-span: all;
+}
+
+
 .PAGE-OF-articlesr-doan-nghiemsu-me-DJoan-N-3-edited .pagedjs_page_content {
     height: calc(100% - var(--pagedjs-footnotes-height) - 80mm) !important;
 }
@@ -1493,6 +1513,15 @@ figure#articlesr-tang-nghiemNon-xua-may-trang-phu-day-thay-ngoi-thien-dinh-dem-n
     left: 10%;
     column-span: all;
 }
+
+
+
+
+
+
+
+
+
 
 /* those values are NOT relative to the page */
 figure#articlefor-chaptersPlanting-trees-edit2 {
@@ -1647,8 +1676,8 @@ figure#articlesr-trang-bo-deSc-Bo-DJe-4-edit {
     padding-left: 3pt;
 }
 .article-quan-tam h1 {
-    padding: 0;
-    margin: 0;
+    /* padding: 0;
+    margin: 0; */
 }
 .article-quan-tam h2 {
     margin-bottom: 3mm;
@@ -1786,6 +1815,7 @@ article blockquote span:lang(zh) {
 }
 
 /* no end marker here (because it is not in-line) */
+.article-nho-mai-on-thay .last-article-element::after,
 .article-sometimes .last-article-element::after,
 .article-thay .last-article-element::after,
 .article-tributes-to-thay .last-article-element::after,
@@ -1889,7 +1919,7 @@ figure#articlesr-trang-tin-yeuMisty-day-e img {
     width: 80%;
     padding-left: 80pt;
     font-size: 115%;
-    line-height: 140%;
+    line-height: 130%;
     margin-left: auto;
     margin-right: auto;
 }
@@ -2004,4 +2034,9 @@ h1#thuong-yeu-muon-doi-van-hat-suong-trong {
 /* .article-thoi-gian-la-su-song .verse#poem-hoi-nghiem-col2 { */
 #poem-hoi-nghiem-col2 {
     margin-left: -10pt !important;
+}
+
+/* fit onto one line */
+h1#advent-preserving-a-beautiful-tradition {
+    font-size: 31pt;
 }

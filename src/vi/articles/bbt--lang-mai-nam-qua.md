@@ -517,3 +517,7 @@ Chúng con nguyện cầu chư Bụt và chư liệt vị Tổ sư lu
 > *Bốn mùa trong ấm ngoài êm.*
 
 <p class="noIndent">Chúng con xin thành kính tri ân.</p>
+
+<div class="article-end"></div>
+
+{% image "calligraphy/article titles 2 and dividers/5-masked/Dividers3-1.webp" %}

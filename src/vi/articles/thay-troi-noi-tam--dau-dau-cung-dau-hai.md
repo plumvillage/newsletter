@@ -39,9 +39,7 @@ Mấy ngày nay khi tụng kinh ở thiền đường Chuyển Hóa, em quán ch
 
 Giây phút Xuân Phong và đại chúng khắp chốn được ngồi quanh kim quan Thầy trong lễ trà tỳ sẽ là một giây phút thiêng liêng và đẹp hơn bao giờ hết. Chỉ nghĩ tới đó thôi, em đã muốn trào nước mắt. Hình ảnh đó làm em liên tưởng đến lúc đức Thế Tôn nhập Niết Bàn. Khắp các cõi trời, người rúng động. Từ Tỳ kheo, Tỳ kheo ni, Sa di, Sa di ni, Ưu bà tắc, Ưu bà di, cho đến vua quan đại thần, từ giai cấp Bà la môn tới những người dân nghèo của Ấn độ, cỏ cây đất đá, cầm thú chim muông đều dốc lòng cung kính niệm Bụt, niệm Pháp, niệm Tăng.
 
-Em cũng sẽ tập quán chiếu như thế, để đi vào thế giới bản môn - vô sinh bất diệt, để thấy em và Xuân Phong cùng khắp pháp giới đồng chắp tay, hướng về kính lạy Thầy.
-
-Sau giờ ngồi thiền tối, ngước nhìn lên bầu trời với muôn vàn tinh tú sáng lấp lánh, ba ngôi sao thẳng hàng vẫn còn đó, bất chợt lời Thầy dạy đi lên “Trăng sao là tâm thức, ta là trăng sao.” Bước chân em dường như nhẹ nhàng, hòa vào trong sương đêm tinh khiết. 
+Em cũng sẽ tập quán chiếu như thế, để đi vào thế giới bản môn - vô sinh bất diệt, để thấy em và Xuân Phong cùng khắp pháp giới đồng chắp tay, hướng về kính lạy Thầy. Sau giờ ngồi thiền tối, ngước nhìn lên bầu trời với muôn vàn tinh tú sáng lấp lánh, ba ngôi sao thẳng hàng vẫn còn đó, bất chợt lời Thầy dạy đi lên “Trăng sao là tâm thức, ta là trăng sao.” Bước chân em dường như nhẹ nhàng, hòa vào trong sương đêm tinh khiết.
 
 Thầy kính thương, con xin được kính dâng lên Giác linh Thầy bài thơ con làm, trong khi bàn tay đặt lên đầu, trước khi ngủ.
 

@@ -45,8 +45,6 @@ Thỉnh thoảng chúng tôi được phép mang đồ ăn sang cho Thầy. Tôi
 
 ***Sư cô Từ Nghiêm***: Nhà ăn của xóm Hạ bây giờ, trước kia là một căn phòng nhỏ. Thầy thường cho pháp thoại ở đó. Cuối căn phòng có một bức tường ngăn bằng gạch men, không cao hẳn tới trần mà lưng lửng, như một bức vách thấp. Đằng sau đó có mấy cái bếp nấu ăn. Tới cuối buổi pháp thoại, chúng tôi bỗng ngửi thấy mùi thức ăn tỏa ra từ đó, do các sư cô bắt đầu nấu ăn (Cười). Cuộc sống giản đơn của chúng tôi khi đó thật đẹp, thật tự nhiên. Trong phòng ăn có một cái đồng hồ, mỗi mười lăm phút, chuông đồng hồ vang lên. Thầy ngừng giảng và thầy trò cùng thở, những giây phút đó thật bình an. Hồi đó, thầy Nguyện Hải là người ghi hình. Thật tuyệt vời khi chúng ta còn giữ lại được những bài giảng từ hồi ấy. Thầy đã sử dụng một cái máy ghi âm cassette và mỗi lần hết băng thì phải dừng lại, cho băng mới vào và lại tiếp tục.
 
-<!-- {% image "article/sr-tu-nghiem-and-sr-dieu-nghiem/SrDieuNghiem-edit.jpg" %} -->
-
 ***Sư cô Diệu Nghiêm***: Những lời dạy của Thầy rất rõ ràng. Chúng tôi lắng nghe và cố gắng để hiểu. Những điều chúng tôi chưa hiểu thì cũng không sao. Đối với tôi, được hưởng sự có mặt của Thầy đã là đủ. Tôi đã được nuôi dưỡng rất nhiều trong khóa tu 21 ngày khi tôi vừa tới Làng. Sau khóa tu đó, tôi nghĩ tôi có đủ vốn liếng để thực tập ít nhất là trong ba năm.
 
 Nếu pháp thoại Thầy cho bằng tiếng Việt thì sư cô Chân Không sẽ phiên dịch. Tôi rất thích nghe sư cô, bởi vì tôi sẽ được biết thêm những thông tin bên lề và tôi sẽ hiểu ngữ cảnh hơn! (Cười) Rất sống động!

@@ -25,9 +25,9 @@ Bài thơ gợi ý cho con liên tưởng đến hình ảnh Thầy đang hái t
 
 Bài thơ tả cảnh thật thi vị. Sư phụ ở trên núi, nơi có những cây tùng cao. Một ngày, có vị khách phương xa tới tham thiền, chú tiểu thưa rằng thầy mình đã đi hái thuốc (*Ngôn sư thái dược khứ*).
 
-{% image "article/sr-tang-nghiem/DSC_4968-e.JPG" %}
-
 Làng mình cũng đẹp như bức tranh phác họa trong bài thơ này, có khi còn đẹp hơn thế, phải không thưa Thầy? Con nhớ ở Làng, xóm nào cũng có những cây tùng, to lớn và vững chãi. Mỗi ngày chúng con được nhìn thấy Thầy đi thiền hành, lúc thì đi với thị giả, lúc thì đi một mình. Đôi khi Thầy thiền hành lặng lẽ ẩn giữa rừng tùng, chúng con không thấy Thầy đâu cả. Mỗi bước chân, mỗi hơi thở, Thầy chế tác định và tuệ, an trú nơi hiện pháp nhiệm mầu.
+
+{% image "article/sr-tang-nghiem/DSC_4968-e.JPG" %}
 
 ## Đi hái thuốc là trở về
 

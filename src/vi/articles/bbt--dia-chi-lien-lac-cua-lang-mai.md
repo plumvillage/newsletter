@@ -143,4 +143,4 @@ title: Địa chỉ liên lạc của Làng Mai và các trung tâm
 > VIC 3461, Australia  
 > Email: nhapluuoffice@gmail.com  
 > Tel: 0402 924 800  
-> Trang nhà: [www.en.nhapluu.org](http://www.en.nhapluu.org)
+> Trang nhà: [en.nhapluu.org](https://en.nhapluu.org/)

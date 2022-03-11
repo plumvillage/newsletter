@@ -122,8 +122,8 @@ async function generatePDF(url, outputFile, onFinished = () => {}) {
     }
     
     // wait for PagedJS to layout page
-    page.waitForTimeout(5000).then(async () => {
-        console.log('Waited 5000!')
+    page.waitForTimeout(3000).then(async () => {
+        console.log('Waited 3000!')
         if (usePDFstream) {
             // https://github.com/puppeteer/puppeteer/blob/main/docs/api.md#pagecreatepdfstreamoptions
             const pdfStream = await page.createPDFStream(pdfOptions);
@@ -169,14 +169,14 @@ if (generateArticles) {
     Array(3).fill().forEach(processArticle);
 }
 
-// generatePDF("http://fee:8080/en/articles-print-preview/sr-dao-nghiem-poems/", `./builds/dao-nghiem-poems.pdf`)
+// generatePDF("http://fee:8080/vi/articles-print-preview/su-co-trang-bo-de--advent/", `./builds/CUSTOM.pdf`)
 
 
 // downsample("./builds/en-a4-bleed_final.pdf", 150, 0.22)
 
 
 // generatePDF("http://localhost:8080/en/a4/", `./builds/en-a4_${formatDate(new Date())}.pdf`)
-generatePDF("http://localhost:8080/vi/a4/", `./builds/vi-a4_${formatDate(new Date())}.pdf`)
+// generatePDF("http://localhost:8080/vi/a4/", `./builds/vi-a4_${formatDate(new Date())}.pdf`)
 
-// generatePDF("http://localhost:8080/en/a4-bleed/", `./builds/en-a4-bleed_${formatDate(new Date())}.pdf`)
-// generatePDF("http://localhost:8080/vi/a4-bleed/", `./builds/vi-a4-bleed_${formatDate(new Date())}.pdf`)
+generatePDF("http://localhost:8080/en/a4-bleed/", `./builds/en-a4-bleed_${formatDate(new Date())}.pdf`)
+generatePDF("http://localhost:8080/vi/a4-bleed/", `./builds/vi-a4-bleed_${formatDate(new Date())}.pdf`)

@@ -92,7 +92,7 @@ Thiền Môn biến mất mà mình vô ngôn<br/>
 Bình minh về ngập hoàng hôn<br/>
 Cười lên một tiếng tỉnh hồn ngàn năm</p></div>
 
-{% image "article/br-phap-niem/ToBeAdded_edited.jpg" %}
+{% image "article/br-phap-niem/ToBeAdded_edited.jpg", "expandToLeftBorder" %}
 
 Có lẽ bài thơ *Đạt đạo* này đã nói lên tất cả tâm tư của con người giải thoát trong thầy. Thầy đã vượt ra khỏi cái tướng giả tạo và thể nhập vào thực tại vô tướng mà chỉ có thầy mới cảm nhận sâu sắc về nó. Sư Ông hiểu được thầy. Tuy trên hình tướng thầy đã không đắp y, nhưng trong nội dung, trong lòng của một người đã đạt tới thực tại vô tướng thì thầy vẫn luôn đắp y. Thầy đã đắp y giải thoát, mặc áo giải thoát và ai có thể thấy biết được điều đó? Chính thầy và Sư Ông. 
 
