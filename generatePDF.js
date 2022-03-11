@@ -60,10 +60,10 @@ gs -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/e
     75dpi	150		300		    300, colour preserving
     /screen	/ebook	/printer	/prepress	        /default
 
-   -dFirstPage=3 \
-   -dLastPage=187 \
-
-*/
+    
+    -dFirstPage=108 \
+    -dLastPage=108 \
+    */
    let command = `gs \
    -o "${pdfFile}_dpi${dpi}_q${Q}.pdf" \
    -sDEVICE=pdfwrite \
@@ -111,20 +111,10 @@ async function generatePDF(url, outputFile, onFinished = () => {}) {
     // [6000, q97] -> out: 644MiB
     // justCopy -> 738MiB
 
-    // Viet: 
-    // [5000, q97] -> out: 847MiB
+    // Viet: 226 pages
+    // justCopy -> breaks! (ProtocolError)
+    // [5000, q96] -> out: 769MiB
 
-
-/*
-    - ProtocolError: Protocol error (Page.printToPDF): Printing failed
-    at /media/data/dev/newsletter/node_modules/puppeteer/lib/cjs/puppeteer/common/Connection.js:230:24
-    at new Promise (<anonymous>)
-    at CDPSession.send (/media/data/dev/newsletter/node_modules/puppeteer/lib/cjs/puppeteer/common/Connection.js:226:16)
-    at Page.createPDFStream (/media/data/dev/newsletter/node_modules/puppeteer/lib/cjs/puppeteer/common/Page.js:2074:50)
-    at /media/data/dev/newsletter/generatePDF.js:129:42 {
-  originalMessage: 'Printing failed'
-}
-*/
     let usePDFstream = true
     let pdfOptions = {
         // format: "A4",
@@ -187,11 +177,17 @@ if (generateArticles) {
 // generatePDF("http://fee:8080/vi/articles-print-preview/su-co-trang-bo-de--advent/", `./builds/CUSTOM.pdf`)
 
 
-// downsample("./builds/en-a4-bleed_final.pdf", 150, 0.22)
+// downsample("./builds/vi-a4-bleed.pdf", 300, 0.05)
+// downsample("./builds/en-a4-bleed.pdf", 300, 0.05)
+
+// downsample("./builds/vi-a4.pdf", 150, 1.5)
+// downsample("./builds/en-a.pdf", 150, 1.5)
+downsample("./builds/vi-a4.pdf", 250, 1.0)
+downsample("./builds/en-a4.pdf", 250, 1.0)
 
 
 // generatePDF("http://localhost:8080/en/a4/", `./builds/en-a4_${formatDate(new Date())}.pdf`)
-generatePDF("http://localhost:8080/vi/a4/", `./builds/vi-a4_${formatDate(new Date())}.pdf`)
+// generatePDF("http://localhost:8080/vi/a4/", `./builds/vi-a4_${formatDate(new Date())}.pdf`)
 
 // generatePDF("http://localhost:8080/en/a4-bleed/", `./builds/en-a4-bleed_${formatDate(new Date())}.pdf`)
 // generatePDF("http://localhost:8080/vi/a4-bleed/", `./builds/vi-a4-bleed_${formatDate(new Date())}.pdf`)
