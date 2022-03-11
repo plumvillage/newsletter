@@ -57,4 +57,4 @@ Eleventy running so you can check if the layout your deploying is correct.
  - Sometimes paragraphs (and images) do not break correctly to the next page. See BugTextFragment.webp. The fragment ends up in the top right corner (or outside) of the page.
  - Orphans and Widows (css) do not work.
  - H2 are left as the last column element, even though page-break-after: avoid; is set
- - năm 2022
+ - The (in Browser) Print Preview and the actual PDF output from Puppeteer are not identical. the font flows slightly different (e.g. kerning, justification). Very annoying, because I cannot 100% predict the output from the preview. Generally, Puppeteer needs less space.

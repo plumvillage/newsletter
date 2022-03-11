@@ -57,7 +57,7 @@ Everywhere.</p></div>
 
 {% image "article/for-poems/orchid-light2.webp" %}
 
-<div class="avoid-break-inside">
+<div class="avoid-break-inside" style="padding-top: 94pt;">
 <div class="verse"><p><b>There is the Letting Go</b></p>
 
 <p>There is the letting go<br/>
@@ -89,7 +89,7 @@ It was also the anniversary day of my little brother’s passing away in 1994. I
 
 
 
-<div class="avoid-break-inside">
+<div class="avoid-break-inside" style="padding-top: 94pt;">
 <div class="verse"><p><b>Their Flowers Have Fallen</b></p>
 
 <p>Their flowers have fallen<br/>

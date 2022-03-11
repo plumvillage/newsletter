@@ -996,7 +996,7 @@ figure#articlesr-thuan-khanhEni-am-here-for-you-twois-e,
 figure#articleeulogy-in-PVEnthis-is-a-legendary-moment-twois-e,
 figure#articlethay-minh-nghiaThay-Tho-HT-Minh-Nghia-Pho-Nhac-Tue-My,
 figure#calligraphyzen-circlezen-circle,
-figure#articlebr-nguyen-tinhBrNguyenTinh2-edit,
+html:lang(vi) figure#articlebr-nguyen-tinhBrNguyenTinh2-edit,
 figure#articlesr-doan-nghiemSr-doan-nghiem-edited,
 figure#articlerichard-brady53beedc0-edited-crop,
 figure#articlesr-hoa-nghiemHinh-cho-bai-Sc-Hoa-N1,
@@ -1084,7 +1084,7 @@ figure#articlefor-chaptersConYeu-e {
     margin-bottom: 0;
     margin-top: 5%;
 }
-figure#articlebr-nguyen-tinhBrNguyenTinh2-edit {
+html:lang(vi) figure#articlebr-nguyen-tinhBrNguyenTinh2-edit {
     width: 70%;
     margin-bottom: 0;
 }
@@ -1127,7 +1127,7 @@ figure#articlesr-thuan-khanhEni-am-here-for-you-twois-e {
 }
 
 html:lang(en) figure#articlesr-chan-khong-letter-to-ThaySCCK-with-MLK-and-TNH-statue-high-quality-e-crop {
-    width: 50%;
+    width: 55%;
     margin-bottom: 0;
 }
 html:lang(vi) figure#articlesr-chan-khong-letter-to-ThaySCCK-with-MLK-and-TNH-statue-high-quality-e-crop {
@@ -1443,6 +1443,20 @@ figure#articlesr-doan-nghiem13 {
 }
 
 
+html:lang(en) .PAGE-OF-articlebr-nguyen-tinhBrNguyenTinh2-edit .pagedjs_page_content {
+    height: calc(100% - var(--pagedjs-footnotes-height) - 100mm) !important;
+}
+html:lang(en) figure#articlebr-nguyen-tinhBrNguyenTinh2-edit {
+    position: absolute;
+    bottom: -105mm;
+    display: block;
+    float: none;
+    width: 74%;
+    left: 13%;
+    column-span: all;
+}
+
+
 
 .PAGE-OF-articlebr-phap-kham1998-TangThanXomThuong-MuaHe-cut .pagedjs_page_content {
     height: calc(100% - var(--pagedjs-footnotes-height) - 120mm) !important;
@@ -1675,12 +1689,13 @@ figure#articlesr-trang-bo-deSc-Bo-DJe-4-edit {
     text-indent: -3pt;
     padding-left: 3pt;
 }
+/* this will be too tight in the preview, but good in the pdf */
 .article-quan-tam h1 {
-    /* padding: 0;
-    margin: 0; */
+    /* margin-top does not apply in print output */
+    padding-top: 12pt
 }
 .article-quan-tam h2 {
-    margin-bottom: 3mm;
+    /* margin-bottom: 3mm; */
 }
 
 

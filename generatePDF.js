@@ -122,8 +122,8 @@ async function generatePDF(url, outputFile, onFinished = () => {}) {
     }
     
     // wait for PagedJS to layout page
-    page.waitForTimeout(3000).then(async () => {
-        console.log('Waited 3000!')
+    page.waitForTimeout(5000).then(async () => {
+        console.log('Waited 5000!')
         if (usePDFstream) {
             // https://github.com/puppeteer/puppeteer/blob/main/docs/api.md#pagecreatepdfstreamoptions
             const pdfStream = await page.createPDFStream(pdfOptions);

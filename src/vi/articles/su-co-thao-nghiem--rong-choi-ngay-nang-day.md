@@ -55,7 +55,7 @@ Dãy nhà đó đã có mặt từ khi Thầy có Sơn Cốc. Trong bức hình 
 
 Công trình chưa hoàn tất thì Thầy đi Thái rồi về Việt Nam. Thầy là người khởi xướng còn việc thi công và hoàn tất là của các sư con. Cuối cùng thiền đường mới cũng được “khánh thành”, nhìn rất đơn sơ mà ấm cúng. Ở Từ Hiếu, ban thị giả nhận được những hình ảnh sinh hoạt của đại chúng trong thiền đường mới và đã chiếu lên cho Thầy xem. Bây giờ chị mới hiểu tại sao Thầy muốn làm công trình đó. Còn gì hơn là để cho các sư con của Thầy có một nơi thực tập ấm áp và có mặt cho nhau. Chị nghĩ, “Tình Thầy” là từ thật thích hợp để đặt tên cho thiền đường. Ngồi trong đó chắc hẳn ai cũng nghĩ đến và cảm nhận được tình Thầy.
 
-{% image "article/sr-thao-nghiem/Sc-Thao-N-2-edited-copy.JPG" %}
+{% image "article/sr-thao-nghiem/Sc-Thao-N-2-edited-copy.JPG", "expandToRightBorder" %}
 
 ## Ngày popcorn (bắp nổ)
 
