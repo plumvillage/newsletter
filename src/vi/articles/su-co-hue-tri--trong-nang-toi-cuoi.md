@@ -32,3 +32,7 @@ Em chợt thấy giữa trời đông rực ánh nắng vàng<br/>
 Và đâu đó có tôi cười trong nắng<br/>
 Nụ cười kia thay khúc hát bình an<br/>
 Nụ cười kia sẽ làm lắng dịu lại lòng em.</p></div>
+
+<div class="article-end"></div>
+
+{% image "article/sr-hoc-nghiem/DSC_8653-e2.jpg" %}

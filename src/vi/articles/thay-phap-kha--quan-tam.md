@@ -3,7 +3,7 @@ title: Quan tâm
 author: Thầy Chân Pháp Khả
 ---
 
-{% image "article/thay-phap-kha/trang tuyet hoa illustration pbieu article 1-composition-light3.webp" %}
+{% image "article/thay-phap-kha/trang tuyet hoa illustration pbieu article 1-composition-light4.jpg" %}
 
 <div class="verse"><p>Những lúc nào, muốn trở thành bé lại<br/>
 Để cuộc đời đừng chấp kẻ thơ ngây<br/>

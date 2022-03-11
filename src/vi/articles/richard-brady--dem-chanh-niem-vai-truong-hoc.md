@@ -13,7 +13,7 @@ Bài viết được chuyển ngữ bởi An Ban Team, Wakeup schools Việt Nam
 
 ***Thưa bác, nhân duyên nào đưa bác đến với con đường chánh niệm và sự thực tập chánh niệm đã giúp bác thay đổi ra sao?***
 
-Năm 1987, tôi tìm thấy cuốn sách *Phép lạ của sự tỉnh thức*. Khi đọc câu chuyện đầu tiên trong cuốn sách về cách làm sao tìm được thời gian không có giới hạn* cho chính bản thân, tôi đã nghĩ, tôi cần mang cuốn sách này vào lớp toán và đọc cho học sinh của mình. Tôi tin các em sẽ nhận được rất nhiều lợi ích từ việc này. Học sinh có quá nhiều bài vở và chịu áp lực học hành khá lớn nên việc chạm vào được thời gian không giới hạn cho bản thân sẽ là món quà tuyệt vời nhất mà tôi có thể dành cho các em.
+Năm 1987, tôi tìm thấy cuốn sách *Phép lạ của sự tỉnh thức*. Khi đọc câu chuyện đầu tiên trong cuốn sách về cách làm sao tìm được thời gian không có giới hạn cho chính bản thân, tôi đã nghĩ, tôi cần mang cuốn sách này vào lớp toán và đọc cho học sinh của mình. Tôi tin các em sẽ nhận được rất nhiều lợi ích từ việc này. Học sinh có quá nhiều bài vở và chịu áp lực học hành khá lớn nên việc chạm vào được thời gian không giới hạn cho bản thân sẽ là món quà tuyệt vời nhất mà tôi có thể dành cho các em.
 
 {% image "article/richard-brady/R-and-KJ-at-Centro-Avalokita-2015_crop.jpg" %}
 
@@ -78,7 +78,7 @@ Gần đây, tôi làm ra một bài thực tập có tên “Tự do trong làm
 
 ## Mạng lưới chánh niệm trong giáo dục
 
-Năm 2001, Mạng lưới Chánh niệm trong Giáo dục (Mindfulness in Education Network) được thành lập với hơn 1000 thành viên trên khắp thế giới. Là một trong những giáo viên đi tiên phong trong lĩnh vực này, tôi thường nhận được nhiều câu hỏi qua email từ các giáo viên về sự thực tập chánh niệm. Tôi chỉ có thể trả lời một ít câu hỏi trong số đó từ kinh nghiệm của chính mình. Khi không có câu trả lời hữu ích, tôi sẽ mời người đã viết thư cho tôi truy cập trang web của Mạng lưới Chánh niệm trong Giáo dục (<a href="http://www.mindfuled.org">mindfuled.org</a>), tham gia vào danh sách email chung của cộng đồng và đăng câu hỏi của mình lên đó. Quý vị sẽ nhận được câu trả lời từ tuệ giác tập thể của mạng lưới các nhà giáo khắp nơi trên thế giới. 
+Năm 2001, Mạng lưới Chánh niệm trong Giáo dục (Mindfulness in Education Network) được thành lập với hơn 1000 thành viên trên khắp thế giới. Là một trong những giáo viên đi tiên phong trong lĩnh vực này, tôi thường nhận được nhiều câu hỏi qua email từ các giáo viên về sự thực tập chánh niệm. Tôi chỉ có thể trả lời một ít câu hỏi trong số đó từ kinh nghiệm của chính mình. Khi không có câu trả lời hữu ích, tôi sẽ mời người đã viết thư cho tôi truy cập trang web của Mạng lưới Chánh niệm trong Giáo dục (<a href="http://www.mindfuled.org">mindfuled.org</a>), tham gia vào danh sách email chung của cộng đồng và đăng câu hỏi của mình lên đó. Quý vị sẽ nhận được câu trả lời từ tuệ giác tập thể của mạng lưới các nhà giáo khắp nơi trên thế giới.
 
 <div class="article-end"></div>
 

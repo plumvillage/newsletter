@@ -19,7 +19,7 @@ Thầy còn nhớ câu chuyện mà thầy trò mình đã nói với nhau lúc 
 
 Vì còn trẻ và còn ít kinh nghiệm trên con đường thực tập, có những giây phút, con cảm thấy bị đè nặng bởi áp lực công việc và trách nhiệm tiếp nối Thầy. Nhưng rồi, con nhớ lại rằng con không cần phải làm một mình. Đã có sự yểm trợ của tăng thân, con không bao giờ phải làm một mình! Mỗi người trong tăng thân, bằng hành động của mình dưới nhiều hình thức khác nhau, đều đang chung tay tiếp nối Thầy.
 
-Mỗi người trong chúng con chỉ cần nuôi dưỡng chánh niệm trong phạm vi đời sống của mình dù là với các thành viên trong gia đình, với bạn học hay các đồng nghiệp... Bất kể chúng con là ai và đang làm công việc gì, chúng con đều có cơ hội xây dựng một tăng thân dễ thương. Nơi đó, chúng con có thể cùng nhau chế tác năng lượng chánh niệm để nuôi dưỡng và trị liệu cho chính mình. Thưa Thầy, mỗi khi thấy có quá nhiều việc để làm, hay nhiệm vụ quá lớn, con biết là con có thể nương tựa nơi tăng thân. Như lời Thầy dạy, mỗi người chúng con là một giọt nước đang hòa vào dòng sông tăng thân để chảy ra biển lớn.
+Mỗi người trong chúng con chỉ cần nuôi dưỡng chánh niệm trong phạm vi đời sống của mình dù là với các thành viên trong gia đình, với bạn học hay các đồng nghiệp… Bất kể chúng con là ai và đang làm công việc gì, chúng con đều có cơ hội xây dựng một tăng thân dễ thương. Nơi đó, chúng con có thể cùng nhau chế tác năng lượng chánh niệm để nuôi dưỡng và trị liệu cho chính mình. Thưa Thầy, mỗi khi thấy có quá nhiều việc để làm, hay nhiệm vụ quá lớn, con biết là con có thể nương tựa nơi tăng thân. Như lời Thầy dạy, mỗi người chúng con là một giọt nước đang hòa vào dòng sông tăng thân để chảy ra biển lớn.
 
 {% image "article/br-phap-huu/1567876120513-edited.jpg" %}
 

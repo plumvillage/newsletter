@@ -7,7 +7,7 @@ author: Thầy Chân Pháp Dung
 
 Có một đêm, tôi đã mơ thấy Thầy thỉnh chuông mời gọi tất cả chúng ta quay về với giây phút hiện tại. Khi thức giấc, tôi hình dung ra bức tranh như các bạn đang thấy. Khi Thầy thỉnh chuông, ta có thể thấy không chỉ có một bàn tay mà có nhiều bàn tay cùng chuyển động, hòa quyện vào nhau, mỗi bàn tay nâng một nhạc cụ khác nhau.
 
-{% image "article/br-phap-dung/thay-bell3-torn-edges.jpg" %}
+{% image "article/br-phap-dung/thay-bell3-torn-edges.jpg", "", "Tác phẩm của thầy Pháp Dung" %}
 
 Tôi đã vẽ bức tranh trong những ngày bạo động đang xảy ra tại tòa nhà Quốc hội Mỹ (Điện Capitol). Một lần nữa, người dân Mỹ phải chứng kiến mặt trái của xã hội mà họ đang sống. Tôi cảm thấy buồn cho những người đang phải đảm đương trọng trách lãnh đạo và đoàn kết toàn dân trong một đất nước đang bị chia rẽ trầm trọng. Do vậy, thực hiện tác phẩm này đã trở thành niềm an ủi và trị liệu cho tâm hồn, giúp tôi xoa dịu niềm đau khi nghĩ về đại gia đình nhân loại. Nhìn sâu về cuộc đời Thầy và những khổ đau, chia rẽ mà Thầy đã đi qua, trong tôi trào dâng một ước muốn mãnh liệt hơn bao giờ hết. Đó là giúp Thầy thực hiện giấc mơ xây dựng những cộng đồng sống chánh niệm trong đó mọi người thuộc tất cả các tầng lớp xã hội có thể sống hài hòa với nhau, cho dù có những khác biệt về quan điểm và giá trị sống. 
 

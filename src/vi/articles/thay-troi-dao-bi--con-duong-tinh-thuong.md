@@ -54,7 +54,7 @@ Tôi chưa tới 35 tuổi nên vẫn còn được sinh hoạt với nhóm Wake
 <div class="verse"><p>
     Hiện tiền đại chúng</br>  
     Tu tập tinh chuyên</br>  
-    Biết thương yêu nhau như ruột thịt...</p></div>
+    Biết thương yêu nhau như ruột thịt…</p></div>
 
 Mỗi lần đọc tụng đến câu này thì lòng tôi lại xúc động. Bởi đó cũng chính là tâm nguyện của tôi khi bước trên con đường này - tu học thật hạnh phúc cùng với người trẻ, hết lòng thương yêu và nâng đỡ mọi người xung quanh. Tôi muốn các bạn trẻ thấy rằng sự thực tập có thể rất vui, chứ không cần phải quá nghiêm túc như các bạn vẫn nghĩ. Tu học khá là vui!
 
@@ -67,3 +67,7 @@ Thầy và tăng thân đã làm mới đạo Bụt, làm cho đạo Bụt gần
 Trong tác phẩm *Đường xưa mây trắng*, có đoạn nói về tôn giả Ananda. Tôn giả vẫn chưa giác ngộ mà Bụt thì không còn trụ thế được bao lâu nữa. Thấy Anada sụt sùi, Bụt ân cần căn dặn: *“Ananda, đừng buồn khổ nữa, Như Lai đã từng nhắc thầy là vạn pháp vô thường, có sinh thì có diệt, có thành thì có hoại, có hợp thì có tan. Làm sao có sinh mà không có diệt cho được? Làm sao có thành mà không có hoại cho được? Làm sao có hợp mà không có tan cho được? Ananda, mấy mươi năm nay thầy đã thân cận Như Lai, săn sóc Như Lai với tất cả tấm lòng thương mến của thầy. Thầy đã đem hết lòng hết sức để giúp đỡ Như Lai, Như Lai rất cám ơn thầy, công đức của thầy rất lớn nhưng Ananda, thầy có thể đi xa hơn, nếu thầy cố gắng thêm chút nữa thì thầy sẽ thoát được sinh tử, đạt tới tự do, vượt thoát mọi sầu khổ, bi ai”.*
 
 Đọc những dòng này, tôi càng vững tâm, rằng chúng ta vẫn có thể đạt được giải thoát dù không được các bậc đạo sư giác ngộ trực tiếp dìu dắt. Tôn giả Ananda đạt ngộ sau khi Bụt nhập Niết Bàn thì có lẽ chúng ta cũng có thể vượt thoát sinh tử dù Thầy không còn ở đây trong hình hài này nữa. Thầy đã chỉ cho chúng ta con đường hiểu và thương, đã khai mở tâm trí cho biết bao nhiêu người trên khắp năm châu. Tôi đã nguyện với lòng sẽ tiếp tục bước đi trên con đường này và giúp cho người khác nếm được an vui. Tôi biết hạnh phúc lớn nhất của Thầy là thấy đệ tử của mình thực hiện được mong mỏi ấy. Thầy đã đặt niềm tin vào tất cả chúng ta.
+
+<div class="article-end"></div>
+
+{% image "article/for-poems/DSC_5746.jpg" %}

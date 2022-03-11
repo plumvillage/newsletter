@@ -363,6 +363,11 @@ figure {
     font-size: 12pt;
 }
 
+@page page-toc {
+    --pagedjs-margin-bottom: 60pt!important;
+    margin-bottom: 60pt !important;
+}
+
 /* select second page of toc */
 .pagedjs_page-toc_page:not(.pagedjs_page-toc_first_page) .pagedjs_page_content > div > div {
     padding-top: 14.5% !important;
@@ -391,10 +396,12 @@ html:lang(vi) ul.toc li {
 }
 
 
-.chapterLi {
-    /* does not seem to work */
-    /* break-before: column; */
-    padding-top: 14pt;
+html:lang(vi) .chapterLi {
+    padding-top: 13pt;
+    padding-bottom: 0pt;
+}
+html:lang(en) .chapterLi {
+    padding-top: 26pt;
     padding-bottom: 0pt;
 }
 .toc-chapter {
@@ -449,20 +456,14 @@ ul.toc > *:first-child {
     padding-top: 0pt !important;
 }
 
-/* .PAGE-OF-li-hands-reaching-out .pagedjs_page_content > div > div {
-    padding-top: 5%;
-    background-color: red;
-} */
-
-ul.toc #li-parallax-press-and-the-journey-to-plum-village-through-books {
+/* CASE STYLING: English */
+ul.toc #li-strolling-with-joy-on-a-sunny-day {
     /* break-after: column; */
-    /* emulate column break */
-    /* padding-bottom: 30%; */
+    /* emulate column break after */
+    padding-bottom: 30pt;
 }
-ul.toc #li-parallax-press-and-the-journey-to-plum-village-through-books {
-    /* break-after: column; */
-    /* emulate column break */
-    /* padding-bottom: 30%; */
+ul.toc #li-early-years-of-plum-village {
+    padding-top: 0;
 }
 
 
@@ -737,14 +738,9 @@ html:lang(vi) .verse {
 .verse p + p {
     margin-top: 11pt;
 }
-
 .verse p {
-    text-indent: 0pt !important;
+    text-indent: 0pt;
 }
-/* html:lang(vi) .verse p {
-    text-indent: 0pt !important;
-} */
-
 .noIndent {
     text-indent: 0 !important;
 }
@@ -976,6 +972,8 @@ h1#kinh-so-tam figure img {
 
 /* //////////////////////////////////////////////// */
 /* /////////////  FULL-PAGE IMAGES  /////////////// */
+figure#articletam-tue-vien13219,
+figure#articlebr-phap-luuEducators-retreat-in-Uganda-20193-Credit-Evermind-Media,
 figure#articlesr-chan-khong-hieu-va-thuongsu-co-Chan-Khong-edit,
 figure#articlesr-tu-nghiem-and-sr-dieu-nghiemIMG9624-e,
 figure#articlesr-tang-nghiemDSC7427-e,
@@ -987,6 +985,7 @@ figure#articlesr-tri-nghiemDSC0130,
 figure#articlefor-chaptersConYeu-e,
 figure#articlesr-hoa-nghiemTNH-sitting-on-Vulture-Peak-India-2008,
 
+.article-kinh-so-tam #calligraphyarticle-titles-2-and-dividers5-maskedDividers2-2-straight,
 .article-tang-than-dich-thuc #calligraphyarticle-titles-2-and-dividers5-maskedDividers2-2-straight,
 .article-nguoi-thay-nguoi-dan-duong-va-nguoi-dong-hanh-thong-thai #calligraphyarticle-titles-2-and-dividers5-maskedDividers2-2-straight,
 .article-duoi-chan-ngon-hung-phong #calligraphyarticle-titles-2-and-dividers5-maskedDividers2-2-straight,
@@ -1016,7 +1015,20 @@ figure#articlerecap-of-ceremoniesFrom-HueL1004781
     margin-right: auto;
     padding-left: 0;
     padding-right: 0;
+}figure#articlebr-phap-luuEducators-retreat-in-Uganda-20193-Credit-Evermind-Media {
+    width: 100%;
+    margin-top: 5%;
+    margin-bottom: 0;
 }
+figure#articletam-tue-vien13219 {
+    width: 80%;
+    margin-top: 27%;
+    margin-bottom: 0;
+}
+.article-thay-la-tinh-thuong .verse p + p {
+    margin-top: 3pt;
+}
+
 figure#articlesr-chan-khong-hieu-va-thuongsu-co-Chan-Khong-edit {
     width: 100%;
     margin-top: 10%;
@@ -1130,7 +1142,10 @@ html:lang(vi) figure#articlebr-phap-huuIMG2211e {
 figure#articlebr-troi-bao-tang266137775101594156527050427864726797241279645n {
     width: 67%;
 }
-figure#articlebr-phap-dungthay-bell3-torn-edges {
+html:lang(vi) figure#articlebr-phap-dungthay-bell3-torn-edges {
+    width: 92%;
+}
+html:lang(en) figure#articlebr-phap-dungthay-bell3-torn-edges {
     width: 89%;
 }
 figure#articlebr-troi-dao-quangIMG1129 {
@@ -1210,13 +1225,20 @@ figure#articlepv-in-2021Monastic-retreatDSC8304 {
 
 
 /* small image */
-figure#articlesr-tue-nghiem20211210012e,
-figure#articlebr-phap-ung61-edited {
+html:lang(en) figure#articlebr-phap-ung61-edited,
+figure#articlesr-tue-nghiem20211210012e {
     float: right;
     margin-left: 13pt;
     margin-top: 0;
     margin-bottom: 6pt;
     width: 50%;
+}
+html:lang(vi) figure#articlebr-phap-ung61-edited {
+    float: right;
+    margin-left: 13pt;
+    margin-top: 0;
+    margin-bottom: 6pt;
+    width: 90%;
 }
 
 figure#articlebr-phap-haihell-2 {
@@ -1226,6 +1248,7 @@ figure#articlebr-phap-haihell-2 {
     margin-bottom: 6pt;
     width: 50%;
 }
+
 
 
 
@@ -1596,30 +1619,44 @@ figure#articlesr-trang-bo-deSc-Bo-DJe-4-edit {
     color: rgb(201, 201, 201) !important;
 }
 
+
+.article-hanh-trinh-den-voi-lang-mai-qua-nhung-cuon-sach #calligraphyarticle-titles-2-and-dividers5-maskedDividers2-2-straight
+{
+    position: relative;
+    width: 30%;
+    float: none;
+    top: 8pt;
+    left: -18%;
+}
 .article-quan-tam {
     text-shadow: 0.3pt 0.4pt 0px white;
-    /* text-shadow:
-        0px 0 10px white,
-        0px 0 10px white,
-        0px 0 20px white,
-        0px 0 20px white,
-        0px 0 30px white,
-        0px 0 30px white
-    ; */
 }
 .article-quan-tam .verse {
     display: block;
     column-span: all !important;
     width: 50%;
-    padding-left: 7%;
-    font-size: 115%;
-    line-height: 115%;
+    padding-left: 10%;
     margin-left: auto;
     margin-right: auto;
 }
-.article-quan-tam .verse:after {
-    display: none;
+.article-quan-tam .verse p + p {
+    margin-top: 4pt;
 }
+.article-quan-tam .verse p {
+    text-indent: -3pt;
+    padding-left: 3pt;
+}
+.article-quan-tam h1 {
+    padding: 0;
+    margin: 0;
+}
+.article-quan-tam h2 {
+    margin-bottom: 3mm;
+}
+
+
+
+
 
 .article-cung-tan-nhat-hanh-thien-su-niet-ban-nhap-dieu h1 {
     width: 90%;
@@ -1800,7 +1837,9 @@ figure#articlesr-trang-tin-yeuMisty-day-e img {
     height: 100% !important;
 }
 
-/* merge with succeeding poem */
+/* merge with succeeding poem/article */
+.article-kinh-so-tam,
+.article-hanh-trinh-den-voi-lang-mai-qua-nhung-cuon-sach,
 .article-tang-than-dich-thuc,
 .article-nguoi-thay-nguoi-dan-duong-va-nguoi-dong-hanh-thong-thai,
 .article-duoi-chan-ngon-hung-phong,
@@ -1808,6 +1847,12 @@ figure#articlesr-trang-tin-yeuMisty-day-e img {
     break-after: unset !important;
 }
 
+.article-kinh-so-tam #calligraphyarticle-titles-2-and-dividers5-maskedDividers2-2-straight
+{
+    width: 25%;
+    margin-bottom: 2%;
+    margin-top: 5%
+}
 .article-nguoi-thay-nguoi-dan-duong-va-nguoi-dong-hanh-thong-thai #calligraphyarticle-titles-2-and-dividers5-maskedDividers2-2-straight
 {
     width: 25%;
@@ -1842,10 +1887,21 @@ figure#articlesr-trang-tin-yeuMisty-day-e img {
 .article-trong-nang-toi-cuoi .verse {
     display: block;
     width: 80%;
-    padding-left: 119pt;
+    padding-left: 80pt;
+    font-size: 115%;
+    line-height: 140%;
     margin-left: auto;
     margin-right: auto;
 }
+
+figure#articlesr-hoc-nghiemDSC8653-e2 {
+    display: block;
+    width: 48%;
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 
 .article-su-tiep-noi-dep-de .verse {
     display: block;
@@ -1943,4 +1999,9 @@ h1#giay-phut-cua-su-tiep-noi {
 /* to make it fit onto one line */
 h1#thuong-yeu-muon-doi-van-hat-suong-trong {
     font-size: 29pt;
+}
+
+/* .article-thoi-gian-la-su-song .verse#poem-hoi-nghiem-col2 { */
+#poem-hoi-nghiem-col2 {
+    margin-left: -10pt !important;
 }

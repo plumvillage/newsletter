@@ -60,11 +60,10 @@ gs -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/e
     75dpi	150		300		    300, colour preserving
     /screen	/ebook	/printer	/prepress	        /default
 
--dFastWebView
-
+   -dFirstPage=3 \
+   -dLastPage=187 \
 
 */
-   
    let command = `gs \
    -o "${pdfFile}_dpi${dpi}_q${Q}.pdf" \
    -sDEVICE=pdfwrite \

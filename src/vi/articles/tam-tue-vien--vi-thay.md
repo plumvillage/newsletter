@@ -19,8 +19,6 @@ Sau khoảng 30 vòng chạy đi chạy lại liên tục như vậy, chú chó 
 
 Sau này tôi mới biết, tôi đã may mắn nhường nào khi được diện kiến Thiền sư ngày hôm đó vì đã từ rất lâu, Thiền sư không ra khỏi tịnh thất. Tôi cũng đồng cảm hơn với hành xử của chú chó. Quá phấn khích khi đã lâu lắm rồi mới được diện kiến và đảnh lễ Thiền sư nên đã “vui sướng” đến như vậy.
 
-{% image "article/tam-tue-vien/13219.jpg" %}
-
 Ngày cuối cùng ở Làng, chúng tôi - những người đến từ nhiều nơi khác nhau, nói những thứ ngôn ngữ khác nhau, người trẻ người già - đều chia tay nhau trong hân hoan và an lạc. Tất cả đều tươi mát hơn ngày đầu tiên đến Làng. Tôi cũng vậy.
 
 Tôi đã suy ngẫm rất nhiều về những thay đổi ngoạn mục nơi tôi. Tôi nhận ra rằng chính môi trường tĩnh lặng và việc thực tập im lặng là cứu cánh tạo nên những khoảng lặng của tâm, giúp tôi biết dừng lại để quay về với chính mình, yên lặng bên chính mình và hiểu hơn về chính mình. 
@@ -28,3 +26,7 @@ Tôi đã suy ngẫm rất nhiều về những thay đổi ngoạn mục nơi t
 Thiền sư Thích Nhất Hạnh vì bạo bệnh nên không thể thuyết pháp bằng lời trong bảy năm cuối đời, nhưng Người đã thuyết pháp bằng chính pháp thân trang nghiêm và nội tâm tĩnh lặng của Người. Những bài pháp không lời ấy đã thu phục mọi người, mọi loài. Đó chính là sự hùng tráng cao tột, đến vô cùng.
 
 Lễ Tâm Tang của Thiền sư Thích Nhất Hạnh diễn ra trong im lặng. Nhưng lễ tang ấy đã tạo nên tiếng vang hùng tráng chấn động cả năm châu, thức tỉnh mọi người dừng lại để quay về với chính mình và trở thành tri kỷ của chính mình.
+
+<div class="article-end"></div>
+
+{% image "article/tam-tue-vien/13219.jpg" %}

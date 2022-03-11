@@ -24,12 +24,15 @@ Gợi về bao kỷ niệm thân thương<br/>
 Là cánh đồng hoa hướng dương mênh mông bát ngát<br/>
 Là con đường thanh thoát đón trăng lên.</p>
 
-<p>Thời gian là những cánh rừng thu đỏ thắm hay rực rỡ sắc vàng tươi,<br/>
+<p>Thời gian là những cánh rừng thu đỏ thắm<br/>
+hay rực rỡ sắc vàng tươi,<br/>
 Là những chiếc lá chín rơi, rơi vào trang vở<br/>
 Chở nét chữ trinh nguyên<br/>
-Mang thông điệp yêu thương đi vào cuộc đời.</p>
+Mang thông điệp yêu thương đi vào cuộc đời.</p></div>
 
-<p>Thời gian là những bông tuyết nhẹ nhàng rơi<br/>
+<!-- <div class="page-break"></div> -->
+
+<div class="verse" id="poem-hoi-nghiem-col2"><p>Thời gian là những bông tuyết nhẹ nhàng rơi<br/>
 Là rạo rạc bước chân trên những thảm cỏ trắng thong dong,<br/>
 Là ngọn nến lung linh, lấp lánh tấm lòng trinh bạch<br/>
 Là lò sưởi đỏ quần tụ bao người sưởi ấm những ngày đông.</p>
@@ -52,3 +55,7 @@ Là tình thương cho đi không cần điều kiện.</p>
 <p>Thời gian là sự sống<br/>
 Hãy sống những gì em yêu thích<br/>
 Và thả trôi tất cả những muộn phiền.</p></div>
+
+<div class="article-end"></div>
+
+{% image "article/sr-hoi-nghiem/DSC08712.JPG" %}

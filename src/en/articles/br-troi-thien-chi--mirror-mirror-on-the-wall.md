@@ -1,5 +1,5 @@
 ﻿---
-title: Mirror, Mirror on the Wall …
+title: Mirror, Mirror on the Wall…
 author: Brother Chân Trời Thiện Chí
 ---
 

@@ -3,7 +3,7 @@ title: Kinh sơ tâm
 author: Thầy Chân Trời Lĩnh Nam
 ---
 
-## Đất Tổ linh thiêng
+*Đất Tổ linh thiêng*
 
 Ba ơi, Ba là đệ tử của Bụt, của Sư Ông.
 
@@ -28,7 +28,7 @@ Cơm đã chín lâu rồi.</p></div>
 
 Tức là, trong nhà có sẵn ngọn đèn dầu mà cứ chạy đi xin lửa. Bụt có phải là người đi ban đèn, ban lửa đâu mà cứ chạy tới xin đèn xin lửa hoài, Bụt cũng biết mệt chứ bộ! Nói vậy thôi chứ nồi cơm của con cũng chưa chín. Nhưng con biết, nếu còn ở trong tăng thân thì một ngày, hay một giây phút nào đó, nó sẽ chín ba ạ!
 
-Có cái này hay, con cũng muốn kể cho ba nghe. Thời gian gần đây, con luôn tự hỏi niềm vui thật sự của mình là gì? Có phải những trò thể thao, những buổi nói chuyện không có điểm dừng ...? Đối với con bây giờ, những thứ ấy chỉ hỗ trợ cho đời tu thôi, chưa phải là niềm vui chân thật. Kẹt vào đó là chết liền. Khi có buồn giận, trách móc hay phán xét ở trong lòng, chính thiền duyệt đã đưa con về với giây phút hiện tại, thiết lập lại sự ổn định nội tâm, không bị những tri giác sai lầm đánh lừa để rồi vung vãi những yếu kém, làm tổn thương huynh đệ mình. Cho nên nếu một ngày mà không dành riêng nửa giờ hay một giờ đồng hồ cho việc ngồi yên, đi thiền để nhìn lại tự tâm mình, như câu nói của Ngài Tuệ Trung Thượng Sĩ *phản quang tự kỷ bổn phận sự* thì quả thật mình chưa thật sự muốn tìm cái hạnh phúc chân thật. Mình còn đang loay hoay với vọng tâm, hết thương rồi ghét. Đặt những câu hỏi vẩn vơ: Trời ơi, tại sao hôm nay gặp, bạn không chào tôi, không nhìn tôi, không cười với tôi? Tại sao bữa giờ không qua uống trà với tôi? ... Vậy là tiêu rồi phải không ba? Một thứ hạnh phúc đòi hỏi điều kiện thì đâu còn là hạnh phúc chân thật nữa. Bây giờ, con mới hiểu một chút về câu chuyện giữa Sư Ông và một thầy trong chúng. Hôm ấy, thấy Sư Ông đang đi tới, thầy ấy liền đứng sang một bên, chắp tay chào với ước mong Sư Ông sẽ cười và chào lại mình. Nhưng không, Sư Ông đã đi thẳng, không chào lại thầy. Nhìn qua có vẻ như Sư Ông vô tình, nhưng nhìn cho sâu, sẽ thấy Sư Ông là người đầy tình thương. Sư Ông đang dạy đệ tử cái tình của người trong đạo. Nó tự do, không ràng buộc nhau, không chiếm hữu, dù là bằng ý niệm. Nó thảnh thơi như một đám mây trên trời.
+Có cái này hay, con cũng muốn kể cho ba nghe. Thời gian gần đây, con luôn tự hỏi niềm vui thật sự của mình là gì? Có phải những trò thể thao, những buổi nói chuyện không có điểm dừng…? Đối với con bây giờ, những thứ ấy chỉ hỗ trợ cho đời tu thôi, chưa phải là niềm vui chân thật. Kẹt vào đó là chết liền. Khi có buồn giận, trách móc hay phán xét ở trong lòng, chính thiền duyệt đã đưa con về với giây phút hiện tại, thiết lập lại sự ổn định nội tâm, không bị những tri giác sai lầm đánh lừa để rồi vung vãi những yếu kém, làm tổn thương huynh đệ mình. Cho nên nếu một ngày mà không dành riêng nửa giờ hay một giờ đồng hồ cho việc ngồi yên, đi thiền để nhìn lại tự tâm mình, như câu nói của Ngài Tuệ Trung Thượng Sĩ *phản quang tự kỷ bổn phận sự* thì quả thật mình chưa thật sự muốn tìm cái hạnh phúc chân thật. Mình còn đang loay hoay với vọng tâm, hết thương rồi ghét. Đặt những câu hỏi vẩn vơ: Trời ơi, tại sao hôm nay gặp, bạn không chào tôi, không nhìn tôi, không cười với tôi? Tại sao bữa giờ không qua uống trà với tôi?… Vậy là tiêu rồi phải không ba? Một thứ hạnh phúc đòi hỏi điều kiện thì đâu còn là hạnh phúc chân thật nữa. Bây giờ, con mới hiểu một chút về câu chuyện giữa Sư Ông và một thầy trong chúng. Hôm ấy, thấy Sư Ông đang đi tới, thầy ấy liền đứng sang một bên, chắp tay chào với ước mong Sư Ông sẽ cười và chào lại mình. Nhưng không, Sư Ông đã đi thẳng, không chào lại thầy. Nhìn qua có vẻ như Sư Ông vô tình, nhưng nhìn cho sâu, sẽ thấy Sư Ông là người đầy tình thương. Sư Ông đang dạy đệ tử cái tình của người trong đạo. Nó tự do, không ràng buộc nhau, không chiếm hữu, dù là bằng ý niệm. Nó thảnh thơi như một đám mây trên trời.
 
 {% image "article/br-troi-linh-nam/IMG-0811-e.JPG" %}
 
@@ -43,3 +43,7 @@ Tăng thân biểu hiện được là nhờ lòng từ bi của Sư Ông. Mặc
 Ba ơi, ngồi đây viết cho ba con như đang được trở về tiếp xúc với sơ tâm của chính mình. Những ước nguyện tu tập, chuyển hóa nơi con dường như cũng ấm áp và tươi mới lên thêm.
 
 <p class="noIndent">Con của ba</p>
+
+<div class="article-end"></div>
+
+{% image "calligraphy/article titles 2 and dividers/5-masked/Dividers2-2-straight.webp" %}

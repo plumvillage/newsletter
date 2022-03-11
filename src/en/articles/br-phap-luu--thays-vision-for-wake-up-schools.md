@@ -76,8 +76,6 @@ We also offered two webinars in Vietnam to support teachers and parents as schoo
 
 One week later, on April 12, 2020, Wake Up Schools held a workshop for Vietnamese educators.<a class="note" href="https://youtu.be/8xgcrSzso0A">youtu.be/8xgcrSzso0A</a> More than one hundred teachers from universities, colleges, high schools and kindergartens joined the workshop. The guest speakers included university lecturers, high school academic board members and a psychology counselor. They shared about the educational challenges as well as the opportunities of the COVID-19 pandemic. In this workshop, Orla O’Sullivan and Lê Thị Mỹ Hằng from Wake Up Schools introduced the practice of mindfulness so that educators could experience more peace and learn how to take care of strong emotions.
 
-{% image "article/br-phap-luu/Educators retreat in Uganda 2019.3- Credit - Evermind Media.jpg" %}
-
 On March 20, 2021, Wake Up Schools was awarded the *2021 Laureate for Education*<a class="note" href="https://worldhappiness.foundation/awards/laureates/laureates-2021/">worldhappiness.foundation/awards/laureates/laureates-2021/</a> by the World Happiness Foundation (WHF) and the United Nations University for Peace. The award was presented as part of World Happiness Week, a week-long international festival to energize wellbeing and happiness for all.
 
 The Education award recognizes a community which improves the education sector by bringing greater happiness and well-being to students and families. The award was presented by founder and president of the World Happiness Foundation, Luis Gallardo. He described Wake Up Schools as a ‘remarkable’ community, “What you are doing is so remarkable. Everybody knows Thich Nhat Hanh and the Plum Village community are building this sense of belonging so that we can create a more mindful, more peaceful and more positive world. You are a true example of what it means to create a world with more happiness, more consciousness and freedom for all.”
@@ -87,3 +85,7 @@ Luis expressed his appreciation for our sangha building, “The ways that you br
 On Tuesday 20 April 2021, Wake Up Schools took part in a Mind & Life Europe (MLE) webcast, part of a series exploring mindfulness in education. The webcast drew together voices from the third MLE webcast series titled “Emerging & Challenging Areas and Next Steps for Contemplative Education”.
 
 In all these events we remind teachers: happiness is possible. We have to say it because many people don't believe it. Happiness is possible. Now.
+
+<div class="article-end"></div>
+
+{% image "article/br-phap-luu/Educators retreat in Uganda 2019.3- Credit - Evermind Media.jpg" %}

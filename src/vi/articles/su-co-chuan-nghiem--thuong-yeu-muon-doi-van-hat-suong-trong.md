@@ -11,7 +11,7 @@ Nhớ về Làng, về xóm Mới, từng khung trời tươi đẹp như hiện
 
 ## Sân Chim
 
-{% image "article/sr-chuan-nghiem/Sc-Chuan-N-5_cut.JPG" %}
+{% image "article/sr-chuan-nghiem/DSC_7675.jpg" %}
 
 Thời gian tôi ở Làng chỉ vẻn vẹn sáu năm, kém hai ngày. Ngày đầu tiên đặt chân đến xóm Mới đúng kỳ làm biếng của đại chúng sau khóa tu mùa Hè nên chị em từ Việt Nam mới qua được tha hồ ngủ. Vì chưa quen giờ nên mấy ngày đầu tôi thường đi ngủ sớm. Nhớ một hôm, khi tôi cùng các chị em vừa buông mùng nhưng chưa ngủ thì nghe tiếng sư mẹ Bảo Nghiêm và sư mẹ Thoại Nghiêm. Hai sư mẹ ghé thăm chị em chúng tôi nhưng thấy đã tắt đèn, buông mùng nên hai sư mẹ đi về. Tôi nghe hai sư mẹ nói với nhau: “Các sư em mới qua nên chưa quen giờ. Thôi mình về cho các sư em ngủ”. Nghe quý sư mẹ nói vậy tôi đã dễ ngủ thì ngủ lại càng thêm ngon. 
 
@@ -31,13 +31,13 @@ Sau bữa cơm trưa, các sư con đi theo sau Sư Ông cả một hàng dài, 
 
 ## Hồ sen
 
+{% image "article/sr-chuan-nghiem/Sc-Chuan-N-4.JPG" %}
+
 Một điều đặc biệt ở Làng là xóm nào cũng có hồ sen, và tôi thấy hồ sen nào cũng có hình trái tim. Xóm Thượng đặc biệt hơn vì có hai hồ sen. Cứ hè về là xóm nào cũng có sen thơm dâng Bụt. Thiền sinh về Làng vô cùng hạnh phúc vì được ngắm hoa sen ngay từ tuần đầu tiên của khóa tu mùa Hè. Sen nở nhiều, vậy là có trà ướp sen. Ở tận EIAB nhưng tôi cũng nhận được trà sen từ Làng. Thưởng thức từng ly trà thơm ngát, tôi biết ơn huynh đệ thật nhiều.
 
 Gia đình xuất gia của tôi được Sư Ông đặt tên là Sen Trắng. Khi còn ở Bát Nhã tôi đã được nghe kể xóm Thượng có một hồ sen trắng, hoa rất to. Đúng thật. Khi qua Làng, vào mùa sen, những ngày quán niệm tại xóm Thượng tôi không quên đi ngắm hoa sen. 
 
 Hồ sen Hồng tại xóm Mới nhỏ nhất so với hồ sen các xóm. Có một chiếc cầu tre nho nhỏ bắc ngang qua. Khi những bông sen đầu tiên đã nở, chị em chúng tôi thường ra ngồi ngắm sen, uống trà và kể chuyện cho nhau nghe. Đẹp làm sao khi ánh nắng mặt trời chiếu vào những đóa sen còn đọng những giọt sương. Những câu chuyện thường ngày nhưng nuôi dưỡng đời tu. Tôi thấy thật rõ rằng chị em nuôi nhau là đây. 
-
-{% image "article/sr-chuan-nghiem/Sc-Chuan-N-4.JPG" %}
 
 Trẻ em cũng rất thích và biết chơi với lá sen. Những năm chưa có đại dịch covid, mùa hè là mùa các em nhỏ rất hạnh phúc được ba mẹ đưa về Làng. Tôi thấy các em xin hái vài lá sen gần bờ, đổ nước vào và chơi với nhau. Lá sen cũng giống như lá khoai môn, không bị thấm nước ra ngoài. Thế là các em chơi với nhau suốt cả buổi trò lá sen đựng nước. Niềm vui của các em chỉ giản đơn vậy thôi nhưng lại là cả bầu trời tuổi thơ tươi đẹp.
 
@@ -57,8 +57,6 @@ Nhìn lại chặng đường 13 năm xuất gia, tôi thấy mình may mắn l�
 
 Sáng nay, ngày xuất sĩ, tôi được cùng đại chúng nghe pháp thoại DVD vào ngày 18 tháng 2 năm 2002 của Sư Ông. Tôi thấy thấm thía quá và mong mình có thể thực tập thành công. Tôi xin phép được trích ra đây một vài lời mà Sư Ông dạy, cũng là để cho tôi mở ra đọc khi thấy cần quay trở về với sự thực tập.
 
-{% image "article/sr-chuan-nghiem/Sc-Chuan-N-3.JPG" %}
-
 > “Khi mình có một sư em dễ thương, có tâm chí tu học thì mình là một người sư chị có phước! Phải như vậy không? Bây giờ Thầy muốn hỏi, ở đây có bao nhiêu sư chị có phước? Có người nào không có phước không? Mình là sư anh, mình là sư chị, thế nào ít nhất mình cũng có một vài sư em có hạnh phúc và dễ thương, biết tu học.
 > 
 > “Tất cả chúng ta đều là sư anh, sư chị, chỉ trừ có một người thôi, đó là sư út Chân Pháp Hữu. Nhưng mà trong vòng bốn tháng nữa thì mất chức sư út. Thầy muốn hỏi một câu hỏi rất tầm thường, là ở đây có người nào vô phước không? Không có ai vô phước cả. Tất cả chúng ta đều là những người có phước. Người nào cũng có sư em dễ thương. Thầy cũng là một người có phước vì Thầy có những người đệ tử rất dễ thương, có tâm tu học. Vậy nên Thầy không bao giờ nói: tôi là người vô phước, vì điều đó không đúng với sự thật, không đúng với nhận thức của Thầy.
@@ -75,3 +73,7 @@ Tôi viết đã dài nhưng liệu tôi thực tập được bao nhiêu? Tôi 
 > “Người ta nói rằng, cha mẹ tuy sinh ra ta nhưng chính bạn hữu lại là kẻ tác thành cho ta. Sống gần gũi với các bậc thiện tri thức thì cũng như đi trong sương, tuy áo không ướt nhưng cũng có nhuần thấm.”
 
 Tôi thầm cảm ơn Sư Ông, cảm ơn tăng thân, cảm ơn bố mẹ cùng anh chị em trong gia đình huyết thống đã yểm trợ và nâng đỡ tôi rất nhiều trên con đường tu học. Tôi thương yêu tất cả. 
+
+<div class="article-end"></div>
+
+{% image "article/sr-chuan-nghiem/Sc-Chuan-N-3.JPG" %}

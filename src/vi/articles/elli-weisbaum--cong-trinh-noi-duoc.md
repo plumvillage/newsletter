@@ -27,7 +27,7 @@ Trong những buổi trị liệu, chúng tôi hát các bài thiền ca của L
 
 Cha tôi là bác sĩ. Còn mẹ tôi thường được mời dạy vẽ tại các trường tiểu học và trung học nên từ nhỏ tôi đã được gần gũi với nhiều thầy cô giáo. Từ những nhân duyên đó cùng với trải nghiệm về bệnh tật, tôi trở nên quan tâm đến việc chăm sóc sức khỏe cho những người đang làm các công việc phụng sự cộng đồng như giáo viên, bác sĩ,… Những yếu tố này đã tạo cảm hứng cho tôi trong việc tìm hiểu và nghiên cứu cách thức áp dụng sự thực tập chánh niệm vào lĩnh vực y tế. 
 
-{% image "article/dr-elli-weisbaum/New-Hamlet-2015-From-left-SrJewel-Thay-Elli-Weisbaum.jpg", "", "Sr Jewel Kaira, Thay, Elli Weisbaum. 2015" %}
+{% image "article/dr-elli-weisbaum/New-Hamlet-2015-From-left-SrJewel-Thay-Elli-Weisbaum.jpg", "", "từ trái sang: Sc. Châu Nghiêm, Thầy và Elli, năm 2015" %}
 
 Niềm cảm hứng trong tôi lớn thêm trong quá trình tôi học thạc sĩ. Thời gian đó, bên cạnh tập trung nghiên cứu về việc lồng ghép chánh niệm vào lĩnh vực giáo dục, tôi còn giữ vai trò điều phối viên của chương trình Wake Up Schools - một chương trình được Thầy và tăng thân khởi xướng nhằm hỗ trợ việc đem chánh niệm vào giáo dục. Trong quá trình học sau đại học, tôi được biết đến các nghiên cứu khoa học về tình trạng kiệt sức vì quá tải của những người làm việc trong lĩnh vực phụng sự cộng đồng, đặc biệt là giáo viên và y bác sĩ.
 
@@ -61,14 +61,19 @@ Công trình nghiên cứu tiến sĩ của tôi đã được tổ chức với
 
 Tôi đã tổ chức hai buổi phỏng vấn các bác sĩ sau khi họ tham gia chương trình nghiên cứu. Dưới đây là một số chia sẻ của họ:
 
-> “Tôi cảm thấy hơi thở ý thức thực sự rất hữu ích. Tháng vừa qua, hầu như ngày nào tôi cũng làm phẫu thuật và càng lúc càng bị căng thẳng. Ngày làm việc nào cũng dài và với tốc độ quá chóng mặt, chúng tôi chẳng lúc nào dừng được dù chỉ để ăn một miếng gì hay làm một cái gì khác. Giữa các ca phẫu thuật thường chỉ có được vài phút – tôi thấy rằng chỉ cần dành mấy phút đó để thực tập thở là có một sự chuyển giao tốt lắm. Chỉ cần giữ cho đầu óc minh mẫn tỉnh táo để nhanh chóng đi tiếp qua một ca bệnh khác.”<cite>Bác sĩ khoa mắt</cite>
+> “Tôi cảm thấy hơi thở ý thức thực sự rất hữu ích. Tháng vừa qua, hầu như ngày nào tôi cũng làm phẫu thuật và càng lúc càng bị căng thẳng. Ngày làm việc nào cũng dài và với tốc độ quá chóng mặt, chúng tôi chẳng lúc nào dừng được dù chỉ để ăn một miếng gì hay làm một cái gì khác. Giữa các ca phẫu thuật thường chỉ có được vài phút – tôi thấy rằng chỉ cần dành mấy phút đó để thực tập thở là có một sự chuyển giao tốt lắm. Chỉ cần giữ cho đầu óc minh mẫn tỉnh táo để nhanh chóng đi tiếp qua một ca bệnh khác.”<br/><cite>Bác sĩ khoa mắt</cite>
 
-> “Tôi nghĩ là chắc chắn tôi sẽ tiếp tục thực tập bởi vì tôi phát hiện ra rằng trong ngày, tôi thấy mọi thứ diễn ra suôn sẻ hơn và một ngày của tôi mà suôn sẻ hơn thì cuối ngày tôi cảm thấy hạnh phúc hơn khi về nhà. Nhờ vậy tôi không mang về nhà những bực bội, khó chịu đã diễn ra trong ngày. Tôi nghĩ, những hơi thở sâu lắng giữa các ca bệnh, những bước chân chánh niệm mà tôi thực tập có tác dụng rất tuyệt vời.”<cite>Bác sĩ chuyên về thấp khớp</cite>
+> “Tôi nghĩ là chắc chắn tôi sẽ tiếp tục thực tập bởi vì tôi phát hiện ra rằng trong ngày, tôi thấy mọi thứ diễn ra suôn sẻ hơn và một ngày của tôi mà suôn sẻ hơn thì cuối ngày tôi cảm thấy hạnh phúc hơn khi về nhà. Nhờ vậy tôi không mang về nhà những bực bội, khó chịu đã diễn ra trong ngày. Tôi nghĩ, những hơi thở sâu lắng giữa các ca bệnh, những bước chân chánh niệm mà tôi thực tập có tác dụng rất tuyệt vời.”<br/><cite>Bác sĩ chuyên về thấp khớp</cite>
 
-> “Hơi thở chánh niệm giúp tôi đối mặt với hầu hết tình huống khó khăn. Trong những lúc tương tác với bệnh nhân, nhờ hơi thở, tôi có thể lựa chọn: phản ứng ngay hay có thể dừng lại (dù chỉ trong một giây thôi). Khi thực sự được buông thư, ngay lập tức ta có thể lựa chọn để hành động khác đi, tốt đẹp hơn.”<cite>Bác sĩ Phẫu thuật</cite>
+> “Hơi thở chánh niệm giúp tôi đối mặt với hầu hết tình huống khó khăn. Trong những lúc tương tác với bệnh nhân, nhờ hơi thở, tôi có thể lựa chọn: phản ứng ngay hay có thể dừng lại (dù chỉ trong một giây thôi). Khi thực sự được buông thư, ngay lập tức ta có thể lựa chọn để hành động khác đi, tốt đẹp hơn.”<br/><cite>Bác sĩ Phẫu thuật</cite>
 
 Tôi vô cùng biết ơn mỗi thành viên trong chương trình đã chia sẻ những trải nghiệm và câu chuyện riêng của họ. Khi viết xuống những dòng này, tôi nhớ đến một chuyên viên phẫu thuật. Ngay buổi đầu tiên của chương trình, vị ấy đã phát biểu rất thẳng thừng là không tin vào “*mấy cái thứ chánh niệm*” này. Và rồi trong buổi phỏng vấn sau khi chương trình kết thúc, chính vị ấy lại khẳng định rằng mình đã cảm thấy “*phải lòng tiếng chuông”* và dự tính cuối chương trình sẽ “*trộm chuông mang về”* để thỉnh cho các đồng nghiệp thực tập trước mỗi buổi phẫu thuật. 
 
 ## Không bắt đầu, không kết thúc
 
 Trong phạm vi bài viết, tôi không thể chia sẻ hết được công việc mang pháp môn thực tập của Thầy vào lĩnh vực y tế. Nhưng Thầy cũng dạy rằng nếu biết nhìn sâu thì ta sẽ không thấy có điểm khởi đầu và điểm kết thúc. Cho nên trong tích môn, dù bài viết đang được khép lại, nhưng khát khao được tiếp nối công trình này, được phối hợp với cộng đồng xuất sĩ và cư sĩ của Làng Mai mang thực tập chánh niệm đến với ngành y tế để góp phần xây dựng một xã hội lành mạnh, đầy tình thương, vẫn đang được tiếp tục nuôi lớn trong tôi.
+
+<div class="article-end"></div>
+
+<!-- {% image "article/dr-elli-weisbaum/En_healing is every step - twois.jpg" %} -->
+{% image "article/dr-elli-weisbaum/Wake-Up-Toronto-Monastics-from-BCM-May-2018-c.jpg", "", "WakeUp Toronto, năm 2018" %}

@@ -123,7 +123,7 @@ Trong suốt thời gian trà tỳ (khoảng 17 giờ đồng hồ), đại chú
 {% image "article/recap-of-ceremonies/From Hue/L1000913.JPG", "noFloat" %}
 {% image "article/recap-of-ceremonies/From Hue/272769680_486020419559525_8016276306084693244_n.jpg", "noFloat" %}
 
-Đại chúng vô cùng xúc động khi nghe Sư cô Chân Không hát bài “The smile”. Lời bài hát giúp đại chúng tiếp xúc với Sư Ông nơi ánh mặt trời, nơi những cơn mưa, nụ hoa, nơi ánh mắt em thơ ... Thường sau mỗi buổi pháp thoại công cộng, Sư Ông hay mời Sư cô lên hát bài này và trong khi Sư cô hát, Sư Ông nhẹ nhàng rời khỏi pháp tòa. Sư cô Định Nghiêm cũng cúng dường Sư Ông bài hát tiếng Pháp “Le bonheur” mà Sư Ông yêu thích. 
+Đại chúng vô cùng xúc động khi nghe Sư cô Chân Không hát bài “The smile”. Lời bài hát giúp đại chúng tiếp xúc với Sư Ông nơi ánh mặt trời, nơi những cơn mưa, nụ hoa, nơi ánh mắt em thơ… Thường sau mỗi buổi pháp thoại công cộng, Sư Ông hay mời Sư cô lên hát bài này và trong khi Sư cô hát, Sư Ông nhẹ nhàng rời khỏi pháp tòa. Sư cô Định Nghiêm cũng cúng dường Sư Ông bài hát tiếng Pháp “Le bonheur” mà Sư Ông yêu thích. 
 
 {% image "article/recap-of-ceremonies/From PV/IMG_1565.jpg" %}
 

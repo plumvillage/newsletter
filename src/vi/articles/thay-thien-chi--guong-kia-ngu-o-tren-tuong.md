@@ -1,5 +1,5 @@
 ﻿---
-title: Gương kia ngự ở trên tường...
+title: Gương kia ngự ở trên tường…
 author: Thầy Chân Trời Thiện Chí
 ---
 

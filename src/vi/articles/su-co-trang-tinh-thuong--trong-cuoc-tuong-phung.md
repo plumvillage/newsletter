@@ -33,14 +33,14 @@ Tôi đang lắng nghe âm thanh tinh khiết của buổi sớm mai. Tôi đang
 
 Tôi mang áo ra ngoài đi dạo khi mặt trời đã lên cao. Tia nắng giữa trời đông thật ấm áp, dịu hiền. Lời bài hát của sư cô Uyển Nghiêm vọng bên tai tôi: “Thương nụ cười Thầy, hiền như nắng mới đùa trước sân”. Vui quá, tôi mời Thầy cùng dạo chơi, lên đồi thăm vườn mận, ghé qua thăm đồi Dương Xuân và ngước mắt nhìn rừng bạch dương đang dần trụi lá. Lâu lắm rồi phải không thưa Thầy, trong cái tình cờ luôn chứa đựng cái bất ngờ. Thầy đã từng dạy, chỉ cần con có mặt hết lòng với giây phút hiện tại, thì chính giây phút đó cho con giá trị của khoảnh khắc thiên thu. Và hôm nay, trong thời khắc này, con đang thật sự chạm vào cái mà con không sao diễn tả được, chỉ biết thốt lên câu “This is it - Nó đây này”. Đó là cái bao la của nội tâm, là cái hân hoan và rung cảm đón chào ngày mới, là cái tháo tung những nút thắt chật hẹp, là cái phá vỡ căn nhà tâm thức tù túng nhỏ nhen, là cái rộng lượng bao dung muốn ôm trọn cả không gian chung quanh, và nhiều cái nữa… Con chỉ biết đứng đó lặng yên thở, trải nghiệm sự diệu kỳ của sự sống, và cứ để cho những giọt nước mắt đoàn tụ cảm thông đi thăm viếng và chữa lành từng vết thương xưa.
 
+{% image "article/sr-trang-tinh-thuong/IMG_3032.JPG" %}
+
 Hơi thở nhịp nhàng nâng từng bước chân, tôi tiếp tục khám phá tâm thức và mời nó ra bên ngoài tận hưởng tình thương của đất Mẹ. Nắng đã lên cao làm ấm cả khu đồi. Tôi mỉm cười thật nhẹ và thầm biết ơn Thầy và sư cô Chân Không, biết ơn tổ tiên đất đai, biết ơn cả dòng chảy tăng thân bốn mươi năm qua đã tạo ra môi trường y báo lành mạnh để vô vàn hạt sồi năm xưa có đất đai và điều kiện tốt tìm về gieo hạt. Từ trong sâu thẳm, tôi cảm nhận được sư bà Diệu Không vẫn đang còn đó, đang hiện hữu trong từng bước chân tôi sáng nay, đang cùng nắm tay sư cô Chân Không bước những bước chân kiện hành trong bản môn, ung dung tự tại và âm thầm dõi theo từng bước tiến tu của con cháu mình. 
 
 Mười năm nhìn lại một chặng đường mà thấy như vừa mới xảy ra hôm qua. Mười năm, nếu đánh đổi sự sống ngoài đời, thì thân cũng tàn và sức cũng kiệt. Thật may mắn, tôi đã tìm được chính tôi nhờ nếp sống chân thật trong tình tăng thân, nhờ những giúp đỡ thầm lặng của những tâm hồn cao thượng, nhờ những gieo duyên kỳ diệu của bé Thi ngày nào, nhờ những hiểu thương, những lặng im đầy kiên nhẫn của tình chị em khi va chạm khó khăn, nhờ những buổi tâm tình bên ly trà nóng mà biết bao nhọc nhằn, trắc trở, nội kết được tháo gỡ… Nhiều lắm những viên ngọc quý từ ruộng phước tăng thân. Đến lúc này tôi chợt nhận ra rằng, chừng nào mình thực sự đặt trái tim mình vào nhịp sống của tăng thân, mình sẽ thấy tăng thân chính là sự sống của mình, và mình chính là sự sống của từng tế bào trong tăng thân. Khi đó tự nhiên mình sẽ có tình thương, có sự chấp nhận và lòng bao dung. Tăng thân sẽ rèn thêm cho mình nhiều nội lực và ý chí bền bỉ, đặc biệt là nhiều niềm vui sống, nhiều không gian tự do bên trong, giúp mình đủ sức đi qua những sóng gió trong cuộc đời. Đó là giá trị đích thực của nếp sống tăng thân.
 
 <div class="verse"><p>Bao la đệ huynh, cười trên những nhọc nhằn khó khăn<br/>
 Ta còn bạn bè, là có cả một trời gió trăng.</p></div>
-
-{% image "article/sr-trang-tinh-thuong/IMG_3032.JPG" %}
 
 ## Tình tăng thân
 

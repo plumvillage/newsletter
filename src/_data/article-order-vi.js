@@ -50,9 +50,11 @@ module.exports = [
 "elli-weisbaum--cong-trinh-noi-duoc",
 "thay-phap-luu-orla--nhung-ngoi-truong-tinh-thuc",
 "richard-brady--dem-chanh-niem-vai-truong-hoc",
+"su-co-hoi-nghiem--thoi-gian-la-su-song",
 "minh-huong--giac-mo-dai-dong",
 "thay-troi-dao-bi--con-duong-tinh-thuong",
 "hisae-matsuda-and-terry-barber--hanh-trinh-den-voi-lang-mai",
+"thay-phap-kha--quan-tam",
 
 /*************************/"Chapter5",
 "thay-phap-ung--con-ga-va-qua-trung",
@@ -64,8 +66,8 @@ module.exports = [
 "su-co-trang-tinh-thuong--trong-cuoc-tuong-phung",
 "su-co-trang-hien-nhan--hoc-tieng-viet",
 "thay-linh-nam--kinh-so-tam",
-"su-co-trang-bo-de--advent",
 "su-co-tuyet-nghiem--niem-thuong-binh-an",
+"su-co-trang-bo-de--advent",
 "su-co-boi-nghiem--cam-di",
 "su-co-trang-mai-thon--nhap-luu-ngay-binh-thuong",
 "su-chu-ruong-duc--no-day-roi",
@@ -74,8 +76,6 @@ module.exports = [
 "bich-nham--thong-dong-may-trang-troi-xanh",
 "bbt--lang-mai-nam-qua",
 "thay-nguyen-tinh--ngan-xua-hen-tro-ve",
-"su-co-hoi-nghiem--thoi-gian-la-su-song",
-"thay-phap-kha--quan-tam",
 "bbt--lich-sinh-hoat",
 "bbt--dia-chi-lien-lac-cua-lang-mai"
 
