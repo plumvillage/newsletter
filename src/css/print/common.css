@@ -288,11 +288,11 @@ figure#calligraphyzen-circlezen-circle {
     margin-top: 5%;
 }
 #thays-portrait-page .tpp-thay {
-    font-family: "Gentium Book Plus";
-    /* font-family: "CormorantSC-Bold"; */
+    /* font-family: "Gentium Book Plus"; */
+    font-family: "CormorantSC-Bold";
     font-size: 190%;
-    font-weight: bold;
-    font-variant: small-caps;
+    /* font-weight: bold; */
+    /* font-variant: small-caps; */
     line-height: 130%;
     margin-top: 5%;
     color: var(--color-bark-dark);
