@@ -15,7 +15,7 @@ Sau khoảng hai tháng, tình cờ con tìm được một loại kẽm dạng 
 
 Khi phần gốm đã khô hoàn toàn, con bắt tay vào vẽ với niềm vui rất lớn. Tuy nhiên, màu sắc nhìn không được thật lắm. Với nụ cười tươi, một thầy trêu con: “Thầy Thiện Chí biết không, chiếc gương nhìn có vẻ hơi giống trong phim kinh dị!”. May mắn thay, có một thiền sinh vốn là chuyên gia trong lĩnh vực phục chế đồ cổ đã giúp con làm cho cái khung nhìn tự nhiên hơn. 
 
-Rốt cuộc, khi mở kiện hàng lớn nhận được từ Pháp, mẹ con hết sức vui mừng và thích thú! Con thầm nghĩ: ước gì con có thể thấy gương mặt của mẹ khi mở quà và nhìn thấy cái gương. Nụ cười của mẹ là phần thưởng xứng đáng cho tất cả những nỗ lực của con. Bây giờ, chiếc gương  được đặt ở một nơi đầy nắng trong phòng mẹ, và đang truyền đi những lời dạy sáng đẹp của Thầy qua bài kệ Soi gương được viết bằng tiếng Bun-ga-ri: “Đẹp nhất là tình thương - Và cái nhìn rộng rãi”.
+Rốt cuộc, khi mở kiện hàng lớn nhận được từ Pháp, mẹ con hết sức vui mừng và thích thú! Con thầm nghĩ: ước gì con có thể thấy gương mặt của mẹ khi mở quà và nhìn thấy cái gương. Nụ cười của mẹ là phần thưởng xứng đáng cho tất cả những nỗ lực của con. Bây giờ, chiếc gương  được đặt ở một nơi đầy nắng trong phòng mẹ, và đang truyền đi những lời dạy sáng đẹp của Thầy qua bài kệ “Soi gương” được viết bằng tiếng Bun-ga-ri: “Đẹp nhất là tình thương - Và cái nhìn rộng rãi”.
 
 <div class="article-end"></div>
 
