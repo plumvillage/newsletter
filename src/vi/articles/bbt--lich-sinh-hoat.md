@@ -62,4 +62,4 @@ title: Lịch sinh hoạt năm 2022 của tăng thân Làng Mai
 
 ## Tại tu viện Nhập Lưu – Úc
 
-*Xin vào trang nhà của Tu viện để xem chi tiết: [en.nhapluu.org](https://en.nhapluu.org/)*
+*Xin vào trang nhà của Tu viện để xem chi tiết: [vi.nhapluu.org](https://vi.nhapluu.org/)*
