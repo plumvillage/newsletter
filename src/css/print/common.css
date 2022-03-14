@@ -288,8 +288,11 @@ figure#calligraphyzen-circlezen-circle {
     margin-top: 5%;
 }
 #thays-portrait-page .tpp-thay {
+    /* font-family: "Gentium Book Plus"; */
     font-family: "CormorantSC-Bold";
     font-size: 190%;
+    /* font-weight: bold; */
+    /* font-variant: small-caps; */
     line-height: 130%;
     margin-top: 5%;
     color: var(--color-bark-dark);
@@ -595,18 +598,9 @@ article .author + p
     margin-top: 0 !important;
 }
 
-/* this has been explicitly requested not to apply to VI by Sr Tai N */
-html:lang(en) article .author + p
-{
-    text-indent: 0 !important;
-}
-
-html:lang(vi) article .author + p {
-    text-indent: 16pt !important;
-    /* background-color: red !important; */
-}
-html:lang(vi) article .author {
-    /* background-color: red !important; */
+/* this has been explicitly requested by Sr Tai N: all paragraphs are indented by default (even on the first paragraph) */
+html:lang(vi) article > p {
+    text-indent: 16pt;
 }
 
 article > *:first-child:not(h1) {

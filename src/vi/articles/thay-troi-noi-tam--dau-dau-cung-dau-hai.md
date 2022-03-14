@@ -33,7 +33,9 @@ Xuân Phong đang được hầu kim quan Thầy những ngày cuối cùng. Em 
 
 {% image "article/sr-trang-bo-de/IMG_0331.jpg" %}
 
-Mấy ngày nay khi tụng kinh ở thiền đường Chuyển Hóa, em quán chiếu thấy Thầy hồi còn 60 tuổi. Thầy đang đi, ra vào tự tại. Khi đó Làng còn giản dị, đơn sơ. Thầy còn trẻ, mắt Thầy sáng trưng, và miệng nở nụ cười tươi ơi là tươi. Em tụng kinh có nhiều hạnh phúc, cái giọng tụng kinh xưa nay dở tệ, bỗng hôm nay thấy hay hơn bao giờ hết. Em đi dạo một vòng quanh Làng, đi từ đồi cao xóm Thượng, men theo rừng hoa mai, đi xuống rừng thông, ngang qua vườn Bụt, ghé xuống thiền đường Thánh mẫu Maya. Ở đâu em cũng thấy pháp thân Thầy. Quả thực em chưa bao giờ thấy pháp thân Thầy rõ ràng đến thế!
+Mấy ngày nay khi tụng kinh ở thiền đường Chuyển Hóa, em quán chiếu thấy Thầy hồi còn 60 tuổi. Thầy đang đi, ra vào tự tại. Khi đó Làng còn giản dị, đơn sơ. Thầy còn trẻ, mắt Thầy sáng trưng, và miệng nở nụ cười tươi ơi là tươi. Em tụng kinh có nhiều hạnh phúc, cái giọng tụng kinh xưa nay dở tệ, bỗng hôm nay thấy hay hơn bao giờ hết.
+
+Em đi dạo một vòng quanh Làng, đi từ đồi cao xóm Thượng, men theo rừng hoa mai, đi xuống rừng thông, ngang qua vườn Bụt, ghé xuống thiền đường Thánh mẫu Maya. Ở đâu em cũng thấy pháp thân Thầy. Quả thực em chưa bao giờ thấy pháp thân Thầy rõ ràng đến thế!
 
 ## Đường xưa mây trắng
 

@@ -63,12 +63,12 @@ gs -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/e
     
     -sColorConversionStrategy=CMYK \
     -dFastWebView \
+    -dFirstPage=8 \
+    -dLastPage=9 \
     */
 let command = `gs \
 -o "${pdfFile}_dpi${dpi}_q${Q}.pdf" \
 -sDEVICE=pdfwrite \
--dFirstPage=8 \
--dLastPage=9 \
 -dNOPAUSE \
 -dDownsampleColorImages=true \
 -dDownsampleGrayImages=true \
@@ -174,7 +174,7 @@ if (generateArticles) {
     Array(3).fill().forEach(processArticle);
 }
 
-// generatePDF("http://fee:8080/vi/articles-print-preview/su-co-trang-bo-de--advent/", `./builds/CUSTOM.pdf`)
+// generatePDF("http://fee:8080/vi/articles-print-preview/thay-troi-noi-tam--dau-dau-cung-dau-hai/", `./builds/CUSTOM.pdf`)
 
 
 // downsample("./builds/vi-a4-bleed.pdf", 300, 0.05)
@@ -184,9 +184,10 @@ if (generateArticles) {
 // downsample("./builds/en-a.pdf", 150, 1.5)
 // downsample("./builds/vi-a4.pdf", 250, 1.5)
 // downsample("./builds/en-a4.pdf", 250, 1.5)
+// downsample("./builds/vi-a4_2022-03-14_17-06-47.pdf", 150, 1.5)
 
 
-// generatePDF("http://localhost:8080/en/a4/", `./builds/en-a4_${formatDate(new Date())}.pdf`)
+generatePDF("http://localhost:8080/en/a4/", `./builds/en-a4_${formatDate(new Date())}.pdf`)
 generatePDF("http://localhost:8080/vi/a4/", `./builds/vi-a4_${formatDate(new Date())}.pdf`)
 
 // generatePDF("http://localhost:8080/en/a4-bleed/", `./builds/en-a4-bleed_${formatDate(new Date())}.pdf`)

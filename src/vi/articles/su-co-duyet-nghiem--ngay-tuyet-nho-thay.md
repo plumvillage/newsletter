@@ -31,9 +31,8 @@ Giờ đã viên thành<br/>
 Để hôm nay lớp lớp người hướng về,<br/>
 Cúi đầu thành tâm đảnh lễ<br/>
 Muôn vạn cuộc đời đã đổi thay<br/>
-từ lời dạy:</p>
-
-<p>Mỗi lần ngã là một lần đứng dậy.<br/>
+từ lời dạy:<br/>
+Mỗi lần ngã là một lần đứng dậy.<br/>
 Để trưởng thành<br/>
 Để cuộc đời nhường một bước đi lên<span class="note">Dựng tượng tuổi thơ - Thơ Thầy</span><br/>
 Đừng tìm kiếm hạnh phúc xa vời giữa cuộc sống vô thường… <br/>
