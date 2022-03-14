@@ -1,9 +1,9 @@
 ﻿---
-title: Advent
+title: Advent - Một truyền thống đẹp cần gìn giữ
 author: Sư cô Chân Trăng Bồ Đề
 ---
 
-## Một truyền thống đẹp cần gìn giữ
+
 
 Lúc con còn nhỏ, mỗi lần Giáng sinh đến, khắp đường phố đều trang trí đèn rất lung linh. Những quầy văn phòng phẩm trưng bày những cây thông Noel, bằng nhựa thôi nhưng trông thật đẹp. Rồi nhà thờ gần nhà, thay vào vẻ vắng lặng thường ngày là không khí tấp nập, vui tươi. Dù không biết Giáng sinh là gì, con cũng thấy vui vì tối đó được đi dạo phố, ngắm cái này, cái kia. Tuy vậy, con chưa từng có can đảm bước chân vào nhà thờ chỉ bởi một lý do: con là Phật tử, ngoại trừ một lần duy nhất vì bị tính hiếu kỳ đưa đường dẫn lối. Có một lằn ranh phân cách giữa chùa và nhà thờ. Ông bà, ba mẹ con đều đồng ý rằng là Phật tử thì không được đi nhà thờ, đi vào đó là hành động phản đạo. Quan niệm ấy cũng được gieo vào đầu chị em con.
 
