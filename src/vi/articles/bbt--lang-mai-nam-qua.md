@@ -12,7 +12,7 @@ Mở đầu năm 2021, trong bối cảnh đại dịch Covid vẫn còn khá ph
 
 Khi được hỏi giây phút nào là giây phút đáng nhớ nhất trong khóa tu, nhiều thiền sinh chia sẻ: ngoài những bài pháp thoại thì sự chia sẻ và lắng nghe sâu trong các gia đình pháp đàm đem lại cho họ rất nhiều nuôi dưỡng và trị liệu. Những giây phút được ngồi thiền cùng tăng thân, được thực tập thiền buông thư và tiếp xúc với tổ tiên qua hình hài của mình, cũng như nụ cười tươi mát của các thầy, các sư cô trong lúc hát thiền ca trước pháp thoại đều là những giây phút khó quên trong lòng của nhiều thiền sinh. “Sự bình an, hòa hợp và niềm vui của tăng thân đã giúp tôi chăm sóc niềm cô đơn trong lòng. Tôi trân quý nếp sống của quý thầy, quý sư cô và tôi rất vui được gọi quý thầy, quý sư cô là những người bạn đồng hành của mình”, một thiền sinh chia sẻ. 
 
-## Khóa tu trực tuyến dành cho các nhà hoạt động xã hội và môi trường <span class="lmnq">(từ ngày 24.2 đến 28.2)</span>
+## Khóa tu trực tuyến dành cho các nhà hoạt động xã hội và môi trường<br/><span class="lmnq">(từ ngày 24.2 đến 28.2)</span>
 
 {% image "article/pv-in-2021/Action from the Heart/Action from the heart_5.jpg" %}
 
@@ -30,7 +30,7 @@ Bên cạnh các giáo thọ xuất sĩ, trong khóa tu này còn có sự tham 
 
 Một ngày trước khi khóa tu kết thúc đã diễn ra buổi lễ sám hối với đất Mẹ do sư cô Chân Đức làm chủ lễ. Nhiều thiền sinh đã rất xúc động khi có cơ hội tiếp xúc sâu sắc với đất Mẹ cũng như tiếp xúc với nỗi đau trong mình trước những gì mà loài người đã gây ra cho đất Mẹ, và để cho năng lượng của đất Mẹ, của tăng thân ôm ấp niềm đau ấy. Khóa tu kết thúc với hình ảnh gần 200 thiền sinh cùng tiếp nhận Năm giới để hành trì và thắp sáng năng lượng tỉnh thức trong tự thân, từ đó góp phần đem lại sự tỉnh thức tập thể mà cả thế giới đang cần đến.
 
-## Hội nghị Phật giáo Quốc tế trực tuyến <span class="lmnq">(từ ngày 5.3 đến ngày 6.3)</span>
+## Hội nghị Phật giáo Quốc tế trực tuyến<br/><span class="lmnq">(từ ngày 5.3 đến ngày 6.3)</span>
 
 Mười hai tổ chức Phật giáo quốc tế của nhiều nước trên thế giới (Malaysia, Singapore, Sri Lanka, Úc, Nga, Đài Loan, Indonesia và Hàn Quốc) đã đồng tổ chức Hội nghị Phật giáo quốc tế (Pali-Sanskrit International Buddhist Conference) từ ngày 5 – 6.3.2021. Hội nghị được tổ chức trực tuyến với chủ đề: Tam học (Giới – Định – Tuệ). Đức Đạt Lai Lạt Ma đã có bài phát biểu khai mạc Hội nghị. Là một trong 38 diễn giả được mời chia sẻ tại Hội nghị, thầy Pháp Ấn đã thay mặt Sư Ông và tăng thân có bài phát biểu với thông điệp: *Không có con đường đưa đến tuệ giác, tuệ giác chính là con đường.* Thầy cũng nhấn mạnh đến sự tương tức, tương nhập của ba yếu tố: Giới, Định và Tuệ. Trong bài phát biểu của mình, thầy chia sẻ: 
 
@@ -38,7 +38,7 @@ Mười hai tổ chức Phật giáo quốc tế của nhiều nước trên th�
 
 {% image "article/pv-in-2021/International Buddhist Conference/Image 16-01-2022.jpg" %}
 
-## Khóa tu xuất sĩ “Về đây tiếp nhận gia tài” <span class="lmnq">(từ ngày 16.3 đến ngày 23.3)</span>
+## Khóa tu xuất sĩ “Về đây tiếp nhận gia tài”<br/><span class="lmnq">(từ ngày 16.3 đến ngày 23.3)</span>
 
 Khóa tu diễn ra trong tiết trời đầu xuân, thiên nhiên đã ưu đãi các vị xuất sĩ tám ngày thật đẹp. Khắp xóm Thượng ở đâu cũng thấy bóng dáng áo nâu, ở đâu cũng thấy sự thong dong, tự tại, những nét mặt rạng rỡ bình an. Đó thật sự là một món quà tâm linh rất quý trong hoàn cảnh thế giới hiện tại. 
 
@@ -100,7 +100,7 @@ Lần đầu tiên trong lịch sử bốn mươi năm Làng Mai, lễ truyền 
 
 Từ ngày 5.5 đến ngày 9.5, gần 250 thiền sinh người Ý đã tham gia khóa tu trực tuyến do quý thầy, quý sư cô ở Làng hướng dẫn. Khóa tu có chủ đề: Trở về kết nối và vun bồi gốc rễ (huyết thống và tâm linh) trong chính mình. Đây là cơ hội để tăng thân người Ý cùng đến tu tập với nhau, nuôi dưỡng năng lượng chánh niệm và bình an trong bối cảnh đại dịch đầy khó khăn, thách thức. Quý thầy, quý sư chú người Ý (thầy Pháp Biểu, thầy Huệ Trực, thầy Trời Đạo Phương, thầy Trời Thiện Ý, sư chú Trời Khiết Anh và sư chú Trời Niệm Xả) đã cùng nhau tổ chức khóa tu này với rất nhiều niềm vui. 
 
-## Khóa tu trực tuyến “The Art of Inner Healing”- Nghệ thuật trị liệu thân tâm <span class="lmnq">(từ ngày 14.5 đến 16.5)</span>
+## Khóa tu trực tuyến “The Art of Inner Healing”- Nghệ thuật trị liệu thân tâm<br/><span class="lmnq">(từ ngày 14.5 đến 16.5)</span>
 
 Mới bước vào khóa tu, hơn 900 thiền sinh từ nhiều nước trên thế giới được sư cô Định Nghiêm cho đi tham quan một góc của chùa Tổ và ngắm những bông sen đầu mùa “qua màn ảnh nhỏ”. Nhiều người đã rất xúc động và cảm giác tiếp xúc được với Sư Ông dù chỉ qua những giây phút ngắn ngủi như vậy. Những kinh nghiệm thực tập, những câu chuyện rất riêng mà sư cô Định Nghiêm, sư cô Lăng Nghiêm và sư cô Chân Đức chia sẻ trong bài pháp thoại của mình đã giúp thiền sinh trở về với hơi thở và hình hài, tiếp xúc và làm bạn với em bé bị tổn thương trong mình. Một thiền sinh thổ lộ:
 
@@ -128,7 +128,7 @@ Qua các bài pháp thoại, sư cô Đẳng Nghiêm, sư cô Lăng Nghiêm, th�
 
 Khóa tu còn có những buổi chia sẻ chuyên đề (khoa học lượng tử và đạo Bụt, chánh niệm và khoa học thực dưỡng, sự tiến hoá của tâm thức trên nền tảng khoa học, ý thức về ngã sau sang chấn tâm lý dưới góc nhìn của một nhà sinh học thần kinh) với sự tham dự của những vị khách mời đặc biệt như *Giáo sư Diane Gilbert-Diamond, Tiến sĩ Lilian Cheung, Giáo sư David Sloan Wilson, Giáo sư Michel Bitbol và Giáo sư Ruth Lanius.* 
 
-## Khóa tu trực tuyến “How to Grieve” <span class="lmnq">(từ ngày 29.7 đến ngày 1.8)</span>
+## Khóa tu trực tuyến “How to Grieve”<br/><span class="lmnq">(từ ngày 29.7 đến ngày 1.8)</span>
 
 Đại dịch Covid khiến bao nhiêu người trên thế giới chịu cảnh mất người thân cũng như đối diện với cảm giác đau buồn, bất an trước những bất trắc khó lường của cuộc sống. Nhận thấy điều đó, quý thầy, quý sư cô ở Làng đã tổ chức khóa tu trực tuyến với chủ đề “How to Grieve” (Làm thế nào để đối diện với nỗi buồn đau, mất mát trong lòng mình). Khoảng 800 thiền sinh từ 48 quốc gia đã tham dự khóa tu này. 
 
@@ -150,7 +150,7 @@ Trong khóa tu còn có một buổi lễ cầu siêu cho người thân đã m�
 
 Trong mùa an cư, đại chúng còn có những ngày làm việc chung ba xóm với nhau, dọn dẹp Sơn Cốc, làm việc ở Happy Farm, trồng cây ở xóm Mới (hơn 200 cây con đã được trồng trên đồi mận và những khu đất còn bỏ trống của xóm Mới)… Dù làm bao nhiêu việc nhưng không ai thấy mệt. Đó là những giây phút tràn đầy niềm vui và tiếng cười!  
 
-## Đại Giới Đàn “Qua Bờ” <span class="lmnq">(từ ngày 1.10 đến ngày 4.10)</span>
+## Đại Giới Đàn “Qua Bờ”<br/><span class="lmnq">(từ ngày 1.10 đến ngày 4.10)</span>
 
 Một điều thật mầu nhiệm, ngoài sức tưởng tượng của nhiều người là dù trong bối cảnh đại dịch, tăng thân đã tổ chức được Đại Giới Đàn “Qua Bờ”, diễn ra từ ngày 1 - 4.10. Đại Giới Đàn được tổ chức tại tu viện Lộc Uyển (California, Mỹ) và được truyền trực tuyến đến năm trung tâm thuộc Làng Mai tại Pháp, Thái Lan và Việt Nam. 123 giới tử đã tiếp nhận giới Khất sĩ nam (42 vị) và Khất sĩ nữ (81 vị) trong Đại Giới Đàn lần này.
 
