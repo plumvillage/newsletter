@@ -72,5 +72,5 @@ Bây giờ tiếp nối rạng ngời tương lai.</p></div>
 Con sẽ tiếp nối Thầy điều gì nhỉ? Con nhớ ngày Thầy dạy con làm trụ trì, lúc đó hai thầy trò đang ngồi trong thư viện ở Sơn Cốc. Bói Kiều cho con xong Thầy bảo: “Làm trụ trì hay không không quan trọng. Cái quan trọng là con phải có tự do”. Con thấy con thực tập điều này chưa giỏi, nên con phát nguyện sẽ tiếp nối Thầy đức tính tự do, tự tại. Vì không có tự do thì con cũng sẽ không có bình an và hạnh phúc được, phải không Thầy! Cám ơn Thầy đã là Thầy của chúng con, đã dạy cho chúng con biết thở, biết cười, biết bước những bước chân an lạc thảnh thơi, biết sống một nếp sống tĩnh lặng, thiểu dục tri túc, biết thương yêu trân quý, biết nhẫn nại bao dung, biết sống sâu sắc trong giây phút hiện tại. Con sẽ luôn mang Thầy trong lòng, Thầy kính thương của tất cả chúng con. 
 
 <p class="noIndent">Thương kính Thầy thật nhiều!<br/>
-Con của Thầy<br/>
+Con của Thầy,<br/>
 Chân Hội Nghiêm</p>

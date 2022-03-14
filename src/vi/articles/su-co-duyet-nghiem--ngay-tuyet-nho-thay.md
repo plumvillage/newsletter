@@ -35,9 +35,8 @@ từ lời dạy:</p>
 
 <p>Mỗi lần ngã là một lần đứng dậy.<br/>
 Để trưởng thành<br/>
-Để cuộc đời nhường một bước đi lên<span class="note">Dựng tượng tuổi thơ - Thơ Thầy</span></p>
-
-<p>Đừng tìm kiếm hạnh phúc xa vời giữa cuộc sống vô thường… <br/>
+Để cuộc đời nhường một bước đi lên<span class="note">Dựng tượng tuổi thơ - Thơ Thầy</span><br/>
+Đừng tìm kiếm hạnh phúc xa vời giữa cuộc sống vô thường… <br/>
 Hãy sống trọn vẹn từng phút, từng giây<br/>
 của ngày hôm nay, ở đây,<br/>
 cho chính mình, cho tất cả…<br/></p>

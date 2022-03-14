@@ -1,5 +1,5 @@
 ﻿---
-title: Người thầy, người dẫn đường và người đồng hành thông thái
+title: Người thầy, người đồng hành thông thái
 author: Shantum Seth (Chân Thật Đạo)
 ---
 

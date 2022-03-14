@@ -61,16 +61,16 @@ gs -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/e
     /screen	/ebook	/printer	/prepress	        /default
 
     
-    -dFirstPage=108 \
-    -dLastPage=108 \
+    -sColorConversionStrategy=CMYK \
+    -dFastWebView \
     */
-   let command = `gs \
-   -o "${pdfFile}_dpi${dpi}_q${Q}.pdf" \
-   -sDEVICE=pdfwrite \
-   -dNOPAUSE \
-   -dFastWebView \
-   -sColorConversionStrategy=CMYK \
-   -dDownsampleColorImages=true \
+let command = `gs \
+-o "${pdfFile}_dpi${dpi}_q${Q}.pdf" \
+-sDEVICE=pdfwrite \
+-dFirstPage=8 \
+-dLastPage=9 \
+-dNOPAUSE \
+-dDownsampleColorImages=true \
 -dDownsampleGrayImages=true \
 -dDownsampleMonoImages=true \
 -dColorImageResolution=${dpi} \
@@ -182,8 +182,8 @@ if (generateArticles) {
 
 // downsample("./builds/vi-a4.pdf", 150, 1.5)
 // downsample("./builds/en-a.pdf", 150, 1.5)
-downsample("./builds/vi-a4.pdf", 250, 1.0)
-downsample("./builds/en-a4.pdf", 250, 1.0)
+// downsample("./builds/vi-a4.pdf", 250, 1.5)
+downsample("./builds/en-a4.pdf", 250, 1.5)
 
 
 // generatePDF("http://localhost:8080/en/a4/", `./builds/en-a4_${formatDate(new Date())}.pdf`)

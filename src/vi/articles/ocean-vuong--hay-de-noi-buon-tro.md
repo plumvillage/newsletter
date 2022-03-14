@@ -3,6 +3,8 @@ title: Hãy để nỗi buồn trở thành bùn cho hoa sen vươn dậy
 author: Ocean Vương (Đức Hải)
 ---
 
+<p class="editors-note">Bài viết được Tâm Tuệ Viên chuyển ngữ từ tiếng Anh.</p>
+
 Kính thưa quý vị trong cộng đồng tăng thân rộng lớn, gần xa,
 
 Trong những ngày sau khi Thầy đi xa, nhiều cơ quan truyền thông đề nghị con, với tư cách là một tác giả đồng thời là một Phật tử, phát biểu về sự kiện mang tính lịch sử này trong cộng đồng của chúng ta. Nhưng con đã từ chối – bởi lẽ con cần nói gì đây, rằng những lời dạy của Thầy vẫn còn chưa đủ rõ ràng, trong khi tự thân chúng đã đủ rõ ràng mà chẳng phải giải thích gì thêm? Cuộc đời thực tập và hoằng pháp của Thầy đã chuẩn bị cho chúng ta đối diện với phút giây này. Thầy đã chuẩn bị cho chúng ta, vì chúng ta. Vì chính những nỗi đau buồn của chúng ta trong cõi Ta bà này. Con luôn cảm thấy rằng chẳng làm gì cả sẽ khôn ngoan hơn là làm gì đó mà không có một chủ đích rõ ràng hay không hội tụ đủ những điều kiện thích hợp. Nhưng khi Denise Nguyễn – Giám đốc điều hành của Quỹ Thích Nhất Hạnh *(Thích Nhất Hạnh Foundation)* – hỏi con rằng liệu con có thể chia sẻ trực tiếp với tăng thân chúng ta không, thì đề xuất ấy đã gợi cảm hứng cho con được giãi bày với quý vị như một thành viên của tăng thân.

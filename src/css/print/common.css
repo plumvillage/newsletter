@@ -987,7 +987,7 @@ figure#articlesr-hoa-nghiemTNH-sitting-on-Vulture-Peak-India-2008,
 
 .article-kinh-so-tam #calligraphyarticle-titles-2-and-dividers5-maskedDividers2-2-straight,
 .article-tang-than-dich-thuc #calligraphyarticle-titles-2-and-dividers5-maskedDividers2-2-straight,
-.article-nguoi-thay-nguoi-dan-duong-va-nguoi-dong-hanh-thong-thai #calligraphyarticle-titles-2-and-dividers5-maskedDividers2-2-straight,
+.article-nguoi-thay-nguoi-dong-hanh-thong-thai #calligraphyarticle-titles-2-and-dividers5-maskedDividers2-2-straight,
 .article-duoi-chan-ngon-hung-phong #calligraphyarticle-titles-2-and-dividers5-maskedDividers2-2-straight,
 .article-at-the-foot-of-the-majestic-mountain #calligraphyarticle-titles-2-and-dividers5-maskedDividers2-2-straight,
 figure#calligraphyarticle-titles-2-and-dividers5-maskedDividers3-1,
@@ -1886,7 +1886,7 @@ figure#articlesr-trang-tin-yeuMisty-day-e img {
 .article-kinh-so-tam,
 .article-hanh-trinh-den-voi-lang-mai-qua-nhung-cuon-sach,
 .article-tang-than-dich-thuc,
-.article-nguoi-thay-nguoi-dan-duong-va-nguoi-dong-hanh-thong-thai,
+.article-nguoi-thay-nguoi-dong-hanh-thong-thai,
 .article-duoi-chan-ngon-hung-phong,
 .article-at-the-foot-of-the-majestic-mountain {
     break-after: unset !important;
@@ -1898,7 +1898,7 @@ figure#articlesr-trang-tin-yeuMisty-day-e img {
     margin-bottom: 2%;
     margin-top: 5%
 }
-.article-nguoi-thay-nguoi-dan-duong-va-nguoi-dong-hanh-thong-thai #calligraphyarticle-titles-2-and-dividers5-maskedDividers2-2-straight
+.article-nguoi-thay-nguoi-dong-hanh-thong-thai #calligraphyarticle-titles-2-and-dividers5-maskedDividers2-2-straight
 {
     width: 25%;
     margin-bottom: 2%;
@@ -2053,5 +2053,10 @@ h1#thuong-yeu-muon-doi-van-hat-suong-trong {
 
 /* fit onto one line */
 h1#advent-preserving-a-beautiful-tradition {
+    font-size: 31pt;
+}
+
+
+h1#nguoi-thay-nguoi-dong-hanh-thong-thai {
     font-size: 31pt;
 }

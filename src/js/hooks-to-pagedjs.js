@@ -58,6 +58,7 @@ class MyHandler extends Paged.Handler {
                 ăn mừng là -> ăn m��g là
             Keeps being in the same position until eleventy is restarted.
             Appears in paragraphs after an image (e.g. first bottom placed image - hiccup with image processing?!)
+            does it conincide with <img decoding=async?
             */
             if(node.textContent.includes("�")) {
                 console.log("FOUND � BUG IN: ", node)
