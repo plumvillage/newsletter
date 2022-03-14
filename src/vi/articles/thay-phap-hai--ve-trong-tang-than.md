@@ -83,13 +83,13 @@ Hồi trước, lúc ở tu viện Lộc Uyển, Pháp Hải có cơ hội làm 
 
 Tình bạn tốt trong đạo Bụt không chỉ là kết giao với những người có cùng sở thích hoặc có cùng quan điểm với mình. Tình bạn tốt có nghĩa là tìm ra được những người bạn đồng hành có thể hướng dẫn và dìu dắt ta trên đường tu học.
 
-Một vị Y chỉ sư hoặc một sư anh, sư chị giỏi đôi khi chia sẻ những điều mà chúng ta không đồng ý hoặc có một cách nhìn khác ta. Những lúc đó, chúng ta nên biết rằng chúng ta đã thực sự gặp được một người bạn tốt và tử tế, vì họ sẽ giúp chúng ta trưởng thành theo một cách nào đó.
+Một vị y chỉ sư hoặc một sư anh, sư chị giỏi đôi khi chia sẻ những điều mà chúng ta không đồng ý hoặc có một cách nhìn khác ta. Những lúc đó, chúng ta nên biết rằng chúng ta đã thực sự gặp được một người bạn tốt và tử tế, vì họ sẽ giúp chúng ta trưởng thành theo một cách nào đó.
 
 Mối quan hệ giữa sư anh, sư chị lớn với các sư em là mối quan hệ tương hỗ chặt chẽ. Pháp Hải khuyến khích các sư em tích cực xây dựng tình thâm với các sư anh, sư chị của mình. Nên tận dụng mọi cơ hội để đến với các sư anh, sư chị sao cho tự nhiên, uống trà, kết nối và đặc biệt với những ai khác với mình. Khi đó, các sư em sẽ khám phá ra nhiều điều thú vị. Sư anh, sư chị sẽ tặng cho các sư em nhiều món quà quý giá. Trên hết, nếu các sư em xây dựng được tình đồng đạo với các sư anh, sư chị của mình, các sư em sẽ khám phá ra rằng các vị ấy cũng là con người. Điều đó sẽ mang lại cho các sư em niềm tin vào giáo pháp bởi vì các sư em sẽ thấy được tính độc đáo của Pháp thân và sự thể hiện Pháp nơi mỗi người. Và quan trọng nhất, các sư em sẽ bắt đầu thấy được nó trong chính tự thân mình.
 
 Vì vậy, xin các sư em đừng đánh giá thấp tầm quan trọng của mối quan hệ với các sư anh, sư chị của mình. Đừng coi món quà đặc biệt này là điều hiển nhiên. Đó là một trong những sự trao truyền quý giá nhất của nếp văn hóa xuất sĩ. Nếu chúng ta vun bồi đúng cách bằng cách cho phép mình được thử thách và được yểm trợ bởi tăng thân, cho mình được lắng nghe và đôi khi bị thử thách; vui vẻ hoan nghênh những hoang mang, bối rối và nghi ngờ, thấy được niềm vui, tính dễ bị tổn thương trong mình, tưới tẩm tính tự tin và đón nhận sự hướng dẫn. Được như thế, chúng ta sẽ tạo ra trong mình tất cả các công cụ cần thiết để tiến xa trên con đường tu tập.
 
-Nếu thấy mình quá bận rộn với công việc hoặc tổ chức khóa tu, đó là lúc các sư em nên dành thời gian để đi chơi với Y chỉ sư hoặc với sư anh, sư chị. Hãy dành thời gian trong ngày và không gian trong tâm của các sư em để làm điều đó nhé.
+Nếu thấy mình quá bận rộn với công việc hoặc tổ chức khóa tu, đó là lúc các sư em nên dành thời gian để đi chơi với y chỉ sư hoặc với sư anh, sư chị. Hãy dành thời gian trong ngày và không gian trong tâm của các sư em để làm điều đó nhé.
 
 Mong sao những lời tâm sự giản dị từ trái tim của một sư anh giúp ích được phần nào cho các sư em trên con đường tu học bây giờ và về lâu về dài trong tương lai. 
 
