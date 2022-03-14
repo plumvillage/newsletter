@@ -1695,11 +1695,11 @@ figure#articlesr-trang-bo-deSc-Bo-DJe-4-edit {
     margin-right: auto;
 }
 .article-quan-tam .verse p + p {
-    margin-top: 4pt;
+    margin-top: 6pt;
 }
 .article-quan-tam .verse p {
-    text-indent: -3pt;
-    padding-left: 3pt;
+    /* text-indent: -3pt;
+    padding-left: 3pt; */
 }
 /* this will be too tight in the preview, but good in the pdf */
 .article-quan-tam h1 {
@@ -2071,4 +2071,7 @@ h1#advent-preserving-a-beautiful-tradition {
 
 h1#nguoi-thay-nguoi-dong-hanh-thong-thai {
     font-size: 31pt;
+}
+h1#advent-mot-truyen-thong-dep-can-gin-giu {
+    font-size: 29pt;
 }

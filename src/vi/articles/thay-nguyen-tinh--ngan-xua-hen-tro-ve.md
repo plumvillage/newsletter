@@ -9,7 +9,7 @@ author: Thầy Thích Nguyên Tịnh
 
 ## Để tôi cùng có mặt
 
-*ngày 03 tháng 11 năm 2015*
+<p class="noIndent"><i>ngày 03 tháng 11 năm 2015</i></p>
 
 Hôm nay là ngày xuất sĩ. Tôi lên Sơn Cốc khá sớm để được dạo quanh. Một vài bóng áo nâu đã có mặt, ai cũng đang thưởng thức không khí tĩnh lặng nơi đây. Thầy đi Mỹ trị bệnh chưa về. Ba hôm nữa là tròn một năm ngày tôi đặt chân đến Làng.
 
@@ -29,13 +29,13 @@ Thời gian ở Kim Sơn, tôi thích đi dạo ra trước ngôi tháp và đ�
 
 {% image "article/br-nguyen-tinh/BrNguyenTinh2-edit.jpg" %}
 
-*Buổi thị giả thứ 16, ngày 25 tháng 3 năm 2016*
+<p class="noIndent"><i>Buổi thị giả thứ 16, ngày 25 tháng 3 năm 2016</i></p>
 
 Như chư Tổ ngày xưa, bây giờ Thầy cũng ngày đêm truyền trao pháp hành sinh động: Ngươi đỡ chân, ta vì ngươi mà bước; ngươi dâng thuốc, ta vì ngươi mà uống; ngươi đưa cơm, ta vì ngươi mà ăn; ngươi trái lễ, ta vì ngươi mà la dạy; ngươi pha trà, ta vì ngươi mà đưa tay ra tiếp; ngươi muốn học, ta vì ngươi mà dạy bảo; ngươi đưa bô tới, ta vì người mà đi tiểu; ngươi muốn học vô thường, ta vì ngươi mà bệnh, thử hỏi ta có truyền tâm ấn cho ngươi không, ai phụ bạc ai. Tôi cảm được điều này trong thời gian làm thị giả. Thầy cũng đang bệnh cho tăng thân, cho Làng, cho các con của mình có dịp lớn lên thêm. Thầy đang chịu đựng những đau nhức, vậy mà, ngày nào Thầy cũng có thời giờ ngắm nhìn sự sống đang tuôn dậy. Đó không là một phép lạ, không là một bài pháp thoại đầy sinh khí và sống động thì là gì? Ta đòi tiếp nhận gì từ Thầy nữa, nếu không tiếp nhận được những bài học cụ thể đó.
 
 Sức mạnh của Thầy vẫn còn toát ra từ đôi mắt. Tôi nhớ một buổi sáng trong ngày thứ hai của Đại giới đàn Ân Nghĩa, Thầy ở lại cốc Ngồi Yên và dậy uống trà rất sớm. Sau đó Thầy dạy hai anh em thị giả chúng tôi mặc áo dài, đẩy xe lăn cho Thầy đi ngắm trăng. Tôi đẩy xe lên con đường bên hông tháp chuông xóm Thượng. Trăng buổi mai tròn và sáng lắm, Thầy ngồi yên ngắm trăng, thỉnh thoảng đưa tay lên chỉ cho hai đứa học trò được tiếp xúc sâu hơn. Vào thiền đường Nước Tĩnh, Thầy nhìn quanh cách trang trí một chút rồi lại ngắm trăng, lại chỉ cho hai anh em. Sau đó, Thầy đồng ý ra thiền đường Chuyển Hóa thăm. Chư Tôn đức đang dùng sáng và Thầy cũng dùng sáng chung. Thầy dùng rất chánh niệm, đưa từng muỗng thức ăn lên miệng cẩn thận và dứt khoát, ánh mắt sáng như ánh mắt mấy lần tôi bắt gặp ở Thái Lan năm 2013 khi được ở chơi bên Thầy. Chính ánh mắt và phong thái ấy đã khiến Hòa thượng Giác Quang ngồi khóc trong bữa ăn. Dùng sáng xong, Thầy về lại, gần đến cốc Ngồi Yên thì mặt trời vừa ló dạng. Thầy thấy và chỉ cho mọi người, rồi Thầy mời chư Tôn đức xuống cốc ngắm mặt trời lên. Khung cảnh thật huy hoàng.
 
-*Buổi thị giả thứ 27, ngày 5 tháng 4 năm 2016*
+<p class="noIndent"><i>Buổi thị giả thứ 27, ngày 5 tháng 4 năm 2016</i></p>
 
 Ngủ giữa lòng Phương Khê, tôi nằm mơ thấy có một bé trai chừng mười tuổi, nghèo đói và ốm yếu. Bé biết rằng mình phải đi trên một chuyến tàu đặc biệt để đến địa điểm đó thì bé sẽ tìm thấy được cuộc đời mình. Bé phải lên đường. Nhưng bé không có tiền. Với một cái bao đựng vài vật dụng, bé lựa thời điểm và trốn lên khoang chở hàng tối tăm, chật chội. Tàu lăn bánh, từ đồng bằng rồi từ từ băng qua những triền đồi cong cong và những cánh rừng hoang dại.
 

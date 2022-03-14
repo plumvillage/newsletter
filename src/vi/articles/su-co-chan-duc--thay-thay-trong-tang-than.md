@@ -85,4 +85,4 @@ Bạch Thầy, trước khi Thầy thị hiện bệnh và sau khi Thầy thị 
 
 Có khi với tư cách một sư chị, con cũng làm vai trò một vị thầy. Nếu con không có khả năng thấy các sư em một cách vô tướng, con cũng không thấy Thầy.
 
-<p class="noIndent">Con xin kính lạy Thầy để tỏ lòng biết ơn vô hạn của con.</br>Con của Thầy</br>Chân Đức</p>
+<p class="noIndent">Con xin kính lạy Thầy để tỏ lòng biết ơn vô hạn của con.</br>Con của Thầy,</br>Chân Đức</p>

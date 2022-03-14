@@ -5,7 +5,7 @@ author: Sư cô Chân Trăng Hiền Nhân
 
 <p class="editors-preface">Sư cô Trăng Hiền Nhân, người Pháp, xuất gia năm 2018 trong gia đình cây Dẻ Gai. Sư cô có nhiều cảm hứng và yêu thích học tiếng Việt từ khi bước vào Tăng thân. Bài viết dưới đây do sư cô viết trực tiếp bằng tiếng Việt.</p>
 
-<p class="noIntent">Con kính bạch Thầy,</br>
+<p class="noIndent">Con kính bạch Thầy,</br>
 Con kính thưa quý thầy, quý sư cô và đại chúng,</p>
 
 Năm nay con xin phép được chia sẻ về một chủ đề thú vị lắm. Chủ đề này là “học tiếng Việt”. Thực sự, học tiếng Việt ở đây không phải là học tiếng Việt, cho nên mình được nói “học tiếng Việt”. Có phải đủ thú vị chưa?
