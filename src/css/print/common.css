@@ -945,10 +945,10 @@ h1#the-true-sangha figure img
 }
 
 h1#the-true-sangha {
-    margin-top: 75mm;
+    margin-top: 96mm;
 }
 h1#tang-than-dich-thuc {
-    margin-top: 80mm;
+    margin-top: 102mm;
 }
 
 h1#the-true-sangha + .author, h1#tang-than-dich-thuc + .author {
@@ -1165,6 +1165,7 @@ figure#articlebr-troi-bao-tangScreenshot-edit {
 
 /* //////////////////////////////////////////////// */
 /* /////////////  INLINE RESIZED IMAGES  ////////// */
+figure#articleocean-vuongIMG7714-e,
 figure#articlebr-phap-niem12Thay-Giac-Thanhedit,
 figure#articlesr-bao-nghiemsu-me-Bao-N-2e,
 figure#articlehisae-matsuda-and-terry-barberHarvardBookstore,
@@ -1189,6 +1190,9 @@ figure#articlebr-phap-niem12Thay-Giac-Thanhedit,
 figure#articlehisae-matsuda-and-terry-barberHarvardBookstore,
 html:lang(en) figure#articlesu-ongPVM2753improved2crop {
     width: 90%;
+}
+figure#articleocean-vuongIMG7714-e {
+    width: 85%;
 }
 figure#articlesr-bao-nghiemsu-me-Bao-N-2e {
     width: 85%;

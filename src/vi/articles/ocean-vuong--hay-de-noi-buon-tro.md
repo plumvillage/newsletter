@@ -25,8 +25,13 @@ Có câu nói rằng khổ đau thực ra là thương yêu - nhưng là tình t
 
 Biết rằng quý vị vẫn đang ở đó, tìm kiếm những câu trả lời trong khi tọa thiền, khi theo dõi hơi thở, khi thực tập cúng dường, biết rằng quý vị đang ở ngay trước mặt chúng con, và rằng con vẫn thấy bóng y vàng của quý vị bừng sáng trên những nẻo đường, như những tia nắng mặt trời giữa những vụn vỡ hoang tàn màu xám, làm sao con có thể còn sợ hãi? Và hơn nữa, làm sao con có thể lạc lối được đây?
 
+{% image "article/ocean-vuong/DSC_8331.JPG" %}
+
 Vâng. Con buồn, và sẽ còn buồn như vậy một thời gian nữa. Trái tim con đau nhói, nhưng bất chấp điều đó, hoặc có thể là chính nhờ điều đó, con đã tìm thấy quý vị. Và trong quý vị, con tìm thấy chính con.
 
 <p class="noIndent">Đó là tự sự, đó là cái biết.</p>
 
-<p class="noIndent">Xin gửi tới quý vị niềm thương kính và tin cậy.</p>  
+<p class="noIndent">Xin gửi tới quý vị niềm thương kính và tin cậy.</p>
+
+<!-- <div class="article-end"></div> -->
+
