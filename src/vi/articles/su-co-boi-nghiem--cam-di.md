@@ -3,7 +3,7 @@ title: Cảm Đi
 author: Sư Cô Chân Bội Nghiêm
 ---
 
-## Từ Trái Tim Đến Trái Tim
+
 
 Có một điều giúp mình có thêm tình thương, hiểu biết và bao dung. Nếu thiếu vắng điều này, người đó có thể trở nên khô cằn, lạnh lùng và nhạt nhẽo. Đó là cái cảm. Hãy tưởng tượng sống mà không “cảm”. Không có cảm xúc, cảm thông, không cảm hóa được một ai. Không cảm nhận, cảm giác, thậm chí không cảm cúm! Sống chung với nhau mà không cảm kích và cảm mến. Thiếu sự cảm động, cảm thương, và không có cảm nghĩ gì về nhau. Khi không có những cái cảm này thì dễ rơi vào mặc cảm, trầm cảm, và vô cảm. Vì thế, sự đồng cảm rất cần thiết và cũng chính là chất liệu nuôi nguồn cảm hứng trong mình. 
 
