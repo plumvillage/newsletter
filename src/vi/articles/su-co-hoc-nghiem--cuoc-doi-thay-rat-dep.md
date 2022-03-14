@@ -5,7 +5,7 @@ author: Sư cô Chân Học Nghiêm
 
 <p class="editors-note">Trích từ sổ công phu</p>
 
-<p class="noIndent">Thầy kính thương,</p>
+Thầy kính thương,
 
 Thời gian này, mỗi khi mở quyển sổ nhật ký ra, con chỉ muốn viết thư cho Thầy. Điều này cũng không lạ. Vì người mà con thường nghĩ tới, hướng về chính là Thầy.
 
