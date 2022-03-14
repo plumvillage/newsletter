@@ -36,7 +36,7 @@ Một tháng sau khi em bắt đầu công việc mới, con trai em, Leo, đã 
 
 Em biết ơn chị nhiều lắm chị Terry ạ. Chị và các anh chị em ở Parallax đã giữ gìn một nơi như vậy để em được quay về. Không phải ở đâu cũng cho mình cảm giác tăng thân, không phải chỗ làm nào cũng đem lại cho mình cảm giác được chấp nhận và nâng đỡ nhiều đến vậy.
 
-**Chị Terry thấy Parallax đã thay đổi như thế nào qua từng ấy năm tháng? Chị có nguyện vọng gì cho tương lai của Parallax?**   
+**Chị Terry thấy Parallax đã thay đổi ra sao qua từng ấy năm tháng? Chị có nguyện vọng gì cho tương lai của Parallax?**   
 — ***Terry:*** Chị thấy ấm lòng vì Làng Mai và Parallax đã trưởng thành hơn theo năm tháng. Hơn nữa, thế hệ giáo thọ mới của Làng đã cùng hòa vào sự nghiệp làm sách, thậm chí trở thành tác giả. Parallax đã thay đổi đáng kể nhờ vào sự có mặt của em. Parallax rất cần một người phụ trách xuất bản như em, vừa giỏi chuyên môn vừa thấu hiểu được những lời dạy của Thầy và của tăng thân Làng Mai. Ngay từ khi tham gia, em đã giúp thắt chặt sự gắn kết giữa Làng Mai và ban làm sách của Parallax. Nhà xuất bản của chúng ta càng ngày càng hoạt động chuyên nghiệp và minh bạch hơn. Các thành viên hạnh phúc hơn, biết quan tâm nhau và có tinh thần hỗ trợ lẫn nhau trong công việc. Em có khả năng cảm nhận sâu sắc, hiểu được sách nào nên xuất bản, sách nào không. Em đã tìm ra và biên tập nhiều quyển sách hay. Em đã giữ vững được công việc xuất bản định kì những quyển sách có tính học thuật của Thầy. Chị rất mong nhà xuất bản chúng ta tiếp tục đường hướng này, bảo tồn được gia tài quý báu của Thầy, hợp tác với Làng Mai và phụng sự tăng thân khắp chốn bằng những quyển sách có giá trị.
 
 {% image "article/hisae-matsuda-and-terry-barber/ParallaxTeamInPV.jpg" %}
