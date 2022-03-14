@@ -1,6 +1,6 @@
 ﻿---
 title: Mai rụng làng xưa
-author: Thầy Trí Chơn
+author: Thầy Thích Trí Chơn
 ---
 
 <div class="verse"><p>
