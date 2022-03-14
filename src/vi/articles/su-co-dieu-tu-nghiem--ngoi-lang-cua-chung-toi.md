@@ -29,7 +29,7 @@ Một trong những điều ở Làng mà tôi rất thích là bất cứ khi n
 
 ## Tình thầy trò
 
-***Sư cô Từ Nghiêm***: Trong những năm đầu tiên ấy, chúng tôi đều là những người mới làm quen với sự thực tập, hoàn toàn non nớt, chỉ là những đứa trẻ một hoặc hai tuổi trong sự thực tập thôi. Lúc ấy, chúng tôi chưa có Y chỉ sư. 
+***Sư cô Từ Nghiêm***: Trong những năm đầu tiên ấy, chúng tôi đều là những người mới làm quen với sự thực tập, hoàn toàn non nớt, chỉ là những đứa trẻ một hoặc hai tuổi trong sự thực tập thôi. Lúc ấy, chúng tôi chưa có y chỉ sư. 
 
 Tại xóm Hạ có một căn phòng dành cho Thầy. Hồi đó, Thầy bắt đầu huấn luyện các vị trụ trì. Mỗi khi có việc gì, Thầy cho gọi các vị đó vào phòng để dạy, còn chúng tôi thì được tự do. Có những vị được huấn luyện làm thị giả thì Thầy dạy cách pha trà… Khi nào Thầy muốn dạy ai thì vị thị giả sẽ tới nói “Thầy muốn gặp sư cô/ sư chú”. Tôi vô cùng khâm phục cách Thầy bắt đầu xây dựng một tăng thân xuất sĩ với những người mới bắt đầu thực tập như vậy. Thầy dạy chúng tôi làm thị giả thì phải làm sao, làm trụ trì thì như thế nào. Khi nghe có những khó khăn trong tăng thân thì trong bài pháp thoại kế tiếp, Thầy sẽ dạy dựa trên những vấn đề khó khăn đó.
 
