@@ -1,6 +1,6 @@
 ﻿---
 title: Nhập Lưu, ngày bình thường
-author: Sư cô Trăng Mai Thôn
+author: Sư cô Chân Trăng Mai Thôn
 ---
 
 Bạch Thầy kính thương,
