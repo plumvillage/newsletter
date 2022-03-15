@@ -39,6 +39,9 @@ a:hover {
 body > ul > li > ul {
     margin-bottom: 0.9em;
 }
+body > ul > li > ul > li > ul {
+    margin-bottom: 0.4em;
+}
 
 .overview_small {
     max-width: 15em;
