@@ -187,8 +187,8 @@ if (generateArticles) {
 // downsample("./builds/vi-a4_2022-03-14_17-06-47.pdf", 150, 1.5)
 
 
-generatePDF("http://localhost:8080/en/a4/", `./builds/en-a4_${formatDate(new Date())}.pdf`)
-generatePDF("http://localhost:8080/vi/a4/", `./builds/vi-a4_${formatDate(new Date())}.pdf`)
+// generatePDF("http://localhost:8080/en/a4/", `./builds/en-a4_${formatDate(new Date())}.pdf`)
+// generatePDF("http://localhost:8080/vi/a4/", `./builds/vi-a4_${formatDate(new Date())}.pdf`)
 
 // generatePDF("http://localhost:8080/en/a4-bleed/", `./builds/en-a4-bleed_${formatDate(new Date())}.pdf`)
-// generatePDF("http://localhost:8080/vi/a4-bleed/", `./builds/vi-a4-bleed_${formatDate(new Date())}.pdf`)
+generatePDF("http://localhost:8080/vi/a4-bleed/", `./builds/vi-a4-bleed_${formatDate(new Date())}.pdf`)
