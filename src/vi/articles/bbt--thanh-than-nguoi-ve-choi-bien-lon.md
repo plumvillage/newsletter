@@ -64,7 +64,9 @@ Nhớ đến Sư Cố đã được sư huynh mình làm lễ thế độ trư�
 
 ***Tại Làng Mai Pháp:*** Chân Trời Định Thành, Chân Trăng Lâm Hỷ, Chân Trời Định Túc, Chân Trời Định Thường, Chân Trời Định Tín.
 
-***Tại Diệu Trạm (Huế):*** Chân Trời Tương Tức, Chân Trăng Tâm Tường, Chân Trăng Tâm Đức, Chân Trăng Tâm Minh, Chân Trời An Dưỡng, Chân Trăng Tâm Bi, Chân Trăng Tâm Lạc, Chân Trăng Tâm An, Chân Trăng Tâm Kính, Chân Trăng Tâm Anh, Chân Trăng Tâm Thường, Chân Trời Biển Hiếu, Chân Trăng Tâm Từ, Chân Trăng Tâm Như, Chân Trăng Tâm Hỷ, Chân Trăng Tâm Nhiên, Chân Trời Biển Tâm, Chân Trăng Tâm Xả, Chân Trời Lắng Nghe, Chân Trăng Tâm Tuệ, Chân Trăng Tâm Bình, Chân Trăng Tâm Hòa, Chân Trăng Tâm Định, Chân Trăng Tâm Hiếu, Chân Trăng Tâm Thuận, Chân Trăng Tâm Hiền, Chân Trăng Tâm Nguyên, Chân Trời Bát Nhã.
+***Tại Diệu Trạm (Huế):*** Chân Trời Tương Tức, Chân Trăng Tâm Tường, Chân Trăng Tâm Đức, Chân Trăng Tâm Minh, Chân Trời An Dưỡng, Chân Trăng Tâm Bi, Chân Trăng Tâm An, Chân Trăng Tâm Kính, Chân Trăng Tâm Anh, Chân Trăng Tâm Thường, Chân Trời Biển Hiếu, Chân Trăng Tâm Từ, Chân Trăng Tâm Như, Chân Trăng Tâm Hỷ, Chân Trăng Tâm Nhiên, Chân Trời Biển Tâm, Chân Trăng Tâm Xả, Chân Trời Lắng Nghe, Chân Trăng Tâm Tuệ, Chân Trăng Tâm Bình, Chân Trăng Tâm Hòa, Chân Trăng Tâm Định, Chân Trăng Tâm Hiếu, Chân Trăng Tâm Thuận, Chân Trăng Tâm Hiền, Chân Trăng Tâm Nguyên, Chân Trời Bát Nhã.
+
+***Tại tu viện Lộc Uyển (Mỹ):*** Chân Trăng Thanh Hòa.
 
 ***Tại tu viện Bích Nham (Mỹ):*** Chân Trời Định Tâm.
 
