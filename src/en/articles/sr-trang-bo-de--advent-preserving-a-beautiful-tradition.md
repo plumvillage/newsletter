@@ -50,12 +50,12 @@ The cloud in the tea I drank this morning reminds me that the most accurate answ
 
 While listening quietly to the Bible reading that evening, images of Jesus as a baby or bearing the cross, which I had seen since childhood floated to my mind's surface. Every image was beautiful. The lines on his face were as gentle as the lines sculptors often use to express the Buddha's boundless love. Buddha is beautiful and Jesus is beautiful. You are both udumbara flowers that bloomed in the darkness of humanity. In that moment, I felt I had finally broken free from a narrow cage that has held so many generations captive. I am freeing my grandparents and parents from the idea of being a “Buddhist”. I am stretching my wings to soar higher and farther in the vast sky of the mind.
 
-{% image "article/sr-trang-bo-de/IMG_0331.jpg" %}
-
 ## A Buddhist Christmas
 
 Thinking of Thay, my heart warms. Thay opened the door for Buddhism’s essence to enter the West and at the same time, allowed Buddhists to discover the beauty of spiritual traditions in the West. Thanks to Thay, our generation is receiving a rich heritage of various spiritual flows - each beautiful, each worthy of respect. 
 
 It was almost nine o'clock. “Dear sister, it's time to go home”, I whispered to my elder sister. “Umm, we will go after this song.” A funny thought popped up in my mind: *Why are we like Cinderellas?* The New Hamlet always leaves a little earlier than the other hamlets because we live a little further. If one sister stands up, all of us gather our things, say goodbye in unison and head out for the van as if it would turn into a pumpkin if we do not return in time. Gradually I have also adapted to this rhythm and am trained in those agile movements. It's quite fun being Cinderella. Knowing that I do not have much time, I cherish every moment and am wholeheartedly present. So when “it's time to go” was said, I stood up and stepped out calmly. For me, what is important is *not how long* we are present, but *how* we are present.
+
+{% image "article/sr-trang-bo-de/IMG_0331.jpg" %}
 
 The van quickly rolled home. I secretly hoped that next year more Cinderellas from New Hamlet would attend Advent. Together, let us preserve this beautiful tradition for future generations of sisters and brothers. 

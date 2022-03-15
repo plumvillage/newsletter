@@ -1,5 +1,6 @@
 const puppeteer = require('puppeteer');
 const fs = require('fs');
+const path = require("path");
 const { exec } = require('child_process');
 const articleOrder = {}
 articleOrder.vi = require("./src/_data/article-order-vi.js");
@@ -35,6 +36,10 @@ function execCMD(command) {
 }
 
 function downsample(pdfFile, dpi = 400, Q = 1.5) {
+
+    let parsed = path.parse(pdfFile)
+    let outputFile = path.join(parsed.dir, `${parsed.name}_dpi${dpi}_q${Q}.pdf`)
+
 /*
 for print:
 -sColorConversionStrategy=CMYK \
@@ -62,13 +67,13 @@ gs -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/e
 
     
     -sColorConversionStrategy=CMYK \
-    -dFastWebView \
     -dFirstPage=8 \
     -dLastPage=9 \
     */
-let command = `gs \
--o "${pdfFile}_dpi${dpi}_q${Q}.pdf" \
--sDEVICE=pdfwrite \
+   let command = `gs \
+   -o "${outputFile}" \
+   -sDEVICE=pdfwrite \
+   -dFastWebView \
 -dNOPAUSE \
 -dDownsampleColorImages=true \
 -dDownsampleGrayImages=true \
@@ -136,9 +141,10 @@ async function generatePDF(url, outputFile, onFinished = () => {}) {
             pdfStream.on('end', async () => {
                 await browser.close();
                 downsample(outputFile, 500, 0.3)
-                downsample(outputFile, 400, 1.5)
-                downsample(outputFile, 350, 2.5)
+                downsample(outputFile, 300, 0.05)
                 downsample(outputFile, 300, 3.0)
+                downsample(outputFile, 250, 1.5)
+                downsample(outputFile, 150, 0.5)
                 onFinished()
             });
         } else {
@@ -174,21 +180,22 @@ if (generateArticles) {
     Array(3).fill().forEach(processArticle);
 }
 
-// generatePDF("http://fee:8080/vi/articles-print-preview/thay-troi-noi-tam--dau-dau-cung-dau-hai/", `./builds/CUSTOM.pdf`)
+// generatePDF("http://fee:8080/en/articles-print-preview/sr-trang-bo-de--advent-preserving-a-beautiful-tradition/", `./builds/CUSTOM.pdf`)
 
 
+// downsample("./builds/vi-a4.pdf", 250, 1.5)
+// downsample("./builds/vi-a4.pdf", 300, 0.05)
+// downsample("./builds/vi-a4.pdf", 500, 0.3)
+// downsample("./builds/vi-a4-bleed.pdf", 250, 1.5)
 // downsample("./builds/vi-a4-bleed.pdf", 300, 0.05)
+// downsample("./builds/vi-a4-bleed.pdf", 500, 0.3)
+
+// downsample("./builds/en-a4.pdf", 150, 1.5)
 // downsample("./builds/en-a4-bleed.pdf", 300, 0.05)
 
-// downsample("./builds/vi-a4.pdf", 150, 1.5)
-// downsample("./builds/en-a.pdf", 150, 1.5)
-// downsample("./builds/vi-a4.pdf", 250, 1.5)
-// downsample("./builds/en-a4.pdf", 250, 1.5)
-// downsample("./builds/vi-a4_2022-03-14_17-06-47.pdf", 150, 1.5)
 
-
-// generatePDF("http://localhost:8080/en/a4/", `./builds/en-a4_${formatDate(new Date())}.pdf`)
-// generatePDF("http://localhost:8080/vi/a4/", `./builds/vi-a4_${formatDate(new Date())}.pdf`)
-
+generatePDF("http://localhost:8080/en/a4/", `./builds/en-a4_${formatDate(new Date())}.pdf`)
 // generatePDF("http://localhost:8080/en/a4-bleed/", `./builds/en-a4-bleed_${formatDate(new Date())}.pdf`)
-generatePDF("http://localhost:8080/vi/a4-bleed/", `./builds/vi-a4-bleed_${formatDate(new Date())}.pdf`)
+
+// generatePDF("http://localhost:8080/vi/a4/", `./builds/vi-a4_${formatDate(new Date())}.pdf`)
+// generatePDF("http://localhost:8080/vi/a4-bleed/", `./builds/vi-a4-bleed_${formatDate(new Date())}.pdf`)

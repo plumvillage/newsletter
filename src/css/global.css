@@ -155,11 +155,11 @@ https://github.com/CatharsisFonts/Cormorant
 
 @font-face {
     font-family: "CormorantSC-SemiBold";
-    src: url("fonts/CormorantSC-SemiBold-Edited.woff2") format("woff2");
+    src: url("fonts/CormorantSC-SemiBold.woff2") format("woff2");
 }
 @font-face {
     font-family: "CormorantSC-Bold";
-    src: url("fonts/CormorantSC-Bold-Edited.woff2") format("woff2");
+    src: url("fonts/CormorantSC-Bold.woff2") format("woff2");
 }
 /* @font-face {
     font-family: "CormorantSC-Medium";
@@ -205,8 +205,6 @@ span:lang(zh),
 blockquote:lang(zh) {
     font-family: "HK-Kai";
 }
-
-
 
 
 
