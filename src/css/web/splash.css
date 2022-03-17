@@ -42,6 +42,10 @@ body > ul > li > ul {
 body > ul > li > ul > li > ul {
     margin-bottom: 0.4em;
 }
+body > ul > li > ul > li > ul > li {
+    font-size: 0.95em;
+    line-height: 125%;
+}
 
 .overview_small {
     max-width: 15em;
