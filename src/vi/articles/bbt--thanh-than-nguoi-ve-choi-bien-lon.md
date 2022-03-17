@@ -60,7 +60,7 @@ Tại Làng Mai Pháp, hàng ngày các buổi lễ đều được truyền tr�
 {% image "article/recap-of-ceremonies/From PV/007.jpg", "noFloat" %}
 {% image "article/recap-of-ceremonies/From PV/IMG_0894.jpg", "noFloat" %}
 
-Nhớ đến Sư Cố đã được sư huynh mình làm lễ thế độ trước kim quan của Bổn sư, các sư anh sư chị lớn đã sắp xếp nhanh chóng cho lễ xuất gia của gia đình cây Mimosa (gồm 35 thành viên) được diễn ra tại nhiều tu viện Làng Mai, vào ngày 25 tháng 1: Làng Mai Pháp, Làng Mai Thái Lan, Diệu Trạm (Huế) và Bích Nham (Mỹ). Các sư em được tăng thân trao cho những cái tên thật đẹp: 
+Nhớ đến Sư Cố đã được sư huynh mình làm lễ thế độ trước kim quan của Bổn sư, các sư anh sư chị lớn đã sắp xếp nhanh chóng cho lễ xuất gia của gia đình cây Mimosa (gồm 35 thành viên) được diễn ra tại nhiều tu viện Làng Mai, vào ngày 25 tháng 1: Làng Mai Pháp, Làng Mai Thái Lan, Diệu Trạm (Huế), tu viện Lộc Uyển và tu viện Bích Nham (Mỹ). Các sư em được tăng thân trao cho những cái tên thật đẹp: 
 
 ***Tại Làng Mai Pháp:*** Chân Trời Định Thành, Chân Trăng Lâm Hỷ, Chân Trời Định Túc, Chân Trời Định Thường, Chân Trời Định Tín.
 
