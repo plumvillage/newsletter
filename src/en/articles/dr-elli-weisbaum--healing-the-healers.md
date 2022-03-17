@@ -45,7 +45,7 @@ This quote provided ongoing encouragement throughout my PhD journey. In addition
 
 I begin this section with a deep bow of gratitude to the Plum Village monastic community, who have been a meaningful support across so much of my life. Every retreat, teaching tour, online Dharma talk, recording on the Plum Village app, etc. have been made possible by the incredible humans who have chosen to walk the monastic path. To support my PhD research study, a Plum Village Monastic Advisory Committee was established. The members included Br. Phap Dung, Br. Phap Huu, Br. Phap Linh and Sr. Hien Nghiem. They were invited to provide feedback across all phases of the research study, including program development/implementation, data analysis and final thesis write up - along with collaboration on future publications. Their feedback helped to guide the study and ground the work in the teachings and language of Thay and the Plum Village community.
 
-{% image "article/dr-elli-weisbaum/New-Hamlet-2015-From-left-SrJewel-Thay-Elli-Weisbaum.jpg", "", "Sr. Kaira Jewel, Thay, Elli Weisbaum, 2015" %}
+{% image "article/dr-elli-weisbaum/New-Hamlet-2015-From-left-SrJewel-Thay-Elli-Weisbaum.jpg", "", "Sr. Kaira Jewel, Thay, Elli Weisbaum, 2013" %}
 
 ## Mindfulness in healthcare: A brief history & overview of my research study 
 
