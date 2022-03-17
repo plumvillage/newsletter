@@ -27,7 +27,7 @@ Trong những buổi trị liệu, chúng tôi hát các bài thiền ca của L
 
 Cha tôi là bác sĩ. Còn mẹ tôi thường được mời dạy vẽ tại các trường tiểu học và trung học nên từ nhỏ tôi đã được gần gũi với nhiều thầy cô giáo. Từ những nhân duyên đó cùng với trải nghiệm về bệnh tật, tôi trở nên quan tâm đến việc chăm sóc sức khỏe cho những người đang làm các công việc phụng sự cộng đồng như giáo viên, bác sĩ,… Những yếu tố này đã tạo cảm hứng cho tôi trong việc tìm hiểu và nghiên cứu cách thức áp dụng sự thực tập chánh niệm vào lĩnh vực y tế. 
 
-{% image "article/dr-elli-weisbaum/New-Hamlet-2015-From-left-SrJewel-Thay-Elli-Weisbaum.jpg", "", "từ trái sang: Sc. Châu Nghiêm, Thầy và Elli, năm 2015" %}
+{% image "article/dr-elli-weisbaum/New-Hamlet-2015-From-left-SrJewel-Thay-Elli-Weisbaum.jpg", "", "từ trái sang: Sc. Châu Nghiêm, Thầy và Elli, năm 2013" %}
 
 Niềm cảm hứng trong tôi lớn thêm trong quá trình tôi học thạc sĩ. Thời gian đó, bên cạnh tập trung nghiên cứu về việc lồng ghép chánh niệm vào lĩnh vực giáo dục, tôi còn giữ vai trò điều phối viên của chương trình Wake Up Schools - một chương trình được Thầy và tăng thân khởi xướng nhằm hỗ trợ việc đem chánh niệm vào giáo dục. Trong quá trình học sau đại học, tôi được biết đến các nghiên cứu khoa học về tình trạng kiệt sức vì quá tải của những người làm việc trong lĩnh vực phụng sự cộng đồng, đặc biệt là giáo viên và y bác sĩ.
 
