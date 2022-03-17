@@ -22,8 +22,8 @@ return (
     ].join('-')
 )}
 
-function execCMD(command) {
-    exec(command, (err, stdout, stderr) => {
+function execCMD(command, onFinshed = () => {}) {
+    let child = exec(command, (err, stdout, stderr) => {
         if (err) {
             console.log(`couldn't execute: ${command}`);
             console.log(err);
@@ -33,17 +33,16 @@ function execCMD(command) {
         console.log(`stdout: ${stdout}`);
         console.log(`stderr: ${stderr}`);
     });
+
+    child.on('exit', onFinshed)
 }
 
-function downsample(pdfFile, dpi = 400, Q = 1.5) {
+function downsample(pdfFile, dpi = 400, Q = 1.5, onFinished = () => {}) {
 
     let parsed = path.parse(pdfFile)
     let outputFile = path.join(parsed.dir, `${parsed.name}_dpi${dpi}_q${Q}.pdf`)
 
 /*
-for print:
--sColorConversionStrategy=CMYK \
-
 for DPI 300
 Q
 0.01 -> 175 MiB
@@ -69,12 +68,14 @@ gs -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/e
     -sColorConversionStrategy=CMYK \
     -dFirstPage=8 \
     -dLastPage=9 \
+    -dFastWebView \
     */
    let command = `gs \
    -o "${outputFile}" \
    -sDEVICE=pdfwrite \
-   -dFastWebView \
 -dNOPAUSE \
+-q \
+-dQUIET \
 -dDownsampleColorImages=true \
 -dDownsampleGrayImages=true \
 -dDownsampleMonoImages=true \
@@ -89,10 +90,15 @@ gs -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/e
 
     console.log("exec: ", command)
 
-    execCMD(command)
+    execCMD(command, () => {
+        onFinished(outputFile)
+    })
 }
 
 async function generatePDF(url, outputFile, onFinished = () => {}) {
+    let outputFileWithoutDate = `${outputFile}.pdf`;
+    outputFile = `${outputFile}_${formatDate(new Date())}.pdf`;
+
     // regardless of which I choose, the pdf output and the in-browser pdf output are different: the font flows slightly different (e.g. kerning, justification)
     const browser = await puppeteer.launch({
         // executablePath: "/usr/bin/google-chrome-stable"
@@ -140,12 +146,9 @@ async function generatePDF(url, outputFile, onFinished = () => {}) {
             pdfStream.pipe(writeStream);
             pdfStream.on('end', async () => {
                 await browser.close();
-                downsample(outputFile, 500, 0.3)
-                downsample(outputFile, 300, 0.05)
-                downsample(outputFile, 300, 3.0)
-                downsample(outputFile, 250, 1.5)
-                downsample(outputFile, 150, 0.5)
-                onFinished()
+                // overwrite by default (0)
+                fs.copyFileSync(outputFile, outputFileWithoutDate, 0);
+                onFinished(outputFileWithoutDate)
             });
         } else {
             await page.pdf(pdfOptions);
@@ -180,22 +183,23 @@ if (generateArticles) {
     Array(3).fill().forEach(processArticle);
 }
 
-// generatePDF("http://fee:8080/en/articles-print-preview/sr-trang-bo-de--advent-preserving-a-beautiful-tradition/", `./builds/CUSTOM.pdf`)
 
+let onFinshed = function(file) {
+    downsample(file, 500, 0.3)
+    downsample(file, 300, 0.05)
+    downsample(file, 300, 3.0)
+    downsample(file, 250, 1.5, (generatedFile) => {
+        console.log("Finished DOWNSAMPLE of:", generatedFile)
+    })
+    downsample(file, 150, 0.5)
+}
 
-// downsample("./builds/vi-a4.pdf", 250, 1.5)
-// downsample("./builds/vi-a4.pdf", 300, 0.05)
-// downsample("./builds/vi-a4.pdf", 500, 0.3)
-// downsample("./builds/vi-a4-bleed.pdf", 250, 1.5)
-// downsample("./builds/vi-a4-bleed.pdf", 300, 0.05)
-// downsample("./builds/vi-a4-bleed.pdf", 500, 0.3)
+// generatePDF("http://fee:8080/en/articles-print-preview/sr-trang-bo-de--advent-preserving-a-beautiful-tradition/", `./builds/CUSTOM`, onFinshed)
 
-// downsample("./builds/en-a4.pdf", 150, 1.5)
-// downsample("./builds/en-a4-bleed.pdf", 300, 0.05)
+// generatePDF("http://localhost:8080/en/a4/", `./builds/en-a4`, onFinshed)
+// generatePDF("http://localhost:8080/en/a4-bleed/", `./builds/en-a4-bleed`, onFinshed)
 
+// generatePDF("http://localhost:8080/vi/a4/", `./builds/vi-a4`, onFinshed)
+// generatePDF("http://localhost:8080/vi/a4-bleed/", `./builds/vi-a4-bleed`, onFinshed)
 
-generatePDF("http://localhost:8080/en/a4/", `./builds/en-a4_${formatDate(new Date())}.pdf`)
-// generatePDF("http://localhost:8080/en/a4-bleed/", `./builds/en-a4-bleed_${formatDate(new Date())}.pdf`)
-
-// generatePDF("http://localhost:8080/vi/a4/", `./builds/vi-a4_${formatDate(new Date())}.pdf`)
-// generatePDF("http://localhost:8080/vi/a4-bleed/", `./builds/vi-a4-bleed_${formatDate(new Date())}.pdf`)
+// fs.copyFileSync(`./builds/vi-a4_dpi250_q1.5.pdf`, `./docs/vi-a4_web_v2.pdf`, 0);

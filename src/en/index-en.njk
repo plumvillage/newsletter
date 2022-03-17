@@ -4,28 +4,27 @@ permalink: "en/"
 {% extends "layouts/web.njk" %}
 
     {% block content %}
-    <nav class="nav-language">
-        <a href="/vi/">Tiếng Việt</a>
-    </nav>
+
     <header class="index-header">
-        <h1>Plum Village Newsletter</h1>
-        <h2>#45 - 2022</h2>
+        <h1><img src="{% imageSrc 'calligraphy/calligraphy plum village newsletter one line.webp' %}" alt="Plum Village Newsletter"></h1>
+        <h2>Table of Contents</h2>
     </header>
-    <div class="index">
+    <ul class="toc">
         {%- for article in collections.articles_en -%}
-        <article class="index-item">
-            <header class="entry-header">
-                <div class="entry-meta">
-                    <span class="author"><a href="{{ article.url }}">{{ article.data.author }}</a></span>
-                </div>
-                <h2><a href="{{ article.url }}">{{ article.data.title }}</a><br><span style="font-size: 60%;"><a href="{{ article.url | replace('articles', 'articles-print-preview') }}">Print Preview</a></span></h2>
-            </header>
-            </header>
-            <div class="entry-content">
-                {{ article.data.content | truncate }}
-            </div>
-        </article>
+            {%- if article.data.chapter -%}
+            <li class="chapterLi" id="li-{{ article.data.title | slugify }}">
+                <span class="toc-chapter-title">{{ article.data.title }}</span>
+            {%- else -%}
+            <li id="li-{{ article.data.title | slugify }}">
+                <a class="toc-links" href="{{ article.url }}">
+                <span class="toc-title">{{ article.data.title }}</span>
+                {%- if not article.data.author == "" -%}
+                <br/><span class="toc-author">{{ article.data.author }}</span></a>
+                {%- endif -%}
+                <a class="print" href="{{ article.url | replace('articles', 'articles-print-preview') }}"><span class="emoji">🖨️</span></a>
+            {%- endif -%}
+            </li>
         {%- endfor -%}
-    </div>
+    </ul>
     {% endblock %}
 

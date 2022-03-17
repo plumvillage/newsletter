@@ -29,32 +29,34 @@ async function imageSrcShortcode(src) {
 
 async function imageData(src) {
     let justCopy = false;
-    let dryRun = false;
-    let srcFull = path.join(srcPath, src);
-    let destPath = "/media/build";
-    let data = { filename: path.basename(src) };
-    let parsed = path.parse(src);
-    
-    let outputDir = parsed.dir ? path.join("docs/media/build", parsed.dir) : "docs/media/build";
+    let maxWidth = 1500;
+    let quality = 60;
+    // let maxWidth = 5000;
+    // let quality = 96;
     
     let imgFormat = "jpeg"
     // when the input image is a webp, the output image should also be webp, because jpeg does not support transparency
     if (src.match(/\.webp$/g)) {
         imgFormat = "webp"
     }
+    
+    let dryRun = false;
+    let srcFull = path.join(srcPath, src);
+    let destPath = `/media/build`;
+    let data = { filename: path.basename(src) };
+    let parsed = path.parse(src);
+    
+    let outputDir = parsed.dir ? path.join("docs/media/build", parsed.dir) : "docs/media/build";
 
     let options = {
         formats: [imgFormat, "svg"], /* jpeg, png, webp, gif, tiff, avif */
         outputDir: outputDir,
-        widths: [1500],
-        // widths: [5000],
+        widths: [maxWidth],
         dryRun: dryRun,
         sharpOptions: {},
         // https://sharp.pixelplumbing.com/api-output#webp
-        // sharpWebpOptions: { quality: 96, },
-        // sharpJpegOptions: { quality: 96, },
-        sharpWebpOptions: { quality: 60, },
-        sharpJpegOptions: { quality: 60, },
+        sharpWebpOptions: { quality: quality, },
+        sharpJpegOptions: { quality: quality, },
         svgShortCircuit: true
     }
 
