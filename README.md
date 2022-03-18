@@ -9,15 +9,14 @@ Run `./bin/setup.sh`
 Run `npm start` and browse to [http://localhost:8080/](http://localhost:8080/).
 
 ## Generating PDF files
-Run `npm run build`
+Run `node generatePDF.js`
 
 ## Deployment
 Because of the bug that currently sometimes renders 4 columns on first run, its best to have
 Eleventy running so you can check if the layout your deploying is correct.
 
-1. In [.eleventy](.eleventy) set `processImages` to `true`.
-2. Run `npm start`, check if the layout is ok. Trigger a re-render if needed.
-3. Run `npm run deploy`
+1. Run `npm start`, check if the layout is ok. Trigger a re-render if needed.
+2. Run `npm run deploy`
 
 ## Code style
 - Use hyphenated class names in CSS.
