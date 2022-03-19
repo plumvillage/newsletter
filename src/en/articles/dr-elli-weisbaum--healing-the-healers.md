@@ -3,7 +3,7 @@ title: Healing the Healers
 author: Dr. Elli Weisbaum 
 ---
 
-<p class="editors-preface">Dr. Elli Weisbaum is a Toronto based mindfulness practitioner and teacher, who attended her first retreat with Thich Nhat Hanh at the age of ten. She is passionate about the translation of mindfulness practice into everyday life. She has worked internationally facilitating mindfulness workshops and retreats within the sectors of education, healthcare and business. Dr Weisbaum’s ongoing work with Plum Village focuses on a holistic approach to education, working simultaneously with teachers, students, parents and administrators to build sustainable inclusive communities.</p>
+<p class="editors-preface">Dr. Elli Weisbaum is an Assistant Professor at the University of Toronto, who attended her first retreat with Thich Nhat Hanh at the age of ten. She has worked internationally facilitating mindfulness workshops and retreats within the sectors of education, healthcare and business.  She is a member of the Order of Interbeing and a co-founder/facilitator of the Wake Up Toronto Sangha. Dr. Weisbaum’s ongoing collaborations with the Plum Village community focus on translating mindfulness into daily life in order to build inclusive and sustainable communities.</p>
 
 {% image "article/dr-elli-weisbaum/Retreat-1998-at-OMEGA-Institute-Centre-Thay-Right-Elli-Weisbaum_cut.jpg" %}
 
