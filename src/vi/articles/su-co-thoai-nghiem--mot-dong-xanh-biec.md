@@ -1,6 +1,6 @@
 ﻿---
 title: Một dòng xanh biếc
-author: Sư Cô Chân Thoại Nghiêm
+author: Sư cô Chân Thoại Nghiêm
 ---
 
 Làng Mai bốn mươi năm, Lá Thư Làng Mai (LTLM) cũng đã được 45 số. Từ vài trang giấy gấp đôi được gởi chung với lá hồng điều có chữ viết của Thầy cho các vị thân hữu của Làng nhân dịp năm mới đến một tập san dày đầy màu sắc, cả về nội dung lẫn hình thức, là một chặng đường dài. Những lời tâm tình về đời sống của Làng trong những lá thư đầu chuyển mình thành những bài viết, những chia sẻ từ khắp năm châu. Vẫn mang tên LTLM nhưng hình thức về sau không còn là một lá thư nữa. Ban biên tập muốn tôi viết ít hàng về những ngày đầu của Lá thư khi tôi được làm báo chung với Thầy. Tôi đồng ý ngay, trong đầu hiện lên rõ nét những năm tháng đã qua, nhưng không biết phải khởi đầu như thế nào.
