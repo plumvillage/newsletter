@@ -1,5 +1,5 @@
 ﻿---
-title: Thay smiled happily
+title: Thay Smiled Happily
 author: Sister Chân Định Nghiêm
 ---
 
