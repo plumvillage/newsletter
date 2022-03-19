@@ -21,7 +21,7 @@ Chén trà thơm thoang thoảng với đại ngàn<br/>
 Đời chầm chậm chuyển xoay trong kỳ lạ.</p>
 
 <p>Những lúc nào, bên mái hiên nắng gội<br/>
-Đất Mẹ nằm gọn ghẻ ở trong nôi<br/>
+Đất Mẹ nằm gọn ghẽ ở trong nôi<br/>
 Tấm chân tình em cất tiếng à ơi<br/>
 Và thỏ thẻ buông những lời tri kỷ.</p>
 
