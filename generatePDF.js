@@ -6,6 +6,8 @@ const articleOrder = {}
 articleOrder.vi = require("./src/_data/article-order-vi.js");
 articleOrder.en = require("./src/_data/article-order-en.js");
 
+let netlifyRedirects = `# for Netlify, see https://docs.netlify.com/routing/redirects/#syntax-for-the-redirects-file\n`;
+
 function padTo2Digits(num) {
     return num.toString().padStart(2, '0');
 }
@@ -74,8 +76,8 @@ gs -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/e
    -o "${outputFile}" \
    -sDEVICE=pdfwrite \
 -dNOPAUSE \
--q \
 -dQUIET \
+-q \
 -dDownsampleColorImages=true \
 -dDownsampleGrayImages=true \
 -dDownsampleMonoImages=true \
@@ -147,8 +149,10 @@ async function generatePDF(url, outputFile, onFinished = () => {}) {
             pdfStream.on('end', async () => {
                 await browser.close();
                 // overwrite by default (0)
-                fs.copyFileSync(outputFile, outputFileWithoutDate, 0);
-                onFinished(outputFileWithoutDate)
+                // fs.copyFileSync(outputFile, outputFileWithoutDate, 0);
+                netlifyRedirects += `/${outputFileWithoutDate}   /${outputFile}\n`;
+
+                onFinished(outputFile)
             });
         } else {
             await page.pdf(pdfOptions);
@@ -184,22 +188,51 @@ if (generateArticles) {
 }
 
 
-let onFinshed = function(file) {
-    downsample(file, 500, 0.3)
-    downsample(file, 300, 0.05)
-    downsample(file, 300, 3.0)
-    downsample(file, 250, 1.5, (generatedFile) => {
-        console.log("Finished DOWNSAMPLE of:", generatedFile)
-    })
-    downsample(file, 150, 0.5)
+let todoNext = 0;
+let workInProgress = 0;
+
+let todo = [
+    () => generatePDF("http://localhost:8080/en/a4/", `./builds/en-a4`, onFinshed),
+    // () => generatePDF("http://localhost:8080/en/a4-bleed/", `./builds/en-a4-bleed`, onFinshed),
+    // () => generatePDF("http://localhost:8080/vi/a4/", `./builds/vi-a4`, onFinshed),
+    // () => generatePDF("http://localhost:8080/vi/a4-bleed/", `./builds/vi-a4-bleed`, onFinshed),
+    () => {
+        console.log("raw PDFs all generated! now we downsample them. More hands! :)")
+        Array(3).fill().forEach(startWork);
+        continueWork()
+    }
+]
+
+function startWork() {
+    workInProgress++
+    continueWork()
 }
 
-// generatePDF("http://fee:8080/en/articles-print-preview/sr-trang-bo-de--advent-preserving-a-beautiful-tradition/", `./builds/CUSTOM`, onFinshed)
+function continueWork() {
+    if (todoNext < todo.length) {
+        todo[todoNext++]()
+    } else {
+        workInProgress--
+        if (workInProgress <= 0) {
+            // last worker just went home!
+            console.log("All Done!")
+            console.log("done!", netlifyRedirects)
+        }
+    }
+}
 
-// generatePDF("http://localhost:8080/en/a4/", `./builds/en-a4`, onFinshed)
-// generatePDF("http://localhost:8080/en/a4-bleed/", `./builds/en-a4-bleed`, onFinshed)
+let onFinshed = function(file) {
+    todo.push(() => downsample(file, 500, 0.3, continueWork))
+    todo.push(() => downsample(file, 300, 0.05, continueWork))
+    todo.push(() => downsample(file, 300, 0.05, continueWork))
+    todo.push(() => downsample(file, 250, 1.5, (generatedFile) => {
+        console.log("Finished DOWNSAMPLE of:", generatedFile)
+        continueWork()
+    }))
+    continueWork()
+}
 
-// generatePDF("http://localhost:8080/vi/a4/", `./builds/vi-a4`, onFinshed)
-// generatePDF("http://localhost:8080/vi/a4-bleed/", `./builds/vi-a4-bleed`, onFinshed)
+generatePDF("http://fee:8080/vi/articles-print-preview/su-co-boi-nghiem--cam-di/", `./builds/CUSTOM`, () => {})
 
-// fs.copyFileSync(`./builds/vi-a4_dpi250_q1.5.pdf`, `./docs/vi-a4_web_v2.pdf`, 0);
+// Array(1).fill().forEach(startWork);
+
