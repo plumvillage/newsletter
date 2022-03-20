@@ -6,6 +6,7 @@ const articleOrder = {}
 articleOrder.vi = require("./src/_data/article-order-vi.js");
 articleOrder.en = require("./src/_data/article-order-en.js");
 
+// we want the link to remain unchanged even when new revisions are being uploaded with a timestamp
 let netlifyRedirects = `# for Netlify, see https://docs.netlify.com/routing/redirects/#syntax-for-the-redirects-file\n`;
 
 function padTo2Digits(num) {
@@ -31,18 +32,25 @@ function execCMD(command, onFinshed = () => {}) {
             console.log(err);
             return;
         }
-        // the *entire* stdout and stderr (buffered)
         console.log(`stdout: ${stdout}`);
-        console.log(`stderr: ${stderr}`);
+        // unfortunately -dFastWebView spams stderr
+        // console.log(`stderr: ${stderr}`);
     });
 
     child.on('exit', onFinshed)
 }
 
-function downsample(pdfFile, dpi = 400, Q = 1.5, onFinished = () => {}) {
+function downsample(pdfFile, pdfFileWithoutDate, dpi = 400, Q = 1.5, onFinished = () => {}) {
 
     let parsed = path.parse(pdfFile)
-    let outputFile = path.join(parsed.dir, `${parsed.name}_dpi${dpi}_q${Q}.pdf`)
+    let parsedWithoutDate = path.parse(pdfFileWithoutDate)
+    
+    let outName = (src) => `${src}_dpi${dpi}_q${Q}.pdf`
+
+    let outputFile = path.join(parsed.dir, outName(parsed.name))
+    let outputFileWithoutDate = path.join(parsedWithoutDate.dir, outName(parsedWithoutDate.name))
+    
+    netlifyRedirects += `/${outName(parsedWithoutDate.name)}    /${parsed.base}\n`;
 
 /*
 for DPI 300
@@ -65,17 +73,18 @@ https://stackoverflow.com/questions/40849325/ghostscript-pdfwrite-specify-jpeg-q
 gs -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/ebook -sOutputFile=out.pdf full.pdf
     75dpi	150		300		    300, colour preserving
     /screen	/ebook	/printer	/prepress	        /default
-
     
     -sColorConversionStrategy=CMYK \
     -dFirstPage=8 \
     -dLastPage=9 \
-    -dFastWebView \
+
+    TODO -dFastWebView outputs are not quieted by -dQUIET or -q
     */
    let command = `gs \
    -o "${outputFile}" \
    -sDEVICE=pdfwrite \
--dNOPAUSE \
+   -dNOPAUSE \
+   -dFastWebView \
 -dQUIET \
 -q \
 -dDownsampleColorImages=true \
@@ -130,7 +139,8 @@ async function generatePDF(url, outputFile, onFinished = () => {}) {
 
     let usePDFstream = true
     let pdfOptions = {
-        // format: "A4",
+        // A4 fit to Letter is a ~94% downscale
+        // format: "Letter",
         preferCSSPageSize: true,
         timeout: 0,
         displayHeaderFooter: false,
@@ -148,11 +158,7 @@ async function generatePDF(url, outputFile, onFinished = () => {}) {
             pdfStream.pipe(writeStream);
             pdfStream.on('end', async () => {
                 await browser.close();
-                // overwrite by default (0)
-                // fs.copyFileSync(outputFile, outputFileWithoutDate, 0);
-                netlifyRedirects += `/${outputFileWithoutDate}   /${outputFile}\n`;
-
-                onFinished(outputFile)
+                onFinished(outputFile, outputFileWithoutDate)
             });
         } else {
             await page.pdf(pdfOptions);
@@ -162,46 +168,38 @@ async function generatePDF(url, outputFile, onFinished = () => {}) {
 
 // execCMD("rm -rf ./builds/articles-print/*")
 
-function sleep(ms) {
-    return new Promise((resolve) => setTimeout(resolve, ms));
-}
-
-let dir = `./builds/articles_${formatDate(new Date())}`
-let i = 0;
-function processArticle() {
-    if (i < articleOrder.en.length) {
-        let article = articleOrder.en[i++]
-        let url = `http://localhost:8080/en/articles-print-preview/${article}/`
-        console.log(url)
-        generatePDF(url, `${dir}/${article}.pdf`,
-        () => { // onFinished: continue:
-            processArticle()
-        })
-    }
-}
-
-let generateArticles = false
-if (generateArticles) {
-    fs.mkdirSync(dir)
-    // concurrent:
-    Array(3).fill().forEach(processArticle);
-}
-
-
 let todoNext = 0;
 let workInProgress = 0;
 
-let todo = [
+// https://en.wikipedia.org/wiki/Thread_pool
+// all jobs are assumed to continueWork() by themselves after being finished
+// we first generate all raw PDFs. onFinished() adds the downsample jobs to this queue and then proceeds execution with more threads (because the downsample is not as memory-hungry)
+let workQueue = [
     () => generatePDF("http://localhost:8080/en/a4/", `./builds/en-a4`, onFinshed),
-    // () => generatePDF("http://localhost:8080/en/a4-bleed/", `./builds/en-a4-bleed`, onFinshed),
     // () => generatePDF("http://localhost:8080/vi/a4/", `./builds/vi-a4`, onFinshed),
+    () => generatePDF("http://localhost:8080/en/a4-bleed/", `./builds/en-a4-bleed`, onFinshed),
     // () => generatePDF("http://localhost:8080/vi/a4-bleed/", `./builds/vi-a4-bleed`, onFinshed),
+    // () => onFinshed("./builds/en-a4_2022-03-19_20-28-32.pdf", "./builds/en-a4.pdf"),
+    // () => onFinshed("./builds/en-a4-bleed_2022-03-19_20-29-31.pdf", "./builds/en-a4-bleed.pdf"),
+    // () => onFinshed("./builds/vi-a4_2022-03-19_20-30-30.pdf", "./builds/vi-a4.pdf"),
+    // () => onFinshed("./builds/vi-a4-bleed_2022-03-19_20-31-38.pdf", "./builds/vi-a4-bleed.pdf"),
     () => {
-        console.log("raw PDFs all generated! now we downsample them. More hands! :)")
-        Array(3).fill().forEach(startWork);
+        console.log("begin downsampling. More hands! :)")
+        Array(6).fill().forEach(startWork);
         continueWork()
     }
 ]
+
+
+var onFinshed = function(file, fileWithoutDate) {
+    workQueue.push(() => downsample(file, fileWithoutDate, 500, 0.3, continueWork))
+    workQueue.push(() => downsample(file, fileWithoutDate, 300, 0.05, continueWork))
+    workQueue.push(() => downsample(file, fileWithoutDate, 250, 1.5, (generatedFile) => {
+        // we could to some custom task here.
+        continueWork()
+    }))
+    continueWork()
+}
 
 function startWork() {
     workInProgress++
@@ -209,30 +207,43 @@ function startWork() {
 }
 
 function continueWork() {
-    if (todoNext < todo.length) {
-        todo[todoNext++]()
+    if (todoNext < workQueue.length) {
+        workQueue[todoNext++]()
     } else {
         workInProgress--
         if (workInProgress <= 0) {
             // last worker just went home!
-            console.log("All Done!")
-            console.log("done!", netlifyRedirects)
+            // wait a bit as a safety margin (otherwise exec gets killed while printing stdout)
+            setTimeout(() => {
+                console.log("All Done!")
+                console.log("done!", netlifyRedirects)
+
+                try {
+                    fs.writeFileSync('./builds/_redirects', netlifyRedirects)
+                    //file written successfully
+                } catch (err) {
+                    console.error(err)
+                }
+
+            }, 2000);
         }
     }
 }
 
-let onFinshed = function(file) {
-    todo.push(() => downsample(file, 500, 0.3, continueWork))
-    todo.push(() => downsample(file, 300, 0.05, continueWork))
-    todo.push(() => downsample(file, 300, 0.05, continueWork))
-    todo.push(() => downsample(file, 250, 1.5, (generatedFile) => {
-        console.log("Finished DOWNSAMPLE of:", generatedFile)
-        continueWork()
-    }))
-    continueWork()
+
+let dir = `./builds/articles_${formatDate(new Date())}`
+let generateArticles = false
+if (generateArticles) {
+    fs.mkdirSync(dir)
+    for (let article of articleOrder.en) {
+        let url = `http://localhost:8080/en/articles-print-preview/${article}/`
+        workQueue.push(() => generatePDF(url, `${dir}/${article}.pdf`, onFinshed))
+    }
 }
 
-generatePDF("http://fee:8080/vi/articles-print-preview/su-co-boi-nghiem--cam-di/", `./builds/CUSTOM`, () => {})
 
-// Array(1).fill().forEach(startWork);
+// generatePDF("http://fee:8080/vi/articles-print-preview/su-co-boi-nghiem--cam-di/", `./builds/CUSTOM`)
 
+// concurrent.
+// for full-size pdf, 2 is very memory intense (16GB recommended)
+Array(1).fill().forEach(startWork);

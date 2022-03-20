@@ -6,7 +6,6 @@ const path = require("path");
 const slugify = require('slugify')
 const sharp = require("sharp");
 const Image = require("@11ty/eleventy-img");
-Image.concurrency = 8; // default is 10
 const srcPath = "src/media/originals";
 const calligraphyPath = "calligraphy/article titles/article-titles/";
 // const calligraphyPath = "calligraphy/article-titles/";
