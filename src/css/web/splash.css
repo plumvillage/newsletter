@@ -30,6 +30,10 @@ a {
     box-shadow: var(--color-sun-light) 0px -.1em 0px 0px inset;
     transition: all 400ms cubic-bezier(0.15, 0.53, 0.35, 1);
 }
+
+a.altColor {
+    color: var(--color-bark-dark);
+}
   
 a:hover {
     text-decoration: none;

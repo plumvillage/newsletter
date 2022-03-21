@@ -68,6 +68,31 @@ Q
 1.5  ->  26 MiB poor, but ok for web view
 3.0  ->  20 MiB
 
+
+this is how I resized the A4 cover to fit Letter:
+1 inch = 72 points = 25.4mm
+gs \
+ -o "LTLM45-2022_cover_v2022-02-en-letter.pdf" \
+ -sDEVICE=pdfwrite \
+ -dDEVICEWIDTHPOINTS=1188.8 \
+ -dDEVICEHEIGHTPOINTS=831.47 \
+ -dAutoRotatePages=/None \
+ -dFIXEDMEDIA \
+ -dPDFFitPage \
+ -f "LTLM45-2022_cover_v2022-02-en.pdf"
+
+gs \
+ -o "LTLM45-2022_cover_v2022-02-vi-letter.pdf" \
+ -sDEVICE=pdfwrite \
+ -dDEVICEWIDTHPOINTS=1194.13 \
+ -dDEVICEHEIGHTPOINTS=831.47 \
+ -dAutoRotatePages=/None \
+ -dFIXEDMEDIA \
+ -dPDFFitPage \
+ -f "LTLM45-2022_cover_v2022-02-vi.pdf"
+
+
+
 https://stackoverflow.com/questions/40849325/ghostscript-pdfwrite-specify-jpeg-quality
 
 gs -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/ebook -sOutputFile=out.pdf full.pdf
@@ -143,9 +168,9 @@ async function generatePDF(url, outputFile, onFinished = () => {}) {
         // format: "Letter",
         // A4 fit to Letter is a ~94% downscale: 
         // =11in, US Letter Height
-        height: "279.4mm",
+        // height: "279.4mm",
         // 279.4/297*210
-        width: "197.56mm",
+        // width: "197.56mm",
 
         // LetterFit +Bleed (5mm downscaled):
         // 5*2*279,4/297+279,4
@@ -153,7 +178,7 @@ async function generatePDF(url, outputFile, onFinished = () => {}) {
         // 5*2*279,4/297+197.56
         // width: "206.97mm",
 
-        // preferCSSPageSize: true,
+        preferCSSPageSize: true,
         timeout: 0,
         displayHeaderFooter: false,
         printBackground: true,
@@ -186,10 +211,10 @@ let workInProgress = 0;
 // all jobs are assumed to continueWork() by themselves after being finished
 // we first generate all raw PDFs. onFinished() adds the downsample jobs to this queue and then proceeds execution with more threads (because the downsample is not as memory-hungry)
 let workQueue = [
-    // () => generatePDF("http://localhost:8080/en/a4/", `./builds/en-a4`, onFinshed),
+    () => generatePDF("http://localhost:8080/en/a4/", `./builds/en-a4`, onFinshed),
     () => generatePDF("http://localhost:8080/vi/a4/", `./builds/vi-letter`, onFinshed),
-    // () => generatePDF("http://localhost:8080/en/a4-bleed/", `./builds/en-a4-bleed`, onFinshed),
-    // () => generatePDF("http://localhost:8080/vi/a4-bleed/", `./builds/vi-letter-bleed`, onFinshed),
+    () => generatePDF("http://localhost:8080/en/a4-bleed/", `./builds/en-a4-bleed`, onFinshed),
+    () => generatePDF("http://localhost:8080/vi/a4-bleed/", `./builds/vi-letter-bleed`, onFinshed),
     
     // () => onFinshed("./builds/en-a4_2022-03-19_20-28-32.pdf", "./builds/en-a4.pdf"),
     // () => onFinshed("./builds/en-a4-bleed_2022-03-19_20-29-31.pdf", "./builds/en-a4-bleed.pdf"),
@@ -201,7 +226,6 @@ let workQueue = [
         continueWork()
     }
 ]
-
 
 var onFinshed = function(file, fileWithoutDate) {
     workQueue.push(() => downsample(file, fileWithoutDate, 500, 0.3, continueWork))
