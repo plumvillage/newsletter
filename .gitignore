@@ -5,7 +5,6 @@ docs
 node_modules
 sandbox
 src/media
-src/pagedjs
 .env
 workspace.code-workspace
 
