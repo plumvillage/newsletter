@@ -137,11 +137,23 @@ async function generatePDF(url, outputFile, onFinished = () => {}) {
     // justCopy -> breaks! (ProtocolError)
     // [5000, q96] -> out: 769MiB
 
+    // https://github.com/puppeteer/puppeteer/blob/main/docs/api.md#pagecreatepdfstreamoptions
     let usePDFstream = true
     let pdfOptions = {
-        // A4 fit to Letter is a ~94% downscale
         // format: "Letter",
-        preferCSSPageSize: true,
+        // A4 fit to Letter is a ~94% downscale: 
+        // =11in, US Letter Height
+        height: "279.4mm",
+        // 279.4/297*210
+        width: "197.56mm",
+
+        // LetterFit +Bleed (5mm downscaled):
+        // 5*2*279,4/297+279,4
+        // height: "288.81mm",
+        // 5*2*279,4/297+197.56
+        // width: "206.97mm",
+
+        // preferCSSPageSize: true,
         timeout: 0,
         displayHeaderFooter: false,
         printBackground: true,
@@ -152,7 +164,6 @@ async function generatePDF(url, outputFile, onFinished = () => {}) {
     page.waitForTimeout(5000).then(async () => {
         console.log('Waited 5000!')
         if (usePDFstream) {
-            // https://github.com/puppeteer/puppeteer/blob/main/docs/api.md#pagecreatepdfstreamoptions
             const pdfStream = await page.createPDFStream(pdfOptions);
             const writeStream = fs.createWriteStream(outputFile);
             pdfStream.pipe(writeStream);
@@ -176,9 +187,10 @@ let workInProgress = 0;
 // we first generate all raw PDFs. onFinished() adds the downsample jobs to this queue and then proceeds execution with more threads (because the downsample is not as memory-hungry)
 let workQueue = [
     // () => generatePDF("http://localhost:8080/en/a4/", `./builds/en-a4`, onFinshed),
-    () => generatePDF("http://localhost:8080/vi/a4/", `./builds/vi-a4`, onFinshed),
+    () => generatePDF("http://localhost:8080/vi/a4/", `./builds/vi-letter`, onFinshed),
     // () => generatePDF("http://localhost:8080/en/a4-bleed/", `./builds/en-a4-bleed`, onFinshed),
-    () => generatePDF("http://localhost:8080/vi/a4-bleed/", `./builds/vi-a4-bleed`, onFinshed),
+    // () => generatePDF("http://localhost:8080/vi/a4-bleed/", `./builds/vi-letter-bleed`, onFinshed),
+    
     // () => onFinshed("./builds/en-a4_2022-03-19_20-28-32.pdf", "./builds/en-a4.pdf"),
     // () => onFinshed("./builds/en-a4-bleed_2022-03-19_20-29-31.pdf", "./builds/en-a4-bleed.pdf"),
     // () => onFinshed("./builds/vi-a4_2022-03-19_20-30-30.pdf", "./builds/vi-a4.pdf"),

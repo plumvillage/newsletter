@@ -1,5 +1,5 @@
 ﻿---
-title: Lời tri ân từ cộng đồng quốc tế
+title: Tri ân Thầy
 # author: Notable
 ---
 
