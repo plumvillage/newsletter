@@ -7,7 +7,7 @@ const slugify = require('slugify')
 const sharp = require("sharp");
 const Image = require("@11ty/eleventy-img");
 const srcPath = "src/media/originals";
-const calligraphyPath = "calligraphy/article titles/article-titles/";
+const calligraphyPath = "calligraphy/article-titles/";
 // const calligraphyPath = "calligraphy/article-titles/";
 var articleTitleCalligraphies = fs.readdirSync(`src/media/originals/${calligraphyPath}`)
 // var articleTitleCalligraphies = fs.readdirSync(`src/media/publish/${calligraphyPath}`)
@@ -126,10 +126,6 @@ module.exports = function(eleventyConfig) {
 
     eleventyConfig.addPassthroughCopy("src/js");
     eleventyConfig.addWatchTarget("src/js");
-
-    eleventyConfig.addPassthroughCopy({ "src/media/publish": "media" });
-
-    eleventyConfig.addWatchTarget("src/media/publish");
 
     eleventyConfig.addPassthroughCopy("src/CNAME");
 

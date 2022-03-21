@@ -958,12 +958,14 @@ h1#the-true-sangha + .author, h1#tang-than-dich-thuc + .author {
     text-shadow: 0.3pt 0.4pt 0px white;
 }
 
-
+h1#loi-tri-an-tu-cong-dong-quoc-te figure,
+h1#loi-tri-an-tu-cong-dong-quoc-te figure img,
 h1#kinh-so-tam figure,
 h1#kinh-so-tam figure img {
     max-height: 25mm !important;
 }
 
+#thien-thu-trong-khoanh-khac + .author,
 #nep-xua + .author,
 #tieng-chuong-chanh-niem + .author
 {
@@ -1898,6 +1900,8 @@ figure#articlesr-trang-tin-yeuMisty-day-e img {
 .article-at-the-foot-of-the-majestic-mountain {
     break-after: unset !important;
 }
+
+
 
 .article-kinh-so-tam #calligraphyarticle-titles-2-and-dividers5-maskedDividers2-2-straight
 {

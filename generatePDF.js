@@ -50,7 +50,7 @@ function downsample(pdfFile, pdfFileWithoutDate, dpi = 400, Q = 1.5, onFinished 
     let outputFile = path.join(parsed.dir, outName(parsed.name))
     let outputFileWithoutDate = path.join(parsedWithoutDate.dir, outName(parsedWithoutDate.name))
     
-    netlifyRedirects += `/${outName(parsedWithoutDate.name)}    /${parsed.base}\n`;
+    netlifyRedirects += `/${outName(parsedWithoutDate.name)}    /${outName(parsed.base)}\n`;
 
 /*
 for DPI 300
@@ -175,10 +175,10 @@ let workInProgress = 0;
 // all jobs are assumed to continueWork() by themselves after being finished
 // we first generate all raw PDFs. onFinished() adds the downsample jobs to this queue and then proceeds execution with more threads (because the downsample is not as memory-hungry)
 let workQueue = [
-    () => generatePDF("http://localhost:8080/en/a4/", `./builds/en-a4`, onFinshed),
-    // () => generatePDF("http://localhost:8080/vi/a4/", `./builds/vi-a4`, onFinshed),
-    () => generatePDF("http://localhost:8080/en/a4-bleed/", `./builds/en-a4-bleed`, onFinshed),
-    // () => generatePDF("http://localhost:8080/vi/a4-bleed/", `./builds/vi-a4-bleed`, onFinshed),
+    // () => generatePDF("http://localhost:8080/en/a4/", `./builds/en-a4`, onFinshed),
+    () => generatePDF("http://localhost:8080/vi/a4/", `./builds/vi-a4`, onFinshed),
+    // () => generatePDF("http://localhost:8080/en/a4-bleed/", `./builds/en-a4-bleed`, onFinshed),
+    () => generatePDF("http://localhost:8080/vi/a4-bleed/", `./builds/vi-a4-bleed`, onFinshed),
     // () => onFinshed("./builds/en-a4_2022-03-19_20-28-32.pdf", "./builds/en-a4.pdf"),
     // () => onFinshed("./builds/en-a4-bleed_2022-03-19_20-29-31.pdf", "./builds/en-a4-bleed.pdf"),
     // () => onFinshed("./builds/vi-a4_2022-03-19_20-30-30.pdf", "./builds/vi-a4.pdf"),
@@ -242,7 +242,7 @@ if (generateArticles) {
 }
 
 
-// generatePDF("http://fee:8080/vi/articles-print-preview/su-co-boi-nghiem--cam-di/", `./builds/CUSTOM`)
+// generatePDF("http://fee:8080/vi/articles-print-preview/dieu-tram--thien-thu-trong-khoanh-khac/", `./builds/CUSTOM`)
 
 // concurrent.
 // for full-size pdf, 2 is very memory intense (16GB recommended)

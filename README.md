@@ -3,7 +3,7 @@
 Single source publishing project using [Eleventy](https://www.11ty.dev) and [PagedJS](https://www.pagedjs.org/).
 
 ## Setup for local development
-Run `./bin/setup.sh`
+Run `./setup.sh`
 
 ## Running locally
 Run `npm start` and browse to [http://localhost:8080/](http://localhost:8080/).
