@@ -7,7 +7,7 @@ Dear Beloved Thay,
 
 {% image "article/br-phap-huu/Br-Phap-Huu-e.jpg" %}
 
-Please allow me to open my heart and express my deepest gratitude to you, a teacher, a leader, and a legend.
+<p class="noIndent">Please allow me to open my heart and express my deepest gratitude to you, a teacher, a leader, and a legend.</p>
 
 You have helped us learn how to be human, how to connect, how to love, how to see each other as flowers in one garden of humanity. In the past week, in the spirit of brotherhood and sisterhood we have continued to embrace and support each other; holding space for our tears of both sorrow and joy. While we have cried, we have also touched true happiness as we shared stories together – both in Plum Village and online with so many of our friends from around the world. 
 

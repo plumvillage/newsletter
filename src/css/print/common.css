@@ -776,6 +776,11 @@ sup { /* superscript */
     list-style-position: outside;
 }
 
+.translation-note {
+    font-size: 80%;
+    font-style: italic;
+}
+
 article span.color {
     color: var(--color-tower-dark);
 }
