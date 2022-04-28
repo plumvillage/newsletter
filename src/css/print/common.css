@@ -2078,3 +2078,9 @@ h1#nguoi-thay-nguoi-dong-hanh-thong-thai {
 h1#advent-mot-truyen-thong-dep-can-gin-giu {
     font-size: 29pt;
 }
+h1#continuing-the-deep-practice-of-generosity {
+    font-size: 28pt;
+}
+.article-continuing-the-deep-practice-of-generosity p + p {
+    /* margin-top: 4pt; */
+}

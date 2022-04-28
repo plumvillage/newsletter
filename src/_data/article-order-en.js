@@ -58,4 +58,5 @@ module.exports = [
 "br-troi-thien-chi--mirror-mirror-on-the-wall",
 "sr-trang-hien-nhan--hello-attachment-you-are-my-friend",
 "ocean-vuong--letter",
+"tnhf--continuing-the-deep-practise-of-gratitude",
 ]
