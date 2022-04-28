@@ -46,7 +46,7 @@ If the first person doesn't know how to take care of themselves, then they canno
 
 The first pillar of Wake Up Schools is embodiment: we need to embody the practice as teachers. We begin by helping the teachers to touch freedom, joy and happiness in a retreat. When a teacher touches that freedom, and transforms themselves, their interest deepens. Quite naturally, they will want to share their experience with others. Their colleagues and family ask, “How is it that you seem so much lighter, that you look so much happier? What did you do?”
 
-{% image "article/br-phap-luu/Dharma School in UK 2016–the sisters taught children PV songs-edited.jpg", "", "Dharma School in the UK, 2016" %}
+{% image "article/br-phap-luu/Dharma School in UK 2016 - the sisters taught children PV songs-edited.jpg", "", "Dharma School in the UK, 2016" %}
 
 This touches on the second pillar of Wake Up Schools: service. Service means that we're in this to change the world, not to just make a living for ourselves, to make a profit or a business out of mindfulness. The teaching is something that we offer freely, and that spirit infuses everything about Wake Up Schools. Our direction is to transform the whole school community. Starting with ourselves we expand our circle of influence to our family, our colleagues, our students and administration. By transforming the school we arrive at transformation at the level of society.
 
