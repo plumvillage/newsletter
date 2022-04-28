@@ -29,7 +29,7 @@ Despite the injustices you’ve experienced and the suffering you’ve witnessed
 
 Dear Thay, we honour and cherish your virtue, your ethics and your integrity. You have dug deep into your own experience and the riches of Buddhist heritage to offer us a robust code of global ethics that can guide us through even the harshest storms ahead. You have shown us how to share these “applied ethics” in families, schools, workplaces, prisons, parliaments and town halls around the world. You have shown us how to wake up and fall in love with the Earth, so we may protect and heal her with all our heart. We may spend our whole lives trying to keep up with you, dear Thay, and your vision for a future that is possible–a future whose foundation you have built step by step, breath by breath, page by page.
 
-Dear Thay, you are the gentle and skillful revolutionary–the Zen master who is ready to update our Pratimoksa, remove Buddhas from altars, establish equality for the nuns, and create a truly *multi-fold* sangha.
+Dear Thay, you are the gentle and skillful revolutionary–the Zen master who is ready to update our Pratimoksa, remove Buddhas from altars, establish equality for the nuns, and create a truly *multifold* sangha.
 
 {% image "article/eulogy-in-PV/IMG_1576-e.jpg" %}
 
