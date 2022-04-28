@@ -9,7 +9,7 @@ author: Sister Chân Không
 
 I was born in the Year of the Tiger and as a child I was very stubborn; I never listened to anyone’s advice. I would often say, “I am a tiger, don’t force me…” But when I joined the sangha, I did whatever Thay asked me to do and never argued back! I followed Thay’s advice and did my best, to live and die with the things Thay asked of me. 
 
-I am 12 years younger than Thay. I see myself as a tiger cub. My role is to fill in the missing parts, however small, of the tiger master - Thay. If the tiger master is missing claws, I will be those claws. Whatever Thay needs help with, I would do. Whatever Thay is unable to do, I would do my best to realize it for Thay.
+I am 12 years younger than Thay. I see myself as a tiger cub. My role is to fill in the missing parts, however small, of the tiger master–Thay. If the tiger master is missing claws, I will be those claws. Whatever Thay needs help with, I would do. Whatever Thay is unable to do, I would do my best to realize it for Thay.
 
 ## Singing for Thay to breathe
 
@@ -39,7 +39,7 @@ From then on, I did everything according to Thay’s guidance and Thay’s ideas
 
 ## Returning to roots like Thay
 
-I thought at one point that Thay would not return to Vietnam. But one day in Thailand, the Brothers Phap An, Phap Niem and Trung Hai came to meet Thay because he wanted to express something very important to them. When the brothers arrived, Thay put one hand on his chest and using that hand, drew a circle on his chest. He stopped when his hand came to rest at the starting point of the circle. We understood the meaning - whether going East or West, in the end, Thay wished to return to his roots. 
+I thought at one point that Thay would not return to Vietnam. But one day in Thailand, the Brothers Phap An, Phap Niem and Trung Hai came to meet Thay because he wanted to express something very important to them. When the brothers arrived, Thay put one hand on his chest and using that hand, drew a circle on his chest. He stopped when his hand came to rest at the starting point of the circle. We understood the meaning–whether going East or West, in the end, Thay wished to return to his roots. 
 
 Today, I also make the deep vow that I will never forget Thay’s roots. Thay’s roots are also my roots. Like Thay, I will also return to my roots.
 

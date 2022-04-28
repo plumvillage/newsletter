@@ -4,7 +4,7 @@ author: Sister Chân Trăng Bồ Đề
 ---
 ## Discovering Christmas
 
-When I was little, at Christmas time all the streets in my hometown were strewn with twinkling lights and Christmas trees - plastic, but beautiful. The quiet church near my home came alive with joy. Even though I didn’t know about Christmas, I was still very happy because I could wander the streets at night, looking at this and that. I never had the courage to step foot in a church, except for one time when curiosity got the better of me, and the only reason was: I am a Buddhist. There seemed to be a line dividing church and temple. My parents and grandparents all agreed that a Buddhist should not go to a church. It would be an act of impiety. So that idea was firmly planted in the heads of all the children in my family. 
+When I was little, at Christmas time all the streets in my hometown were strewn with twinkling lights and Christmas trees–plastic, but beautiful. The quiet church near my home came alive with joy. Even though I didn’t know about Christmas, I was still very happy because I could wander the streets at night, looking at this and that. I never had the courage to step foot in a church, except for one time when curiosity got the better of me, and the only reason was: I am a Buddhist. There seemed to be a line dividing church and temple. My parents and grandparents all agreed that a Buddhist should not go to a church. It would be an act of impiety. So that idea was firmly planted in the heads of all the children in my family. 
 
 {% image "article/sr-trang-bo-de/Sc-Bo-DJe-2-edit.JPG", "", "Monastic Christmas choir, 2020" %}
 
@@ -36,7 +36,7 @@ After some moments of silence, the brothers and sisters began to recount joyful 
 
 {% image "article/sr-trang-bo-de/Sc-Bo-DJe-4-edit.JPG", "", "Sr. Trang Dieu Vien (left), Sr. Trang Bo De" %}
 
-After living for a while in the monastery, I also started to love the tranquil and peaceful life. That tranquility helps me see my mind more clearly and nourishes my inner peace. But when I start to form the thought, *I like the quiet, noise is too tiring*, a wall goes up between the world and myself, limiting the precious opportunities to be with my brothers and sisters. At those times when I find myself “Too lazy to play”, I often think of our elder - Brother Minh Hy.
+After living for a while in the monastery, I also started to love the tranquil and peaceful life. That tranquility helps me see my mind more clearly and nourishes my inner peace. But when I start to form the thought, *I like the quiet, noise is too tiring*, a wall goes up between the world and myself, limiting the precious opportunities to be with my brothers and sisters. At those times when I find myself “Too lazy to play”, I often think of our elder–Brother Minh Hy.
 
 Br. Minh Hy is very playful. He is always present with an open and friendly heart. That evening when he arrived in the rain, I couldn't contain my surprise, “Brother, you also come to Advent?” “Sure!” he replied, as naturally as the hungry eat and the thirsty drink. The image that lingers in my mind is of Br. Minh Hy holding a songbook; his mouth uttering the melody and lyrics while his eyes struggled to open to stay awake. “Brother, are you sleepy?” Catching my cheeky smile, rather than answering, he pretended to open his eyes even wider. At that moment, I understood: *To play without needing to play is truly to play…*
 
@@ -52,7 +52,7 @@ While listening quietly to the Bible reading that evening, images of Jesus as a 
 
 ## A Buddhist Christmas
 
-Thinking of Thay, my heart warms. Thay opened the door for Buddhism’s essence to enter the West and at the same time, allowed Buddhists to discover the beauty of spiritual traditions in the West. Thanks to Thay, our generation is receiving a rich heritage of various spiritual flows - each beautiful, each worthy of respect. 
+Thinking of Thay, my heart warms. Thay opened the door for Buddhism’s essence to enter the West and at the same time, allowed Buddhists to discover the beauty of spiritual traditions in the West. Thanks to Thay, our generation is receiving a rich heritage of various spiritual flows–each beautiful, each worthy of respect. 
 
 It was almost nine o'clock. “Dear sister, it's time to go home”, I whispered to my elder sister. “Umm, we will go after this song.” A funny thought popped up in my mind: *Why are we like Cinderellas?* The New Hamlet always leaves a little earlier than the other hamlets because we live a little further. If one sister stands up, all of us gather our things, say goodbye in unison and head out for the van as if it would turn into a pumpkin if we do not return in time. Gradually I have also adapted to this rhythm and am trained in those agile movements. It's quite fun being Cinderella. Knowing that I do not have much time, I cherish every moment and am wholeheartedly present. So when “it's time to go” was said, I stood up and stepped out calmly. For me, what is important is *not how long* we are present, but *how* we are present.
 

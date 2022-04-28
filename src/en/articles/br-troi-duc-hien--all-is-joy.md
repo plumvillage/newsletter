@@ -1,5 +1,5 @@
 ﻿---
-title: All is Joy!
+title: All Is Joy!
 author: Brother Chân Trời Đức Hiền
 ---
 
@@ -19,7 +19,7 @@ So I connect again to the song of the rain, and especially to my brother’s pre
 
 While the water boils in the kettle, I settle into my breathing to carefully contemplate the pain that holds my head in a vice. Being an observer allows me to put this gruelling sensation into some kind of perspective. I then feel like an explorer who, without bias, discovers what simply is, curious to taste the experience that is manifesting. I clearly see that I am not locked inside this sensation, that it is limited in space, and that everything around it breathes like a vast living ocean. I smile…
 
-In the same way, I connect to the impermanence of all things, knowing from experience that this pain will eventually end. My trust in the capacity of life to evolve and transform, allows me to ease considerably out of the influence of the pain that has a hold over my whole brain; an invitation for me, to once again, cultivate patience - a quality which has never been one of my strong points.
+In the same way, I connect to the impermanence of all things, knowing from experience that this pain will eventually end. My trust in the capacity of life to evolve and transform, allows me to ease considerably out of the influence of the pain that has a hold over my whole brain; an invitation for me, to once again, cultivate patience–a quality which has never been one of my strong points.
 
 {% image "article/br-troi-duc-hien/IMG_5858-edited.jpg" %}
 

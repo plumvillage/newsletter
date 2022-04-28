@@ -21,7 +21,7 @@ At the end of the room, a door opens into a small meditation room where a firepl
 
 {% image "article/sr-giac-nghiem/Sc-Giac-Nghiem1-edited.jpg", "", "Under the oak trees in Lower Hamlet" %}
 
-On arrival, I met Thay and Sister Cao Fleurette in the garden. This was in 1985. Sister Fleurette had long hair and beautiful eyes, like the eyes of a deer - full of understanding and love. Since then, I have been growing slowly next to these two wonderful trees.
+On arrival, I met Thay and Sister Cao Fleurette in the garden. This was in 1985. Sister Fleurette had long hair and beautiful eyes, like the eyes of a deer–full of understanding and love. Since then, I have been growing slowly next to these two wonderful trees.
 
 It was a reunion. I had the joy of meeting them a few months earlier in Lyon, at the home of Dr. Do Trong Le, an acupuncturist friend who invited me to come to his house to listen to the first teaching that our teacher was giving in French. At that time I was desperately looking for a teacher to help me on my spiritual path. A profound encounter took place during the teaching when Thay held a sheet of white paper in front of him and said, “In this sheet of paper lies the whole universe.” I was filled with joy, I had found the teacher I was looking for, the one who could understand me. The Dharma door was wide open.
 

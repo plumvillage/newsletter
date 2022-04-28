@@ -1,5 +1,5 @@
 ﻿---
-title: Light up a Candle
+title: Light Up a Candle
 author: Brother Chân Pháp Ấn
 ---
 
@@ -13,9 +13,9 @@ I then started working at MIT as a teaching assistant while continuing my own re
 
 Brother Hoang (who later became Br. Phap Lu) picked me up in a blue van. There were not many vans at that time in Plum Village and they were all old. That blue van was still in use more than ten years later. The afternoon of March 31, I set foot for the first time in Lower Hamlet. Thay was waiting there to have lunch with me and after that, brought me to Upper Hamlet. It was a very beautiful memory.
 
-In Upper Hamlet, Thay asked the brothers if they had prepared a room for me. The brothers said yes. Then Thay walked me to my room. “Prepared” meant a room with a bed made of a piece of plywood on four bricks - nothing else. At that time, anyone who came to Plum Village brought with them a sleeping bag. Sr. Chan Khong also advised me to bring one of my own. I stayed in one of the two rooms in the Bamboo Building, now the bookshop in Upper Hamlet. The walls were made of stones stacked on top of each other and were plastered with clay. Because of age, the clay was cracked in many places. Sleeping at night, I could feel the wind on my cheeks and sometimes, even my hair froze if it got too cold. Plum Village was like that then. The facilities were very basic and scant. 
+In Upper Hamlet, Thay asked the brothers if they had prepared a room for me. The brothers said yes. Then Thay walked me to my room. “Prepared” meant a room with a bed made of a piece of plywood on four bricks–nothing else. At that time, anyone who came to Plum Village brought with them a sleeping bag. Sr. Chan Khong also advised me to bring one of my own. I stayed in one of the two rooms in the Bamboo Building, now the bookshop in Upper Hamlet. The walls were made of stones stacked on top of each other and were plastered with clay. Because of age, the clay was cracked in many places. Sleeping at night, I could feel the wind on my cheeks and sometimes, even my hair froze if it got too cold. Plum Village was like that then. The facilities were very basic and scant. 
 
-Despite the difficult living environment, I always kept my aspiration. I made the vow that no matter how challenging the circumstances were - even if I had to beg for food, to be homeless, I would keep going in order to understand what true enlightenment is, what liberation is.
+Despite the difficult living environment, I always kept my aspiration. I made the vow that no matter how challenging the circumstances were–even if I had to beg for food, to be homeless, I would keep going in order to understand what true enlightenment is, what liberation is.
 
 {% image "article/br-phap-an/60e.jpg" %}
 
@@ -27,7 +27,7 @@ I had heard of Thay since I was young. On my older sister’s birthday in 1967 o
 
 In the autumn of 1985 while I was studying in California, Thay came to the U.S. for a retreat in Austin. My whole family joined that retreat. My parents dearly love and respect Thay. Then in 1988, I joined another retreat in Southern California. That was the year Sr. Chan Khong ordained on Vulture Peak. 
 
-From when I was a highschool student until I became a monk, I had read many books and listened to many teachings about meditation from different zen masters. But only when I encountered Thay’s book *Vấn đề nhận thức trong Duy thức học* (*Consciousness in the Manifestation Only School*) that I intuitively knew - here was my teacher! The more I practiced, the more I felt that the conditions that allowed me to meet Thay had been sown many lifetimes ago.
+From when I was a highschool student until I became a monk, I had read many books and listened to many teachings about meditation from different zen masters. But only when I encountered Thay’s book *Vấn đề nhận thức trong Duy thức học* (*Consciousness in the Manifestation Only School*) that I intuitively knew–here was my teacher! The more I practiced, the more I felt that the conditions that allowed me to meet Thay had been sown many lifetimes ago.
 
 {% image "article/br-phap-an/thay-phap-an-edited.jpg", "", "Transmitting the 14 Mindfulness Trainings" %}
 
@@ -47,7 +47,7 @@ During the early days of the European Institute of Applied Buddhism (EIAB), I ap
 
 Even though we have become a member of a community, we still have private aspects of our life and I respect that privacy. As for the communal aspects, we need to build them and contribute to them to create a common space for everyone to practice and live in. That common space is very important. Building sangha is to build a common space. 
 
-We should not have an idea of a perfect sangha. Sanghas since the Buddha’s time have had this or that issue and sanghas in times to come will also be like that. That is suchness, reality as it is. Looking into it, we see that things manifest when conditions are sufficient, and they hide when conditions are no longer sufficient. I also base my work of sangha-building on that principle. We do our utmost - what manifests will be the fruit of many generations of causes and conditions.
+We should not have an idea of a perfect sangha. Sanghas since the Buddha’s time have had this or that issue and sanghas in times to come will also be like that. That is suchness, reality as it is. Looking into it, we see that things manifest when conditions are sufficient, and they hide when conditions are no longer sufficient. I also base my work of sangha-building on that principle. We do our utmost–what manifests will be the fruit of many generations of causes and conditions.
 
 There were golden times when the sangha was strong and Thay went on many teaching tours. That may be the blooming of a lotus that has gathered together conditions of many lifetimes. After blooming, it returns to the mud. This has always been the case. Our sangha will also one day return to the mud. This is the truth of impermanence. It will be hidden in the mud, waiting for conditions to change amidst the miraculous course of life, waiting to form the next flower. 
 

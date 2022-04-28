@@ -5,7 +5,7 @@ author: Sister Chân Thao Nghiêm
 
 My beloved younger siblings,
 
-It has been two years since I left Plum Village, France for Dieu Tram Nunnery, Vietnam. How time flies! So much has happened in the world and in the sangha, for you and for me. Sometimes in my dreams or when we sit around and share stories, many memories return to me. You know what the sisters are like - we are easily carried away by stories, one after another. They contain anecdotes about Thay, about brotherhood and sisterhood, and all of the joyful times.
+It has been two years since I left Plum Village, France for Dieu Tram Nunnery, Vietnam. How time flies! So much has happened in the world and in the sangha, for you and for me. Sometimes in my dreams or when we sit around and share stories, many memories return to me. You know what the sisters are like–we are easily carried away by stories, one after another. They contain anecdotes about Thay, about brotherhood and sisterhood, and all of the joyful times.
 
 {% image "article/sr-thao-nghiem/CCI0224201600039.jpg", "", "Buddha Hall, New Hamlet" %}
 
@@ -33,7 +33,7 @@ Reading it, you will immediately feel the essence of the place in which you are 
 
 Stepping into the Buddha Hall, I always had a sense of serenity and of being myself. Everything in the hall is always arranged beautifully and neatly. I loved the paintings of plum blossoms, the calligraphies, and the cartwheel “chandelier” in the centre of the hall. The Buddha hall is a dignified space and carpeted, so everyone was carefully reminded to not eat or drink or make noise there, so the space could remain clean and tranquil. 
 
-One time, a plastic human skeleton was placed in a corner of the Buddha Hall (as an aid for the sangha to contemplate our mortality and the impermanence of life). It was also once used as a model to show the correct posture for sitting meditation. Whenever I went to practise touching the earth alone and saw the skeleton or knew that it was behind me, I thought, *Oh dear, why am I so scared?* After a while, the skeleton became damaged and twisted - one leg going one way and one hand going another, it was rather falling apart, so we invited it to “continue on its journey”. 
+One time, a plastic human skeleton was placed in a corner of the Buddha Hall (as an aid for the sangha to contemplate our mortality and the impermanence of life). It was also once used as a model to show the correct posture for sitting meditation. Whenever I went to practise touching the earth alone and saw the skeleton or knew that it was behind me, I thought, *Oh dear, why am I so scared?* After a while, the skeleton became damaged and twisted–one leg going one way and one hand going another, it was rather falling apart, so we invited it to “continue on its journey”. 
 
 The day New Hamlet was flooded, muddy water soaked the entire Buddha Hall floor and the carpet could not be rescued; we had to let it go. Having lived with it day and night for so many years, everyone thought it was a great pity and missed the purple carpet. Fortunately we found another purple coloured material to line the floor and the signature colour of the hall was preserved. 
 
@@ -43,7 +43,7 @@ What I love the most is the image of everyone practising together in the Buddha 
 
 *Thay’s house.* Naturally the Hermitage became sacred. It is a place reserved for the monastic sangha and whenever we come there, we feel its warm embrace. 
 
-Everyone loved the Winter Rains’ Retreat because we could come to the Hermitage once a week for Monastic Day. In the earlier years when there were fewer people in the sangha, we all sat spaciously in the small meditation hall upstairs. Thay likened that small hall to the womb of Queen Maya - able to hold however many people there were. 
+Everyone loved the Winter Rains’ Retreat because we could come to the Hermitage once a week for Monastic Day. In the earlier years when there were fewer people in the sangha, we all sat spaciously in the small meditation hall upstairs. Thay likened that small hall to the womb of Queen Maya–able to hold however many people there were. 
 
 Later on Monastic Days, whoever arrived early could sit close to the back and those arriving late had to sit right up at the front, squeezing tightly to have enough room. Thay had to remind us every time, “Move inside, don’t sit where you are blocking the way.” There were a few tiny windows in the meditation hall, usually half ajar to let in some air. Whoever mistakenly sat near them would get cold, while the rest of us were all hot with flushed cheeks. There was heating in the hall. Thay turned it on the night before to prepare a warm hall for his monastic children. 
 
@@ -51,7 +51,7 @@ After a few years the sangha grew, so we needed to move to the two rooms downsta
 
 The Dharma talks on Monastic Days were often very closely related to what was happening in the sangha. We all listened attentively and felt as if Thay was giving us each a private teaching. As sangha issues were brought up and Thay shared his insights on how to resolve them, we often asked each other, “How did Thay know about that?”
 
-The Hermitage is small, but large enough for Thay to lead the sangha for walking meditation. Thay led us around the garden, along the creek, (which is called “Fragrant Creek - Phương Khê”), towards the rows of poplar trees, then turning back until we arrived at the three cypress trees. On those days, Thay and his disciples often sat around a bonfire outside. The brothers always brought along guitars to play and sing meditation songs. Thay liked to sit and listen to his monastic children sing, and watch us having fun and laughing. We, the young sisters at the time, rarely sat near the bonfire. Instead we liked to hide near the bamboo grove to enjoy the dishes we missed out on at lunch or run around and play games.
+The Hermitage is small, but large enough for Thay to lead the sangha for walking meditation. Thay led us around the garden, along the creek, (which is called “Fragrant Creek–Phương Khê”), towards the rows of poplar trees, then turning back until we arrived at the three cypress trees. On those days, Thay and his disciples often sat around a bonfire outside. The brothers always brought along guitars to play and sing meditation songs. Thay liked to sit and listen to his monastic children sing, and watch us having fun and laughing. We, the young sisters at the time, rarely sat near the bonfire. Instead we liked to hide near the bamboo grove to enjoy the dishes we missed out on at lunch or run around and play games.
 
 {% image "article/sr-thao-nghiem/IMG_6614-edited.jpg", "", "Chanting practice at the Hermitage, 2014" %}
 
@@ -63,11 +63,11 @@ During the big retreats, going to the Hermitage was a chance for teacher and dis
 
 A row of old stone buildings (at the southern corner of the grounds) was already at the Hermitage when Thay moved there. They can be seen in the early photos of the Hermitage that Thay has hung in his library. The buildings were badly damaged and unusable, so no one paid attention to them. For unknown reasons, Thay wished to repair them. After asking the attendants to push his wheelchair there and checking it for himself, Thay started to make signals for the attendants to clean out the abandoned buildings. First, two attendants followed; then the rest of the attendant group was called to help and in the end, the whole community joined in with the cleaning. Thay invited Brother Phap Dung to draft the architectural designs. Thay was the one who came up with the ideas, supervised, and oversaw the whole project. When construction workers started to work on the building, Thay came to visit almost every day and was very excited about the project.
 
-Before the building works were completed, Thay went to Thailand and then returned to Vietnam. Thay was the project initiator - the building and completion were up to his monastic children. Finally, the new meditation hall was “inaugurated”. It looked very elegant and warm. At Tu Hieu Root Temple in Vietnam, the attendants received photos of the sangha’s activities in the new hall and showed them to Thay. It is only now that I understand Thay’s wish for the project. There is nothing better than offering a welcoming space for Thay’s monastic children to practise and be present for each other. I thought “Teacher’s Love” is really a suitable name for the meditation hall. Sitting inside, for sure everyone would think of and feel Thay’s love.
+Before the building works were completed, Thay went to Thailand and then returned to Vietnam. Thay was the project initiator–the building and completion were up to his monastic children. Finally, the new meditation hall was “inaugurated”. It looked very elegant and warm. At Tu Hieu Root Temple in Vietnam, the attendants received photos of the sangha’s activities in the new hall and showed them to Thay. It is only now that I understand Thay’s wish for the project. There is nothing better than offering a welcoming space for Thay’s monastic children to practise and be present for each other. I thought “Teacher’s Love” is really a suitable name for the meditation hall. Sitting inside, for sure everyone would think of and feel Thay’s love.
 
 ## Popcorn Day
 
-Speaking of the Hermitage and Thay, I recall a very memorable, very special day - *Popcorn Day*.
+Speaking of the Hermitage and Thay, I recall a very memorable, very special day–*Popcorn Day*.
 
 It was during the early days of Thay’s illness. The sangha had not been with Thay for quite a while because he was resting and recuperating at the Hermitage. The sangha missed Thay and Thay also thought of the sangha. Thay did not want the sangha to worry for him. He had already wanted to have a Monastic Day before that so the sangha could meet him at the Hermitage and feel peace of mind. He also wanted to hear the community chant the new *Sutra of the Insight That Brings Us to the Other Shore*, which Br. Phap Linh had just set to music.
 
@@ -93,7 +93,7 @@ Later the popcorn maker was moved to the New Hamlet and once in a while we broug
 
 My dear younger siblings, I can go on endlessly telling old stories! I am sure Plum Village has changed and is changing a lot. When I left New Hamlet, the main building was still being repaired. When I have the chance to come back, I may not even recognise it. That said, no matter how things change, Plum Village is still nestled in that picturesque countryside, tranquil and far away from hustle and bustle, still simple with a welcoming and lively atmosphere.
 
-While at the Root Temple, myself and the other sisters and brothers often share stories with each other - so many stories of Thay, of Plum Village, and of the different centres. Thay’s hut here is peaceful but also filled with the sound of our stories and laughter. We still have Thay in us, we can always return to the embrace of the sangha, and have the time to roam with joy. What more do we hope for?
+While at the Root Temple, myself and the other sisters and brothers often share stories with each other–so many stories of Thay, of Plum Village, and of the different centres. Thay’s hut here is peaceful but also filled with the sound of our stories and laughter. We still have Thay in us, we can always return to the embrace of the sangha, and have the time to roam with joy. What more do we hope for?
 
 I wish for you, my dear younger siblings, to fully enjoy the happy days, to smile with the difficulties that are there, and to be a beautiful continuation of Thay and Plum Village. I am also doing just that.
 

@@ -1,5 +1,5 @@
 ﻿---
-title: Thank you Thay
+title: Thank You, Thay
 # author: 
 ---
 
@@ -53,7 +53,7 @@ title: Thank you Thay
 
 ## Reading Thay’s Books and Listening to his teachings
 
-> “I am so thankful. Thanks to Thay and his books and online teachings, I managed to return to mindfulness at least a bit - every now and then. In my darkest hours I know where to look/read. He has helped me to understand myself so much better… To even care for myself a lot more – so I can be a better mother for my lil daughter. Being a single Mum ain’t easy - but thanks to Thay I’ve had enough power to push through, to keep on working on myself; for the right reasons. I will keep on going and trying and learning.”<cite>Tanja</cite> 
+> “I am so thankful. Thanks to Thay and his books and online teachings, I managed to return to mindfulness at least a bit–every now and then. In my darkest hours I know where to look/read. He has helped me to understand myself so much better… To even care for myself a lot more – so I can be a better mother for my lil daughter. Being a single Mum ain’t easy–but thanks to Thay I’ve had enough power to push through, to keep on working on myself; for the right reasons. I will keep on going and trying and learning.”<cite>Tanja</cite> 
 
 
 > “Some years ago I was thinking about taking my own life and that day I found a video from Thay about looking deeply into the nature of things. I didn’t know anything about this great master, but Thay’s words gave me the hope to live. I cried so much that day. I couldn’t believe the connection I found with someone just with a video. 

@@ -3,7 +3,7 @@ title: Free at School
 author: An Interview with Richard Brady
 ---
 
-<p class="editors-preface">Richard (True Dharma Bridge) is a retired high school maths teacher, and a lay Dharma teacher in the Plum Village tradition. He is also a retreat leader, writer, educational consultant, and coordinator of the Wake Up Schools Level II Program in North America and he recently wrote a book titled <i>Walking the Teacher’s Path with Mindfulness - Stories for Reflection and Action</i>. This is an excerpt from a longer interview of Richard conducted by Kaira Jewel Lingo in August 2021, see <a href="http://youtu.be/o68kYh2N_U4">youtu.be/o68kYh2N_U4</a></p>
+<p class="editors-preface">Richard (True Dharma Bridge) is a retired high school maths teacher, and a lay Dharma teacher in the Plum Village tradition. He is also a retreat leader, writer, educational consultant, and coordinator of the Wake Up Schools Level II Program in North America and he recently wrote a book titled <i>Walking the Teacher’s Path with Mindfulness–Stories for Reflection and Action</i>. This is an excerpt from a longer interview of Richard conducted by Kaira Jewel Lingo in August 2021, see <a href="http://youtu.be/o68kYh2N_U4">youtu.be/o68kYh2N_U4</a></p>
 
 {% image "article/richard-brady/Educators retreat in Italy - Avalokita centre.1-e2.jpg", "", "Educators retreat in Avalokita Center, Italy" %}
 
@@ -48,9 +48,9 @@ In my last two years of teaching I took the step of getting permission from the 
 
 ***How did you connect mindfulness with maths in your teaching?***
 
-Connecting mindfulness with maths was initially quite a challenge because maths focuses on analyzing and getting answers. It’s oriented towards an endpoint. Mindfulness, on the other hand, is about being present in the moment to whatever is there. What was important to me at this point in my teaching was that students learn how to sit with a problem even though they didn’t have an answer for it or even have a method to solve it - just sit with it without feeling they were going to be penalized if they didn’t end up with an answer.
+Connecting mindfulness with maths was initially quite a challenge because maths focuses on analyzing and getting answers. It’s oriented towards an endpoint. Mindfulness, on the other hand, is about being present in the moment to whatever is there. What was important to me at this point in my teaching was that students learn how to sit with a problem even though they didn’t have an answer for it or even have a method to solve it–just sit with it without feeling they were going to be penalized if they didn’t end up with an answer.
 
-In fact, I would sometimes ask them, “What questions do you have as you look at this problem - what comes to your mind?” I wanted them to learn to reflect, to see that they could just sit with something and have questions occur to them. This was not an easy transition for students used to coming up with answers but unfamiliar with coming up with questions.
+In fact, I would sometimes ask them, “What questions do you have as you look at this problem–what comes to your mind?” I wanted them to learn to reflect, to see that they could just sit with something and have questions occur to them. This was not an easy transition for students used to coming up with answers but unfamiliar with coming up with questions.
 
 It seemed to me that I was much more successful in my maths classes at giving students a way to understand themselves better, even if they didn’t understand mathematics a lot better right away. We did five minutes of mindfulness practice before starting our work. My students would then work in groups of four. The focus they had while working with each other, the attention they paid, and the group discussions were more productive as a result of their having had a chance to settle in and get out on paper things that were bothering them as they left their last class or an interaction in the hall.
 

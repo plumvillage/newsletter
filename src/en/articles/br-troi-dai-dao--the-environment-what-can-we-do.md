@@ -42,9 +42,9 @@ At first the logs were too long so they either bent over, or comically slumped i
 
 This synergy of rainwater harvesting and cardboard, sawdust and garden waste recycling turns a lot of waste into useful things, keeps us warm and helps us grow trees and plants. We also reduce the amount of wooden logs we need and thereby the amount of chainsaw use and less smoke particles from our chimneys. The seasons affect everything so it’s harder to make compost in midwinter as there is no green stuff to mix in and the temperature is cold. Making logs is a good alternative. 
 
-## Repurposing containers - introducing the tetrapot 
+## Repurposing containers–introducing the tetrapot 
 
-For two years we struggled to find a solution for the vast numbers of tetrapaks from vegan milk we were putting into our yellow recycling bags, taking up a third of the volume. We cannot crush them as the recycling centre can only process them uncrushed. From time to time I would try to think of a solution to this issue - sometimes quite laughable ideas, but always in vain. I kept this situation in the back of my mind waiting for an answer to come. 
+For two years we struggled to find a solution for the vast numbers of tetrapaks from vegan milk we were putting into our yellow recycling bags, taking up a third of the volume. We cannot crush them as the recycling centre can only process them uncrushed. From time to time I would try to think of a solution to this issue–sometimes quite laughable ideas, but always in vain. I kept this situation in the back of my mind waiting for an answer to come. 
 
 One day we were invited to help plant pumpkin seeds on our organic farm. We were planting the seeds into fragile unrecyclable black plastic pots. They kept breaking as we put the compost in. There was the solution! If we cut a tetrapak in half and make a hole in the bottom half we have two planting pots, which we had been buying, and they can be used more than once. The Happy farmers were keen to try it as an experiment and so a new life was given to the thousands of tetrapaks we use every year. We are also using them to plant many trees. The tetrapot was born!
 

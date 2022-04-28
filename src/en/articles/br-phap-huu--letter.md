@@ -20,7 +20,7 @@ Thay, in the past two weeks I have been asked, “What’s next?” Each time so
 <!-- {% image "article/br-phap-huu/IMG_2227e.jpg" %} -->
 <!-- <span class="note">Plum Village Monastic Retreat 2022</span> -->
 
-We have a beautiful community full of talent and vitality, and we will carry the torch of wisdom you have handed to us into the here and now - and towards the future for generations to come.
+We have a beautiful community full of talent and vitality, and we will carry the torch of wisdom you have handed to us into the here and now–and towards the future for generations to come.
 
 {% image "article/br-phap-huu/1567876120513-edited.jpg" %}
 

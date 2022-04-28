@@ -15,13 +15,13 @@ Thus, old and new stand together in harmony, complete each other in beauty and s
 
 ## The signs of attachment
 
-Dear community, as a very young disciple, I want to offer you a gift - the story of my practice with one of the mental formations that I have inherited from a long stream of ancestors, their experiences, and inner formations. The name of this mental formation is attachment, and the name of this ongoing story, sometimes going up and sometimes down, is “Hello attachment, You Are My Friend”. 
+Dear community, as a very young disciple, I want to offer you a gift–the story of my practice with one of the mental formations that I have inherited from a long stream of ancestors, their experiences, and inner formations. The name of this mental formation is attachment, and the name of this ongoing story, sometimes going up and sometimes down, is “Hello attachment, You Are My Friend”. 
 
 {% image "article/sr-trang-hien-nhan/EN/Planting-Tree-In-LH.jpeg", "", "Lower Hamlet tree planting day" %}
 
 So, how does this story start? Earlier this year, mister attachment came once more to knock at the door of my heart and started singing his familiar song of fear and desire (the one I first listened to the day I came out of my mother’s womb). He sings to me very eloquently, with a powerful voice that can both rise very high and come down to the very low notes, accompanied by a whole orchestra. His songs can be captivating. I have to make a great effort in order not to get too absorbed in them. Mister attachment is a poet, he has a whole range of metaphors, rhymes, tones, and forms; he is grounded in a whole lineage of artists and his strength comes from the very core of human nature. He is also a philosopher capable of deep reflection, and a scientist, with proven evidence. His songs contain all of that. 
 
-Now, do you want to know how he started his lament? In the past year, I have had a close relationship with my mentor, and I felt that I could share anything with her, that she would understand, love and support me no matter what dark energies were inside me. I enjoyed being with her, embraced by her energy and receiving her guidance. She also taught us the fine manners and precepts, which made my happiness even greater. This happiness gave me great energy to practice. I was aware that, part of that inner happiness was based on our mentor-mentee relationship as well as friendship, but I was also aware that there was some attachment in me. I understood, based on my childhood and past experiences, that attachment was very natural, and that my elder sister seemed to trust my capacity to be responsible and to practice with the mental formations that came up. So I let the relationship unfold naturally. I enjoyed the times we had together - sharing, drinking tea, learning or working together. I observed my mind and let the joy and love penetrate me and sing in my thoughts. I didn’t worry because I had faith in my sister, in the sangha, and in the practice. 
+Now, do you want to know how he started his lament? In the past year, I have had a close relationship with my mentor, and I felt that I could share anything with her, that she would understand, love and support me no matter what dark energies were inside me. I enjoyed being with her, embraced by her energy and receiving her guidance. She also taught us the fine manners and precepts, which made my happiness even greater. This happiness gave me great energy to practice. I was aware that, part of that inner happiness was based on our mentor-mentee relationship as well as friendship, but I was also aware that there was some attachment in me. I understood, based on my childhood and past experiences, that attachment was very natural, and that my elder sister seemed to trust my capacity to be responsible and to practice with the mental formations that came up. So I let the relationship unfold naturally. I enjoyed the times we had together–sharing, drinking tea, learning or working together. I observed my mind and let the joy and love penetrate me and sing in my thoughts. I didn’t worry because I had faith in my sister, in the sangha, and in the practice. 
 
 Then, naturally, the time came to change mentors and precept teachers. When that time came, sadness arose in me as well as other feelings like loss, of being abandoned, jealousy and anger. 
 
@@ -110,7 +110,7 @@ The sangha eats, drinks, falls asleep and awakes</p>
 
 <p>She carries me on the ocean of life<br/>
 She is the source of my balance, my joy, my energy<br/>
-Without her, I cannot say what would manifest in me - how could I know? 
+Without her, I cannot say what would manifest in me–how could I know? 
 </p>
 
 <p>This poem is also the Sangha<br/>

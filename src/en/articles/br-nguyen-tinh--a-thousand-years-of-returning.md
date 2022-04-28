@@ -13,7 +13,7 @@ author: Brother Chân Nguyên Tịnh
 
 Today is a Monastic Day. I went quite early to the Hermitage so I could walk on the grounds. A few brown robes were already there, each enjoying the serenity. Thay was away for health treatment in the U.S. and had yet to return. Three more days and it would be a full year since I first arrived in Plum Village.
 
-The sun was rising. I sat by a tree next to Phuong Khe - the Fragrant Creek. It was  the rainy season so the creek was in full flow, and sitting there, I could listen to its murmur. I closed my eyes and followed my breathing. The morning sun embraced me.
+The sun was rising. I sat by a tree next to Phuong Khe–the Fragrant Creek. It was  the rainy season so the creek was in full flow, and sitting there, I could listen to its murmur. I closed my eyes and followed my breathing. The morning sun embraced me.
 
 In recent days my mind has been filled with desolation, as if I had just set foot on a cold, deserted island in order to face myself alone and find the answers for my life. Somewhere in me was a flicker of guilt as I seemed indifferent to all I had. Did I really need to choose my own path and leave behind all the hope and trust that so many had bestowed on me and had wished for me to fulfill? Images of Kim Son Temple, where I ordained and studied for 14 years, kept coming back like howling waves tormenting my five skandhas. Phrases I had heard before and thought had nothing to do with me were now arising: *Have I left behind my teacher and ancestral teachers? Did I turn my back on my roots? Have I taken for granted the relationships in my life before this? Should I go back to my old life?* 
 

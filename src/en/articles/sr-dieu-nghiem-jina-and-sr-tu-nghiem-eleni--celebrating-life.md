@@ -10,7 +10,7 @@ We asked our beloved elders to share some of their memories of the early days of
 
 {% image "article/sr-tu-nghiem-and-sr-dieu-nghiem/Sr-tu-nghiem2-edited.jpg", "", "Inter-faith “nuns retreat”, Lower Hamlet, 1995" %}
 
-***Sr. Tu Nghiem*:** It was such an eye-opening experience for me (to live in a Vietnamese community in rural France), coming from Manhattan - a city with big concrete apartment buildings. It was a totally different experience, and I appreciated so much the way the Vietnamese mothers and fathers, the children, were happy and harmonious together.
+***Sr. Tu Nghiem*:** It was such an eye-opening experience for me (to live in a Vietnamese community in rural France), coming from Manhattan–a city with big concrete apartment buildings. It was a totally different experience, and I appreciated so much the way the Vietnamese mothers and fathers, the children, were happy and harmonious together.
 
 My parents were both children of immigrants, so they had the experience of speaking their parents’ native language and learning English later on, so maybe they transmitted to me a sense of feeling comfortable with other cultures. I was used to this double culture. The adjustments were not so difficult, and the Vietnamese culture I found was gentle and very respectful. I remember how Thay greeted the father of Br. Phap Ung. Thay stood up from the table, and when (Br. Phap Ung’s) father came into the room, Thay went up to him, (as he was older than Thay in age), and greeted him in the appropriate way. I was just so touched by Thay continuing to keep the value of addressing the parents of his disciples in a respectful way.
 
@@ -61,7 +61,7 @@ Sometimes we were allowed to bring food to Thay on a tray. And once I remember T
 
 {% image "article/sr-tu-nghiem-and-sr-dieu-nghiem/SrTuNghiem1-edited.jpg", "", "Sr. Tu Nghiem - center right" %}
 
-## Evolution of the basic Plum Village practices - Tea meditation
+## Evolution of the basic Plum Village practices–Tea meditation
 
 ***Sr. Tu Nghiem*:** In 1990-91, we lived in Lower Hamlet. Every Sunday afternoon, there would be a tea meditation (for everyone, lay and monastic) in the Red Candle Meditation Hall. Thay and Sr. Chan Khong would come sometimes, and during the years when Br. Giac Thanh was in Upper Hamlet, he would come and be the tea master. It was a very zen experience. Br. Giac Thanh would bring poems from the Vietnamese poets. It was a time for sharing poetry, a very creative time, very relaxed. 
 

@@ -8,7 +8,7 @@ author: Brother Chân Trời Đạo Bi
 <!-- Offering the Wake Up song for Thay and the Sangha -->
 <!-- Wake Up Indonesia with sarong and batik -->
 
-As a young person, I did not know what I wanted in life. I did not have a path. When I heard that Thay was coming to Indonesia in 2010, I immediately signed up for the retreat. After the retreat, I felt that I saw the path I wanted to embark on - Yes, I wanted to become a monk! My parents didn’t support me, but after seeing my transformation, they understood that this path would bring me happiness. They asked me to finish my studies; I also thought it was a good idea. It gave me time to reflect on my aspiration, to see if this path would help me find meaning in my life.
+As a young person, I did not know what I wanted in life. I did not have a path. When I heard that Thay was coming to Indonesia in 2010, I immediately signed up for the retreat. After the retreat, I felt that I saw the path I wanted to embark on–Yes, I wanted to become a monk! My parents didn’t support me, but after seeing my transformation, they understood that this path would bring me happiness. They asked me to finish my studies; I also thought it was a good idea. It gave me time to reflect on my aspiration, to see if this path would help me find meaning in my life.
 
 After that 2010 retreat, some young people decided to establish Wake Up Indonesia. Then in 2013, some of us from Wake Up Indonesia went to the Wake Up Retreat led by Thay in Thailand. It was there that I saw Thay's calligraphy that read: *You have seen the path. Do not fear anymore.* I was moved to tears. I recognized the fear that I may not see Thay again. The calligraphy was like encouraging words from Thay, comforting me, letting me know that it is more important to see the path than to see Thay personally. 
 
@@ -35,7 +35,7 @@ In one of Thay's letters, he said, “Thay and his disciples feel every day that
 
 {% image "article/br-troi-dao-bi/DSC6747-edited.JPG" %}
 
-I often ask myself: *Have I really seen the path?* This question always accompanies me. I still have a lot of fear and sorrow, and a part of me feels that it is difficult to really have non-fear. The practice of listening to the bell helps me in these situations. When I recite the gatha - “Listening to the bell, I feel my afflictions begin to dissolve”, I see that day by day, my fear and sorrow slowly dissolve. 
+I often ask myself: *Have I really seen the path?* This question always accompanies me. I still have a lot of fear and sorrow, and a part of me feels that it is difficult to really have non-fear. The practice of listening to the bell helps me in these situations. When I recite the gatha, “Listening to the bell, I feel my afflictions begin to dissolve”, I see that day by day, my fear and sorrow slowly dissolve. 
 
 ## Wake Up is a precious gem of the Plum Village tradition 
 
@@ -43,7 +43,7 @@ Plum Village attracts many young people because Thay and the sangha have been ab
 
 During the Wake Up Ambassadors Retreat in 2018, we established the “European Wake Up CTC”. We called it “OOMPH” because it sounds more fun! We decided it stands for “Organism for Optimizing Many People's Happiness”. It is not an organization, but an organism. When the Wake Up ambassadors have a place of refuge, they are able to optimize their own happiness, then bring that happiness to the people in their sanghas. 
 
-Every month, we continue to deepen our connection and friendship. Usually we have online gatherings on Thursday or Sunday evenings, which are lazy evenings in Plum Village after the Days of Mindfulness. Sometimes I feel tired, but when I join the online gatherings, I feel as if I am coming home and spending time with the family in the living room, and asking, “How is everybody doing?” or “How was your day?” The lay members share their difficulties, both personal and in their Wake Up sanghas, and the monastic members also share our difficulties, so we create mutual support and siblinghood. We also have fun together - play online games, sing, and dance!
+Every month, we continue to deepen our connection and friendship. Usually we have online gatherings on Thursday or Sunday evenings, which are lazy evenings in Plum Village after the Days of Mindfulness. Sometimes I feel tired, but when I join the online gatherings, I feel as if I am coming home and spending time with the family in the living room, and asking, “How is everybody doing?” or “How was your day?” The lay members share their difficulties, both personal and in their Wake Up sanghas, and the monastic members also share our difficulties, so we create mutual support and siblinghood. We also have fun together–play online games, sing, and dance!
 
 In the chant *Praising the Buddha*, I very much like the line - *May the sangha practice diligently, showing love and concern for one and all. Just as for our very own family…* It moves me as it reflects my deep aspiration to practice in a way that shows love and concern for young people, the human family, and all beings. It’s a lot of fun to practice with young people and to show others that when we practice we don’t have to be too serious!
 

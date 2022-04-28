@@ -5,7 +5,7 @@ author: Sister Chân Quy Nghiêm
 
 I thought that meditation songs were a new Dharma door of Plum Village. But in fact, it is a long standing Zen tradition that Plum Village has applied creatively and widely so that people now, especially young people, can easily come in touch with the Buddha’s teachings to be more aware of the meaning of their life, and to live in a more wholesome, beautiful, and rich way.
 
-In the Zen tradition, the monks and nuns chant sutras while inviting bells, fish drums, and other Dharma instruments. Now I realize that chanting is a form of meditation song - a way to help us absorb the teachings of the Buddha. The words of the sutras are like drops of nectar that fall gently on the soil of the mind, germinating the good seeds, watering them so they may grow, bear fruit, and bring beauty to our lives. 
+In the Zen tradition, the monks and nuns chant sutras while inviting bells, fish drums, and other Dharma instruments. Now I realize that chanting is a form of meditation song–a way to help us absorb the teachings of the Buddha. The words of the sutras are like drops of nectar that fall gently on the soil of the mind, germinating the good seeds, watering them so they may grow, bear fruit, and bring beauty to our lives. 
 
 When I first came to Plum Village, France in the Summer of 1987, I heard a recording of the song “Your consciousness is like the sun shining” by the singer Ha Than (a well known Vietnamese singer of meditation songs). I was deeply moved, as if I had been asleep and had just woken up. The Buddha said we suffer because we do not see the path. There are tens of thousands of paths in life. If we are not fortunate enough to meet the Buddha to show us the way, we could easily be lost. 
 
