@@ -7,7 +7,7 @@ author: Brother Chân Minh Hy
 
 ## Where is the Dharma? 
 
-There is an anecdote about an occasion at the Tu Dam Temple in Vietnam, when the monks were about to put their sanghati on for the precepts recitation ceremony, and Venerable Thien Sieu asked, “Do you know why we say, ‘The Dharma is deep and wonderful’?” Pausing for a few moments, he continued, “Because it is here, right in front of you.”
+There is an anecdote about an occasion at the Tu Dam Temple in Vietnam, when the monks were about to put their sanghati robe on for the precepts recitation ceremony, and Venerable Thien Sieu asked, “Do you know why we say, ‘The Dharma is deep and wonderful’?” Pausing for a few moments, he continued, “Because it is here, right in front of you.”
 
 <!-- {% image "article/br-minh-hy/IMG_8496-edited.jpg" %} -->
 
@@ -31,7 +31,7 @@ Perhaps rice and boiled vegetables have become ordinary due to the way we eat th
 are struggling to live.<br/>
 I aspire to practice deeply<br/>
 so all may have enough to eat.”</p>
-<cite>Gatha ‘Before Eating’, Stepping into Freedom</cite></div>
+<cite>Gatha "Before Eating," Stepping into Freedom</cite></div>
 
 In this way, there are things that are very familiar, but they never become out of date. Each step, each in-breath and out-breath, each bowl of rice can become a banquet if our heart is filled with gratitude.
 
