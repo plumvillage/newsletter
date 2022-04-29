@@ -15,7 +15,7 @@ Today is a Monastic Day. I went quite early to the Hermitage so I could walk on 
 
 The sun was rising. I sat by a tree next to Phuong Khe–the Fragrant Creek. It was  the rainy season so the creek was in full flow, and sitting there, I could listen to its murmur. I closed my eyes and followed my breathing. The morning sun embraced me.
 
-In recent days my mind has been filled with desolation, as if I had just set foot on a cold, deserted island in order to face myself alone and find the answers for my life. Somewhere in me was a flicker of guilt as I seemed indifferent to all I had. Did I really need to choose my own path and leave behind all the hope and trust that so many had bestowed on me and had wished for me to fulfill? Images of Kim Son Temple, where I ordained and studied for 14 years, kept coming back like howling waves tormenting my five skandhas. Phrases I had heard before and thought had nothing to do with me were now arising: *Have I left behind my teacher and ancestral teachers? Did I turn my back on my roots? Have I taken for granted the relationships in my life before this? Should I go back to my old life?* 
+In recent days my mind has been filled with desolation, as if I had just set foot on a cold, deserted island in order to face myself alone and find the answers for my life. Somewhere in me was a flicker of guilt as I seemed indifferent to all I had. Did I really need to choose my own path and leave behind all the hope and trust that so many had bestowed on me and had wished for me to fulfill? Images of Kim Son Temple, where I ordained and studied for fourteen years, kept coming back like howling waves tormenting my five skandhas. Phrases I had heard before and thought had nothing to do with me were now arising: *Have I left behind my teacher and ancestral teachers? Did I turn my back on my roots? Have I taken for granted the relationships in my life before this? Should I go back to my old life?* 
 
 During sitting meditation, these thoughts continued to emerge, rocking me and confining me in an invisible room. I called on Thay, placing my attention on his solid, peaceful, and courageous energy that was protecting me.
 
@@ -33,7 +33,7 @@ I received the surprising news that I would soon have an opportunity to be Thay'
 
 {% image "article/br-nguyen-tinh/BrNguyenTinh2-edit.jpg" %}
 
-## <span class="lmnq">Mar 25, 2016</span><br/>16<sup>th</sup> day attending Thay
+## <span class="lmnq">Mar 25, 2016</span><br/>Sixteenth day attending Thay
 
 Like the ancestral teachers of the past, Thay is also transmitting the living Dharma day and night: you support my feet, for you I walk; you offer medicine, for you I drink it; you bring me rice, for you I eat it; you are disrespectful, I reprimand you for your sake; you make me tea, for you I reach out to receive it; you want to learn, for you I teach; you bring me the chamber pot, for you I urinate; you want to learn impermanence, for you I am ill. Try asking me if I have transmitted the *Mind Seal* to you. Has anyone let anyone down? 
 
@@ -43,7 +43,7 @@ I remember the second morning of the “Gratitude” Great Precepts Transmission
 
 The venerable monks were at breakfast and Thay joined them. Thay ate very mindfully, carefully and decisively bringing each spoonful of food to his mouth. His eyes were as bright as the eyes I had met in Thailand in 2013. Thay’s eyes and bearing led Venerable Giac Quang to tears. After breakfast Thay returned to the Sitting Still Hut. The sun was just appearing. Thay saw it and pointed it out to everyone, then invited the venerables to watch the sun rise in his hut. The scene was glorious.
 
-## <span class="lmnq">Apr 5, 2016</span><br/>27<sup>th</sup> day attending Thay
+## <span class="lmnq">Apr 5, 2016</span><br/>Twenty-seventh day attending Thay
 
 Asleep in the heart of the Hermitage, I dreamt of a young boy of ten who was poor and sick. The boy knew he had to take a special train to go somewhere and then he would find the life he was meant to live. He had to go, but he did not have any money. Carrying a bag containing a few items, he chose his moment to hide in a dark, cramped cargo hold. The train started and meandered through the plains, hills, and wild ancient forests.
 
