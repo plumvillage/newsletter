@@ -275,8 +275,8 @@ if (generateArticles) {
 }
 
 
-// generatePDF("http://fee:8080/en/articles-print-preview/tnhf--continuing-the-deep-practise-of-gratitude/", `./builds/tnhf--continuing-the-deep-practise-of-gratitude`)
+generatePDF("http://fee:8080/en/articles-print-preview/sr-thuan-khanh--at-the-foot-of-the-majestic-mountain/", `./builds/at-the-foot-of-the-majestic-mountain`)
 
 // concurrent.
 // for full-size pdf, 2 is very memory intense (16GB recommended)
-Array(1).fill().forEach(startWork);
+// Array(1).fill().forEach(startWork);

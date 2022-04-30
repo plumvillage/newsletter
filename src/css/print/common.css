@@ -802,6 +802,7 @@ article figure figcaption {
     margin-top: 0;
     margin-bottom: 0 !important;
     padding-top: 1pt;
+    z-index: 2;
 }
 
 p.editors-preface {

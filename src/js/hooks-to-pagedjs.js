@@ -49,6 +49,11 @@ class MyHandler extends Paged.Handler {
             addClassToPageDIV(node, `PAGE-OF-${node.id}`)
         }
         
+        if (node.nodeName == "FIGCAPTION") {
+            // in order for use in css: content: attr(text-for-outline);
+            node.setAttribute("text-for-outline", node.textContent)
+        }
+        
         if (node.textContent) {
             /* for Vietnamese: � in render output, seems randomly appearing
                 bởi -> b���i

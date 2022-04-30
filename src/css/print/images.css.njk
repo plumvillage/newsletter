@@ -208,16 +208,26 @@ figure#article{{ item[0] }} figcaption {
     right: 17mm;
     width: 70mm;
     color: rgb(211, 211, 211) !important;
-    {# computationally complex #}
+    {# computationally complex. printershops have problems with this. #}
     {# text-shadow:
         0 0 1pt black,
         0 0 1pt black,
         0 0 5pt black,
         0 0 10pt black
     ; #}
-    text-shadow: 0.3pt 0.4pt 0 rgba(0,0,0, 0.8);
+    {# text-shadow: 0.3pt 0.4pt 0 rgba(0,0,0, 0.8); #}
+    {# -webkit-text-stroke: 0.3pt black; #}
     {# 16mm if pagenumber is displayed #}
     bottom: calc(10mm + {{ item[2] }});
+}
+
+figure#article{{ item[0] }} figcaption:after {
+    content: attr(text-for-outline);
+    position: absolute;
+    -webkit-text-stroke: 0.1em black;
+    right: 0;
+    top: 1.333px;
+    z-index: -1;
 }
 {% endfor %}
 
