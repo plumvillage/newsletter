@@ -8,7 +8,7 @@ author: Sister Chân Đào Nghiêm
 Embarking on a journey<br/>
 of silence and joy.</p></div>
 
-This poem was written in November, 2002 when I was living in Upstate NewYork and dreaming about traveling to Plum Village to meet Thay. I had started reading books written by Thay in 2000 and came for my first retreat in Plum Village in February 2002.
+This poem was written in November, 2002 when I was living in upstate New York and dreaming about traveling to Plum Village to meet Thay. I had started reading books written by Thay in 2000 and came for my first retreat in Plum Village in February 2002.
 
 <div class="verse"><p>To distant lands I left,<br/>
 walking step by step on life's path.<br/>
@@ -28,7 +28,7 @@ helping me to reach the place in my heart<br/>
 that has eternally existed.<br/>
 Thank you my beloved teacher.</p></div>
 
-When I made my decision to ordain in May 2003 I wrote this poem. The first time I saw Thay I knew Thay was the teacher I had been searching for for all my life. I had left France in 1982 to live in a spiritual community in the U.S.A and Canada. I did not return to live in France until 2003 when I was ordained in the Plum Village tradition.
+When I made my decision to ordain in May 2003, I wrote this poem. The first time I saw Thay I knew Thay was the teacher I had been searching for, for all my life. I had left France in 1982 to live in a spiritual community in the USA and Canada. I did not return to live in France until 2003 when I was ordained in the Plum Village tradition.
 
 <div class="verse"><p>A rose in my hand, my heart wide open, I walk.<br/>
 Each step is imprinted in the earth,<br/>
@@ -63,7 +63,9 @@ for all they have accomplished,<br/>
 allowing me to be what I am today.<br/>
 Gratitude for the beauty of life.</p></div>
 
-Written in 2003. A week before we ordain we have a ceremony formally requesting to receive the ten novice precepts. During this ceremony we offer a rose to Thay and to our spiritual ancestors. This poem expresses how I felt during that ceremony, my deep aspiration and the love in my being.
+Written in 2003. <br/>
+
+    A week before we ordain, we have a ceremony formally requesting to receive the ten novice precepts. During this ceremony we offer a rose to Thay and to our spiritual ancestors. This poem expresses how I felt during that ceremony, my deep aspiration and the love in my being.
 </div>
 
 <article class="article-snow-falling-autumn">
@@ -136,7 +138,9 @@ You are in me<br/>
 I am in you<br/>
 Your hand continues through millions of hands.</p></div>
 
-I was always very moved when I watched Thay’s hands, the way that Thay held his cup of tea, opened a door, placed his hand on our heads and how Thay gave us teachings using the example of his hands. This poem was written in December 2016 for Thay.
+I was always very moved when I watched Thay’s hands, the way that Thay held his cup of tea, opened a door, placed his hand on our heads and how Thay gave us teachings using the example of his hands. <br/>
+    
+*This poem was written in December 2016 for Thay.*
 
 <div class="article-end"></div>
 
