@@ -63,7 +63,7 @@ I am deeply grateful to each participant for sharing their experience and storie
 
 > “I think I will definitely continue it because I find that my day is going more smoothly and I end up with a happier day and so that means I come home happier. So, I don't bring back all of the frustration and stuff that was happening through the day. I think, those deep breaths in between patients, the mindful walking that I can do is great.” <cite>Rheumatologist</cite>
 
-> “I spoke about the breathing, so you come back to your mindful breathing and it helps you to cope with almost every situation. Like, you have that interaction with a patient. So, you can immediately react or you can just pause when you feel it; if you pause and you take a breath and you do it twice,  it gives you some time to think. And then if you're relaxed, it immediately gives you the way to react differently, better.” <cite>Surgeon</cite>
+> “I spoke about the breathing, so you come back to your mindful breathing and it helps you to cope with almost every situation. Like, you have that interaction with a patient. So, you can immediately react or you can just pause when you feel it; if you pause and you take a breath and you do it twice, it gives you some time to think. And then if you're relaxed, it immediately gives you the way to react differently, better.” <cite>Surgeon</cite>
 
 ## No beginning, no end 
 

@@ -31,7 +31,7 @@ Perhaps rice and boiled vegetables have become ordinary due to the way we eat th
 are struggling to live.<br/>
 I aspire to practice deeply<br/>
 so all may have enough to eat.”</p>
-<cite>Gatha "Before Eating," Stepping into Freedom</cite></div>
+<cite>Gatha “Before Eating,” Stepping into Freedom</cite></div>
 
 In this way, there are things that are very familiar, but they never become out of date. Each step, each in-breath and out-breath, each bowl of rice can become a banquet if our heart is filled with gratitude.
 

@@ -48,7 +48,7 @@ The story of awakening while viewing the autumn splendor may remind us of the st
 <div class="verse"><p>For thirty years I've sought the swordsman.<br/>
 Many times the leaves have fallen to sprout anew.<br/>
 Following one glance at a peach blossom,<br/>
-I no longer have any more doubts.<span class="note">Translated by Andy Ferguson, *Zen's Chinese Heritage: The Masters and Their Teachings (Boston: Wisdom Publications*, 2000), pp. 183–184.</span></p></div>
+I no longer have any more doubts.<span class="note">Translated by Andy Ferguson, <i>Zen's Chinese Heritage: The Masters and Their Teachings (Boston: Wisdom Publications</i>, 2000), pp. 183–184.</span></p></div>
 
 Thay offered a pair of parallel verses to Br. Giac Thanh when he passed away: 
 

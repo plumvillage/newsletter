@@ -47,7 +47,7 @@ It was very touching. I am not sure what the others gleaned from this, but it ta
 
 ## Becoming a Dharma teacher
 
-Gitu and I were with Thay in 1999 while he was on a tour in the United States. One day Thay came up to me and told me that my name had been recommended to be ordained as a Dharmacharya. This would mean that I would now be "transmitted the lamp" and be authorised to teach as a representative of Thay, who is the 42<sup>nd</sup> generation of the Chinese Zen Master Linji’s lineage.
+Gitu and I were with Thay in 1999 while he was on a tour in the United States. One day Thay came up to me and told me that my name had been recommended to be ordained as a Dharmacharya. This would mean that I would now be “transmitted the lamp” and be authorised to teach as a representative of Thay, who is the 42<sup>nd</sup> generation of the Chinese Zen Master Linji’s lineage.
 
 I asked Thay who had recommended my name and he said “Thay.” I was pleased and surprised, but did not feel ready. When I told him my doubts, Thay said he had confidence in me. Gitu and I decided to go and live in Plum Village for a while so that I would feel more confident to take on my new role as a Dharma Teacher. Not that I could see Thay every day – he lived in a hermitage away from the monastery and visited twice a week to teach at one of the Plum Village hamlets, where hundreds of people would gather to hear him speak.
 

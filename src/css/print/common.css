@@ -634,8 +634,8 @@ article p, article blockquote {
 
 article p + p,
 article figure + p,
-article blockquote + p,
-article .verse + p
+html:lang(vi) article blockquote + p,
+html:lang(vi) article .verse + p
 {
     text-indent: 16pt;
     margin-top: 11pt;
@@ -1864,7 +1864,8 @@ article blockquote span:lang(zh) {
 
 /* to break 2 liner at right point ":" */
 h1#thirteen-years-of-monastic-life-taking-stock {
-    width: 90%
+    width: 90%;
+    margin-left: 5%;
 }
 
 

@@ -63,7 +63,7 @@ for all they have accomplished,<br/>
 allowing me to be what I am today.<br/>
 Gratitude for the beauty of life.</p></div>
 
-*Written in 2003.*<br/>
+Written in 2003.<br/>
 
 A week before we ordain, we have a ceremony formally requesting to receive the ten novice precepts. During this ceremony we offer a rose to Thay and to our spiritual ancestors. This poem expresses how I felt during that ceremony, my deep aspiration and the love in my being.
 </div>
@@ -138,9 +138,9 @@ You are in me<br/>
 I am in you<br/>
 Your hand continues through millions of hands.</p></div>
 
-I was always very moved when I watched Thay’s hands, the way that Thay held his cup of tea, opened a door, placed his hand on our heads and how Thay gave us teachings using the example of his hands. <br/>
-    
-*This poem was written in December 2016 for Thay.*
+This poem was written in December 2016 for Thay.
+
+I was always very moved when I watched Thay’s hands, the way that Thay held his cup of tea, opened a door, placed his hand on our heads and how Thay gave us teachings using the example of his hands.
 
 <div class="article-end"></div>
 
