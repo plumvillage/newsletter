@@ -13,7 +13,7 @@ One of the most sacred places for me as a child was a certain forest in the hill
 
 One year we went back there and half the wood was gone. On one side of the valley, every single tree had been chopped down and dragged away. What was left looked like a battlefield. Even the side that had not been cut felt damaged, as if the trees were in mourning. Where the forest had been felled, the earth was torn–scarred with the tracks of giant machines. The whole forest felt diminished, broken and vulnerable. I felt so angry and confused. Why would anyone do this? Why would anyone destroy this magical cathedral of green and leave behind a wasteland?
 
-Looking back, I think this was one of those pivotal moments where I went from being aware that nature was being damaged and destroyed, to making the determination to take action and stop the destruction. I was determined to try to find a way for us to live without cutting off the very branch we were sitting on. The first time I heard the term “global warming”, I was around 12 years old, and since then, my whole life has been lived with an awareness of the rapidly accelerating pace of desecration of our earth. For years I struggled to see how I could make a difference in the face of such a gigantic threat, and I was convinced that we were in fact doomed as a civilisation. It was only when I met Thay and the sangha that I started to see a path forward.
+Looking back, I think this was one of those pivotal moments when I went from being aware that nature was being damaged and destroyed, to making the determination to take action and stop the destruction. I was determined to try to find a way for us to live without cutting off the very branch we were sitting on. The first time I heard the term “global warming”, I was around twelve years old, and since then, my whole life has been lived with an awareness of the rapidly accelerating pace of desecration of our earth. For years I struggled to see how I could make a difference in the face of such a gigantic threat, and I was convinced that we were in fact doomed as a civilisation. It was only when I met Thay and the sangha that I started to see a path forward.
 
 We know that our climate is now rapidly changing and we may already have irreversibly disrupted the delicate balance of conditions that allowed us to flourish as a species over the last 12,000 years. We are already seeing the effects of climate stress in many parts of the world, which make life more difficult, especially for those on the edge of poverty. This is happening now. 
 
@@ -25,7 +25,7 @@ Thay has always been very clear that it is the applied insight of interbeing, th
 
 ## TED Countdown 
 
-In October, Brother Phap Huu, Sister Lang Nghiem, Sister Hien Nghiem and I attended the TED Countdown event in Edinburgh. It was an event designed to inspire and prepare people for the COP26, UN Climate Summit in Glasgow, which would take place a couple of weeks later. When we returned to Plum Village, we were all focussed on rejoining the annual Rains' Retreat. But so many people had been touched by the presence of the monastics in Edinburgh, especially by Sr. Hien Nghiem’s TED talk, that they then wanted to invite us to Glasgow as well. We quickly re-assessed the situation and found a way for two of us to represent the sangha at this historic event.
+In October, Brother Phap Huu, Sister Lang Nghiem, Sister Hien Nghiem, and I attended the TED Countdown event in Edinburgh. It was an event designed to inspire and prepare people for the COP26, UN Climate Summit in Glasgow, which would take place a couple of weeks later. When we returned to Plum Village, we were all focussed on rejoining the annual Rains' Retreat. But so many people had been touched by the presence of the monastics in Edinburgh, especially by Sr. Hien Nghiem’s TED talk, that they then wanted to invite us to Glasgow as well. We quickly re-assessed the situation and found a way for two of us to represent the sangha at this historic event.
 
 {% image "article/br-phap-linh/CS21_20211015_2RL0936-crop4.jpg", "", "Sr. Hien Nghiem speaking at the TED Countdown Summit, 15 October 2021. Photo: Ryan Lash" %}
 <!-- Sister True Dedication speaks at Session 7 at TED Countdown Summit on October 15, 2021. TED Countdown Summit. October 12-15, 2021, Edinburgh, Scotland. Photo: Ryan Lash / TED -->
@@ -34,7 +34,7 @@ Suddenly I was faced with the prospect of going to COP26, and to be honest it wa
 
 ## My grandfather's lawn
 
-Another memory… Every summer when I went to visit my grandparents in France, one of my favourite things to do was to lie down in the long grass, completely motionless, and just look. I would disappear into the weird and wonderful world of the colourful, shiny, metallic bugs, and big scary spiders with their bright yellow stripes; the drab grey grasshoppers, whose iridescent blue and red wings would only become visible when they were startled into jumping and fluttering to a new perch. But every time my grandfather mowed the grass, this rich and diverse world was destroyed. I never stopped trying to persuade him to let nature take its course and allow the field to grow and grow, undisturbed—to become a wild place again, full of life and wonder.
+Another memory.… Every summer when I went to visit my grandparents in France, one of my favourite things to do was to lie down in the long grass, completely motionless, and just look. I would disappear into the weird and wonderful world of the colourful, shiny, metallic bugs, and big scary spiders with their bright yellow stripes; the drab grey grasshoppers, whose iridescent blue and red wings would only become visible when they were startled into jumping and fluttering to a new perch. But every time my grandfather mowed the grass, this rich and diverse world was destroyed. I never stopped trying to persuade him to let nature take its course and allow the field to grow and grow, undisturbed—to become a wild place again, full of life and wonder.
 
 ## COP26–Invoking the sangha 
 
@@ -42,7 +42,7 @@ Just a few short days later I found myself in Glasgow, reunited with my mentor, 
 
 Sharing with the delegates at the conference, we were so happy to discover that the insight of interbeing and interdependence is also growing stronger in the world. Actually, in the environmental movement, almost everyone knows that this is the way forward, but what I started to see was that for many, this insight remains at the intellectual level and does not translate into their way of life. They understand the principle of interbeing, but they are still living as a separate self, as an individual who has to make a living, make a reputation for themselves–a career and an identity. But the good news is that when they see a practical example of how the insight can be applied, they get it right away. You just have to scratch the surface, and they are ready to transform. That’s the good news!
 
-{% image "article/br-phap-linh/PV-Monastics-at-TED-with-Al-Gore-and-ZASP-Square-Photo-PVCEB-e.jpeg", "", "Meeting with Al Gore, former Vize President of the U.S." %}
+{% image "article/br-phap-linh/PV-Monastics-at-TED-with-Al-Gore-and-ZASP-Square-Photo-PVCEB-e.jpeg", "", "Meeting with Al Gore, former Vice President of the U.S." %}
 
 ## Practising applied interbeing 
 
@@ -57,12 +57,12 @@ They were touched also by our (relative) non-fear of their suffering. We are all
 Every tiny step of transformation we have made on the path is directly connected with what we can offer to others. Every time we’ve been able to embrace some of our own sadness and confusion, every time we’ve been able to take a breath or two and soften a feeling of pain instead of reacting, every time we’ve been able to breathe through our anxiety or victimhood and liberate ourselves from it, even just a tiny bit–manifests as non-fear and confidence when we are with someone who is suffering. We know that it is possible to transform our own pain, that is why we know that it is also possible for someone else. The other person can feel that, and when they feel that non-fear from us, they already get some relief.
 
 <!-- 21.11.09 Tuesday -->
-{% image "article/br-phap-linh/NYTCH_211109_KA_874.jpg", "", "The New York Times Climate Hub: Returning to the Heartwood. Photo ©Craig Gibson. Nov 9, 2021" %}
+{% image "article/br-phap-linh/NYTCH_211109_KA_874.jpg", "", "*The New York Times* Climate Hub: Returning to the Heartwood. Photo ©Craig Gibson. November 9, 2021" %}
 <!-- <a href='https://craiggibsonphotographer.shootproof.com/gallery/nytclimatehub/album/11335889'> -->
 
 ## The value of transformation 
 
-Our own transformation *is* the offering and as a sangha we have a lot to offer because all of us are walking that path, and all of us have been able to transform something, even if sometimes it feels like it’s not enough, and even though we still suffer now and then. Collectively, we transmit the lived experience of the transformation of suffering–the knowledge that it is possible–and that more than anything else is what the world needs right now. 
+Our own transformation *is* the offering and as a sangha we have a lot to offer because all of us are walking that path, and all of us have been able to transform something, even if sometimes it feels like it’s not enough, and even though we still suffer now and then. Collectively, we transmit the lived experience of the transformation of suffering–the knowledge that it is possible–and *that*, more than anything else, is what the world needs right now. 
 
 In Glasgow, both Br. Phap Dung and I felt so lucky that we get to do this work in this life—that we get to make a difference, just by living as a cell of the Sangha body. It is truly a great fortune, given the awareness of suffering in the world, and the awareness that the suffering may increase greatly in the coming years, to realise that we can do something, and that as a sangha, we can do a lot.
 
