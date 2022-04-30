@@ -17,13 +17,13 @@ When we study the 12 links of dependent co-arising, we realise that through igno
 
 ## Harvesting rainwater 
 
-One of the workshops focussed on water and how much water we use unnecessarily. Our revolution began right there. I began to notice that we had several large rainwater collectors lying around and not being used. Little by little we started connecting them to gutters and before long we had five rainwater collectors harvesting a total of 2,500 litres of rainwater. It cost us almost nothing, just our labour since we had pipes salvaged from reconstruction projects. 
+One of the workshops focused on water and how much water we use unnecessarily. Our revolution began right there. I began to notice that we had several large rainwater collectors lying around and not being used. Little by little we started connecting them to gutters and before long we had five rainwater collectors harvesting a total of 2,500 litres of rainwater. It cost us almost nothing, just our labour since we had pipes salvaged from reconstruction projects. 
 
 But once the containers were full we could not harvest any more rainwater next time it rained. Around the same time we started to buy cooking oil in 25-litre plastic containers and they eventually started arriving in the recycling barn. So we began cleaning them and filling them from the rainwater collectors. Our rainwater tanks became rain cows that we could endlessly milk. 
 
 What are we doing with all that water? If you are planting trees it is very convenient to have many portable containers of water. Also we have an outside tap next to the monastic residence. Son Ha is at the bottom of a hill and gets very muddy when the rains come. The brothers were using this outside tap to wash the mud off their boots. So we put one rainwater collector there with a tap to clean our boots so we save on tapwater.
 
-Two other collectors were set up to take the run off rainwater from our barn roof. We use this to process the waste cardboard and to water the flowers in the garden.
+Two other collectors were set up to take the runoff rainwater from our barn roof. We use this to process the waste cardboard and to water the flowers in the garden.
 
 {% image "article/br-troi-dai-dao/IMG_0428.jpg", "noFloat" %}
 {% image "article/br-troi-dai-dao/IMG_0429-edit.jpg", "noFloat", "‘Tetrapots’" %}
@@ -36,7 +36,7 @@ When we looked at the waste we were driving in our van to the local recycling ce
 
 To make compost, we shred some of the cardboard by hand, add it to weed or grass cuttings, and store it in empty rice sacks (of which we have a regular supply from the kitchen). Witnessing this alchemy of turning grass and cardboard, seeing the red worms come, and eventually seeing the pile transformed into dark brown compost is very fulfilling.
 
-To make “log”, the waste paper and unglossy cardboard are cut up and soaked in rainwater before being pulped, mixed with sawdust from our woodwork area and compressed into logs for the fire. It can be difficult sometimes to get everyone on board with the idea that separating sawdust from other floor sweepings is helping the environment. But patience pays off. We made the log press from an old car jack and bits of scrap metal. 
+To make a “log”, the waste paper and unglossy cardboard are cut up and soaked in rainwater before being pulped, mixed with sawdust from our woodwork area and compressed into logs for the fire. It can be difficult sometimes to get everyone on board with the idea that separating sawdust from other floor sweepings is helping the environment. But patience pays off. We made the log press from an old car jack and bits of scrap metal. 
 
 At first the logs were too long so they either bent over, or comically slumped in the drying process. Actually when I think back, the very first ones I made were so small it took too much effort to make them for the end result, so that’s why I started making them longer. In addition they were so fragile while still wet that I broke many just turning them over through their drying stage. Gradually we found the best length to diameter ratio to make them efficient to make and able to manoeuvre and dry naturally in the wind and sun. The learning and correcting process was frustrating but also empowering.
 
@@ -58,4 +58,4 @@ It is clear to me that we need to separate more things in bins. Our ability to r
 
 {% image "article/br-troi-dai-dao/IMG_0436-edited.jpg" %}
 
-We are lucky in our community to have many different functions: farm, office, shop, etc. But wherever we live we are part of a wider community where these functions also exist. We receive wooden crates from vegetables farmers for example. Originally I cut them up with a table saw to make kindling for the fire. Then a brother suggested taking them to a local grower. So now we take them to a local market garden for re-use. So some things are repurposed here and some outside. We just keep looking out for opportunities and the mind of recycling develops naturally.
+We are lucky in our community to have many different functions: farm, office, shop, etc. But wherever we live we are part of a wider community where these functions also exist. We receive wooden crates from vegetable farmers for example. Originally I cut them up with a table saw to make kindling for the fire. Then a brother suggested taking them to a local grower. So now we take them to a local market garden for re-use. So some things are repurposed here and some outside. We just keep looking out for opportunities and the mind of recycling develops naturally.
