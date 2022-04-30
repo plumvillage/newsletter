@@ -645,16 +645,18 @@ article h2 {
     page-break-after: avoid;
 }
 
-article h2:not(.author) + p {
+html:lang(vi) article h2:not(.author) + p {
     text-indent: 16pt;
 }
 
 article blockquote {
-    text-indent: 14pt;
     margin-top: 11pt;
     margin-bottom: 14pt;
 	padding-left: 6pt;
     font-style: italic;
+}
+html:lang(vi) article blockquote {
+    text-indent: 14pt;
 }
 article blockquote i {
     font-style: normal;

@@ -208,7 +208,7 @@ figure#article{{ item[0] }} figcaption {
     right: 17mm;
     width: 70mm;
     color: rgb(211, 211, 211) !important;
-    {# computationally complex. printershops have problems with this. #}
+    {# most beautiful, but computationally complex. printershops have problems with this. #}
     {# text-shadow:
         0 0 1pt black,
         0 0 1pt black,
@@ -216,16 +216,19 @@ figure#article{{ item[0] }} figcaption {
         0 0 10pt black
     ; #}
     {# text-shadow: 0.3pt 0.4pt 0 rgba(0,0,0, 0.8); #}
+    {# unfortunately, this will eat the inside of the characters #}
     {# -webkit-text-stroke: 0.3pt black; #}
     {# 16mm if pagenumber is displayed #}
     bottom: calc(10mm + {{ item[2] }});
 }
 
+{# this is a text duplicate lying below the original. #}
 figure#article{{ item[0] }} figcaption:after {
     content: attr(text-for-outline);
     position: absolute;
-    -webkit-text-stroke: 0.1em black;
+    -webkit-text-stroke: 0.08em rgba(0,0,0,0.8);
     right: 0;
+    {# top needs to be set for multi-line captions. it has been found empirically. #}
     top: 1.333px;
     z-index: -1;
 }
