@@ -5,11 +5,11 @@ author: Sister Chân Đoan Nghiêm
 
 {% image "article/sr-doan-nghiem/Sr-doan-nghiem-edited.jpg", "", "from left: Sr. Giải Nghiêm, Sr. Đoan N., Sr. Tuệ N., Sr. Viên Quang, and Sr. Thuần N." %}
 
-**Dear sister, when you first came to Plum Village, what left the strongest impression on you?** 
+## Dear sister, when you first came to Plum Village, what left the strongest impression on you?
 
 Poor and desolate! My family had known about Plum Village for a long time and often described it to me, so I already had some ideas about it. When I first came to Plum Village in the winter of 1989, all I saw were simple stone and brick houses and some unfinished buildings. Looking around, everything was so plain, not at all what I had expected. I was a little surprised to see how poor Plum Village was. The Dharma Nectar Hall (of Lower Hamlet) only had a roof and steel frames, without walls. A building with bare stone walls served as the dining room. This was also the room where Thay gave his Dharma talks and a storage for firewood. When it rained, we had to use pots and basins to catch the water from the leaks.
 
-**So what has made you stay till now?**
+## So what has made you stay till now?
 
 It is because I truly want to walk this path. In the beginning, I came to Plum Village out of curiosity. My sisters and nieces talked a lot about Plum Village, so I wanted to find out for myself. When I saw people attending the schedule, I just followed them. I didn’t really want to learn anything yet. Fortunately that year, Thay was writing *Old Path, White Clouds* and teaching on it in the Winter Retreat. I felt like Thay was recounting stories about the Buddha and his disciples as well as their way of life. I really liked it. The stories showed me that there was a way of life different from the conventional one that I knew. In fact, I did not know what I wanted then. There was nothing in society that touched me or appealed to me. I was always brooding and did not see a way out.
 
@@ -17,7 +17,7 @@ Then I heard the teaching on the blind turtle. This was the essential key for my
 
 While listening, I ticked off the difficult parts that I had already gone through and I saw that I had not yet done the part about becoming a monastic. So I decided to ordain, because I didn’t want to be a blind turtle taking hundreds of years to be lucky enough to poke its head through a hole in a piece of wood floating on the ocean surface. I wanted to give monastic life a try. Since I did not know anything about spiritual life and really wanted to explore it, whatever Thay taught, I followed to the letter. For example, I learned the gatha about sweeping the floor by heart and recited it out loud when I swept the floor. For each line, I made one sweep–totally concentrated! I took Thay’s words to heart because I felt I was a “newbie” in this way of life.
 
-**When you were Thay’s attendant, did you have fun? Did Thay teach you how to be an attendant?**
+## When you were Thay’s attendant, did you have fun? Did Thay teach you how to be an attendant?
 
 Thay didn’t teach me how to be an attendant. In 1990, right after my ordination, Thay went on a U.S. teaching tour. Before leaving, Thay gave me a copy of the *Commentary on Trainings for Novices* by Venerable Thich Hanh Tru. Thay really treasured this old, yellowing book. He said that he himself used this very book to practise as a new novice. Hearing that, I also treasured the book. I bought some transparent sticky plastic to cover the already frayed and torn book. However, though I read the commentary, I didn’t pay much attention to its teachings. It wasn’t until the end of 1992 that I had a chance to attend Thay for the first time.
 
@@ -49,7 +49,7 @@ The commentary says that while walking with our teacher, we should not step on t
 
 Looking back at my memories of those early days, when I first ordained, and of being an attendant, I feel very happy to see how simple my mind was. I completely let go of conventional ways of thinking. Whatever I was taught, I applied it. I never questioned Thay. 
 
-**We have heard that in the early days, you had to do everything from chopping wood, driving a plough tractor, to fixing electrical problems because there were so few people. What was it like?** 
+## We have heard that in the early days, you had to do everything from chopping wood, driving a plough tractor, to fixing electrical problems because there were so few people. What was it like?
 
 During my time the rotation team system was already in place, but there was only one person per team. It was really fun! In my first year as a novice, cooking in the Summer Retreat was my challenge. The sangha only had two or three sisters at the time and each had their own responsibilities. In the summer of 1990, we invited Aunty Tam (Sister Chan Khong’s elder blood sister) to come and cook and I was her “gofer.” There were only two of us cooking for the whole 30 days of the retreat. My job was cleaning and washing the pots in the kitchen, and chopping vegetables for Aunty Tam. I also covered the job of washing pots after the retreatants had finished serving their food. Back then, the only thing I knew how to cook was rice. There were only Vietnamese people in Lower Hamlet so there was rice for all three meals. It’s thanks to that Summer that I learned how to cook. When the retreat was over, we returned to our rotation. One person cooked per day. Everyday was a festival! In those days, Plum Village didn’t have many retreats like we do now. There was only the Summer Retreat and the Winter Retreat, organized when Thay was at home (and not while away on teaching tours).
 
@@ -66,7 +66,7 @@ In order to save expenses, Thay told me to give a hand to the masons to help rep
 The wood chips burned very fast and strong, but left no charcoal so at midnight our rooms were freezing and our blankets also went cold. It felt like we were warming up the blankets. I couldn’t bear getting out of bed in the morning. That was one of the reasons for my laziness going to sitting meditation. I don’t know who it was that reported it to Thay. When Thay came to Lower Hamlet, he told me quietly, “My dear, you can take your sleeping bag to sitting meditation and you can sleep in the meditation hall if you need to.” Back then, *nobody* took a sleeping bag to sitting meditation, but Thay allowed me to do it.
 
 
-**Can you please share with us about the teacher-student relationship between you and Thay and how Thay took care of you and taught you?**
+## Can you please share with us about the teacher-student relationship between you and Thay and how Thay took care of you and taught you?
 
 Thay took very good care of his monastic children. Thay really cared that I had ordained young and by myself and he was afraid that my mind would not be solid enough. Sr. Chan Tu, a sister who had ordained before me, had left just a few months after her ordination, so Thay was worried that I might leave as well. When Thay was not on teaching tours, he often came to Lower Hamlet to spend time and have a meal with us. We were only five sisters then: Sr. Chan Khong, Sr. Chan Duc, Sr. Chan Vi, Sr. Thanh Luong (who came from another temple) and myself. It was very nice that Thay sat with us to eat. Sometimes Thay taught us songs.
 

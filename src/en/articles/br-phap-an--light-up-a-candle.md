@@ -5,7 +5,7 @@ author: Brother Chân Pháp Ấn
 
 ## Arriving at Plum Village
 
-***Dear Brother, could you please share with us your early experiences in Plum Village?***
+<p class="noIndent"><b><i>Dear Brother, could you please share with us your early experiences in Plum Village?</i></b></p>
 
 In July 1991, I wrote a letter to Thay asking to become a monk. At the time, I was working at the research institute of a petroleum company called ACCO. Only after I finished writing the letter did I then inform my group of close friends. One after another, they took turns to call me, trying to persuade me not to ordain. They told me that it would be such a waste if I became a monk. My more than 28 years of study would be of no use if I did not serve society, contributing the knowledge I had gained. If my current work environment was not so nourishing for me, I could always go back to teaching at universities. I am someone who usually listens to advice from friends. After reflecting on it some more, I decided not to send the letter to Thay.
 
@@ -21,7 +21,7 @@ Despite the difficult living environment, I always kept my aspiration. I made th
 
 ## The predestined relationship between teacher and disciple
 
-***Why did you choose Thay as your teacher?***
+<p class="noIndent"><b><i>Why did you choose Thay as your teacher?</i></b></p>
 
 I had heard of Thay since I was young. On my older sister’s birthday in 1967 or ‘68, my father gave her the book *A Rose For Your Pocket* as a gift. But at that time I was too young, maybe only six or seven years old. I read the book but I did not understand it at all. Later, in the first few years after moving to the U.S., I read it. Then in 1983, when my father came to the U.S., one of his friends sent him the book *The Miracle of Mindfulness*. I read it and began to practice. I remember practicing walking meditation from one building to another on my university campus, counting the steps, just as Thay taught in the book. I tried to follow exactly the guidelines given in the book, but I forced my breathing so much that I was exhausted and almost could not breathe. 
 
@@ -37,7 +37,7 @@ I remember during my first days at Plum Village, I asked many questions. At firs
 
 ## The work of sangha building
 
-***You were present during the very early years of Plum Village, witnessing the changes and growth of the sangha. Was the journey of sangha building tough? Have you ever felt exhausted? What helped you to continue preserving and growing the sangha?***
+<p class="noIndent"><b><i>You were present during the very early years of Plum Village, witnessing the changes and growth of the sangha. Was the journey of sangha building tough? Have you ever felt exhausted? What helped you to continue preserving and growing the sangha?</i></b></p>
 
 I recall in Thay’s Dharma talk before the ordination of the “Fish” family in 1993, he said true practitioners are like mango flowers and fish eggs. A mango tree can give many flowers but only a few can ripen into fruits. The same is true for fish eggs. It takes hundreds or thousands of fish eggs for  a few fish to make  it. It is a truth, a pointer, reminding me that the life of practice is not an easy one. When our brothers and sisters traverse their obstacles and challenges, we should simply love them and never judge or criticize. Whether they are still in the monastci sangha or have already left, we must love them. 
 
@@ -58,7 +58,7 @@ When we look at life this way, we open our hearts to accept it. Whatever we do, 
 
 ## Serving and practicing are one
 
-***Dear brother, please share with us your insights on the relationship between practicing and serving.***
+<p class="noIndent"><b><i>Dear brother, please share with us your insights on the relationship between practicing and serving.</i></b></p>
 
 To practice is to open our hearts to give rise to selflessness, loving kindness, and a deeper awareness of life. Those are the elements of spirituality for a practitioner. That is why it is very difficult to practice! So much more difficult than writing a doctoral thesis. To change a course of action, a habit, requires a great deal of determination. Changing ourselves is no easy feat. 
 

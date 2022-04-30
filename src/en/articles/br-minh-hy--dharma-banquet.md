@@ -3,8 +3,6 @@ title: Dharma Banquet
 author: Brother Chân Minh Hy
 ---
 
-*This article was translated from Vietnamese.*
-
 ## Where is the Dharma? 
 
 There is an anecdote about an occasion at the Tu Dam Temple in Vietnam, when the monks were about to put their sanghati robe on for the precepts recitation ceremony, and Venerable Thien Sieu asked, “Do you know why we say, ‘The Dharma is deep and wonderful’?” Pausing for a few moments, he continued, “Because it is here, right in front of you.”
@@ -44,3 +42,5 @@ One time, Thay’s attendants noticed that Thay was a little different. After gi
 A beautiful moment can help the happiness in people’s hearts grow bigger. Such a moment is a banquet that we can offer our beloved ones many times a day. But first of all, we need to have the ability to perceive, to feel, and to offer ourselves such banquets. If we do not know how to drink tea, how can we offer our friends a good cup of tea? It is very difficult for a busy person to treat others to a relaxing and free moment.
 
 <p class="noIndent">Have you treated yourself today with any happy moments?</p>
+
+

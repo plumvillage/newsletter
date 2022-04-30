@@ -79,6 +79,6 @@ I want to transmit my happiness and experience to you, my students. If you want 
 
 <div class="article-end"></div>
 
-<p class="translation-note">This article was translated from Vietnamese.</p>
+<p class="translation-note">This talk was translated from Vietnamese.</p>
 
 {% image "article/su-ong/DSC08780.jpg" %}
