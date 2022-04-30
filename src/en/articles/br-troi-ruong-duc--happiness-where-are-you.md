@@ -4,7 +4,7 @@ author: Brother Chân Trời Ruộng Đức
 ---
 ## Why I am here
 
-Time passes by so quickly. Entering the third year of life as a novice, looking again at my bodhichitta, I ask myself, why am I here? Am I waking up a little more everyday? In the past I gave food, medicine, clothes, and provided accommodation to people who were in need. I thought they would feel happy and satisfied once they had received help, but the reality was not like that–what I offered only helped them in part. After they had received material support, they were still not happy and continued to wait for assistance, so we had to continue to look for ways to help them. At that time I didn't know how to practice and so I created a burden for myself. When l saw that they were unhappy, I also became unhappy. I started to ask myself–why is it like this?
+Time passes by so quickly. Entering the third year of life as a novice, looking again at my bodhicitta, I ask myself, why am I here? Am I waking up a little more everyday? In the past I gave food, medicine, clothes, and provided accommodation to people who were in need. I thought they would feel happy and satisfied once they had received help, but the reality was not like that–what I offered only helped them in part. After they had received material support, they were still not happy and continued to wait for assistance, so we had to continue to look for ways to help them. At that time I didn't know how to practice and so I created a burden for myself. When l saw that they were unhappy, I also became unhappy. I started to ask myself–why is it like this?
 
 After practicing in Plum Village, I noticed that my joy and happiness are increasing a little more each day. I am learning to listen more to the voice in myself and learning to understand myself. I aspire to take care of my inner garden and discover more about my life.
 
@@ -16,15 +16,15 @@ A few months ago, l moved to Son Ha Temple ("Foot of the Mountain Temple" near t
 
 {% image "article/br-troi-ruong-duc/DSC_8994.jpg", "", "from left: Brs. Duc Tru, Ruong Duc, Dong Tri,<br/>Aggapanno, Phap Khoi" %}
 
-Son Ha is quite humid and cold compared to the Upper Hamlet. When winter came, my room became very cold. My mentor never uses the heater and l wished to learn his way of living. Thanks to his example and way of training, my body slowly began to accept the environment. My mentor knows that l am afraid of the cold. He kindly suggested that I change to a thicker quilt and the problem of keeping warm when sleeping was solved. I can now sleep peacefully at night. Sometimes I would think to myself: *Right this moment, there are many people, especially children, who are living in abject poverty, who do not have enough clothes for the winter. I am very lucky to have enough clothes to wear and to continue to practice.*
+Son Ha is quite damp and cold compared to the Upper Hamlet. When winter came, my room became very cold. My mentor never uses the heater and l wished to learn his way of living. Thanks to his example and way of training, my body slowly began to accept the environment. My mentor knows that l am afraid of the cold. He kindly suggested that I change to a thicker quilt and the problem of keeping warm when sleeping was solved. I can now sleep peacefully at night. Sometimes I would think to myself: *Right this moment, there are many people, especially children, who are living in abject poverty, who do not have enough clothes for the winter. I am very lucky to have enough clothes to wear and to continue to practice.*
 
-Living in the sangha, I have many chances to practice–like inviting the Great Temple Bell, chanting the morning chant, leading walking meditation, and offering guided sitting meditation. I am a shy person. But thanks to these opportunities, I am slowly overcoming my shyness. This brings me a lot of courage in the practice.
+Living in the sangha, I have many chances to practice–like inviting the great temple bell, chanting the morning chant, leading walking meditation, and offering guided sitting meditation. I am a shy person. But thanks to these opportunities, I am slowly overcoming my shyness. This brings me a lot of courage in the practice.
 
 ## The Dharma garden
 
 Working in the greenhouse has been a most wonderful gift for me during the last Rains' Retreat. At first I thought working in the greenhouse is to offer vegetables to the sangha, but actually this is not the main purpose.
 
-When we started working, my mentor Br. Phap Ao first cut the grass with a strimmer, and Br. Nguyen Tinh and I used tools to remove the weeds. We began to loosen the soil and create rectangular beds. We watered the soil and left it to be nourished by the water. Dry soil cannot absorb water easily, so it took a long time for the water to soak in. Br. Phap Ao just smiled and said to me, “Just keep watering it everyday.” Oh… It sounded like he wanted to tell me something, but what?
+When we started working, my mentor Br. Phap Ao first cut the grass with a strimmer, and Br. Nguyen Tinh and I used tools to remove the weeds. We began to loosen the soil and create rectangular beds. We watered the soil and left it to be nourished by the water. Dry soil cannot absorb water easily, so it took a long time for the water to soak in. Br. Phap Ao just smiled and said to me, “Just keep watering it every day.” Oh.… It sounded like he wanted to tell me something, but what?
 
 
 After working in the greenhouse for just two days, I had already let go of much stress and tension in my body and mind. After a few days of watering, we used chicken manure to fertilize the soil and by now, the soil could absorb the water easily. 
@@ -41,13 +41,13 @@ When the seedlings began to grow into vegetables, the weeds also gradually grew 
 
 One afternoon while weeding with Br. Nguyen Tinh, I found that I could not uproot all of the weeds because their roots were entangled with the roots of the vegetables, which were not yet strong. I could only trim the weeds above ground. Br. Nguyen Tinh looked at me, smiled, and said that maybe you need to wait for the vegetables to be strong enough before you can uproot the weeds. I listened and waited patiently for the vegetables to grow stronger. 
 
-Autumn was coming to an end. The arugula were about to die, so I uprooted them together with the weeds. I noticed that the stems of the vegetables and the roots of the weeds mingled in many places. I separated them all and replanted the arugula. After a few days, new leaves started to sprout. I was so happy! I asked myself, can I do the same thing with my suffering?
+Autumn was coming to an end. The arugula plants were about to die, so I uprooted them together with the weeds. I noticed that the stems of the vegetables and the roots of the weeds mingled in many places. I separated them all and replanted the arugula. After a few days, new leaves started to sprout. I was so happy! I asked myself, *can I do the same thing with my suffering?*
 
 ## Mindfulness of slugs
 
 One afternoon while harvesting vegetables, Br. Phap Ao told me that starting from that day, I would have to come here to catch slugs early every morning and evening. The holes in the vegetables were the traces left by slugs after they enjoyed the leaves. After hearing this, I felt very curious–*is there any relationship between the slugs and my life?* Starting from that day, almost every morning and evening, I stepped into the greenhouse to find the answer. After I caught more than one thousand slugs, I still did not have the answer. 
 
-During sitting meditation one night, while following my breathing, an image of the slugs appeared in front of me. I thought it may be the message my mentor wanted to convey to me, but I wanted to confirm whether it was true. That night I stayed in the greenhouse for two and a half hours to catch the slugs. Not long after, I saw something I had not seen before. I felt great joy. Yes, this is it! 
+During sitting meditation one night, while following my breathing, an image of the slugs appeared in front of me. I thought it may be the message my mentor wanted to convey to me, but I wanted to confirm whether it was true. That night I stayed in the greenhouse for two-and-a-half hours to catch the slugs. Not long after, I saw something I had not seen before. I felt great joy. Yes, this is it! 
 
 ## Work and practice are not two
 
