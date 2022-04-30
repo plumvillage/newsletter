@@ -34,7 +34,7 @@ Suddenly I was faced with the prospect of going to COP26, and to be honest it wa
 
 ## My grandfather's lawn
 
-Another memory.… Every summer when I went to visit my grandparents in France, one of my favourite things to do was to lie down in the long grass, completely motionless, and just look. I would disappear into the weird and wonderful world of the colourful, shiny, metallic bugs, and big scary spiders with their bright yellow stripes; the drab grey grasshoppers, whose iridescent blue and red wings would only become visible when they were startled into jumping and fluttering to a new perch. But every time my grandfather mowed the grass, this rich and diverse world was destroyed. I never stopped trying to persuade him to let nature take its course and allow the field to grow and grow, undisturbed—to become a wild place again, full of life and wonder.
+Another memory—every summer when I went to visit my grandparents in France, one of my favourite things to do was to lie down in the long grass, completely motionless, and just look. I would disappear into the weird and wonderful world of the colourful, shiny, metallic bugs, and big scary spiders with their bright yellow stripes; the drab grey grasshoppers, whose iridescent blue and red wings would only become visible when they were startled into jumping and fluttering to a new perch. But every time my grandfather mowed the grass, this rich and diverse world was destroyed. I never stopped trying to persuade him to let nature take its course and allow the field to grow and grow, undisturbed—to become a wild place again, full of life and wonder.
 
 ## COP26–Invoking the sangha 
 

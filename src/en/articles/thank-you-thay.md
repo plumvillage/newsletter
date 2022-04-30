@@ -13,23 +13,23 @@ title: Thank You, Thay
 
 {% image "article/thank-you-thay/21 day retreat 2014 - Thay-e.jpg" %}
 
-> “At 00:00 hours, January 22, 2022, Thay moved outside of time.… Has he passed? Is he dead? What do we see when we study the corpse? What is it that we mourn?
+> “At 00:00 hours, January 22, 2022, Thay moved outside of time. Has he passed? Is he dead? What do we see when we study the corpse? What is it that we mourn?
 > 
 > “Thay was like a sun-drenched boat that kept me warm and safe on the way to the shore. He taught me how to touch the water and the earth as a means of feeling my own fundamental goodness and wisdom. He taught me how to discern the moon from the pointing finger, the name from the flower, the righteous anger from the fear, the crying infant from the tender parent. He showed me the joys and peace of uni-tasking and taking a single step. He taught me that every mindful breath is our shared humanity. He reminded me of the value of all relationships.
 > 
-> “Most importantly, whatever the song, dance, or form of my practice- that just to practice- is enough. I miss him. And he continues.…”<cite>James Vining</cite>
+> “Most importantly, whatever the song, dance, or form of my practice- that just to practice- is enough. I miss him. And he continues…”<cite>James Vining</cite>
 
 
 > “Dear Thay, how does one say thank you for helping me to come home to myself? I bow in immense gratitude for your love, wisdom, teachings, the sangha and showing us the path. You are a true gift to humanity. I feel your whispers of wisdom in my heart and in every step. May I be your worthy continuation dear Thay and spread the message of love and compassion through my work, presence and being.”<cite>Rani</cite>
 
 ## Meeting Thay on retreat
 
-> “Thay has been such a grounding and inspiring human in my life. Two of my favorite things he has said.… ‘You never appreciate the absence of a toothache,’ and, ‘In this world we have honey and so we also have bees.'
+> “Thay has been such a grounding and inspiring human in my life. Two of my favorite things he has said: ‘You never appreciate the absence of a toothache,’ and, ‘In this world we have honey and so we also have bees.'
 > 
 > “This second quote is from a time I went to Deer Park Monastery to hear him speak. While on walking meditation, a woman stepped on a hive of bees and the angry bees stung the entire group. People were shrieking. Thay stayed calm as leaders at the monastery helped those who were stung. He then walked with some of the group back up to where he was giving his talk. Amidst the drama of the moment, people eventually made their way back to the building to sit down for the talk but there was a lot of anxiety and confusion in the air. After some time passed, Thay came and sat down at the front of the room, rang the bell to begin his talk, and all he said to address what had happened was – “in this world we have honey and so we also have bees.’ It’s a moment I will never forget.”<cite>Alisa</cite>
 
 
-> “While volunteering in Plum Village, I was asked to clear the leaves as Thay was unexpectedly coming this way. I started sweeping as fast as I could. A sister gently walked towards me saying, ‘Perhaps if you do the same thing with mindfulness.…’ My ego silently responded, ‘But it won’t be clean before he arrives.’ Yet knowing the right path, I slowed down and diligently practiced mindfulness, matching my breathing to my raking. A few moments later, I felt an energy behind me. I turned and there was Thay smiling at me, leaves or no leaves. I have stayed on this path to this day, to this moment.”<cite>Earleen</cite>
+> “While volunteering in Plum Village, I was asked to clear the leaves as Thay was unexpectedly coming this way. I started sweeping as fast as I could. A sister gently walked towards me saying, ‘Perhaps if you do the same thing with mindfulness…’ My ego silently responded, ‘But it won’t be clean before he arrives.’ Yet knowing the right path, I slowed down and diligently practiced mindfulness, matching my breathing to my raking. A few moments later, I felt an energy behind me. I turned and there was Thay smiling at me, leaves or no leaves. I have stayed on this path to this day, to this moment.”<cite>Earleen</cite>
 
 > “On a retreat at Plum Village in 2010, Thay led nearly 1,000 of us on walking meditation. Thay had children with him at the front – my son was one of them. Thay gazed at him and put his hand on my son’s head. My son was very moved. I was behind in the silent, slow moving line. We were breathing and mentally chanting ‘I have arrived, I am home’ with each ball to toe mindful step. Our walk was so quiet, peaceful, and slow. I saw a small rabbit by the path totally unthreatened and it made me see the power of peace to allay fear and foster harmony. A beautiful lesson – one of many – from Thay.”<cite>Tilda</cite>
 

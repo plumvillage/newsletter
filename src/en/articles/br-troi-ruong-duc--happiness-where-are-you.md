@@ -24,8 +24,7 @@ Living in the sangha, I have many chances to practice–like inviting the great 
 
 Working in the greenhouse has been a most wonderful gift for me during the last Rains' Retreat. At first I thought working in the greenhouse is to offer vegetables to the sangha, but actually this is not the main purpose.
 
-When we started working, my mentor Br. Phap Ao first cut the grass with a strimmer, and Br. Nguyen Tinh and I used tools to remove the weeds. We began to loosen the soil and create rectangular beds. We watered the soil and left it to be nourished by the water. Dry soil cannot absorb water easily, so it took a long time for the water to soak in. Br. Phap Ao just smiled and said to me, “Just keep watering it every day.” Oh.… It sounded like he wanted to tell me something, but what?
-
+When we started working, my mentor Br. Phap Ao first cut the grass with a strimmer, and Br. Nguyen Tinh and I used tools to remove the weeds. We began to loosen the soil and create rectangular beds. We watered the soil and left it to be nourished by the water. Dry soil cannot absorb water easily, so it took a long time for the water to soak in. Br. Phap Ao just smiled and said to me, “Just keep watering it every day.” Oh! It sounded like he wanted to tell me something, but what?
 
 After working in the greenhouse for just two days, I had already let go of much stress and tension in my body and mind. After a few days of watering, we used chicken manure to fertilize the soil and by now, the soil could absorb the water easily. 
 

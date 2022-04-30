@@ -25,7 +25,7 @@ On arrival, I met Thay and Sister Cao Fleurette in the garden. This was in 1985.
 
 It was a reunion. I had had the joy of meeting them a few months earlier in Lyon, at the home of Dr. Do Trong Le, an acupuncturist friend who invited me to come to his house to listen to the first teaching that our teacher was giving in French. At that time I was desperately looking for a teacher to help me on my spiritual path. A profound encounter took place during the teaching when Thay held a sheet of white paper in front of him and said, “In this sheet of paper lies the whole universe.” I was filled with joy, I had found the teacher I was looking for, the one who could understand me. The Dharma door was wide open.
 
-When I reread *Old Path White Clouds*, I always feel great emotion when Thay writes about Sujata searching for the Buddha in the early morning, and the moment they meet each other.… My spiritual life resumed its course in peace.
+When I reread *Old Path White Clouds*, I always feel great emotion when Thay writes about Sujata searching for the Buddha in the early morning, and the moment they meet each other. My spiritual life resumed its course in peace.
 
 One day during this first retreat, I did not participate in the walking meditation around Upper Hamlet. Instead, I sat under the linden tree to write. At the end of the walking meditation, Thay approached me gently and asked me in a friendly manner:
 
@@ -46,9 +46,9 @@ With one step I breathe out, I smile.<br/>
 With one step I breathe in, a book will be born,<br/>
 With one step I breathe out, I smile.</p></div>
 
-This is an amazing experience from my early practice. I really enjoyed working meditation with the community. Everyone participated, including Thay. One morning a young woman came up to me and asked me to cut some bread, “in mindfulness”, she added seriously. *I breathe in, here’s the bread, I breathe out (Heavens, how do you cut bread in mindfulness?), no breathe out.…*
+This is an amazing experience from my early practice. I really enjoyed working meditation with the community. Everyone participated, including Thay. One morning a young woman came up to me and asked me to cut some bread, “in mindfulness”, she added seriously. *I breathe in, here’s the bread, I breathe out (Heavens, how do you cut bread in mindfulness?), no breathe out.*
 
-Huge doubt arose in me… With this on-going question: *What does it mean to cut bread in mindfulness?* The lady came back a while later, nothing had happened… She kindly liberated me from my frozen state of mind. When the intellect dominates, doubt appears.…
+Huge doubt arose in me… With this on-going question: *What does it mean to cut bread in mindfulness?* The lady came back a while later, nothing had happened… She kindly liberated me from my frozen state of mind. When the intellect dominates, doubt appears.
 
 <div class="verse"><p><b>Plum Village is full of fond memories.</b><br/>
 Teaching,<br/>

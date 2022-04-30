@@ -61,6 +61,6 @@ It was a most intimate conversation that developed. Thank you, I said, for carry
 
 It was also to Thay that I owe the way I earn my livelihood. I was then working at the United Nations and decided to take only one dollar a year for my work and needed to find another way of making a livelihood. After my first pilgrimage with Thay, he had suggested that I organise pilgrimages in the Buddha's footsteps every year. I joyfully accepted the challenge and at first was doing it once a year, but eventually this turned into my livelihood, and I have been leading this pilgrimage for more than thirty years now. 
 
-Since my first pilgrimage with Thay, I made it a point to go and stay with Thay for about a month each year, wherever he was; whether in Plum Village or in some other country where he went to teach. There have been many wonderful interactions with Thay the years thereafter, especially during his historic trip to India in 2008.… but that is another story.
+Since my first pilgrimage with Thay, I made it a point to go and stay with Thay for about a month each year, wherever he was; whether in Plum Village or in some other country where he went to teach. There have been many wonderful interactions with Thay the years thereafter, especially during his historic trip to India in 2008, but that is another story.
 
 <p class="noIndent">He has been my guide, teacher, and wise friend.</p>

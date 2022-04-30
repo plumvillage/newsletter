@@ -35,7 +35,7 @@ I was also inspired by the Five Invitations of Frank Ostaseski, founder of the S
 - Welcome everything, push away nothing (this gave me courage)
 - Bring your whole self to the experience (even my vulnerability, especially my vulnerability)
 - Find a place of rest in the middle of things (sitting and breathing with Mum)
-- Cultivate “don’t know mind” (it’s OK to not know how long I’ll be here.…)
+- Cultivate “don’t know mind” (it’s OK to not know how long I’ll be here.)
 
 Even though Mum was frail, tired, bedridden, and very old, sometimes I felt like I was trapped with a dangerous, unpredictable wild animal. I felt like the artist Joseph Beuys who in 1974 as an art “happening” lived in his studio with a wild coyote. I allowed the old fears to gradually come up and saw that they originated from childhood, never knowing how Mum would react, or what mood she might be in when I came home from school. Later we found out that she had periodically suffered from bouts of depression. This, combined with her inability to either recognise or take care of her emotions made an unsafe and threatening emotional environment in which to grow up.
 
