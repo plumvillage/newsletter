@@ -33,7 +33,7 @@ We know that modern agriculture, which feeds the world, unfortunately is an indu
 
 Spiritual cultivation and mindfulness training are essential aspects of the Happy Farm. It is a training ground for applying the principles of mindfulness in a working environment. 
 
-The farmers practice to farm as a family, a spiritual community, taking care of each other’s wellbeing and spiritual growth. We begin each work day with a short sitting meditation, followed by a check-in where each person shares how they are at the moment. We can share our joys and offer support to anyone going through something difficult. We also enjoy working in silence for certain periods, using the breath to anchor ourselves in the present moment, stopping to listen to the bell throughout the day, and having regular team sharings. Sharing responsibilities, we also learn from each other and enjoy many joyful moments. The farmers from the different farms benefit from each other's experience, meet for work exchanges and spend time together. 
+The farmers practice to farm as a family, a spiritual community, taking care of each other’s wellbeing and spiritual growth. We begin each work day with a short sitting meditation, followed by a check-in where each person shares how they are at the moment. We can share our joys and offer support to anyone going through something difficult. We also enjoy working in silence for certain periods, using the breath to anchor ourselves in the present moment, stopping to listen to the bell throughout the day, and having regular team sharings. Sharing responsibilities, we also learn from each other and enjoy many joyful moments. The farmers from the different farms benefit from each other’s experience, meet for work exchanges and spend time together. 
 
 We observe the Five Mindfulness Trainings and the Six Harmonies while striving to find a balance between practicing deeply and getting the work done. 
 
@@ -55,7 +55,7 @@ There is around one acre of land in cultivation comprising more than forty beds,
 
 The farm continues to grow and flourish in beautiful and unexpected ways. Since the farm began, we produce an average of around 8,000 kilograms of organic produce each year, worth approximately €30,000.
 
-Every year the Upper Hamlet farm hosts about 500 children during the Summer Family Retreat. During Plum Village's annual Wake Up Earth Retreat, about 500 young adults get to get their hands mindfully dirty on the farm. We started to offer Happy Farm Experience Weeks in 2018. 
+Every year the Upper Hamlet farm hosts about 500 children during the Summer Family Retreat. During Plum Village’s annual Wake Up Earth Retreat, about 500 young adults get to get their hands mindfully dirty on the farm. We started to offer Happy Farm Experience Weeks in 2018. 
 
 ***Lower Hamlet***
 

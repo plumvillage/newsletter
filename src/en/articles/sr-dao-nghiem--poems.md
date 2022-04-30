@@ -11,7 +11,7 @@ of silence and joy.</p></div>
 This poem was written in November, 2002 when I was living in upstate New York and dreaming about traveling to Plum Village to meet Thay. I had started reading books written by Thay in 2000 and came for my first retreat in Plum Village in February 2002.
 
 <div class="verse"><p>To distant lands I left,<br/>
-walking step by step on life's path.<br/>
+walking step by step on life’s path.<br/>
 With simple words written on white paper<br/>
 you called me at a certain time.<br/>
 I found you in the land of my ancestors<br/>

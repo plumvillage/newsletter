@@ -60,7 +60,7 @@ title: Thank You, Thay
 > “From that moment, Thay became the center of my life, he became a teacher through distance, the right water for the seeds in my consciousness to come alive and let many people around me know about his teachings, compassion, mindfulness, and loving-kindness. Now I have to keep spreading his teachings, because I know I am his continuation and by doing this, I can keep him alive in my heart and on my mind.”<cite>Roberto</cite>
 
 
-> “I don’t have words to describe how Thay's teachings have helped me make peace with myself after a lifetime of suffering from the effects of childhood trauma. I work in a K–12 public school with kids who often experience toxic stress and trauma. Through Thay’s teachings, I have avoided burnout and have been able to continue helping others. Thank you.”<cite>Jennifer</cite>
+> “I don’t have words to describe how Thay’s teachings have helped me make peace with myself after a lifetime of suffering from the effects of childhood trauma. I work in a K–12 public school with kids who often experience toxic stress and trauma. Through Thay’s teachings, I have avoided burnout and have been able to continue helping others. Thank you.”<cite>Jennifer</cite>
 
 > “Thay’s book *Peace is Every Step* saved my life. It was like drinking a cup of cool water after forty days and nights in the desert! The simplicity and utter logic of his message drove straight to my heart. I have given almost thirty copies of that book to friends and colleagues who were suffering. We are all Thay’s continuation. May we all live up to that challenge!”<cite>Cynthia</cite>
 

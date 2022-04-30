@@ -16,7 +16,7 @@ In the days I was drawing this, the violent riot at the United States Capitol oc
 
 I kept this image from my dream and the resounding of the bell in my heart throughout the day, stopping periodically while walking, eating, or sitting to breathe and remember what is most important. I prayed for the people of this land, from the urban coasts to the rugged mountains and across the rural central valleys. I projected the energy of this serene bell to everyone who may have been feeling left out for whatever reason, that their hearts could be calm, their minds find some space, and their spirits feel some relief from all the hate, blame, and wrong perceptions of separation. 
 
-## Thay's dream
+## Thay’s dream
 Many years ago in a Dharma talk, Thay shared about this dream in which he was a student in a prestigious music school. It was time for the finals and everyone had to perform with their instruments in front of an audience. Thay was a little nervous in the dream because he had never learned how to play any musical instruments, so he did not know how he could pass this final test.  
 
 When it was time, Thay stood at the podium with his hands in his pockets. He stared into the audience, calmly following his breathing; suddenly he felt in his pocket the cold metallic surface of the mini bell that he normally brought with him wherever he went. He had been taught to use this bell at the temple and realized in that moment that this bell was also a musical instrument. Thay took out the bell, raised it to the audience and invited a sound as he had done his whole life. The sound of the bell resonating throughout the auditorium brought peace and serenity to everyone who heard it.

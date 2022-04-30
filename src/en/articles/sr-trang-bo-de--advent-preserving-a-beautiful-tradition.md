@@ -22,7 +22,7 @@ Coming back to myself, the sound of chatter around me became pleasant. Sometimes
 
 ## Prayers for the world
 
-The Christmas carols became more solemn in the silence of the night, opening the way for all to return to the deepest beauty of the soul. Closing my eyes, I relaxed to let the refreshing music sink forever into my heart. Amidst that peace, it was as if every unwholesome thought had to dissolve. People's hearts became as clear as the morning dew, as holy as the baby Jesus. The candlelight flickered and danced, carrying afar the prayers of the brothers and sisters.
+The Christmas carols became more solemn in the silence of the night, opening the way for all to return to the deepest beauty of the soul. Closing my eyes, I relaxed to let the refreshing music sink forever into my heart. Amidst that peace, it was as if every unwholesome thought had to dissolve. People’s hearts became as clear as the morning dew, as holy as the baby Jesus. The candlelight flickered and danced, carrying afar the prayers of the brothers and sisters.
 
 > “I pray for peace for all the victims of Covid in Vietnam and around the world.”
 
@@ -30,7 +30,7 @@ The Christmas carols became more solemn in the silence of the night, opening the
 
 Following suit, I joined my palms, introduced my name and spoke out the wish in my heart:
 
-> “I wish for those who are displaced to be able to return home and enjoy moments of happiness just like our's now.”
+> “I wish for those who are displaced to be able to return home and enjoy moments of happiness just like our’s now.”
 
 After some moments of silence, the brothers and sisters began to recount joyful memories of Christmas. Almost everyone had more or less memories related to a character called “Father Christmas.” Listening is a chance for me to see more clearly the face of my siblings and to know a little more about those I rarely speak with. Living in a large sangha, connection is often no more than stopping to join palms in greeting, smile, and then pass by. Most opportunities for communication and interactions are through a bridge called *work*. Even with the elder and younger sisters I am living with, sometimes I am surprised to realize that I have never really looked carefully at them or been truly present for them. I am merely recognizing and distinguishing my sisters by their names.
 
@@ -42,19 +42,19 @@ Br. Minh Hy is very playful. He is always present with an open and friendly hear
 
 My first impression of Advent was so beautiful that when a sister asked me, “How was your first Advent?” without hesitation I replied, “Fun and nourishing!” “Will you go again?” “Yes, for sure,” I nodded firmly.
 
-## Beginner's mind, free mind
+## Beginner’s mind, free mind
 
 This first experience helped me to unravel my preconceptions about the event, and taught me a lesson about being cautious with my perceptions. If I do not know something, I should not rush to judge it, but give myself time to experience it, to discover the reality. An event itself is indeterminate. It is those who attend and organize the event that give it its colours. Advent is beautiful because of its spiritual elements. We brothers and sisters must preserve those elements if we wish to preserve the beauty and soul of Advent in Plum Village. But what are those spiritual elements, and how do we preserve them? 
 
 The cloud in the tea I drank this morning reminds me that the most accurate answer does not come from the intellect, or from the outside; it comes from the heart of everyone. 
 
-While listening quietly to the Bible reading that evening, images of Jesus as a baby or bearing the cross, which I had seen since childhood floated to my mind's surface. Every image was beautiful. The lines on his face were as gentle as the lines sculptors often use to express the Buddha's boundless love. Buddha is beautiful and Jesus is beautiful. You are both udumbara flowers that bloomed in the darkness of humanity. In that moment, I felt I had finally broken free from a narrow cage that has held so many generations captive. I am freeing my grandparents and parents from the idea of being a “Buddhist.” I am stretching my wings to soar higher and farther in the vast sky of the mind.
+While listening quietly to the Bible reading that evening, images of Jesus as a baby or bearing the cross, which I had seen since childhood floated to my mind’s surface. Every image was beautiful. The lines on his face were as gentle as the lines sculptors often use to express the Buddha’s boundless love. Buddha is beautiful and Jesus is beautiful. You are both udumbara flowers that bloomed in the darkness of humanity. In that moment, I felt I had finally broken free from a narrow cage that has held so many generations captive. I am freeing my grandparents and parents from the idea of being a “Buddhist.” I am stretching my wings to soar higher and farther in the vast sky of the mind.
 
 ## A Buddhist Christmas
 
 Thinking of Thay, my heart warms. Thay opened the door for Buddhism’s essence to enter the West and at the same time, allowed Buddhists to discover the beauty of spiritual traditions in the West. Thanks to Thay, our generation is receiving a rich heritage of various spiritual flows–each beautiful, each worthy of respect. 
 
-It was almost nine o'clock. “Dear sister, it's time to go home,” I whispered to my elder sister. “Umm, we will go after this song.” A funny thought popped up in my mind: *Why are we like Cinderellas?* The New Hamlet always leaves a little earlier than the other hamlets because we live a little further. If one sister stands up, all of us gather our things, say goodbye in unison and head out for the van as if it would turn into a pumpkin if we do not return in time. Gradually I have also adapted to this rhythm and am trained in those agile movements. It's quite fun being Cinderella. Knowing that I do not have much time, I cherish every moment and am wholeheartedly present. So when “it's time to go” was said, I stood up and stepped out calmly. For me, what is important is *not how long* we are present, but *how* we are present.
+It was almost nine o'clock. “Dear sister, it’s time to go home,” I whispered to my elder sister. “Umm, we will go after this song.” A funny thought popped up in my mind: *Why are we like Cinderellas?* The New Hamlet always leaves a little earlier than the other hamlets because we live a little further. If one sister stands up, all of us gather our things, say goodbye in unison and head out for the van as if it would turn into a pumpkin if we do not return in time. Gradually I have also adapted to this rhythm and am trained in those agile movements. It’s quite fun being Cinderella. Knowing that I do not have much time, I cherish every moment and am wholeheartedly present. So when “it’s time to go” was said, I stood up and stepped out calmly. For me, what is important is *not how long* we are present, but *how* we are present.
 
 {% image "article/sr-trang-bo-de/IMG_0331.jpg" %}
 

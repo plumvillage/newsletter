@@ -10,7 +10,7 @@ author: Brother Chân Trời Đạo Bi
 
 As a young person, I did not know what I wanted in life. I did not have a path. When I heard that Thay was coming to Indonesia in 2010, I immediately signed up for the retreat. After the retreat, I felt that I saw the path I wanted to embark on–yes, I wanted to become a monk! My parents didn’t support me, but after seeing my transformation, they understood that this path would bring me happiness. They asked me to finish my studies; I also thought it was a good idea. It gave me time to reflect on my aspiration, to see if this path would help me find meaning in my life.
 
-After that 2010 retreat, some young people decided to establish Wake Up Indonesia. Then in 2013, some of us from Wake Up Indonesia went to the Wake Up Retreat led by Thay in Thailand. It was there that I saw Thay's calligraphy that read: *You have seen the path. Do not fear anymore.* I was moved to tears. I recognized the fear that I may not see Thay again. The calligraphy was like encouraging words from Thay, comforting me, letting me know that it is more important to see the path than to see Thay personally. 
+After that 2010 retreat, some young people decided to establish Wake Up Indonesia. Then in 2013, some of us from Wake Up Indonesia went to the Wake Up Retreat led by Thay in Thailand. It was there that I saw Thay’s calligraphy that read: *You have seen the path. Do not fear anymore.* I was moved to tears. I recognized the fear that I may not see Thay again. The calligraphy was like encouraging words from Thay, comforting me, letting me know that it is more important to see the path than to see Thay personally. 
 
 ## The path of compassion
 
@@ -21,7 +21,7 @@ I feel very fortunate that Thay has pointed out the path for me. I have many wou
 {% image "article/br-troi-dao-bi/9193025135868320367651704298813o.jpg", "noFloat", "Wake Up and Family Retreat, Thailand, 2013" %}
 {% image "article/br-troi-dao-bi/Happy-Radish-Family2_edited.jpg", "noFloat", "Online Dharma sharing. Brs. Duc Pho, Dao Bi: top second left" %}
 
-This practice has helped me overcome my regret of not being able to see Thay anymore. I regretted that I did not ordain earlier and have the chance to receive Thay's direct guidance. I came to Plum Village in 2015 when Thay was no longer able to speak. Sometimes I dream of talking with Thay, and it makes me very happy. 
+This practice has helped me overcome my regret of not being able to see Thay anymore. I regretted that I did not ordain earlier and have the chance to receive Thay’s direct guidance. I came to Plum Village in 2015 when Thay was no longer able to speak. Sometimes I dream of talking with Thay, and it makes me very happy. 
 
 I feel grateful to have been born into the spiritual life and to learn so much from Thay. Thay continued teaching in non-verbal ways. When he joined walking meditation in a wheelchair, he would pick up a leaf and with a playful gesture, made everyone laugh. Just by pointing at the sky, trees, flowers, and the wonders of life, Thay helped people touch simple joy. Sometimes when we stopped during walking meditation, Thay would pat or hug his disciples, and I felt as if he was patting and hugging all of us. 
 
@@ -31,7 +31,7 @@ I feel grateful to have been born into the spiritual life and to learn so much f
 
 One time I saw Thay in his wheelchair when we were practicing walking meditation in Lower Hamlet. We were on opposite sides of the lotus pond and a branch blocked my view. I moved left and right, trying to see Thay. I asked myself, *Where is Thay?* Then I realized that I was still caught in Thay’s form, I was not yet able to see Thay with the eyes of signlessness. 
 
-In one of Thay's letters, he said, “Thay and his disciples feel every day that they have the Buddha practicing sitting meditation, eating meditation, and walking meditation with them. For us, Buddha is not a distant image from the past but a living reality, which we can see with the insight of signlessness.” Sometimes I feel that Thay is practicing with us even though he is not physically here. Whenever I come back to my breathing, I feel that Thay and the Buddha are very close to me. If I am not aware of my breathing, they are far away from me.
+In one of Thay’s letters, he said, “Thay and his disciples feel every day that they have the Buddha practicing sitting meditation, eating meditation, and walking meditation with them. For us, Buddha is not a distant image from the past but a living reality, which we can see with the insight of signlessness.” Sometimes I feel that Thay is practicing with us even though he is not physically here. Whenever I come back to my breathing, I feel that Thay and the Buddha are very close to me. If I am not aware of my breathing, they are far away from me.
 
 {% image "article/br-troi-dao-bi/DSC6747-edited.JPG" %}
 
@@ -41,7 +41,7 @@ I often ask myself: *Have I really seen the path?* This question always accompan
 
 Plum Village attracts many young people because Thay and the sangha have been able to renew Buddhism in a way that is relevant to young people. The Wake Up sanghas are Dharma doors for many young people. 
 
-During the Wake Up Ambassadors Retreat in 2018, we established the “European Wake Up CTC.” We called it “OOMPH” because it sounds more fun! We decided it stands for “Organism for Optimizing Many People's Happiness.” It is not an organization, but an organism. When the Wake Up ambassadors have a place of refuge, they are able to optimize their own happiness, then bring that happiness to the people in their sanghas. 
+During the Wake Up Ambassadors Retreat in 2018, we established the “European Wake Up CTC.” We called it “OOMPH” because it sounds more fun! We decided it stands for “Organism for Optimizing Many People’s Happiness.” It is not an organization, but an organism. When the Wake Up ambassadors have a place of refuge, they are able to optimize their own happiness, then bring that happiness to the people in their sanghas. 
 
 Every month, we continue to deepen our connection and friendship. Usually we have online gatherings on Thursday or Sunday evenings, which are lazy evenings in Plum Village after the Days of Mindfulness. Sometimes I feel tired, but when I join the online gatherings, I feel as if I am coming home and spending time with the family in the living room, and asking, “How is everybody doing?” or “How was your day?” The lay members share their difficulties, both personal and in their Wake Up sanghas, and the monastic members also share our difficulties, so we create mutual support and siblinghood. We also have fun together–play online games, sing, and dance!
 
