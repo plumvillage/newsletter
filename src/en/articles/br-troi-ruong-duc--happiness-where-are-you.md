@@ -4,7 +4,7 @@ author: Brother Chân Trời Ruộng Đức
 ---
 ## Why I am here
 
-Time passes by so quickly. Entering the third year of life as a novice, looking again at my bodhicitta, I ask myself, why am I here? Am I waking up a little more everyday? In the past I gave food, medicine, clothes, and provided accommodation to people who were in need. I thought they would feel happy and satisfied once they had received help, but the reality was not like that–what I offered only helped them in part. After they had received material support, they were still not happy and continued to wait for assistance, so we had to continue to look for ways to help them. At that time I didn't know how to practice and so I created a burden for myself. When l saw that they were unhappy, I also became unhappy. I started to ask myself–why is it like this?
+Time passes by so quickly. Entering the third year of life as a novice, looking again at my bodhicitta, I ask myself, why am I here? Am I waking up a little more everyday? In the past I gave food, medicine, clothes, and provided accommodation to people who were in need. I thought they would feel happy and satisfied once they had received help, but the reality was not like that–what I offered only helped them in part. After they had received material support, they were still not happy and continued to wait for assistance, so we had to continue to look for ways to help them. At that time I didn’t know how to practice and so I created a burden for myself. When l saw that they were unhappy, I also became unhappy. I started to ask myself–why is it like this?
 
 After practicing in Plum Village, I noticed that my joy and happiness are increasing a little more each day. I am learning to listen more to the voice in myself and learning to understand myself. I aspire to take care of my inner garden and discover more about my life.
 
@@ -22,7 +22,7 @@ Living in the sangha, I have many chances to practice–like inviting the great 
 
 ## The Dharma garden
 
-Working in the greenhouse has been a most wonderful gift for me during the last Rains' Retreat. At first I thought working in the greenhouse is to offer vegetables to the sangha, but actually this is not the main purpose.
+Working in the greenhouse has been a most wonderful gift for me during the last Rains’ Retreat. At first I thought working in the greenhouse is to offer vegetables to the sangha, but actually this is not the main purpose.
 
 When we started working, my mentor Br. Phap Ao first cut the grass with a strimmer, and Br. Nguyen Tinh and I used tools to remove the weeds. We began to loosen the soil and create rectangular beds. We watered the soil and left it to be nourished by the water. Dry soil cannot absorb water easily, so it took a long time for the water to soak in. Br. Phap Ao just smiled and said to me, “Just keep watering it every day.” Oh! It sounded like he wanted to tell me something, but what?
 

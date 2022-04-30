@@ -27,7 +27,7 @@ I have been able to participate in multiple LGBTQIA+ retreats in Plum Village, i
 
 For me, continuous right diligence is necessary to water the seeds of understanding, compassion, and awareness, so that there is more understanding in our monastic community about LGBTQIA+ concerns. I really hope we shall continue to be a refuge for this family.
 
-During the 2021 Rains' Retreat, I was invited to offer a workshop on “Understanding LGBTQIA+” on a Monastic Day. It was a very joyful moment. More than 60 monastics came with their open hearts, with the aspiration to understand and find ways to support the LGBTQIA+ practitioners. I was touched by the presence and curiosity of my monastic siblings.
+During the 2021 Rains’ Retreat, I was invited to offer a workshop on “Understanding LGBTQIA+” on a Monastic Day. It was a very joyful moment. More than 60 monastics came with their open hearts, with the aspiration to understand and find ways to support the LGBTQIA+ practitioners. I was touched by the presence and curiosity of my monastic siblings.
 
 In the bhikshu community, there have been several sharings on this topic with the same spirit of openness. Upper Hamlet, where I live now, has been very supportive in allowing a Rainbow Dharma sharing once a month. This is with the full support of the Upper Hamlet Dharma Teacher Council, who has witnessed the struggles we sometimes experienced in making such a Dharma sharing possible. 
 

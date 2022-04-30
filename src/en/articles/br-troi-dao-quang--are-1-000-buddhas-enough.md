@@ -15,7 +15,7 @@ I decided to give the Buddhas away as whenever I see one, I calm down and start 
 
 ## Would you like a Buddha statue from Br. Dao Quang?
 
-One day when you come to Plum Village, please look for me. You don't need to give me anything. You can give the Buddha a nice home or give it away as a present to a loved one. They are weather and frost proof. If you don't like the color, you can also paint it.
+One day when you come to Plum Village, please look for me. You don’t need to give me anything. You can give the Buddha a nice home or give it away as a present to a loved one. They are weather and frost proof. If you don’t like the color, you can also paint it.
 
 <div class="article-end"></div>
 

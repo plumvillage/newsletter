@@ -24,7 +24,7 @@ title: Thank You, Thay
 
 ## Meeting Thay on retreat
 
-> “Thay has been such a grounding and inspiring human in my life. Two of my favorite things he has said: ‘You never appreciate the absence of a toothache,’ and, ‘In this world we have honey and so we also have bees.'
+> “Thay has been such a grounding and inspiring human in my life. Two of my favorite things he has said: ‘You never appreciate the absence of a toothache,’ and, ‘In this world we have honey and so we also have bees.’
 > 
 > “This second quote is from a time I went to Deer Park Monastery to hear him speak. While on walking meditation, a woman stepped on a hive of bees and the angry bees stung the entire group. People were shrieking. Thay stayed calm as leaders at the monastery helped those who were stung. He then walked with some of the group back up to where he was giving his talk. Amidst the drama of the moment, people eventually made their way back to the building to sit down for the talk but there was a lot of anxiety and confusion in the air. After some time passed, Thay came and sat down at the front of the room, rang the bell to begin his talk, and all he said to address what had happened was – “in this world we have honey and so we also have bees.’ It’s a moment I will never forget.”<cite>Alisa</cite>
 
