@@ -7,7 +7,7 @@ During the Rains’ Retreat 2021, my brothers would often see me mixing a grayis
 
 ## My mission
 
-I was pouring cement Buddhas everyday during the 90-days Rains’ Retreat. I set out to make 90 Buddhas, one on each day of the retreat and to give them to our lay friends as a gift at the end of it. I decided to do this because I love Buddha statues. I just have fun with the mud and a mold I made to cast the Buddhas. When I take a Buddha statue out of the mold, I have a very happy feeling. It’s a bit like becoming a father. I am very focused on the job and my mind comes to rest. At the end of each day I hold a Buddha statue in my hands and I take it back to the residence feeling very satisfied. I really enjoy it.
+I was pouring cement Buddhas every day during the 90-Day Rains’ Retreat. I set out to make ninety Buddhas, one on each day of the retreat and to give them to our lay friends as a gift at the end of it. I decided to do this because I love Buddha statues. I just have fun with the mud and a mold I made to cast the Buddhas. When I take a Buddha statue out of the mold, I have a very happy feeling. It’s a bit like becoming a father. I am very focused on the job and my mind comes to rest. At the end of each day I hold a Buddha statue in my hands and I take it back to the residence feeling very satisfied. I really enjoy it.
 
 ## Giving away Buddha statues
 
