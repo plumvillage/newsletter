@@ -46,7 +46,7 @@ With one step I breathe out, I smile.<br/>
 With one step I breathe in, a book will be born,<br/>
 With one step I breathe out, I smile.</p></div>
 
-This is an amazing experience from my early practice. I really enjoyed working meditation with the community. Everyone participated, including Thay. One morning a young woman came up to me and asked me to cut some bread, “in mindfulness”, she added seriously. *I breathe in, here’s the bread, I breathe out (Heavens, how do you cut bread in mindfulness?), no breathe out.*
+This is an amazing experience from my early practice. I really enjoyed working meditation with the community. Everyone participated, including Thay. One morning a young woman came up to me and asked me to cut some bread, “in mindfulness,” she added seriously. *I breathe in, here’s the bread, I breathe out (Heavens, how do you cut bread in mindfulness?), no breathe out.*
 
 Huge doubt arose in me… With this on-going question: *What does it mean to cut bread in mindfulness?* The lady came back a while later, nothing had happened… She kindly liberated me from my frozen state of mind. When the intellect dominates, doubt appears.
 

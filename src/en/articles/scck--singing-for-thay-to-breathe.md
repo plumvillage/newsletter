@@ -15,11 +15,11 @@ I am twelve years younger than Thay. I see myself as a tiger cub. My role is to 
 
 One time, a group of French senators invited Thay to give a Dharma talk. I drove Thay there. Of course there were others who went along, but as I am most familiar with what Thay needed, I could be of help in whatever situation. Thay had only just returned from a trip to Switzerland the day before, so he was very tired and could not speak much. 
 
-A quarter of the way through the Dharma talk, Thay suddenly said in French, “Sr. Chan Khong will now come up and sing a song for everyone.” I was so surprised because Thay had hardly shared anything yet. I quickly went up to Thay. He quietly said to me, “My dear, you can sing three, four, or even five songs for me. I am so tired that I find it hard to breathe.” So I sang one song after another, and turned around from time to time to see when I should stop. Thay told me to keep singing. After a while, he smiled and looked better. Thay gave a wonderful talk that day. 
+A quarter of the way through the Dharma talk, Thay suddenly said in French, “Sr. Chan Khong will now come up and sing a song for everyone.” I was so surprised because Thay had hardly shared anything yet. I quickly went up to Thay. He quietly said to me, “My dear, you can sing three, four, or even five songs for me. I am so tired that I find it hard to breathe.” So I sang one song after another, and turned around from time to time to see when I should stop. Thay told me to keep singing. After a while, he smiled and looked better. Thay gave a wonderful talk that day.
 
 {% image "article/sr-chan-khong-letter-to-Thay/Sister-Chan-Khong-singing-I-smile-edited.jpg" %}
 
-At times when Thay was very tired and unable to teach, he would invite me to sing so he had more time to breathe. I see that though I could not do much, it was still quite important to have someone to sing for Thay to breathe. 
+At times when Thay was very tired and unable to teach, he would invite me to sing so he had more time to breathe. I see that though I could not do much, it was still quite important to have someone to sing for Thay to breathe.
 
 ## Thay, please let me become a nun
 

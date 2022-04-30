@@ -43,7 +43,7 @@ I felt so happy right in that moment, as if we just opened a plant nursery!
 
 ## I will lead the retreat, Thay, please come just for fun!
 
-That was in the year 2006. After the Summer Retreat, the sisters of both Lower and New Hamlet organized a trip to the Pyrénées. During the day, we hiked in the mountains and enjoyed being in nature. At night, I pitched a tent with Sr. Anh Nghiem right by a stream that originated from a waterfall. On the day of return, we still hadn’t had our fill of mountains and forests, so we stopped at a small village called “Gavarnie”. We walked towards the mountain for a few kilometers and at first, we only heard the whistling of the wind and the birds singing. But the more we walked, the more clearly we could hear the echo of water from afar.
+That was in the year 2006. After the Summer Retreat, the sisters of both Lower and New Hamlet organized a trip to the Pyrénées. During the day, we hiked in the mountains and enjoyed being in nature. At night, I pitched a tent with Sr. Anh Nghiem right by a stream that originated from a waterfall. On the day of return, we still hadn’t had our fill of mountains and forests, so we stopped at a small village called “Gavarnie.” We walked towards the mountain for a few kilometers and at first, we only heard the whistling of the wind and the birds singing. But the more we walked, the more clearly we could hear the echo of water from afar.
 
 {% image "article/sr-dinh-nghiem/Pyrenees 4-e.JPG" %}
 

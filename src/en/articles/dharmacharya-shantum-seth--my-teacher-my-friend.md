@@ -13,7 +13,7 @@ Our first meeting was at the Ojai Foundation in California. He was to lead a wee
 
 I was helping with recording the event, and as I was setting up the equipment. I looked up and saw a monk in simple brown robes gliding towards the tree, which everyone called the “Teaching Tree.” He walked with gentle deliberation. Involuntarily, we left whatever we were doing and rose from our seats and bowed to him. He had an extraordinary presence. 
 
-Everything he did and said was very simple. He sat still, we listened to a bell, he taught, and then he walked. For years I had been searching for some way to be peaceful, and now I could feel that sense of peace with each step and each breath that we took with him. I did not think he noticed me at all, but when we were seeing him off, he looked directly at me and said as his hands gestured a namaste, “Bring the Buddha Dharma back to India”.
+Everything he did and said was very simple. He sat still, we listened to a bell, he taught, and then he walked. For years I had been searching for some way to be peaceful, and now I could feel that sense of peace with each step and each breath that we took with him. I did not think he noticed me at all, but when we were seeing him off, he looked directly at me and said as his hands gestured a namaste, “Bring the Buddha Dharma back to India.”
 
 ## The first pilgimage to India 
 

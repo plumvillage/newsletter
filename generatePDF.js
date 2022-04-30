@@ -210,7 +210,7 @@ let workInProgress = 0;
 let workQueue = [
     () => generatePDF("http://localhost:8080/en/a4/", `./builds/en-a4`, onFinshed),
     // () => generatePDF("http://localhost:8080/vi/a4/", `./builds/vi-letter`, onFinshed),
-    () => generatePDF("http://localhost:8080/en/a4-bleed/", `./builds/en-a4-bleed`, onFinshed),
+    // () => generatePDF("http://localhost:8080/en/a4-bleed/", `./builds/en-a4-bleed`, onFinshed),
     // () => generatePDF("http://localhost:8080/vi/a4-bleed/", `./builds/vi-letter-bleed`, onFinshed),
     
     // () => onFinshed("./builds/en-a4_2022-03-19_20-28-32.pdf", "./builds/en-a4.pdf"),
@@ -275,8 +275,8 @@ if (generateArticles) {
 }
 
 
-generatePDF("http://fee:8080/en/articles-print-preview/sr-thuan-khanh--at-the-foot-of-the-majestic-mountain/", `./builds/at-the-foot-of-the-majestic-mountain`)
+// generatePDF("http://fee:8080/en/articles-print-preview/sr-thuan-khanh--at-the-foot-of-the-majestic-mountain/", `./builds/at-the-foot-of-the-majestic-mountain`)
 
 // concurrent.
 // for full-size pdf, 2 is very memory intense (16GB recommended)
-// Array(1).fill().forEach(startWork);
+Array(1).fill().forEach(startWork);

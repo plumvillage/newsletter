@@ -8,7 +8,7 @@ We asked our beloved elders to share some of their memories of the early days of
 
 ## Life in community
 
-{% image "article/sr-tu-nghiem-and-sr-dieu-nghiem/Sr-tu-nghiem2-edited.jpg", "", "Inter-faith “nuns retreat”, Lower Hamlet, 1995" %}
+{% image "article/sr-tu-nghiem-and-sr-dieu-nghiem/Sr-tu-nghiem2-edited.jpg", "", "Inter-faith “nuns retreat,” Lower Hamlet, 1995" %}
 
 ***Sr. Tu Nghiem*:** It was such an eye-opening experience for me (to live in a Vietnamese community in rural France), coming from Manhattan–a city with big concrete apartment buildings. It was a totally different experience, and I appreciated so much the way the Vietnamese mothers and fathers, the children, were happy and harmonious together.
 
@@ -27,7 +27,7 @@ One of the things in Plum Village that I really appreciate is that whenever ther
 
 ## The teacher-student relationship
 
-***Sr. Tu Nghiem*:** In the early days we were all beginners in the practice, brand new, one year to two years old. There was no mentoring. Thay had his room in Lower Hamlet and he would call people into his room. His attendant would say, “Thay wants to see you”, and you’d go into his room. So that’s how he would train us.
+***Sr. Tu Nghiem*:** In the early days we were all beginners in the practice, brand new, one year to two years old. There was no mentoring. Thay had his room in Lower Hamlet and he would call people into his room. His attendant would say, “Thay wants to see you,” and you’d go into his room. So that’s how he would train us.
 
 In those days he was training the abbess and abbot. They were called into Thay’s room, and the rest of us were left with freedom. Some were being trained to be his attendant, so they went into his room and learned to prepare tea. I have so much respect for Thay starting a monastic sangha with beginners. We were practically lay people, and Thay was teaching us how to be attendants, how to be abbots and abbesses. When Thay would learn about the difficulties in the sangha, he would give the next Dharma talk based on those difficulties.
 

@@ -82,7 +82,7 @@ The Education award recognizes a community which improves the education sector b
 
 Luis expressed his appreciation for our sangha building: “The ways that you bring all these teachers together, creating a secure base, that is so important for teachers. You are masters.” Earlier that day, the Happy Teachers Sangha had met as part of the World Happiness Week, offering teachers from around the world an opportunity to connect, care for themselves, and experience the practice.
 
-On Tuesday 20 April 2021, Wake Up Schools took part in a Mind & Life Europe (MLE) webcast, part of a series exploring mindfulness in education. The webcast drew together voices from the third MLE webcast series titled “Emerging and Challenging Areas and Next Steps for Contemplative Education”.
+On Tuesday 20 April 2021, Wake Up Schools took part in a Mind & Life Europe (MLE) webcast, part of a series exploring mindfulness in education. The webcast drew together voices from the third MLE webcast series titled “Emerging and Challenging Areas and Next Steps for Contemplative Education.”
 
 In all these events we remind teachers: happiness is possible. We have to say it because many people don't believe it. Happiness is possible. Now.
 

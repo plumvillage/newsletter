@@ -15,7 +15,7 @@ Thus, old and new stand together in harmony, complete each other in beauty and s
 
 ## The signs of attachment
 
-Dear community, as a very young disciple, I want to offer you a gift–the story of my practice with one of the mental formations that I have inherited from a long stream of ancestors, their experiences, and inner formations. The name of this mental formation is attachment, and the name of this ongoing story, sometimes going up and sometimes down, is “Hello attachment, You Are My Friend”. 
+Dear community, as a very young disciple, I want to offer you a gift–the story of my practice with one of the mental formations that I have inherited from a long stream of ancestors, their experiences, and inner formations. The name of this mental formation is attachment, and the name of this ongoing story, sometimes going up and sometimes down, is “Hello attachment, You Are My Friend.” 
 
 {% image "article/sr-trang-hien-nhan/EN/Planting-Tree-In-LH.jpeg", "", "Lower Hamlet tree planting day" %}
 

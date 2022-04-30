@@ -11,7 +11,7 @@ When I joined my palms to greet Thay, he said, “Here is India. India is Here.�
 
 ## First impressions of Upper Hamlet
 
-My first impression was how relaxed Upper Hamlet was. It was two weeks before the annual Summer Opening and preparations were being made in such a joyful and leisurely way. A bed had been prepared for me in a room whose name over the lintel was “Young Moon”. The bed consisted of four bricks, which supported at each corner a plank of plywood, covered by a thin piece of foam. In the following days I helped prepare beds like that for the guests who were to come.
+My first impression was how relaxed Upper Hamlet was. It was two weeks before the annual Summer Opening and preparations were being made in such a joyful and leisurely way. A bed had been prepared for me in a room whose name over the lintel was “Young Moon.” The bed consisted of four bricks, which supported at each corner a plank of plywood, covered by a thin piece of foam. In the following days I helped prepare beds like that for the guests who were to come.
 
 Another impression was: *This is a five-star hotel*, because in the monastery where I had practised in India, we had been so poor. We had no running water, no electricity, and no beds. Here I had the basic amenities as well as a spiritual family to practise with, and a teacher who spoke English and French and could guide me in the practice.
 
@@ -37,7 +37,7 @@ We had a wonderful neighbour who lived in what is now the Cherry House. Monsieur
 
 ## Dharma music 
 
-For Thay, music and poetry were an important part of the practice. We did not have any English practice songs when I first came to Plum Village. Thay encouraged all his students to write Dharma songs. At first we thought we could never write a song but somehow Thay managed to water that seed in us. The first song I wrote was before I ordained as a nun. It came to me as I was washing dishes in the small, low sink that we had in the kitchen of. It was “Breathe and you know that you are alive.” Thay had been teaching the Anapanasatti Sutta. When I look at this song, I see that Thay must have taught this sutta in a very colourful and poetic way and I had already heard about Great Master Bamboo Forest (Truc Lam Dai Si) of the thirteenth century who told his disciples, “Whenever I pick something up, it is always new”, and that’s what gave rise to the last line of the song.
+For Thay, music and poetry were an important part of the practice. We did not have any English practice songs when I first came to Plum Village. Thay encouraged all his students to write Dharma songs. At first we thought we could never write a song but somehow Thay managed to water that seed in us. The first song I wrote was before I ordained as a nun. It came to me as I was washing dishes in the small, low sink that we had in the kitchen of. It was “Breathe and you know that you are alive.” Thay had been teaching the Anapanasatti Sutta. When I look at this song, I see that Thay must have taught this sutta in a very colourful and poetic way and I had already heard about Great Master Bamboo Forest (Truc Lam Dai Si) of the thirteenth century who told his disciples, “Whenever I pick something up, it is always new,” and that’s what gave rise to the last line of the song.
 
 ## Taking care of the brothers 
 
@@ -55,7 +55,7 @@ Sr. Chan Khong, my elder Dharma sister, has been a stable and compassionate guid
 
 Now when Thay is no longer physically there in Plum Village, my trust in the sangha has deepened. Over the years I have seen how compassionate the sangha is. When dealing with a sister who has difficulties, rather than punishing and blaming, the sangha tries to embrace that sister. The sangha's growth in compassion is thanks to the advice and guidance of Thay. Of course there are times when the sangha has to lay down firm guidelines, but that is done out of love. I also see how the sangha has the capacity to listen deeply to each other in a way that thirty years ago would not have been possible.
 
-We certainly have our ups and downs but we can sit together, begin anew, and go ahead while understanding each other more deeply. Very often it has been the difficulties that have emptied me of pride and self-confidence, and filled me with *non-self* confidence. This is how I understand “the kleśa are the bodhi, the afflictions are the awakening”.
+We certainly have our ups and downs but we can sit together, begin anew, and go ahead while understanding each other more deeply. Very often it has been the difficulties that have emptied me of pride and self-confidence, and filled me with *non-self* confidence. This is how I understand “the kleśa are the bodhi, the afflictions are the awakening.”
 
 {% image "article/sr-chan-duc/Sr.ChanDuc.2-edited.jpg", "", "Sr. Chan Duc, Br. Phap An" %}
 

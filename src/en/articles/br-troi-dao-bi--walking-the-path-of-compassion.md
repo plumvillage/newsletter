@@ -35,13 +35,13 @@ In one of Thay's letters, he said, “Thay and his disciples feel every day that
 
 {% image "article/br-troi-dao-bi/DSC6747-edited.JPG" %}
 
-I often ask myself: *Have I really seen the path?* This question always accompanies me. I still have a lot of fear and sorrow, and a part of me feels that it is difficult to really have non-fear. The practice of listening to the bell helps me in these situations. When I recite the gatha, “Listening to the bell, I feel my afflictions begin to dissolve”, I see that day by day, my fear and sorrow slowly dissolve. 
+I often ask myself: *Have I really seen the path?* This question always accompanies me. I still have a lot of fear and sorrow, and a part of me feels that it is difficult to really have non-fear. The practice of listening to the bell helps me in these situations. When I recite the gatha, “Listening to the bell, I feel my afflictions begin to dissolve,” I see that day by day, my fear and sorrow slowly dissolve. 
 
 ## Wake Up is a precious gem of the Plum Village tradition 
 
 Plum Village attracts many young people because Thay and the sangha have been able to renew Buddhism in a way that is relevant to young people. The Wake Up sanghas are Dharma doors for many young people. 
 
-During the Wake Up Ambassadors Retreat in 2018, we established the “European Wake Up CTC”. We called it “OOMPH” because it sounds more fun! We decided it stands for “Organism for Optimizing Many People's Happiness”. It is not an organization, but an organism. When the Wake Up ambassadors have a place of refuge, they are able to optimize their own happiness, then bring that happiness to the people in their sanghas. 
+During the Wake Up Ambassadors Retreat in 2018, we established the “European Wake Up CTC.” We called it “OOMPH” because it sounds more fun! We decided it stands for “Organism for Optimizing Many People's Happiness.” It is not an organization, but an organism. When the Wake Up ambassadors have a place of refuge, they are able to optimize their own happiness, then bring that happiness to the people in their sanghas. 
 
 Every month, we continue to deepen our connection and friendship. Usually we have online gatherings on Thursday or Sunday evenings, which are lazy evenings in Plum Village after the Days of Mindfulness. Sometimes I feel tired, but when I join the online gatherings, I feel as if I am coming home and spending time with the family in the living room, and asking, “How is everybody doing?” or “How was your day?” The lay members share their difficulties, both personal and in their Wake Up sanghas, and the monastic members also share our difficulties, so we create mutual support and siblinghood. We also have fun together–play online games, sing, and dance!
 

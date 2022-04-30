@@ -768,6 +768,11 @@ sup { /* superscript */
     text-indent: -5pt */
 }
 
+.note:after {
+    /* this will prevent the superscript numeral from pushing the line down */
+    line-height: 0;
+}
+
 .note::footnote-call {
     display: inline-block;
     text-indent: 0;
@@ -1822,7 +1827,7 @@ article blockquote span:lang(zh) {
 .article-thank-you-thay blockquote
 {
     margin-top: 4pt;
-    margin-bottom: 11pt;
+    margin-bottom: 13pt;
     font-style: normal;
     text-indent: 0pt;
 }
@@ -2092,4 +2097,9 @@ h1#continuing-the-deep-practice-of-generosity {
 }
 .article-continuing-the-deep-practice-of-generosity p + p {
     /* margin-top: 4pt; */
+}
+
+/* to avoid orphan */
+.article-singing-for-thay-to-breathe .author {
+    margin-bottom: 10mm;
 }

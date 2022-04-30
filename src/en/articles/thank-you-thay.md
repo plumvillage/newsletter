@@ -44,12 +44,11 @@ title: Thank You, Thay
 
 ## Expressing grief
 
-> “I am at once filled with both beauty and sadness, heaviness and lightness. I planned to some day visit Plum Village and practice with the sangha and Thich Nhat Hanh – a teacher I never met but who has somehow touched my life so deeply over the years. I regret that I will never have that chance to sit with him. Thank you so much for the lightness and the heaviness … the beauty and the sadness.”<cite>Derek</cite>
-
-
 > “My name is Kevin and I’m from Canada. I never got to meet Thay, but I still have a relationship with him through his books. Here are a few that deeply impacted me: *Anger*, *Fear*, *Silence*, and *No Mud, No Lotus*. Each book changed the way I view life. I have become a more peaceful being because of him and the Dharma. ‘Clouds never die’ … but my tears don’t care. I wish that I could have met him, just to feel the presence of such a magnificent human being.
 > 
-> “My heart is with you, Plum Village. May your compassion and love for one another carry you through your grief.”<cite>Kevin</cite> 
+> “My heart is with you, Plum Village. May your compassion and love for one another carry you through your grief.”<cite>Kevin</cite>
+
+> “I am at once filled with both beauty and sadness, heaviness and lightness. I planned to some day visit Plum Village and practice with the sangha and Thich Nhat Hanh – a teacher I never met but who has somehow touched my life so deeply over the years. I regret that I will never have that chance to sit with him. Thank you so much for the lightness and the heaviness … the beauty and the sadness.”<cite>Derek</cite>
 
 ## Reading Thay’s books and listening to his teachings
 

@@ -69,7 +69,7 @@ If we want to be a beloved disciple of the Buddha, then we should learn the art 
 
 ## Brotherhood and sisterhood–important food of a practitioner 
 
-When I was a young monk, a newly ordained bhikshu no older than twenty something, my deepest desire was to build a “beloved sangha”. I already used the term “beloved sangha” then — a place in which brothers and sisters live together in brotherhood and sisterhood, loving each other like blood siblings, going together as a river. I never had the idea of being a leader or an abbot. There was nothing attractive about that to me.
+When I was a young monk, a newly ordained bhikshu no older than twenty something, my deepest desire was to build a “beloved sangha.” I already used the term “beloved sangha” then — a place in which brothers and sisters live together in brotherhood and sisterhood, loving each other like blood siblings, going together as a river. I never had the idea of being a leader or an abbot. There was nothing attractive about that to me.
 
 In the years 1954 to 1955, I had the opportunity to realize that dream for the first time. At that time, my country was divided into two. The An Quang Buddhist Institute fell into crisis, the monks were confused and unstable and they did not know what future lay ahead of them. The venerable Dharma teacher committee could not console the monks or reorganize the An Quang Buddhist Institute. I was very close to the young monks and nuns and showed them the way to traverse that difficult moment. The Venerable Thich Tinh Khiet at An Quang Temple supported me with all his love and trust.
 

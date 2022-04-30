@@ -62,7 +62,7 @@ With appropriate attention, the negative energies are taken care of by mindfulne
 
 I am still young in the practice and I treasure the guidance and support of my mentors and the sangha. Every morning I offer happiness to my mentor while we enjoy a cup of tea and listen to the bird songs. This is also an opportunity for me to ask questions about the practice. To me, these are very precious moments in my life. 
 
-I used to think that happiness lies somewhere else and that I needed to pursue it away from home. But when I did that and was still unhappy, I continued to look for another kind of “happiness”. 
+I used to think that happiness lies somewhere else and that I needed to pursue it away from home. But when I did that and was still unhappy, I continued to look for another kind of “happiness.” 
 
 One morning while drinking tea in silence with my mentor, I realized that happiness is in the here and now. Gratitude, joy, and peace are all in this moment. It is already happiness. What else could l wish for? How lucky I am to be a monk and to practice together with the sangha here. Thay and our elder brothers and sisters established Plum Village and went through many challenges. I cherish my life here and the conditions made possible by Thay and the sangha.
 
