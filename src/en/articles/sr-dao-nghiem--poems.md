@@ -63,9 +63,9 @@ for all they have accomplished,<br/>
 allowing me to be what I am today.<br/>
 Gratitude for the beauty of life.</p></div>
 
-Written in 2003. <br/>
+*Written in 2003.*<br/>
 
-    A week before we ordain, we have a ceremony formally requesting to receive the ten novice precepts. During this ceremony we offer a rose to Thay and to our spiritual ancestors. This poem expresses how I felt during that ceremony, my deep aspiration and the love in my being.
+A week before we ordain, we have a ceremony formally requesting to receive the ten novice precepts. During this ceremony we offer a rose to Thay and to our spiritual ancestors. This poem expresses how I felt during that ceremony, my deep aspiration and the love in my being.
 </div>
 
 <article class="article-snow-falling-autumn">
