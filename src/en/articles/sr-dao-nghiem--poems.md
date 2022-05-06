@@ -4,33 +4,8 @@ author: Sister Chân Đào Nghiêm
 ---
 
 <div class="col2">
-<div class="verse"><p>Snow falling, Autumn!<br/>
-Embarking on a journey<br/>
-of silence and joy.</p></div>
 
-This poem was written in November, 2002 when I was living in upstate New York and dreaming about traveling to Plum Village to meet Thay. I had started reading books written by Thay in 2000 and came for my first retreat in Plum Village in February 2002.
-
-<div class="verse"><p>To distant lands I left,<br/>
-walking step by step on life’s path.<br/>
-With simple words written on white paper<br/>
-you called me at a certain time.<br/>
-I found you in the land of my ancestors<br/>
-and the day your gaze penetrated my being,<br/>
-deep in my heart, I recognised you.<br/>
-Since that magical moment,<br/>
-time no longer exists<br/>
-and my life has become millions of lives.<br/>
-All the flowers sway gently and smile at me.<br/>
-Your diamond eyes cut and sever<br/>
-all the ties that keep me tied,<br/>
-one by one with the greatest tenderness<br/>
-helping me to reach the place in my heart<br/>
-that has eternally existed.<br/>
-Thank you my beloved teacher.</p></div>
-
-When I made my decision to ordain in May 2003, I wrote this poem. The first time I saw Thay I knew Thay was the teacher I had been searching for, for all my life. I had left France in 1982 to live in a spiritual community in the USA and Canada. I did not return to live in France until 2003 when I was ordained in the Plum Village tradition.
-
-<div class="verse"><p>A rose in my hand, my heart wide open, I walk.<br/>
+<div class="verse" id="poem-rose-in-my-hand"><p>A rose in my hand, my heart wide open, I walk.<br/>
 Each step is imprinted in the earth,<br/>
 sending messages of peace to the whole universe.<br/>
 Determined, I make the request<br/>
@@ -66,6 +41,27 @@ Gratitude for the beauty of life.</p></div>
 Written in 2003.<br/>
 
 A week before we ordain, we have a ceremony formally requesting to receive the ten novice precepts. During this ceremony we offer a rose to Thay and to our spiritual ancestors. This poem expresses how I felt during that ceremony, my deep aspiration and the love in my being.
+
+<div class="divider"></div>
+
+{% image "article/sr-dao-nghiem/photo7e.jpg" %}
+
+
+<div class="verse"><p>At the death of my ancestors I shed tears of despair<br/>
+With mindfulness they have become a source of happiness<br/>
+where I stop to drink.<br/>
+In the silence I listen to the soft murmur of her melody<br/>
+And in letting go I discover, with joy, Life.<br/>
+In my steps I found my father<br/>
+A river became my mother<br/>
+My sister opened my heart and made my fear disappear<br/>
+My brother welcomed me to his land <br/>
+And shared his hell<br/>
+Near him I understood true humility<br/>
+To touch serenity.</p></div>
+
+This poem was written as an offering to all my ancestors, spiritual and genetic when I received the lamp transmission to become a Dharma teacher in 2011. Thay’s teachings have helped me to heal the suffering that I carried from seeing the suffering and experiencing the loss of many members of my family.
+
 </div>
 
 <article class="article-snow-falling-autumn">
@@ -74,7 +70,7 @@ A week before we ordain, we have a ceremony formally requesting to receive the t
 
 {% image "article/sr-dao-nghiem/2-transparent/sr-dao-nghiem_PoemTea.webp" %}
 
-{% image "article/sr-dao-nghiem/trasuongmunui edit sang hon-e.jpg" %}
+{% image "article/sr-dao-nghiem/trasuongmunui edit sang hon-e.jpg", "", "Handwriting by Sr Dao Nghiem" %}
 
 <!-- <div class="verse"><p>A cup of steaming tea<br/>
 a lighted candle<br/>
@@ -93,21 +89,6 @@ This poem was written for Thay in September 2011 -->
 
 
 <div class="col2">
-
-<div class="verse"><p>At the death of my ancestors I shed tears of despair<br/>
-With mindfulness they have become a source of happiness<br/>
-where I stop to drink.<br/>
-In the silence I listen to the soft murmur of her melody<br/>
-And in letting go I discover, with joy, Life.<br/>
-In my steps I found my father<br/>
-A river became my mother<br/>
-My sister opened my heart and made my fear disappear<br/>
-My brother welcomed me to his land <br/>
-And shared his hell<br/>
-Near him I understood true humility<br/>
-To touch serenity.</p></div>
-
-This poem was written as an offering to all my ancestors, spiritual and genetic when I received the lamp transmission to become a Dharma teacher in 2011. Thay’s teachings have helped me to heal the suffering that I carried from seeing the suffering and experiencing the loss of many members of my family.
 
 <div class="verse" id="poem-a-hand"><p>A hand that protects<br/>
 A hand that caresses<br/>
@@ -142,8 +123,37 @@ This poem was written in December 2016 for Thay.
 
 I was always very moved when I watched Thay’s hands, the way that Thay held his cup of tea, opened a door, placed his hand on our heads and how Thay gave us teachings using the example of his hands.
 
-<div class="article-end"></div>
+<div class="divider"></div>
 
-{% image "article/sr-dao-nghiem/photo7e.jpg" %}
+<div class="verse"><p>Snow falling, Autumn!<br/>
+Embarking on a journey<br/>
+of silence and joy.</p></div>
+
+This poem was written in November, 2002 when I was living in upstate New York and dreaming about traveling to Plum Village to meet Thay. I had started reading books written by Thay in 2000 and came for my first retreat in Plum Village in February 2002.
+
+<div class="divider"></div>
+
+<div class="verse"><p>To distant lands I left,<br/>
+walking step by step on life’s path.<br/>
+With simple words written on white paper<br/>
+you called me at a certain time.<br/>
+I found you in the land of my ancestors<br/>
+and the day your gaze penetrated my being,<br/>
+deep in my heart, I recognised you.<br/>
+Since that magical moment,<br/>
+time no longer exists<br/>
+and my life has become millions of lives.<br/>
+All the flowers sway gently and smile at me.<br/>
+Your diamond eyes cut and sever<br/>
+all the ties that keep me tied,<br/>
+one by one with the greatest tenderness<br/>
+helping me to reach the place in my heart<br/>
+that has eternally existed.<br/>
+Thank you my beloved teacher.</p></div>
+
+When I made my decision to ordain in May 2003, I wrote this poem. The first time I saw Thay I knew Thay was the teacher I had been searching for, for all my life. I had left France in 1982 to live in a spiritual community in the USA and Canada. I did not return to live in France until 2003 when I was ordained in the Plum Village tradition.
+
+
+<div class="article-end"></div>
 </div>
 

@@ -79,9 +79,11 @@ We are so lucky that we can continue Thay’s ways and dreams. Every day I go fo
 
 *I have a dream that one day all children of the world will be able to sit down together at the table of siblinghood in peace and freedom, looking towards a bright future on a beautiful, green, healthy planet.*
 
+{% image "article/mick-mcevoy/Happy-Farm-2.jpg" %}
+
 *I have a dream today–that as a sangha, along with many spiritual, climate activist and other groups, will sit together as one global beloved community on the hill of the 21<sup>st</sup> century and look back on the winding road up the mountain of challenges and say, “It is good, we have managed to climb the mountain together and fight and unite for an inclusive, peaceful, and regenerative 1.5 °C world and we have been able to create it with harmony, love, and siblinghood.”*
 
-This is my hope and prayer:
+<p class="noIndent">This is my hope and prayer:</p>
 
 *Let the bells of freedom, mindfulness, peace, and awakening ring in every being across the universe.*  
 *Let the bells of awakening, strength and wisdom ring in the minds and hearts of the young generations, 
@@ -91,4 +93,3 @@ to stand up for a green, just, and regenerative world.*
 
 <div class="article-end"></div>
 
-{% image "article/mick-mcevoy/Happy-Farm-2.jpg" %}

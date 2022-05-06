@@ -57,7 +57,7 @@ They were touched also by our (relative) non-fear of their suffering. We are all
 Every tiny step of transformation we have made on the path is directly connected with what we can offer to others. Every time we’ve been able to embrace some of our own sadness and confusion, every time we’ve been able to take a breath or two and soften a feeling of pain instead of reacting, every time we’ve been able to breathe through our anxiety or victimhood and liberate ourselves from it, even just a tiny bit–manifests as non-fear and confidence when we are with someone who is suffering. We know that it is possible to transform our own pain, that is why we know that it is also possible for someone else. The other person can feel that, and when they feel that non-fear from us, they already get some relief.
 
 <!-- 21.11.09 Tuesday -->
-{% image "article/br-phap-linh/NYTCH_211109_KA_874.jpg", "", "*The New York Times* Climate Hub: Returning to the Heartwood. Photo ©Craig Gibson. November 9, 2021" %}
+{% image "article/br-phap-linh/NYTCH_211109_KA_874.jpg", "", "<i>The New York Times</i> Climate Hub: Returning to the Heartwood. Photo ©Craig Gibson. November 9, 2021" %}
 <!-- <a href='https://craiggibsonphotographer.shootproof.com/gallery/nytclimatehub/album/11335889'> -->
 
 ## The value of transformation 

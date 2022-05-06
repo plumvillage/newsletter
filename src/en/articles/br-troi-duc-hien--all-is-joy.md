@@ -5,7 +5,7 @@ author: Brother Chân Trời Đức Hiền
 
 Beep, beep, beep, it’s 5:00 am! 
 
-I woke up this morning, cradled by the song of both rain and wind, which have been playing for the last few hours, relieving the trees of their last autumn leaves.
+<p class="noIndent">I woke up this morning, cradled by the song of both rain and wind, which have been playing for the last few hours, relieving the trees of their last autumn leaves.</p>
 
 I love the feeling of being instantly connected to the vitality of the elements as soon as I open my eyes. I smile…
 
@@ -77,6 +77,5 @@ A dance of wavicles (wave-particles), without goal and without form, just an elu
 
 I exit the meditation hall. The horizon quietly dons its morning blue, highlighted with a light orange hue. Despite the rain, the sun is about to pierce the thick layer of clouds. A rainbow, maybe? I smile.
 
-<p class="signoff"><span class="signoff-lvl-1">Brother Kindness (Duc Hien)</span>
-<br/><span class="signoff-lvl-1"><small>December 2021</small></span>
+<p class="signoff"><span class="signoff-lvl-1">Brother Kindness (Duc Hien), December 2021</span>
 </p>

@@ -5,9 +5,9 @@ author: Sister Chân Định Nghiêm
 
 ## Going to watch “Journey to the West”
 
-<p class="noIndent">Dear Thay,</p>
+Dear Thay,
 
-I remember how the teaching tours around China in the years 1995, 1999, 2000, and 2002 brought great happiness to Thay. You had told us that in the past, the spiritual ancestors from China came to Vietnam to share the teachings, and most of the Buddhist scriptures and books in Vietnam were written in classical Chinese. You returned to China to teach so that you could repay the debt of gratitude to the ancestral teachers. Your offerings to the ancestors were many of your books that had been translated into Chinese.
+<p class="noIndent">I remember how the teaching tours around China in the years 1995, 1999, 2000, and 2002 brought great happiness to Thay. You had told us that in the past, the spiritual ancestors from China came to Vietnam to share the teachings, and most of the Buddhist scriptures and books in Vietnam were written in classical Chinese. You returned to China to teach so that you could repay the debt of gratitude to the ancestral teachers. Your offerings to the ancestors were many of your books that had been translated into Chinese.</p>
 
 Every tour had a full program filled with retreats and mindfulness days for monastics and lay people. During the 2002 tour, I remember one day, we were all on the return bus after a day of activities. Br. Phap Niem and I were attendants to Thay, so Br. Phap Niem sat beside Thay and I sat behind. Br. Phap Hai was behind me. He is fluent in Mandarin, so he always had many funny stories to tell the rest of us–stories about the temples and about the world outside. That afternoon, Br. Phap Hai invited us to go and watch the opera *Journey to the West* that was being shown at the Beijing Opera House.
 

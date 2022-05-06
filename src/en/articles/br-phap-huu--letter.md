@@ -5,11 +5,11 @@ author: Brother Chân Pháp Hữu
 
 Dear Beloved Thay,
 
-{% image "article/br-phap-huu/Br-Phap-Huu-e.jpg" %}
-
 <p class="noIndent">Please allow me to open my heart and express my deepest gratitude to you, a teacher, a leader, and a legend.</p>
 
 You have helped us learn how to be human, how to connect, how to love, how to see each other as flowers in one garden of humanity. In the past week, in the spirit of brotherhood and sisterhood we have continued to embrace and support each other; holding space for our tears of both sorrow and joy. While we have cried, we have also touched true happiness as we shared stories together – both in Plum Village and online with so many of our friends from around the world. 
+
+{% image "article/br-phap-huu/Br-Phap-Huu-e.jpg" %}
 
 Dear Thay, through your daily practice, you were able to see your continuation. You taught us that if you saw someone walking with mindfulness and compassion, you knew they were a continuation of Thay and the spiritual ancestors. Dear Thay, do you remember our conversation in Hong Kong? You said you wanted us to continue to renew Buddhism; that you have been able to do 60 percent of the work, but there is still so much more to do. You gently reminded me that it is up to us, your monastic and lay descendants all over the world, to keep the Dharma wheel turning, to translate the practices and teachings into the language of our times, to make them accessible and practical for use in our world today. Dear Thay, thank you for trusting us and taking refuge in us. When we take refuge in each other, we know we are continuing you.
 

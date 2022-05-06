@@ -5,7 +5,7 @@ author: Sister Chân Tuệ Nghiêm
 
 My dear younger siblings, 
 
-The day I came to Plum Village thirty years ago, you had just turned one. You cannot imagine what Plum Village was like, or what I was like as a twenty-two-year-old young woman, can you? You would ask, *Why did you come to Plum Village when there were so few people here and the living conditions so simple? What made you choose Plum Village as a safe harbor in which to live the life of a monastic?* Thirty years is a long time, but it also passes by swiftly.
+<p class="noIndent">The day I came to Plum Village thirty years ago, you had just turned one. You cannot imagine what Plum Village was like, or what I was like as a twenty-two-year-old young woman, can you? You would ask, <i>Why did you come to Plum Village when there were so few people here and the living conditions so simple? What made you choose Plum Village as a safe harbor in which to live the life of a monastic?</i> Thirty years is a long time, but it also passes by swiftly.</p>
 
 I came to Plum Village during the Summer Retreat of 1992. Plum Village was celebrating its tenth anniversary and it still went by the name of “Persimmon Village.” My first impression was–*I had returned to my homeland of Vietnam*. Though I had grown up in the U.S. since I was ten, I felt that I had never truly integrated into the environment and society there. I was not recognized as American because of my black hair and yellow skin.
 

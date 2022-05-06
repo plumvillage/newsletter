@@ -5,7 +5,7 @@ author: Sister Chân Thao Nghiêm
 
 My beloved younger siblings,
 
-It has been two years since I left Plum Village, France for Dieu Tram Nunnery, Vietnam. How time flies! So much has happened in the world and in the sangha, for you and for me. Sometimes in my dreams or when we sit around and share stories, many memories return to me. You know what the sisters are like–we are easily carried away by stories, one after another. They contain anecdotes about Thay, about brotherhood and sisterhood, and all of the joyful times.
+<p class="noIndent">It has been two years since I left Plum Village, France for Dieu Tram Nunnery, Vietnam. How time flies! So much has happened in the world and in the sangha, for you and for me. Sometimes in my dreams or when we sit around and share stories, many memories return to me. You know what the sisters are like–we are easily carried away by stories, one after another. They contain anecdotes about Thay, about brotherhood and sisterhood, and all of the joyful times.</p>
 
 {% image "article/sr-thao-nghiem/CCI0224201600039.jpg", "", "Buddha Hall, New Hamlet" %}
 
@@ -26,8 +26,8 @@ There is a sacred space in New Hamlet that I miss very much, and that is the Bud
 <div class="verse"><p>Trên đài sen trắng Như Lai hiện<br/>
 Giữa rừng tre tím Quán Âm ngồi</p>
 
-<p>On a white lotus throne, the Tathagata appears<br/>
-In the midst of the violet bamboo forest, Avalokiteshvara dwells<span class="note">Further reading: <a href="https://plumvillage.org/articles/parallel-verses-of-our-plum-village-temples-i/">plumvillage.org/articles/parallel-verses-of-our-plum-village-temples-i/</a></span></p></div>
+<p>On a white lotus throne, the Tathagata appears.<br/>
+In the midst of the violet bamboo forest, Avalokiteshvara dwells.<span class="note">Further reading: <a href="https://plumvillage.org/articles/parallel-verses-of-our-plum-village-temples-i/">https://plumvillage.org/articles/parallel-verses-of-our-plum-village-temples-i/</a></span></p></div>
 
 Reading it, you will immediately feel the essence of the place in which you are standing.
 

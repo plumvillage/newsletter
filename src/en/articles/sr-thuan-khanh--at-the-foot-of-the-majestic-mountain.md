@@ -65,8 +65,6 @@ That morning, sitting in the bamboo forest, Thay stretched out his arms on two s
 
 Since then, I have never gone to the Hermitage wearing an old robe to meet Thay. I also take care to dress properly and neatly on the Days of Mindfulness. Because if we were to meet Thay, he would be happy to see his monastic children wearing neat robes.
 
-In me, Thay will forever be the majestic, ageless mountain that I can lean on and turn to. Whenever you listen to your heart, you will hear the deep roar of the rising tide. The majestic mountain is there for eons, mighty, protective, and heroic.
-
 <div class="verse" id="poem-mighty-mountain"><p>One morning<br/>
 waking up,<br/>
 I stood at the foot of the mighty mountain.<br/>
@@ -76,6 +74,8 @@ smiles blooming on the thousand year old moss.<br/>
 Warm and inviting,<br/>
 towards infinity,<br/>
 fragrant is the sacred creek.</p></div>
+
+In me, Thay will forever be the majestic, ageless mountain that I can lean on and turn to. Whenever you listen to your heart, you will hear the deep roar of the rising tide. The majestic mountain is there for eons, mighty, protective, and heroic.
 
 Being there with the Fragrant Creek, I will never need to grow up. At the Fragrant Creek, there is sunshine, rain, trees, stream, rocks, Thay, and the entire forest of brown robes. The Fragrant Creek is keeping alive so many memories of the love between teacher and student, the care, the laughter, and the heartfelt vows. The Fragrant Creek is also keeping alive the free steps and peaceful breaths of Thay, so this heritage can be given and entrusted to his monastic children. I know that wherever Thay is, the Fragrant Creek is there. Wherever I am, the Fragrant Creek is there. In the moments when I am far from the Fragrant Creek geographically, I have nourished it in my heart like this.
 

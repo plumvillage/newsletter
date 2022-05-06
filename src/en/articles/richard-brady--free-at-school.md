@@ -3,7 +3,7 @@ title: Free at School
 author: An Interview with Richard Brady
 ---
 
-<p class="editors-preface">Richard (True Dharma Bridge) is a retired high school maths teacher, and a lay Dharma teacher in the Plum Village tradition. He is also a retreat leader, writer, educational consultant, and coordinator of the Wake Up Schools Level II Program in North America and he recently wrote a book titled <i>Walking the Teacher’s Path with Mindfulness–Stories for Reflection and Action</i>. This is an excerpt from a longer interview of Richard conducted by Kaira Jewel Lingo in August 2021, see <a href="http://youtu.be/o68kYh2N_U4">youtu.be/o68kYh2N_U4</a>.</p>
+<p class="editors-preface">Richard (True Dharma Bridge) is a retired high school maths teacher, and a lay Dharma teacher in the Plum Village tradition. He is also a retreat leader, writer, educational consultant, and coordinator of the Wake Up Schools Level II Program in North America and he recently wrote a book titled <i>Walking the Teacher’s Path with Mindfulness–Stories for Reflection and Action</i>. This is an excerpt from a longer interview of Richard conducted by Kaira Jewel Lingo in August 2021. See <a href="http://youtu.be/o68kYh2N_U4">youtu.be/o68kYh2N_U4</a>.</p>
 
 {% image "article/richard-brady/Educators retreat in Italy - Avalokita centre.1-e2.jpg", "", "Educators retreat in Avalokita Center, Italy" %}
 

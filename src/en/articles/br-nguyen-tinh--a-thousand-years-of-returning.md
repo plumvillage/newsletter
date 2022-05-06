@@ -61,6 +61,8 @@ Something about the dream shook my five skandhas fiercely. I felt like the poor,
 
 One afternoon I was walking from Son Ha to Upper Hamlet. The horizon was ablaze with the changing colours and falling leaves of the forest, and golden leaves carpeted the path. I saw a small tuft of grass and some new leaves that I had not noticed before, though I have trodden this path countless times. Suddenly, I understood why Thay taught us again and again about breathing and walking, about the beauty of the legendary path, or sang praises of the purple bamboo and the blue sky, or showed us the miracle of a single leaf.
 
+{% image "article/br-nguyen-tinh/IMG_2341-edit.JPG" %}
+
 When I used to listen to his Dharma talks or read his books or hear stories about Thay from my brothers, I often wondered, *What is it about those things that Thay never tires of reminding his disciples?* That day, seeing the grass and new leaves on a well-trodden path, I smiled. I realized that I had found with my own eyes the beauty and mystery of these seemingly ordinary things. Having seen it once, I can offer myself once again that way of looking. These simple discoveries have nurtured my joy of practicing, nurtured my gratitude for Thay’s insights, which have been adapted to the times, and nurtured my faith in the sangha’s ability to receive and transmit the ceaseless flow of the spiritual river.
 
 <div class="verse"><p>A thousand autumns pave<br/>
@@ -70,4 +72,3 @@ the fragrance of sandalwood incense<br/>
 infuses each ancient brush stroke.</p></div>
 <div class="article-end"></div>
 
-{% image "article/br-nguyen-tinh/IMG_2341-edit.JPG", "noFloat" %}

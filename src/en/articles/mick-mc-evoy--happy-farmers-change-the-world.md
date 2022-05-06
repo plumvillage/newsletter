@@ -15,7 +15,7 @@ The Happy Farmers hope to demonstrate that productivity, environmental sustainab
 
 ## The aims of the Happy Farm
 
-***To grow healthy organic vegetables for the Plum Village community***
+### To grow healthy organic vegetables for the Plum Village community
 
 The Happy Farm method is an intensive method, growing a lot of vegetables on a small scale, combining classical organic farming methods with permaculture elements.
 
@@ -27,9 +27,9 @@ We know that modern agriculture, which feeds the world, unfortunately is an indu
 
 {% image "article/mick-mcevoy/Happy-Farm-Early-Day-e.jpg", "noFloat", "Daniel Dermitzel" %}
 
-{% image "article/mick-mcevoy/TPDung-Planting-vegetable-crop.jpg", "noFloat" %}
+{% image "article/mick-mcevoy/TPDung-Planting-vegetable-crop.jpg", "noFloat", "Br Phap Dung" %}
 
-***To train people in applying the principles of mindfulness in a working environment***
+### To train people in applying the principles of mindfulness in a working environment
 
 Spiritual cultivation and mindfulness training are essential aspects of the Happy Farm. It is a training ground for applying the principles of mindfulness in a working environment. 
 
@@ -41,13 +41,13 @@ We have a core team who live as a Happy Farm family within the monastery as well
 
 Happy farmers are not fundamentalists in happiness: all emotions are welcome, all human experience is welcome in our inner landscapes. It’s about bringing that onto the land, into the working environment, with the stresses and pressures that we all experience, into the team dynamic, the family dynamic and learning to communicate and to listen to another’s needs. This is the idea of mindful living in day-to-day life.
 
-***Education in growing organic food, sustainability, and mindfulness practice.***
+### Education in growing organic food, sustainability, and mindfulness practice
 
 The project exists also to inspire and to educate people in a pedagogical way, with learning by doing rather than a more theoretical or classroom-based form of learning. People who come to the farm for the one year program go through the whole cycle of seasons from seed to plate and beyond. They go away after the year with the skills to start growing some of their own food or set up their own projects, which many people have done in different parts of the world.
 
 ## The Happy Farms
 
-***Upper Hamlet***
+### Upper Hamlet
 
 In 2013 the first Happy Farm was founded in Upper Hamlet. It was the realization of a long-held wish to produce local, seasonal, organic vegetables within Plum Village and to go in the direction of sustainability and food security for the Plum Village community.
 
@@ -57,18 +57,18 @@ The farm continues to grow and flourish in beautiful and unexpected ways. Since 
 
 Every year the Upper Hamlet farm hosts about 500 children during the Summer Family Retreat. During Plum Village’s annual Wake Up Earth Retreat, about 500 young adults get to get their hands mindfully dirty on the farm. We started to offer Happy Farm Experience Weeks in 2018. 
 
-***Lower Hamlet***
+### Lower Hamlet
 
 In 2016, the Happy Farm in Lower Hamlet was started with fourteen beds and a small herb garden. This was expanded in 2017. In the first year, more than 1,000 kilograms of vegetables were harvested. The food grown is offered to the Lower Hamlet sangha. They have hosted several Happy Experience Weeks for lay women and couples who have come from all over the world to participate. They have also offered many children and retreatants a chance to be close to nature and discover the wonder of growing your own food with love. 
 
 In 2021, the Lower Hamlet Happy Farm was moved to new land (about 50 meters away) and great care was taken to move the rich soil that had been carefully cultivated from the previous years, to the new location. 
 
-***New Hamlet***
+### New Hamlet
 
 The New Hamlet Happy Farm manifested the most recently. Although it officially began in the spring of 2017, gardening and farming in New Hamlet was started many years before by Sr. Bao Nghiem who had a green thumb and planted many different kinds of vegetables in the greenhouses and outdoors. We also had a horticultural garden before it became part of the Happy Farm. The first sister in charge of the Happy Farm was Sr. Nguyet Nghiem who received a lot of support from the Happy Farm brothers in Upper Hamlet. Slowly, three long-term friends joined the team and  one of them is now in training to become a nun and continues to support the Happy Farm.
 
 {% image "article/mick-mcevoy/Happy-Farm-3-e.jpg", "noFloat" %}
-{% image "article/mick-mcevoy/Re-Wilding project_12-edited.jpg", "noFloat", "Mick" %}
+{% image "article/mick-mcevoy/Re-Wilding project_12-edited.jpg", "noFloat", "Mick McEvoy" %}
 
 ## Looking forwards
 

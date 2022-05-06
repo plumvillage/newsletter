@@ -574,6 +574,17 @@ h2 { /* section in article */
     margin-bottom: 5pt;
 }
 
+html:lang(en) h3 { /* section in article */
+    font-weight: bold;
+    font-style: italic;
+    font-size: 1em;
+}
+
+.article-parallax-press-and-the-journey-to-plum-village-through-books h3 {
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
 article .author {
     font-size: 14pt;
     line-height: 16pt;
@@ -612,9 +623,6 @@ html:lang(en) article > *:first-child:not(h1) {
     text-indent: 0 !important;
 }
 
-html:lang(en) .editors-preface + p {
-    text-indent: 0 !important;
-}
 
 /* Vietnamese words are smaller on average, thus more suitable for block text */
 html:lang(vi) article p {
@@ -632,8 +640,9 @@ article p, article blockquote {
     widows: 2;
 }
 
-article p + p,
+article p:not(.editors-preface) + p,
 article figure + p,
+html:lang(vi) .editors-preface + p
 html:lang(vi) article blockquote + p,
 html:lang(vi) article .verse + p
 {
@@ -667,7 +676,7 @@ article blockquote p + p {
 /* can be in blockquote and .verse */
 article cite::before {
     color: var(--color-bark-dark);
-    content: "~ "; /* —🙒🙛🙘 */
+    content: "—"; /* —🙒🙛🙘 */
 	font-size: 80%;
 }
 article cite {
@@ -1605,13 +1614,17 @@ figure#articlefor-chaptersHandsReadingOut2 {
 
 figure#articleeulogy-in-vietnamL1004781,
 figure#articlebr-troi-duc-hienIMG5858-edited {
-    width: 86%;
-    margin-right: 7%;
+    /* using padding, instead of decreasing width, keeps words (like 'I') from flowing into the free space */
+    padding-left: 7%;
+    padding-right: 7%;
 }
 
+/* figure#articlemick-mcevoyTPDung-Planting-vegetable-crop,  */
+/* figure#articlemick-mcevoyHappy-Farm-Early-Day-e, */
+figure#articlesr-dao-nghiemphoto7e,
 figure#articlesr-trang-bo-deSc-Bo-DJe-4-edit {
-    width: 86%;
-    margin-right: 7%;
+    padding-left: 5%;
+    padding-right: 5%;
 }
 
 .PAGE-OF-articlesr-boi-nghiemMG3986 p,
@@ -1621,15 +1634,13 @@ figure#articlesr-trang-bo-deSc-Bo-DJe-4-edit {
 .PAGE-OF-articleeulogy-in-vietnamL1004616-e p,
 .PAGE-OF-articlesr-trang-bo-deIMG0331 p,
 .PAGE-OF-articlesr-trang-bo-deIMG0443-e p,
-.PAGE-OF-articlesr-trang-bo-deIMG0359 p
+.PAGE-OF-articlesr-trang-bo-deIMG0359 p,
+.PAGE-OF-articlebr-nguyen-tinhIMG2341-edit p,
+.PAGE-OF-articlemick-mcevoyRe-Wilding-project7 p
 {
     text-shadow: 0.3pt 0.4pt 0px white;
-    /* text-shadow:
-        0px 0 3px white,
-        0px 0 5px white,
-        0px 0 9px white
-    ; */
 }
+
 
 
 #poem-orchid {
@@ -1941,14 +1952,15 @@ figure#articlesr-trang-tin-yeuMisty-day-e img {
 }
 
 .article-at-the-foot-of-the-majestic-mountain #calligraphyarticle-titles-2-and-dividers5-maskedDividers2-2-straight {
-    width: 25%;
-    margin-bottom: 8%;
+    width: 30%;
+    margin-top: 10%;
+    margin-bottom: 11%;
 }
 .article-duoi-chan-ngon-hung-phong #calligraphyarticle-titles-2-and-dividers5-maskedDividers2-2-straight
 {
     width: 33%;
     margin-bottom: 4%;
-    margin-top: 6%
+    margin-top: 6%;
 }
 
 .article-trong-nang-toi-cuoi,
@@ -2029,7 +2041,8 @@ figure#articleVenerable-Nhu-MinhPVM8497 {
     padding-top: 8pt;
 }
 
-#poem-a-hand {
+/* Sr Dao Nghiem */
+#poem-a-hand, #poem-rose-in-my-hand {
     width: 92mm;
 }
 
@@ -2102,4 +2115,35 @@ h1#continuing-the-deep-practice-of-generosity {
 /* to avoid orphan */
 .article-singing-for-thay-to-breathe .author {
     margin-bottom: 10mm;
+}
+
+#articlesr-dao-nghiemtrasuongmunui-edit-sang-hon-e figcaption {
+    position: absolute;
+    right: 17mm;
+    width: 70mm;
+    color: rgb(240, 240, 240) !important;
+    bottom: calc(10mm);
+    /* text-shadow: 0.3pt 0.4pt 0 rgba(0,0,0, 0.6); */
+}
+
+#articlesr-dao-nghiemtrasuongmunui-edit-sang-hon-e figcaption:after {
+    content: attr(text-for-outline);
+    position: absolute;
+    -webkit-text-stroke: 0.08em rgba(0,0,0,0.6);
+    right: 0;
+    top: 1.333px;
+    z-index: -1;
+}
+
+#articleeulogy-in-vietnamL1004616-e figcaption {
+    right: 27mm !important;
+    color: rgb(33, 33, 33) !important;
+}
+#articleeulogy-in-vietnamL1004616-e figcaption:after {
+    -webkit-text-stroke: 0.08em rgba(234, 234, 234, 0.7) !important;
+}
+
+#poem-mighty-mountain {
+    font-size: 1.15em;
+    line-height: 119%;
 }
