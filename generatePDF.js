@@ -109,6 +109,7 @@ gs -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/e
    -dFastWebView \
 -dQUIET \
 -q \
+-dAutoRotatePages=/None \
 -dDownsampleColorImages=true \
 -dDownsampleGrayImages=true \
 -dDownsampleMonoImages=true \
@@ -168,14 +169,21 @@ async function generatePDF(url, outputFile, onFinished = () => {}) {
         // height: "279.4mm",
         // 279.4/297*210
         // width: "197.56mm",
-
+        
         // LetterFit +Bleed (5mm downscaled):
         // 5*2*279,4/297+279,4
         // height: "288.81mm",
         // 5*2*279,4/297+197.56
         // width: "206.97mm",
 
-        preferCSSPageSize: true,
+        // US Letter +.125 x2
+        height: "11.25in",
+        width: "8.75in",
+        // height: "11in",
+        // width: "8.5in",
+
+        // preferCSSPageSize: true,
+        
         timeout: 0,
         displayHeaderFooter: false,
         printBackground: true,
@@ -208,9 +216,9 @@ let workInProgress = 0;
 // all jobs are assumed to continueWork() by themselves after being finished
 // we first generate all raw PDFs. onFinished() adds the downsample jobs to this queue and then proceeds execution with more threads (because the downsample is not as memory-hungry)
 let workQueue = [
-    () => generatePDF("http://localhost:8080/en/a4/", `./builds/en-a4`, onFinshed),
+    // () => generatePDF("http://localhost:8080/en/a4/", `./builds/en-a4`, onFinshed),
     // () => generatePDF("http://localhost:8080/vi/a4/", `./builds/vi-letter`, onFinshed),
-    // () => generatePDF("http://localhost:8080/en/a4-bleed/", `./builds/en-a4-bleed`, onFinshed),
+    () => generatePDF("http://localhost:8080/en/a4-bleed/", `./builds/en-a4-bleed`, onFinshed),
     // () => generatePDF("http://localhost:8080/vi/a4-bleed/", `./builds/vi-letter-bleed`, onFinshed),
     
     // () => onFinshed("./builds/en-a4_2022-03-19_20-28-32.pdf", "./builds/en-a4.pdf"),

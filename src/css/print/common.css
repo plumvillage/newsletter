@@ -51,8 +51,14 @@ figure {
 }
 
 @page:left {
-    margin-left: 33.27pt;
-    margin-right: 64pt;
+    /* A4 Margins: 33.27pt = 11.7369167mm */
+    /* 64pt = 22.57777mm */
+    margin-left: 11.7369167mm;
+    margin-right: 22.57777mm;
+
+    /* for Letter format */
+    /* margin-right: 37.078mm;
+    margin-left: 16.7369167mm; */
     @bottom-left {
         /* top right bottom left*/
         padding: 10pt 0 10pt 0;
@@ -62,8 +68,13 @@ figure {
 }
 
 @page:right {
-    margin-left: 64pt;
-    margin-right: 33.27pt;
+    /* A4 */
+    margin-left: 22.57777mm;
+    margin-right: 11.7369167mm;
+
+    /* for Letter format */
+    /* margin-left: 37.078mm;
+    margin-right: 16.7369167mm; */
     @bottom-right {
         padding: 10pt 0 10pt 120pt;
         content: counter(page);
@@ -827,8 +838,9 @@ p.editors-preface {
     margin-right: 6pt;
     margin-bottom: 6pt;
 }
+
 p.editors-preface i {
-    color: hsl(17, 36%, 15%);
+    color: var(--color-bark-dark);
     font-style: normal;
 }
 /* https://unicode-search.net/unicode-namesearch.pl?term=CIRCLE */
@@ -839,7 +851,7 @@ p.editors-preface::after, .divider::after {
     font-size: 70%;
     content: "✦"; /*✦ ●◆✦◆✧❁🙪🙠🙢⬩ */
     line-height: 0.3mm;
-    color: hsl(17, 36%, 15%);
+    color: var(--color-bark-dark);
     text-align: center;
     display: block;
     width: 100%;
@@ -851,9 +863,9 @@ p.editors-preface::after, .divider::after {
     transparent); */
     background-image: linear-gradient(to right,
     transparent,
-    hsl(17, 36%, 15%) 40%,
+    var(--color-bark-dark),
     transparent 50%,
-    hsl(17, 36%, 15%) 60%,
+    var(--color-bark-dark),
     transparent);
 }
 
@@ -870,7 +882,7 @@ p.editors-preface::after, .divider::after {
     /* content: ' 🙢'; 	 */
     font-weight: normal !important;
     font-style: normal !important;
-    color: hsl(17, 36%, 15%);
+    color: var(--color-bark-dark);
 }
 
 figure#calligraphyParallels-VI-p1-Ngay-Vertical {
@@ -2137,6 +2149,8 @@ h1#continuing-the-deep-practice-of-generosity {
 
 #articleeulogy-in-vietnamL1004616-e figcaption {
     right: 27mm !important;
+    /* for Letter layout */
+    /* right: 52mm !important; */
     color: rgb(33, 33, 33) !important;
 }
 #articleeulogy-in-vietnamL1004616-e figcaption:after {

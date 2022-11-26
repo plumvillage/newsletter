@@ -5,22 +5,22 @@
 
 :root {
     --color-sky: hsl(204, 100%, 59%);
-    /* C 82%   M 33%   Y 0%   K 0% */
     --color-tower: hsl(14, 57%, 50%);
-    /* C 0%   M 44%   Y 57%   K 21% */
-    --color-tower-dark: hsl(356, 66%, 29%);
+    /* --color-tower-dark: hsl(356, 66%, 29%); */
+    --color-tower-dark: hsl(0, 0%, 31%);
     --color-sanghati: hsl(46, 80%, 55%);
-    /* C 0%   M 16%   Y 71%   K 9% */
     --color-sanghati-light: hsl(46, 100%, 85%);
     --color-bark: hsl(19, 36%, 32%);
-    /* C 0%   M 16%   Y 23%   K 57% */
+    /* --color-bark: hsl(0, 0%, 34%); */
    
     --color-bark-light: #b0a29e;
+    /* --color-bark-light: #aaaaaa; */
     --color-bark-dark: hsl(17, 36%, 15%);
+    /* --color-bark-dark: hsl(0, 0%, 16%); */
     --color-leaf: hsl(72, 42%, 53%);
-    /* C 8%   M 0%   Y 39%   K 27% */
     --color-sky-dark: #0A2436;
     --color-tower-dark: #360B0E;
+    /* --color-tower-dark: #353535; */
     --color-footnote: rgb(94, 94, 94);
     
     text-rendering: optimizeLegibility;

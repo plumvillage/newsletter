@@ -37,12 +37,7 @@ From then on, the Hermitage and Fragrant Creek became a sacred place for me. Lat
 
 One morning, Thay led Sr. Tinh Hang and me on walking meditation around the Hermitage. Afterwards, we sat down on the low rocks in the bamboo forest by the creek. By that time I could begin to call my teacher “Thay,” after he told me many times that he wished for me to call him “Thay.” Teacher and students did not say much. The creek flowed by, tinkling with joy and peace as if to bring home her tired itinerant children. Sitting at Thay’s feet amidst the bamboo and by the creek, I saw myself sitting at the foot of an ancient, majestic mountain. Thay is that majestic mountain, calling back to me my own immense space.
 
-<div class="verse" id="poem-true-source"><p>Beings all over the Earth<br/>
-are struggling to live.<br/>
-I aspire to practice deeply<br/>
-so all may have enough to eat.</p>
-
-<p>Let us go together to climb that nameless mountain,<br/>
+<div class="verse" id="poem-true-source"><p>Let us go together to climb that nameless mountain,<br/>
 let us sit on the ageless blue-green stone,<br/>
 quietly watching time weave the silken thread<br/>
 that creates the dimension called space.<cite>Excerpt from Thay’s poem <b>True Source</b></cite></p></div>
