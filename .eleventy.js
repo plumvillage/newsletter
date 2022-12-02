@@ -8,7 +8,7 @@ const sharp = require("sharp");
 const Image = require("@11ty/eleventy-img");
 const srcPath = "src/media/originals";
 const calligraphyPath = "calligraphy/article-titles/";
-// const calligraphyPath = "calligraphy/article-titles/";
+
 var articleTitleCalligraphies = fs.readdirSync(`src/media/originals/${calligraphyPath}`)
 // var articleTitleCalligraphies = fs.readdirSync(`src/media/publish/${calligraphyPath}`)
 
@@ -41,11 +41,14 @@ async function imageData(src) {
     
     let dryRun = false;
     let srcFull = path.join(srcPath, src);
-    let destPath = `/media/build`;
+    
+    let destPath = `/media_${maxWidth}_q${quality}/build`;
+    // let destPath = `/media/build`;
     let data = { filename: path.basename(src) };
     let parsed = path.parse(src);
     
-    let outputDir = parsed.dir ? path.join("docs/media/build", parsed.dir) : "docs/media/build";
+    // let outputDir = parsed.dir ? path.join(`docs/media/build`, parsed.dir) : "docs/media/build";
+    let outputDir = parsed.dir ? path.join(`docs/${destPath}`, parsed.dir) : `docs/${destPath}`;
 
     let options = {
         formats: [imgFormat, "svg"], /* jpeg, png, webp, gif, tiff, avif */

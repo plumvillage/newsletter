@@ -177,12 +177,13 @@ async function generatePDF(url, outputFile, onFinished = () => {}) {
         // width: "206.97mm",
 
         // US Letter +.125 x2
-        height: "11.25in",
-        width: "8.75in",
+        // height: "11.25in",
+        // width: "8.75in",
+        // US Letter
         // height: "11in",
         // width: "8.5in",
 
-        // preferCSSPageSize: true,
+        preferCSSPageSize: true,
         
         timeout: 0,
         displayHeaderFooter: false,

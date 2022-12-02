@@ -53,8 +53,8 @@ figure {
 @page:left {
     /* A4 Margins: 33.27pt = 11.7369167mm */
     /* 64pt = 22.57777mm */
-    margin-left: 11.7369167mm;
     margin-right: 22.57777mm;
+    margin-left: 11.7369167mm;
 
     /* for Letter format */
     /* margin-right: 37.078mm;
@@ -69,12 +69,12 @@ figure {
 
 @page:right {
     /* A4 */
-    margin-left: 22.57777mm;
     margin-right: 11.7369167mm;
+    margin-left: 22.57777mm;
 
     /* for Letter format */
-    /* margin-left: 37.078mm;
-    margin-right: 16.7369167mm; */
+    /* margin-right: 16.7369167mm;
+    margin-left: 37.078mm; */
     @bottom-right {
         padding: 10pt 0 10pt 120pt;
         content: counter(page);
@@ -349,20 +349,20 @@ h2,
 h3,
 h4,
 h5 {
-    page-break-after: avoid;
-    page-break-inside: avoid;
+    /* page-break-after: avoid;
+    page-break-inside: avoid; */
 }
 
 h1+p,
 h2+p,
 h3+p,
 h4+p {
-    page-break-before: avoid;
+    /* page-break-before: avoid; */
 }
 
 table,
 figure {
-    page-break-inside: avoid;
+    /* page-break-inside: avoid; */
 }
 
 
