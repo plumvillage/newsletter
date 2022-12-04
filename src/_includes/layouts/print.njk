@@ -1,9 +1,6 @@
 {% extends "layouts/print-frame.njk" %}
 {% block content %}
 
-{# <div class="front-cover bleed">
-    {% image ["LTLM45-2022 cover front v2022-02 letter ", locale ," bleed.jpg"] | join %}
-</div> #}
 <div class="front-collage bleed">
         {% image ["LTLM45-2022 cover front v2022-02 ", size_label ," ", locale ," bleed.jpg"] | join %}
 </div>
@@ -173,11 +170,8 @@ Khai sơn Đạo tràng Mai Thôn quốc tế</p></div>
 {# <div class="back-collage bleed">
 </div> #}
 
-{# <div class="back-cover bleed">
-    {% image ["LTLM45-2022 cover back ", locale ," bleed Letter.jpg"] | join %}
-</div> #}
 <div class="back-collage bleed">
-    {% image ["LTLM45-2022 cover back ", locale ," bleed.jpg"] | join %}
+    {% image ["LTLM45-2022 cover back ", size_label ," ", locale ," bleed.jpg"] | join %}
 </div>
 
 {% endblock %}

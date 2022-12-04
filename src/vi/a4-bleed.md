@@ -1,6 +1,7 @@
 ---
 layout: layouts/print
+size_label: A4
 size: A4
-marks: crop
 bleed: 5mm
+marks: crop
 ---
