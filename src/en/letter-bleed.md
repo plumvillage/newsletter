@@ -5,6 +5,8 @@ size-label: Letter
 # this is achieved by first adding width to A4, such that it has the same page ratio as Letter:
 size: "229.5mm 297mm"
 # later, in the PDF generation, we uniformly downscale (~94%) to Letter (11"x8.5")
-bleed: 0mm
-marks: none
+
+# bleed: 3.175mm =
+bleed: "0.125in"
+marks: crop
 ---

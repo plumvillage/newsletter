@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html dir="ltr" lang="{{ locale }}" class="size-{{ size }}">
+<html dir="ltr" lang="{{ locale }}" class="size-{{ size-label }}">
 <head>
     <meta charset="utf-8" />
     {% set i18n = site[locale] %}
@@ -17,14 +17,13 @@
     {# needs to be relative for pagedjs-cli to work #}
     <link rel="stylesheet" href="/css/global.css">
     <link rel="stylesheet" href="/css/print/common.css">
-    <link rel="stylesheet" href="/css/print/{{ size }}.css">
     <link rel="stylesheet" href="/css/print/articles-{{ locale }}.css">
-    <link rel="stylesheet" href="/css/print/images.css">
+    <link rel="stylesheet" href="/css/print/images-{{ size-label }}.css">
 
     {% include "../partials/page-setup.njk" %}
-    <script src="/pagedjs/paged.polyfill.js"></script>
+    <script src="/pagedjs/paged.polyfill_v0.4.js"></script>
     {# paged.js preview in browser #}
-    <link rel="stylesheet" href="/pagedjs/interface.css">
+    <link rel="stylesheet" href="/pagedjs/interface_v0.2.css">
     {# pagedjs-cli --additional-script <script> #}
     <script src="/js/hooks-to-pagedjs.js"></script>
 </head>
