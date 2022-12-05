@@ -93,6 +93,17 @@ figure {
     float: right;
 }
 
+figure img {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+}
+
+.articleCalligraphy img {
+    max-width: 100%;
+    width: auto;
+}
+
 .front-collage, .back-collage, .empty-page {
     page: photopage; /* named pages*/
     width: calc(var(--pagedjs-pagebox-width));
@@ -113,6 +124,11 @@ figure {
 
 .front-collage figure, .back-collage figure {
     width: 100%;
+    height: 100%;
+}
+
+.front-collage figure img, .back-collage figure img {
+    width: auto;
     height: 100%;
 }
 
@@ -788,18 +804,6 @@ sup { /* superscript */
 article span.color {
     color: var(--color-tower-dark);
 }
-
-figure img {
-    display: block;
-    margin: 0 auto;
-    width: 100%;
-}
-
-.articleCalligraphy img {
-    max-width: 100%;
-    width: auto;
-}
-
 
 article figure figcaption {
     /* block eliminates remaining space between image and label*/

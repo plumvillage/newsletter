@@ -50,7 +50,7 @@ function downsample(pdfFile, pdfFileWithoutDate, dpi = 400, Q = 1.5, onFinished 
     let outputFile = path.join(parsed.dir, outName(parsed.name))
     let outputFileWithoutDate = path.join(parsedWithoutDate.dir, outName(parsedWithoutDate.name))
     
-    netlifyRedirects += `/${outName(parsedWithoutDate.name)}    /${outName(parsed.base)}\n`;
+    netlifyRedirects += `/${outName(parsedWithoutDate.name)}    /${outName(parsed.name)}\n`;
 
 /*
 for DPI 300
@@ -234,6 +234,10 @@ let workQueue = [
 ]
 
 var onFinshed = function(file, fileWithoutDate) {
+    let parsed = path.parse(file)
+    execCMD(`ln -sf ${parsed.base} ${fileWithoutDate};
+    \nfirefox ${fileWithoutDate}`)
+
     workQueue.push(() => downsample(file, fileWithoutDate, 500, 0.3, continueWork))
     workQueue.push(() => downsample(file, fileWithoutDate, 300, 0.05, continueWork))
     workQueue.push(() => downsample(file, fileWithoutDate, 250, 1.5, (generatedFile) => {
