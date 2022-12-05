@@ -795,6 +795,11 @@ figure img {
     width: 100%;
 }
 
+.articleCalligraphy img {
+    max-width: 100%;
+    width: auto;
+}
+
 
 article figure figcaption {
     /* block eliminates remaining space between image and label*/
