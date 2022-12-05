@@ -129,7 +129,7 @@ gs -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/e
     })
 }
 
-async function generatePDF(url, outputFile, onFinished = () => {}) {
+async function generatePDF(url, outputFile, onFinished = () => {}, customPdfOptions = {}) {
     let outputFileWithoutDate = `${outputFile}.pdf`;
     outputFile = `${outputFile}_${formatDate(new Date())}.pdf`;
 
@@ -163,26 +163,6 @@ async function generatePDF(url, outputFile, onFinished = () => {}) {
     // https://github.com/puppeteer/puppeteer/blob/main/docs/api.md#pagecreatepdfstreamoptions
     let usePDFstream = true
     let pdfOptions = {
-        // format: "Letter",
-        // A4 fit to Letter is a ~94% downscale: 
-        // =11in, US Letter Height
-        // height: "279.4mm",
-        // 279.4/297*210
-        // width: "197.56mm",
-        
-        // LetterFit +Bleed (5mm downscaled):
-        // 5*2*279,4/297+279,4
-        // height: "288.81mm",
-        // 5*2*279,4/297+197.56
-        // width: "206.97mm",
-
-        // US Letter +.125 x2
-        // height: "11.25in",
-        // width: "8.75in",
-        // US Letter
-        // height: "11in",
-        // width: "8.5in",
-
         preferCSSPageSize: true,
         
         timeout: 0,
@@ -190,10 +170,15 @@ async function generatePDF(url, outputFile, onFinished = () => {}) {
         printBackground: true,
         path: outputFile
     }
-    
+
+    for (let key in customPdfOptions)
+        pdfOptions[key] = customPdfOptions[key]
+    if (pdfOptions.format || pdfOptions.width || pdfOptions.height)
+        pdfOptions.preferCSSPageSize = false
+
     // wait for PagedJS to layout page
-    page.waitForTimeout(3000).then(async () => {
-        console.log('Waited 3000!')
+    page.waitForTimeout(5000).then(async () => {
+        console.log('Waited 5000!')
         if (usePDFstream) {
             const pdfStream = await page.createPDFStream(pdfOptions);
             const writeStream = fs.createWriteStream(outputFile);
@@ -218,14 +203,16 @@ let workInProgress = 0;
 // we first generate all raw PDFs. onFinished() adds the downsample jobs to this queue and then proceeds execution with more threads (because the downsample is not as memory-hungry)
 let workQueue = [
     () => generatePDF("http://localhost:8080/en/a4/", `./builds/en-a4`, onFinshed),
-    // () => generatePDF("http://localhost:8080/vi/a4/", `./builds/vi-letter`, onFinshed),
-    // () => generatePDF("http://localhost:8080/en/a4-bleed/", `./builds/en-a4-bleed`, onFinshed),
-    // () => generatePDF("http://localhost:8080/vi/a4-bleed/", `./builds/vi-letter-bleed`, onFinshed),
+    () => generatePDF("http://localhost:8080/en/a4-bleed/", `./builds/en-a4-bleed`, onFinshed),
+    // US Letter: 11in x 8.5in
+    () => generatePDF("http://localhost:8080/en/letter/", `./builds/en-letter`, onFinshed, {format: "Letter"}),
+    // US Letter +.125 x2
+    () => generatePDF("http://localhost:8080/en/letter-bleed/", `./builds/en-letter-bleed`, onFinshed, {height: "11.25in", width: "8.75in"}),
+
+    () => generatePDF("http://localhost:8080/vi/a4/", `./builds/vi-a4`, onFinshed),
+    () => generatePDF("http://localhost:8080/vi/a4-bleed/", `./builds/vi-a4-bleed`, onFinshed),
     
     // () => onFinshed("./builds/en-a4_2022-03-19_20-28-32.pdf", "./builds/en-a4.pdf"),
-    // () => onFinshed("./builds/en-a4-bleed_2022-03-19_20-29-31.pdf", "./builds/en-a4-bleed.pdf"),
-    // () => onFinshed("./builds/vi-a4_2022-03-19_20-30-30.pdf", "./builds/vi-a4.pdf"),
-    // () => onFinshed("./builds/vi-a4-bleed_2022-03-19_20-31-38.pdf", "./builds/vi-a4-bleed.pdf"),
     () => {
         console.log("begin downsampling. More hands! :)")
         Array(6).fill().forEach(startWork);
@@ -292,4 +279,4 @@ if (generateArticles) {
 
 // concurrent.
 // for full-size pdf, 2 is very memory intense (16GB recommended)
-Array(1).fill().forEach(startWork);
+Array(3).fill().forEach(startWork);
