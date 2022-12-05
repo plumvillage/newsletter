@@ -192,8 +192,8 @@ async function generatePDF(url, outputFile, onFinished = () => {}) {
     }
     
     // wait for PagedJS to layout page
-    page.waitForTimeout(5000).then(async () => {
-        console.log('Waited 5000!')
+    page.waitForTimeout(3000).then(async () => {
+        console.log('Waited 3000!')
         if (usePDFstream) {
             const pdfStream = await page.createPDFStream(pdfOptions);
             const writeStream = fs.createWriteStream(outputFile);
@@ -217,9 +217,9 @@ let workInProgress = 0;
 // all jobs are assumed to continueWork() by themselves after being finished
 // we first generate all raw PDFs. onFinished() adds the downsample jobs to this queue and then proceeds execution with more threads (because the downsample is not as memory-hungry)
 let workQueue = [
-    // () => generatePDF("http://localhost:8080/en/a4/", `./builds/en-a4`, onFinshed),
+    () => generatePDF("http://localhost:8080/en/a4/", `./builds/en-a4`, onFinshed),
     // () => generatePDF("http://localhost:8080/vi/a4/", `./builds/vi-letter`, onFinshed),
-    () => generatePDF("http://localhost:8080/en/a4-bleed/", `./builds/en-a4-bleed`, onFinshed),
+    // () => generatePDF("http://localhost:8080/en/a4-bleed/", `./builds/en-a4-bleed`, onFinshed),
     // () => generatePDF("http://localhost:8080/vi/a4-bleed/", `./builds/vi-letter-bleed`, onFinshed),
     
     // () => onFinshed("./builds/en-a4_2022-03-19_20-28-32.pdf", "./builds/en-a4.pdf"),

@@ -1,29 +1,21 @@
 {% extends "layouts/print-frame.njk" %}
 {% block content %}
 
-<div class="front-collage bleed">
-        {% image ["LTLM45-2022 cover front v2022-02 ", size_label ," ", locale ," bleed.jpg"] | join %}
+{% set bleedClass = " bleed" if (bleed != "0mm") else "" %}
+
+<div class="front-collage{{ bleedClass }}">
+    {% image ["LTLM45-2022 cover front v2022-02 ", size_label ," ", locale ,"", bleedClass ,".jpg"] | join %}
 </div>
 
-<div class="front-collage bleed">
-    {% image ["LTLM45-2022 inside covers Thays life in photos p1 ", locale ," bleed.jpg"] | join %}
+<div class="front-collage{{ bleedClass }}">
+    {% image ["LTLM45-2022 inside covers Thays life in photos p1 ", size_label ," ", locale ,"", bleedClass ,".jpg"] | join %}
 </div>
 
-<div class="back-collage bleed">
-    {% image ["LTLM45-2022 inside covers Thays life in photos p2 ", locale ," bleed.jpg"] | join %}
+<div class="back-collage{{ bleedClass }}">
+    {% image ["LTLM45-2022 inside covers Thays life in photos p2 ", size_label ," ", locale ,"", bleedClass ,".jpg"] | join %}
 </div>
 
-{# <div class="front-collage bleed">
-    {% image ["LTLM45-2022 inside covers Thays life in photos p1 en bleed Letter.jpg"] | join %}
-</div>
-
-<div class="back-collage bleed">
-    {% image ["LTLM45-2022 inside covers Thays life in photos p2 en bleed Letter.jpg"] | join %}
-</div> #}
-
-{# empty page #}
-<div class="back-collage bleed">
-</div>
+<div class="empty-page"></div>
 
 <div id="title-page">
 {%- if locale == "en" -%}
@@ -166,12 +158,10 @@ Khai sơn Đạo tràng Mai Thôn quốc tế</p></div>
 {%- endfor -%}
 
 
-{# empty page #}
-{# <div class="back-collage bleed">
-</div> #}
+{# <div class="empty-page"></div> #}
 
-<div class="back-collage bleed">
-    {% image ["LTLM45-2022 cover back ", size_label ," ", locale ," bleed.jpg"] | join %}
+<div class="back-collage{{ bleedClass }}">
+    {% image ["LTLM45-2022 cover back ", size_label ," ", locale ,"", bleedClass ,".jpg"] | join %}
 </div>
 
 {% endblock %}

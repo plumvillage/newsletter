@@ -5,4 +5,31 @@
     bleed: {{ bleed }};
     marks: {{ marks }};
 }
+
+{%- if size_label == "A4" %}
+
+@page:left {
+    /* A4 Margins: 33.27pt = 11.7369167mm */
+    /* 64pt = 22.57777mm */
+    margin-right: 22.57777mm;
+    margin-left: 11.7369167mm;
+}
+@page:right {
+    margin-right: 11.7369167mm;
+    margin-left: 22.57777mm;
+}
+
+{% elseif size_label == "Letter" %}
+
+@page:left {
+    margin-right: 37.078mm;
+    margin-left: 16.7369167mm;
+}
+@page:right {
+    margin-right: 16.7369167mm;
+    margin-left: 37.078mm;
+}
+
+{%- endif %}
+
 </style>
