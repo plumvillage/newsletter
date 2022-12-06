@@ -16,7 +16,7 @@ async function imageShortcode(src, optClasses = "", imgLabel = "") {
     let result = await imageData(src)
     
     let html = `<figure id="${result.autoId}" class="${optClasses}"><img src="${result.srcAttribute}" decoding="async">${imgLabel != "" ? `<figcaption>${imgLabel}</figcaption>` : ""}</figure>`;
-
+    
     // img loading="lazy" is buggy! stops chrome from running pagedjs
     return html;
 }

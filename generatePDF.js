@@ -225,12 +225,12 @@ var onFinshed = function(file, fileWithoutDate) {
     execCMD(`ln -sf ${parsed.base} ${fileWithoutDate};
     \nfirefox ${fileWithoutDate}`)
 
-    workQueue.push(() => downsample(file, fileWithoutDate, 500, 0.3, continueWork))
-    workQueue.push(() => downsample(file, fileWithoutDate, 300, 0.05, continueWork))
-    workQueue.push(() => downsample(file, fileWithoutDate, 250, 1.5, (generatedFile) => {
-        // we could to some custom task here.
-        continueWork()
-    }))
+    // workQueue.push(() => downsample(file, fileWithoutDate, 500, 0.3, continueWork))
+    // workQueue.push(() => downsample(file, fileWithoutDate, 300, 0.05, continueWork))
+    // workQueue.push(() => downsample(file, fileWithoutDate, 250, 1.5, (generatedFile) => {
+    //     // we could to some custom task here.
+    //     continueWork()
+    // }))
     continueWork()
 }
 

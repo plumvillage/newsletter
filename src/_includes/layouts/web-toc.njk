@@ -1,16 +1,12 @@
----
-permalink: "en/"
----
 {% extends "layouts/web.njk" %}
 
     {% block content %}
-
     <header class="index-header">
-        <h1><img src="{% imageSrc 'calligraphy/calligraphy plum village newsletter one line.webp' %}" alt="Plum Village Newsletter"></h1>
-        <h2>Table of Contents</h2>
+        <h1><img src="{% imageSrc header_img %}" alt="{{ header_img_alt }}"></h1>
+        <h2>{{ h2 }}</h2>
     </header>
     <ul class="toc">
-        {%- for article in collections.articles_en -%}
+        {%- for article in collections[collection_to_use] -%}
             {%- if article.data.chapter -%}
             <li class="chapterLi" id="li-{{ article.data.title | slugify }}">
                 <span class="toc-chapter-title">{{ article.data.title }}</span>
@@ -27,4 +23,3 @@ permalink: "en/"
         {%- endfor -%}
     </ul>
     {% endblock %}
-
