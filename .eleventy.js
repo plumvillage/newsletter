@@ -27,9 +27,12 @@ async function imageSrcShortcode(src) {
 }
 
 async function imageData(src) {
-    let justCopy = false;
-    let maxWidth = 700;
-    let quality = 80;
+    // use images that are already build without going through the slow Image()
+    let fastProcess = true
+    let justCopy = false
+
+    let maxWidth = 700
+    let quality = 80
     // let maxWidth = 1500;
     // let quality = 60;
     // let maxWidth = 5000;
@@ -41,20 +44,22 @@ async function imageData(src) {
         imgFormat = "webp"
     }
     
-    let dryRun = false;
-    let srcFull = path.join(srcPath, src);
+    let dryRun = false
+    let srcFull = path.join(srcPath, src)
     
-    let destPath = `/media_${maxWidth}_q${quality}/build`;
-    // let destPath = `/media/build`;
-    let data = { filename: path.basename(src) };
-    let parsed = path.parse(src);
+    let destPath = justCopy ? "/media_copy/" : `/media_${maxWidth}_q${quality}/`
     
-    // let outputDir = parsed.dir ? path.join(`docs/media/build`, parsed.dir) : "docs/media/build";
-    let outputDir = parsed.dir ? path.join(`docs/${destPath}`, parsed.dir) : `docs/${destPath}`;
-
+    let parsed = path.parse(src)
+    
+    let outputDir = parsed.dir ? path.join(`docs/${destPath}`, parsed.dir) : `docs/${destPath}`
+    // the processed output image names by eleventy-img are randomised. when we want to speed up processing, we need to keep the original name
+    let destFileSameName = path.join(outputDir, parsed.base)
+    let data = { filename: parsed.base }
+    
     let options = {
         formats: [imgFormat, "svg"], /* jpeg, png, webp, gif, tiff, avif */
         outputDir: outputDir,
+        // this could be multiple sizes
         widths: [maxWidth],
         dryRun: dryRun,
         sharpOptions: {},
@@ -63,36 +68,63 @@ async function imageData(src) {
         sharpJpegOptions: { quality: quality, },
         svgShortCircuit: true
     }
-
+    
     try {
         // Image.statsSync doesn’t generate any files, but will tell you where the asynchronously generated files will end up!
         // let metadata = await Image(srcFull, options);
         // Image.statsSync(srcFull, options)
-
-        if (!justCopy) {
-            let metadata = await Image(srcFull, options);
-
-            if(metadata.svg.length) {
-                data = metadata.svg[metadata.svg.length - 1];
+        
+        console.log("processing:", src)
+        if (!fastProcess || !fs.existsSync(destFileSameName)) {
+            
+            if (justCopy) {
+                fs.mkdirSync(outputDir, { recursive: true }, (err) => {
+                    if (err) throw err;
+                });
+                console.log("COPYING: ", srcFull, " -> ", destFileSameName)
+                fs.copyFileSync(srcFull, destFileSameName, fs.constants.COPYFILE_EXCL);
             } else {
-                data = metadata[imgFormat][metadata[imgFormat].length - 1];
+                /* metadata:
+                {
+                svg: [],
+                jpeg: [
+                    {
+                    format: 'jpeg',
+                    width: 400,
+                    height: 400,
+                    url: '/img/oUr82sN_M--400.jpeg',
+                    sourceType: 'image/jpeg',
+                    srcset: '/img/oUr82sN_M--400.jpeg 400w',
+                    filename: 'oUr82sN_M--400.jpeg',
+                    outputPath: 'docs/media_5000_q96/build/article/br-minh-hy/oUr82sN_M--400.jpeg',
+                    size: 137473
+                    },
+                    {
+                        ...
+                    }
+                ]
+                } */
+                let metadata = await Image(srcFull, options)
+                // console.log(metadata)
+    
+                if(metadata.svg.length) {
+                    data = metadata.svg[metadata.svg.length - 1];
+                } else {
+                    data = metadata[imgFormat][metadata[imgFormat].length - 1];
+                }
+
+                if (fastProcess && !fs.existsSync(destFileSameName)) {
+                    console.log("RENAMING: ", data.outputPath, " -> ", destFileSameName)
+                    fs.renameSync(data.outputPath, destFileSameName)
+                    data.outputPath = destFileSameName
+                    data.filename = parsed.base
+                }
             }
         }
-
-        console.log("processing:", src)
 
         let result = {
             autoId: slugify(`${parsed.dir}/${parsed.name}`, { strict: true }),
             srcAttribute: path.join(destPath, parsed.dir, data.filename)
-        }
-
-        let destFile = path.join(outputDir, data.filename)
-        if (justCopy && !fs.existsSync(destFile)) {
-            fs.mkdirSync(outputDir, { recursive: true }, (err) => {
-                if (err) throw err;
-            });
-            console.log("COPYING: ", srcFull, " -> ", destFile)
-            fs.copyFileSync(srcFull, destFile, fs.constants.COPYFILE_EXCL);
         }
         return result
     } catch (err) {

@@ -49,7 +49,7 @@ function downsample(pdfFile, pdfFileWithoutDate, dpi = 400, Q = 1.5, onFinished 
 
     let outputFile = path.join(parsed.dir, outName(parsed.name))
     let outputFileWithoutDate = path.join(parsedWithoutDate.dir, outName(parsedWithoutDate.name))
-    
+
     netlifyRedirects += `/${outName(parsedWithoutDate.name)}    /${outName(parsed.name)}\n`;
 
 /*
@@ -125,6 +125,7 @@ gs -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/e
     console.log("exec: ", command)
 
     execCMD(command, () => {
+        execCMD(`ln -sf ${outName(parsed.name)} ./docs/${outName(parsedWithoutDate.name)} `)
         onFinished(outputFile)
     })
 }
@@ -193,7 +194,7 @@ async function generatePDF(url, outputFile, onFinished = () => {}, customPdfOpti
     });
 }
 
-// execCMD("rm -rf ./builds/articles-print/*")
+// execCMD("rm -rf ./docs/articles-print/*")
 
 let todoNext = 0;
 let workInProgress = 0;
@@ -202,17 +203,17 @@ let workInProgress = 0;
 // all jobs are assumed to continueWork() by themselves after being finished
 // we first generate all raw PDFs. onFinished() adds the downsample jobs to this queue and then proceeds execution with more threads (because the downsample is not as memory-hungry)
 let workQueue = [
-    () => generatePDF("http://localhost:8080/en/a4/", `./builds/en-a4`, onFinshed),
-    () => generatePDF("http://localhost:8080/en/a4-bleed/", `./builds/en-a4-bleed`, onFinshed),
+    () => generatePDF("http://localhost:8080/en/a4/", `./docs/en-a4`, onFinshed),
+    () => generatePDF("http://localhost:8080/en/a4-bleed/", `./docs/en-a4-bleed`, onFinshed),
     // US Letter: 11in x 8.5in
-    () => generatePDF("http://localhost:8080/en/letter/", `./builds/en-letter`, onFinshed, {format: "Letter"}),
+    () => generatePDF("http://localhost:8080/en/letter/", `./docs/en-letter`, onFinshed, {format: "Letter"}),
     // US Letter +.125 x2
-    () => generatePDF("http://localhost:8080/en/letter-bleed/", `./builds/en-letter-bleed`, onFinshed, {height: "11.25in", width: "8.75in"}),
+    () => generatePDF("http://localhost:8080/en/letter-bleed/", `./docs/en-letter-bleed`, onFinshed, {height: "11.25in", width: "8.75in"}),
 
-    () => generatePDF("http://localhost:8080/vi/a4/", `./builds/vi-a4`, onFinshed),
-    () => generatePDF("http://localhost:8080/vi/a4-bleed/", `./builds/vi-a4-bleed`, onFinshed),
+    () => generatePDF("http://localhost:8080/vi/a4/", `./docs/vi-a4`, onFinshed),
+    () => generatePDF("http://localhost:8080/vi/a4-bleed/", `./docs/vi-a4-bleed`, onFinshed),
     
-    // () => onFinshed("./builds/en-a4_2022-03-19_20-28-32.pdf", "./builds/en-a4.pdf"),
+    // () => onFinshed("./docs/en-a4_2022-03-19_20-28-32.pdf", "./docs/en-a4.pdf"),
     () => {
         console.log("begin downsampling. More hands! :)")
         Array(6).fill().forEach(startWork);
@@ -222,15 +223,15 @@ let workQueue = [
 
 var onFinshed = function(file, fileWithoutDate) {
     let parsed = path.parse(file)
-    execCMD(`ln -sf ${parsed.base} ${fileWithoutDate};
-    \nfirefox ${fileWithoutDate}`)
+    execCMD(`ln -sf ${parsed.base} ${fileWithoutDate}`)
+    // ;\nfirefox ${fileWithoutDate}
 
-    // workQueue.push(() => downsample(file, fileWithoutDate, 500, 0.3, continueWork))
+    workQueue.push(() => downsample(file, fileWithoutDate, 500, 0.3, continueWork))
     // workQueue.push(() => downsample(file, fileWithoutDate, 300, 0.05, continueWork))
-    // workQueue.push(() => downsample(file, fileWithoutDate, 250, 1.5, (generatedFile) => {
-    //     // we could to some custom task here.
-    //     continueWork()
-    // }))
+    workQueue.push(() => downsample(file, fileWithoutDate, 250, 1.5, (generatedFile) => {
+        // we could to some custom task here.
+        continueWork()
+    }))
     continueWork()
 }
 
@@ -252,7 +253,7 @@ function continueWork() {
                 console.log("done!", netlifyRedirects)
 
                 try {
-                    fs.writeFileSync('./builds/_redirects', netlifyRedirects)
+                    fs.writeFileSync('./docs/_redirects', netlifyRedirects)
                     //file written successfully
                 } catch (err) {
                     console.error(err)
@@ -264,7 +265,7 @@ function continueWork() {
 }
 
 
-let dir = `./builds/articles_${formatDate(new Date())}`
+let dir = `./docs/articles_${formatDate(new Date())}`
 let generateArticles = false
 if (generateArticles) {
     fs.mkdirSync(dir)
@@ -279,4 +280,4 @@ if (generateArticles) {
 
 // concurrent.
 // for full-size pdf, 2 is very memory intense (16GB recommended)
-Array(3).fill().forEach(startWork);
+Array(1).fill().forEach(startWork);
