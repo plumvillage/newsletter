@@ -44,7 +44,6 @@ Because of a bug that currently renders 4 columns on first run, you need to trig
  - The (in Browser) Print Preview and the actual PDF output from Puppeteer are not identical. the font flows slightly different (e.g. kerning, justification). Very annoying, because I cannot 100% predict the output from the preview. Generally, Puppeteer needs less space.
  - Images that are rotated with EXIF are not processed correctly, see https://stackoverflow.com/questions/48716266/sharp-image-library-rotates-image-when-resizing
  - Image processing is not parallel. Makes the first serve very slow.
- - After first starting the server, the result is buggy (propably due to some race condition during image processing). We always need to reload after the first serve is ready.
  - Sometimes paragraphs (and images) do not break correctly to the next page. See src/media/documentation/BugTextFragment.webp. The fragment ends up in the top right corner (or outside) of the page.
  - Orphans and Widows (css) do not work.
  - H2 are left as the last column element, even though page-break-after: avoid; is set

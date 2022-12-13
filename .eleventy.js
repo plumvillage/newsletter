@@ -1,13 +1,16 @@
 const articleOrder = {}
-articleOrder.vi = require("./src/_data/article-order-vi.js");
-articleOrder.en = require("./src/_data/article-order-en.js");
+articleOrder.vi2022 = require("./src/_data/article-order-vi-2022.js")
+articleOrder.en2022 = require("./src/_data/article-order-en-2022.js")
+articleOrder.en2023 = require("./src/_data/article-order-en-2023.js")
+articleOrder.vi2023 = require("./src/_data/article-order-vi-2023.js")
 const fs = require('fs')
-const path = require("path");
+const path = require("path")
 const slugify = require('slugify')
 const sharp = require("sharp");
-const Image = require("@11ty/eleventy-img");
-const srcPath = "src/media/originals";
-const calligraphyPath = "calligraphy/article-titles/";
+const Image = require("@11ty/eleventy-img")
+const srcPath = "src/media/originals"
+const calligraphyPath = "calligraphy/article-titles/"
+let firstRun = true
 
 var articleTitleCalligraphies = fs.readdirSync(`src/media/originals/${calligraphyPath}`)
 // var articleTitleCalligraphies = fs.readdirSync(`src/media/publish/${calligraphyPath}`)
@@ -157,22 +160,47 @@ function easingGradient(start = 0, end = 100, stops = 8, smoothness = 3) {
 
 module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("src/pagedjs");
-
+    
     eleventyConfig.addPassthroughCopy("src/css");
     eleventyConfig.addWatchTarget("src/css");
-
+    
     eleventyConfig.addPassthroughCopy("src/js");
     eleventyConfig.addWatchTarget("src/js");
+    
+    eleventyConfig.on('afterBuild', () => {
+        // after first starting the server, the result is buggy,propably due to some race condition during image processing. We always need to reload after the first serve is ready. Touch a file to trigger a reload. I do not know how to do this programmatically
+        if (firstRun) {
+            let file = "./src/triggerReload.njk"
+            function touchFileAfterTimeout() {
+                return new Promise((resolve) => {
+                    setTimeout(() => {
+                        if (fs.existsSync(file))
+                            fs.unlinkSync(file)
+                        fs.writeFile(file, "", function (err) {
+                            if (err) throw err
+                            console.log("created file to trigger a reload")
+                            resolve()
+                        })
+                    }, 1000)
+                })
+            }
+            
+            async function f1() {
+                await touchFileAfterTimeout()
+            }
+            
+            f1()
+        }
+        firstRun = false
+    })
 
-    eleventyConfig.addPassthroughCopy("src/CNAME");
-
-    let createSortedCollection = function(lang) {
-        eleventyConfig.addCollection(`articles_${lang}`,
+    let createSortedCollection = function(year, lang) {
+        eleventyConfig.addCollection(`articles_${year}_${lang}`,
         (collection) => collection
-            .getFilteredByGlob(`./src/${lang}/articles/*.md`)
+            .getFilteredByGlob(`./src/${year}/${lang}/articles/*.md`)
             .sort((a, b) => {
-                console.assert((articleOrder[lang].includes(a.fileSlug)), `Missing order for ${a.fileSlug}`);
-                return articleOrder[lang].indexOf(a.fileSlug) - articleOrder[lang].indexOf(b.fileSlug);
+                console.assert((articleOrder[lang+year].includes(a.fileSlug)), `Missing order for ${a.fileSlug}`);
+                return articleOrder[lang+year].indexOf(a.fileSlug) - articleOrder[lang+year].indexOf(b.fileSlug);
             })
             .map(e => {
                 // we could do some custom processing here
@@ -183,8 +211,11 @@ module.exports = function(eleventyConfig) {
     }
     
     // Articles: https://docs.google.com/spreadsheets/d/1pC-qmOUWU6diB3jMjgpbRYse9seF1wOx_XF3gJBeTC4/edit#gid=0
-    createSortedCollection("vi")
-    createSortedCollection("en")
+    createSortedCollection("2022", "en")
+    createSortedCollection("2022", "vi")
+
+    createSortedCollection("2023", "en")
+    createSortedCollection("2023", "vi")
 
     // https://www.11ty.dev/docs/languages/nunjucks/#generic-global
     eleventyConfig.addNunjucksGlobal("articleCalligraphies", function(fileSlug) {

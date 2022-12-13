@@ -1,4 +1,4 @@
-{% set articles = collections["articles_" + locale] %}
+{% set articles = collections["articles_" + year + "_" + locale] %}
 {%- for article in articles -%}
     {% set newLine = "\n" %}
     {% set newSlug = article.data.author | slugify

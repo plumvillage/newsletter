@@ -7,7 +7,7 @@ module.exports = {
     builds: ["articles", "articles-print-preview"],
     layout: "layouts/article",
     subLayout: ["layouts/web.njk", "layouts/print-frame.njk"],
-    permalink: "/{{ locale }}/{{ builds[pagination.pageNumber] }}/{{ page.fileSlug }}/",
+    permalink: "/{{ year }}/{{ locale }}/{{ builds[pagination.pageNumber] }}/{{ page.fileSlug }}/",
     locale: "en",
     size_label: "A4",
     size: "A4",

@@ -194,8 +194,6 @@ async function generatePDF(url, outputFile, onFinished = () => {}, customPdfOpti
     });
 }
 
-// execCMD("rm -rf ./docs/articles-print/*")
-
 let todoNext = 0;
 let workInProgress = 0;
 

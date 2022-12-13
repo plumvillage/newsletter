@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8" />
     {% set i18n = site[locale] %}
-    {% set articles = collections["articles_" + locale] %}
+    {% set articles = collections["articles_" + year + "_" + locale] %}
     {%- if title %}
         <title>{{ title }}</title>
     {% else %}
