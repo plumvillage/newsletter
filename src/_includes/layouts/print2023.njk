@@ -1,0 +1,67 @@
+{% extends "layouts/print-frame.njk" %}
+{% block content %}
+
+{% set bleedClass = " bleed" if (bleed != "0mm") else "" %}
+
+<div class="front-collage{{ bleedClass }}">
+    {% image ["LTLM46-DSC_8458.jpg"] | join %}
+    {# {% image ["LTLM46-DSC_8458-", size_label ," ", locale ,"", bleedClass ,".jpg"] | join %} #}
+</div>
+
+{# <div class="empty-page"></div> #}
+
+
+<div id="table-of-contents">
+    <h1>{{ i18n.toc }}</h1>
+    <ul class="toc">
+        {%- for article in articles -%}
+            {%- if article.data.chapter -%}
+            <li class="chapterLi" id="li-{{ article.data.title | slugify }}">
+                <a class="" href="#{{ article.data.title | slugify }}">
+                <span class="toc-chapter-title">{{ article.data.title }}</span>
+            {%- else -%}
+            <li id="li-{{ article.data.title | slugify }}">
+                <a class="toc-links" href="#{{ article.data.title | slugify }}">
+                <span class="toc-title">{{ article.data.title }}</span>
+                {%- if not article.data.author == "" -%}
+                <br/><span class="toc-author">{{ article.data.author }}</span>
+                {%- endif -%}
+            {%- endif -%}
+            </a></li>
+        {%- endfor -%}
+    </ul>
+</div>
+
+{%- for article in articles -%}
+    {% set title = article.data.title %}
+    {% set author = article.data.author %}
+    {% set content = article.data.content %}
+    {% set fileSlug = article.fileSlug %}
+
+    {%- if article.data.chapter -%}
+        <section class="chapter" id="{{ title | slugify }}">
+            <h1>{{ title }}</h1>
+            {{ content | safe }}
+        </section>
+    {%- else -%}
+        {# this code is duplicated in article.njk. trying to factor it out have failed, because of the async call to image. #}
+        <article class="article-{{ title | slugify }}">
+            {% set artCall = articleCalligraphies(fileSlug) %}
+            {%- if artCall.hasCalligraphy %}
+                <h1 id="{{ title | slugify }}" class="calligraphyTitle">
+                    {# <img class="articleCalligraphy" src="{{ artCall.calligraphyFile }}"> #}
+                    {% image artCall.calligraphyFile, "articleCalligraphy" %}
+                </h1>
+            {%- else %}
+                <h1 id="{{ title | slugify }}">{{ title }}</h1>
+            {%- endif %}
+
+            <h2 class="author">{{ author }}</h2>
+            {{ content | safe }}
+            <div class="article-end"></div>
+        </article>
+    {%- endif -%}
+{%- endfor -%}
+
+
+{% endblock %}

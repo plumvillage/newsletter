@@ -2,9 +2,6 @@ const puppeteer = require('puppeteer');
 const fs = require('fs');
 const path = require("path");
 const { exec } = require('child_process');
-const articleOrder = {}
-articleOrder.vi = require("./src/_data/article-order-vi.js");
-articleOrder.en = require("./src/_data/article-order-en.js");
 
 // we want the link to remain unchanged even when new revisions are being uploaded with a timestamp
 let netlifyRedirects = `# for Netlify, see https://docs.netlify.com/routing/redirects/#syntax-for-the-redirects-file\n`;
@@ -125,7 +122,7 @@ gs -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/e
     console.log("exec: ", command)
 
     execCMD(command, () => {
-        execCMD(`ln -sf ${outName(parsed.name)} ./docs/${outName(parsedWithoutDate.name)} `)
+        execCMD(`ln -sf ${outName(parsed.name)} ${outputFileWithoutDate} `)
         onFinished(outputFile)
     })
 }
@@ -201,17 +198,20 @@ let workInProgress = 0;
 // all jobs are assumed to continueWork() by themselves after being finished
 // we first generate all raw PDFs. onFinished() adds the downsample jobs to this queue and then proceeds execution with more threads (because the downsample is not as memory-hungry)
 let workQueue = [
-    () => generatePDF("http://localhost:8080/en/a4/", `./docs/en-a4`, onFinshed),
-    () => generatePDF("http://localhost:8080/en/a4-bleed/", `./docs/en-a4-bleed`, onFinshed),
-    // US Letter: 11in x 8.5in
-    () => generatePDF("http://localhost:8080/en/letter/", `./docs/en-letter`, onFinshed, {format: "Letter"}),
-    // US Letter +.125 x2
-    () => generatePDF("http://localhost:8080/en/letter-bleed/", `./docs/en-letter-bleed`, onFinshed, {height: "11.25in", width: "8.75in"}),
-
-    () => generatePDF("http://localhost:8080/vi/a4/", `./docs/vi-a4`, onFinshed),
-    () => generatePDF("http://localhost:8080/vi/a4-bleed/", `./docs/vi-a4-bleed`, onFinshed),
+    () => generatePDF("http://localhost:8080/2023/en/a4/", `./docs/2023/en-a4`, onFinshed),
     
-    // () => onFinshed("./docs/en-a4_2022-03-19_20-28-32.pdf", "./docs/en-a4.pdf"),
+
+    // () => generatePDF("http://localhost:8080/2022/en/a4/", `./docs/2022/en-a4`, onFinshed),
+    // () => generatePDF("http://localhost:8080/2022/en/a4-bleed/", `./docs/2022/en-a4-bleed`, onFinshed),
+    // // US Letter: 11in x 8.5in
+    // () => generatePDF("http://localhost:8080/2022/en/letter/", `./docs/2022/en-letter`, onFinshed, {format: "Letter"}),
+    // // US Letter +.125in x2
+    // () => generatePDF("http://localhost:8080/2022/en/letter-bleed/", `./docs/2022/en-letter-bleed`, onFinshed, {height: "11.25in", width: "8.75in"}),
+
+    // () => generatePDF("http://localhost:8080/2022/vi/a4/", `./docs/2022/vi-a4`, onFinshed),
+    // () => generatePDF("http://localhost:8080/2022/vi/a4-bleed/", `./docs/2022/vi-a4-bleed`, onFinshed),
+    
+    // () => onFinshed("./docs/2022/en-a4_2022-03-19_20-28-32.pdf", "./docs/2022/en-a4.pdf"),
     () => {
         console.log("begin downsampling. More hands! :)")
         Array(6).fill().forEach(startWork);
@@ -221,6 +221,7 @@ let workQueue = [
 
 var onFinshed = function(file, fileWithoutDate) {
     let parsed = path.parse(file)
+    // ln target linkname
     execCMD(`ln -sf ${parsed.base} ${fileWithoutDate}`)
     // ;\nfirefox ${fileWithoutDate}
 
@@ -263,19 +264,8 @@ function continueWork() {
 }
 
 
-let dir = `./docs/articles_${formatDate(new Date())}`
-let generateArticles = false
-if (generateArticles) {
-    fs.mkdirSync(dir)
-    for (let article of articleOrder.en) {
-        let url = `http://localhost:8080/en/articles-print-preview/${article}/`
-        workQueue.push(() => generatePDF(url, `${dir}/${article}.pdf`, onFinshed))
-    }
-}
-
-
-// generatePDF("http://fee:8080/en/articles-print-preview/sr-thuan-khanh--at-the-foot-of-the-majestic-mountain/", `./builds/at-the-foot-of-the-majestic-mountain`)
+// generatePDF("http://fee:8080/2022/en/articles-print-preview/sr-thuan-khanh--at-the-foot-of-the-majestic-mountain/", `./builds/at-the-foot-of-the-majestic-mountain`)
 
 // concurrent.
 // for full-size pdf, 2 is very memory intense (16GB recommended)
-Array(1).fill().forEach(startWork);
+Array(4).fill().forEach(startWork);
