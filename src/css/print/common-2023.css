@@ -12,8 +12,8 @@ body {
     counter-reset: chapternum figurenum ;
     font-family: "Gentium Book Plus", serif;
     /* in the chrome preview (not in Firefox), the first page will be blank when using line-height 14, instead of 16 pt. */
-    /* line-height: 14pt; */
-    line-height: 16pt;
+    line-height: 14pt;
+    /* line-height: 16pt; */
     font-size: 11pt;
     /* https://software.sil.org/gentium/features/ */
     font-feature-settings:
