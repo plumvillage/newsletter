@@ -13,7 +13,6 @@ const calligraphyPath = "calligraphy/article-titles/"
 let firstRun = true
 
 var articleTitleCalligraphies = fs.readdirSync(`src/media/originals/${calligraphyPath}`)
-// var articleTitleCalligraphies = fs.readdirSync(`src/media/publish/${calligraphyPath}`)
 
 async function imageShortcode(src, optClasses = "", imgLabel = "") {
     let result = await imageData(src)

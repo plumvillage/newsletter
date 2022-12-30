@@ -7,6 +7,8 @@ author: Sister Chân Đức
 
 **PV Newsletter:** What do Engaged Buddhism and Applied Buddhism mean to you?
 
+## Heading 2
+
 **Sr. Chan Duc**: Until the early years of this millennium, Thay used the words “Engaged Buddhism”. When we thought about Plum Village, we thought about Engaged Buddhism. Thay became famous in the West because of Engaged Buddhism.
 
 In the West, Japanese Buddhism was the first kind of Buddhism that came to the United States and it concentrated a lot on sitting meditation. In the 1960s, Thay came to the West to call called for peace in Vietnam. The idea that we needed to bring Buddhism into the world was new.

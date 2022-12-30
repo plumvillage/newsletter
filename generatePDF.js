@@ -128,21 +128,23 @@ gs -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/e
 }
 
 async function generatePDF(url, outputFile, onFinished = () => {}, customPdfOptions = {}) {
-    let outputFileWithoutDate = `${outputFile}.pdf`;
-    outputFile = `${outputFile}_${formatDate(new Date())}.pdf`;
+    let outputFileWithoutDate = `${outputFile}.pdf`
+    outputFile = `${outputFile}_${formatDate(new Date())}.pdf`
 
-    // regardless of which I choose, the pdf output and the in-browser pdf output are different: the font flows slightly different (e.g. kerning, justification)
     const browser = await puppeteer.launch({
+        // this will fix Inconsistent text rendering in headless mode
+        // https://github.com/puppeteer/puppeteer/issues/2410
+        args: ['--font-render-hinting=none'],
         // executablePath: "/usr/bin/google-chrome-stable"
         // executablePath: "/usr/bin/chromium-browser"
-    });
-
-    const page = await browser.newPage();
-    const version = await page.browser().version();
+    })
+    
+    const page = await browser.newPage()
+    const version = await page.browser().version()
     console.log(version)
-    await page.setDefaultNavigationTimeout(0);
+    await page.setDefaultNavigationTimeout(0)
     // "load" does not work!
-    await page.goto(url, {waitUntil: 'networkidle0'});
+    await page.goto(url, {waitUntil: 'networkidle0'})
     
     // works: [webp 3000 q50]
     // for very high quality webp [webp 4000 q50] I am getting: Protocol error (Page.printToPDF): Printing failed
@@ -272,6 +274,7 @@ function continueWork() {
 }
 
 generatePDF("http://localhost:8080/2023/en/articles-print-preview/sr-chan-duc--interview/", `./docs/2023/en/articles-print-preview/sr-chan-duc--interview`, onFinshed)
+
 
 // concurrent.
 // for full-size pdf, 2 is very memory intense (16GB recommended)

@@ -41,6 +41,7 @@ Because of a bug that currently renders 4 columns on first run, you need to trig
 - [A comparison of different html2pdf tools](https://azettl.github.io/html2pdf/)
 
 ## Bugs & ToDos
+ - http://fee:8080/2023/en/articles-print-preview/sr-chan-duc--interview/ fix page-break after author in chrome (works in firefox)
  - The (in Browser) Print Preview and the actual PDF output from Puppeteer are not identical. the font flows slightly different (e.g. kerning, justification). Very annoying, because I cannot 100% predict the output from the preview. Generally, Puppeteer needs less space.
  - Images that are rotated with EXIF are not processed correctly, see https://stackoverflow.com/questions/48716266/sharp-image-library-rotates-image-when-resizing
  - Image processing is not parallel. Makes the first serve very slow.

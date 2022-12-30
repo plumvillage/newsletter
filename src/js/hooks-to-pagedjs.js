@@ -14,7 +14,7 @@ function addClassToPageDIV(e, className) {
 let fullText = "";
 var client = new XMLHttpRequest();
 // extracted text from /vi/a4-bleed/index.html
-client.open('GET', '/fullText.txt');
+client.open('GET', '/2022/fullText.txt');
 client.onreadystatechange = function() {
     fullText = client.responseText
     if(fullText.includes("�")) {
@@ -101,7 +101,7 @@ class MyHandler extends Paged.Handler {
         })
 
         // put stamp on every page
-        if (false) {
+        if (true) {
             document.querySelectorAll('.hasContent .pagedjs_margin-content').forEach(el => {
                 el.innerHTML += `<datetime class="lastmod">${document.lastModified}</datetime>`;
             });

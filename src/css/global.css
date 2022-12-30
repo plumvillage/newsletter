@@ -28,54 +28,67 @@
 
 
 /* "Gentium Book Plus" family with a slightly heavier weight which may be useful at small sizes. */
-
 @font-face {
     font-family: "Gentium Book Plus";
-    src: url("fonts/GentiumBookPlus-Regular.woff2") format("woff2"),
-    local("GentiumBookPlus-Regular");
+    src:
+    /* this does not work in firefox, although the font file has this name */
+    /* local("GentiumBookPlus-Regular") */
+    local("GentiumBookPlus")
+    ,
+    url("fonts/GentiumBookPlus-Regular.woff2")
+    ;
 }
 
 @font-face {
     font-family: "Gentium Book Plus";
-    src: url("fonts/GentiumBookPlus-Bold.woff2") format("woff2"),
-    local("GentiumBookPlus-Bold");
+    src:
+    local("GentiumBookPlus-Bold")
+    ,
+    url("fonts/GentiumBookPlus-Bold.woff2")
+    ;
     font-weight: bold;
 }
 
 @font-face {
     font-family: "Gentium Book Plus";
-    src: url("fonts/GentiumBookPlus-BoldItalic.woff2") format("woff2"),
-    local("GentiumBookPlus-BoldItalic");
-    font-weight: bold;
-    font-style: italic;
-}
-
-@font-face {
-    font-family: "Gentium Book Plus";
-    src: url("fonts/GentiumBookPlus-Italic.woff2") format("woff2"),
-    local("GentiumBookPlus-Italic");
-    font-style: italic;
-}
-
-
-@font-face {
-    font-family: "Gentium Plus";
-    src: url("fonts/GentiumPlus-Regular.woff2") format("woff2");
-}
-@font-face {
-    font-family: "Gentium Plus";
-    src: url("fonts/GentiumPlus-Bold.woff2") format("woff2");
-    font-weight: bold;
-}
-@font-face {
-    font-family: "Gentium Plus";
-    src: url("fonts/GentiumPlus-BoldItalic.woff2") format("woff2");
+    src:
+    local("GentiumBookPlus-BoldItalic")
+    ,
+    url("fonts/GentiumBookPlus-BoldItalic.woff2")
+    ;
     font-weight: bold;
     font-style: italic;
 }
+
+@font-face {
+    font-family: "Gentium Book Plus";
+    src:
+    local("GentiumBookPlus-Italic")
+    ,
+    url("fonts/GentiumBookPlus-Italic.woff2")
+    ;
+    font-style: italic;
+}
+
+
 @font-face {
     font-family: "Gentium Plus";
-    src: url("fonts/GentiumPlus-Italic.woff2") format("woff2");
+    src: url("fonts/GentiumPlus-Regular.woff2");
+}
+@font-face {
+    font-family: "Gentium Plus";
+    src: url("fonts/GentiumPlus-Bold.woff2");
+    font-weight: bold;
+}
+@font-face {
+    font-family: "Gentium Plus";
+    src: url("fonts/GentiumPlus-BoldItalic.woff2");
+    font-weight: bold;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Gentium Plus";
+    src: url("fonts/GentiumPlus-Italic.woff2");
     font-style: italic;
 }
 
@@ -161,6 +174,7 @@ https://github.com/CatharsisFonts/Cormorant
     font-family: "CormorantSC-Bold";
     src: url("fonts/CormorantSC-Bold.woff2") format("woff2");
 }
+
 /* @font-face {
     font-family: "CormorantSC-Medium";
     src: url("fonts/CormorantSC-Medium.woff2") format("woff2");
