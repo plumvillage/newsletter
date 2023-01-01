@@ -5,4 +5,5 @@ module.exports = [
 "br-phap-luu--thay-in-my-heart",
 "sr-dao-nghiem--my-journey-with-thay",
 "ha-vinh-tho--meeting-my-teacher",
+"young-ones",
 ]
