@@ -131,14 +131,19 @@ async function generatePDF(url, outputFile, onFinished = () => {}, customPdfOpti
     let outputFileWithoutDate = `${outputFile}.pdf`
     outputFile = `${outputFile}_${formatDate(new Date())}.pdf`
 
+    let args = []
+    // this will fix Inconsistent text rendering in headless mode
+    // https://github.com/puppeteer/puppeteer/issues/2410
+    // we disable it in the 2022 edition, because it was layed out/optimised without this improvement
+    if (!url.includes("/2022/"))
+        args.push("--font-render-hinting=none")
+    
     const browser = await puppeteer.launch({
-        // this will fix Inconsistent text rendering in headless mode
-        // https://github.com/puppeteer/puppeteer/issues/2410
-        args: ['--font-render-hinting=none'],
+        args: args,
         // executablePath: "/usr/bin/google-chrome-stable"
         // executablePath: "/usr/bin/chromium-browser"
     })
-    
+
     const page = await browser.newPage()
     const version = await page.browser().version()
     console.log(version)
@@ -200,7 +205,7 @@ let workInProgress = 0;
 // all jobs are assumed to continueWork() by themselves after being finished
 // we first generate all raw PDFs. onFinished() adds the downsample jobs to this queue and then proceeds execution with more threads (because the downsample is not as memory-hungry)
 let workQueue = [
-    () => generatePDF("http://localhost:8080/2023/en/a4/", `./docs/2023/en-a4`, onFinshed),
+    // () => generatePDF("http://localhost:8080/2023/en/a4/", `./docs/2023/en-a4`, onFinshed),
     // () => generatePDF("http://localhost:8080/2023/en/a4-bleed/", `./docs/2023/en-a4-bleed`, onFinshed),
     // // US Letter: 11in x 8.5in
     // () => generatePDF("http://localhost:8080/2023/en/letter/", `./docs/2023/en-letter`, onFinshed, {format: "Letter"}),
@@ -213,15 +218,16 @@ let workQueue = [
 
     // () => generatePDF("http://localhost:8080/2022/en/a4/", `./docs/2022/en-a4`, onFinshed),
     // () => generatePDF("http://localhost:8080/2022/en/a4-bleed/", `./docs/2022/en-a4-bleed`, onFinshed),
-    // // US Letter: 11in x 8.5in
-    // () => generatePDF("http://localhost:8080/2022/en/letter/", `./docs/2022/en-letter`, onFinshed, {format: "Letter"}),
-    // // US Letter +.125in x2
-    // () => generatePDF("http://localhost:8080/2022/en/letter-bleed/", `./docs/2022/en-letter-bleed`, onFinshed, {height: "11.25in", width: "8.75in"}),
+    // US Letter: 11in x 8.5in
+    () => generatePDF("http://localhost:8080/2022/en/letter/", `./docs/2022/en-letter`, onFinshed, {format: "Letter"}),
+    // US Letter +.125in x2
+    () => generatePDF("http://localhost:8080/2022/en/letter-bleed/", `./docs/2022/en-letter-bleed`, onFinshed, {height: "11.25in", width: "8.75in"}),
 
     // () => generatePDF("http://localhost:8080/2022/vi/a4/", `./docs/2022/vi-a4`, onFinshed),
     // () => generatePDF("http://localhost:8080/2022/vi/a4-bleed/", `./docs/2022/vi-a4-bleed`, onFinshed),
     
     // () => onFinshed("./docs/2022/en-a4_2022-03-19_20-28-32.pdf", "./docs/2022/en-a4.pdf"),
+
     () => {
         console.log("begin downsampling. More hands! :)")
         Array(6).fill().forEach(startWork);
@@ -235,12 +241,12 @@ var onFinshed = function(file, fileWithoutDate) {
     execCMD(`ln -sf ${parsed.base} ${fileWithoutDate}`)
     // ;\nfirefox ${fileWithoutDate}
 
-    // workQueue.push(() => downsample(file, fileWithoutDate, 500, 0.3, continueWork))
-    // workQueue.push(() => downsample(file, fileWithoutDate, 300, 0.05, continueWork))
-    // workQueue.push(() => downsample(file, fileWithoutDate, 250, 1.5, (generatedFile) => {
-    //     // we could to some custom task here.
-    //     continueWork()
-    // }))
+    workQueue.push(() => downsample(file, fileWithoutDate, 500, 0.3, continueWork))
+    workQueue.push(() => downsample(file, fileWithoutDate, 300, 0.05, continueWork))
+    workQueue.push(() => downsample(file, fileWithoutDate, 250, 1.5, (generatedFile) => {
+        // we could to some custom task here.
+        continueWork()
+    }))
     continueWork()
 }
 
@@ -278,4 +284,4 @@ generatePDF("http://localhost:8080/2023/en/articles-print-preview/sr-chan-duc--i
 
 // concurrent.
 // for full-size pdf, 2 is very memory intense (16GB recommended)
-Array(4).fill().forEach(startWork);
+Array(1).fill().forEach(startWork);

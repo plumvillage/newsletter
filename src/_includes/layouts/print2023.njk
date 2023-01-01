@@ -4,7 +4,7 @@
 {% set bleedClass = " bleed" if (bleed != "0mm") else "" %}
 
 <div class="front-collage{{ bleedClass }}">
-    {% image ["LTLM46-DSC_8458.jpg"] | join %}
+    {% image ["LTLM46-2023 cover.jpg"] | join %}
     {# {% image ["LTLM46-DSC_8458-", size_label ," ", locale ,"", bleedClass ,".jpg"] | join %} #}
 </div>
 
@@ -62,6 +62,16 @@
         </article>
     {%- endif -%}
 {%- endfor -%}
+
+
+
+
+
+<div class="empty-page"></div>
+
+<div class="back-collage{{ bleedClass }}">
+    {% image "LTLM46-046.DOM.25.SEP.2022_A4.jpg" %}
+</div>
 
 
 {% endblock %}

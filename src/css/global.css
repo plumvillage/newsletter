@@ -33,8 +33,8 @@
 @font-face {
     font-family: "Gentium Book Plus";
     src:
-    url("fonts/GentiumBookPlus-Regular-ManualLineHeight.woff2")
-    ,
+    /* url("fonts/GentiumBookPlus-Regular-ManualLineHeight.woff2")
+    , */
     local("GentiumBookPlus")
     ,
     url("fonts/GentiumBookPlus-Regular.woff2")
@@ -44,11 +44,11 @@
 @font-face {
     font-family: "Gentium Book Plus";
     src:
-    url("fonts/GentiumBookPlus-Bold-ManualLineHeight.woff2")
+    /* url("fonts/GentiumBookPlus-Bold-ManualLineHeight.woff2")
+    , */
+    local("GentiumBookPlus-Bold")
     ,
     url("fonts/GentiumBookPlus-Bold.woff2")
-    ,
-    local("GentiumBookPlus-Bold")
     ;
     font-weight: bold;
 }
@@ -56,8 +56,8 @@
 @font-face {
     font-family: "Gentium Book Plus";
     src:
-    url("fonts/GentiumBookPlus-BoldItalic-ManualLineHeight.woff2")
-    ,
+    /* url("fonts/GentiumBookPlus-BoldItalic-ManualLineHeight.woff2")
+    , */
     local("GentiumBookPlus-BoldItalic")
     ,
     url("fonts/GentiumBookPlus-BoldItalic.woff2")
@@ -69,8 +69,8 @@
 @font-face {
     font-family: "Gentium Book Plus";
     src:
-    url("fonts/GentiumBookPlus-Italic-ManualLineHeight.woff2")
-    ,
+    /* url("fonts/GentiumBookPlus-Italic-ManualLineHeight.woff2")
+    , */
     local("GentiumBookPlus-Italic")
     ,
     url("fonts/GentiumBookPlus-Italic.woff2")

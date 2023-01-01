@@ -642,8 +642,9 @@ html:lang(en) article p {
 article p, article blockquote {
     /* DEFAULT. To be refined below ... */
     margin: 0;
-    orphans: 2;
-    widows: 2;
+    /* does not work in Firefox, but in Chrome. Very strange. */
+    orphans: 3;
+    widows: 3;
 }
 
 article p:not(.editors-preface) + p,
@@ -656,10 +657,9 @@ html:lang(vi) article .verse + p
     margin-top: 11pt;
 }
 
-/* TODO. breaks chromium 105 print preview. breaks page before ... wierd */
-/* article h2 {
+article h2 {
     page-break-after: avoid;
-} */
+}
 
 html:lang(vi) article h2:not(.author) + p {
     text-indent: 16pt;

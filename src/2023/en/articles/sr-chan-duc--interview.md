@@ -25,6 +25,10 @@ Thay responded that Applied Ethics should contain four elements: the first eleme
 
 Yesterday a retreatant who works in conflict resolution came to me and said she is completely depleted. Since the mediators do not take sides in a conflict situation, they get a great deal of hatred coming toward them. I told her to stay in Plum Village until her batteries were recharged again. That is very important. Sister Chan Khong and other members of the School of Youth for Social Service had to have a place to come to every week in order to recharge themselves. To me, it is enough to offer this place. I am not aware of any pressure to be doing more than taking care of Plum Village such that it can be a refuge. I do think it is necessary to look at ourselves and ask, “Am I doing all I can?” And if somebody says you are not, listen to them and then ask yourself, “Is there something I can be doing more?” Please be honest. What we can offer also depends on our health. Many people say that they are very grateful to us. Please remind yourself of that gratitude.
 
+**TEST ARTIFICIAL HEADING:**
+
+What impact have you seen the practice had on the climate crisis or situations of war?
+
 **PV Newsletter:** What impact have you seen the practice had on the climate crisis or situations of war?
 
 **Sr. Chan Duc:** There cannot be an immediate impact. Wars and climate change have causes and conditions that have been laid down for many years. Now we have to make sure not to do things that lead to more wars in the future. When we were protesting in Greenham Common (in the early 1980s) by surrounding the nuclear weapon base, I do not know if it had any impact, but in the end the Americans left. I do not know if it had anything to do with us or not. You cannot really know.

@@ -32,7 +32,7 @@ async function imageData(src) {
     // use images that are already build without going through the slow Image()
     let fastProcess = true
     let justCopy = false
-
+    
     let maxWidth = 700
     let quality = 80
     // let maxWidth = 1500;
@@ -158,13 +158,15 @@ function easingGradient(start = 0, end = 100, stops = 8, smoothness = 3) {
 }
 
 module.exports = function(eleventyConfig) {
-    eleventyConfig.addPassthroughCopy("src/pagedjs");
+    eleventyConfig.addPassthroughCopy("src/pagedjs")
+
+    eleventyConfig.addPassthroughCopy("src/media/originals/passthroughCopies/")
     
-    eleventyConfig.addPassthroughCopy("src/css");
-    eleventyConfig.addWatchTarget("src/css");
+    eleventyConfig.addPassthroughCopy("src/css")
+    eleventyConfig.addWatchTarget("src/css")
     
-    eleventyConfig.addPassthroughCopy("src/js");
-    eleventyConfig.addWatchTarget("src/js");
+    eleventyConfig.addPassthroughCopy("src/js")
+    eleventyConfig.addWatchTarget("src/js")
     
     eleventyConfig.on('afterBuild', () => {
         // after first starting the server, the result is buggy,propably due to some race condition during image processing. We always need to reload after the first serve is ready. Touch a file to trigger a reload. I do not know how to do this programmatically

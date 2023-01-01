@@ -5,16 +5,16 @@ function addClassToPageDIV(e, className) {
         if (e.tagName == "DIV" && e.classList.contains('pagedjs_page')) {
             e.classList.add(className)
             // console.log("added to:", e, className)
-            break;
+            break
         }
     }
 }
 
 
-let fullText = "";
-var client = new XMLHttpRequest();
+let fullText = ""
+var client = new XMLHttpRequest()
 // extracted text from /vi/a4-bleed/index.html
-client.open('GET', '/2022/fullText.txt');
+client.open('GET', '/media/originals/passthroughCopies/2022-vi-fullText.txt')
 client.onreadystatechange = function() {
     fullText = client.responseText
     if(fullText.includes("�")) {
@@ -22,13 +22,13 @@ client.onreadystatechange = function() {
     }
     // console.log(fullText)
 }
-client.send();
+client.send()
 
 
 // https://www.pagedjs.org/documentation/11-hooks/
 class MyHandler extends Paged.Handler {
     constructor(chunker, polisher, caller) {
-        super(chunker, polisher, caller);
+        super(chunker, polisher, caller)
     }
 
     // beforePageLayout() already has � BUG
