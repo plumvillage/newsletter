@@ -30,11 +30,12 @@
 /* Book Plus has a slightly heavier weight which may be useful at small sizes. */
 /* in firefox, local("GentiumBookPlus-Regular") does not work, although the font file has this name */
 /* I needed to manually reduce the standard line height of the font (copied from Gentium Basic). Otherwise, in chrome (only), pagedjs will render wrongly (when the set line height is less then the what is set in the font) */
+/* ManualLineHeight will break the 2022 edition */
 @font-face {
     font-family: "Gentium Book Plus";
     src:
-    /* url("fonts/GentiumBookPlus-Regular-ManualLineHeight.woff2")
-    , */
+    url("fonts/GentiumBookPlus-Regular-ManualLineHeight.woff2")
+    ,
     local("GentiumBookPlus")
     ,
     url("fonts/GentiumBookPlus-Regular.woff2")
@@ -44,8 +45,8 @@
 @font-face {
     font-family: "Gentium Book Plus";
     src:
-    /* url("fonts/GentiumBookPlus-Bold-ManualLineHeight.woff2")
-    , */
+    url("fonts/GentiumBookPlus-Bold-ManualLineHeight.woff2")
+    ,
     local("GentiumBookPlus-Bold")
     ,
     url("fonts/GentiumBookPlus-Bold.woff2")
@@ -56,8 +57,8 @@
 @font-face {
     font-family: "Gentium Book Plus";
     src:
-    /* url("fonts/GentiumBookPlus-BoldItalic-ManualLineHeight.woff2")
-    , */
+    url("fonts/GentiumBookPlus-BoldItalic-ManualLineHeight.woff2")
+    ,
     local("GentiumBookPlus-BoldItalic")
     ,
     url("fonts/GentiumBookPlus-BoldItalic.woff2")
@@ -69,8 +70,8 @@
 @font-face {
     font-family: "Gentium Book Plus";
     src:
-    /* url("fonts/GentiumBookPlus-Italic-ManualLineHeight.woff2")
-    , */
+    url("fonts/GentiumBookPlus-Italic-ManualLineHeight.woff2")
+    ,
     local("GentiumBookPlus-Italic")
     ,
     url("fonts/GentiumBookPlus-Italic.woff2")

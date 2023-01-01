@@ -41,8 +41,5 @@ Because of a bug that currently renders 4 columns on first run, you need to trig
 - [A comparison of different html2pdf tools](https://azettl.github.io/html2pdf/)
 
 ## Bugs & ToDos
- - Images that are rotated with EXIF are not processed correctly, see https://stackoverflow.com/questions/48716266/sharp-image-library-rotates-image-when-resizing
  - Eleventy Image processing is not parallel.
  - Sometimes paragraphs (and images) do not break correctly to the next page. See src/media/documentation/BugTextFragment.webp. The fragment ends up in the top right corner (or outside) of the page.
- - H2 are left as the last column element, even though page-break-after: avoid; is set
- - for very large files: ProtocolError: Protocol error (Page.printToPDF): Printing failed
