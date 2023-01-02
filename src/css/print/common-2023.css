@@ -1,18 +1,16 @@
 @charset "UTF-8";
 
-/* this stylesheet is used when generating a PDF */
 :root {
     --bleed: 5mm;
 }
 
-/* reset chapter and figure counters on the body */
 body {
     margin: 0;
     padding: 0;
     counter-reset: chapternum figurenum ;
-    font-family: "Gentium Book Plus", serif;
+    font-family: "Gentium Book Plus ManualLineHeight", serif;
     /* in the chrome preview (not in Firefox), the first page will be blank when using line-height 14, instead of 16 pt. */
-    line-height: 14pt;
+    line-height: 14pt; /* ~125% has proven good */
     /* line-height: 16pt; */
     font-size: 11pt;
     /* https://software.sil.org/gentium/features/ */
@@ -908,15 +906,22 @@ article ul li::before {
 /* ////////////////////////////////////////////////// */
 /* ////////////////////////////////////////////////// */
 
+
+
 h2.young-ones-center-heading {
     column-span: all;
     font-size: 24pt;
-    line-height: 30pt;
-    width: 60%;
+    line-height: 125%;
+    width: 67%;
     text-align: center;
-    margin-left: 20%;
+    margin-left: auto;
+    margin-right: auto;
     margin-top: 4%;
     margin-bottom: 5%;
+}
+
+.article-young-buds-glistening-in-the-sunshine .front-collage figure {
+    margin-top: 0 !important;
 }
 
 .article-young-buds-glistening-in-the-sunshine blockquote p {

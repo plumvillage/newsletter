@@ -205,7 +205,7 @@ let workInProgress = 0;
 // all jobs are assumed to continueWork() by themselves after being finished
 // we first generate all raw PDFs. onFinished() adds the downsample jobs to this queue and then proceeds execution with more threads (because the downsample is not as memory-hungry)
 let workQueue = [
-    // () => generatePDF("http://localhost:8080/2023/en/a4/", `./docs/2023/en-a4`, onFinshed),
+    () => generatePDF("http://localhost:8080/2023/en/a4/", `./docs/2023/en-a4`, onFinshed),
     // () => generatePDF("http://localhost:8080/2023/en/a4-bleed/", `./docs/2023/en-a4-bleed`, onFinshed),
     // // US Letter: 11in x 8.5in
     // () => generatePDF("http://localhost:8080/2023/en/letter/", `./docs/2023/en-letter`, onFinshed, {format: "Letter"}),
@@ -216,12 +216,12 @@ let workQueue = [
     // () => generatePDF("http://localhost:8080/2023/vi/a4-bleed/", `./docs/2023/vi-a4-bleed`, onFinshed),
     
 
-    // () => generatePDF("http://localhost:8080/2022/en/a4/", `./docs/2022/en-a4`, onFinshed),
+    () => generatePDF("http://localhost:8080/2022/en/a4/", `./docs/2022/en-a4`, onFinshed),
     // () => generatePDF("http://localhost:8080/2022/en/a4-bleed/", `./docs/2022/en-a4-bleed`, onFinshed),
     // US Letter: 11in x 8.5in
-    () => generatePDF("http://localhost:8080/2022/en/letter/", `./docs/2022/en-letter`, onFinshed, {format: "Letter"}),
+    // () => generatePDF("http://localhost:8080/2022/en/letter/", `./docs/2022/en-letter`, onFinshed, {format: "Letter"}),
     // US Letter +.125in x2
-    () => generatePDF("http://localhost:8080/2022/en/letter-bleed/", `./docs/2022/en-letter-bleed`, onFinshed, {height: "11.25in", width: "8.75in"}),
+    // () => generatePDF("http://localhost:8080/2022/en/letter-bleed/", `./docs/2022/en-letter-bleed`, onFinshed, {height: "11.25in", width: "8.75in"}),
 
     // () => generatePDF("http://localhost:8080/2022/vi/a4/", `./docs/2022/vi-a4`, onFinshed),
     // () => generatePDF("http://localhost:8080/2022/vi/a4-bleed/", `./docs/2022/vi-a4-bleed`, onFinshed),
@@ -241,8 +241,8 @@ var onFinshed = function(file, fileWithoutDate) {
     execCMD(`ln -sf ${parsed.base} ${fileWithoutDate}`)
     // ;\nfirefox ${fileWithoutDate}
 
-    workQueue.push(() => downsample(file, fileWithoutDate, 500, 0.3, continueWork))
-    workQueue.push(() => downsample(file, fileWithoutDate, 300, 0.05, continueWork))
+    // workQueue.push(() => downsample(file, fileWithoutDate, 500, 0.3, continueWork))
+    // workQueue.push(() => downsample(file, fileWithoutDate, 300, 0.05, continueWork))
     workQueue.push(() => downsample(file, fileWithoutDate, 250, 1.5, (generatedFile) => {
         // we could to some custom task here.
         continueWork()
@@ -284,4 +284,4 @@ generatePDF("http://localhost:8080/2023/en/articles-print-preview/sr-chan-duc--i
 
 // concurrent.
 // for full-size pdf, 2 is very memory intense (16GB recommended)
-Array(1).fill().forEach(startWork);
+Array(4).fill().forEach(startWork);
