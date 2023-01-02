@@ -212,11 +212,11 @@ let workQueue = [
     // // US Letter +.125in x2
     // () => generatePDF("http://localhost:8080/2023/en/letter-bleed/", `./docs/2023/en-letter-bleed`, onFinshed, {height: "11.25in", width: "8.75in"}),
 
-    // () => generatePDF("http://localhost:8080/2023/vi/a4/", `./docs/2023/vi-a4`, onFinshed),
+    () => generatePDF("http://localhost:8080/2023/vi/a4/", `./docs/2023/vi-a4`, onFinshed),
     // () => generatePDF("http://localhost:8080/2023/vi/a4-bleed/", `./docs/2023/vi-a4-bleed`, onFinshed),
     
 
-    () => generatePDF("http://localhost:8080/2022/en/a4/", `./docs/2022/en-a4`, onFinshed),
+    // () => generatePDF("http://localhost:8080/2022/en/a4/", `./docs/2022/en-a4`, onFinshed),
     // () => generatePDF("http://localhost:8080/2022/en/a4-bleed/", `./docs/2022/en-a4-bleed`, onFinshed),
     // US Letter: 11in x 8.5in
     // () => generatePDF("http://localhost:8080/2022/en/letter/", `./docs/2022/en-letter`, onFinshed, {format: "Letter"}),

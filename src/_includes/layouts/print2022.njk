@@ -3,15 +3,15 @@
 
 {% set bleedClass = " bleed" if (bleed != "0mm") else "" %}
 
-<div class="front-collage{{ bleedClass }}">
+<div class="full-page-image{{ bleedClass }}">
     {% image ["LTLM45-2022 cover front v2022-02 ", size_label ," ", locale ,"", bleedClass ,".jpg"] | join %}
 </div>
 
-<div class="front-collage{{ bleedClass }}">
+<div class="full-page-image{{ bleedClass }}">
     {% image ["LTLM45-2022 inside covers Thays life in photos p1 ", size_label ," ", locale ,"", bleedClass ,".jpg"] | join %}
 </div>
 
-<div class="back-collage{{ bleedClass }}">
+<div class="full-page-image{{ bleedClass }}">
     {% image ["LTLM45-2022 inside covers Thays life in photos p2 ", size_label ," ", locale ,"", bleedClass ,".jpg"] | join %}
 </div>
 
@@ -160,7 +160,7 @@ Khai sơn Đạo tràng Mai Thôn quốc tế</p></div>
 
 {# <div class="empty-page"></div> #}
 
-<div class="back-collage{{ bleedClass }}">
+<div class="full-page-image{{ bleedClass }}">
     {% image ["LTLM45-2022 cover back ", size_label ," ", locale ,"", bleedClass ,".jpg"] | join %}
 </div>
 

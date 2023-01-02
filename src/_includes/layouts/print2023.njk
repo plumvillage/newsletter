@@ -3,7 +3,7 @@
 
 {% set bleedClass = " bleed" if (bleed != "0mm") else "" %}
 
-<div class="front-collage{{ bleedClass }}">
+<div class="full-page-image{{ bleedClass }}">
     {% image ["LTLM46-2023 cover.jpg"] | join %}
     {# {% image ["LTLM46-DSC_8458-", size_label ," ", locale ,"", bleedClass ,".jpg"] | join %} #}
 </div>
@@ -37,6 +37,7 @@
     {% set author = article.data.author %}
     {% set content = article.data.content %}
     {% set fileSlug = article.fileSlug %}
+    {% set preceeding_full_page_image = article.data.preceeding_full_page_image %}
 
     {%- if article.data.chapter -%}
         <section class="chapter" id="{{ title | slugify }}">
@@ -44,20 +45,27 @@
             {{ content | safe }}
         </section>
     {%- else -%}
-        {# this code is duplicated in article.njk. trying to factor it out have failed, because of the async call to image. #}
+        {# this code is duplicated in article.njk. factoring it out has failed, because of the async call to image. #}
         <article class="article-{{ title | slugify }}">
+            {%- if preceeding_full_page_image %}
+                <div class="full-page-image">
+                    {% image preceeding_full_page_image %}
+                </div>
+            {%- endif %}
+
             {% set artCall = articleCalligraphies(fileSlug) %}
             {%- if artCall.hasCalligraphy %}
                 <h1 id="{{ title | slugify }}" class="calligraphyTitle">
-                    {# <img class="articleCalligraphy" src="{{ artCall.calligraphyFile }}"> #}
                     {% image artCall.calligraphyFile, "articleCalligraphy" %}
                 </h1>
             {%- else %}
                 <h1 id="{{ title | slugify }}">{{ title }}</h1>
             {%- endif %}
 
-            <h2 class="author">{{ author }}</h2>
-            {{ content | safe }}
+            {%- if author %}
+                <h2 class="author">{{ author }}</h2>
+            {%- endif %}
+                {{ content | safe }}
             <div class="article-end"></div>
         </article>
     {%- endif -%}
@@ -69,7 +77,7 @@
 
 <div class="empty-page"></div>
 
-<div class="back-collage{{ bleedClass }}">
+<div class="full-page-image{{ bleedClass }}">
     {% image "LTLM46-046.DOM.25.SEP.2022_A4.jpg" %}
 </div>
 

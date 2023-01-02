@@ -11,8 +11,8 @@
         "deploy": "netlify deploy --prod"
     },
     "keywords": [],
-    "author": "",
-    "license": "",
+    "author": "Editorial Team",
+    "license": "GNU GPL3",
     "devDependencies": {
         "@11ty/eleventy": "^1.0.0",
         "@11ty/eleventy-img": "^1.0.0",

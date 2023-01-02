@@ -1,50 +1,49 @@
 ---
 title: Young Buds Glistening in the Sunshine
+preceeding_full_page_image: "article2023/young-ones/positive habit question.jpg"
 # author: 
 ---
 
-<div class="page-break"></div>
 
-<div class="front-collage">
-    {% image "article2023/young-ones/positive habit question.jpg" %}
-</div>
-
-<h1>Young Buds Glistening in the Sunshine</h1>
 
 <p class="intro">Some intro text for the article to explain about the question and answer session with the young ones. :)</p>
 
-> “Before becoming a nun, I had the tendency to walk very fast, to save time. I worked as a nurse, and had to prepare the necessary tools before the doctors arrived, taking care of patients and their families. When I first entered the temple, everyone said I flew as I walked! So my first lesson was learning to walk.
+> “Before ordaining, I lacked confidence when I smiled. When I met someone and smiled, there was something in me that made me feel insecure. After becoming a nun, I’ve had the chance to live more naturally. Now, my smile comes from the peace and joy in my heart, and it is very natural. 
 > 
-> “At the start it was really difficult for me. I was used to walking fast and didn’t know how to be aware of the body or hear the sound of my footsteps rushing. I had the idea that the elder sisters were watching me and would give me reminders. So if an elder sister walked in front, I walked behind; if she took one path, I took another. I was hiding! I felt like a train being halted.
-> 
-> “After a while, I began to see myself as a baby learning to walk, to balance herself. Practicing like that, I knew better how to stop. When there is a lot of work or something urgent to do, I notice old habits coming back, so I try to slow down and have more understanding.”<cite>Sr. Tuong Niem</cite>
+> I also train to see things more positively. In the sangha, we come from many different regions, countries, and cultures. Naturally, friction occurs sometimes. I practice to look into myself first so that I am not caught up in those frictions. Or, I find ways to make the issue smaller, and I notice how much lighter I feel.”<cite>Sr. An Niem</cite>
 
 > “When I was a lay person, I spoke very little, even though my work was in management. I communicated very briefly, and sometimes felt nervous to share. When I became a monk, I began to practice loving speech. I started feeling more inner space and time to say what I wanted to say. In this way, my words now contain more love and understanding.”<cite>Br. Ruong Hieu</cite>
 
-<h2 class="young-ones-center-heading">What is a positive habit that you have developed since entering the Sangha?</h2>
-
-> “Before ordaining, I lacked confidence when I smiled. When I met someone and smiled, there was something in me that made me feel insecure. After becoming a nun, I’ve had the chance to live more naturally. Now, my smile comes from the peace and joy in my heart, and it is very natural. 
-> 
-> “I also train to see things more positively. In the sangha, we come from many different regions, countries, and cultures. Naturally, friction occurs sometimes. I practice to look into myself first so that I am not caught up in those frictions. Or, I find ways to make the issue smaller, and I notice how much lighter I feel.”<cite>Sr. An Niem</cite>
-
 > “When there is an emotion coming up, I like to recognise it, and take time to sit with it, acknowledge it and embrace it for a few minutes. I don’t want to move onto something else too quickly anymore. Otherwise, I know that this emotion will ‘follow’ me for hours. I prefer to take care of it right away and re-establish inner peace as soon as I can.”<cite>Br. Thien Y</cite>
 
+<h2 class="young-ones-center-heading">What is a positive habit that you have developed since entering the Sangha?</h2>
+
 > “After ordaining, I felt I didn’t need to rush anymore. In the past, I was always rushing: to work, to do this and that, running after time. Now, first thing in the morning, I just drink a cup of tea with my brothers. No need to rush anymore - just drinking our tea, being relaxed, being together. Sitting like that, in silence, I find it a very healing time for myself.”<cite>Br. Ruong Duc</cite>
+
+> “Before becoming a nun, I had the tendency to walk very fast, to save time. I worked as a nurse, and had to prepare the necessary tools before the doctors arrived, taking care of patients and their families. When I first entered the temple, everyone said I flew as I walked! So my first lesson was learning to walk.
+> 
+> At the start it was really difficult for me. I was used to walking fast and didn’t know how to be aware of the body or hear the sound of my footsteps rushing. I had the idea that the elder sisters were watching me and would give me reminders. So if an elder sister walked in front, I walked behind; if she took one path, I took another. I was hiding! I felt like a train being halted.
+> 
+> After a while, I began to see myself as a baby learning to walk, to balance herself. Practicing like that, I knew better how to stop. When there is a lot of work or something urgent to do, I notice old habits coming back, so I try to slow down and have more understanding.”<cite>Sr. Tuong Niem</cite>
 
 
 
 
 <div class="page-break"></div>
 
+<div class="full-page-image">
+    {% image "article2023/young-ones/mindful manner question.jpg" %}
+</div>
+
 > “The mindful manner on ‘receiving a reminder with joined palms, saying thank you.’ I found it so simple, and yet so liberating. Outside, in the workplace, if anyone reminds you, they expect a quick reply, something back. But in the monastery, the person who is receiving a reminder can have a lot of freedom and insight.
 > 
-> “Firstly, I try to receive any reminder with a lot of gratitude, because the other person had the courage and compassion to share something difficult. Afterwards, even if I totally disagreed in the beginning, I wait a few days to check inside, ‘is it true?’ By not reacting emotionally, remaining humble, sometimes I discover how that feedback was right. Then, I reflect that without this mindful manner, I would never have seen that about myself.<cite>Br. Thien Y</cite>
+> Firstly, I try to receive any reminder with a lot of gratitude, because the other person had the courage and compassion to share something difficult. Afterwards, even if I totally disagreed in the beginning, I wait a few days to check inside, ‘is it true?’ By not reacting emotionally, remaining humble, sometimes I discover how that feedback was right. Then, I reflect that without this mindful manner, I would never have seen that about myself.”<cite>Br. Thien Y</cite>
  
-> “The mindful manner about sharing a room helped me to become more aware of others’ needs - which are often different from mine. More and more, I am learning to interact, to double check, and to hear what is said and what is not being said - something I find so interesting.<cite>Br. Dinh Tuc</cite>
+> The mindful manner about sharing a room helped me to become more aware of others’ needs - which are often different from mine. More and more, I am learning to interact, to double check, and to hear what is said and what is not being said - something I find so interesting.”<cite>Br. Dinh Tuc</cite>
 
 > “For me, not drinking alcohol. It’s not that I did it often, but sometimes I did. Now, after a long time of not doing that, I can compare then and now. I can see how much freedom there is in not being in that state of mind, where I wouldn’t have much control over what happened to my body and mind.
 > 
-> “Also, our precept on chastity makes me feel free to interact with clarity with others, knowing where I stand in any relationship. This way, I feel free to direct my energy onto the spiritual path.”<cite>Br. Niem Thuan</cite>
+> Also, our precept on chastity makes me feel free to interact with clarity with others, knowing where I stand in any relationship. This way, I feel free to direct my energy onto the spiritual path.”<cite>Br. Niem Thuan</cite>
 
 <h2 class="young-ones-center-heading">What is the mindful manner that gives you the most freedom, and why?</h2>
  
@@ -60,12 +59,16 @@ title: Young Buds Glistening in the Sunshine
 
 > “The practice of knocking three times before entering a room, helps me to stop. Before, I used to knock as if I wanted to bring down the door! Then, I started to practice the mindful manner, but only the outer form, like a robot. However, day by day, that practice has become a very beautiful new habit. I enjoyed seeing this practice bloom naturally, without having to feel forced.
 > 
-> “Also, there are always people coming and going in the Sangha, and this practice of knocking has become my way of acknowledging the person whose room I am entering, to really cherish every relationship.”<cite>Sr. Tuong Niem</cite>
+> Also, there are always people coming and going in the Sangha, and this practice of knocking has become my way of acknowledging the person whose room I am entering, to really cherish every relationship.”<cite>Sr. Tuong Niem</cite>
 
 
 
 
 <div class="page-break"></div>
+
+<div class="full-page-image">
+    {% image "article2023/young-ones/elder ones question.jpg" %}
+</div>
 
 > “A heart of service brimming with enthusiasm and sincerity. Some elder sisters have inspired me, and given me plenty of inspiration to practice in this way.”<cite>Sr. An Niem</cite>
 
@@ -73,7 +76,7 @@ title: Young Buds Glistening in the Sunshine
  
 > “On another note, I really appreciate seeing an elder one follow the schedule. It makes me feel that I can do the same as I grow up; that I don’t need to sacrifice those moments of happiness, of practice. It makes me feel happy about my future.
 > 
-> “Having someone who allows me to grow, to make mistakes, to not be perfect. Anyway, one day, we’ll be able to do it in a way people call ‘perfect’, but there’s no need to rush in that process! For me, learning in a slow, kind and compassionate way is very important, and my mentor has the capacity to be there for me in that spirit.”<cite>Sr. Xuan Hanh</cite>
+> Having someone who allows me to grow, to make mistakes, to not be perfect. Anyway, one day, we’ll be able to do it in a way people call ‘perfect’, but there’s no need to rush in that process! For me, learning in a slow, kind and compassionate way is very important, and my mentor has the capacity to be there for me in that spirit.”<cite>Sr. Xuan Hanh</cite>
  
 > “For me, I appreciate when they have some stability and commitment to the teachings of Thay. Then, I feel I can learn a lot from them, from their teachings and experiences. In particular, how they went through a difficulty: even if in that moment it doesn’t help me, if I have a similar suffering in the future, I will be able to relate to it.”<cite>Br. Niem Thuan</cite>
 

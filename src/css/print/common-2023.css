@@ -104,7 +104,7 @@ figure img {
     width: auto;
 }
 
-.front-collage, .back-collage, .empty-page {
+.full-page-image, .empty-page {
     page: photopage; /* named pages*/
     width: calc(var(--pagedjs-pagebox-width));
     height: calc(var(--pagedjs-pagebox-height));
@@ -115,19 +115,19 @@ figure img {
     overflow: visible;
 }
 
-.front-collage.bleed, .back-collage.bleed, .empty-page {
+.full-page-image.bleed, .empty-page {
     width: calc(var(--pagedjs-pagebox-width) + (var(--bleed) * 2));
     height: calc(var(--pagedjs-pagebox-height) + (var(--bleed) * 2));
     top: calc((var(--pagedjs-margin-top) + var(--bleed)) * -1);
     left: calc((var(--pagedjs-margin-left) + var(--bleed)) * -1);
 }
 
-.front-collage figure, .back-collage figure {
+.full-page-image figure {
     width: 100%;
     height: 100%;
 }
 
-.front-collage figure img, .back-collage figure img {
+.full-page-image figure img {
     width: auto;
     height: 100%;
 }
@@ -908,32 +908,13 @@ article ul li::before {
 
 
 
-h2.young-ones-center-heading {
-    column-span: all;
-    font-size: 24pt;
-    line-height: 125%;
-    width: 67%;
-    text-align: center;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 4%;
-    margin-bottom: 5%;
-}
 
-.article-young-buds-glistening-in-the-sunshine .front-collage figure {
-    margin-top: 0 !important;
-}
-
-.article-young-buds-glistening-in-the-sunshine blockquote p {
-    font-style: normal !important;
-}
-.article-young-buds-glistening-in-the-sunshine blockquote {
+.article-young-buds-glistening-in-the-sunshine .full-page-image figure {
     margin-top: 0;
 }
 .article-young-buds-glistening-in-the-sunshine h1 {
-    margin-bottom: 11pt !important;
+    margin-bottom: 11pt;
 }
-
 .article-young-buds-glistening-in-the-sunshine .intro {
     column-span: all;
     width: 50%;
@@ -941,4 +922,22 @@ h2.young-ones-center-heading {
     margin-bottom: 20pt;
     text-align: center;
     font-style: italic;
+}
+.article-young-buds-glistening-in-the-sunshine h2 {
+    column-span: all;
+    font-size: 24pt;
+    line-height: 125%;
+    width: 67%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2%;
+    margin-bottom: 4%;
+}
+.article-young-buds-glistening-in-the-sunshine blockquote {
+    margin-top: 0;
+    margin-bottom: 17pt;
+}
+.article-young-buds-glistening-in-the-sunshine blockquote p {
+    font-style: normal;
 }
