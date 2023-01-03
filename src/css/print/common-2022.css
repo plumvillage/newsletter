@@ -900,7 +900,7 @@ article ul li::before {
 }
 
 .signoff {
-    text-indent: 0pt;
+    text-indent: 0pt !important;
     font-style: italic;
 }
 .signoff-lvl-1, .signoff-lvl-2, .signoff-lvl-3, .signoff small {
