@@ -1,10 +1,8 @@
 ---
 title: Young Buds Glistening in the Sunshine
-preceeding_full_page_image: "article2023/young-ones/positive habit question.jpg"
+preceeding_full_page_image: "article2023/young-ones/Positive Habit.png"
 # author: 
 ---
-
-
 
 <p class="intro">Some intro text for the article to explain about the question and answer session with the young ones. :)</p>
 
@@ -32,7 +30,7 @@ preceeding_full_page_image: "article2023/young-ones/positive habit question.jpg"
 <div class="page-break"></div>
 
 <div class="full-page-image">
-    {% image "article2023/young-ones/mindful manner question.jpg" %}
+    {% image "article2023/young-ones/Mindful Manner.png" %}
 </div>
 
 > “The mindful manner on ‘receiving a reminder with joined palms, saying thank you.’ I found it so simple, and yet so liberating. Outside, in the workplace, if anyone reminds you, they expect a quick reply, something back. But in the monastery, the person who is receiving a reminder can have a lot of freedom and insight.
@@ -67,7 +65,7 @@ preceeding_full_page_image: "article2023/young-ones/positive habit question.jpg"
 <div class="page-break"></div>
 
 <div class="full-page-image">
-    {% image "article2023/young-ones/elder ones question.jpg" %}
+    {% image "article2023/young-ones/Elder ones Question.png" %}
 </div>
 
 > “A heart of service brimming with enthusiasm and sincerity. Some elder sisters have inspired me, and given me plenty of inspiration to practice in this way.”<cite>Sr. An Niem</cite>

@@ -4,7 +4,7 @@ const path = require("path")
 const { exec } = require('child_process')
 
 // we want the link to remain unchanged even when new revisions are being uploaded with a timestamp
-let netlifyRedirects = `# for Netlify, see https://docs.netlify.com/routing/redirects/#syntax-for-the-redirects-file\n`;
+let netlifyRedirects = `\n# for Netlify, see https://docs.netlify.com/routing/redirects/#syntax-for-the-redirects-file\n`
 
 function padTo2Digits(num) {
     return num.toString().padStart(2, '0');
@@ -47,7 +47,7 @@ function downsample(pdfFile, pdfFileWithoutDate, dpi = 400, Q = 1.5, onFinished 
     let outputFile = path.join(parsed.dir, outName(parsed.name))
     let outputFileWithoutDate = path.join(parsedWithoutDate.dir, outName(parsedWithoutDate.name))
 
-    netlifyRedirects += `/${outName(parsedWithoutDate.name)}    /${outName(parsed.name)}\n`;
+    netlifyRedirects += `${parsed.dir.replace("./docs/", "/")}/${outName(parsedWithoutDate.name)}    ${parsed.dir.replace("./docs/", "/")}/${outName(parsed.name)}\n`;
 
 /*
 for DPI 300
@@ -205,6 +205,8 @@ let workInProgress = 0;
 // all jobs are assumed to continueWork() by themselves after being finished
 // we first generate all raw PDFs. onFinished() adds the downsample jobs to this queue and then proceeds execution with more threads (because the downsample is not as memory-hungry)
 let workQueue = [
+    () => generatePDF("http://localhost:8080/2023/en/articles-print-preview/sr-chan-duc--interview/", `./docs/2023/en/articles-print-preview/sr-chan-duc--interview`, onFinshed),
+
     () => generatePDF("http://localhost:8080/2023/en/a4/", `./docs/2023/en-a4`, onFinshed),
     // () => generatePDF("http://localhost:8080/2023/en/a4-bleed/", `./docs/2023/en-a4-bleed`, onFinshed),
     // // US Letter: 11in x 8.5in
@@ -214,7 +216,7 @@ let workQueue = [
 
     () => generatePDF("http://localhost:8080/2023/vi/a4/", `./docs/2023/vi-a4`, onFinshed),
     // () => generatePDF("http://localhost:8080/2023/vi/a4-bleed/", `./docs/2023/vi-a4-bleed`, onFinshed),
-    
+
 
     // () => generatePDF("http://localhost:8080/2022/en/a4/", `./docs/2022/en-a4`, onFinshed),
     // () => generatePDF("http://localhost:8080/2022/en/a4-bleed/", `./docs/2022/en-a4-bleed`, onFinshed),
@@ -255,6 +257,17 @@ function startWork() {
     continueWork()
 }
 
+function prependToFile(file, text) {
+    const data = fs.readFileSync(file)
+    const fd = fs.openSync(file, 'w+')
+    const insert = Buffer.from(text)
+    fs.writeSync(fd, insert, 0, insert.length, 0)
+    fs.writeSync(fd, data, 0, data.length, insert.length)
+    fs.close(fd, (err) => {
+        if (err) throw err
+    })
+}
+
 function continueWork() {
     if (todoNext < workQueue.length) {
         workQueue[todoNext++]()
@@ -268,18 +281,18 @@ function continueWork() {
                 console.log("done!", netlifyRedirects)
 
                 try {
-                    fs.writeFileSync('./docs/_redirects', netlifyRedirects)
+                    // the first occation of a rule is effective, which is why we need to prepend new rules, not append
+                    prependToFile("./docs/_redirects", netlifyRedirects)
+                    // fs.appendFileSync('./docs/_redirects', netlifyRedirects)
                     //file written successfully
                 } catch (err) {
                     console.error(err)
                 }
 
-            }, 2000);
+            }, 2000)
         }
     }
 }
-
-generatePDF("http://localhost:8080/2023/en/articles-print-preview/sr-chan-duc--interview/", `./docs/2023/en/articles-print-preview/sr-chan-duc--interview`, onFinshed)
 
 
 // concurrent.

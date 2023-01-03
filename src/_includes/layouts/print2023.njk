@@ -48,7 +48,7 @@
         {# this code is duplicated in article.njk. factoring it out has failed, because of the async call to image. #}
         <article class="article-{{ title | slugify }}">
             {%- if preceeding_full_page_image %}
-                <div class="full-page-image">
+                <div class="full-page-image{{ bleedClass }}">
                     {% image preceeding_full_page_image %}
                 </div>
             {%- endif %}
