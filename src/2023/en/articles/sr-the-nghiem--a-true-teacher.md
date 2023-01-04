@@ -11,7 +11,7 @@ I am so grateful to be a disciple of Thay, who bore all the hallmarks of a true 
 
 ### Manifestation Body
 
-When I was 21, my father introduced me to Thay’s book, *Being Peace*. I remember the feeling of coming alive as a new world opened before me: Here was a wholesome and compassionate way of living. Here was a teacher who shared authentically, with peace, joy, and wisdom. Thay's words breathed life into my heart, and directed my eyes towards a spiritual path. Like so many others, I awakened to my monastic life because of Thay.
+When I was 21, my father introduced me to Thay’s book, *Being Peace*. I remember the feeling of coming alive as a new world opened before me: Here was a wholesome and compassionate way of living. Here was a teacher who shared authentically, with peace, joy, and wisdom. Thay’s words breathed life into my heart, and directed my eyes towards a spiritual path. Like so many others, I awakened to my monastic life because of Thay.
 
 ### Compassion
 
@@ -27,9 +27,11 @@ I remember driving Thay from New Hamlet to Lower Hamlet as his attendant one day
 
 In a calm and pleasant way, but quick as lightning,Thay suddenly pointed out the window and made a cheerful observation about some distant landmark - something Nature-y, I suspect. In his compassionate way, Thay was attempting to distract me from my embarrassment. Flustered by my mistake, and self-conscious of the fact that Thay was “changing pegs” to make me feel better, I remained silent. However, in my heart, I registered fully his kindness. *Thank you for your kindness, dearest Thay.*
 
+{% image "article2023/sr-the-nghiem/image_edited.jpg" %}
+
 ### Understanding
 
-Another memory surfaces of Thay's understanding and kindness. One day, I was attending Thay in the *Great Meditation Hall* of Lower Hamlet. As Thay and all the monastics were sitting down and arranging their robes in preparation for formal lunch, I found myself stranded in the center aisle.
+Another memory surfaces of Thay’s understanding and kindness. One day, I was attending Thay in the Great Meditation Hall of Lower Hamlet. As Thay and all the monastics were sitting down and arranging their robes in preparation for formal lunch, I found myself stranded in the center aisle.
 
 Searching for a path to my attendant’s seat, I spotted a clearing next to Thay’s sitting mat. Relieved, and wholly unaware of my impending faux pas, I approached the opening and took the fateful shortcut - directly over Thay’s alms bowl and food tray.
 
@@ -57,7 +59,7 @@ Thus, Thay cleared the obstacle and opened up the door for me to mature through 
 
 ### Nurturance
 
-Thay has often been likened to a master gardener. He skillfully cultivated the vast and varied nursery of our sangha with the nurturing and affirmative qualities of a loving teacher. Thay steadfastly tended to the shoots and leaves of our practice. Even more fundamentally, however, he gave careful attention to the sometimes dormant seed of *faith* in us, helping us awaken confidence in our own buddha nature. Through his understanding and trust, Thay watered this seed of faith in me. Because of this, I was able to awaken to the goodness within and around me.
+Thay has often been likened to a master gardener. He skillfully cultivated the vast and varied nursery of our sangha with the nurturing and affirmative qualities of a loving teacher. Thay steadfastly tended to the shoots and leaves of our practice. Even more fundamentally, however, he gave careful attention to the sometimes dormant seed of *faith* in us, helping us awaken confidence in our own Buddha nature. Through his understanding and trust, Thay watered this seed of faith in me. Because of this, I was able to awaken to the goodness within and around me.
 
 Once, at the Hermitage, in a space of quiet, Thay brought me to a flowering plant whose blossom had not yet open. Teacher and disciple observed the plant quietly. Then Thay said, “Everyone is like that flower, my child. It unfurls its petals in its own time, when it is ready.” In the moment, I felt Thay’s understanding and acceptance of my reserve and diffidence to him as his disciple. At the same time, I felt his skillful encouragement: *Allow yourself to bloom*.
 
@@ -65,9 +67,9 @@ Thay’s nurturing and affirmative ways are such a breath of fresh air in our wo
 
 ## Open The Path Wider
 
-True to the *Bodhisattva* Vow, Thay has always encouraged us to open the path wider. Sometimes, this calls for us to stretch beyond our present comforts, challenges, and concerns in order that our sangha may grow, our embrace widen. Many times, Thay has challenged our hearts to expand in order to merge with his larger vision.
+True to the Bodhisattva Vow, Thay has always encouraged us to open the path wider. Sometimes, this calls for us to stretch beyond our present comforts, challenges, and concerns in order that our sangha may grow, our embrace widen. Many times, Thay has challenged our hearts to expand in order to merge with his larger vision.
 
-In May 2007, our small sangha at Green Mountain Dharma Center and Maple Forest Monastery finally closed its doors in Vermont. That summer, after many months of preparation and packing, we made the decisive move to our new home in upstate New York: Blue Cliff Monastery. a group of ants re-coalescing after a disturbance to its nest, we began the slow, somewhat disorganized work of converting the former summer hotel-and-resort into an all-year-round monastery.
+In May 2007, our small sangha at Green Mountain Dharma Center and Maple Forest Monastery finally closed its doors in Vermont. That summer, after many months of preparation and packing, we made the decisive move to our new home in upstate New York: Blue Cliff Monastery. A group of ants re-coalescing after a disturbance to its nest, we began the slow, somewhat disorganized work of converting the former summer hotel-and-resort into an all-year-round monastery.
 
 By the beginning of autumn, we had made some progress, but it didn’t seem like much. Our small sangha felt like a little choo-choo train chugging uphill. Trying to be realistic, we petitioned Thay to hold off on hosting our first big retreat in the coming season. Our reasons were many: It was too soon, we had not yet transformed into a monastery, we were not yet prepared to receive retreatants… Thay’s reply: *The sangha can do it.* We had more reasons: The main buildings were still in need of renovation. We hadn’t even built a meditation hall yet… Thay’s response: *Not an obstacle.* Thay called upon our sangha spirit, and told us to rent a huge tent in place of our non-existent hall.
 
@@ -80,6 +82,8 @@ Over the years, Thay has steadfastly conveyed to us in equal measure the assuran
 ### Watching Over Us
 
 A number of years ago, during our biennial US Tour, the sangha was traveling by bus on our way to the next retreat. It was late at night, and most of the sangha was sleeping. I happened to be sitting in the front near Thay and the bus driver. Thay turned, smiled to me, and said in Vietnamese, “We need to help the bus driver stay awake.” Hearing this, I endeavored to keep my eyes on the bus driver. Eventually, though, my eyelids drooped, and soon I dozed off. When I awoke from my nap, I sheepishly looked over and was met with a familiar and comforting sight: Thay sitting upright, alert, with his eyes on the road before us. A feeling of gratitude arose, along with the thought, *Thay is watching over us…*
+
+{% image "article2023/sr-the-nghiem/ctn zen circle 3 2017 BCM_edited.jpg" %}
 
 ### Assurance
 
