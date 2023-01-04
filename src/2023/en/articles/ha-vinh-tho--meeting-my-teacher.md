@@ -1,6 +1,6 @@
 ﻿---
 title: Meeting my teacher
-author: Dr. Tho Ha Vinh
+author: Dr. Hà Vĩnh Thọ
 ---
 <!-- *(In memory of a prominent son of Vietnam)* -->
 

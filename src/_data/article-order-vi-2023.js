@@ -6,4 +6,5 @@ module.exports = [
     "sr-bo-de--nghung-thien-than-mua-he",
     "sr-tuyet-nghiem--co-tay-thay-trong-tui-ao",
     "sr-tam-duc--hat-mam-nam-xua",
+    "sr-van-nghiem--con-co-thoi-tre",
 ]

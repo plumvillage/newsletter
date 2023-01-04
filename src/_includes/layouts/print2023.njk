@@ -1,11 +1,13 @@
 {% extends "layouts/print-frame.njk" %}
 {% block content %}
 
-{% set bleedClass = " bleed" if (bleed != "0mm") else "" %}
-
-<div class="full-page-image{{ bleedClass }}">
-    {% image ["LTLM46-2023 cover.jpg"] | join %}
+<div class="full-page-image bleed">
+    {% image "LTLM46-2023 cover.jpg" %}
     {# {% image ["LTLM46-DSC_8458-", size_label ," ", locale ,"", bleedClass ,".jpg"] | join %} #}
+</div>
+
+<div class="full-page-image bleed">
+    {% image "LTLM46-2023 Inner Cover Page 1 A4.png" %}
 </div>
 
 {# <div class="empty-page"></div> #}
@@ -37,7 +39,6 @@
     {% set author = article.data.author %}
     {% set content = article.data.content %}
     {% set fileSlug = article.fileSlug %}
-    {% set preceeding_full_page_image = article.data.preceeding_full_page_image %}
 
     {%- if article.data.chapter -%}
         <section class="chapter" id="{{ title | slugify }}">
@@ -47,9 +48,13 @@
     {%- else -%}
         {# this code is duplicated in article.njk. factoring it out has failed, because of the async call to image. #}
         <article class="article-{{ title | slugify }}">
-            {%- if preceeding_full_page_image %}
-                <div class="full-page-image{{ bleedClass }}">
-                    {% image preceeding_full_page_image %}
+            {%- if article.data.preceeding_full_page_image_A4 %}
+                <div class="full-page-image bleed">
+                    {%- if size_label == "A4" %}
+                        {% image article.data.preceeding_full_page_image_A4 %}
+                    {%- else %}
+                        {% image article.data.preceeding_full_page_image_Letter %}
+                    {%- endif %}
                 </div>
             {%- endif %}
 
@@ -77,7 +82,7 @@
 
 <div class="empty-page"></div>
 
-<div class="full-page-image{{ bleedClass }}">
+<div class="full-page-image bleed">
     {% image "LTLM46-046.DOM.25.SEP.2022_A4.jpg" %}
 </div>
 

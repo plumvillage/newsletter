@@ -6,4 +6,8 @@ module.exports = [
 "sr-dao-nghiem--my-journey-with-thay",
 "ha-vinh-tho--meeting-my-teacher",
 "young-buds-glistening-in-the-sunshine",
+"br-thien-chi--the-taste-of-insight",
+"marisela-gomez--arise-sangha",
+// POEMS
+"sr-linh-di--mountain-dream",
 ]
