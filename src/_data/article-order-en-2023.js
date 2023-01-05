@@ -8,6 +8,8 @@ module.exports = [
 "young-buds-glistening-in-the-sunshine",
 "br-thien-chi--the-taste-of-insight",
 "marisela-gomez--arise-sangha",
+"sr-hien-nhan--the-ancestors-calling-home",
+"br-khiet-tam--removing-eye-bandage",
 // POEMS
 "sr-linh-di--mountain-dream",
 ]
