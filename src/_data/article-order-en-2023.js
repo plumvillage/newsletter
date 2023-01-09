@@ -10,6 +10,7 @@ module.exports = [
 "marisela-gomez--arise-sangha",
 "sr-hien-nhan--the-ancestors-calling-home",
 "br-khiet-tam--removing-eye-bandage",
+"br-ruong-phap--my-face-before-my-mother-was-born",
 // POEMS
 "sr-linh-di--mountain-dream",
 ]

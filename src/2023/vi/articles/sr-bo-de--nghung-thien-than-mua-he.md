@@ -7,7 +7,7 @@ Nhìn ngắm một lần cuối hai chiếc lá vàng, lá đỏ trước khi b�
 
 Đa phần trẻ em Đức và Hà Lan không nói được tiếng Anh nhiều nên bao câu chuyện khóc cười do khác biệt ngôn ngữ cứ nối nhau…
 
-## “Em tìm gì vậy?"
+## “Em tìm gì vậy?”
 
 Con đang đứng trong hành lang để dọn dẹp, một em chạy ào đến với dáng vẻ bối rối. Con liền hỏi: “Em tìm gì vậy?” Theo phản xạ tự nhiên, em trả lời bằng tiếng Đức. Nhìn đôi mắt tròn xoe và ngơ ngác của con, em lúng túng không biết phải làm sao. May quá, có một cô tình nguyện viên đi ngang đã kịp thời giải cứu con và em khỏi giây phút bối rối ấy. Nhìn theo hướng em chạy đi, con mới hiểu em tìm nhà vệ sinh. Lúc ấy, con chỉ biết vỗ tay lên trán và lắc đầu, không biết nên khóc hay nên cười nữa.
 
@@ -27,9 +27,11 @@ Con có niềm tin rằng những gì nhỏ nhặt nhất, nếu đã rơi xuố
 
 <div class="verse"><p>Tôi đứng đây với tấm lòng kiên nhẫn<br/>
 Bàn tay tôi cũng hóa đá đợi chờ<br/>
-Một trăm năm, một ngàn năm vụt qua nơi vòm trời phương ngoại<br/>
+Một trăm năm, một ngàn năm<br/>
+vụt qua nơi vòm trời phương ngoại<br/>
 Dẫu bão táp, dẫu mưa sa<br/>
-Đuốc thương yêu cứ lặng lẽ cháy giữa vườn hoa nhân loại.</p></div>
+Đuốc thương yêu cứ lặng lẽ cháy<br/>
+giữa vườn hoa nhân loại.</p></div>
 
 Thương là vậy, nhưng có lúc con phải nói “không.” Đó là những lúc đang trong giờ thời khoá, các em bỗng mè nheo với con: “Sư cô ơi, con đi chơi bóng bàn được không?” Nhìn vào đôi mắt sáng như sao và gương mặt hớn hở kia, dù không đành lòng, con vẫn phải tỏ ra cương quyết: “Bây giờ thì không được, đợi xong thời khóa chị sẽ dẫn em đi.” Sau một hồi năn nỉ con vẫn không lay chuyển, với vẻ tiu nghỉu vì thất vọng, các em ngoan ngoãn trở lại tiếp tục chơi với bút màu và giấy. 
 

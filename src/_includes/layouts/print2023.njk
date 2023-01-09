@@ -2,12 +2,15 @@
 {% block content %}
 
 <div class="full-page-image bleed">
-    {% image "LTLM46-2023 cover.jpg" %}
-    {# {% image ["LTLM46-DSC_8458-", size_label ," ", locale ,"", bleedClass ,".jpg"] | join %} #}
+    {% image ["LTLM46-2023 cover ", locale ," ", size_label ," bleed.jpg"] | join %}
 </div>
 
 <div class="full-page-image bleed">
-    {% image "LTLM46-2023 Inner Cover Page 1 A4.png" %}
+    {% image ["LTLM46-2023 Inner Cover page 1 ", size_label ,".png"] | join %}
+</div>
+
+<div class="full-page-image bleed">
+    {% image ["LTLM46-2023 Inner Cover page 2 ", size_label ,".png"] | join %}
 </div>
 
 {# <div class="empty-page"></div> #}
@@ -76,15 +79,10 @@
     {%- endif -%}
 {%- endfor -%}
 
-
-
-
-
 <div class="empty-page"></div>
 
 <div class="full-page-image bleed">
-    {% image "LTLM46-046.DOM.25.SEP.2022_A4.jpg" %}
+    {% image ["LTLM46-2023 cover back ", locale ," ", size_label ," bleed.jpg"] | join %}
 </div>
-
 
 {% endblock %}

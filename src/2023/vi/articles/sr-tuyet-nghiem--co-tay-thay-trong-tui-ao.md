@@ -21,12 +21,12 @@ Con lại một lần nữa chiêm nghiệm sâu sắc lý tưởng sống của
 
 Có một ước hẹn như lời mời gọi khiến con tìm leo lên đỉnh đồi trong buổi sáng đầu tiên thức dậy trên mảnh đất này. Con và sư em ngồi yên trên đỉnh đồi nhìn ra xa mây núi, thấy lòng thật bình an. Hai chị em cứ lặng yên để cảm nhận đất trời thiêng liêng và từng khoảnh khắc quý giá ấy. 
 
-Cất giọng hô canh buổi sáng:
+<p class="noIndent">Cất giọng hô canh buổi sáng:</p>
 
 <div class="verse"><p>Pháp thân tỏa sáng buổi ban mai<br/>
 Tĩnh tọa lòng an miệng mỉm cười…</p></div>
 
-Giây phút hiện tại tuyệt vời biết mấy, con biết ơn hàng vạn nhân duyên đưa con về chốn này. Rõ ràng sự tiếp nối liên hồi, duyên này khép lại để duyên khác mở ra. Cuộc đời luôn là chuỗi tiếp nối nhiệm mầu.
+<p class="noIndent">Giây phút hiện tại tuyệt vời biết mấy, con biết ơn hàng vạn nhân duyên đưa con về chốn này. Rõ ràng sự tiếp nối liên hồi, duyên này khép lại để duyên khác mở ra. Cuộc đời luôn là chuỗi tiếp nối nhiệm mầu.</p>
 
 ## Tay Thầy trong túi áo con
 
@@ -58,11 +58,11 @@ Cũng năm đó, trong buổi *Bói Kiều* đầu Xuân của đại chúng, Th
 
 Vừa bước qua được một cánh cửa khó, con thở phào nhẹ nhõm, bất chợt Thầy lại tiếp tục giao cho con bài tập khó thứ hai: “Tuyết Nghiêm, con giải Kiều cho bạn đi.” Lần này con lại sốc hơn, vì dường như buổi bói Kiều nào cũng chỉ có Thầy và quý thầy, quý sư cô lớn giải cho đại chúng. Con bối rối quá, cố tìm lối thoát lần nữa, con khẽ thương thuyết để từ chối: “Dạ bạch Thầy, con không biết giải Kiều đâu.” Ánh mắt con năn nỉ Thầy cứu con, nhưng Thầy lại vừa cười, vừa cương quyết: “Đâu được, con là sự tiếp nối của Thầy mà.” Con lại không thể làm gì hơn ngoài việc chấp nhận hiện tại của mình và chấp nhận nhập vai giải Kiều cho bạn trẻ ấy. Có lẽ con hiểu  bạn đủ nên con đi thẳng vào vấn đề của bạn khiến ai cũng cười, vì nói trúng tim đen quá. Một buổi sáng thôi mà bao điều lưu lại trở thành thiên thu trong con cho đến bây giờ Thầy à.
 
-Thầy kính thương,
+<p class="noIndent">Thầy kính thương,</p>
 
 Những bài tập Thầy giao cho con, con vẫn để nhiều tâm huyết để giải trong suốt những năm qua. Câu thần chú “Con hãy ngâm bằng giọng của con” giúp con vượt thắng những mặc cảm tự ti trong mình để có một trạng thái tự nhiên, tự tại trong khi làm một điều gì đó. Miễn là con làm hết lòng và có tự do khi làm là con thấy Thầy rất gần con. Mỗi lần con sợ hãi, e ngại về khả năng của mình khiến con muốn dừng lại, rút lui, bỏ cuộc, con lấy lại niềm tự tin với câu thần chú: “Đâu được! Con là sự tiếp nối của Thầy mà.” Mỗi lần con muốn cắt duyên dù là duyên vẫn còn với mình, mình vẫn còn hiến tặng được những nuôi dưỡng cho ai đó thì bài học “Con hãy tiếp tục nuôi dưỡng họ…” sẽ cho con động lực tiếp tục hiến tặng những gì đẹp nhất khi còn có thể để mọi nhân duyên được trọn vẹn, cho tới khi hết duyên thì mỉm cười thả buông.
 
-Thầy ơi,
+<p class="noIndent">Thầy ơi,</p>
 
 Con đang từng ngày trưởng thành trên con đường Thầy đã dìu dắt. Con đường đạo Bụt đi vào cuộc đời thật không hề đơn giản chút nào. Thầy đã chuẩn bị cho con thật nhiều hành trang. Đó là tất cả tình thương yêu và tin cậy mà Thầy dành cho đệ tử.
 

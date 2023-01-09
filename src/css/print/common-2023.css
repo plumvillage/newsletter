@@ -618,8 +618,8 @@ article p, article blockquote {
     margin: 0;
     /* does not work in Firefox, but in Chrome. Very strange. */
     /* does not work reliably. new pages can have 1-line widows */
-    orphans: 2;
-    widows: 2;
+    orphans: 3;
+    widows: 3;
 }
 
 article p:not(.editors-preface) + p,

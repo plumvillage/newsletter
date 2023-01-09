@@ -68,4 +68,4 @@ One morning while drinking tea in silence with my mentor, I realized that happin
 
 ## Continuing the journey 
 
-Recently I received two koans from my mentor. The first one is, “The lizard and the frog can help to eat some but not all of the slugs. Why is that?" The second one is, “Why do slugs only eat the vegetables and not the weeds?” These two koans are insights from my mentor. He has thrown them to me, but I am still cooking them and I hope to tell you more in the future.
+Recently I received two koans from my mentor. The first one is, “The lizard and the frog can help to eat some but not all of the slugs. Why is that?” The second one is, “Why do slugs only eat the vegetables and not the weeds?” These two koans are insights from my mentor. He has thrown them to me, but I am still cooking them and I hope to tell you more in the future.

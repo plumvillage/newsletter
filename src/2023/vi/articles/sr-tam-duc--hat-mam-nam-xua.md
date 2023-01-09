@@ -41,7 +41,7 @@ Ba mạ biết không, hồi ở Nhật, con không nhớ nhà mấy, rứa mà 
 
 Sau bao tháng ngày bận rộn với công việc bên ngoài, chừ con được làm sư út của Làng. Con gần bước sang tháng cuối của mùa an cư đầu tiên. Đi theo thời khoá tu học của chúng, cho con cơ hội để dừng lại, để trở về với chính con. Ba mạ biết không, lần đầu tiên con được đại chúng soi sáng, tức là chỉ cho con biết những bông hoa đẹp mà con đang có cũng như có những khuyến khích để con tu học tốt hơn. Con xúc động quá nên khi được quý sư cô soi sáng, nước mắt con cứ chực trào ra. Con cảm nhận rất nhiều tình thương mà đại chúng dành cho con. Con đã bắt đầu có những hơi thở và bước chân bình an hơn mỗi ngày. Có những buổi sáng ngắm mặt trời lên huy hoàng từ đồi mận hay những đêm ngắm bầu trời đầy sao mà niềm vui và lòng biết ơn dâng lên trong con. Con biết ơn vì được làm con của ba mạ, được làm con cháu của gia đình huyết thống bao đời làm nông thuần lành, chất phác. Con biết ơn Bụt Tổ, Thầy và tăng thân cũng như mọi nhân duyên đã cho con được làm người tu. Ở bên ni con khỏe, đang tận hưởng vẻ đẹp mùa thu ở Làng và tu học có nhiều niềm vui nên ba mạ và cả nhà yên tâm. Bên nớ, cả nhà mình giữ sức khoẻ và cùng thực tập vui với chị em con hí.
 
-Thương ba mạ và cả nhà nhiều lắm!
+<p class="noIndent">Thương ba mạ và cả nhà nhiều lắm!</p>
 
 <p class="signoff"><span class="signoff-lvl-1">Con gái của ba mạ,</span><br/>
 <span class="signoff-lvl-2">Chân Trăng Tâm Đức</span></p>
