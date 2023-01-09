@@ -80,4 +80,4 @@ Life continues and I still catch myself looking for grandma’s familiar form. I
 
 <div class="verse"><p>I can see you in my eyes<br/>
 and with your eyes,<br/>
-I see me.</p></div>
+I see mine.</p></div>

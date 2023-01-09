@@ -907,13 +907,15 @@ article ul li::before {
 
 
 
-
+.article-phong-van-cac-vi-xuat-gia-tre .full-page-image figure,
 .article-young-buds-glistening-in-the-sunshine .full-page-image figure {
     margin-top: 0;
 }
+.article-phong-van-cac-vi-xuat-gia-tre h1,
 .article-young-buds-glistening-in-the-sunshine h1 {
     margin-bottom: 11pt;
 }
+.article-phong-van-cac-vi-xuat-gia-tre .intro,
 .article-young-buds-glistening-in-the-sunshine .intro {
     column-span: all;
     width: 50%;
@@ -922,9 +924,10 @@ article ul li::before {
     text-align: center;
     font-style: italic;
 }
+.article-phong-van-cac-vi-xuat-gia-tre h2,
 .article-young-buds-glistening-in-the-sunshine h2 {
     column-span: all;
-    font-size: 24pt;
+    font-size: 22pt;
     line-height: 125%;
     width: 67%;
     text-align: center;
@@ -933,11 +936,13 @@ article ul li::before {
     margin-top: 3%;
     margin-bottom: 4%;
 }
+.article-phong-van-cac-vi-xuat-gia-tre blockquote,
 .article-young-buds-glistening-in-the-sunshine blockquote {
     margin-top: 0;
     margin-bottom: 17pt;
     break-inside: avoid;
 }
+.article-phong-van-cac-vi-xuat-gia-tre blockquote p,
 .article-young-buds-glistening-in-the-sunshine blockquote p {
     font-style: normal;
 }
