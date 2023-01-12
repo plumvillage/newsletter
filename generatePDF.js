@@ -206,8 +206,8 @@ let workInProgress = 0;
 // we first generate all raw PDFs. onFinished() adds the downsample jobs to this queue and then proceeds execution with more threads (because the downsample is not as memory-hungry)
 let workQueue = [
     // () => generatePDF("http://localhost:8080/2023/en/articles-print-preview/br-ruong-phap--my-face-before-my-mother-was-born/", `./docs/2023/en/articles-print-preview/br-ruong-phap--my-face-before-my-mother-was-born`, onFinshed),
-    
-    () => generatePDF("http://localhost:8080/2023/en/a4/", `./docs/2023/en-a4`, onFinshed),
+
+    // () => generatePDF("http://localhost:8080/2023/en/a4/", `./docs/2023/en-a4`, onFinshed),
     // () => generatePDF("http://localhost:8080/2023/en/a4-bleed/", `./docs/2023/en-a4-bleed`, onFinshed),
     // US Letter: 11in x 8.5in
     // () => generatePDF("http://localhost:8080/2023/en/letter/", `./docs/2023/en-letter`, onFinshed, {format: "Letter"}),
@@ -225,7 +225,7 @@ let workQueue = [
     // US Letter +.125in x2
     // () => generatePDF("http://localhost:8080/2022/en/letter-bleed/", `./docs/2022/en-letter-bleed`, onFinshed, {height: "11.25in", width: "8.75in"}),
 
-    // () => generatePDF("http://localhost:8080/2022/vi/a4/", `./docs/2022/vi-a4`, onFinshed),
+    () => generatePDF("http://localhost:8080/2022/vi/a4/", `./docs/2022/vi-a4`, onFinshed),
     // () => generatePDF("http://localhost:8080/2022/vi/a4-bleed/", `./docs/2022/vi-a4-bleed`, onFinshed),
     
     // () => onFinshed("./docs/2022/en-a4_2022-03-19_20-28-32.pdf", "./docs/2022/en-a4.pdf"),

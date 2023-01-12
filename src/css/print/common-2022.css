@@ -2147,3 +2147,23 @@ h1#continuing-the-deep-practice-of-generosity {
     font-size: 1.15em;
     line-height: 119%;
 }
+
+
+img#articlesu-ongThayHeaderImgwhiteFadeout2 {
+    margin: 0;
+    max-width: none;
+    position: absolute;
+    z-index: -1;
+    width: calc(var(--pagedjs-pagebox-width) + (var(--bleed)));
+    left: calc((var(--pagedjs-margin-left) + var(--bleed))*-1);
+    top: calc((var(--pagedjs-margin-top) + var(--bleed))*-1);
+    overflow: visible;
+}
+
+.size-letter img#articlesu-ongThayHeaderImgwhiteFadeout2 {
+    top: calc((var(--pagedjs-margin-top) + var(--bleed) + 50px)*-1);
+}
+
+.size-letter .article-tang-than-dich-thuc h1 {
+    margin-top: 60mm;
+}

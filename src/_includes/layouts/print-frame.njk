@@ -11,21 +11,17 @@
         <title>{{ i18n.title }}</title>
     {%- endif %}
     <meta name="author" content="{{ i18n.author }}" />
-    <meta name="subject" content="" />
-    <meta name="keywords" content="?" />
-    <meta name="date" content="2022" />
+    <meta name="edition" content="{{ year }}" />
 
     <link rel="stylesheet" href="/css/global.css">
     <link rel="stylesheet" href="/css/print/common-{{ year }}.css">
-    <link rel="stylesheet" href="/css/print/articles-{{ locale }}.css">
-    <link rel="stylesheet" href="/css/print/images-{{ size_label }}.css">
+    <link rel="stylesheet" href="/css/print/images-{{ year }}-{{ size_label }}.css">
 
     {% include "../partials/page-setup.njk" %}
     {# v0.4 breaks the 2022 edition #}
     <script src="/pagedjs/paged.polyfill_{{ "v0.2" if year == "2022" else "v0.4" }}.js"></script>
     {# paged.js preview in browser #}
     <link rel="stylesheet" href="/pagedjs/interface_v0.4.css">
-    {# pagedjs-cli --additional-script <script> #}
     <script src="/js/hooks-to-pagedjs.js"></script>
 </head>
 <body>

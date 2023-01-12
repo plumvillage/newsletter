@@ -940,9 +940,9 @@ article ul li::before {
 .article-young-buds-glistening-in-the-sunshine blockquote {
     margin-top: 0;
     margin-bottom: 17pt;
-    break-inside: avoid;
 }
 .article-phong-van-cac-vi-xuat-gia-tre blockquote p,
 .article-young-buds-glistening-in-the-sunshine blockquote p {
+    break-inside: avoid;
     font-style: normal;
 }

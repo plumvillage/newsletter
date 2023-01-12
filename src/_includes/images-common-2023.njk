@@ -1,0 +1,105 @@
+
+{# all of those are also available as WEBP WITH TRANSPARENCY #}
+{# 2023 #}
+html:lang(en) .pagedjs_left_page .pagedjs_margin-bottom-left {
+    /* margin top size */
+    background: 7% 53%/24% no-repeat url("{% imageSrc 'calligraphy2023/ParallelVerses/7 one line/webp_q90/Peace In Every Step.webp' %}");
+}
+html:lang(en) .pagedjs_right_page .pagedjs_margin-bottom-right {
+    background: 93% 53%/24% no-repeat url("{% imageSrc 'calligraphy2023/ParallelVerses/7 one line/webp_q90/Freedom In Every Smile.webp' %}");
+}
+
+html:lang(vi) .pagedjs_left_page .pagedjs_margin-bottom-left {
+    background: 7% 41%/26% no-repeat url("{% imageSrc 'calligraphy2023/ParallelVerses/7 one line/webp_q90/Buoc Chan An Lac.webp' %}");
+}
+html:lang(vi) .pagedjs_right_page .pagedjs_margin-bottom-right {
+    background: 93% 41%/26% no-repeat url("{% imageSrc 'calligraphy2023/ParallelVerses/7 one line/webp_q90/Nu Cuoi Thanh Thoi.webp' %}");
+}
+
+
+{# bulk-style all those images to be set fullsize at the bottom of the page
+    parameters:
+        1: height
+        2: top-offset (pushes image down)
+        3: start of fade-in gradient (top-down) in % percent
+        4: end of fade-in gradient %
+#}
+
+{# sometimes, if the top-offset is too big, the fade will not display in the pdf. I do not know why #}
+{% set items = [
+["su-ongDSC08780",
+	"60mm", "0mm", 0, 35]
+]
+%}
+
+{% block content %}{% endblock %}
+
+
+{# commas are added automatically by nunjucks #}
+{% idMap "figure#article", items %}
+{
+    margin: 0;
+    max-width: none !important;
+    position: absolute;
+    z-index: -1;
+    width: calc(var(--pagedjs-pagebox-width) + (var(--bleed)) * 2);
+    left: calc((var(--pagedjs-margin-left) + var(--bleed))*-1);
+    overflow: visible;
+    /* this is removing an artefact in the pdf, which would otherwise display a thin line of the image above the white mask */
+    border-top: 2px solid white;
+}
+
+{% idMap ".PAGE-OF-article", items, " .pagedjs_margin-bottom" %}
+{
+    {# filter: drop-shadow(0 0 1pt white) drop-shadow(0 0 3pt white); #}
+    display: none !important;
+    content: none !important;
+}
+
+{% for item in items %}
+figure#article{{ item[0] }} {
+    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + {{ item[1] }} + {{ item[2] }}) * -1);
+    {%- if not (item[3] == 0 and item[4] == 0) %}
+        mask-image: linear-gradient(to bottom,
+            {% easingGradient item[3], item[4] %}
+        );
+        -webkit-mask-image: linear-gradient(to bottom,
+            {% easingGradient item[3], item[4] %}
+        );
+    {%- endif %}
+}
+.PAGE-OF-article{{ item[0] }} .pagedjs_page_content {
+    height: calc(100% - var(--pagedjs-footnotes-height) - {{ item[1] }}) !important;
+}
+
+{# I had first factored out the static rules to apply to all elements, which did not work. I suspect because pagedjs somehow merges the static and dynamic rules (data-following) #}
+figure#article{{ item[0] }} figcaption {
+    position: absolute;
+    right: 17mm;
+    width: 70mm;
+    color: rgb(220, 220, 220);
+    {# most beautiful, but computationally complex. printershops have problems with this. #}
+    {# text-shadow:
+        0 0 1pt black,
+        0 0 1pt black,
+        0 0 5pt black,
+        0 0 10pt black
+    ; #}
+    {# text-shadow: 0.3pt 0.4pt 0 rgba(0,0,0, 0.8); #}
+    {# unfortunately, this will eat the inside of the characters #}
+    {# -webkit-text-stroke: 0.3pt black; #}
+    {# 16mm if pagenumber is displayed #}
+    bottom: calc(10mm + {{ item[2] }});
+}
+
+{# this is a text duplicate lying below the original. #}
+figure#article{{ item[0] }} figcaption:after {
+    content: attr(text-for-outline);
+    position: absolute;
+    -webkit-text-stroke: 0.08em rgba(0,0,0,0.8);
+    right: 0;
+    {# top needs to be set for multi-line captions. it has been found empirically. #}
+    top: 1.333px;
+    z-index: -1;
+}
+{% endfor %}

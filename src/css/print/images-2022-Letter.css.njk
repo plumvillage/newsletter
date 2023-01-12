@@ -1,0 +1,26 @@
+---
+permalink: css/print/images-2022-Letter.css
+---
+
+{% extends "images-common-2022.njk" %}
+{% block content %}
+
+{% set items = (items.push(
+["br-troi-duc-hienBrDucHien-edit",
+	"100mm", "8mm", 5, 40],
+["sr-thao-nghiemIMG6614-edited",
+	"90mm", "0mm", 0, 20],
+["sr-thao-nghiemCCI0224201600039",
+   "125mm", "20mm", 0, 0],
+["richard-bradyEducators-retreat-in-Italy-Avalokita-centre1-e2",
+	"80mm", "5mm", 0, 25],
+["dr-elli-weisbaumScientific-Day-Poster-Presentation-at-The-University-of-Toronto-20182-e",
+	"90mm", "8mm", 10, 20],
+["br-phap-linhCS21202110152RL0936-crop4",
+    "130mm", "0mm", 0, 0],
+["br-phap-anDSC5530-edited",
+	"110mm", "0mm", 15, 40]
+), items)
+%}
+
+{% endblock %}
