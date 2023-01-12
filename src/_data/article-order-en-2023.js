@@ -13,6 +13,8 @@ module.exports = [
 "sr-hien-nhan--the-ancestors-calling-home",
 "br-khiet-tam--removing-eye-bandage",
 "br-ruong-phap--my-face-before-my-mother-was-born",
+"john-d-hussman--the-leaf",
+"sr-lac-hanh--a-mysterious-journey-home",
 // POEMS
 "sr-linh-di--mountain-dream",
 ]
