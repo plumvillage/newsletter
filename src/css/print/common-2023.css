@@ -946,3 +946,20 @@ article ul li::before {
     break-inside: avoid;
     font-style: normal;
 }
+
+
+#poem-mountain-dream b {
+    font-size: 130%;
+}
+
+.article-mountain-dream h1,
+.article-mountain-dream h2
+{
+    /* will break hyperlink */
+    display: none;
+}
+
+.article-mountain-dream cite {
+    font-style: normal;
+    padding-top: 8pt;
+}

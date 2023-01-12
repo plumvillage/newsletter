@@ -16,7 +16,8 @@ silently stretching out its roots<br/>
 —a trust beyond lifetimes.</p>
 
 <p>There has to be a winter first<br/>
-before welcoming the spring.</p></div>
+before welcoming the spring.</p>
+Sister Chân Trăng Lâm Hỷ</div>
 
 <div class="divider"></div>
 
