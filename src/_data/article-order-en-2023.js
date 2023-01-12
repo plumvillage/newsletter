@@ -17,4 +17,5 @@ module.exports = [
 "sr-lac-hanh--a-mysterious-journey-home",
 // POEMS
 "sr-linh-di--mountain-dream",
+"sr-lam-hy--poems",
 ]

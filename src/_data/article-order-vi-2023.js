@@ -15,6 +15,7 @@ module.exports = [
     "john-p-hussman--chiec-la",
     "sr-dao-nghiem--hanh-trinh-theo-buoc-chan-thay",
     "sr-the-nghiem--bac-thay-dich-thuc",
+    "cay-mimosa--ai-bao-di-tu-la-kho",
     // Poems
     "br-phap-kha--hai-mien-trang-sang",
     "sr-tuyet-nghiem--tho",

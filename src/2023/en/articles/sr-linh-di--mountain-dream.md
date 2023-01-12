@@ -15,6 +15,6 @@ There are moments, I am space,<br/>
 silent and ungraspable.<br/>
 Be it mountain, be it water<br/>
 be it flower, be it space,<br/>
-I surrender to the magic of the moment.</p>
+I surrender to the magic of the moment.</p></div>
 
 {% image "article2023/sr-linh-di/mountain-dream.jpg" %}
