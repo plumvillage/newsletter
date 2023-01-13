@@ -6,13 +6,19 @@ articleOrder.vi2023 = require("./src/_data/article-order-vi-2023.js")
 const fs = require('fs')
 const path = require("path")
 const slugify = require('slugify')
-const sharp = require("sharp");
+// const sharp = require("sharp")
 const Image = require("@11ty/eleventy-img")
 const srcPath = "src/media/originals"
 const calligraphyPath = "calligraphy/article-titles/"
+const parallelVerses2023path = "media/originals/passthroughCopies/ParallelVerses2023/"
 let firstRun = true
 
 var articleTitleCalligraphies = fs.readdirSync(`src/media/originals/${calligraphyPath}`)
+var parallelVerses2023 = {
+    dir: parallelVerses2023path,
+    list: fs.readdirSync(`src/${parallelVerses2023path}`)
+}
+
 
 async function imageShortcode(src, optClasses = "", imgLabel = "") {
     let result = await imageData(src)
@@ -76,7 +82,8 @@ async function imageData(src) {
         // let metadata = await Image(srcFull, options);
         // Image.statsSync(srcFull, options)
         
-        console.log("processing:", src)
+        // console.log("processing:", src)
+
         if (!fastProcess || !fs.existsSync(destFileSameName)) {
             
             if (justCopy) {
@@ -217,6 +224,10 @@ module.exports = function(eleventyConfig) {
 
     createSortedCollection("2023", "en")
     createSortedCollection("2023", "vi")
+
+    eleventyConfig.addCollection('parallelVerses2023', function(c) {
+        return parallelVerses2023
+    })
 
     // https://www.11ty.dev/docs/languages/nunjucks/#generic-global
     eleventyConfig.addNunjucksGlobal("articleCalligraphies", function(fileSlug) {

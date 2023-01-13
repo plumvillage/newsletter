@@ -905,6 +905,11 @@ article ul li::before {
 /* ////////////////////////////////////////////////// */
 /* ////////////////////////////////////////////////// */
 
+/* merge with succeeding poem/article */
+.article-X {
+    break-after: unset !important;
+}
+
 
 
 .article-phong-van-cac-vi-xuat-gia-tre .full-page-image figure,

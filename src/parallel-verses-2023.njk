@@ -1,0 +1,31 @@
+{% set prlVs = collections["parallelVerses2023"] %}
+
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <title>Lá thư Làng Mai / Plum Village Newsletter</title>
+    <meta name="author" content="Làng Mai / CBZ Village des Pruniers" />
+    <meta name="date" content="2022" />
+    <link rel="stylesheet" href="{{ '/css/global.css' | url }}">
+    <link rel="stylesheet" href="{{ '/css/web.css' | url }}">
+    <link rel="stylesheet" href="{{ '/css/web/splash.css' | url }}">
+</head>
+
+<body>
+    <h1>Parallel Verses 2023 for printing on A4 in high quality</h1>
+
+    <img class="overview_small" src="{% imageSrc 'calligraphy2023/ParallelVerses/9 Upright Diamond/Parallel Verses 2023 _ Upright Diamond EN.jpg' %}">
+    <img class="overview_small" src="{% imageSrc 'calligraphy2023/ParallelVerses/9 Upright Diamond/Parallel Verses 2023 _ Upright Diamond VI.jpg' %}">
+    <img class="overview_small" src="{% imageSrc 'calligraphy2023/ParallelVerses/9 Upright Diamond/Parallel Verses 2023 _ Upright Diamond FR.jpg' %}">
+
+    <ul>
+    {% for file in prlVs.list %}
+        <li><a href="{{ ["/", prlVs.dir, file] | join }}">{{ file | replace("Parallel-Verses-2023-_-", "") }}</a></li>
+    {%- endfor %}
+    </ul>
+    
+</body>
+
+</html>
