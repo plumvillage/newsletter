@@ -205,17 +205,17 @@ let workInProgress = 0;
 // all jobs are assumed to continueWork() by themselves after being finished
 // we first generate all raw PDFs. onFinished() adds the downsample jobs to this queue and then proceeds execution with more threads (because the downsample is not as memory-hungry)
 let workQueue = [
-    // () => generatePDF("http://localhost:8080/2023/en/articles-print-preview/br-ruong-phap--my-face-before-my-mother-was-born/", `./docs/2023/en/articles-print-preview/br-ruong-phap--my-face-before-my-mother-was-born`, onFinshed),
+    () => generatePDF("http://fee:8080/2023/vi/articles-print-preview/br-minh-hy--con-duong-la-tam-hon-toi/", `./docs/2023/vi/articles-print-preview/br-minh-hy--con-duong-la-tam-hon-toi`, onFinshed),
     
-    () => generatePDF("http://localhost:8080/2023/en/a4/", `./docs/2023/en-a4`, onFinshed),
-    () => generatePDF("http://localhost:8080/2023/en/a4-bleed/", `./docs/2023/en-a4-bleed`, onFinshed),
+    // () => generatePDF("http://localhost:8080/2023/en/a4/", `./docs/2023/en-a4`, onFinshed),
+    // () => generatePDF("http://localhost:8080/2023/en/a4-bleed/", `./docs/2023/en-a4-bleed`, onFinshed),
     // US Letter: 11in x 8.5in
-    () => generatePDF("http://localhost:8080/2023/en/letter/", `./docs/2023/en-letter`, onFinshed, {format: "Letter"}),
+    // () => generatePDF("http://localhost:8080/2023/en/letter/", `./docs/2023/en-letter`, onFinshed, {format: "Letter"}),
     // US Letter +5mm bleed
-    () => generatePDF("http://localhost:8080/2023/en/letter-bleed/", `./docs/2023/en-letter-bleed`, onFinshed, {height: "225.9mm", width: "289.4mm"}),
+    // () => generatePDF("http://localhost:8080/2023/en/letter-bleed/", `./docs/2023/en-letter-bleed`, onFinshed, {height: "225.9mm", width: "289.4mm"}),
 
-    () => generatePDF("http://localhost:8080/2023/vi/a4/", `./docs/2023/vi-a4`, onFinshed),
-    () => generatePDF("http://localhost:8080/2023/vi/a4-bleed/", `./docs/2023/vi-a4-bleed`, onFinshed),
+    // () => generatePDF("http://localhost:8080/2023/vi/a4/", `./docs/2023/vi-a4`, onFinshed),
+    // () => generatePDF("http://localhost:8080/2023/vi/a4-bleed/", `./docs/2023/vi-a4-bleed`, onFinshed),
 
 
     // () => generatePDF("http://localhost:8080/2022/en/a4/", `./docs/2022/en-a4`, onFinshed),
