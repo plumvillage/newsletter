@@ -996,3 +996,7 @@ article ul li::before {
     display: none !important;
     content: none !important;
 } */
+
+.pagedjs_pagebox {
+    /* transform: rotate(0deg); */
+}

@@ -39,10 +39,13 @@ html:lang(vi) .pagedjs_right_page .pagedjs_margin-bottom-right {
 {
     margin: 0;
     max-width: none !important;
-    position: absolute;
+    {# I can do this because pagedjs takes care to move the element up to be a child of the pagedjs_pagebox #}
+    position: fixed;
     z-index: -1;
-    width: calc(var(--pagedjs-pagebox-width) + (var(--bleed)) * 2);
-    left: calc((var(--pagedjs-margin-left) + var(--bleed))*-1);
+    {# width: calc(var(--pagedjs-pagebox-width) + (var(--bleed)) * 2); #}
+    width: calc(100% + (var(--bleed)) * 2);
+    {# left: calc((var(--pagedjs-margin-left) + var(--bleed))*-1); #}
+    left: calc(var(--bleed) * -1);
     overflow: visible;
     /* this is removing an artefact in the pdf, which would otherwise display a thin line of the image above the white mask */
     border-top: 2px solid white;
@@ -57,9 +60,12 @@ html:lang(vi) .pagedjs_right_page .pagedjs_margin-bottom-right {
 
 {% for item in items %}
 figure#article2023{{ item[0] }} {
-    top: calc(var(--pagedjs-pagebox-height) - var(--pagedjs-margin-top) + var(--bleed) - {{ item[1] }});
+    {# top: calc(var(--pagedjs-pagebox-height) - var(--pagedjs-margin-top) + var(--bleed) - {{ item[1] }}); #}
     {# before, I calculated a negative >bottom<, but this messes up pagedjs #}
     {# bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + {{ item[1] }} + {{ item[2] }}) * -1); #}
+
+    bottom: calc( var(--bleed) * -1  + {{ item[2] }});
+
     {%- if not (item[3] == 0 and item[4] == 0) %}
         mask-image: linear-gradient(to bottom,
             {% easingGradient item[3], item[4] %}
