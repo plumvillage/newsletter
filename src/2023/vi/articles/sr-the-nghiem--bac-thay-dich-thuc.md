@@ -61,7 +61,7 @@ Vào tháng Năm năm 2007, tăng thân nhỏ tại tu viện Thanh Sơn và tu 
 
 Như một đàn kiến ​​tập hợp lại sau khi bị lìa đàn, anh chị em chúng con bắt đầu tiến hành công việc chuyển đổi khách sạn và khu nghỉ dưỡng mùa hè trước đây thành một tu viện hoạt động quanh năm. Công việc chậm đã đành mà còn có phần thiếu tổ chức. Vào đầu mùa thu, công việc có tiến triển chút đỉnh, nhưng dường như không nhiều. 
 
-{% image "article2023/sr-the-nghiem-done/image_edited.jpg" %}
+{% image "article2023/sr-the-nghiem-done/2.jpg" %}
 
 Tăng thân của Bích Nham thời đó giống một đoàn tàu nhỏ đang leo dốc. Đại chúng cố gắng nghĩ chuyện thực tế, nên thỉnh cầu Thầy cho phép tạm dừng việc tổ chức khóa tu lớn đầu tiên trong mùa tới. Nhiều lý do được đưa ra: nào là thời điểm hãy còn quá sớm, mình chưa chuyển thành tu viện kịp, đại chúng chưa chuẩn bị để sẵn sàng nhận thiền sinh… Thầy trả lời: “Tăng thân làm được.” Chúng con đưa thêm lý do: các dãy nhà chính vẫn cần được tu sửa. Thiền đường thậm chí lúc đó đâu đã được xây… Câu trả lời của Thầy: “Đó cũng không là trở ngại.” Kêu gọi sức mạnh và tinh thần tập thể, Thầy dạy đại chúng thuê một cái lều thật lớn thay cho thiền đường lúc đó chưa hiện hữu.
 
