@@ -51,6 +51,8 @@ Con vừa đi vừa trò chuyện với các em, thỉnh thoảng hỏi xem các
 
 "Sư cô ơi, nước suối này ngon quá!” Giọng non nớt của một thiên thần vang lên khiến con cười thật tươi. Con dẫn các em leo đồi với những bước chân thật thảnh thơi. Tới nơi, các em nhanh chóng hòa vào cuộc vui với những thiên thần khác. Sư chị liền hỏi: “Làm sao em rủ được các em đi cùng hay vậy?” Nhìn về phía chiếc võng đang đung đưa khó nhọc do sức nặng của bầy thiên thần ngồi trên, con trả lời: “Dạ, tại các em thương em mà đi thôi. Với lại, em có hứa khi nào các em mệt, em sẽ dẫn về ngay.” Nếu không có sự truyền thông với các em trước đó, con thấy mình rất khó thành công dù có khéo léo cỡ nào đi nữa. “Các thiên thần rất thích ngồi võng thì phải. Lần sau đi rừng, mình sẽ đem theo nhiều võng hơn,” con thầm nghĩ.
 
+{% image "article2023/sr-bo-de-done/DSC_4020.jpg" %}
+
 ## Thì ra siêu quậy cũng biết buồn
 
 Điều con thấy mình làm được là thương các em đều như nhau, dù các em ngoan hay không ngoan. Trong khóa tu hai tuần ở Đức, có hai bé gái vô cùng nhiều năng lượng, thông minh và…siêu quậy. Các em bày đủ thứ trò để chơi, để phá và để chọc mọi người. Thú thật, con chỉ dám nhìn hai em từ xa chứ không có can đảm để tới chơi. 
@@ -62,8 +64,6 @@ Một buổi chiều, khi đang chơi đá cầu với các anh chị em, “si�
 Một buổi sáng yên bình. Màu vàng óng ả của những vạt nắng dàn trải trên những tán lá dâu và mái ngói thiền đường. Nắng chạy chơi khắp nơi trong bản nhạc véo von của những chú chim nhỏ. Con lặng im thưởng thức khung cảnh trước mắt. Bất chợt, một tia suy nghĩ đi lên: Nếu trong tương lai, nếp sống tâm linh không còn được chú trọng, xã hội đi về hướng tiêu thụ thì khung cảnh thiên nhiên an lành này có thể sẽ biến mất, thiền đường kia có thể trở thành siêu thị. Giây phút đó con nhớ về những thiên thần. 
 
 Phải chăng bên cạnh sự tươi mát, hồn nhiên, trong tất cả các em đều tồn tại những hạt giống của sợ hãi, bạo động, buồn giận và tuyệt vọng. Tùy thuộc vào sự tưới tẩm những hạt giống trong tâm thức mà các em có là thiên thần hay không. Nếu con tưới cho các em hạt giống của tình thương với thiên nhiên, với sự sống, các em sẽ biết đau lòng khi nhìn một cái cây bị đốn ngã, sẽ biết cách để chú ong nhỏ bay ra khi vô tình lạc vào nhà, sẽ bước những bước chân cẩn trọng để không giẫm lên bạn ốc sên đang bò ngang trên đường… 
-
-{% image "article2023/sr-bo-de-done/DSC_4020.jpg" %}
 
 Con trao truyền hạt giống thương yêu đó cho các em qua nụ cười, ánh mắt, lời nói và cả trong cách con hành xử. Con làm tất cả những gì cần làm để mai kia khi hóa thành gió, thành mây, con có thể mỉm cười thanh thản. Vì con biết rằng, các thiên thần sẽ tiếp tục sứ mạng mang thương yêu thấm nhuần trái đất. 
 
