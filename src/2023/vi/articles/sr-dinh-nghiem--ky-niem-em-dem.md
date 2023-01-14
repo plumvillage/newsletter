@@ -5,8 +5,6 @@ author: Sư cô Chân Đính Nghiêm
 
 Cuối năm, trời lành lạnh. Cái lạnh không đến nỗi rét như vùng New York, Hoa Kỳ nhưng cũng đủ để con mặc vài lớp áo. Ngồi bên ngọn nến, thưởng thức ly trà thơm, lòng con bình yên đến lạ. Giây phút bên ly trà là giây phút thanh thản, ấm lòng nhất đối với con. Dù trong bất cứ không gian và thời gian nào, trong con đều đong đầy cả khung trời hạnh phúc và tình thương. Buổi sớm mai trở nên thiêng liêng hơn, huyền diệu hơn và ngập tràn năng lượng tinh khôi, đầy sức sống cho một ngày mới bắt đầu.
 
-{% image "article2023/sr-dinh-nghiem/DSC_0067.JPG" %}
-
 Con ngồi yên, thưởng thức niềm hạnh phúc và một khuôn mặt hiền từ đầy tình thương hiện lên trong trí nhớ con. Đó là *“Sư cô Chân Không - người chị cả của giáo đoàn - người học trò nữ xuất gia đầu tiên của Sư Ông.”* Người có một gia tài tình thương không phân biệt bất kỳ một ai, dù đó là cư sĩ tại gia hay xuất gia, dù đó là những đệ tử xuất gia của Sư Ông hay là những vị khách tăng đến thực tập cùng đại chúng. Những hành xử của Sư cô luôn làm ấm lòng người đối diện và trở thành nhiều kỷ niệm đẹp trong tâm khảm của con mỗi khi nhớ về.
 
 ## Nằm nghe tiếng ru
@@ -18,6 +16,8 @@ Suốt khoá tu, ngày nào con cũng tận hưởng giờ thiền buông thư c
 ## Để thương để nhớ
 
 Mùa thu năm 2011, lần đầu tiên con gặp Sư cô ở Lộc Uyển. Sư cô gọi chúng con vào cốc của Sư cô ngồi chơi. Sư cô hỏi tên và nói: “À, con là Đính Nghiêm, người trả lời điện thoại khi sư cô gọi qua Bích Nham.” Con ngạc nhiên và nhớ lại có một lần con nhấc điện thoại và phía bên kia một giọng nói thật hiền: “Sư cô Chân Không đây, con là ai vậy?” Con thưa tên xong thì Sư cô hỏi tiếp con thuộc gia đình xuất gia nào. Rồi Sư cô nói: “Con giỏi lắm, biết thở trước khi nhấc điện thoại. Con còn nhỏ mà đã biết trả lời điện thoại lễ phép, rõ ràng sau này con sẽ làm được nhiều những chuyện khác.” Câu chuyện chỉ có vậy mà Sư cô nhớ và nhắc lại. Con biết Sư cô có trí nhớ rất tốt nhưng với con, đây cũng là một biểu hiện của tình thương Sư cô dành cho sư em nhỏ. 
+
+{% image "article2023/sr-dinh-nghiem/DSC_0403.JPG" %}
 
 Khóa tu ở Lộc Uyển kết thúc, đại chúng đi lên phía Bắc để hướng dẫn khóa tu tiếp theo ở Google. Sư cô xin ban tổ chức sắp xếp cho chúng con được đi cùng. Sư cô nói: “Chúng con mới đến Mỹ, nếu không được đi đợt này thì đâu biết sẽ có cơ hội nữa hay không!” Cuối cùng, chúng con cũng được đi, dù chẳng giúp được gì, mà ban tổ chức phải lo thêm chỗ ăn ở và chỗ đi chơi cho chúng con. Khi pháp thoại của Sư Ông kết thúc, chúng con được đi thăm cây cầu Vàng nổi tiếng trong khi Sư cô ở lại cho thiền sinh buông thư. 
 
@@ -51,6 +51,6 @@ Tối tối trước khi ngủ, Sư cô lại kể cho con nghe những chuyện
 
 Sư cô thương mọi người một cách chân thành, mộc mạc, không cầu kỳ khách sáo, nên Sư cô cũng đón nhận tình thương một cách chân thành và sâu sắc. Con thật hạnh phúc vì có cơ hội được gần Sư cô, được nuôi dưỡng trực tiếp bởi thân giáo và tình thương của Sư cô, được học hỏi và được truyền thêm lửa cho bồ đề tâm của mình. Nhìn Sư cô, con có thêm niềm tin nơi Sư Ông, vì con biết Sư cô là người học trò lớn của Sư Ông, được nuôi lớn từ thân giáo của Sư Ông cũng như đồng hành cùng Sư Ông trên con đường phụng sự. Giờ đây Sư cô tiếp tục giúp Sư Ông nuôi lớn các sư em của mình. Con nguyện noi gương Sư cô, nuôi dưỡng để lòng mình thênh thang hơn, để có thể trang trải tình thương ngày một rộng lớn hơn, cũng như chế tác năng lượng phụng sự, tấm lòng thủy chung sắt son với tăng thân và với con đường hạnh nguyện mà mình đã chọn.
 
-{% image "article2023/sr-dinh-nghiem/DSC_0403.JPG" %}
-
 Con xin thành kính cảm tạ sự hiện diện tuyệt vời của Sư cô trong tăng thân và kính mong Sư cô mãi an yên để làm chỗ nương tựa cho các sư em nhỏ hướng về.
+
+{% image "article2023/sr-dinh-nghiem/DSC_0067.JPG" %}
