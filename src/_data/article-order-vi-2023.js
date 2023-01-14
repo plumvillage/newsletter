@@ -16,6 +16,8 @@ module.exports = [
     "sr-dao-nghiem--hanh-trinh-theo-buoc-chan-thay",
     "sr-the-nghiem--bac-thay-dich-thuc",
     "cay-mimosa--ai-bao-di-tu-la-kho",
+    "sr-tung-hac--dieu-con-thich-nhat",
+    "sr-dang-nghiem--tiep-noi-thay",
     // Poems
     "br-phap-kha--hai-mien-trang-sang",
     "sr-tuyet-nghiem--tho",
