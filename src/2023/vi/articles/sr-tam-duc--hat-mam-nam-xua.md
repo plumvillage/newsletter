@@ -39,7 +39,7 @@ Trong nhà, mạ là người ủng hộ con đi tu, mạ nói ở ngoài đời
 
 Nghe tin Thầy tịch, cả nhà đều thương vì nghĩ rằng con không có cơ hội được làm con của Thầy nữa. Em Ni, bây chừ là sư chị Chân Trăng Hương Bình may mắn hơn khi được Thầy có mặt và nắm tay trong lễ xuất gia ở Thái. Khi nghe con sẽ được xuất gia trong lễ tâm tang, cả nhà rất mừng. Con chưa bao giờ nghĩ lễ xuất gia của con sẽ có gia đình bên cạnh, rứa mà cuối cùng nhân duyên hội tụ, cả nhà đã có mặt đầy đủ trong ngày con xuống tóc.
 
-{% image "article2023/sr-tam-duc-done/DSC_4613" %}
+{% image "article2023/sr-tam-duc-done/DSC_4613.JPG" %}
 
 Con biết ơn khoa và trường ở Huế đã thương con. Dù con rất thương quý mọi người, nhưng ước nguyện sống cuộc đời xuất sĩ lớn quá nên con không thể tiếp tục con đường kia. Trước khi vô chùa, con cũng đã kịp gửi thư cho cô giáo ở Nhật để báo tin. Con rất vui khi cô nói rằng cô mừng cho con đã được đi con đường mà con mong ước và chúc con tu học có nhiều hạnh phúc. Con biết ơn tăng thân trẻ ở Huế đã cho con nhiều kỉ niệm đẹp, giúp con vun bồi bồ đề tâm. Những đêm trăng tròn đi thuyền cát trên sông Hương cùng các bạn luôn còn mãi trong con. Sau khi xuất gia, con được ở chung với các chị em cây Mimosa hai tuần, tuy ngắn nhưng đầy nuôi dưỡng. Buổi chiều đi chấp tác về, thấy trên bàn học rất nhiều thư và ảnh mà các chị em gửi sang làm con vui cả buổi tối hôm đó. Con mở từng bức thư, xem từng bức hình để nhớ lại những khoảnh khắc ở chùa Tổ. Ngoài sáu chị em con, chừ ba mạ có thêm một đàn con ở chùa nữa.
 
