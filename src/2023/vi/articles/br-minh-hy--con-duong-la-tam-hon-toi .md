@@ -9,7 +9,7 @@ Trên con đường vắng, những cây tùng xanh mạnh khỏe, đứng bên 
 
 Thầy nói:
 
-> “Những hàng cây đứng thẳng như những cây cột trong giáo đường, khiến ta có cảm tưởng như đang lạc vào trong một thánh đường uy nghiêm.”
+> *“Những hàng cây đứng thẳng như những cây cột trong giáo đường, khiến ta có cảm tưởng như đang lạc vào trong một thánh đường uy nghiêm.”*
 
 Tôi cứ đi và cho phép mình đi chơi. Những con đường đẹp quá làm tôi cứ muốn đi thêm chút nữa, thân quen đến nỗi như chính đó là tâm hồn tôi. Những con đường ấy cho hạnh phúc, niềm vui mà chưa bao giờ là khổ đau. Không có gì thích thú hơn là được đi chơi. Dù trời mưa, bùn đất lầy lội, được đi từng bước trên những con đường ấy tôi đều cảm thấy thật dễ chịu, có khi nỗi buồn một lúc là tan biến mất. 
 
