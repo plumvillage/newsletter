@@ -15,6 +15,8 @@ Những ngày đầu, trong những thời khóa sinh hoạt với các em, con 
 
 Có khi, sau một hồi cố gắng diễn đạt bằng ngôn ngữ lẫn khua chân múa tay mà thấy mặt con vẫn ngơ ngác, các em có giải pháp cuối cùng là “Đi theo chúng con!” Với vẻ hào hứng, các em dẫn con đến nơi mới khám phá ra trong tòa nhà rộng lớn của Học viện. Sau khi leo gần cả trăm bậc thang, qua mấy tầng lầu, bát cơm trưa của con muốn tiêu hết thì chúng con tới được cầu thang dẫn lên gác mái của tòa nhà. Và thế là chương trình thám hiểm những ô cửa bí mật bắt đầu…
 
+{% image "article2023/sr-bo-de-done/DSC_2590.jpg" %}
+
 ## Tình thương làm nên sức mạnh
 
 Những khoảnh khắc con thấy mình kết nối được với các em nhiều nhất là ngoài giờ thời khóa. Con chơi bóng bàn, xích đu, đá bóng, thổi bong bóng, dẫn các em đi thăm những con thỏ hay những chú lừa nhà hàng xóm. Con cũng mời ba mẹ các em đi cùng để yên tâm và dễ truyền thông với các em hơn. 
@@ -34,6 +36,8 @@ Dẫu bão táp, dẫu mưa sa<br/>
 giữa vườn hoa nhân loại.</p></div>
 
 Thương là vậy, nhưng có lúc con phải nói “không.” Đó là những lúc đang trong giờ thời khoá, các em bỗng mè nheo với con: “Sư cô ơi, con đi chơi bóng bàn được không?” Nhìn vào đôi mắt sáng như sao và gương mặt hớn hở kia, dù không đành lòng, con vẫn phải tỏ ra cương quyết: “Bây giờ thì không được, đợi xong thời khóa chị sẽ dẫn em đi.” Sau một hồi năn nỉ con vẫn không lay chuyển, với vẻ tiu nghỉu vì thất vọng, các em ngoan ngoãn trở lại tiếp tục chơi với bút màu và giấy. 
+
+{% image "article2023/sr-bo-de-done/DSC_7368.jpg" %}
 
 Thường khi các em chia sẻ với con điều các em muốn, con sẽ hỏi lại các sư anh, sư chị làm việc chung với mình. Nếu mọi người đều không đồng ý, con sẽ buông ý đó xuống. Con có mặt ở đây là để yểm trợ các sư anh, sư chị mà không phải làm mọi người khó xử. Tuy có làm các em buồn một chút, nhưng nhiều nhất là một, hai tiếng đồng hồ, rồi các em lại tươi cười, chơi đùa như chưa hề có chuyện gì xảy ra. Đó là điều con ngưỡng mộ ở các em. Dường như càng lớn, khả năng buông bỏ của mình càng nhỏ lại, mình chấp chặt, nắm bắt ý kiến và cảm xúc của mình nhiều hơn thì phải. 
 
@@ -59,6 +63,10 @@ Một buổi sáng yên bình. Màu vàng óng ả của những vạt nắng d�
 
 Phải chăng bên cạnh sự tươi mát, hồn nhiên, trong tất cả các em đều tồn tại những hạt giống của sợ hãi, bạo động, buồn giận và tuyệt vọng. Tùy thuộc vào sự tưới tẩm những hạt giống trong tâm thức mà các em có là thiên thần hay không. Nếu con tưới cho các em hạt giống của tình thương với thiên nhiên, với sự sống, các em sẽ biết đau lòng khi nhìn một cái cây bị đốn ngã, sẽ biết cách để chú ong nhỏ bay ra khi vô tình lạc vào nhà, sẽ bước những bước chân cẩn trọng để không giẫm lên bạn ốc sên đang bò ngang trên đường… 
 
+{% image "article2023/sr-bo-de-done/DSC_4020.jpg" %}
+
 Con trao truyền hạt giống thương yêu đó cho các em qua nụ cười, ánh mắt, lời nói và cả trong cách con hành xử. Con làm tất cả những gì cần làm để mai kia khi hóa thành gió, thành mây, con có thể mỉm cười thanh thản. Vì con biết rằng, các thiên thần sẽ tiếp tục sứ mạng mang thương yêu thấm nhuần trái đất. 
 
-Tương lai của thế giới có tươi sáng hay không phụ thuộc vào cách bạn đối xử với một em bé trong giây phút hiện tại. Có nhiều cách để bảo vệ đất Mẹ, và một trong những cách thiết thực nhất là chăm sóc con cháu của bạn với tất cả tình thương và sự tỉnh thức. 
+Tương lai của thế giới có tươi sáng hay không phụ thuộc vào cách bạn đối xử với một em bé trong giây phút hiện tại. Có nhiều cách để bảo vệ đất Mẹ, và một trong những cách thiết thực nhất là chăm sóc con cháu của bạn với tất cả tình thương và sự tỉnh thức.
+
+{% image "article2023/sr-bo-de-done/DSC_3397.jpg" %}
