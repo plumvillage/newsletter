@@ -9,7 +9,7 @@ Cuối cùng chúng con cũng có dịp được đi bộ trên con đường ph
 
 Mùa thu đầu tiên của con ở nơi này thật đẹp!
 
-{% image "article2023/sr-tung-hac-done/IMG_4631" %}
+{% image "article2023/sr-tung-hac-done/IMG_4631.jpg" %}
 
 ## Nhận diện
 
@@ -35,7 +35,7 @@ Thường thì sau khi chiến đấu với những tập khí của mình, vớ
 
 Sau này, con nhận ra do thân và tâm mình mỏi mệt, thiếu ngủ cũng dẫn đến hôn trầm. Vì cả ngày thân tâm náo động nên khi ngồi yên gây trạo cử. Như cái quạt máy khi bấm nút tắt thì cánh quạt vẫn còn quay cho đến khi chậm dần rồi mới tắt hẳn, thân tâm ta cũng cần thời gian để lắng xuống. Vì vậy, mỗi khi ngồi thiền mà buồn ngủ, con cho phép mình chìm xuống và hoàn toàn buông thư sâu trong vài giây. Sau đó cơ thể lại tỉnh dậy tiếp tục ngồi trong sự tỉnh táo hơn. Khi nào cơ thể bứt rứt, đầu óc không yên thì con thực tập buông thư, sau vài hơi thở năng lượng sẽ dịu lại. Từ đó những buổi ngồi thiền của con có bình an hơn và theo thời gian thì chất lượng ngồi thiền cũng tốt hơn.
 
-{% image "article2023/sr-tung-hac-done/IMG_4941" %}
+{% image "article2023/sr-tung-hac-done/IMG_4941.jpg" %}
 
 Con cũng làm vậy với những tập khí khác của mình, tiếp tục nhận diện, ôm ấp mỗi lần chúng xuất hiện. Đôi lúc con tự nhủ rằng những gì mình đang suy nghĩ, nói hay làm có thể gây khó khăn cho mình, và rồi tiếp tục thở mà không tạo thêm ra chiến trường trong mình. Giữ sự thực tập đó, dần dần tần suất xuất hiện của những phản ứng theo tập khí giảm đi lúc nào không hay. Cho đến một ngày, trong lúc thực tập cùng đại chúng con bất chợt nhận ra vì sao mình không dễ dàng khi tiếp xúc với người mới hay không thích nghi được với những thay đổi đột ngột xảy ra trong đời sống. Vì trong con cảm giác thiếu an toàn lúc thuở nhỏ, cảm giác phải chia sẻ tình thương, cần sự chú ý hay được công nhận từ người khác. Hay việc ít bày tỏ cảm xúc, ý muốn của mình khi còn nhỏ đã ảnh hưởng đến cách con truyền đạt lời nói khi lớn hơn. Từ chỗ không chấp nhận mình có những yếu điểm đó cho đến khi nhận ra đó là gia tài mà mình góp nhặt bao lâu nay từ hoàn cảnh xuất thân cũng như môi trường sinh sống, con càng hiểu và thương mình hơn.
 
@@ -45,6 +45,6 @@ Vì luôn muốn mình là một phiên bản tốt nên con luôn cố gắng, 
 
 Con rất hạnh phúc mỗi khi khám phá bản thân mình, hiểu mình, thương được mình. Cảm giác được là chính mình và mỗi ngày mình sẽ là một phiên bản tốt hơn một cách tự nhiên mà không phải đi theo những thước đo gượng ép lý thuyết. Hành trình đó vẫn còn dài phía trước, nên con nguyện giữ gìn năng lượng, nuôi lớn dũng khí, nương vào sự yểm trợ của tăng thân và của mọi loài để tiếp tục bước tới.
 
-{% image "article2023/sr-tung-hac-done/IMG_4632" %}
+{% image "article2023/sr-tung-hac-done/IMG_4632.jpg" %}
 
 Những trận tuyết đầu mùa đã rơi. Vạn vật trắng xóa với nét đẹp huyền ảo. Chúng con đi bộ vào rừng ngắm tuyết, uống trà, lắng nghe dòng suối róc rách giữa hai bờ tuyết phủ trắng xóa và ăn siro đá bào từ tuyết cho Sư Ông. Con mời mọi người cùng chúng con tận hưởng và trân quý những giây phút quý giá này.
