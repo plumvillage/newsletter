@@ -21,6 +21,8 @@ Mặt trời cất chứa trong lòng trái khổ qua<br/>
 
 Những ngày sau khóa tu tâm tang, con có cơ hội ngồi một mình trong những lúc cách ly. Hình ảnh Thầy ngồi yên bên trang sách cùng nụ cười hiền và ánh mắt tỏa sáng như khắc lại trong lòng con bền bỉ và sống động. Để rồi lời kinh, câu thơ và tiếng nhạc như đọng lại trong hư không yên lắng tình Thầy. Con cảm nhận một tình thương dịu ngọt như lời ca dao mẹ thường ru cho con ngủ ngon trong vòng tay an toàn của mẹ. Bàn tay Thầy chuyển pháp nhẹ nhàng khi chỉ vào đóa hoa, cây bút hay tờ giấy làm minh họa bên nụ cười hóm hỉnh tươi vui. Giờ đây, mỗi khi nhìn bông hoa, chiếc lá… con như thấy nụ cười cùng ánh mắt ngời sáng của Thầy. Bàn tay ấy đã giữ lại con đường mây cho chúng con hôm nay.
 
+{% image "article2023/sr-van-nghiem-done/IMG_1786.JPG" %}
+
 Những ngày ở biển, mỗi khi con nhìn lên bầu trời, con thật sự thấy Thầy đang rong chơi cùng huynh đệ chúng con.
 
 <div class="verse"><p>Gối nhẹ mây đầu núi<br/>
@@ -48,6 +50,8 @@ Thầy kính thương,
 Những ngày chơi đùa, uống trà trên biển, con thấy mình như đổi thay trước không gian bao la của đất trời và nụ cười của sư chị, sư em. Con cũng lại thấy nụ cười, ánh mắt Thầy biểu hiện nơi quý sư anh, sư chị, sư em của con thật gần gũi và thân thương. Với con, pháp môn đi chơi là một pháp môn khó thực tập khi con không có nhiều sức khỏe, lại trong mùa dịch Covid. Nhưng rồi với lời nhắn gửi: “Nhớ chơi với các sư em giúp Thầy!” đã cho con động lực đồng hành cùng tăng thân như lời Thầy dặn. 
 
 Ngày ấy sau sự kiện tượng đài Bông hồng cài áo tại Bát Nhã bị đập, Thầy đưa cho con một tập các bài pháp thoại bằng tiếng Anh mà Thầy từng dạy cho trẻ em và nhắn nhủ rằng Thầy muốn các con dựa trên những tài liệu này để viết một cuốn sách dành cho thiếu nhi Việt Nam. Cuốn sách đó nhắc đến tình bạn của Lưu Bình-Dương Lễ, những câu chuyện trong Văn Lang Dị Sử, trò chơi dân gian, những điều Thầy dạy cho Gia đình Phật tử… Thầy nói: “Tượng đài bên ngoài không quan trọng, cái chính là các con phải phục hồi lại tuổi thơ và mỗi người phải dựng cho được một tượng đài của mình, một gia đình hạnh phúc có ba mẹ và các con…” Câu nói ấy đã trở thành công án cho chúng con trong công trình thiết lập truyền thông với gia đình huyết thống.
+
+{% image "article2023/sr-van-nghiem-done/PVM_2542.JPG" %}
 
 Lý tưởng của một người tu trẻ và tình yêu của một người trẻ thật là khác biệt, chỉ có tuổi thơ và gia đình hạnh phúc là điểm chung mà người trẻ nào cũng quan tâm. Nhớ về tuổi thơ, tức là vọng về quá khứ. Nghĩ về hạnh phúc gia đình, tình yêu và lý tưởng là mơ tưởng về tương lai. Con loay hoay hoài mà như bị kẹt cứng trong lời kinh:
 
@@ -78,3 +82,5 @@ Một lúc sau, Thầy đong đưa chân và chậm rãi nói: “Tên Biển M�
 Lời khai thị mộc mạc của Thầy đã đưa con về với tuổi thơ cùng hộp bánh lu đựng đầy vỏ sò, vỏ nghêu mà mẹ gửi tặng chị em con. Tối nào chúng con cũng quây quần bên hộp bánh lu để chơi trò gia đình sò biển. Con nhặt lấy những vỏ sò, vỏ nghêu mang về để làm những con chim hòa bình trong khóa tu nghệ thuật, và gửi tặng các bạn thiền sinh như gói theo trời mây non nước cùng nụ cười ấm áp của Thầy. Con chắp tay lại cảm ơn tình Thầy trong đôi tay nhỏ của mình.
 
 Con nguyện là sự tiếp nối đẹp của Thầy!
+
+{% image "article2023/sr-van-nghiem-done/sc van nghiem.JPG" %}
