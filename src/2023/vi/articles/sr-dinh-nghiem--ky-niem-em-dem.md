@@ -5,7 +5,7 @@ author: Sư cô Chân Đính Nghiêm
 
 Cuối năm, trời lành lạnh. Cái lạnh không đến nỗi rét như vùng New York, Hoa Kỳ nhưng cũng đủ để con mặc vài lớp áo. Ngồi bên ngọn nến, thưởng thức ly trà thơm, lòng con bình yên đến lạ. Giây phút bên ly trà là giây phút thanh thản, ấm lòng nhất đối với con. Dù trong bất cứ không gian và thời gian nào, trong con đều đong đầy cả khung trời hạnh phúc và tình thương. Buổi sớm mai trở nên thiêng liêng hơn, huyền diệu hơn và ngập tràn năng lượng tinh khôi, đầy sức sống cho một ngày mới bắt đầu.
 
-{% image "article2023/sr-sr-đính-nghiêm/DSC_0067.jpg" %}
+{% image "article2023/sr-dinh-nghiêm/DSC_0067.jpg" %}
 
 Con ngồi yên, thưởng thức niềm hạnh phúc và một khuôn mặt hiền từ đầy tình thương hiện lên trong trí nhớ con. Đó là *“Sư cô Chân Không - người chị cả của giáo đoàn - người học trò nữ xuất gia đầu tiên của Sư Ông.”* Người có một gia tài tình thương không phân biệt bất kỳ một ai, dù đó là cư sĩ tại gia hay xuất gia, dù đó là những đệ tử xuất gia của Sư Ông hay là những vị khách tăng đến thực tập cùng đại chúng. Những hành xử của Sư cô luôn làm ấm lòng người đối diện và trở thành nhiều kỷ niệm đẹp trong tâm khảm của con mỗi khi nhớ về.
 
@@ -27,7 +27,7 @@ Trở về Bích Nham, con bị bệnh, ho sòng sọc cả ngày lẫn đêm. K
 
 Năm 2013, con được làm thị giả Sư cô. Vừa gặp mặt, Sư cô đã tạo cho con một không khí thân tình, ấm áp. “Làm thị giả của sư cô khó lắm đó nghe", Sư cô nói rồi cười. Nụ cười ấy làm tan hết những lo lắng trong con.  Được nuôi dưỡng bởi năng lượng của Sư cô nên con cũng “tự nhiên, gần gũi” với Sư cô ngay lập tức. Con thương Sư cô như bà của mình vậy. Con làm tất cả những gì có thể để chăm sóc Sư cô bằng cả tấm lòng chứ không phải là nghĩa vụ. Và con nghĩ rằng những ai được làm thị giả của Sư cô cũng đều chung suy nghĩ ấy. 
 
-{% image "article2023/sr-đính-nghiêm/DSC_8466.jpg" %}
+{% image "article2023/sr-dinh-nghiêm/DSC_8466.jpg" %}
 
 Gần Sư cô, con mới biết được khối lượng công việc Sư cô làm cho tăng thân và cho các sư em của mình. Trong khóa tu, Sư cô không bỏ một thời khóa nào. Sáng nào Sư cô cũng dẫn con qua cốc Thạch Lang ngồi uống trà cùng Sư Ông và quý thầy thị giả trước buổi ngồi thiền hoặc pháp thoại. Buổi trưa, Sư cô cho thiền buông thư. Còn buổi chiều, Sư cô làm chủ tọa pháp đàm rồi cho thiền sinh tham vấn. Nếu các sư em gặp khó khăn, Sư cô đều có mặt. Người ở xa thì Sư cô gọi điện khuyên nhủ với tất cả tấm chân tình, còn nếu ở gần, Sư cô dành thời gian ngồi chơi với vị đó. Ngoài ra, Sư cô còn viết sách, trả lời các email của thiền sinh, rồi lo bao nhiêu chuyện khác cho Làng. Hôm nào Sư cô cũng thức rất khuya và dậy thật sớm. Vậy mà lúc nào Sư cô cũng đầy năng lượng tươi vui và đầy nhiệt huyết.
 
@@ -51,6 +51,6 @@ Tối tối trước khi ngủ, Sư cô lại kể cho con nghe những chuyện
 
 Sư cô thương mọi người một cách chân thành, mộc mạc, không cầu kỳ khách sáo, nên Sư cô cũng đón nhận tình thương một cách chân thành và sâu sắc. Con thật hạnh phúc vì có cơ hội được gần Sư cô, được nuôi dưỡng trực tiếp bởi thân giáo và tình thương của Sư cô, được học hỏi và được truyền thêm lửa cho bồ đề tâm của mình. Nhìn Sư cô, con có thêm niềm tin nơi Sư Ông, vì con biết Sư cô là người học trò lớn của Sư Ông, được nuôi lớn từ thân giáo của Sư Ông cũng như đồng hành cùng Sư Ông trên con đường phụng sự. Giờ đây Sư cô tiếp tục giúp Sư Ông nuôi lớn các sư em của mình. Con nguyện noi gương Sư cô, nuôi dưỡng để lòng mình thênh thang hơn, để có thể trang trải tình thương ngày một rộng lớn hơn, cũng như chế tác năng lượng phụng sự, tấm lòng thủy chung sắt son với tăng thân và với con đường hạnh nguyện mà mình đã chọn.
 
-{% image "article2023/sr-đính-nghiêm/DSC_0403.jpg" %}
+{% image "article2023/sr-dinh-nghiêm/DSC_0403.jpg" %}
 
 Con xin thành kính cảm tạ sự hiện diện tuyệt vời của Sư cô trong tăng thân và kính mong Sư cô mãi an yên để làm chỗ nương tựa cho các sư em nhỏ hướng về.
