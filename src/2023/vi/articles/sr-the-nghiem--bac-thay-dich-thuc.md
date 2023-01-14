@@ -23,7 +23,7 @@ Có một lần, con làm thị giả lái xe đưa Thầy từ xóm Mới về 
 
 Nhanh như chớp, nhưng vẫn điềm tĩnh và nhẹ nhàng, Thầy chỉ tay ra ngoài cửa xe, vui vẻ ngắm cảnh gì đó ở đằng xa để giúp con bớt mặc cảm trách móc bản thân. Lúc đó, con vừa quê vì thấy mình làm lỗi, mà cũng vừa ý thức là Thầy đang giúp mình “thay chốt,” nên con chỉ biết im lặng. Tuy vậy, trong con đã ghi tạc lòng từ bi của Thầy. *Bạch Thầy kính thương, cảm  ơn Thầy đã từ bi với con.*
 
-{% image "article2023/sr-the-nghiem/image_edited.jpg" %}
+{% image "article2023/sr-the-nghiem-done/image_edited.jpg" %}
 
 Con còn một kỷ niệm khác với Thầy. Có một ngày, con làm thị giả cho Thầy ở thiền đường Cam Lộ, xóm Hạ. Trong khi Thầy và đại chúng đã an tọa, chuẩn bị cho buổi cơm quá đường rồi, con vẫn còn đứng ở lối đi chính giữa thiền đường. Đang loay hoay tìm cách làm sao để đến chỗ ngồi dành cho thị giả, con bỗng thấy một chỗ trống sát tọa cụ của Thầy. Thở phào nhẹ nhõm, con tìm lối đi tắt để tới chỗ đó, mà hoàn toàn không ý thức đó là một bước hết sức dại dột: lối đi đó băng ngang mâm cơm và bình bát dành cho Thầy. Thời điểm đó, sự thực tập của con còn non nớt lắm. Con nào biết bước qua đồ đạc của thầy mình là một sự thất lễ, huống hồ đây lại là mâm cơm của Thầy.
 
@@ -43,6 +43,8 @@ Ngẫm lại cuộc đối thoại giữa hai thầy trò, con nhận thấy Th�
 
 Vậy là, Thầy đã phá tan chướng ngại và mở ra cánh cửa cho con có cơ hội lớn lên bằng kinh nghiệm trực tiếp của chính mình. Đã bao nhiêu năm rồi, lời dạy của Thầy vẫn tiếp tục là công án quý giá cho con quán chiếu. Từ nhiều góc độ khác nhau về thời gian và kinh nghiệm, con thường trở về với lời Thầy dạy để một lần nữa nhìn sâu vào cách hiểu và sự thực tập của mình.  
 
+{% image "article2023/sr-the-nghiem-done/1.jpg" %}
+
 ## Người làm vườn tận tụy
 
 Thầy thường được ví như một bậc thầy về làm vườn. Người khéo léo vun xới, làm cho vườn ươm tăng thân ngày càng đa dạng và lớn rộng bằng sự nuôi dưỡng và khích lệ của Thầy. Người kiên trì chăm sóc từng chồi non trong sự thực tập của chúng con. Thậm chí ở mức căn bản hơn, Thầy chăm sóc cẩn thận hạt giống niềm tin đôi khi còn ngủ vùi trong chúng con, để rồi giúp chúng con đánh thức niềm tin vào khả năng tỉnh thức hay tính Bụt trong chính mình. 
@@ -59,7 +61,7 @@ Vào tháng Năm năm 2007, tăng thân nhỏ tại tu viện Thanh Sơn và tu 
 
 Như một đàn kiến ​​tập hợp lại sau khi bị lìa đàn, anh chị em chúng con bắt đầu tiến hành công việc chuyển đổi khách sạn và khu nghỉ dưỡng mùa hè trước đây thành một tu viện hoạt động quanh năm. Công việc chậm đã đành mà còn có phần thiếu tổ chức. Vào đầu mùa thu, công việc có tiến triển chút đỉnh, nhưng dường như không nhiều. 
 
-{% image "article2023/sr-the-nghiem/ctn zen circle 3 2017 BCM_edited.jpg" %}
+{% image "article2023/sr-the-nghiem-done/image_edited.jpg" %}
 
 Tăng thân của Bích Nham thời đó giống một đoàn tàu nhỏ đang leo dốc. Đại chúng cố gắng nghĩ chuyện thực tế, nên thỉnh cầu Thầy cho phép tạm dừng việc tổ chức khóa tu lớn đầu tiên trong mùa tới. Nhiều lý do được đưa ra: nào là thời điểm hãy còn quá sớm, mình chưa chuyển thành tu viện kịp, đại chúng chưa chuẩn bị để sẵn sàng nhận thiền sinh… Thầy trả lời: “Tăng thân làm được.” Chúng con đưa thêm lý do: các dãy nhà chính vẫn cần được tu sửa. Thiền đường thậm chí lúc đó đâu đã được xây… Câu trả lời của Thầy: “Đó cũng không là trở ngại.” Kêu gọi sức mạnh và tinh thần tập thể, Thầy dạy đại chúng thuê một cái lều thật lớn thay cho thiền đường lúc đó chưa hiện hữu.
 
