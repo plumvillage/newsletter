@@ -622,7 +622,7 @@ article p, article blockquote {
     widows: 3;
 }
 
-article p:not(.editors-preface) + p,
+article p:not(.editors-preface):not(.centered-preface) + p,
 article figure + p,
 html:lang(vi) .editors-preface + p
 html:lang(vi) article blockquote + p,
@@ -794,6 +794,15 @@ article figure figcaption {
     margin-bottom: 0 !important;
     padding-top: 1pt;
     z-index: 2;
+}
+
+.centered-preface {
+    column-span: all;
+    font-style: italic;
+    text-align: center;
+    width: 60%;
+    margin: 0 auto;
+    padding-bottom: 1.5em;
 }
 
 p.editors-preface {
