@@ -10,10 +10,12 @@ const slugify = require('slugify')
 const Image = require("@11ty/eleventy-img")
 const srcPath = "src/media/originals"
 const calligraphyPath = "calligraphy/article-titles/"
+const calligraphyPath2023 = "calligraphy2023/article-titles/"
 const parallelVerses2023path = "media/originals/passthroughCopies/ParallelVerses2023/"
 let firstRun = true
 
 var articleTitleCalligraphies = fs.readdirSync(`src/media/originals/${calligraphyPath}`)
+var articleTitleCalligraphies2023 = fs.readdirSync(`src/media/originals/${calligraphyPath2023}`)
 var parallelVerses2023 = {
     dir: parallelVerses2023path,
     list: fs.readdirSync(`src/${parallelVerses2023path}`)
@@ -234,12 +236,16 @@ module.exports = function(eleventyConfig) {
         let e = {}
         e.hasCalligraphy = articleTitleCalligraphies.includes(`${fileSlug}.webp`)
         if (e.hasCalligraphy) {
-            // console.log("found calligraphy for article: ", fileSlug)
             e.calligraphyFile = `${calligraphyPath}${fileSlug}.webp`
-            // e.calligraphyFile = `/media/${calligraphyPath}${fileSlug}.webp`
+        } else {
+            e.hasCalligraphy = articleTitleCalligraphies2023.includes(`${fileSlug}.webp`)
+            if (e.hasCalligraphy) {
+                console.log("found calligraphy for article: ", fileSlug)
+                e.calligraphyFile = `${calligraphyPath2023}${fileSlug}.webp`
+            }
         }
         return e
-    });
+    })
 
     eleventyConfig.addNunjucksShortcode("idMap", idMap);
     eleventyConfig.addNunjucksShortcode("easingGradient", easingGradient);
