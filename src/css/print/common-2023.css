@@ -534,7 +534,7 @@ figure.expandToRightBorder.noFloat {
 
 h1.calligraphyTitle {
     margin-top: 0mm;
-    margin-bottom: -5mm;
+    margin-bottom: -2mm;
 }
 
 h1.calligraphyTitle figure {
@@ -980,4 +980,26 @@ article ul li::before {
 
 .PAGE-OF-article2023br-minh-hy-donethay-minh-hy p {
     text-shadow: 0.3pt 0.4pt 0px white;
+}
+
+#calligraphy2023article-titlessr-van-nghiem-con-co-tuoi-tre-con-co-niem-vui-song,
+#calligraphy2023article-titlessr-van-nghiem-con-co-tuoi-tre-con-co-niem-vui-song img {
+    max-height: 42mm !important;
+}
+
+#calligraphy2023article-titlessr-the-nghiem-bac-thay-dich-thuc,
+#calligraphy2023article-titlessr-the-nghiem-bac-thay-dich-thuc img {
+    max-height: 28mm !important;
+}
+
+#calligraphy2023article-titlessr-dang-nghiem-tiep-noi-thay,
+#calligraphy2023article-titlessr-dang-nghiem-tiep-noi-thay img {
+    max-height: 39mm !important;
+}
+
+h1#tiep-noi-thay.calligraphyTitle {
+    margin-bottom: -11mm !important;
+}
+h1#tiep-noi-thay.calligraphyTitle + h2.author{
+    padding-left: 10mm;
 }
