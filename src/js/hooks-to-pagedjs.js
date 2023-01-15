@@ -47,6 +47,23 @@ class MyHandler extends Paged.Handler {
 
         if (node.nodeName == "FIGURE" && node.id) {
             addClassToPageDIV(node, `PAGE-OF-${node.id}`)
+
+            // move all bottom-centered images up to its parent pagedjs_sheet. this way, it can be placed more easily and does not obstruct text flow. Previously, I solved this with a negative >bottom< value (relative to pagedjs_page_content), but this is not working properly (any more since v0.4 of pagedjs)
+            if (node.classList.contains('bottom-centered')) {
+                let findParentPagedjs_sheet = node
+                do {
+                    findParentPagedjs_sheet = findParentPagedjs_sheet.parentNode
+                    if (!findParentPagedjs_sheet) {
+                        console.error("cannot find pagedjs_sheet for ", node)
+                        break
+                    }
+                    if (findParentPagedjs_sheet.classList.contains("pagedjs_sheet")) {
+                        findParentPagedjs_sheet.appendChild(node)
+                        // console.log("moved", node, "to", findParentPagedjs_sheet)
+                        break
+                    }
+                } while (findParentPagedjs_sheet)
+            }
         }
         
         if (node.nodeName == "FIGCAPTION") {

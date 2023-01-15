@@ -978,25 +978,6 @@ article ul li::before {
     padding-top: 8pt;
 }
 
-/* figure#article2023br-minh-hy-donethay-minh-hy {
-    margin: 0;
-    max-width: none !important;
-    position: absolute;
-    z-index: -1;
-    width: calc(var(--pagedjs-pagebox-width) + (var(--bleed)) * 2);
-    left: calc((var(--pagedjs-margin-left) + var(--bleed))*-1);
-    overflow: visible;
-    top: 50mm;
-    border-top: 2px solid white;
-} */
-
-/* .PAGE-OF-article2023br-minh-hy-donethay-minh-hy .pagedjs_margin-bottom-left-corner-holder,
-.PAGE-OF-article2023br-minh-hy-donethay-minh-hy .pagedjs_margin-bottom-right-corner-holder,
-.PAGE-OF-article2023br-minh-hy-donethay-minh-hy .pagedjs_margin-bottom {
-    display: none !important;
-    content: none !important;
-} */
-
-.pagedjs_pagebox {
-    /* transform: rotate(0deg); */
+.PAGE-OF-article2023br-minh-hy-donethay-minh-hy p {
+    text-shadow: 0.3pt 0.4pt 0px white;
 }

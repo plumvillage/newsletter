@@ -1,6 +1,5 @@
 
 {# all of those are also available as WEBP WITH TRANSPARENCY #}
-{# 2023 #}
 html:lang(en) .pagedjs_left_page .pagedjs_margin-bottom-left {
     /* margin top size */
     background: 7% 53%/24% no-repeat url("{% imageSrc 'calligraphy2023/ParallelVerses/7 one line/webp_q90/Peace In Every Step.webp' %}");
@@ -19,7 +18,7 @@ html:lang(vi) .pagedjs_right_page .pagedjs_margin-bottom-right {
 
 {# bulk-style all those images to be set fullsize at the bottom of the page
     parameters:
-        1: height
+        1: height of how much of the pagedjs_page_content is reserved for the image. this determines how much the text overlaps with the image (or how much space it leaves before it breaks).
         2: top-offset (pushes image down)
         3: start of fade-in gradient (top-down) in % percent
         4: end of fade-in gradient %
@@ -27,25 +26,25 @@ html:lang(vi) .pagedjs_right_page .pagedjs_margin-bottom-right {
 
 {# sometimes, if the top-offset is too big, the fade will not display in the pdf. I do not know why #}
 {% set items = [
-["br-minh-hy-doneDSC7356",
-	"50mm", "0mm", 0, 5]
+["br-minh-hy-donethay-minh-hy",
+	"50mm", "0mm", 10, 70]
 ]
 %}
 
 {% block content %}{% endblock %}
 
+.bottom-centered,
 {# commas are added automatically by nunjucks #}
 {% idMap "figure#article2023", items %}
 {
     margin: 0;
     max-width: none !important;
-    {# I can do this because pagedjs takes care to move the element up to be a child of the pagedjs_pagebox #}
-    position: fixed;
+    {# >fixed< positioned elements are placed by pagedjs on >every< pagedjs_pagebox #}
+    position: absolute;
     z-index: -1;
-    {# width: calc(var(--pagedjs-pagebox-width) + (var(--bleed)) * 2); #}
-    width: calc(100% + (var(--bleed)) * 2);
+    width: calc(var(--pagedjs-pagebox-width) + (var(--bleed)) * 2);
     {# left: calc((var(--pagedjs-margin-left) + var(--bleed))*-1); #}
-    left: calc(var(--bleed) * -1);
+    left: calc((var(--bleed)) * -1);
     overflow: visible;
     /* this is removing an artefact in the pdf, which would otherwise display a thin line of the image above the white mask */
     border-top: 2px solid white;
@@ -64,7 +63,8 @@ figure#article2023{{ item[0] }} {
     {# before, I calculated a negative >bottom<, but this messes up pagedjs #}
     {# bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + {{ item[1] }} + {{ item[2] }}) * -1); #}
 
-    bottom: calc( var(--bleed) * -1  + {{ item[2] }});
+    bottom: calc( (var(--bleed) + {{ item[2] }} ) * -1);
+    {# bottom: -5mm; #}
 
     {%- if not (item[3] == 0 and item[4] == 0) %}
         mask-image: linear-gradient(to bottom,
@@ -77,6 +77,7 @@ figure#article2023{{ item[0] }} {
 }
 .PAGE-OF-article2023{{ item[0] }} .pagedjs_page_content {
     height: calc(100% - var(--pagedjs-footnotes-height) - {{ item[1] }}) !important;
+    {# height: calc(100% + var(--pagedjs-footnotes-height) + var(--pagedjs-margin-bottom)) !important; #}
 }
 
 {# I had first factored out the static rules to apply to all elements, which did not work. I suspect because pagedjs somehow merges the static and dynamic rules (data-following) #}
