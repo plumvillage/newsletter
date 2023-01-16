@@ -824,21 +824,23 @@ p.editors-preface::after, .divider::after {
     font-style: normal;
     content: "✦";
     font-size: 70%;
-    /* padding-top + height > 0.8mm, or it does not render correctly in the chrome browser preview */
-    padding-top: 0.8mm;
-    height: 0.3mm;
-    line-height: 0.7mm;
+    /* problems with layout without padding. very weird. */
+    padding-top: 1.2mm;
+    padding-bottom: 1.8mm;
+    height: 0.25mm;
+    line-height: 0.65mm;
     color: var(--color-bark-dark);
     text-align: center;
     display: block;
     width: 100%;
+    /* box-shadow: inset ... will produce glitches (border stripes) in pdf output */
     background-clip: content-box;
     background-image: linear-gradient(to right,
-    transparent,
+    transparent 3%,
     var(--color-bark-dark),
     transparent 50%,
     var(--color-bark-dark),
-    transparent);
+    transparent 97%);
 }
 
 .divider {
