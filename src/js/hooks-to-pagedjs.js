@@ -47,22 +47,23 @@ class MyHandler extends Paged.Handler {
 
         if (node.nodeName == "FIGURE" && node.id) {
             addClassToPageDIV(node, `PAGE-OF-${node.id}`)
-
-            // {2023 edition} move all bottom-centered images up to its parent pagedjs_sheet. this way, it can be placed more easily and does not obstruct text flow. Previously, I solved this with a negative >bottom< value (relative to pagedjs_page_content), but this is not working properly (any more since v0.4 of pagedjs)
-            if (node.classList.contains('bottom-centered')) {
-                let findParentPagedjs_sheet = node
+            
+            // {2023 edition} move all bottom-centered images up to its parent pagedjs_pagebox. this way, it can be placed more easily and does not obstruct text flow. Previously, I solved this with a negative >bottom< value (relative to pagedjs_page_content), but this is not working properly (any more since v0.4 of pagedjs)
+            // OBSOLETE code. I found that the top-gradient is not working when the image is in pagedjs_pagebox and the bottom is reaching even 1mm below the frame. however, if the image remains the non-last element in the text flow, the gradient is still working
+            if (false && node.classList.contains('bottom-centered')) {
+                let findParentPagedjs_pagebox = node
                 do {
-                    findParentPagedjs_sheet = findParentPagedjs_sheet.parentNode
-                    if (!findParentPagedjs_sheet) {
-                        console.error("cannot find pagedjs_sheet for ", node)
+                    findParentPagedjs_pagebox = findParentPagedjs_pagebox.parentNode
+                    if (!findParentPagedjs_pagebox) {
+                        console.error("cannot find pagedjs_pagebox for ", node)
                         break
                     }
-                    if (findParentPagedjs_sheet.classList.contains("pagedjs_sheet")) {
-                        findParentPagedjs_sheet.appendChild(node)
-                        // console.log("moved", node, "to", findParentPagedjs_sheet)
+                    if (findParentPagedjs_pagebox.classList.contains("pagedjs_pagebox")) {
+                        findParentPagedjs_pagebox.appendChild(node)
+                        // console.log("moved", node, "to", findParentPagedjs_pagebox)
                         break
                     }
-                } while (findParentPagedjs_sheet)
+                } while (findParentPagedjs_pagebox)
             }
         }
         

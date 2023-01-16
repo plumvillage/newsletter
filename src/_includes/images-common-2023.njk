@@ -24,10 +24,11 @@ html:lang(vi) .pagedjs_right_page .pagedjs_margin-bottom-right {
         4: end of fade-in gradient %
 #}
 
-{# sometimes, if the top-offset is too big, the fade will not display in the pdf. I do not know why #}
+{# sometimes, if the top-offset is too big (>15mm for v0.2; >7mm for v0.4), the fade will not display in the pdf. I do not know why #}
+{# those images must not be placed as the last element of the article.  #}
 {% set items = [
 ["br-minh-hy-donethay-minh-hy",
-	"50mm", "0mm", 10, 70]
+    "10mm", "0mm", 10, 70]
 ]
 %}
 
@@ -43,27 +44,31 @@ html:lang(vi) .pagedjs_right_page .pagedjs_margin-bottom-right {
     position: absolute;
     z-index: -1;
     width: calc(var(--pagedjs-pagebox-width) + (var(--bleed)) * 2);
-    {# left: calc((var(--pagedjs-margin-left) + var(--bleed))*-1); #}
-    left: calc((var(--bleed)) * -1);
+    {# width: calc(var(--pagedjs-pagebox-width)); #}
+    left: calc((var(--pagedjs-margin-left) + var(--bleed))*-1);
+    {# left: calc((var(--bleed)) * -1); #}
+    {# left: 0mm; #}
     overflow: visible;
-    /* this is removing an artefact in the pdf, which would otherwise display a thin line of the image above the white mask */
-    border-top: 2px solid white;
+
 }
 
 {% idMap ".PAGE-OF-article2023", items, " .pagedjs_margin-bottom" %}
 {
-    {# filter: drop-shadow(0 0 1pt white) drop-shadow(0 0 3pt white); #}
     display: none !important;
     content: none !important;
 }
 
 {% for item in items %}
 figure#article2023{{ item[0] }} {
-    {# top: calc(var(--pagedjs-pagebox-height) - var(--pagedjs-margin-top) + var(--bleed) - {{ item[1] }}); #}
-    {# before, I calculated a negative >bottom<, but this messes up pagedjs #}
-    {# bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + {{ item[1] }} + {{ item[2] }}) * -1); #}
+    {# cannot do it with >top< because I do not know the image height #}
 
-    bottom: calc( (var(--bleed) + {{ item[2] }} ) * -1);
+    {# negative >bottom< works if the element is not the last in the text flow #}
+    {# bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + {{ item[2] }}) * -1); #}
+
+    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + {{ item[1] }} + {{ item[2] }}) * -1);
+
+    {# bottom: calc( (var(--pagedjs-bleed-bottom) + {{ item[2] }} ) * -1); #}
+    {# bottom: calc( (var(--bleed) + {{ item[2] }} ) * -1); #}
     {# bottom: -5mm; #}
 
     {%- if not (item[3] == 0 and item[4] == 0) %}
@@ -75,6 +80,13 @@ figure#article2023{{ item[0] }} {
         );
     {%- endif %}
 }
+figure#article2023{{ item[0] }} img {
+    {# BUGALERT: this border has to be set to IMG, not its parent figure, otherwise pagedjs v0.4 will break the page because of it #}
+    /* this is removing an artefact in the pdf, which would otherwise display a thin line of the image above the white mask */
+    border-top: 2px solid white;
+}
+
+
 .PAGE-OF-article2023{{ item[0] }} .pagedjs_page_content {
     height: calc(100% - var(--pagedjs-footnotes-height) - {{ item[1] }}) !important;
     {# height: calc(100% + var(--pagedjs-footnotes-height) + var(--pagedjs-margin-bottom)) !important; #}

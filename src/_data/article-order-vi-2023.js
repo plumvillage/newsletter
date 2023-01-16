@@ -1,7 +1,8 @@
 module.exports = [
     // Sư Ông - Hãy truyền cho nhau cái thấy
+    "br-minh-hy--con-duong-la-tam-hon-toi",
     "su-ong--hay-truyen-cho-nhau-cai-thay",
-    "sr-dinh-nghiem--thay-van-luon-la-thay.md",
+    "sr-dinh-nghiem--thay-van-luon-la-thay",
     "sr-thao-nghiem--thay-tro-minh-dang-o-tren-dinh-doi",
     "sr-dinh-nghiem--ky-niem-em-dem",
     "phong-van-cac-vi-xuat-gia-tre--positive-habit",
@@ -11,7 +12,6 @@ module.exports = [
     "sr-tuyet-nghiem--co-tay-thay-trong-tui-ao",
     "sr-tam-duc--hat-mam-nam-xua",
     "sr-van-nghiem--con-co-tuoi-tre-con-co-niem-vui-song",
-    "br-minh-hy--con-duong-la-tam-hon-toi",
     "dr-lilian-cheung--canh-cua-da-mo-ra",
     "john-p-hussman--chiec-la",
     "sr-dao-nghiem--hanh-trinh-theo-buoc-chan-thay",

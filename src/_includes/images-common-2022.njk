@@ -165,8 +165,6 @@ html:lang(vi) .pagedjs_right_page .pagedjs_margin-bottom-right {
     width: calc(var(--pagedjs-pagebox-width) + (var(--bleed)) * 2);
     left: calc((var(--pagedjs-margin-left) + var(--bleed))*-1);
     overflow: visible;
-    /* this is removing an artefact in the pdf, which would otherwise display a thin line of the image above the white mask */
-    border-top: 2px solid white;
 }
 
 {% idMap ".PAGE-OF-article", items, " .pagedjs_margin-bottom" %}
@@ -187,6 +185,11 @@ figure#article{{ item[0] }} {
             {% easingGradient item[3], item[4] %}
         );
     {%- endif %}
+}
+figure#article{{ item[0] }} img {
+    {# BUGALERT: this border has to be set to IMG, not its parent figure, otherwise pagedjs v0.4 will break the page because of it #}
+    /* this is removing an artefact in the pdf, which would otherwise display a thin line of the image above the white mask */
+    border-top: 2px solid white;
 }
 .PAGE-OF-article{{ item[0] }} .pagedjs_page_content {
     height: calc(100% - var(--pagedjs-footnotes-height) - {{ item[1] }}) !important;

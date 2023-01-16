@@ -9,10 +9,11 @@ Trên con đường vắng, những cây tùng xanh mạnh khỏe, đứng bên 
 
 Thầy nói:
 
-> *“Những hàng cây đứng thẳng như những cây cột trong giáo đường, khiến ta có cảm tưởng như đang lạc vào trong một thánh đường uy nghiêm.”*
+> “Những hàng cây đứng thẳng như những cây cột trong giáo đường, khiến ta có cảm tưởng như đang lạc vào trong một thánh đường uy nghiêm.”
+
+{% image "article2023/br-minh-hy-done/thay-minh-hy.jpg" %}
 
 Tôi cứ đi và cho phép mình đi chơi. Những con đường đẹp quá làm tôi cứ muốn đi thêm chút nữa, thân quen đến nỗi như chính đó là tâm hồn tôi. Những con đường ấy cho hạnh phúc, niềm vui mà chưa bao giờ là khổ đau. Không có gì thích thú hơn là được đi chơi. Dù trời mưa, bùn đất lầy lội, được đi từng bước trên những con đường ấy tôi đều cảm thấy thật dễ chịu, có khi nỗi buồn một lúc là tan biến mất. 
-
 
 Tôi ước rằng bạn cũng có ít nhất một con đường như thế để đi trong thôn xóm của mình. Có người thích đi trên những con đường mới, tôi cũng thích. Nhưng được đi trên những con đường trong xóm, tôi chưa bao giờ thấy chán. Con đường cũ là người bạn cố tri mà bao giờ mình cũng trông mong được gặp. Nếu bạn ghé thăm, chúng ta có thể đãi nhau bằng một chuyến dạo chơi. Chúng tôi ở đây không có gì ngoài những con đường đẹp. Cả gia tài hạnh phúc đều được Thầy cất giữ trên những con đường ấy. 
 
@@ -20,7 +21,6 @@ Nếu chẳng thấy mãn nguyện cùng đi chơi trên những con đường n
 
 Về đi! Bạn và tôi thuộc về nơi đây, thuộc về những con đường. Con đường là hạnh phúc, là chính ta.
 
-Con đường vắng, những hàng tùng xanh, dáng đứng thẳng tắp bên nhau.
+<!-- {% image "article/eulogy-in-PV/IMG_1576-e.jpg", "" %} -->
 
-{% image "article2023/br-minh-hy-done/thay-minh-hy.jpg", "bottom-centered" %}
-<!-- {% image "article2023/br-minh-hy-done/DSC_7356.JPG", "bottom-centered" %} -->
+Con đường vắng, những hàng tùng xanh, dáng đứng thẳng tắp bên nhau.

@@ -135,8 +135,9 @@ async function generatePDF(url, outputFile, onFinished = () => {}, customPdfOpti
     // this will fix Inconsistent text rendering in headless mode
     // https://github.com/puppeteer/puppeteer/issues/2410
     // we disable it in the 2022 edition, because it was layed out/optimised without this improvement
-    if (!url.includes("/2022/"))
+    if (!url.includes("/2022/")) {
         args.push("--font-render-hinting=none")
+    }
     
     const browser = await puppeteer.launch({
         args: args,
@@ -206,6 +207,7 @@ let workInProgress = 0;
 // we first generate all raw PDFs. onFinished() adds the downsample jobs to this queue and then proceeds execution with more threads (because the downsample is not as memory-hungry)
 let workQueue = [
     () => generatePDF("http://fee:8080/2023/vi/articles-print-preview/br-minh-hy--con-duong-la-tam-hon-toi/", `./docs/2023/vi/articles-print-preview/br-minh-hy--con-duong-la-tam-hon-toi`, onFinshed),
+    () => generatePDF("http://fee:8080/2022/en/articles-print-preview/sr-thuan-khanh--at-the-foot-of-the-majestic-mountain/", `./docs/2022/en/articles-print-preview/sr-thuan-khanh--at-the-foot-of-the-majestic-mountain`, onFinshed),
     
     // () => generatePDF("http://localhost:8080/2023/en/a4/", `./docs/2023/en-a4`, onFinshed),
     // () => generatePDF("http://localhost:8080/2023/en/a4-bleed/", `./docs/2023/en-a4-bleed`, onFinshed),
@@ -214,7 +216,7 @@ let workQueue = [
     // US Letter +5mm bleed
     // () => generatePDF("http://localhost:8080/2023/en/letter-bleed/", `./docs/2023/en-letter-bleed`, onFinshed, {height: "225.9mm", width: "289.4mm"}),
 
-    // () => generatePDF("http://localhost:8080/2023/vi/a4/", `./docs/2023/vi-a4`, onFinshed),
+    () => generatePDF("http://localhost:8080/2023/vi/a4/", `./docs/2023/vi-a4`, onFinshed),
     () => generatePDF("http://localhost:8080/2023/vi/a4-bleed/", `./docs/2023/vi-a4-bleed`, onFinshed),
 
 
