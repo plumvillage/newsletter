@@ -1,4 +1,5 @@
 module.exports = [
+"lang-mai-nam-qua",
 "su-ong--let-us-share-the-vision",
 "young-buds--positive-habit",
 "young-buds--elder-one",

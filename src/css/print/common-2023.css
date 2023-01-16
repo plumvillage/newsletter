@@ -10,7 +10,7 @@ body {
     counter-reset: chapternum figurenum ;
     font-family: "Gentium Book Plus ManualLineHeight", serif;
     /* in the chrome preview (not in Firefox), the first page will be blank when using line-height 14, instead of 16 pt. */
-    line-height: 14pt; /* ~125% has proven good */
+    line-height: 127.3%; /* ~125% has proven good */
     /* line-height: 16pt; */
     font-size: 11pt;
     /* https://software.sil.org/gentium/features/ */
@@ -125,6 +125,7 @@ figure img {
 .full-page-image figure {
     width: 100%;
     height: 100%;
+    margin-top: 0 !important;
 }
 
 .full-page-image figure img {
@@ -906,6 +907,45 @@ article ul li::before {
 }
 
 
+.positioned-text-box {
+    position: absolute;
+    background-color: rgba(255, 0, 0, 0.103);
+}
+
+.size-A4 .positioned-text-box {
+    top: var(--A4Top);
+    left: var(--A4Left);
+    right: var(--A4Right);
+    bottom: var(--A4Bottom);
+    /* top: 2mm; */
+    /* left: 2mm; */
+    /* right: 118mm; */
+    /* bottom: 136mm; */
+}
+.size-Letter .positioned-text-box {
+    top: var(--LetterTop);
+    left: var(--LetterLeft);
+    right: var(--LetterRight);
+    bottom: var(--LetterBottom);
+    /* top: 2mm; */
+    /* left: 2mm; */
+    /* right: 20mm; */
+    /* bottom: 20mm; */
+}
+
+.full-page-background-img-bleed {
+    position: absolute;
+    top: calc((var(--pagedjs-margin-top) + var(--bleed))*-1);
+    left: calc((var(--pagedjs-margin-left) + var(--bleed))*-1);
+    width: calc(var(--pagedjs-pagebox-width) + (var(--bleed)) * 2);
+    margin-top: 0;
+    z-index: -1;
+}
+.full-page-background-img-bleed figure {
+    float: none;
+    margin: 0;
+}
+
 
 
 /* ////////////////////////////////////////////////// */
@@ -919,12 +959,6 @@ article ul li::before {
     break-after: unset !important;
 }
 
-
-
-.article-phong-van-cac-vi-xuat-gia-tre .full-page-image figure,
-.article-young-buds-glistening-in-the-sunshine .full-page-image figure {
-    margin-top: 0;
-}
 .article-phong-van-cac-vi-xuat-gia-tre h1,
 .article-young-buds-glistening-in-the-sunshine h1 {
     margin-bottom: 11pt;
@@ -1002,4 +1036,19 @@ h1#tiep-noi-thay.calligraphyTitle {
 }
 h1#tiep-noi-thay.calligraphyTitle + h2.author{
     padding-left: 10mm;
+}
+
+.article-review-of-the-year > h1 {
+    /* linking does not work if I set display: none; */
+    position: absolute;
+    opacity: 0;
+}
+
+.article-being-rainbow {
+    columns: 1;
+}
+.article-being-rainbow .verse p {
+    text-align: center;
+    font-size: 12pt;
+    line-height: 130%;
 }
