@@ -937,15 +937,15 @@ article ul li::before {
 
 .full-page-background-img-bleed {
     position: absolute;
-    top: calc((var(--pagedjs-margin-top) + var(--bleed))*-1);
-    left: calc((var(--pagedjs-margin-left) + var(--bleed))*-1);
+    /* for some unknown reason, if I position this with >top<, in the pdf output, a top-margin remains */
+    bottom: calc((var(--pagedjs-margin-bottom) + var(--bleed)) * -1);
+    left: calc((var(--pagedjs-margin-left) + var(--bleed)) * -1);
     width: calc(var(--pagedjs-pagebox-width) + (var(--bleed)) * 2);
-    margin-top: 0;
     z-index: -1;
 }
 .full-page-background-img-bleed figure {
     float: none;
-    margin: 0;
+    margin: 0mm !important;
 }
 
 
@@ -1040,9 +1040,11 @@ h1#tiep-noi-thay.calligraphyTitle + h2.author{
     padding-left: 10mm;
 }
 
+/* hide but retain link (id) */
 .article-review-of-the-year > h1 {
     /* linking does not work if I set display: none; */
     position: absolute;
+    content: "";
     opacity: 0;
 }
 
