@@ -8,13 +8,13 @@ author: Phỏng vấn các vị xuất gia trẻ
 <!-- POSITIVE HABIT -->
 <!-- <p class="intro">Phỏng vấn các vị xuất gia trẻ</p> -->
 
-> “Khi còn là cư sĩ, con ít nói chuyện mặc dù công việc của con là quản lý. Sự truyền thông rất ngắn ngủi và có khi cũng không thoải mái để chia sẻ. Nhưng khi vào chùa, con thực tập ái ngữ thêm. Để làm sao có không gian và thời gian hơn khi nói ra điều gì đó và để những lời mình nói có nhiều thương yêu, hiểu biết.”<cite>Sư chú Trời Ruộng Hiếu</cite>
-
-> “Khi có cảm xúc đi lên, con thường nhận diện và dành thời gian để ngồi chơi với nó. Con không còn muốn đổi sang làm một việc gì khác như trước. Ý thức sự có mặt và ôm lấy cảm xúc đó trong vài phút. Vì biết rằng nếu không làm vậy, nó sẽ bám theo con hàng giờ. Con ưu tiên quay về chăm sóc cảm xúc ngay lập tức và thiết lập lại bình an trong nội tâm sớm nhất con có thể.”<cite>Thầy Trời Thiện Ý</cite>
-
 > “Tập khí của con khi còn ở ngoài là không tự tin khi cười. Khi tiếp xúc và cười với người khác, trong con có cái gì đó làm cho con không tự tin về chính bản thân mình. Khi đi tu, con thấy mình được sống tự nhiên hơn. Khi cười, nụ cười đó đi ra từ sự bình an và niềm vui đang có trong lòng con nên nó rất tự nhiên. Đó là một sự chuyển hóa của con và khi nhận ra được điều đó, con rất hạnh phúc.
 > 
 > Con cũng huân tập được cho mình một thói quen mới là tập nhìn những cái tích cực. Trong tăng thân, mọi người đến từ nhiều vùng miền, nhiều quốc gia và văn hóa khác nhau nên đôi khi xảy ra những va chạm. Cách con thực tập là nhìn sâu vào tự thân mình trước để không bị cuốn theo những va chạm đó. Hoặc con tìm cách để làm đơn giản hóa vấn đề lại, nhờ vậy con thấy mình nhẹ nhàng hơn.”<cite>Sư cô Trăng An Niệm</cite>
+
+> “Khi còn là cư sĩ, con ít nói chuyện mặc dù công việc của con là quản lý. Sự truyền thông rất ngắn ngủi và có khi cũng không thoải mái để chia sẻ. Nhưng khi vào chùa, con thực tập ái ngữ thêm. Để làm sao có không gian và thời gian hơn khi nói ra điều gì đó và để những lời mình nói có nhiều thương yêu, hiểu biết.”<cite>Sư chú Trời Ruộng Hiếu</cite>
+
+> “Khi có cảm xúc đi lên, con thường nhận diện và dành thời gian để ngồi chơi với nó. Con không còn muốn đổi sang làm một việc gì khác như trước. Ý thức sự có mặt và ôm lấy cảm xúc đó trong vài phút. Vì biết rằng nếu không làm vậy, nó sẽ bám theo con hàng giờ. Con ưu tiên quay về chăm sóc cảm xúc ngay lập tức và thiết lập lại bình an trong nội tâm sớm nhất con có thể.”<cite>Thầy Trời Thiện Ý</cite>
 
 <!--  -->
 <h3>Quý sư cô, sư chú nhận thấy <br/>mình đã học được những thói quen <br/>mới nào từ khi xuất gia?</h3>
