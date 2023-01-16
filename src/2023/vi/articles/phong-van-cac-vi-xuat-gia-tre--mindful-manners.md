@@ -1,8 +1,8 @@
 ﻿---
-title: Phỏng vấn các vị xuất gia trẻ
+title: Phỏng vấn các vị xuất gia trẻ 3
 preceeding_full_page_image_A4: "article2023/young-ones/A4 - Mindful Manner Question.png"
 preceeding_full_page_image_Letter: "article2023/young-ones/Letter - Mindful Manner Question.png"
-#author: 
+author: Phỏng vấn các vị xuất gia trẻ
 ---
 
 <!-- MINDFUL MANNERS -->
@@ -13,20 +13,22 @@ preceeding_full_page_image_Letter: "article2023/young-ones/Letter - Mindful Mann
 
 > “Sự thực tập sống chung phòng với huynh đệ giúp con có nhiều sự để tâm hơn về nhu cầu của những người xung quanh và  những nhu cầu ấy thường rất khác với con. Càng ngày con càng học được thêm về cách tiếp xử với huynh đệ, kiểm tra lại với người kia về tri giác của mình và lắng nghe những gì được nói hay chưa được nói ra. Đó là những điều con thấy rất thú vị.”<cite>Sư chú Trời Định Túc</cite>
 
-> “Với con là không uống rượu. Khi còn là cư sĩ, thỉnh thoảng con có uống rượu. Bây giờ, sau một thời gian dài không uống, con so sánh được hai trạng thái. Con thấy mình tự do thế nào khi không còn ở trong trạng thái mà con không làm chủ được những gì xảy ra với thân và tâm mình.
-> 
-> Cũng vậy, giới về đời sống phạm hạnh cho con sự tự do và sáng suốt hơn khi tiếp xử với người khác. Con biết vị trí của mình ở đâu, trong bất kỳ mối liên hệ nào. Điều này giúp con dễ dàng hướng năng lượng của mình vào con đường tâm linh.”<cite>Sư chú Trời Niệm Thuần</cite>
+> “Con thật sự thích tất cả các uy nghi. Khi thấy sự thực tập uy nghi tạo nên sự hòa hợp trong đại chúng và giúp cho con cảm thấy thoải mái hơn. Con cũng cảm thấy an tâm, biết rằng quý thầy quý sư cô cũng đang thực tập uy nghi và giới luật. Cảm nhận được sự an toàn và rộng rãi trong lòng thì đó cũng là một hình thức của tự do.”<cite>Sư chú Trời Niệm Xả</cite>
 
-<h2 class="young-ones-center-heading">Quý sư cô, sư chú thấy uy nghi nào giúp mình có nhiều tự do nhất và tại sao?</h2>
+<!--  -->
+<h3>Quý sư cô, sư chú thấy uy <br/>nghi nào giúp mình có nhiều tự <br/>do nhất và tại sao?</h3>
 
-> “Nấu ăn trong chánh niệm. Trong khi con làm việc, con có thể ý thức về hơi thở, về việc con đang làm cũng như những suy nghĩ và lời nói mà con tạo ra. Ý thức được rõ ràng về những gì đang làm, con cảm thấy rất vui và tự do.”<cite>Sư chú Trời Ruộng Đức</cite>
+<!-- explicit <p> here because I do not want the last line to be justified (very spaced out words) -->
+> <p>“Nấu ăn trong chánh niệm. Trong khi con làm việc, con có thể ý thức về hơi thở, về việc con đang làm cũng như những suy nghĩ và lời nói mà con tạo ra. Ý thức được rõ ràng về những gì đang làm, con cảm thấy rất vui và tự do.”</p><cite>Sư chú Trời Ruộng Đức</cite>
 
 > “Được làm việc như một tăng thân, như một cơ thể khiến con cảm thấy tự do khỏi những mối bận tâm cá nhân. Và con có thể dễ dàng tận hưởng công việc hơn.”<cite>Sư cô Trăng Lâm Hỷ</cite>
 
 > “Là thực tập xá chào những vị lớn. Khi con có khó khăn trong liên hệ với huynh đệ, con vẫn thực tập xá chào những vị đó và đọc thầm bài thi kệ *Sen búp xin tặng người, một vị Bụt tương lai*. Làm được như thế không dễ, nhưng con vẫn chọn thực tập cho trọn vẹn. Dần dần, con cảm nhận mình tự do và có nhiều tuệ giác hơn, thấy được tổ tiên đang thực tập chung với con và trong con. Cuối cùng, chúng con cũng có thể hòa giải và làm mới với nhau. Con nhận ra sự thực tập nuôi lớn sự mở lòng và đã cho con thật nhiều tự do.”<cite>Sư cô Trăng Hiền Tâm</cite>
 
-> “Con thật sự thích tất cả các uy nghi. Khi thấy sự thực tập uy nghi tạo nên sự hòa hợp trong đại chúng và giúp cho con cảm thấy thoải mái hơn. Con cũng cảm thấy an tâm, biết rằng quý thầy quý sư cô cũng đang thực tập uy nghi và giới luật. Cảm nhận được sự an toàn và rộng rãi trong lòng thì đó cũng là một hình thức của tự do.”<cite>Sư chú Trời Niệm Xả</cite>
+> “Với con là không uống rượu. Khi còn là cư sĩ, thỉnh thoảng con có uống rượu. Bây giờ, sau một thời gian dài không uống, con so sánh được hai trạng thái. Con thấy mình tự do thế nào khi không còn ở trong trạng thái mà con không làm chủ được những gì xảy ra với thân và tâm mình.
 > 
+> Cũng vậy, giới về đời sống phạm hạnh cho con sự tự do và sáng suốt hơn khi tiếp xử với người khác. Con biết vị trí của mình ở đâu, trong bất kỳ mối liên hệ nào. Điều này giúp con dễ dàng hướng năng lượng của mình vào con đường tâm linh.”<cite>Sư chú Trời Niệm Thuần</cite>
+
 > Với con, con thích thực tập uy nghi khi làm việc thì không nói chuyện. Con cảm nhận được trong lòng mình có sự dừng lại, lắng dịu, quán thân sâu sắc hơn và thấy rõ được những suy nghĩ mà mình đang có.”<cite>Sư cô Trăng An Niệm</cite>
 
 > “Con thích thực tập uy nghi gõ cửa; bởi vì con thấy ba tiếng gõ cửa đó như nhắc nhở mình dừng lại. Trước đây, con gõ mà như muốn rớt cửa nhà người ta. Thời gian đầu vào chùa, con thực tập như rô-bốt, được dạy sao thì làm vậy nên chỉ mang tính hình thức. Sau này, con thấy gõ cửa thực sự là sự nhắc nhở cho mình trở về. Sau cái gõ cửa đó, con sẽ chắp tay để xin phép vào và càng ngày, sự thực tập này trở thành một thói quen rất đẹp. Đó là những gì con muốn thể hiện ra một cách tự nhiên chứ không phải là sự ép buộc phải làm. Thêm nữa, trong đại chúng luôn luôn có sự luân chuyển, nên sự thực tập này cũng là cách để nhận diện sự có mặt của người con đang xá chào và trân quý những mối liên hệ trong đại chúng.”<cite>Sư cô Trăng Tường Niệm</cite>

@@ -2,10 +2,10 @@
 title: Young Buds Glistening in the Sunshine
 preceeding_full_page_image_A4: "article2023/young-ones/A4 - Positive Habit Question.png"
 preceeding_full_page_image_Letter: "article2023/young-ones/Letter - Positive Habit Question.png"
-# author: 
+author: The Voices of Young Monastics
 ---
 
-<p class="intro">Some intro text for the article to explain about the question and answer session with the young ones. :)</p>
+<!-- <p class="intro">Some intro text for the article to explain about the question and answer session with the young ones. :)</p> -->
 
 > “Before ordaining, I lacked confidence when I smiled. When I met someone and smiled, there was something in me that made me feel insecure. After becoming a nun, I’ve had the chance to live more naturally. Now, my smile comes from the peace and joy in my heart, and it is very natural. 
 > 
@@ -13,7 +13,7 @@ preceeding_full_page_image_Letter: "article2023/young-ones/Letter - Positive Hab
 
 > “When I was a lay person, I spoke very little, even though my work was in management. I communicated very briefly, and sometimes felt nervous to share. When I became a monk, I began to practice loving speech. I started feeling more inner space and time to say what I wanted to say. In this way, my words now contain more love and understanding.”<cite>Br. Ruong Hieu</cite>
 
-<h2 class="young-ones-center-heading">What is a positive habit that you have developed since entering the Sangha?</h2>
+<h3 class="young-ones-center-heading">What is a positive habit<br/>that you have developed<br/>since entering the Sangha?</h2>
 
 > “When there is an emotion coming up, I like to recognise it, and take time to sit with it, acknowledge it and embrace it for a few minutes. I don’t want to move onto something else too quickly anymore. Otherwise, I know that this emotion will ‘follow’ me for hours. I prefer to take care of it right away and re-establish inner peace as soon as I can.”<cite>Br. Thien Y</cite>
 

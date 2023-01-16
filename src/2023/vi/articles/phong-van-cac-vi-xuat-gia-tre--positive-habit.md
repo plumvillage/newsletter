@@ -1,13 +1,12 @@
 ﻿---
-title: Phỏng vấn các vị xuất gia trẻ
+title: Phỏng vấn các vị xuất gia trẻ 1
 preceeding_full_page_image_A4: "article2023/young-ones/A4 - Positive Habit Question.png"
 preceeding_full_page_image_Letter: "article2023/young-ones/Letter - Positive Habit Question.png"
-#author: 
+author: Phỏng vấn các vị xuất gia trẻ
 ---
 
 <!-- POSITIVE HABIT -->
-
-<p class="intro">Phỏng vấn các vị xuất gia trẻ</p>
+<!-- <p class="intro">Phỏng vấn các vị xuất gia trẻ</p> -->
 
 > “Khi còn là cư sĩ, con ít nói chuyện mặc dù công việc của con là quản lý. Sự truyền thông rất ngắn ngủi và có khi cũng không thoải mái để chia sẻ. Nhưng khi vào chùa, con thực tập ái ngữ thêm. Để làm sao có không gian và thời gian hơn khi nói ra điều gì đó và để những lời mình nói có nhiều thương yêu, hiểu biết.”<cite>Sư chú Trời Ruộng Hiếu</cite>
 
@@ -17,7 +16,8 @@ preceeding_full_page_image_Letter: "article2023/young-ones/Letter - Positive Hab
 > 
 > Con cũng huân tập được cho mình một thói quen mới là tập nhìn những cái tích cực. Trong tăng thân, mọi người đến từ nhiều vùng miền, nhiều quốc gia và văn hóa khác nhau nên đôi khi xảy ra những va chạm. Cách con thực tập là nhìn sâu vào tự thân mình trước để không bị cuốn theo những va chạm đó. Hoặc con tìm cách để làm đơn giản hóa vấn đề lại, nhờ vậy con thấy mình nhẹ nhàng hơn.”<cite>Sư cô Trăng An Niệm</cite>
 
-<h2 class="young-ones-center-heading">Quý sư cô, sư chú nhận thấy mình đã học được những thói quen mới nào từ khi xuất gia?</h2>
+<!--  -->
+<h3>Quý sư cô, sư chú nhận thấy <br/>mình đã học được những thói quen <br/>mới nào từ khi xuất gia?</h3>
 
 > “Trong quá khứ con luôn luôn vội vã, trong công việc hay trong bất cứ việc gì con làm, con luôn chạy theo thời gian. Sau khi xuất gia, con thấy mình không còn cần phải vội vàng nữa. Bây giờ, điều đầu tiên con làm vào buổi sáng là thưởng thức một ly trà với huynh đệ. Con không cần vội vàng mà chỉ uống trà, có mặt cho nhau và thật thư giãn. Ngồi yên được như thế, con nhận ra đó thực sự là thời gian trị liệu cho con.”<cite>Sư chú Trời Ruộng Đức</cite>
 

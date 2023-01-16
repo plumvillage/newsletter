@@ -1,27 +1,28 @@
 ﻿---
-title: Phỏng vấn các vị xuất gia trẻ
+title: Phỏng vấn các vị xuất gia trẻ 2
 preceeding_full_page_image_A4: "article2023/young-ones/A4 - Elder One Question.png"
 preceeding_full_page_image_Letter: "article2023/young-ones/Letter - Elder One Question.png"
-#author: 
+author: Phỏng vấn các vị xuất gia trẻ
 ---
 
 <!-- ELDER ONE -->
-
-> “Tấm lòng phụng sự đầy nhiệt huyết và hết lòng nơi quý thầy, quý sư cô đã đánh động và gây nhiều cảm hứng để cho con thực tập theo.”<cite>Sư cô Trăng An Niệm</cite>
 
 > “Nhiều lúc, con cảm thấy mình ‘nhỏ bé’ khi tiếp chuyện với một thầy hay một sư cô lớn. Con thấy thật hay khi ai đó nói chuyện với con một cách tôn trọng và mở lòng, giúp đẩy con ra khỏi vị trí của một người nhỏ. Con cảm được có gì đó trong năng lượng của vị ấy, giúp con cảm thấy mình được lắng nghe và ý kiến của con được được ghi nhận. Con từng có những y chỉ sư và nhóm tổ chức khóa tu làm được theo tinh thần ấy. Con cũng đang cố gắng để làm được như vậy. Ví dụ như trong đội nấu ăn, con xin các thành viên đóng góp ý kiến khi làm việc chung. Kết quả là, họ nhận ra và đánh thức được những tiềm năng của bản thân.
 > 
 > Một điểm khác mà con thực sự biết ơn là thấy một thầy lớn tham gia thời khóa đầy đủ. Điều đó giúp con ý thức mình cũng có thể làm được như thế mà không cần phải hy sinh giây phút hạnh phúc của sự thực tập khi trở thành người lớn. Con thấy thật vui khi hướng về tương lai.”<cite>Thầy Trời Thiện Ý</cite>
 
+> “Tấm lòng phụng sự đầy nhiệt huyết và hết lòng nơi quý thầy, quý sư cô đã đánh động và gây nhiều cảm hứng để cho con thực tập theo.”<cite>Sư cô Trăng An Niệm</cite>
+
 > “Là khi vị đó cho con được lớn lên, được phép lầm lỗi và không hoàn hảo. Dù sao thì một ngày nào đó, chúng ta sẽ có thể làm những gì mà người ta nói là hoàn hảo nhưng con nghĩ là không có gì phải vội. Với con, được tu học một cách chậm rãi, từ hòa và với lòng từ bi rất quan trọng. Và Y chỉ sư đã có đó bên cạnh con với tinh thần ấy.”<cite>Sư cô Trăng Xuân Hạnh</cite>
 
-<h2 class="young-ones-center-heading">Phẩm chất nào ở quý thầy, quý sư cô lớn hoặc vị y chỉ sư mà quý sư cô, sư chú thấy trân quý nhất?</h2>
+> “Con ấn tượng khi thấy được cách quý thầy duy trì sự thực tập suốt cả ngày. Con cũng được thực sự gây cảm hứng bởi cách nuôi lớn sự có mặt hơn là bằng kiến thức.”<cite>Sư chú Trời Niệm Xả</cite>
+
+<!--  -->
+<h3>Phẩm chất nào ở quý thầy, <br/>quý sư cô lớn hoặc vị y chỉ sư mà quý sư cô, <br/>sư chú thấy trân quý nhất?</h3>
 
 > “Con rất biết ơn khi thấy quý thầy lớn có sự vững chãi và hành trì lời dạy của Thầy. Nhờ thế, con có cảm giác là mình có thể học được rất nhiều từ lời dạy cũng như kinh nghiệm của các vị. Đặc biệt khi con được biết quý thầy đã đi qua khó khăn như thế nào, mặc dù ngay lúc đó kinh nghiệm ấy không giúp ích gì cho con. Nhưng trong tương lai nếu con có khó khăn tương tự, con có thể nương tựa vào kinh nghiệm ấy.”<cite>Sư chú Trời Niệm Thuần</cite>
 
 > “Con biết là mỗi người đến từ tầng lớp xã hội khác nhau, trong môi trường văn hóa và với những ước nguyện khác nhau. Con rất trân quý những quý thầy, quý sư cô lớn, người có khả năng ôm lấy tất cả những sự khác biệt ấy. Dù vị đó có thể có sự tự giác kỷ luật rất cao nhưng đồng thời cũng có khả năng uyển chuyển và linh hoạt với người khác. Người hiểu được cốt tủy sự thực tập của Làng Mai và cách để áp dụng sự thực tập vào xã hội hiện đại. Con nghĩ những điểm này phải đi chung với nhau: Hiểu được người trẻ và hiểu được thế giới.”<cite>Sư cô Trăng Hiếu Đức</cite>
-
-> “Con ấn tượng khi thấy được cách quý thầy duy trì sự thực tập suốt cả ngày. Con cũng được thực sự gây cảm hứng bởi cách nuôi lớn sự có mặt hơn là bằng kiến thức.”<cite>Sư chú Trời Niệm Xả</cite>
 
 > “Với con đó là sự từ ái và mở lòng. Có lần, con phải thỉnh chuông thời khóa, nhưng con không biết là phải mặc áo dài mới được thỉnh. Có một sư cô tới và nói với con là để sư chị thỉnh chuông cho em mà không hề có một sự phán xét. Đó thực sự là một cách rất hay để chỉ dạy, mà không cần phải nói ‘Em cần làm thế này, thế kia.’”<cite>Sư cô Trăng Lâm Hỷ</cite>
 

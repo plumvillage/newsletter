@@ -608,6 +608,7 @@ html:lang(en) article > *:first-child:not(h1) {
 /* Vietnamese words are smaller on average, thus more suitable for block text */
 html:lang(vi) article p {
     text-align: justify;
+    text-align-last: left;
 }
 html:lang(en) article p {
     text-align: left;
@@ -666,6 +667,7 @@ article cite {
 	position: relative;
 	display: inline-block;
 	left: 3pt;
+    padding-right: 1mm;
     font-style: italic;
     color: var(--color-bark-dark);
 }
@@ -961,12 +963,18 @@ article ul li::before {
     break-after: unset !important;
 }
 
-.article-phong-van-cac-vi-xuat-gia-tre h1,
-.article-young-buds-glistening-in-the-sunshine h1 {
+.article-phong-van-cac-vi-xuat-gia-tre-1 h1,
+.article-young-buds-glistening-in-the-sunshine h1
+{
     margin-bottom: 11pt;
 }
-.article-phong-van-cac-vi-xuat-gia-tre .intro,
-.article-young-buds-glistening-in-the-sunshine .intro {
+.article-phong-van-cac-vi-xuat-gia-tre-1 .intro,
+.article-phong-van-cac-vi-xuat-gia-tre-2 .intro,
+.article-phong-van-cac-vi-xuat-gia-tre-3 .intro,
+.article-young-buds-about-elders .intro,
+.article-young-buds-mindful-manners .intro,
+.article-young-buds-glistening-in-the-sunshine .intro
+{
     column-span: all;
     width: 50%;
     margin-left: 25%;
@@ -974,25 +982,42 @@ article ul li::before {
     text-align: center;
     font-style: italic;
 }
-.article-phong-van-cac-vi-xuat-gia-tre h2,
-.article-young-buds-glistening-in-the-sunshine h2 {
+.article-phong-van-cac-vi-xuat-gia-tre-1 h3,
+.article-phong-van-cac-vi-xuat-gia-tre-2 h3,
+.article-phong-van-cac-vi-xuat-gia-tre-3 h3,
+.article-young-buds-about-elders h3,
+.article-young-buds-mindful-manners h3,
+.article-young-buds-glistening-in-the-sunshine h3
+{
     column-span: all;
-    font-size: 22pt;
+    font-size: 21pt !important;
+    font-style: normal !important;
     line-height: 125%;
-    width: 67%;
+    /* width: 55%; */
     text-align: center;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 3%;
-    margin-bottom: 4%;
+    margin-top: 4mm;
+    margin-bottom: 6mm;
 }
-.article-phong-van-cac-vi-xuat-gia-tre blockquote,
-.article-young-buds-glistening-in-the-sunshine blockquote {
+.article-phong-van-cac-vi-xuat-gia-tre-1 blockquote,
+.article-phong-van-cac-vi-xuat-gia-tre-2 blockquote,
+.article-phong-van-cac-vi-xuat-gia-tre-3 blockquote,
+.article-young-buds-about-elders blockquote,
+.article-young-buds-mindful-manners blockquote,
+.article-young-buds-glistening-in-the-sunshine blockquote
+{
     margin-top: 0;
-    margin-bottom: 17pt;
+    margin-bottom: 15pt;
+    padding-left: 0;
 }
-.article-phong-van-cac-vi-xuat-gia-tre blockquote p,
-.article-young-buds-glistening-in-the-sunshine blockquote p {
+.article-phong-van-cac-vi-xuat-gia-tre-1 blockquote p,
+.article-phong-van-cac-vi-xuat-gia-tre-2 blockquote p,
+.article-phong-van-cac-vi-xuat-gia-tre-3 blockquote p,
+.article-young-buds-about-elders blockquote p,
+.article-young-buds-mindful-manners blockquote p,
+.article-young-buds-glistening-in-the-sunshine blockquote p
+{
     break-inside: avoid;
     font-style: normal;
 }
@@ -1041,6 +1066,10 @@ h1#tiep-noi-thay.calligraphyTitle + h2.author{
 }
 
 /* hide but retain link (id) */
+.article-phong-van-cac-vi-xuat-gia-tre-2 > h1,
+.article-phong-van-cac-vi-xuat-gia-tre-3 > h1,
+.article-young-buds-about-elders > h1,
+.article-young-buds-mindful-manners > h1,
 .article-review-of-the-year > h1 {
     /* linking does not work if I set display: none; */
     position: absolute;
@@ -1056,3 +1085,10 @@ h1#tiep-noi-thay.calligraphyTitle + h2.author{
     font-size: 12pt;
     line-height: 130%;
 }
+
+/* break 2 line heading well */
+h1#opening-the-door-to-a-life-of-peace-and-purpose {
+    width: 90%;
+    margin: 0 auto;
+}
+

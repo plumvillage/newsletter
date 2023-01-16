@@ -1,13 +1,9 @@
 ---
-title: Young Buds Glistening in the Sunshine
+title: Young Buds – About Elders
 preceeding_full_page_image_A4: "article2023/young-ones/A4 - Elder One Question.png"
 preceeding_full_page_image_Letter: "article2023/young-ones/Letter - Elder One Question.png"
-# author: 
+author: The Voices of Young Monastics
 ---
-
-> “A heart of service brimming with enthusiasm and sincerity. Some elder sisters have inspired me, and given me plenty of inspiration to practice in this way.”<cite>Sr. An Niem</cite>
-
-> “Sometimes I feel ‘small’ when talking to some elder siblings. I find it really cool when there is one who talks to me in a respectful and open way, that it shakes me out of that ‘role’ of the younger one. There is something in their energy of listening that makes me feel heard, that my opinion is important. I had some organising team members and mentors who embody that spirit, and I really try to bring it with me - for example in a cooking team, asking others for their input, and seeing their surprise and sense of self-worth being re-kindled.”<cite>Br. Thien Y</cite>
  
 > “On another note, I really appreciate seeing an elder one follow the schedule. It makes me feel that I can do the same as I grow up; that I don’t need to sacrifice those moments of happiness, of practice. It makes me feel happy about my future.
 > 
@@ -15,7 +11,13 @@ preceeding_full_page_image_Letter: "article2023/young-ones/Letter - Elder One Qu
  
 > “When I can see their practice, I am impressed by their way of daily living. I am really inspired by that kind of presence, cultivating more ‘being’ rather than knowledge.”<cite>Br. Niem Xa</cite>
 
-<h2 class="young-ones-center-heading">What is the quality you appreciate the most in an elder brother or sister, and why?</h2>
+> “A heart of service brimming with enthusiasm and sincerity. Some elder sisters have inspired me, and given me plenty of inspiration to practice in this way.”<cite>Sr. An Niem</cite>
+
+> “Sometimes I feel ‘small’ when talking to some elder siblings. I find it really cool when there is one who talks to me in a respectful and open way, that it shakes me out of that ‘role’ of the younger one. There is something in their energy of listening that makes me feel heard, that my opinion is important. I had some organising team members and mentors who embody that spirit, and I really try to bring it with me - for example in a cooking team, asking others for their input, and seeing their surprise and sense of self-worth being re-kindled.”<cite>Br. Thien Y</cite>
+
+<!-- <h3 class="small-title">Young Buds Glistening in the Sunshine</h2> -->
+
+<h3 class="young-ones-center-heading">What is the quality you appreciate<br/>the most in an elder brother or sister,<br/>and why?</h2>
  
 > “For me, I appreciate when they have some stability and commitment to the teachings of Thay. Then, I feel I can learn a lot from them, from their teachings and experiences. In particular, how they went through a difficulty: even if in that moment it doesn’t help me, if I have a similar suffering in the future, I will be able to relate to it.”<cite>Br. Niem Thuan</cite>
  

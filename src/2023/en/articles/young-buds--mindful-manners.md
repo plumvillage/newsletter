@@ -1,8 +1,8 @@
 ---
-title: Young Buds Glistening in the Sunshine
+title: Young Buds – Mindful Manners
 preceeding_full_page_image_A4: "article2023/young-ones/A4 - Mindful Manner Question.png"
 preceeding_full_page_image_Letter: "article2023/young-ones/Letter - Mindful Manner Question.png"
-# author: 
+author: The Voices of Young Monastics
 ---
 
 <!-- <p class="intro">Some intro text for the article to explain about the question and answer session with the young ones. :)</p> -->
@@ -18,9 +18,9 @@ preceeding_full_page_image_Letter: "article2023/young-ones/Letter - Mindful Mann
  
 > “Working together with the Sangha, as an organism, makes me feel free from individual concerns, and I can enjoy working with more ease.”<cite>Sr. Lam Hy</cite>
  
-<h2 class="young-ones-center-heading">What is the mindful manner that gives you the most freedom, and why?</h2>
+<h3 class="young-ones-center-heading">What is the mindful manner<br/>that gives you the most freedom,<br/>and why?</h2>
 
-> The mindful manner about sharing a room helped me to become more aware of others’ needs - which are often different from mine. More and more, I am learning to interact, to double check, and to hear what is said and what is not being said - something I find so interesting.”<cite>Br. Dinh Tuc</cite>
+> “I like to practice not chatting while working. I can feel the energy of stopping and calming in my heart, and I can contemplate more clearly my body and mind.”<cite>Sr. An Niem</cite>
  
 > “Mindful cooking. While I work, I can be aware of my breathing, of what I am doing, of the thoughts and speech I produce… being aware of what I am doing clearly, I feel very free and joyful.”<cite>Br. Ruong Duc</cite>
 
@@ -30,6 +30,6 @@ preceeding_full_page_image_Letter: "article2023/young-ones/Letter - Mindful Mann
  
 > “I really like all the mindful manners. I like very much how they create harmony among us, and that is a kind of freedom already, because it makes me feel more at ease. I also feel safe, knowing all my brothers and sisters practice the mindful manners and precepts. This is also a kind of freedom, to feel safe and spacious.”<cite>Br. Niem Xa</cite>
 
-> “I like to practice not chatting while working. I can feel the energy of stopping and calming in my heart, and I can contemplate more clearly my body and mind.”<cite>Sr. An Niem</cite>
+> The mindful manner about sharing a room helped me to become more aware of others’ needs - which are often different from mine. More and more, I am learning to interact, to double check, and to hear what is said and what is not being said - something I find so interesting.”<cite>Br. Dinh Tuc</cite>
 
 > “Bowing. When I had some relationship problems, I still practiced bowing, and recited the Gatha ‘A lotus for you, a Buddha to be.’ It was not easy, but I chose to keep practising it fully. Slowly, I found more freedom, more insight: I saw our ancestors practicing together with us, in us. Finally, we could reconcile and begin anew, and I recognised how freeing this practice of cultivating openness had been to me.”<cite>Sr. Hien Tam</cite>
