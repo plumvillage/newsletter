@@ -55,6 +55,8 @@ Lần cuối Thầy cho pháp thoại là ngày mở đầu khóa tu dành cho c
 
 Thầy đã dạy cho con thấy cuộc sống này đẹp vô cùng. Thầy giúp con tiếp xúc được những mầu nhiệm của sự sống trong những điều bình dị nhất, cho con thấy bản chất tương tức của vạn vật và hiểu vì sao mọi hành vi từ thân, khẩu, ý của mình đều có tác động lên toàn thế giới.
 
+{% image "article2023/sr-dao-nghiem/IMG_8654.JPG" %}
+
 Những năm đầu khi mới xuất gia, có những lúc con phải đối diện với rất nhiều khó khăn. Nhiều khi con không biết mình phải làm gì. Con tự hỏi mình: “Vì sao mình lại đi xuất gia? Vì sao mình lại chọn gia nhập tăng thân Làng Mai? Vì sao mình lại rời cộng đồng trước đây của mình?” Mỗi lần như vậy, con thường thầm cầu cứu Thầy trong tâm để Thầy giúp con có được cái nhìn sáng suốt hơn. Rất nhiều lần, khi con đang cầu cứu như vậy thì bỗng nhiên Thầy xuất hiện. Thầy xuất hiện thật sự chứ không phải ở trong tâm tưởng của con. Thời gian đó, con đang ở xóm Mới và có những ngày Thầy đột nhiên có mặt, tham gia thời thiền tọa buổi sáng với chúng con. Có ngày Thầy tới dự lễ tụng giới, lại có lúc con thấy Thầy bỗng nhiên có mặt sau cánh cửa, trong xe ô tô hay đang đi ra từ nhà vệ sinh. Mỗi lần gặp, Thầy đều mỉm cười với con hoặc giơ nhẹ tay chào hay nói với con đôi câu. Mỗi lần xuất hiện ấy của Thầy đã giúp con thấy Thầy luôn có mặt đó cho con. Đến bây giờ, mặc dù Thầy đã buông bỏ báo thân nhưng Thầy vẫn luôn có mặt cho con như vậy.
 
 Năm 2012, Thầy và tăng đoàn tới Paris vài ngày. Thời gian này con đang ở Thiền đường Hơi Thở Nhẹ ở Paris và cùng với một sư cô nữa trong nhóm tổ chức cho sự kiện lớn này. Chúng con đã có một cuộc tranh luận ở ngoài vườn và Thầy ngồi cách đó không xa. Sau cuộc tranh luận, con tới gặp Thầy và chia sẻ với Thầy vì những tri giác sai lầm mà chúng con đang làm khổ nhau như thế nào. Thầy lắng nghe và nói với con: “Rất nhiều người có tri giác sai lầm về Thầy nhưng Thầy chỉ tiếp tục kiên định đi trên con đường của mình, không để cho những tri giác của người khác làm mình nhụt chí. Mỗi chúng ta đều có tri giác sai lầm về người khác, người khác có tri giác sai lầm về chúng ta và chúng ta cũng có tri giác sai lầm về chính mình. Điều chúng ta cần làm là tiếp tục đi, tiếp tục con đường của mình.” Những điều Thầy dạy ngày hôm đó đã giúp con vượt qua rất nhiều thử thách trong đời sống xuất gia của mình.
@@ -63,4 +65,4 @@ Từ Thầy, con đã học tiếp xúc với sự sống một cách sâu sắc
 
 Thầy đã giúp con dừng lại và mỉm cười. Mỗi giây phút là giây phút hạnh phúc, mỗi giây phút là giây phút huyền thoại.
 
-{% image "article2023/sr-dao-nghiem/TNH-life-story-(101).jpg" %}
+
