@@ -240,7 +240,7 @@ module.exports = function(eleventyConfig) {
         } else {
             e.hasCalligraphy = articleTitleCalligraphies2023.includes(`${fileSlug}.webp`)
             if (e.hasCalligraphy) {
-                console.log("found calligraphy for article: ", fileSlug)
+                // console.log("found calligraphy for article: ", fileSlug)
                 e.calligraphyFile = `${calligraphyPath2023}${fileSlug}.webp`
             }
         }

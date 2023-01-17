@@ -3,6 +3,10 @@ title: Let Us Share the Vision
 author: A Dharma Talk by Thay
 ---
 
+<!--
+Kinh Pháp Cú-Hoa Hương Phẩm [bài 01] -TS Thích Nhất Hạnh (13-02-2011, Xóm Mới, Làng Mai)
+https://www.youtube.com/watch?v=EJPGvHWFu9o -->
+
 Dear Sangha,
 
 Today is the 13th of February 2011 and we are in the Loving Kindness Temple (New Hamlet) Plum Village, in our Winter Rains Retreat.
