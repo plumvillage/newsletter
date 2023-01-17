@@ -19,6 +19,10 @@ module.exports = [
     "cay-mimosa--ai-bao-di-tu-la-kho",
     "sr-tung-hac--dieu-con-thich-nhat",
     "sr-dang-nghiem--tiep-noi-thay",
+    "sr-mai-thon--ngoi-chua-xua-tren-dinh-nui",
+    "sr-nhat-nghiem--con-biet-thay-dang-mim-cuoi",
+    "sccd--phong-van",
+    "sr-chua-xua--loc-uyen-mua-an",
     // Poems
     "br-phap-kha--hai-mien-trang-sang",
     "sr-tuyet-nghiem--tho",

@@ -8,6 +8,13 @@ title: Review of the Year
     {% image "Lang Mai Nam Qua A4 Final/1 - Monastic Retreat.png" %}
 </div>
 
+<div class="page-break"></div>
+
+<!-- RIGHT page -->
+<div class="full-page-background-img-bleed">
+    {% image "Lang Mai Nam Qua Letter Final/1 - Monastic Retreat (Letter Format).png" %}
+</div>
+
 <div class="positioned-text-box" style="
 --A4Top: 0mm;
 --A4Left: 0mm;

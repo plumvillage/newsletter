@@ -8,9 +8,12 @@ module.exports = {
     layout: "layouts/article",
     subLayout: ["layouts/web.njk", "layouts/print-frame.njk"],
     permalink: "/{{ year }}/{{ locale }}/{{ builds[pagination.pageNumber] }}/{{ page.fileSlug }}/",
+    // size_label: "Letter",
+    // size: "Letter",
     size_label: "A4",
     size: "A4",
-    bleed: "0mm",
+    // bleed: "5mm",
     // marks: "crop",
+    bleed: "0mm",
     marks: "none",
 }
