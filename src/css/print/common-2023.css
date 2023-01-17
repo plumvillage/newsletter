@@ -802,8 +802,10 @@ article figure figcaption {
 .centered-preface {
     column-span: all;
     font-style: italic;
-    text-align: center;
-    width: 60%;
+    text-align: center !important;
+    text-align-last: center !important;
+    text-indent: 0 !important;
+    max-width: 60%;
     margin: 0 auto;
     padding-bottom: 1.5em;
 }
@@ -1088,3 +1090,14 @@ h1#opening-the-door-to-a-life-of-peace-and-purpose {
     margin: 0 auto;
 }
 
+.article-dao-but-dan-than-va-dao-but-ung-dung h3 {
+    font-size: 11pt;
+    font-style: italic;
+    margin-bottom: 0.4em;
+    /* color: var(--color-bark-dark); */
+}
+.article-dao-but-dan-than-va-dao-but-ung-dung p strong {
+}
+.article-dao-but-dan-than-va-dao-but-ung-dung h3:first-of-type {
+    margin-top: 0;
+}
