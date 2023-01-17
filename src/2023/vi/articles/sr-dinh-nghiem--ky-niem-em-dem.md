@@ -51,6 +51,6 @@ Tối tối trước khi ngủ, Sư cô lại kể cho con nghe những chuyện
 
 Sư cô thương mọi người một cách chân thành, mộc mạc, không cầu kỳ khách sáo, nên Sư cô cũng đón nhận tình thương một cách chân thành và sâu sắc. Con thật hạnh phúc vì có cơ hội được gần Sư cô, được nuôi dưỡng trực tiếp bởi thân giáo và tình thương của Sư cô, được học hỏi và được truyền thêm lửa cho bồ đề tâm của mình. Nhìn Sư cô, con có thêm niềm tin nơi Sư Ông, vì con biết Sư cô là người học trò lớn của Sư Ông, được nuôi lớn từ thân giáo của Sư Ông cũng như đồng hành cùng Sư Ông trên con đường phụng sự. Giờ đây Sư cô tiếp tục giúp Sư Ông nuôi lớn các sư em của mình. Con nguyện noi gương Sư cô, nuôi dưỡng để lòng mình thênh thang hơn, để có thể trang trải tình thương ngày một rộng lớn hơn, cũng như chế tác năng lượng phụng sự, tấm lòng thủy chung sắt son với tăng thân và với con đường hạnh nguyện mà mình đã chọn.
 
-{% image "article2023/sr-dinh-nghiem/DSC_0067.JPG" %}
-
 Con xin thành kính cảm tạ sự hiện diện tuyệt vời của Sư cô trong tăng thân và kính mong Sư cô mãi an yên để làm chỗ nương tựa cho các sư em nhỏ hướng về.
+
+{% image "article2023/sr-dinh-nghiem/DSC_0067.JPG" %}
