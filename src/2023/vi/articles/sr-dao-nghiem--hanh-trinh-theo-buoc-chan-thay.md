@@ -61,4 +61,4 @@ Từ Thầy, con đã học tiếp xúc với sự sống một cách sâu sắc
 
 Thầy đã giúp con dừng lại và mỉm cười. Mỗi giây phút là giây phút hạnh phúc, mỗi giây phút là giây phút huyền thoại.
 
-{% image "article2023/sr-dao-nghiem/TNH life story (101).jpg" %}
+{% image "article2023/sr-dao-nghiem/TNH-life-story-(101).jpg" %}
