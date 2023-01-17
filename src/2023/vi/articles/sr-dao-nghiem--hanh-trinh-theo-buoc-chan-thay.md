@@ -29,6 +29,8 @@ Kể từ đó, con đường trị liệu được mở ra. Đó là một con 
 
 Pháp môn thiền hành là một trong những món quà lớn nhất mà con tiếp nhận được từ Thầy. Món quà ấy đã giúp nuôi dưỡng niềm vui và xoa dịu nỗi đau trong con. Mỗi khi có một người thân qua đời, mỗi khi thấy cơn giận nổi lên, hay thấy buồn bã hay lo âu,… con lại thực tập thiền hành và có mặt hoàn toàn với bước chân, hơi thở, ý thức rõ rệt về từng bước chân và sự di chuyển của cơ thể. Được đặt từng bước chân trên mặt đất quả thật là một phép lạ. Con đi cho những người thân của mình không còn có khả năng tự bước đi được nữa. Con bước đi trong niềm vui là mình đang được bước đi. 
 
+{% image "article2023/sr-dao-nghiem/IMG_4821.JPG" %}
+
 Năm 2020, con may mắn được về Tổ đình Từ Hiếu một tuần để thăm Thầy và có dịp đẩy xe lăn cho Thầy đi dạo xung quanh Tổ đình. Thầy ra hiệu bằng tay để nói chuyện với con, giới thiệu cho con các địa điểm khác nhau trong Tổ đình. Con bước đi cho Thầy, hai bàn chân của Thầy cũng chính là hai bàn chân con.
 
 Con đã có nhiều dịp bước đi theo Thầy trên những nẻo đường khác nhau. Có lúc con đi theo Thầy ở những thành phố lớn, trong những buổi thiền hành với hàng ngàn người. Lại cũng có lúc con đi theo Thầy cùng vài người khác, trên những con đường nhỏ. Bao nhiêu năm bước đi theo Thầy, con cảm được niềm vui và sự nhẹ nhàng trong cách Thầy đi. Con thấy được sự tự do, an lạc của Thầy. 
@@ -58,3 +60,5 @@ Năm 2012, Thầy và tăng đoàn tới Paris vài ngày. Thời gian này con 
 Từ Thầy, con đã học tiếp xúc với sự sống một cách sâu sắc trong từng giây phút của đời sống hàng ngày. Con chạm được chiều sâu của từng hành động giản đơn như chải răng, rửa chén hay chơi đùa với tuyết. Con học được cách yêu thương đất Mẹ và thưởng thức phép lạ của sự sống.
 
 Thầy đã giúp con dừng lại và mỉm cười. Mỗi giây phút là giây phút hạnh phúc, mỗi giây phút là giây phút huyền thoại.
+
+{% image "article2023/sr-dao-nghiem/TNH life story (101).jpg" %}
