@@ -15,6 +15,8 @@ Hồi đó, con có nhu yếu sâu sắc muốn tìm hiểu về cái chết và
 
 Trong khóa tu đầu tiên của con ở Làng, con được nghe Thầy kể câu chuyện về một nhóm nữ tu Cơ đốc giáo tới tham dự khóa tu do Thầy hướng dẫn. Sau năm ngày, một vị là mẹ bề trên trong nhóm nữ tu đó thưa với Thầy: “Bạch Thầy, Thầy đã dạy chúng con mọi thứ nhưng sao Thầy không nhắc gì tới Thượng đế?” 
 
+{% image "article2023/sr-dao-nghiem/IMG_5676.jpg" %}
+
 Thầy kể lại rằng lúc đó Thầy không trả lời câu hỏi ngay. Thầy đã thở chậm rãi một vài hơi, rồi sau đó Thầy mới nói với vị nữ tu ấy: “Thưa Sơ (Soeur), vậy có điều gì tôi nói trong suốt năm ngày vừa qua mà không phải là nói về Thượng đế?” Và Thầy kể thêm: “Đó là giây phút khiến mọi người trong phòng bừng tỉnh. Ai cũng chợt ngộ ra một điều: Chúng ta bị vướng vào từ ngữ và khái niệm quá nhiều. Sự thực là lúc nào chúng ta cũng có thể trò chuyện và tâm tình được với Thượng Đế.” 
 
 Con rất thích thú khi được nghe câu chuyện này, nhất là khi thấy một tu sĩ Phật giáo như Thầy có thể nói về Thượng Đế một cách thoải mái bằng thứ ngôn từ đẹp đến như vậy.
