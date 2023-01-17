@@ -32,7 +32,9 @@ html:lang(vi) .pagedjs_right_page .pagedjs_margin-bottom-right {
 ["mimosa-family-doneIMG2185e",
     "120mm", "0mm", 0, 50],
 ["su-ong-dharma-talkJune-retreatUH090622-33",
-    "90mm", "0mm", 0, 25]
+    "90mm", "0mm", 0, 25],
+["sr-dinh-nghiem-ky-niem-em-demDSC0067e",
+    "70mm", "0mm", 15, 50]
 ]
 %}
 
@@ -61,6 +63,13 @@ html:lang(vi) .pagedjs_right_page .pagedjs_margin-bottom-right {
     display: none !important;
     content: none !important;
 }
+
+{% idMap ".PAGE-OF-article2023", items, " p" %}
+{
+    {# for better visibility when overlapping with image #}
+    text-shadow: 0.3pt 0.4pt 0px white;
+}
+
 
 {% for item in items %}
 figure#article2023{{ item[0] }} {

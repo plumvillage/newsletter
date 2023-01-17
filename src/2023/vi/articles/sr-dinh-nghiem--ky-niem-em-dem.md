@@ -13,21 +13,21 @@ Năm 2007, được tham dự khóa tu cho người trẻ ở tu viện Bát Nh�
 
 Suốt khoá tu, ngày nào con cũng tận hưởng giờ thiền buông thư của Sư cô và khi về nhà con chỉ nhớ có mỗi pháp môn đó mà thôi. Và từ đó, con có thói quen mới là trưa nào cũng “nằm xuống nghe Sư cô ru.” Nhờ vậy, sức khỏe con tốt hơn, tinh thần tươi vui hơn và chứng bệnh đau dạ dày cũng dần khỏi. Con đã khoe với bạn bè và người thân, cũng như khuyến khích họ thực tập pháp môn đơn giản mà thật hiệu nghiệm này. Bây giờ, mỗi khi có cơ hội hướng dẫn thiền buông thư, con thấy lại hình ảnh thân thương ngày ấy và hết lòng hiến tặng cho mọi người.
 
+{% image "article2023/sr-dinh-nghiem--ky-niem-em-dem/DSC_0403_e.JPG" %}
+
 ## Để thương để nhớ
 
 Mùa thu năm 2011, lần đầu tiên con gặp Sư cô ở Lộc Uyển. Sư cô gọi chúng con vào cốc của Sư cô ngồi chơi. Sư cô hỏi tên và nói: “À, con là Đính Nghiêm, người trả lời điện thoại khi sư cô gọi qua Bích Nham.” Con ngạc nhiên và nhớ lại có một lần con nhấc điện thoại và phía bên kia một giọng nói thật hiền: “Sư cô Chân Không đây, con là ai vậy?” Con thưa tên xong thì Sư cô hỏi tiếp con thuộc gia đình xuất gia nào. Rồi Sư cô nói: “Con giỏi lắm, biết thở trước khi nhấc điện thoại. Con còn nhỏ mà đã biết trả lời điện thoại lễ phép, rõ ràng sau này con sẽ làm được nhiều những chuyện khác.” Câu chuyện chỉ có vậy mà Sư cô nhớ và nhắc lại. Con biết Sư cô có trí nhớ rất tốt nhưng với con, đây cũng là một biểu hiện của tình thương Sư cô dành cho sư em nhỏ. 
-
-{% image "article2023/sr-dinh-nghiem/DSC_0403.JPG" %}
 
 Khóa tu ở Lộc Uyển kết thúc, đại chúng đi lên phía Bắc để hướng dẫn khóa tu tiếp theo ở Google. Sư cô xin ban tổ chức sắp xếp cho chúng con được đi cùng. Sư cô nói: “Chúng con mới đến Mỹ, nếu không được đi đợt này thì đâu biết sẽ có cơ hội nữa hay không!” Cuối cùng, chúng con cũng được đi, dù chẳng giúp được gì, mà ban tổ chức phải lo thêm chỗ ăn ở và chỗ đi chơi cho chúng con. Khi pháp thoại của Sư Ông kết thúc, chúng con được đi thăm cây cầu Vàng nổi tiếng trong khi Sư cô ở lại cho thiền sinh buông thư. 
 
 Trở về Bích Nham, con bị bệnh, ho sòng sọc cả ngày lẫn đêm. Không hiểu sao lúc đó con cứng đầu dễ sợ, nhất định không chịu uống thuốc dù sư cô lớn trong phòng hết lời khuyên nhủ. Rồi Sư cô cũng biết và gửi thuốc cho con, mà con cũng không chịu uống vì đó là thuốc Tây. Mấy ngày sau, Sư cô lại tìm ra thuốc Nam và mang đến dỗ con uống. Con cảm động quá chỉ biết im lặng uống thuốc. Uống xong là ngày mai lành liền. Không biết con lành bệnh do thuốc hay do tình thương của Sư cô nữa.
 
+{% image "article2023/sr-dinh-nghiem--ky-niem-em-dem/DSC_8466_e.JPG" %}
+
 ## Sống trong chúng thiệt là hạnh phúc!
 
 Năm 2013, con được làm thị giả Sư cô. Vừa gặp mặt, Sư cô đã tạo cho con một không khí thân tình, ấm áp. “Làm thị giả của sư cô khó lắm đó nghe", Sư cô nói rồi cười. Nụ cười ấy làm tan hết những lo lắng trong con.  Được nuôi dưỡng bởi năng lượng của Sư cô nên con cũng “tự nhiên, gần gũi” với Sư cô ngay lập tức. Con thương Sư cô như bà của mình vậy. Con làm tất cả những gì có thể để chăm sóc Sư cô bằng cả tấm lòng chứ không phải là nghĩa vụ. Và con nghĩ rằng những ai được làm thị giả của Sư cô cũng đều chung suy nghĩ ấy. 
-
-{% image "article2023/sr-dinh-nghiem/DSC_8466.JPG" %}
 
 Gần Sư cô, con mới biết được khối lượng công việc Sư cô làm cho tăng thân và cho các sư em của mình. Trong khóa tu, Sư cô không bỏ một thời khóa nào. Sáng nào Sư cô cũng dẫn con qua cốc Thạch Lang ngồi uống trà cùng Sư Ông và quý thầy thị giả trước buổi ngồi thiền hoặc pháp thoại. Buổi trưa, Sư cô cho thiền buông thư. Còn buổi chiều, Sư cô làm chủ tọa pháp đàm rồi cho thiền sinh tham vấn. Nếu các sư em gặp khó khăn, Sư cô đều có mặt. Người ở xa thì Sư cô gọi điện khuyên nhủ với tất cả tấm chân tình, còn nếu ở gần, Sư cô dành thời gian ngồi chơi với vị đó. Ngoài ra, Sư cô còn viết sách, trả lời các email của thiền sinh, rồi lo bao nhiêu chuyện khác cho Làng. Hôm nào Sư cô cũng thức rất khuya và dậy thật sớm. Vậy mà lúc nào Sư cô cũng đầy năng lượng tươi vui và đầy nhiệt huyết.
 
@@ -51,6 +51,6 @@ Tối tối trước khi ngủ, Sư cô lại kể cho con nghe những chuyện
 
 Sư cô thương mọi người một cách chân thành, mộc mạc, không cầu kỳ khách sáo, nên Sư cô cũng đón nhận tình thương một cách chân thành và sâu sắc. Con thật hạnh phúc vì có cơ hội được gần Sư cô, được nuôi dưỡng trực tiếp bởi thân giáo và tình thương của Sư cô, được học hỏi và được truyền thêm lửa cho bồ đề tâm của mình. Nhìn Sư cô, con có thêm niềm tin nơi Sư Ông, vì con biết Sư cô là người học trò lớn của Sư Ông, được nuôi lớn từ thân giáo của Sư Ông cũng như đồng hành cùng Sư Ông trên con đường phụng sự. Giờ đây Sư cô tiếp tục giúp Sư Ông nuôi lớn các sư em của mình. Con nguyện noi gương Sư cô, nuôi dưỡng để lòng mình thênh thang hơn, để có thể trang trải tình thương ngày một rộng lớn hơn, cũng như chế tác năng lượng phụng sự, tấm lòng thủy chung sắt son với tăng thân và với con đường hạnh nguyện mà mình đã chọn.
 
-Con xin thành kính cảm tạ sự hiện diện tuyệt vời của Sư cô trong tăng thân và kính mong Sư cô mãi an yên để làm chỗ nương tựa cho các sư em nhỏ hướng về.
+{% image "article2023/sr-dinh-nghiem--ky-niem-em-dem/DSC_0067_e.JPG" %}
 
-{% image "article2023/sr-dinh-nghiem/DSC_0067.JPG" %}
+Con xin thành kính cảm tạ sự hiện diện tuyệt vời của Sư cô trong tăng thân và kính mong Sư cô mãi an yên để làm chỗ nương tựa cho các sư em nhỏ hướng về.
