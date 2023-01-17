@@ -15,7 +15,7 @@ Cho đến một ngày con chợt nhận ra, con phải tự đứng vững bằ
 
 Trước khi nhận truyền đăng, con để tâm đọc thật kỹ bộ sách “52 năm theo Thầy học đạo và phụng sự” của Ni Trưởng *(người “Chị Cả” của giáo đoàn ni chúng Làng Mai, thường được mọi người gọi bằng danh xưng thân thuộc và giản dị: Sư Cô Chân Không)*. Từng dòng chữ, từng trang sách như mở thêm rộng lớn con đường, giúp con tiếp xúc sâu sắc hơn tình thương của Thầy. Sư cô đã truyền lửa cho con. Ngọn lửa của bồ tát Quan Âm Đại Sĩ. 
 
-{% image "article2023/sr-nhat-nghiem/Sr.Nhat-Nghiem.JPG" %}
+{% image "article2023/sr-nhat-nghiem-done/Sr.Nhat-Nghiem.JPG" %}
 
 Một hôm, nghe tin Sư cô sẽ sang thăm các tu viện thuộc Làng Mai tại Mỹ, con mừng lắm. Con cứ trông ngóng từng ngày để được gặp lại Sư cô và ước mong được làm thị giả cho Sư cô. Bỗng nhiên, trong con khởi lên ý niệm rằng: “Nếu đủ duyên con sẽ thỉnh Sư cô truyền đăng cho con khi Sư cô về Lộc Uyển.” Con ý thức là Sư cô đã lớn tuổi và thời gian chúng con được gần bên Sư cô không nhiều nữa, nên con trân quý từng phút giây bên Sư cô. May mắn thay, quý sư cô xóm Trong Sáng đã hoan hỷ và yểm trợ cho lời thỉnh cầu của con. Con vui và hạnh phúc lắm. 
 
@@ -36,7 +36,7 @@ Sáng hôm sau, Sư cô xuất hiện trong thiền đường khá sớm, rất 
 
 Thầy ơi, lúc Sư cô thắp lên ngọn đèn để trao cho con, cả Sư cô lẫn đại chúng đều rất xúc động. Con không thể nào ngăn cho mình không khóc được. Con nhớ Thầy và con nhận ra rằng Thầy luôn có mặt đó. Thầy sẽ giữ lời hứa bất cứ khi nào con thật sự có mặt. Con đã quỳ trước Thầy, trước Sư cô và con thấy được tình thương của Thầy một cách tròn đầy. Sư cô dặn dò con, giọng trầm ấm: “Ngọn đèn này tuy  nhỏ nhưng linh thiêng lắm con. Con phải tu dữ lắm. Chư Tổ đã giữ gìn hàng ngàn năm rồi mới tới tay Thầy, rồi truyền tới tay các con. Các con ráng gìn giữ để cho ngọn đèn này được tiếp tục mãi mãi.”
 
-{% image "article2023/sr-nhat-nghiem/08-PVM5067.jpg" %}
+{% image "article2023/sr-nhat-nghiem-done/08-PVM5067.jpg" %}
 
 Kính bạch Thầy, không biết nhờ phước duyên nào mà kiếp này con được gặp Thầy, và được nuôi lớn trong vòng tay Tăng thân. Con thấy mình là sự tiếp tục của dòng chảy tâm linh và huyết thống. Những yếu kém, khổ đau cũng như những cái hay, cái đẹp đang có trong con đều được truyền trao từ gia đình huyết thống và tâm linh. Con ý thức rằng tình thương của Thầy và đại chúng luôn có đó để nâng đỡ con trên con đường này. Một khi ngọn đèn tuệ giác được thắp lên, tay con được tiếp nhận từ tay Sư cô - đại diện cho Thầy, cho chư Tổ, con biết mình cần phải cố gắng thêm nhiều hơn nữa. 
 
