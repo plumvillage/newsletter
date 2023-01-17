@@ -49,9 +49,9 @@ Dù đã đi được nửa đoạn đường, con vẫn quay trở lại với 
 
 Con vừa đi vừa trò chuyện với các em, thỉnh thoảng hỏi xem các em có mệt chưa. Con khám phá ra rằng các em rất khỏe nhưng không muốn đi chỉ vì những tưởng tượng và hình dung trong đầu. Gần đến nơi, sự yên tĩnh của cánh rừng làm dấy lên trong con chút lo lắng. Mọi người đâu cả rồi? Làm sao tìm được người giữa khu rừng rộng lớn này? May quá, gặp một thầy đang đi lấy nước, con liền hỏi thăm. Thầy nói: “À, mọi người đang chơi nơi mé rừng phía trước đó.” Quả thật, con nghe có âm thanh từ đằng xa vọng lại. Giây phút đó, câu trả lời của thầy cùng sự im mát của cánh rừng hòa với chất liệu tinh khiết, ngọt lành của nước suối tạo nên khoảng lặng bình an, khỏe nhẹ trong tâm hồn người lữ hành. 
 
-"Sư cô ơi, nước suối này ngon quá!” Giọng non nớt của một thiên thần vang lên khiến con cười thật tươi. Con dẫn các em leo đồi với những bước chân thật thảnh thơi. Tới nơi, các em nhanh chóng hòa vào cuộc vui với những thiên thần khác. Sư chị liền hỏi: “Làm sao em rủ được các em đi cùng hay vậy?” Nhìn về phía chiếc võng đang đung đưa khó nhọc do sức nặng của bầy thiên thần ngồi trên, con trả lời: “Dạ, tại các em thương em mà đi thôi. Với lại, em có hứa khi nào các em mệt, em sẽ dẫn về ngay.” Nếu không có sự truyền thông với các em trước đó, con thấy mình rất khó thành công dù có khéo léo cỡ nào đi nữa. “Các thiên thần rất thích ngồi võng thì phải. Lần sau đi rừng, mình sẽ đem theo nhiều võng hơn,” con thầm nghĩ.
-
 {% image "article2023/sr-bo-de-done/DSC_4020.jpg" %}
+
+"Sư cô ơi, nước suối này ngon quá!” Giọng non nớt của một thiên thần vang lên khiến con cười thật tươi. Con dẫn các em leo đồi với những bước chân thật thảnh thơi. Tới nơi, các em nhanh chóng hòa vào cuộc vui với những thiên thần khác. Sư chị liền hỏi: “Làm sao em rủ được các em đi cùng hay vậy?” Nhìn về phía chiếc võng đang đung đưa khó nhọc do sức nặng của bầy thiên thần ngồi trên, con trả lời: “Dạ, tại các em thương em mà đi thôi. Với lại, em có hứa khi nào các em mệt, em sẽ dẫn về ngay.” Nếu không có sự truyền thông với các em trước đó, con thấy mình rất khó thành công dù có khéo léo cỡ nào đi nữa. “Các thiên thần rất thích ngồi võng thì phải. Lần sau đi rừng, mình sẽ đem theo nhiều võng hơn,” con thầm nghĩ.
 
 ## Thì ra siêu quậy cũng biết buồn
 
