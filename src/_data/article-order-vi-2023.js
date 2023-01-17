@@ -1,9 +1,9 @@
 module.exports = [
     // Sư Ông - Hãy truyền cho nhau cái thấy
     "br-minh-hy--con-duong-la-tam-hon-toi",
-    "phong-van-cac-vi-xuat-gia-tre--positive-habit",
-    "phong-van-cac-vi-xuat-gia-tre--elder-one",
-    "phong-van-cac-vi-xuat-gia-tre--mindful-manners",
+    "nhung-choi-non-chao-nang-mai-1",
+    "nhung-choi-non-chao-nang-mai-2",
+    "nhung-choi-non-chao-nang-mai-3",
     "su-ong--hay-truyen-cho-nhau-cai-thay",
     "sr-dinh-nghiem--thay-van-luon-la-thay",
     "sr-thao-nghiem--thay-tro-minh-dang-o-tren-dinh-doi",

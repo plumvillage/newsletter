@@ -965,14 +965,14 @@ article ul li::before {
     break-after: unset !important;
 }
 
-.article-phong-van-cac-vi-xuat-gia-tre-1 h1,
+.article-nhung-choi-non-chao-nang-mai-1 h1,
 .article-young-buds-glistening-in-the-sunshine h1
 {
     margin-bottom: 11pt;
 }
-.article-phong-van-cac-vi-xuat-gia-tre-1 .intro,
-.article-phong-van-cac-vi-xuat-gia-tre-2 .intro,
-.article-phong-van-cac-vi-xuat-gia-tre-3 .intro,
+.article-nhung-choi-non-chao-nang-mai-1 .intro,
+.article-nhung-choi-non-chao-nang-mai-2 .intro,
+.article-nhung-choi-non-chao-nang-mai-3 .intro,
 .article-young-buds-about-elders .intro,
 .article-young-buds-mindful-manners .intro,
 .article-young-buds-glistening-in-the-sunshine .intro
@@ -984,15 +984,15 @@ article ul li::before {
     text-align: center;
     font-style: italic;
 }
-.article-phong-van-cac-vi-xuat-gia-tre-1 h3,
-.article-phong-van-cac-vi-xuat-gia-tre-2 h3,
-.article-phong-van-cac-vi-xuat-gia-tre-3 h3,
+
+.article-nhung-choi-non-chao-nang-mai-1 h3,
+.article-nhung-choi-non-chao-nang-mai-2 h3,
+.article-nhung-choi-non-chao-nang-mai-3 h3,
 .article-young-buds-about-elders h3,
 .article-young-buds-mindful-manners h3,
 .article-young-buds-glistening-in-the-sunshine h3
 {
     column-span: all;
-    font-size: 21pt !important;
     font-style: normal !important;
     line-height: 125%;
     /* width: 55%; */
@@ -1002,9 +1002,23 @@ article ul li::before {
     margin-top: 4mm;
     margin-bottom: 6mm;
 }
-.article-phong-van-cac-vi-xuat-gia-tre-1 blockquote,
-.article-phong-van-cac-vi-xuat-gia-tre-2 blockquote,
-.article-phong-van-cac-vi-xuat-gia-tre-3 blockquote,
+.article-young-buds-about-elders h3,
+.article-young-buds-mindful-manners h3,
+.article-young-buds-glistening-in-the-sunshine h3
+{
+    font-size: 21pt !important;
+}
+.article-nhung-choi-non-chao-nang-mai-1 h3,
+.article-nhung-choi-non-chao-nang-mai-2 h3,
+.article-nhung-choi-non-chao-nang-mai-3 h3 {
+    font-size: 14pt !important;
+}
+
+
+
+.article-nhung-choi-non-chao-nang-mai-1 blockquote,
+.article-nhung-choi-non-chao-nang-mai-2 blockquote,
+.article-nhung-choi-non-chao-nang-mai-3 blockquote,
 .article-young-buds-about-elders blockquote,
 .article-young-buds-mindful-manners blockquote,
 .article-young-buds-glistening-in-the-sunshine blockquote
@@ -1013,9 +1027,9 @@ article ul li::before {
     margin-bottom: 15pt;
     padding-left: 0;
 }
-.article-phong-van-cac-vi-xuat-gia-tre-1 blockquote p,
-.article-phong-van-cac-vi-xuat-gia-tre-2 blockquote p,
-.article-phong-van-cac-vi-xuat-gia-tre-3 blockquote p,
+.article-nhung-choi-non-chao-nang-mai-1 blockquote p,
+.article-nhung-choi-non-chao-nang-mai-2 blockquote p,
+.article-nhung-choi-non-chao-nang-mai-3 blockquote p,
 .article-young-buds-about-elders blockquote p,
 .article-young-buds-mindful-manners blockquote p,
 .article-young-buds-glistening-in-the-sunshine blockquote p
@@ -1056,6 +1070,13 @@ article ul li::before {
     max-height: 39mm !important;
 }
 
+h1#nhung-choi-non-chao-nang-mai-1.calligraphyTitle,
+h1#nhung-choi-non-chao-nang-mai-2.calligraphyTitle,
+h1#nhung-choi-non-chao-nang-mai-3.calligraphyTitle
+{
+    margin-bottom: -4mm !important;
+}
+
 h1#tiep-noi-thay.calligraphyTitle {
     margin-bottom: -11mm !important;
 }
@@ -1064,8 +1085,8 @@ h1#tiep-noi-thay.calligraphyTitle + h2.author{
 }
 
 /* hide but retain link (id) */
-.article-phong-van-cac-vi-xuat-gia-tre-2 > h1,
-.article-phong-van-cac-vi-xuat-gia-tre-3 > h1,
+.article-nhung-choi-non-chao-nang-mai-2 > h1,
+.article-nhung-choi-non-chao-nang-mai-3 > h1,
 .article-young-buds-about-elders > h1,
 .article-young-buds-mindful-manners > h1,
 .article-review-of-the-year > h1 {

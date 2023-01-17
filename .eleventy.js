@@ -213,8 +213,10 @@ module.exports = function(eleventyConfig) {
                 return articleOrder[lang+year].indexOf(a.fileSlug) - articleOrder[lang+year].indexOf(b.fileSlug);
             })
             .map(e => {
-                // we could do some custom processing here
-                // console.log(e.fileSlug)
+                // sometimes I set id to make it custom. if not, use title:
+                if (!e.data.id) { 
+                    e.data.id = slugify(e.data.title)
+                }
                 return e
             })
         )
@@ -247,12 +249,12 @@ module.exports = function(eleventyConfig) {
         return e
     })
 
-    eleventyConfig.addNunjucksShortcode("idMap", idMap);
-    eleventyConfig.addNunjucksShortcode("easingGradient", easingGradient);
-    eleventyConfig.addNunjucksAsyncShortcode("image", imageShortcode);
-    eleventyConfig.addNunjucksAsyncShortcode("imageSrc", imageSrcShortcode);
-    eleventyConfig.addLiquidShortcode("image", imageShortcode);
-    eleventyConfig.addJavaScriptFunction("image", imageShortcode);
+    eleventyConfig.addNunjucksShortcode("idMap", idMap)
+    eleventyConfig.addNunjucksShortcode("easingGradient", easingGradient)
+    eleventyConfig.addNunjucksAsyncShortcode("image", imageShortcode)
+    eleventyConfig.addNunjucksAsyncShortcode("imageSrc", imageSrcShortcode)
+    eleventyConfig.addLiquidShortcode("image", imageShortcode)
+    eleventyConfig.addJavaScriptFunction("image", imageShortcode)
 
     return {
         dir: {

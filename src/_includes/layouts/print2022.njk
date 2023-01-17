@@ -110,12 +110,12 @@ Khai sơn Đạo tràng Mai Thôn quốc tế</p></div>
     <ul class="toc">
         {%- for article in articles -%}
             {%- if article.data.chapter -%}
-            <li class="chapterLi" id="li-{{ article.data.title | slugify }}">
-                <a class="" href="#{{ article.data.title | slugify }}">
+            <li class="chapterLi" id="li-{{ article.data.id }}">
+                <a class="" href="#{{ article.data.id }}">
                 <span class="toc-chapter-title">{{ article.data.title }}</span>
             {%- else -%}
-            <li id="li-{{ article.data.title | slugify }}">
-                <a class="toc-links" href="#{{ article.data.title | slugify }}">
+            <li id="li-{{ article.data.id }}">
+                <a class="toc-links" href="#{{ article.data.id }}">
                 <span class="toc-title">{{ article.data.title }}</span>
                 {%- if not article.data.author == "" -%}
                 <br/><span class="toc-author">{{ article.data.author }}</span>

@@ -8,10 +8,10 @@
     <ul class="toc">
         {%- for article in collections[collection_to_use] -%}
             {%- if article.data.chapter -%}
-            <li class="chapterLi" id="li-{{ article.data.title | slugify }}">
+            <li class="chapterLi" id="li-{{ article.data.id }}">
                 <span class="toc-chapter-title">{{ article.data.title }}</span>
             {%- else -%}
-            <li id="li-{{ article.data.title | slugify }}">
+            <li id="li-{{ article.data.id }}">
                 <a class="toc-links" href="{{ article.url }}">
                 <span class="toc-title">{{ article.data.title }}</span>
                 {%- if not article.data.author == "" -%}

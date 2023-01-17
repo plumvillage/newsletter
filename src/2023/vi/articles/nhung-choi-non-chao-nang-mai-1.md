@@ -1,8 +1,9 @@
 ﻿---
-title: Phỏng vấn các vị xuất gia trẻ 1
+title: Những chồi non chào nắng mai
+id: nhung-choi-non-chao-nang-mai-1
 preceeding_full_page_image_A4: "article2023/young-ones/A4 - Positive Habit Question.png"
 preceeding_full_page_image_Letter: "article2023/young-ones/Letter - Positive Habit Question.png"
-author: Phỏng vấn các vị xuất gia trẻ
+author: Phỏng vấn các vị xuất gia trẻ - phần I
 ---
 
 <!-- POSITIVE HABIT -->
