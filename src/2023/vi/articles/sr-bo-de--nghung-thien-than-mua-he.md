@@ -73,4 +73,4 @@ Tương lai của thế giới có tươi sáng hay không phụ thuộc vào c�
 
 <div class="article-end"></div>
 
-{% image "calligraphy/article titles 2 and dividers/5-masked/Dividers2-2-straight.webp" %}
+{% image "calligraphy2023/article-titles/divider-1.webp" %}

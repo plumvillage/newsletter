@@ -1128,10 +1128,12 @@ h1#opening-the-door-to-a-life-of-peace-and-purpose {
     margin-top: 0;
 }
 
-#calligraphyarticle-titles-2-and-dividers5-maskedDividers2-2-straight {
-    width: 25%;
-    margin-bottom: 10%;
+#calligraphy2023article-titlesdivider-1 {
+    width: 35%;
+    margin-top: 10% !important;
     column-span: all;
+    float: none;
+    margin: 0 auto;
 }
 
 .article-len-djoi {
