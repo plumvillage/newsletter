@@ -45,8 +45,6 @@ Nhớ lại đầu những năm 1980, khi Chân Đức tham gia biểu tình ở
 
 Về việc giảm thiểu lượng khí thải carbon, tất nhiên là chúng ta có thể làm hay hơn nữa. Chúng ta cần chia sẻ những ý tưởng cũng như những bước tiến mà chúng ta đã đạt được theo hướng đi này.
 
-{% image "article2023/sr-chan-duc-interview-done/IMG_9782.jpg" %}
-
 ### BBT: Khi tổ chức các khóa tu và lựa chọn các pháp môn để hiến tặng, chúng ta thường cố gắng đáp ứng các nhu yếu khác nhau của thiền sinh. Nhưng đôi khi việc chọn lựa để hướng năng lượng của mình vào đâu là một điều không đơn giản cho một người tu trẻ. Sư cô thực tập với điều này như thế nào?
 
 **Sư cô Chân Đức**: Trước tiên, trong tăng thân, ai cũng có khả năng và tài năng khác nhau. Ta thực sự phải tìm cách tận dụng năng lực của mình một cách tối đa. Khi còn ở EIAB, Chân Đức thường tập trung vào các khóa tu cho thầy cô giáo, vì Chân Đức từng là một giáo viên. Chân Đức thấy mình chỉ làm và đóng góp những gì có thể, dựa trên kinh nghiệm và năng lực của mình. Ai cũng có khả năng gì đó để đóng góp, không phải đi ra hướng dẫn khóa tu mới là quan trọng. Mình cũng cần có người chăm sóc Làng Mai, chăm sóc các sư em. Nếu ai cũng đi ra ngoài hướng dẫn khóa tu hết và không ai chăm sóc *các con trâu con* thì chúng có thể rơi xuống sông và bị nước cuốn trôi, thay vì qua sông một cách an toàn. Vì thế, khi suy ngẫm về những gì ta có thể đóng góp và phụng sự, chúng ta phải tìm cách để giữ được sự cân bằng. Chân Đức vẫn nghĩ việc đào tạo và hướng dẫn là công việc rất quan trọng, giúp chuẩn bị cho thế hệ trẻ đối diện với những gì sẽ xảy ra trong tương lai. Thầy luôn nói rằng “Thầy cô giáo hạnh phúc sẽ thay đổi thế giới.” Người trẻ cần được trang bị những điều cần thiết như đạo đức ứng dụng, đặc biệt là cách buông thư, chăm sóc cảm xúc và cách truyền thông.
@@ -82,3 +80,7 @@ Thời điểm Chân Đức có được những cái thấy rất sáng tỏ th
 ### BBT: Khi mình nhìn thấy người khác đang gây hại cho môi trường, có ích lợi gì không khi mình nổi giận với người đó? Theo Sư cô, mình phải đối diện với hoàn cảnh đó như thế nào ?
 
 **Sư cô Chân Đức:** Mình giận vì mình nghĩ người mà mình giận là người đang gây hại. Đó là vấn đề đầu tiên. Mình xem người kia là người đang gây hại. Nhưng nếu mình nhìn sâu vào điều người đó đang làm và những nguyên nhân, điều kiện cũng như tất cả những người có liên quan tới hành động gây hại đó, mình sẽ thấy rằng đó không phải là vấn đề cá nhân. Ví dụ, tổng thống Bush hay tổng thống Trump có cả hệ thống chống lưng cho họ, đó là những người dân đã bỏ phiếu hay những người đang cố vấn cho họ. Vì thế lên án hay chỉ trích một cá nhân là khờ dại. Nếu nhìn cho sâu, ta thấy họ cũng là nạn nhân. Chúng ta có thể nói tình trạng hâm nóng địa cầu là do khai thác nhiên liệu hóa thạch hay do ngành nông nghiệp, v.v. Nhưng đằng sau đó là gì? Chính là lòng tham và sự vô minh. Loài người chúng ta có những tâm hành như tham đắm và si mê, khi ta không biết cách để chuyển hóa thì chúng sẽ gây cho ta rất nhiều khổ đau. Vậy nên việc chúng ta có khả năng trở về với tự thân và chăm sóc những tâm hành của mình, để không góp phần tạo thêm chiến tranh, hành động tàn phá hay gây hại nào nữa là một điều rất quan trọng.
+
+<div class="article-end"></div>
+
+{% image "article2023/sr-chan-duc-interview-done/IMG_9782.jpg" %}
