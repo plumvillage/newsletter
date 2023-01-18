@@ -19,11 +19,11 @@ Trong những năm đầu xuất gia, con chật vật ghê lắm trong chuyện
 
 Ấy vậy, Thầy luôn làm chủ được những hoàn cảnh tưởng chừng như căng thẳng ấy với sự khoan thai, đầy ung dung tự tại. Lấy đi sự ngăn cách giữa mình và mọi người, Thầy hiến tặng sự nhẹ nhàng ấy cho những người xung quanh. Đó chính là những lúc con tiếp xúc được lòng từ bi nơi Thầy. Thầy không bị chi phối bởi các tâm hành mặc cảm, hay những cảm xúc lên xuống khổ sở, nhưng Thầy cảm thông được với những ai rơi vào tình trạng đó. Đồng thời, Thầy  hiểu cho tâm trạng của một người khá nhạy cảm, cần sự tế nhị.
 
+{% image "article2023/sr-the-nghiem-done/image_edited.jpg" %}
+
 Có một lần, con làm thị giả lái xe đưa Thầy từ xóm Mới về xóm Hạ. Trước đó, con có học cách lái xe tay số trên đường làng của Pháp, nhưng con thấy mình chưa thực sự vững lắm. Sáng hôm ấy, hai thầy trò đi khá êm đềm và suôn sẻ… cho tới khi xe chạy đến ngã tư. Chiếc xe tự nhiên giật mạnh rồi dừng lại đột ngột vì chết máy. Con nhìn xuống chiếc cần gạt, đỏ bừng mặt vì nghĩ mình đã làm gì sai rồi.
 
 Nhanh như chớp, nhưng vẫn điềm tĩnh và nhẹ nhàng, Thầy chỉ tay ra ngoài cửa xe, vui vẻ ngắm cảnh gì đó ở đằng xa để giúp con bớt mặc cảm trách móc bản thân. Lúc đó, con vừa quê vì thấy mình làm lỗi, mà cũng vừa ý thức là Thầy đang giúp mình “thay chốt,” nên con chỉ biết im lặng. Tuy vậy, trong con đã ghi tạc lòng từ bi của Thầy. *Bạch Thầy kính thương, cảm  ơn Thầy đã từ bi với con.*
-
-{% image "article2023/sr-the-nghiem-done/image_edited.jpg" %}
 
 Con còn một kỷ niệm khác với Thầy. Có một ngày, con làm thị giả cho Thầy ở thiền đường Cam Lộ, xóm Hạ. Trong khi Thầy và đại chúng đã an tọa, chuẩn bị cho buổi cơm quá đường rồi, con vẫn còn đứng ở lối đi chính giữa thiền đường. Đang loay hoay tìm cách làm sao để đến chỗ ngồi dành cho thị giả, con bỗng thấy một chỗ trống sát tọa cụ của Thầy. Thở phào nhẹ nhõm, con tìm lối đi tắt để tới chỗ đó, mà hoàn toàn không ý thức đó là một bước hết sức dại dột: lối đi đó băng ngang mâm cơm và bình bát dành cho Thầy. Thời điểm đó, sự thực tập của con còn non nớt lắm. Con nào biết bước qua đồ đạc của thầy mình là một sự thất lễ, huống hồ đây lại là mâm cơm của Thầy.
 
