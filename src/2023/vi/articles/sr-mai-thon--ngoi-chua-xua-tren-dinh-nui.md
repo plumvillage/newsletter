@@ -19,11 +19,11 @@ Khi hai chị em con về Nhập Lưu, số lượng thường trú ở đây t�
 
 Sau những ngày Tâm tang, chị em con bảo nhau rằng có lẽ Sư Ông muốn mình tiếp tục làm những công việc cần làm. Vì vậy, ban ngày chúng con vẫn có mặt với cư sĩ hết lòng nhưng khi trở về phòng, nằm trên đơn mà nước mắt cứ chảy dài khi nghĩ về Thầy.
 
+{% image "article2023/sr-mai-thon/DJI_0538.JPG" %}
+
 Tuy ít người nhưng những chương trình sinh hoạt vẫn được duy trì đầy đủ. Chúng con đi tặng chả giò, tổ chức ngày Mở cửa để làm quen với hàng xóm xung quanh nơi ở mới, rồi lên thời khóa cho ngày Giáng sinh, Tết tây với những bài pháp thoại, đốt lời khấn nguyện đầu năm và cùng làm lễ đón năm mới vào nửa đêm. Vào dịp Tết nguyên đán, chúng con vẫn gói bánh chưng, bánh tét, cúng đại thí thực, tổ chức tất niên, thơ nhạc thiền và có cả chuông trống Bát Nhã đón Giao thừa. Sáng mồng Một Tết, chúng con cùng có mặt để chúc Tết Thầy, bói Kiều và thăm phòng quý sư cô. Chúng con còn mở hội chợ Xuân đón khoảng 200 người đến tham dự. Gian hàng bói Kiều trong hội chợ Xuân làm ăn rất khấm khá. Hai sư cô thay phiên nhau giải Kiều cho đến ba giờ chiều mới xong đó, thưa Thầy.
 
 Sau Tết, mấy chị em mệt nhoài nhìn nhau nói: "Mình ít người mà đúng là điệu nào cũng múa". Thì quà Tết của chúng con dâng Thầy có gì ngoài mấy điệu múa đó đâu!
-
-{% image "article2023/sr-mai-thon/DJI_0538.JPG" %}
 
 ## Mở ra một chương mới
 
@@ -68,13 +68,15 @@ Cứ ngỡ là như vậy cho đến hôm sau, khi đi thiền hành ngang qua b
 
 Ngày nào các sư cô cũng cố ý đi thiền hành ngang qua hồ, dừng lại ngắm nó một hồi rồi đi tiếp. Riết rồi thành thói quen. Đôi khi đại chúng chấp tác bên bờ hồ vài ba ngày liên tiếp đều thấy nó bơi thong dong, không sợ hãi mà cũng không thân thiện. Lâu lâu, con dừng tay ngắm nó, thấy lòng vui vui.
 
+{% image "article2023/sr-mai-thon/Thiền hành Vu Lan 3.JPG" %}
+
 Bỗng một buổi sáng đi thiền hành, chúng con không thấy nó đâu nữa. Dường như không tin vào mắt mình, chúng con dừng lại, quan sát thật lâu. Vài ngày sau, con vịt cũng không xuất hiện. Có lẽ nó đã đi thật rồi hoặc gặp một điều không may nào đó. Chạnh lòng, con nhớ đến con thằn lằn của chú Tâm Quán trong cuốn sách *Tình Người*. Một kiếp sống hiện lên ngắn ngủi trên biển hiện tượng, rồi biến mất. Lòng con chợt thấy thương thương và man mác buồn. 
 
 Con tự hỏi: “Tại sao mình lại có cái tâm trạng buồn thương như vậy cho một con vịt trời, nay đi mai ở?” Rồi chợt nhận ra hình ảnh con vịt lẻ loi đã chạm tới nỗi cô đơn, tủi thân nằm thật sâu trong lòng. Có lẽ nỗi cô đơn này đã được truyền từ đời này sang đời khác. Vậy nên mới có một quyển sách có tựa đề là *Trăm năm cô đơn*. Mình đến trong đời này một mình thì khi ra đi cũng sẽ là một chuyến độc hành. Mình tự thương cho sự cô đơn, lẻ loi của mình cho nên nỗi niềm đó cũng lan tỏa đến với con vịt. Nhưng thật ra, tự thân con vịt đâu có thấy vậy. Nó được sinh ra, lớn lên và sống cuộc đời của nó như một lẽ thường tình. Vậy nên, có gì đâu mà nó phải buồn, phải hờn hay phải trách.
 
 Khi nhận diện và gọi tên được những cảm xúc tủi thân, cô đơn và lẻ loi, lòng con bỗng thấy nhẹ nhõm. Cái man mác buồn thương cũng tự dưng biến mất. Con mỉm một nụ cười, thấy thấm thía lời Thầy: "Gọi được tên thật của nó rồi thì mình sẽ tự do". May mắn cho con, bây giờ đã có đường đi rồi, con không còn lo sợ nữa. Con có thể cô đơn nhưng không cô độc.
 
-{% image "article2023/sr-mai-thon/Thiền hành Vu Lan 3.JPG" %}
+{% image "article2023/sr-mai-thon/TMT.1.JPG" %}
 
 ## Chuông đại hồng
 
