@@ -13,7 +13,7 @@ Hai mươi năm trước, tôi được gặp Thầy lần đầu tiên sau khi 
 
 Đối với Thầy, ngay cả những hành động, cử chỉ giản đơn cũng đều chuyên chở năng lượng chánh niệm và lòng biết ơn. Tôi còn nhớ lần được đi thiền hành cùng Thầy và Sư cô Chân Không quanh một vườn cây ăn trái. Chúng tôi dừng lại hái táo rồi cùng ăn bên nhau, tận hưởng sự có mặt của nhau mà không cần nói năng gì. Cả thế giới dường như ngưng đọng lại trong khoảnh khắc ấy. Hiện tại và chỉ hiện tại mà thôi!
 
-{% image "article2023/John-P-Hussman/13173211_1112957932099649_2621192491628848345_o.jpg" %}
+{% image "article2023/John-P-Hussman/l13.JPG" %}
 
 Mỗi lần gặp lại, Thầy thường nắm lấy tay tôi. Thầy trò nhìn nhau trong chốc lát rồi cùng thở và cười với nhau. Cứ mỗi lần gặp gỡ, Thầy thường ban cho tôi một bài pháp ngắn. Mặc dù, có lẽ chúng tôi chỉ gặp được Thầy mỗi năm một lần, nhưng giọng nói của Thầy dần dà đi vào trong tôi. Tiếng Thầy đã trở thành tiếng lòng tôi và với thời gian, thành tiếng lòng của vợ, con và cả gia đình, bạn bè tôi. Những lời dạy của Thầy đã ảnh hưởng tương tự đến không biết bao nhiêu người. Lời Thầy như tiếng gọi đưa ta nhẹ nhàng trở về với giây phút hiện tại, tiếp xúc với những gì tốt đẹp trong ta. Truyền cảm hứng để ta thêm hiểu, thêm thương chính mình cũng như những người xung quanh và sách tấn ta từng bước trên con đường thực tập chánh niệm.
 
@@ -21,7 +21,7 @@ Thầy đã đóng vai trò một vị thầy tâm linh với nhiều niềm vui
 
 Hình ảnh thiên nhiên luôn có mặt trong những ví dụ của Thầy: cây cối, chiếc lá, hạt giống, cơn mưa, giọt nắng, con sóng, dòng sông, đám mây, bầu trời và mặt trăng. Và không kém phần quan trọng, cả trên bình diện thiên nhiên lẫn con người, Thầy luôn nhìn thấy điều tốt đẹp nhất trong mỗi sự vật và con người. Những phẩm chất Thầy nhìn thấy ở thế giới phản ánh những điều tốt đẹp trong tim Thầy, mà Thầy gọi là “tự tánh.” Khi nghe Thầy giảng, ta hiểu ra rằng những khái niệm như vô ngã, vô thường, tiếp nối, từ bi, bất bạo động, hòa giải, không phân biệt và tình thương, không phải là những khái niệm riêng rẽ hay trừu tượng. Nhưng là những đúc kết tự nhiên đến từ sự quán niệm về tự tánh trong mỗi chúng ta - rằng bản chất của chúng ta là như nhau; rằng chúng ta *tương tức*. “Chúng ta trống không, nhưng không có cái gì? Không có một cái ngã riêng biệt mà lại chứa đựng toàn thể vũ trụ.” Sóng cũng đồng thời là nước.
 
-{% image "article2023/John-P-Hussman/l13.JPG" %}
+{% image "article2023/John-P-Hussman/13173211_1112957932099649_2621192491628848345_o.jpg" %}
 
 Thầy buộc phải sống hàng thập kỷ lưu đày xa quê hương, một cái giá khá đắt cho những nỗ lực kêu gọi hòa bình, từ bi và không kỳ thị - dù đối với những người mà người khác có thể gọi là “kẻ thù.” Nhưng rõ ràng là giữa tất cả những bạo động, xung đột, thế giới vẫn đẹp và từ bi hơn nhờ có Thầy.
 
