@@ -299,5 +299,5 @@ function continueWork() {
 
 // concurrent.
 // for full-size pdf, 2 is very memory intense (16GB recommended)
-Array(4).fill().forEach(startWork)
+Array(1).fill().forEach(startWork)
 

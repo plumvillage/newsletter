@@ -83,4 +83,4 @@ Thời điểm Chân Đức có được những cái thấy rất sáng tỏ th
 
 <div class="article-end"></div>
 
-{% image "article2023/sr-chan-duc-interview-done/IMG_9782.jpg" %}
+{% image "article2023/sr-chan-duc-interview-done/IMG_9782_e.jpg" %}
