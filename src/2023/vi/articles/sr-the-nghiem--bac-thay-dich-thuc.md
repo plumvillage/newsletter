@@ -43,7 +43,7 @@ Ngẫm lại cuộc đối thoại giữa hai thầy trò, con nhận thấy Th�
 
 Vậy là, Thầy đã phá tan chướng ngại và mở ra cánh cửa cho con có cơ hội lớn lên bằng kinh nghiệm trực tiếp của chính mình. Đã bao nhiêu năm rồi, lời dạy của Thầy vẫn tiếp tục là công án quý giá cho con quán chiếu. Từ nhiều góc độ khác nhau về thời gian và kinh nghiệm, con thường trở về với lời Thầy dạy để một lần nữa nhìn sâu vào cách hiểu và sự thực tập của mình.  
 
-{% image "article2023/sr-the-nghiem-done/1.jpg" %}
+{% image "article2023/sr-the-nghiem-done/1_e.jpg" %}
 
 ## Người làm vườn tận tụy
 

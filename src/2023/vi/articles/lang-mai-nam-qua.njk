@@ -1,0 +1,119 @@
+---
+title: Review of the Year
+# author: Brother Chân Pháp Lưu
+---
+
+{% set pages = [
+    {
+        img: "1 - Monastic Retreat.jpg",
+        position: [0, 0, 129, 136, 10, 10, 0, 0],
+        title: "Monastic Retreat",
+        text: "Some Text"
+    },{
+        img: "2 - Thay_s Ashes 1.jpg"
+    },{
+        img: "3 - Thay_s Ashes 2.jpg",
+        position: [0, 99, 0, 137, 10, 10, 0, 0],
+        title: "Receiving Thay's Ashes",
+        text: "Some Text"
+    },{
+        img: "5 - Thay_s Ashes 3.jpg"
+    },{
+        img: "4 - Thay_s Ashes 4.jpg"
+    },{
+        img: "6 - SPRING RETREATS.jpg",
+        position: [0, 125, 0, 137, 10, 10, 0, 0],
+        title: "Spring Retreats",
+        text: "Some Text"
+    },{
+        img: "7 - Peace - ACND.jpg",
+        position: [130, 0, 0, 0, 10, 10, 0, 0],
+        title: "A Cloud Never Dies",
+        text: "Some Text"
+    },{
+        img: "8 - Monastics On Tour 1.jpg",
+        position: [188, 0, 85, 0, 10, 10, 0, 0],
+        title: "Monastics On Tour",
+        text: "Some Text"
+    },{
+        img: "9 - Monastics On Tour 2.jpg"
+    },{
+        img: "10 - 40 years PV 1.jpg"
+    },{
+        img: "11 - 40 Years PV 2.jpg",
+        position: [139, 105, 0, 0, 10, 10, 0, 0],
+        title: "40 Years of Plum Village",
+        text: "Some Text"
+    },{
+        img: "12 - 40 Years PV 3.jpg"
+    },{
+        img: "13 - Wake Up and Summer.jpg",
+        position: [137, 0, 0, 106, 10, 10, 0, 0],
+        title: "Summer Retreats",
+        text: "Some Text"
+    },{
+        img: "14 - Rains Retreat 2022.jpg",
+        position: [137, 0, 94, 0, 10, 10, 0, 0],
+        title: "Rains Retreat",
+        text: "Some Text"
+    },{
+        img: "15 - Novice Ordination.jpg",
+        position: [90, 85, 0, 88, 10, 10, 0, 0],
+        title: "Novice Ordination",
+        text: "Some Text"
+    },{
+        img: "16 - Lamps.jpg",
+        position: [190, 0, 85, 0, 10, 10, 0, 0],
+        title: "Lamp Transmission",
+        text: "Some Text"
+    },{
+        img: "17 - SCCK Honor.jpg",
+        position: [114, 0, 0, 111, 10, 10, 0, 0],
+        title: "Su Co Chan Khong Honorary Degree",
+        text: "Some Text"
+    },{
+        img: "18 - Thay_s Memorial 1.jpg",
+        position: [189, 0, 0, 0, 10, 10, 0, 0],
+        title: "Thay's Memorial",
+        text: "Some Text"
+    },{
+        img: "19 - Thay_s Memorial 2.jpg"
+    },{
+        img: "20 - Thay_s Memorial 3.jpg"
+    }
+] %}
+
+
+
+
+{%- for page in pages -%}
+    <div class="full-page-background-img-bleed">
+        {% image [ "Lang Mai Nam Qua A4 Final No Text/", page.img ] | join %}
+    </div>
+
+    {%- if page.text %}
+    <div class="positioned-text-box" style="
+        top: {{ page.position[0] }}mm;
+        left: {{ page.position[1] }}mm;
+        right: {{ page.position[2] }}mm;
+        bottom: {{ page.position[3] }}mm;
+        {# top: {{ page.position[4] }}mm;
+        left: {{ page.position[5] }}mm;
+        right: {{ page.position[6] }}mm;
+        bottom: {{ page.position[7] }}mm; #}
+        {# --A4Top: {{ page.position[0] }}mm;
+        --A4Left: {{ page.position[1] }}mm;
+        --A4Right: {{ page.position[2] }}mm;
+        --A4Bottom: {{ page.position[3] }}mm;
+        --LetterTop: {{ page.position[4] }}mm;
+        --LetterLeft: {{ page.position[5] }}mm;
+        --LetterRight: {{ page.position[6] }}mm;
+        --LetterBottom: {{ page.position[7] }}mm; #}
+    "><h1>{{ page.title }}</h1>
+    <p>{{ page.text }}</p></div>
+    {%- endif %}
+
+    {%- if not loop.last %}
+    <div class="page-break"></div>
+    {%- endif %}
+{%- endfor -%}

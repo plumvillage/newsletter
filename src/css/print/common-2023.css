@@ -919,20 +919,20 @@ article ul li::before {
 }
 
 .size-A4 .positioned-text-box {
-    top: var(--A4Top);
+    /* top: var(--A4Top);
     left: var(--A4Left);
     right: var(--A4Right);
-    bottom: var(--A4Bottom);
+    bottom: var(--A4Bottom); */
     /* top: 2mm; */
     /* left: 2mm; */
     /* right: 118mm; */
     /* bottom: 136mm; */
 }
 .size-Letter .positioned-text-box {
-    top: var(--LetterTop);
+    /* top: var(--LetterTop);
     left: var(--LetterLeft);
     right: var(--LetterRight);
-    bottom: var(--LetterBottom);
+    bottom: var(--LetterBottom); */
     /* top: 2mm; */
     /* left: 2mm; */
     /* right: 20mm; */
@@ -1118,15 +1118,13 @@ h1#opening-the-door-to-a-life-of-peace-and-purpose {
     margin: 0 auto;
 }
 
-.article-dao-but-dan-than-va-dao-but-ung-dung h3 {
-    font-size: 11pt;
+.article-djao-but-dan-than-va-djao-but-ung-dung h3 {
+    font-size: 11pt !important;
     font-style: italic;
     margin-bottom: 0.4em;
     /* color: var(--color-bark-dark); */
 }
-.article-dao-but-dan-than-va-dao-but-ung-dung p strong {
-}
-.article-dao-but-dan-than-va-dao-but-ung-dung h3:first-of-type {
+.article-djao-but-dan-than-va-djao-but-ung-dung h3:first-of-type {
     margin-top: 0;
 }
 

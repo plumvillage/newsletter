@@ -13,7 +13,7 @@ Rồi trong những khóa tu người Việt, con cũng thường né tránh thi
 
 Những lúc Thầy nói như vậy con chỉ lắng nghe thôi. Nhưng sau khi Thầy qua đời, con hiểu ra đó là những cái thấy của một vị thầy về đệ tử của mình. Không chỉ đối với riêng con mà đối với tất cả những người con tâm linh của mình, Thầy đều thấy được những khổ đau và cả những tiềm năng trong mỗi chúng con. Thầy có niềm tin rằng nếu cố công thực tập thì tất cả chúng con, ai cũng có thể làm được những điều mà mình nghĩ rằng không thể.
 
-{% image "article2023/sr-dang-nghiem/Thay100Day-7.jpg" %}
+{% image "article2023/sr-dang-nghiem/Thay100Day-7_e.jpg" %}
 
 Ngay từ những ngày đầu, Thầy đã hun đúc những điều đó trong tất cả những người đệ tử xuất sĩ và cư sĩ. Thầy đã vạch ra con đường cho chúng con có thể tiếp nối Thầy một cách đơn giản, rõ ràng và cụ thể. Điều đầu tiên là phải học cách chăm sóc được chính mình. Khi học chữ Hán Việt, con khám phá ra chữ “Tri kỷ” nghĩa là nhớ, biết và làm chủ chính mình. Con hạnh phúc vô cùng. Con thấy rõ được cách chăm sóc chính mình, biết làm chủ hình hài, cảm thọ, tư duy, nhận thức và tri giác của mình. Làm tri kỷ của năm uẩn để chuyển hóa, chữa lành những khổ đau của tự thân, và của cha mẹ, ông bà tổ tiên đang biểu hiện rất sống động trong cách mình tư duy, nói năng và hành xử. Là sự tiếp nối của Thầy, điều đầu tiên chúng con phải thực tập là làm chủ được bản thân.
 
@@ -33,15 +33,15 @@ Một lần con làm đệ nhị thân cho một sư chị đem thức ăn cúng
 
 Là một bậc thầy tâm linh của thế giới nhưng Thầy sống bình dị, gần gũi và làm tri kỷ cho các con của mình. Con người Thầy được biểu hiện qua những hành động rất đẹp và giản đơn. Thầy trung trực với chính mình, tu học chuyển hóa những khó khăn chướng ngại trong từng giai đoạn của cuộc đời, để rồi Thầy trao truyền cho các con những miếng táo lành lặn thơm ngon nhất. Đó chính là những pháp môn cụ thể mà chính Thầy đã khám phá và tu tập thành công.
 
-{% image "article2023/sr-dang-nghiem/Thay100Day-3.jpg" %}
+{% image "article2023/sr-dang-nghiem/SrDangN-e2.jpg" %}
+
+<!-- {% image "article2023/sr-dang-nghiem/Thay100Day-3_e.jpg" %} -->
 
 Giây phút nhận tin Thầy qua đời, chúng con đã ngồi rất yên và thở rất sâu trong thiền đường Sao Trên Biển. Chúng con đi thiền hành với nhau trước khi họp về chi tiết các buổi lễ. Thầy đã cho chúng con thời gian để chuẩn bị tinh thần cũng như mọi chi tiết khác. Vì vậy, chỉ hai tiếng sau, bàn thờ đã được thiết lập. Thời khóa tu tập cho suốt tuần lễ Tâm tang cũng đã sẵn sàng.
 
 Bảy ngày Tâm tang là bảy ngày Pháp hội mà chúng con rất trân quý. Tất cả cơ sở vật chất cũng như các pháp môn đều là di sản Thầy trao truyền. Chúng con thực tập im lặng hùng tráng, ngồi yên, thiền hành, dùng cơm quá đường, tụng giới, chia sẻ những kỷ niệm với Thầy hay sự thực tập để tiếp xúc với Thầy trong mỗi cá nhân chúng con.
 
 Thầy từng dạy, “Nỗi đau không tránh được, nhưng cái khổ là một sự chọn lựa.” Nỗi đau mất Thầy, chúng con không tránh được. Hai năm trước khi Thầy qua đời, chính tay con đã để hình Thầy vào khung rồi che lại, úp xuống trên cái bàn sẽ dùng làm bàn thờ của Thầy. Con sợ rằng khi giây phút đó đến, chúng con sẽ run đến nỗi không thể để di ảnh của Thầy vô khung được. Lần đầu nhìn di ảnh Thầy trên bàn thờ, con vẫn cảm thấy bàng hoàng dù đã chuẩn bị tinh thần nhiều đến mấy đi nữa. Khi đại chúng xếp hàng đứng trước thiền đường Trăng Đầu Non để rước tro cốt của Thầy mang từ chùa tổ Từ Hiếu về, nhìn thầy Pháp Lưu ôm hũ tro bước ra xe, không ai cầm được nước mắt. Trời mưa lất phất, nước mưa nước mắt hòa quyện vào nhau. Trong giây phút đó và kể cả sau này cũng vậy, tâm con chỉ có một ý nghĩ, “Thầy không có trong đó!”
-
-{% image "article2023/sr-dang-nghiem/Tiep-noi-thay-7.png" %}
 
 Trong kinh A Nậu La Độ, có người ngoại đạo hỏi, “Khi Bụt qua đời, Bụt còn hay không còn? Hay vừa còn vừa không còn? Hay vừa không còn vừa không không còn?” Dù đã nghe kinh rất nhiều lần, con vẫn thấy những mệnh đề đó khó hiểu. Vậy mà khi Thầy qua đời, tự nhiên con thấy rõ, đúng là không thể hỏi Thầy còn hay không còn; hay là vừa còn vừa không còn; hay là vừa không còn vừa không không còn! Thầy không bị kẹt vào những mệnh đề hay khuôn khổ eo hẹp đó. Giờ thì con đã hiểu vì sao Bụt im lặng không trả lời.
 
@@ -65,10 +65,11 @@ Làm an lạc cuộc đời.</p>
 
 Tu viện Lộc Uyển hiện đang có khóa tu đón mừng năm 2023. Vì thiếu chỗ nên nhiều gia đình có cháu nhỏ cũng phải cắm trại. Trời đổ mưa nặng hạt đôi khi lạnh cóng, nhưng khuôn mặt ai cũng rạng rỡ. Lều cắm san sát với những màu sắc rực rỡ như nấm mọc lên sau cơn mưa giữa sa mạc. Các sư em con cũng mạnh dạn lên chia sẻ trong buổi hướng dẫn tổng quát dù tiếng Anh không phải là ngôn ngữ mẹ đẻ.
 
+<!-- {% image "article2023/sr-dang-nghiem/Tiep-noi-thay-5_e.jpg" %} -->
+
 Sáng hôm sau, có một cặp vợ chồng người Mỹ tới gặp con sau khi con cho pháp thoại. Họ chắp tay, tha thiết nói: “Nhiều năm Thầy đã dạy tăng thân sẽ tiếp nối Thầy, nhưng tôi đã không tin điều đó. Từ lúc Thầy qua đời, tôi cảm thấy mất đi niềm cảm hứng. Nhưng trong khóa tu này, khi lắng nghe những lời chia sẻ của quý thầy quý sư cô, tôi thật sự thấy rằng Thầy đang được tăng thân tiếp nối. Bây giờ thì tôi thật sự tin điều đó. Cảm ơn quý thầy, quý sư cô đã cho tôi niềm tin.” Ông vừa nói vừa khóc, nước mắt dàn dụa. Vợ của ông đứng kế bên cũng khóc ròng. Chúng con cùng khóc với nhau những giọt nước mắt tràn đầy hạnh phúc.
 
 <div class="verse"><p>Chúng con đi, bước chân Thầy huyền thoại<br/>
 Chúng con thở, hơi thở Thầy truyền kỳ<br/>
 Chúng con sống, cuộc đời Thầy kỳ diệu<br/>
 Hạnh phúc cười, Thầy có mãi trong chúng con.</p></div>
-

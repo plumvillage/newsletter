@@ -207,7 +207,7 @@ module.exports = function(eleventyConfig) {
     let createSortedCollection = function(year, lang) {
         eleventyConfig.addCollection(`articles_${year}_${lang}`,
         (collection) => collection
-            .getFilteredByGlob(`./src/${year}/${lang}/articles/*.md`)
+            .getFilteredByGlob([`./src/${year}/${lang}/articles/*.md`, `./src/${year}/${lang}/articles/*.njk`])
             .sort((a, b) => {
                 console.assert((articleOrder[lang+year].includes(a.fileSlug)), `Missing order for ${a.fileSlug}`);
                 return articleOrder[lang+year].indexOf(a.fileSlug) - articleOrder[lang+year].indexOf(b.fileSlug);
