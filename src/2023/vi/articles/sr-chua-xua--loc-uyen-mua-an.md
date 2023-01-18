@@ -3,6 +3,8 @@ title: Lộc Uyển mùa an
 author: Sư cô Chân Trăng Chùa Xưa
 ---
 
+{% image "article2023/sr-chua-xua-done/nature-deerpark-4.jpeg" %}
+
 Bạn ơi, những đêm trăng trên vùng sa mạc núi đá ở tu viện Lộc Uyển đẹp không thể diễn tả. Đây là mùa an cư đầu tiên của mình ở xóm Trong Sáng. Mỗi buổi sớm mai, mình có cả bầu trời với ánh trăng và hàng triệu ngôi sao lấp lánh soi tỏ suốt con đường thơm từ ni xá lên tới thiền đường Thái Bình Dương. Tiếng chuông đại hồng vang vọng, đất trời tràn ngập hương hoa cam, hương lá sage, khuynh diệp và bao nhiêu loài cỏ dại…
 
 Đã hơn mười năm rồi, vùng đất này gặp hạn hán và thiếu mưa nên mùa hè mang màu nâu còn mùa đông thì xanh thắm. Những ngày hè về, mặt đất và lá cây chuyển dần sang màu nâu, thân cành sẫm lại và khô héo tựa như nước đã bị bốc hơi hết. Vì vậy, đối với người mới đến đây, nhìn vào cứ ngỡ rằng cây đã chết. Nhưng thực ra cây đang trở về nuôi dưỡng gốc rễ; nhựa sống cô đặc ở bên trong. Sự sống trở nên khiêm tốn và nhu nhuyến. Có lẽ trong môi trường khắc nghiệt như vậy nên cây nào cũng tỏa ra hương thơm đặc biệt. Nắng càng gắt thì hương hoa, hương lá cây càng đậm đà và màu hoa cũng rất riêng. 
@@ -46,6 +48,8 @@ Mùa an cư luôn có những lớp học thú vị. Quý sư cô mới lần đ
 Hai tuần một lần, đại chúng lại có một buổi chấp tác chung vào thứ bảy với sự tham gia rất đông vui của các vị cư sĩ dưới phố. Hình ảnh thầy Pháp Nhĩ - tri sự xóm Vững Chãi ra hướng dẫn công việc cho đại chúng trước mỗi buổi chấp tác bằng tiếng Anh luôn nuôi dưỡng tăng thân. Một con đường leo núi mới đã hình thành bởi sự góp sức của của thầy Pháp Lưu cùng anh chị em xuất sĩ mang lại sự thích thú cho nhiều người. Sắp tới, quý thầy sẽ xây dựng thêm sáu phòng tăng xá để có thêm chỗ ở. Một nhóm quý sư cô đã tình nguyện viết thư pháp lên đá, lên ly…để phát hành và kêu gọi cúng dường sau mỗi ngày quán niệm Chủ nhật. Chín mươi ngày ngày an cư vừa khép lại thật viên mãn. Đại chúng đang được làm biếng ba ngày trước khi vào khóa tu Holiday, lễ Giáng sinh, Tết dương lịch và Tết nguyên đán. 
 
 Bạn à, khi nào đủ nhân duyên, mời bạn về Lộc Uyển nhé! Không khí tu học và phụng sự của đại chúng đang lên cao, thấm tình huynh đệ và vui tươi lắm. Nắng đã lên, hẹn gặp sư bạn trong mỗi bước chân thiền hành nhé! 
+
+{% image "article2023/sr-chua-xua-done/i-cdgwjGD-X2.jpg" %}
 
 <p class="signoff"><span class="signoff-lvl-1">Xóm Trong Sáng,</span><br/>
 <span class="signoff-lvl-2">tu Viện Lộc Uyển,</span><br/>
