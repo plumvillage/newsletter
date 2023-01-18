@@ -23,6 +23,8 @@ Tuy ít người nhưng những chương trình sinh hoạt vẫn được duy t
 
 Sau Tết, mấy chị em mệt nhoài nhìn nhau nói: "Mình ít người mà đúng là điệu nào cũng múa". Thì quà Tết của chúng con dâng Thầy có gì ngoài mấy điệu múa đó đâu!
 
+{% image "article2023/sr-mai-thon/DJI_0538.JPG" %}
+
 ## Mở ra một chương mới
 
 Tháng Sáu năm ngoái, khi nhân duyên hội tụ đầy đủ, tu viện Nhập Lưu đã được dời về Porcupine Ridge. Chúng con nghe nói nhiều người buồn và tiếc, vì dù sao Nhập Lưu cũng đã có mặt tại vùng đất cũ Beaufort mười năm và đã làm chỗ nương tựa cho rất nhiều người. 
@@ -55,6 +57,8 @@ Con xin nghiêng mình kính ngưỡng.
 Buổi thiền hành hôm đó, con đi phía sau một sư cô. Con bỗng thấy dù của sư cô vướng vào một cành cây khuynh diệp trụi lá phía trên đầu. Sư cô phải nghiêng dù và né qua một bên. Thấy vậy, con bèn đi tránh qua bên khác để khỏi bị vướng dù. “Nếu sư cô không đi trước thì có lẽ dù của con cũng sẽ bị vướng. Đầu óc con vẫn còn đang quẩn quanh trong chiếc vỏ ốc, vậy nên không thể nào thấy cành cây đó được,” con thầm nghĩ.
 
 Con luôn muốn cảm ơn những người đi trước. Cảm ơn những va vấp, vụng về của họ và của cả chính mình. Tập tha thứ, chấp nhận những vụng về của mình và tìm đường đi tới. Biết đâu cũng có ai đó đang ở sau lưng mình quan sát, và họ không chìm đắm trong chiếc vỏ ốc. Nhờ vậy, họ cũng sẽ tránh được chuyện chiếc dù bị vướng, như con.
+
+{% image "article2023/sr-mai-thon/IMG-9110.jpg" %}
 
 ## Chuyện con vịt
 
