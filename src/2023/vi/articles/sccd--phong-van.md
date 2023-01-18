@@ -9,6 +9,8 @@ author: Sư cô Chân Đức
 
 **Sư cô Chân Đức**: Mãi cho đến những năm đầu thiên niên kỷ này, Thầy mới dùng cụm từ *đạo Bụt dấn thân*. Khi nghĩ về Làng Mai, chúng ta hay nghĩ về đạo Bụt dấn thân. Tên tuổi của Thầy nổi lên ở Tây phương cũng gắn liền với đạo Bụt dấn thân.
 
+{% image "article2023/sr-chan-duc-interview-done/030_IMG_7744_e.jpg" %}
+
 Ở Tây phương, truyền thống đạo Bụt Nhật Bản đến nước Mỹ đầu tiên và chú trọng nhiều đến tọa thiền. Tới những năm 1960, khi sang Tây phương để kêu gọi hòa bình cho Việt Nam, Thầy nhận thấy có rất nhiều năng lượng giận dữ và bạo động trong những nhà hoạt động cho hòa bình. Vì vậy, Thầy thấy cần phải đem sự thực tập của đạo Bụt vào phong trào này. Đây là một ý tưởng khá mới mẻ lúc bấy giờ.
 
 Năm 2008, tại Viện Phật học Ứng dụng châu Âu (EIAB), Thầy bắt đầu nói về *đạo Bụt ứng dụng* nhiều hơn đạo Bụt dấn thân. Có lẽ do ta hơi bị kẹt trong tư duy lưỡng nguyên, phân biệt giữa lúc dấn thân và không dấn thân. Nghĩa là ban ngày, ta ra ngoài làm công tác xã hội hoặc tham gia một hoạt động vì hòa bình và trong khi làm những việc đó ta không tu tập; rồi đến cuối ngày, ta về nhà và ngồi thiền sau. Đó không phải là ý của Thầy khi nói về đạo Bụt dấn thân. Kinh nghiệm của Thầy khi hướng dẫn các khóa tu khắp nơi trên thế giới đã cho thấy: chúng ta cần ứng dụng đạo Bụt vào tất cả các lĩnh vực của đời sống, không chỉ ở lĩnh vực hoạt động xã hội hay trong thời kỳ chiến tranh, mà cả trong các lĩnh vực kinh doanh, chính trị, cảnh sát và đặc biệt là trong ngành giáo dục.
@@ -42,6 +44,8 @@ Hôm qua có một thiền sinh tới gặp Chân Đức, cô vốn làm công v
 Nhớ lại đầu những năm 1980, khi Chân Đức tham gia biểu tình ở khu căn cứ quân sự Greenham Common để phản đối việc triển khai vũ khí hạt nhân của Mỹ. Chân Đức không biết hành động của mình có ảnh hưởng như thế nào, nhưng cuối cùng thì phía Mỹ cũng rút quân. Thật khó có thể nói được những hành động của mình có thể gây ảnh hưởng như thế nào.
 
 Về việc giảm thiểu lượng khí thải carbon, tất nhiên là chúng ta có thể làm hay hơn nữa. Chúng ta cần chia sẻ những ý tưởng cũng như những bước tiến mà chúng ta đã đạt được theo hướng đi này.
+
+{% image "article2023/sr-chan-duc-interview-done/IMG_9782.jpg" %}
 
 ### BBT: Khi tổ chức các khóa tu và lựa chọn các pháp môn để hiến tặng, chúng ta thường cố gắng đáp ứng các nhu yếu khác nhau của thiền sinh. Nhưng đôi khi việc chọn lựa để hướng năng lượng của mình vào đâu là một điều không đơn giản cho một người tu trẻ. Sư cô thực tập với điều này như thế nào?
 
