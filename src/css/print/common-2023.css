@@ -1062,6 +1062,8 @@ article ul li::before {
     max-height: 42mm !important;
 }
 
+#calligraphy2023article-titlessr-mai-phuong-thu-gop-sao-trang,
+#calligraphy2023article-titlessr-mai-phuong-thu-gop-sao-trang img,
 #calligraphy2023article-titlessr-the-nghiem-bac-thay-dich-thuc,
 #calligraphy2023article-titlessr-the-nghiem-bac-thay-dich-thuc img {
     max-height: 28mm !important;
@@ -1152,6 +1154,11 @@ h1#opening-the-door-to-a-life-of-peace-and-purpose {
     margin-top: 27mm;
 }
 .article-len-djoi .verse cite {
-    padding-top: 2mm;
+    padding-top: 3mm;
     line-height: 120%;
+}
+
+figure#article2023sr-dinh-nghiem-thay-van-luon-la-thay1e {
+    width: 90%;
+    padding-right: 5%;
 }

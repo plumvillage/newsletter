@@ -9,7 +9,7 @@ Mỗi lần anh chị em ngồi chơi với nhau, chúng con kể rất nhiều 
 
 Cuối thu là mùa Thầy về lại Làng sau những tháng ngày hoằng pháp nơi xa. Anh chị em chúng con ở nhà thường háo hức dọn dẹp, chuẩn bị đón Thầy về, và rồi đại chúng sẽ có một mùa an cư thật ấm áp. Chúng con không quên mua vài chậu hoa cúc, loại hoa mà Thầy yêu thích, đặt sẵn trong nhà kính để khi về tới Thầy có thể chơi với hoa. Cứ sau một chuyến đi xa về, Thầy thường đi thăm các xóm một cách bất ngờ để bắt gặp đời sống bình thường, tự nhiên của các sư con.
 
-{% image "article2023/sr-thao-nghiem/DSC_5381.jpg" %}
+{% image "article2023/sr-thao-nghiem/DSC_5381_e.jpg" %}
 
 Mùa thu năm đó, Thầy còn dưỡng bệnh, Thầy trò mình đang ở xóm Thượng. Bốn giờ sáng, Thầy bấm chuông gọi, chị em con qua thất xem Thầy cần giúp gì không. Thầy Pháp Áo cho biết là Thầy muốn đi thăm tăng xá. Con hơi bất ngờ, hỏi lại: “Nhưng bây giờ chưa tới giờ thức chúng, đại chúng còn đang ngủ mà?”
 

@@ -12,6 +12,7 @@ module.exports = [
     "sr-tuyet-nghiem--len-doi",
     "sr-tuyet-nghiem--co-tay-thay-trong-tui-ao",
     "sr-tam-duc--hat-mam-nam-xua",
+    "sr-mai-phuong--thu-gop-sao-trang",
     "sr-van-nghiem--con-co-tuoi-tre-con-co-niem-vui-song",
     "dr-lilian-cheung--canh-cua-da-mo-ra",
     "john-p-hussman--chiec-la",
