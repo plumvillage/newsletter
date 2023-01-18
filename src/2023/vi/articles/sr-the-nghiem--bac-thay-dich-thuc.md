@@ -79,4 +79,3 @@ Dưới sự bảo hộ của Thầy, chúng con có điều kiện để lớn 
 
 Trên thực tế, tăng thân chúng ta đã phát triển thành một khu rừng xanh tươi, màu mỡ, thuận lợi cho sự thực tập khám phá và chuyển hóa tự thân. Ngày nay, tăng thân là chiếc nôi nuôi dưỡng sức sáng tạo và tiềm năng tiếp xúc độ đời. Mong sao, chúng ta tiếp tục bồi đắp những lớp trầm tích màu mỡ để nuôi dưỡng sự tỉnh thức và an lạc của nhiều thế hệ tương lai. Để mai sau, không biết bao nhiêu thế hệ tiếp bước chúng ta vẫn còn vang vọng mãi lời chào từ trái tim: *Kính chào Thầy! Kính chào tăng thân Làng Mai!*
 
-{% image "article2023/sr-the-nghiem-done/DSC_1869.jpg" %}
