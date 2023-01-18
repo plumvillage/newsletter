@@ -50,6 +50,8 @@ Mỗi người không những chỉ là một bài thơ mà còn là những bí
 
 Con xin nghiêng mình kính ngưỡng.
 
+{% image "article2023/sr-mai-thon/IMG-9110.jpg" %}
+
 ## Vướng dù
 
 Đi thiền hành dưới mưa lâm râm với cây dù là thực tập mà con rất thích. Đi như thế con có cảm giác thích thú như một con ốc sên hay một căn nhà di động. Chắc là khi con ốc sên bò chậm rãi dưới mưa, nó cũng có cảm giác tương tự như vậy. Mưa rơi trên vỏ nó như đang rơi trên chiếc dù con cầm trên tay.
@@ -57,8 +59,6 @@ Con xin nghiêng mình kính ngưỡng.
 Buổi thiền hành hôm đó, con đi phía sau một sư cô. Con bỗng thấy dù của sư cô vướng vào một cành cây khuynh diệp trụi lá phía trên đầu. Sư cô phải nghiêng dù và né qua một bên. Thấy vậy, con bèn đi tránh qua bên khác để khỏi bị vướng dù. “Nếu sư cô không đi trước thì có lẽ dù của con cũng sẽ bị vướng. Đầu óc con vẫn còn đang quẩn quanh trong chiếc vỏ ốc, vậy nên không thể nào thấy cành cây đó được,” con thầm nghĩ.
 
 Con luôn muốn cảm ơn những người đi trước. Cảm ơn những va vấp, vụng về của họ và của cả chính mình. Tập tha thứ, chấp nhận những vụng về của mình và tìm đường đi tới. Biết đâu cũng có ai đó đang ở sau lưng mình quan sát, và họ không chìm đắm trong chiếc vỏ ốc. Nhờ vậy, họ cũng sẽ tránh được chuyện chiếc dù bị vướng, như con.
-
-{% image "article2023/sr-mai-thon/IMG-9110.jpg" %}
 
 ## Chuyện con vịt
 
@@ -73,6 +73,8 @@ Bỗng một buổi sáng đi thiền hành, chúng con không thấy nó đâu 
 Con tự hỏi: “Tại sao mình lại có cái tâm trạng buồn thương như vậy cho một con vịt trời, nay đi mai ở?” Rồi chợt nhận ra hình ảnh con vịt lẻ loi đã chạm tới nỗi cô đơn, tủi thân nằm thật sâu trong lòng. Có lẽ nỗi cô đơn này đã được truyền từ đời này sang đời khác. Vậy nên mới có một quyển sách có tựa đề là *Trăm năm cô đơn*. Mình đến trong đời này một mình thì khi ra đi cũng sẽ là một chuyến độc hành. Mình tự thương cho sự cô đơn, lẻ loi của mình cho nên nỗi niềm đó cũng lan tỏa đến với con vịt. Nhưng thật ra, tự thân con vịt đâu có thấy vậy. Nó được sinh ra, lớn lên và sống cuộc đời của nó như một lẽ thường tình. Vậy nên, có gì đâu mà nó phải buồn, phải hờn hay phải trách.
 
 Khi nhận diện và gọi tên được những cảm xúc tủi thân, cô đơn và lẻ loi, lòng con bỗng thấy nhẹ nhõm. Cái man mác buồn thương cũng tự dưng biến mất. Con mỉm một nụ cười, thấy thấm thía lời Thầy: "Gọi được tên thật của nó rồi thì mình sẽ tự do". May mắn cho con, bây giờ đã có đường đi rồi, con không còn lo sợ nữa. Con có thể cô đơn nhưng không cô độc.
+
+{% image "article2023/sr-mai-thon/Thiền hành Vu Lan 3.JPG" %}
 
 ## Chuông đại hồng
 
