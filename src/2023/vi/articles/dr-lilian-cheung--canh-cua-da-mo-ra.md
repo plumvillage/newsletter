@@ -11,7 +11,7 @@ Sinh ra trong một gia đình có truyền thống đạo Bụt tại Hồng K�
 
 Mãi đến hàng chục năm sau, tôi mới biết đến thiền sư Thích Nhất Hạnh và được tiếp nhận giáo lý của Thầy. Kể từ đó, cuộc sống của tôi có nhiều bình an hơn. Tôi cũng tìm thấy được ý nghĩa của cuộc đời mình khi phụng sự trong lĩnh vực y tế cộng đồng. Điều đó làm tôi mãi mãi biết ơn Thầy.
 
-{% image "article2023/lilian-cheung/image6" %}
+{% image "article2023/lilian-cheung/image6.jpg" %}
 
 ## Cốc cốc cốc, mẹ có ở đó không?
 
@@ -53,7 +53,7 @@ Trong quá trình tìm đọc tài liệu về chủ đề này, tôi nhận ra 
 
 Quyển *Savor – Mindful Eating, Mindful Life (Ăn trong chánh niệm, sống trong tỉnh thức)* xuất bản năm 2010, được dịch ra 17 thứ tiếng và năm 2012 còn được đăng trên thời báo The New York Times trong một bài dài ba trang viết về ăn uống chánh niệm. Tôi quá ấn tượng khi thấy tác giả bài báo Jeff Gordinier thậm chí còn dành cả ngày ở tu viện Bích Nham để tự mình trải nghiệm thực tập chánh niệm nói chung và ăn trong chánh niệm nói riêng.
 
-{% image "article2023/lilian-cheung/image3" %}
+{% image "article2023/lilian-cheung/image3.jpg" %}
 
 Điều rất đáng mừng là quyển sách ấy và những giáo lý của Thầy vẫn tiếp tục gây thêm tiếng vang. Gần đây, thông điệp *Ăn trong chánh niệm để giữ gìn sức khoẻ cho ta và sức khỏe cho hành tinh này* vừa được chọn cho một chiến dịch trong mười năm có tên là *Our Planet Our Future* (*“Hành tinh của chúng ta, Tương lai của chúng ta”)* hướng đến tiếp cận 1.5 tỷ người trên toàn thế giới. Các nhà tổ chức rất có cảm hứng với cuốn sách *Ăn trong chánh niệm, sống trong tỉnh thức* với cách tiếp cận rất cởi mở của Thầy - tín ngưỡng, tôn giáo nào cũng có thể đón nhận. Họ nói với tôi rằng ai cũng cần ăn. Vậy nên ăn chánh niệm chính là con đường lý tưởng có thể giúp mọi người trên thế giới thay đổi thói quen ăn uống vì sức khỏe của bản thân cũng như của cả hành tinh này. Hơn nữa, giải pháp ăn trong chánh niệm còn giúp đảm bảo đủ thực phẩm cho thế hệ tương lai. Đây là bài học Bụt đã tiên đoán và dạy ta trong kinh Tử Nhục.
 
