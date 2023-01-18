@@ -3,7 +3,11 @@ title: Hai miền trăng sáng
 author: Thầy Chân Pháp Khả
 ---
 
-<div class="verse"><p>Con ngồi dưới khung trời buông cánh hạc<br/>
+{% image "article2023/br-phap-kha/015_IMG_0102_e2.jpg" %}
+
+<div class="verse"><p><b>Hai miền trăng sáng</b></p>
+
+<p>Con ngồi dưới khung trời buông cánh hạc<br/>
 Gió hiên nhà xào xạc đọng rồi trôi<br/>
 Một màn sương lung lạc giữa lưng đồi<br/>
 Mạch hiện pháp chở che và nương náu</p>
@@ -26,4 +30,5 @@ Ngươi sẽ nhớ đến hai miền trăng sáng</p>
 <p>Nếu bút Người viết tiếp thoại bạch vân<br/>
 Hãy nói con nghe miền trăng nước an lành<br/>
 Con sẽ gửi tình con cho gió ấy<br/>
-Hòa vào dòng con nước đại mênh mông.</p></div>
+Hòa vào dòng con nước đại mênh mông.</p>
+<cite>Thầy Chân Pháp Khả</cite></div>

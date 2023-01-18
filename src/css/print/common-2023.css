@@ -961,6 +961,7 @@ article ul li::before {
 /* ////////////////////////////////////////////////// */
 
 /* merge with succeeding poem/article */
+.article-bac-thay-djich-thuc,
 .article-nhung-thien-than-mua-he {
     break-after: unset !important;
 }
@@ -1090,6 +1091,8 @@ h1#tiep-noi-thay.calligraphyTitle + h2.author{
 }
 
 /* hide but retain link (id) */
+.article-hai-mien-trang-sang > h1,
+.article-hai-mien-trang-sang > h2,
 .article-len-djoi > h1,
 .article-len-djoi > h2,
 .article-nhung-choi-non-chao-nang-mai-2 > h1,
@@ -1128,6 +1131,7 @@ h1#opening-the-door-to-a-life-of-peace-and-purpose {
     margin-top: 0;
 }
 
+#calligraphy2023article-titlesdivider-2,
 #calligraphy2023article-titlesdivider-1 {
     width: 35%;
     margin-top: 5% !important;
@@ -1152,6 +1156,26 @@ h1#opening-the-door-to-a-life-of-peace-and-purpose {
     margin-top: 27mm;
 }
 .article-len-djoi .verse cite {
+    padding-top: 3mm;
+    line-height: 120%;
+}
+
+.article-hai-mien-trang-sang .verse b {
+    font-weight: bold;
+    font-size: 13pt;
+    padding-left: 10mm;
+}
+.article-hai-mien-trang-sang .verse {
+    column-span: all;
+    font-size: 13pt;
+    line-height: 130%;
+    width: 68%;
+    padding-left: 27mm;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 14mm;
+}
+.article-hai-mien-trang-sang .verse cite {
     padding-top: 3mm;
     line-height: 120%;
 }
