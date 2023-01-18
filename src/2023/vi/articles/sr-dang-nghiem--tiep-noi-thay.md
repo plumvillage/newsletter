@@ -72,4 +72,3 @@ Chúng con thở, hơi thở Thầy truyền kỳ<br/>
 Chúng con sống, cuộc đời Thầy kỳ diệu<br/>
 Hạnh phúc cười, Thầy có mãi trong chúng con.</p></div>
 
-{% image "article2023/sr-dang-nghiem/Tiep-noi-thay-5.png" %}
