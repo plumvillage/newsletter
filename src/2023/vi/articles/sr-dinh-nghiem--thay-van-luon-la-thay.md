@@ -69,7 +69,4 @@ Trong thời gian chùa Tổ được trùng tu, Thầy đã đồng ý đi bi�
 
 Trong suốt bảy năm, chúng con nhận ra được mọi hành vi cho đến nhận thức của Thầy đều là sự biểu hiện của một tàng thức đã được chuyển hóa, một tàng thức chứa đựng đầy hoa trái của một bậc chân tu. Những hoa trái đó có thể thay đổi hoàn toàn hoàn cảnh xung quanh. Những gì cần làm, Thầy đã làm với tất cả tình thương. Rồi với ý thức sáng tỏ, Thầy đã quyết định trở thành mây một cách lặng lẽ, dứt khoát, như bao nhiêu lần Thầy đã từng làm những quyết định. Đám mây của Thầy đã bao trùm và ôm lấy các con của Thầy trong một bầu không khí ấm cúng và tĩnh lặng, bấy giờ và mãi mãi.
 
-
 {% image "article2023/sr-dinh-nghiem--thay-van-luon-la-thay/image5.jpg" %}
-
-
