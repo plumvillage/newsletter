@@ -70,3 +70,7 @@ Con trao truyền hạt giống thương yêu đó cho các em qua nụ cười,
 <!-- {% image "article2023/sr-bo-de-done/DSC_3397.jpg" %} -->
 
 Tương lai của thế giới có tươi sáng hay không phụ thuộc vào cách bạn đối xử với một em bé trong giây phút hiện tại. Có nhiều cách để bảo vệ đất Mẹ, và một trong những cách thiết thực nhất là chăm sóc con cháu của bạn với tất cả tình thương và sự tỉnh thức.
+
+<div class="article-end"></div>
+
+{% image "calligraphy/article titles 2 and dividers/5-masked/Dividers2-2-straight.webp" %}

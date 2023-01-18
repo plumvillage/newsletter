@@ -3,7 +3,7 @@ title: Lên đồi
 author: Sư cô Chân Tuyết Nghiêm
 ---
 
-{% image "article2023/poem-sr-tuyet-nghiem/20221009_073618.jpg" %}
+{% image "article2023/poem-sr-tuyet-nghiem/20221009_073618_edit.jpg" %}
 
 <div class="verse"><p><b>Lên đồi</b></p>
 <p>Sớm lên đồi dạo từng bước thảnh thơi<br/>
