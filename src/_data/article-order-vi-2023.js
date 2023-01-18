@@ -9,6 +9,7 @@ module.exports = [
     "sr-thao-nghiem--thay-tro-minh-dang-o-tren-dinh-doi",
     "sr-dinh-nghiem--ky-niem-em-dem",
     "sr-bo-de--nghung-thien-than-mua-he",
+    "sr-tuyet-nghiem--len-doi",
     "sr-tuyet-nghiem--co-tay-thay-trong-tui-ao",
     "sr-tam-duc--hat-mam-nam-xua",
     "sr-van-nghiem--con-co-tuoi-tre-con-co-niem-vui-song",
@@ -25,5 +26,5 @@ module.exports = [
     "sr-chua-xua--loc-uyen-mua-an",
     // Poems
     "br-phap-kha--hai-mien-trang-sang",
-    "sr-tuyet-nghiem--tho",
+    "sr-tuyet-nghiem--nguoi-tu-do",
 ]

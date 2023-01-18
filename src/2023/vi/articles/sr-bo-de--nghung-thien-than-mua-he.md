@@ -67,6 +67,6 @@ Phải chăng bên cạnh sự tươi mát, hồn nhiên, trong tất cả các 
 
 Con trao truyền hạt giống thương yêu đó cho các em qua nụ cười, ánh mắt, lời nói và cả trong cách con hành xử. Con làm tất cả những gì cần làm để mai kia khi hóa thành gió, thành mây, con có thể mỉm cười thanh thản. Vì con biết rằng, các thiên thần sẽ tiếp tục sứ mạng mang thương yêu thấm nhuần trái đất. 
 
-Tương lai của thế giới có tươi sáng hay không phụ thuộc vào cách bạn đối xử với một em bé trong giây phút hiện tại. Có nhiều cách để bảo vệ đất Mẹ, và một trong những cách thiết thực nhất là chăm sóc con cháu của bạn với tất cả tình thương và sự tỉnh thức.
+<!-- {% image "article2023/sr-bo-de-done/DSC_3397.jpg" %} -->
 
-{% image "article2023/sr-bo-de-done/DSC_3397.jpg" %}
+Tương lai của thế giới có tươi sáng hay không phụ thuộc vào cách bạn đối xử với một em bé trong giây phút hiện tại. Có nhiều cách để bảo vệ đất Mẹ, và một trong những cách thiết thực nhất là chăm sóc con cháu của bạn với tất cả tình thương và sự tỉnh thức.
