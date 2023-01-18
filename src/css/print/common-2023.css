@@ -1130,21 +1130,28 @@ h1#opening-the-door-to-a-life-of-peace-and-purpose {
 
 #calligraphy2023article-titlesdivider-1 {
     width: 35%;
-    margin-top: 10% !important;
+    margin-top: 5% !important;
     column-span: all;
     float: none;
     margin: 0 auto;
 }
 
-.article-len-djoi {
+.article-len-djoi .verse b {
+    font-weight: bold;
+    font-size: 15pt;
+    padding-left: 23mm;
 }
 .article-len-djoi .verse {
     column-span: all;
     font-size: 14pt;
     line-height: 130%;
     width: 68%;
-    padding-left: 24mm;
+    padding-left: 27mm;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 40mm;
+    margin-top: 27mm;
+}
+.article-len-djoi .verse cite {
+    padding-top: 2mm;
+    line-height: 120%;
 }

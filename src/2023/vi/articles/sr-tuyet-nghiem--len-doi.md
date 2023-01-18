@@ -15,4 +15,5 @@ Chị em mình trên mỏm đá ngồi chơi</p>
 Cụm mây tím hồng vàng tỏa sáng<br/>
 Đôi mắt trong nhìn bình an tỏ rạng<br/>
 Miệng mỉm cười trong tĩnh lặng thênh thang.</p>
-<cite>Đại Ẩn Sơn, Lộc Uyển, tháng 7 năm 2022</cite></div>
+<cite>Sư cô Chân Tuyết Nghiêm<br/>
+<span style="padding-left: 2.3mm">Đại Ẩn Sơn, Lộc Uyển, tháng 7 năm 2022</span></cite></div>
