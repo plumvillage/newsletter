@@ -47,8 +47,6 @@ Hai tuần một lần, đại chúng lại có một buổi chấp tác chung v
 
 Bạn à, khi nào đủ nhân duyên, mời bạn về Lộc Uyển nhé! Không khí tu học và phụng sự của đại chúng đang lên cao, thấm tình huynh đệ và vui tươi lắm. Nắng đã lên, hẹn gặp sư bạn trong mỗi bước chân thiền hành nhé! 
 
-{% image "article2023/sr-chua-xua-done/i-cdgwjGD-X2.jpg" %}
-
 <p class="signoff"><span class="signoff-lvl-1">Xóm Trong Sáng,</span><br/>
 <span class="signoff-lvl-2">tu Viện Lộc Uyển,</span><br/>
 <span class="signoff-lvl-2">mùa An Cư 2022</span></p>
