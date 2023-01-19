@@ -1,0 +1,26 @@
+﻿---
+title: My Master’s Freedom
+author: Brother Chân Pháp Xả
+---
+
+The first time I saw Thay was in December 2000. I was in Plum Village for the first time after I had heard about Thay and Plum Village through books and my practice of Japanese Zen meditation. It was my first time in a monastic practice center. I especially enjoyed the clock chimes in the dining hall, when everybody would just breathe and relax and silently listen to the clock. It made me feel very at home.
+
+At that time I remember fast walking around the linden tree in Upper Hamlet before sitting meditation. Thay came to the tree and invited us all to go to the big hall for sitting meditation. I very much looked up to Thay as a great Zen master and had quite a romantic idea about Asian culture with martial arts and deep meditation practices.
+
+Two years later, in 2002, I became an aspirant. When Thay gave me the name Pháp Xả at my novice ordination, I think he mainly knew me by my letter of aspiration. Before my ordination we had never talked. He was present for mindful meals, sitting and walking meditation and his Dharma talks, but not for individual conversations. Like many people, I often felt the Dharma talk was especially directed towards me.
+
+The three month Rain Retreat usually started in November, but in 2004 it was different. The Rain Retreat 2003-04 started in January 2004 and the Rain Retreat 2004-05 was in autumn 2004, so that Thay could travel in January 2005 to Vietnam after 39 years of exile. In September and October 2004, Thay therefore stayed in Upper Hamlet and I was his attendant with Brother Pháp Hiển. 
+
+I have very warm memories of this time. We used to wake up at 4:30 in the morning to prepare ourselves. The official wake up time was at five, and at that time we entered Thay’s hut to prepare tea for Thay. The mornings were cold and quiet and the sound of the great temple bell united us in mindfulness. During those pleasant sunny autumn days, I treasured the time lying in the hammock outside of Thay’s hut. I was in standby mode in case Thay needed something, but that was rarely the case.
+
+Being in Thay’s presence in the hut was very peaceful if I could allow myself to relax and not to think about what to do next. I remember sitting with Thay in the hut with hot tea and fragrant incense in the early cool morning before sitting meditation. A natural and peaceful shared presence in silence. Being in Thay’s presence I mostly did not say much. Partly because I did not know what to say, but mostly because I treasured the peaceful and silent atmosphere.
+
+I had the fortune to travel with Thay for retreats in Europe, America and Asia. I really treasured these times. It was precious to travel with Thay and witness the transformation and healing of so many people. In 2006 and 2009 I was in the Netherlands with Thay. The Sangha there had expressed an interest in having a monastic center in the Netherlands and I asked Thay about it a few times. First Thay said I could go to the Netherlands regularly for retreats and we did not need to have a monastic center there. In 2009 Thay wanted the Dutch people to come to the EIAB and in the year 2010, we had the first retreat for Dutch-speaking retreatants with Thay in the EIAB.
+
+When I think of the retreat schedule of Thay, I see it was really tough with a lot of traveling and back to back retreats. He really did not choose the path of comfort or a leisurely retirement. Until almost 90 years of age, he gave everything he had. That is a great inspiration for me, as I many times would have liked to follow the easy way. Thay was really living a fulfilled life and his retreats and books have helped so many people. I have a tendency to think I already know the Plum Village teachings and practices and would like to look for something “new.” But every time I am pleasantly surprised to rediscover the richness and depth of our own tradition. One lifetime may not be enough to realise it.
+
+There are many simple, yet profound moments I have shared with Thay. I have found it challenging to share these moments with you in written form, as it is not so much what was being said and done, but just the way of being present for the moment. 
+
+Walking with Thay one evening in Deer Park Monastery, Thay looked up at the full moon and did not say anything. I felt it was a moment of great freedom. There was just the moment of looking at the moon, as if nothing else mattered. Then Thay said, “The moon is so free. Free of projects and worries.” To be able to recognise that, Thay must have been just that:  free.
+
+After Thay’s passing, we all got the text “Coming and going in freedom,” I still carry it with me wherever I go. The wonders of life are beyond grasping and letting go. If I have to name one quality I treasure the most about Thay, it is this one:- authenticity. I have always seen the oneness of his life and teachings. He was really free to be fully present for the wonders of life. Thay is freedom. Freedom is Thay.

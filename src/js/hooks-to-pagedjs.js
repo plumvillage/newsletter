@@ -119,7 +119,7 @@ class MyHandler extends Paged.Handler {
         })
 
         // put stamp on every page
-        if (false) {
+        if (true) {
             document.querySelectorAll('.hasContent .pagedjs_margin-content').forEach(el => {
                 el.innerHTML += `<datetime class="lastmod">${document.lastModified}</datetime>`;
             });

@@ -84,6 +84,7 @@ figure {
 
 .lastmod {
     color: gray;
+    background-color: white;
 }
 .pagedjs_right_page .lastmod {
     float: left;
@@ -1042,12 +1043,22 @@ article ul li::before {
     font-style: normal;
 }
 
+#calligraphy2023article-titlesbr-ruong-phap-my-face-before-my-mother-was-born,
+#calligraphy2023article-titlesbr-ruong-phap-my-face-before-my-mother-was-born img
+{
+    max-height: 46mm !important;
+}
 
 #calligraphy2023article-titlesyoung-buds-positive-habit,
 #calligraphy2023article-titlesyoung-buds-positive-habit img,
 #calligraphy2023article-titlessr-van-nghiem-con-co-tuoi-tre-con-co-niem-vui-song,
 #calligraphy2023article-titlessr-van-nghiem-con-co-tuoi-tre-con-co-niem-vui-song img {
     max-height: 42mm !important;
+}
+
+#calligraphy2023article-titlessr-the-nghiem-a-true-teacher,
+#calligraphy2023article-titlessr-the-nghiem-a-true-teacher img {
+    max-height: 26mm !important;
 }
 
 #calligraphy2023article-titlessr-mai-phuong-thu-gop-sao-trang,
@@ -1060,6 +1071,10 @@ article ul li::before {
 #calligraphy2023article-titlessr-dang-nghiem-tiep-noi-thay,
 #calligraphy2023article-titlessr-dang-nghiem-tiep-noi-thay img {
     max-height: 39mm !important;
+}
+
+h1#reflections-on-engaged-and-applied-buddhism {
+    font-size: 26.7pt;
 }
 
 h1#young-buds-glistening-in-the-sunshine.calligraphyTitle,
@@ -1075,6 +1090,11 @@ h1#tiep-noi-thay.calligraphyTitle {
 }
 h1#tiep-noi-thay.calligraphyTitle + h2.author{
     padding-left: 10mm;
+}
+
+h1#an-old-home-in-a-new-land {
+    margin-top: 3mm !important;
+    margin-bottom: -4mm !important;
 }
 
 /* hide but retain link (id) */

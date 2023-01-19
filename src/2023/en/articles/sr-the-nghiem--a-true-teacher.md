@@ -23,11 +23,11 @@ During those early years, I found it difficult to break out of my insular habits
 
 And yet Thay occupied these seemingly stressful circumstances with grace, ease, and spaciousness - without ego - and always sought to share this ease with those around him. These were especially the moments when I touched Thay’s compassion personally. For though he himself was not prone to complexes, or the ups and downs of afflictive emotions, he empathized with those who were. Thay was ever considerate of these sensitivities in others.
 
+{% image "article2023/sr-the-nghiem/image_edited.jpg" %}
+
 I remember driving Thay from New Hamlet to Lower Hamlet as his attendant one day. I had recently learned how to drive stick-shift in the French countryside, but had not yet fully mastered it. Our morning drive along the country road was going smoothly and peacefully… until we approached a crossroads. The car suddenly jerked to a hard, unceremonious stop as the engine shuddered and died. I looked down at the stick-shift, flush with embarrassment at my blunder.
 
 In a calm and pleasant way, but quick as lightning,Thay suddenly pointed out the window and made a cheerful observation about some distant landmark - something Nature-y, I suspect. In his compassionate way, Thay was attempting to distract me from my embarrassment. Flustered by my mistake, and self-conscious of the fact that Thay was “changing pegs” to make me feel better, I remained silent. However, in my heart, I registered fully his kindness. *Thank you for your kindness, dearest Thay.*
-
-{% image "article2023/sr-the-nghiem/image_edited.jpg" %}
 
 ### Understanding
 
