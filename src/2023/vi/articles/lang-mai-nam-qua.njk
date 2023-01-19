@@ -8,7 +8,7 @@ title: Review of the Year
         img: "1 - Monastic Retreat.jpg",
         position: { A4: [0, 0, 129, 136], Letter: [10, 10, 0, 0] },
         title: "Khóa tu xuất sĩ",
-        text: "Trong tiết trời se lạnh và những cơn mưa nhẹ cuối đông, gần 160 xuất sĩ đã tập họp về chùa Pháp Vân, xóm Thượng để  tham dự khóa tu xuất sĩ, từ ngày 13 - 20.2, với chủ đề Đã có đường đi rồi, con không còn lo sợ.</p><p>Thật ấm áp khi tăng thân xuất sĩ có cơ hội về bên nhau để tiếp xúc với Thầy trong từng hơi thở, từng bước chân cẩn trọng của mình, cũng như trong ánh mắt, nụ cười thân thương của huynh đệ. Nhìn đâu, chúng con cũng thấy Thầy!"
+        text: "Trong tiết trời se lạnh và những cơn mưa nhẹ cuối đông, gần 160 xuất sĩ đã tập họp về chùa Pháp Vân, xóm Thượng để  tham dự khóa tu xuất sĩ, từ ngày 13 – 20.2, với chủ đề Đã có đường đi rồi, con không còn lo sợ.</p><p>Thật ấm áp khi tăng thân xuất sĩ có cơ hội về bên nhau để tiếp xúc với Thầy trong từng hơi thở, từng bước chân cẩn trọng của mình, cũng như trong ánh mắt, nụ cười thân thương của huynh đệ. Nhìn đâu, chúng con cũng thấy Thầy!"
     },{
         img: "2 - Thay_s Ashes 1.jpg"
     },{
@@ -30,8 +30,8 @@ title: Review of the Year
     },{
         img: "7 - Peace - ACND.jpg",
         position: { A4: [130, 0, 0, 0], Letter: [10, 10, 0, 0] },
-        title: "A Cloud Never Dies",
-        text: "Some Text"
+        title: "Phát hành bộ phim<br/>“Đám mây không bao giờ chết”",
+        text: "Trước tình hình chiến tranh và khủng hoảng nhân đạo đang gia tăng ở Ukraine, vào ngày 2 tháng 4 năm 2022, tăng thân Làng Mai đã phát hành bộ phim “Đám mây không bao giờ chết”, một bộ phim tài liệu cảm động về cuộc đời của Thầy, cũng như một bức tâm thư kêu gọi tất cả các bên lâm chiến ngừng giết chóc ở Ukraine.</p><p>Bộ phim là sự hợp tác giữa tăng thân Làng Mai với các nhà làm phim Max Pugh và Marc J. Francis. Với giọng đọc truyền cảm của diễn viên Peter Coyote, bộ phim mang đến cái nhìn sâu sắc về cuộc đời của Thầy – một nhà lãnh đạo tinh thần toàn cầu, nhà thơ và nhà hoạt động vì hòa bình được kính trọng trên toàn thế giới.</p><p>Có phụ đề với hai mươi hai ngôn ngữ khác nhau, bộ phim đã được năm mươi ngàn lượt người xem trong năm giờ công chiếu đầu tiên trên kênh Youtube của Làng Mai. Lá thư kêu gọi hòa bình cho Ukraine cũng đến được với hơn ba mươi ngàn người thông qua mạng xã hội."
     },{
         img: "8 - Monastics On Tour 1.jpg",
         position: { A4: [188, 0, 85, 0], Letter: [10, 10, 0, 0] },
@@ -69,6 +69,11 @@ title: Review of the Year
         title: "Lamp Transmission",
         text: "Some Text"
     },{
+        img: "16.5 gathas.jpg",
+        position: { A4: [190, 0, 85, 0], Letter: [10, 10, 0, 0] },
+        title: "Gathas",
+        text: "Some Text"
+    },{
         img: "17 - SCCK Honor.jpg",
         position: { A4: [114, 0, 0, 111], Letter: [10, 10, 0, 0] },
         title: "Su Co Chan Khong Honorary Degree",
@@ -101,9 +106,9 @@ title: Review of the Year
         bottom: {{ page.position[size_label][3] }}mm;
     ">
     {%- if page.title %}
-    <h1>{{ page.title }}</h1>
-    {%- endif %}
     {# 'safe' allows for the text to contain html #}
+    <h1>{{ page.title | safe }}</h1>
+    {%- endif %}
     <p>{{ page.text | safe }}</p></div>
     {%- endif %}
 

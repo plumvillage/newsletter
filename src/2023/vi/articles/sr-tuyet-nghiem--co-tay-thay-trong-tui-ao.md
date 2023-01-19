@@ -42,11 +42,11 @@ Bàn tay con lạnh ngắt, và càng rõ hơn khi con nắm lấy bàn tay ấm
 
 Đi một vòng về đến cửa vào Sơn Cốc, Thầy rút đôi tay ra khỏi túi áo của Thầy. Siết chặt bàn tay con, Thầy nói: “Tay con đã ấm lại rồi thấy chưa? Lên trên ấy mỗi lần con thấy buồn, cô đơn, nhớ Thầy, nhớ đại chúng, con hãy đặt tay vào túi áo. Có tay Thầy trong túi áo của con.” Giây phút ấy lắng đọng tình thầy trò và đã trở thành huyền thoại trong con. Từng lời Thầy nói là dấu ấn, là gia tài, là hành trang để tiễn đứa học trò nhỏ lên đường đi xa và con mãi mang theo cho tới bây giờ.
 
+{% image "article2023/sr-tuyet-nghiem-done/image2.jpeg" %}
+
 Cái buồn tủi được xoa dịu bằng tình Thầy ấm áp. Con thấy mình muốn đi tới mạnh mẽ hơn với niềm tin của Thầy và đại chúng dành cho mình. Quả thật, trong những ngày tháng ở Thiền đường Hơi Thở Nhẹ, có những phút yếu lòng, con buồn bã, mệt mỏi. Cũng có những khoảnh khắc con thấy mình tràn ngập sự cô đơn, tủi hờn. Con đã nhớ đến Thầy, và không ít lần con đặt  tay vào túi áo để tiếp xúc với bàn tay của Thầy, bàn tay của tình thương yêu và tin cậy. 
 
 Sức mạnh đó giúp con vượt qua những khó khăn bé nhỏ để từng bước trưởng thành. Có lẽ trong suốt hành trình sau đó con xa Thầy trên phương diện hình hài, nhưng trong tâm con luôn có Thầy rất gần. Lời Thầy nói như là câu thần chú nhỏ của con: “Có bàn tay Thầy trong túi áo của con.” Sáng nay, trên đường lên đồi, với  hai bàn tay đặt vào túi áo, con cũng nắm được bàn tay Thầy trong những phút giây trở về hạnh phúc, bình yên và ấm áp tình thương.
-
-{% image "article2023/sr-tuyet-nghiem-done/image2.jpeg" %}
 
 ## Trọn vẹn ân tình
 

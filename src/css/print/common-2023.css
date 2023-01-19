@@ -1258,7 +1258,21 @@ figure#article2023lilian-cheungimage6 {
     padding-right: 5%;
 }
 
+#7-peace-acnd-jpg,
 #5-thay-s-ashes-3-adjusted-jpg {
     columns: 2;
     column-gap: 16pt;
+}
+
+#7-peace-acnd-jpg h1 {
+    padding-bottom: 0.5em;
+}
+
+/* crop with css */
+figure#article2023sr-tuyet-nghiem-doneimage-3 {
+    overflow: hidden;
+}
+figure#article2023sr-tuyet-nghiem-doneimage-3 img {
+    object-fit: cover;
+    height: 90mm;
 }

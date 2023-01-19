@@ -19,6 +19,8 @@ module.exports = [
 "jack-lawlor--going-the-extra-mile",
 "br-minh-luong--an-old-home-in-a-new-land",
 "dr-lilian-cheung--opening-the-door-to-a-life-of-peace-and-purpose",
+"br-phap-xa--my-masters-freedom",
+"kim-nhat-nguyen--interbeing-the-spirit-of-community-and-human-connection ",
 // POEMS
 "sr-linh-di--mountain-dream",
 "sr-lam-hy--poems",

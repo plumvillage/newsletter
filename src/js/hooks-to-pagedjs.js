@@ -11,18 +11,17 @@ function addClassToPageDIV(e, className) {
 }
 
 
-let fullText = ""
+let vi2022fullText = ""
 var client = new XMLHttpRequest()
-// extracted text from /vi/a4-bleed/index.html
 client.open('GET', '/media/originals/passthroughCopies/2022-vi-fullText.txt')
-client.onreadystatechange = function() {
-    fullText = client.responseText
-    if(fullText.includes("�")) {
-        console.log("FOUND � BUG fullText !!!")
-    }
-    // console.log(fullText)
-}
+client.onreadystatechange = () => { vi2022fullText = client.responseText }
 client.send()
+
+let vi2023fullText = ""
+var client2 = new XMLHttpRequest()
+client2.open('GET', '/media/originals/passthroughCopies/2023-vi-fullText.txt')
+client2.onreadystatechange = () => { vi2023fullText = client2.responseText }
+client2.send()
 
 
 // https://www.pagedjs.org/documentation/11-hooks/
@@ -31,46 +30,24 @@ class MyHandler extends Paged.Handler {
         super(chunker, polisher, caller)
     }
 
-    // beforePageLayout() already has � BUG
-
-    /*
-    The intention here is to be able to place images with a custom style, for example, spanning the whole page. This code adds a unique class name to the page that contains it, which the css can then target and style.
-
-    A better way to achieve this would be pagedjs' named pages. However, named pages break the page after whichever element sets it up.
-
-    Also, the image style need to be applied BEFORE the layout engine of pagedjs has placed the content, which is the reason why we do it on renderNode(), right when placing the element in question (not later).
-    */
     renderNode(node, sourceNode) {
-        if (node.id == "verse-uyen-nguyen") {
-            addClassToPageDIV(node, `PAGE-OF-verse-uyen-nguyen`)
-        }
-
+        /*
+        The intention here is to be able to place images with a custom style, for example, spanning the whole page. This code adds a unique class name to the page that contains it, which the css can then target and style.
+    
+        A better way to achieve this would be pagedjs' named pages. However, named pages break the page after whichever element sets it up.
+    
+        Also, the image style need to be applied BEFORE the layout engine of pagedjs has placed the content, which is the reason why we do it on renderNode(), right when placing the element in question (not later).
+        */
         if (node.nodeName == "FIGURE" && node.id) {
             addClassToPageDIV(node, `PAGE-OF-${node.id}`)
-            
-            // {2023 edition} move all bottom-centered images up to its parent pagedjs_pagebox. this way, it can be placed more easily and does not obstruct text flow. Previously, I solved this with a negative >bottom< value (relative to pagedjs_page_content), but this is not working properly (any more since v0.4 of pagedjs)
-            // OBSOLETE code. I found that the top-gradient is not working when the image is in pagedjs_pagebox and the bottom is reaching even 1mm below the frame. however, if the image remains the non-last element in the text flow, the gradient is still working
-            if (false && node.classList.contains('bottom-centered')) {
-                let findParentPagedjs_pagebox = node
-                do {
-                    findParentPagedjs_pagebox = findParentPagedjs_pagebox.parentNode
-                    if (!findParentPagedjs_pagebox) {
-                        console.error("cannot find pagedjs_pagebox for ", node)
-                        break
-                    }
-                    if (findParentPagedjs_pagebox.classList.contains("pagedjs_pagebox")) {
-                        findParentPagedjs_pagebox.appendChild(node)
-                        // console.log("moved", node, "to", findParentPagedjs_pagebox)
-                        break
-                    }
-                } while (findParentPagedjs_pagebox)
-            }
         }
         
         if (node.nodeName == "FIGCAPTION") {
-            // in order for use in css: content: attr(text-for-outline);
+            // for use in css: content: attr(text-for-outline);
             node.setAttribute("text-for-outline", node.textContent)
         }
+
+         // beforePageLayout() already has � BUG
         
         if (node.textContent) {
             /* for Vietnamese: � in render output, seems randomly appearing
@@ -90,8 +67,11 @@ class MyHandler extends Paged.Handler {
                 // [ "nhân c��a thàn", "nhân c", "��", "a thàn" ]
                 console.log(result)
                 let rx = `${result[1]}(.{1,3})${result[3]}`
-                const regex = new RegExp(rx);
-                let r2 = fullText.match(regex)
+                const regex = new RegExp(rx)
+                let r2 = vi2022fullText.match(regex)
+                if (!r2)
+                    r2 = vi2023fullText.match(regex)
+
                 if (r2) {
                     // [ "nhân của thàn", "ủ" ]
                     console.log(r2)
@@ -121,8 +101,8 @@ class MyHandler extends Paged.Handler {
         // put stamp on every page
         if (true) {
             document.querySelectorAll('.hasContent .pagedjs_margin-content').forEach(el => {
-                el.innerHTML += `<datetime class="lastmod">${document.lastModified}</datetime>`;
-            });
+                el.innerHTML += `<datetime class="lastmod">${document.lastModified}</datetime>`
+            })
         }
         
         document.querySelectorAll('article').forEach(e => {
@@ -130,8 +110,8 @@ class MyHandler extends Paged.Handler {
             if (artName && artName.match(/article-.*/g)) {
                 addClassToPageDIV(e, `PAGE-OF-${artName}`)
             }
-        });
+        })
     }
 
 }
-Paged.registerHandlers(MyHandler);
+Paged.registerHandlers(MyHandler)
