@@ -1773,7 +1773,7 @@ span.lmnq {
 /* those blockquotes are styled completely differently */
 .article-lang-mai-nam-qua > blockquote {
     page-break-inside: avoid;
-    text-indent: 0pt;
+    text-indent: 0pt !important;
     margin-top: 11pt;
     margin-bottom: 14pt;
 	padding-left: 0pt;
@@ -1791,7 +1791,7 @@ span.lmnq {
     padding-left: 12pt;
 }
 .article-lang-mai-nam-qua > blockquote > blockquote {
-    text-indent: 0pt;
+    text-indent: 0pt !important;
     margin-top: 4pt;
     margin-bottom: 20pt;
 	padding-left: 7pt;
