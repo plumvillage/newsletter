@@ -3,16 +3,18 @@ articleOrder.vi2022 = require("./src/_data/article-order-vi-2022.js")
 articleOrder.en2022 = require("./src/_data/article-order-en-2022.js")
 articleOrder.en2023 = require("./src/_data/article-order-en-2023.js")
 articleOrder.vi2023 = require("./src/_data/article-order-vi-2023.js")
+
+const { EleventyRenderPlugin } = require("@11ty/eleventy")
 const fs = require('fs')
 const path = require("path")
 const slugify = require('slugify')
 // const sharp = require("sharp")
 const Image = require("@11ty/eleventy-img")
+
 const srcPath = "src/media/originals"
 const calligraphyPath = "calligraphy/article-titles/"
 const calligraphyPath2023 = "calligraphy2023/article-titles/"
 const parallelVerses2023path = "media/originals/passthroughCopies/ParallelVerses2023/"
-let firstRun = true
 
 var articleTitleCalligraphies = fs.readdirSync(`src/media/originals/${calligraphyPath}`)
 var articleTitleCalligraphies2023 = fs.readdirSync(`src/media/originals/${calligraphyPath2023}`)
@@ -20,6 +22,7 @@ var parallelVerses2023 = {
     dir: parallelVerses2023path,
     list: fs.readdirSync(`src/${parallelVerses2023path}`)
 }
+let firstRun = true
 
 
 async function imageShortcode(src, optClasses = "", imgLabel = "") {
@@ -167,6 +170,9 @@ function easingGradient(start = 0, end = 100, stops = 8, smoothness = 3) {
 }
 
 module.exports = function(eleventyConfig) {
+    // https://www.11ty.dev/docs/plugins/render/#renderfile
+    eleventyConfig.addPlugin(EleventyRenderPlugin)
+
     eleventyConfig.addPassthroughCopy("src/pagedjs")
 
     eleventyConfig.addPassthroughCopy("src/media/originals/passthroughCopies/")

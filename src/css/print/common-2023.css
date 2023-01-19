@@ -1276,3 +1276,30 @@ figure#article2023sr-tuyet-nghiem-doneimage-3 img {
     object-fit: cover;
     height: 90mm;
 }
+
+.article-lang-mai-nam-qua > blockquote {
+    page-break-inside: avoid;
+    text-indent: 0pt !important;
+    margin-top: 11pt;
+    margin-bottom: 14pt;
+	padding-left: 0pt;
+    font-style: normal;
+}
+.article-lang-mai-nam-qua > blockquote > p > strong {
+    padding-top: 1pt;
+}
+.article-lang-mai-nam-qua > blockquote p {
+    text-align: left !important;
+}
+.article-lang-mai-nam-qua > blockquote > p > em {
+    display: block;
+    padding-top: 2pt;
+    padding-left: 12pt;
+}
+.article-lang-mai-nam-qua > blockquote > blockquote {
+    text-indent: 0pt !important;
+    margin-top: 4pt;
+    margin-bottom: 20pt;
+	padding-left: 7pt;
+    font-style: normal;
+}
