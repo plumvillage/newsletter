@@ -56,7 +56,7 @@ Con xin nghiêng mình kính ngưỡng.
 
 Đi thiền hành dưới mưa lâm râm với cây dù là thực tập mà con rất thích. Đi như thế con có cảm giác thích thú như một con ốc sên hay một căn nhà di động. Chắc là khi con ốc sên bò chậm rãi dưới mưa, nó cũng có cảm giác tương tự như vậy. Mưa rơi trên vỏ nó như đang rơi trên chiếc dù con cầm trên tay.
 
-Buổi thiền hành hôm đó, con đi phía sau một sư cô. Con bỗng thấy dù của sư cô vướng vào một cành cây khuynh diệp trụi lá phía trên đầu. Sư cô phải nghiêng dù và né qua một bên. Thấy vậy, con bèn đi tránh qua bên khác để khỏi bị vướng dù. “Nếu sư cô không đi trước thì có lẽ dù của con cũng sẽ bị vướng. Đầu óc con vẫn còn đang quẩn quanh trong chiếc vỏ ốc, vậy nên không thể nào thấy cành cây đó được,” con thầm nghĩ.
+Buổi thiền hành hôm đó, con đi phía sau một sư cô. Con bỗng thấy dù của sư cô vướng vào một cành cây khuynh diệp trụi lá phía trên đầu. Sư cô phải nghiêng dù và né qua một bên. Thấy vậy, con bèn đi tránh qua bên khác để khỏi bị vướng dù. “Nếu sư cô không đi trước thì có lẽ dù của con cũng sẽ bị vướng. Đầu óc con vẫn còn đang quẩn quanh trong chiếc vỏ ốc, vậy nên không thể nào thấy cành cây đó được”, con thầm nghĩ.
 
 Con luôn muốn cảm ơn những người đi trước. Cảm ơn những va vấp, vụng về của họ và của cả chính mình. Tập tha thứ, chấp nhận những vụng về của mình và tìm đường đi tới. Biết đâu cũng có ai đó đang ở sau lưng mình quan sát, và họ không chìm đắm trong chiếc vỏ ốc. Nhờ vậy, họ cũng sẽ tránh được chuyện chiếc dù bị vướng, như con.
 

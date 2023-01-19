@@ -23,7 +23,7 @@ Trong những năm đầu xuất gia, con chật vật ghê lắm trong chuyện
 
 Có một lần, con làm thị giả lái xe đưa Thầy từ xóm Mới về xóm Hạ. Trước đó, con có học cách lái xe tay số trên đường làng của Pháp, nhưng con thấy mình chưa thực sự vững lắm. Sáng hôm ấy, hai thầy trò đi khá êm đềm và suôn sẻ… cho tới khi xe chạy đến ngã tư. Chiếc xe tự nhiên giật mạnh rồi dừng lại đột ngột vì chết máy. Con nhìn xuống chiếc cần gạt, đỏ bừng mặt vì nghĩ mình đã làm gì sai rồi.
 
-Nhanh như chớp, nhưng vẫn điềm tĩnh và nhẹ nhàng, Thầy chỉ tay ra ngoài cửa xe, vui vẻ ngắm cảnh gì đó ở đằng xa để giúp con bớt mặc cảm trách móc bản thân. Lúc đó, con vừa quê vì thấy mình làm lỗi, mà cũng vừa ý thức là Thầy đang giúp mình “thay chốt,” nên con chỉ biết im lặng. Tuy vậy, trong con đã ghi tạc lòng từ bi của Thầy. *Bạch Thầy kính thương, cảm  ơn Thầy đã từ bi với con.*
+Nhanh như chớp, nhưng vẫn điềm tĩnh và nhẹ nhàng, Thầy chỉ tay ra ngoài cửa xe, vui vẻ ngắm cảnh gì đó ở đằng xa để giúp con bớt mặc cảm trách móc bản thân. Lúc đó, con vừa quê vì thấy mình làm lỗi, mà cũng vừa ý thức là Thầy đang giúp mình “thay chốt”, nên con chỉ biết im lặng. Tuy vậy, trong con đã ghi tạc lòng từ bi của Thầy. *Bạch Thầy kính thương, cảm  ơn Thầy đã từ bi với con.*
 
 Con còn một kỷ niệm khác với Thầy. Có một ngày, con làm thị giả cho Thầy ở thiền đường Cam Lộ, xóm Hạ. Trong khi Thầy và đại chúng đã an tọa, chuẩn bị cho buổi cơm quá đường rồi, con vẫn còn đứng ở lối đi chính giữa thiền đường. Đang loay hoay tìm cách làm sao để đến chỗ ngồi dành cho thị giả, con bỗng thấy một chỗ trống sát tọa cụ của Thầy. Thở phào nhẹ nhõm, con tìm lối đi tắt để tới chỗ đó, mà hoàn toàn không ý thức đó là một bước hết sức dại dột: lối đi đó băng ngang mâm cơm và bình bát dành cho Thầy. Thời điểm đó, sự thực tập của con còn non nớt lắm. Con nào biết bước qua đồ đạc của thầy mình là một sự thất lễ, huống hồ đây lại là mâm cơm của Thầy.
 
@@ -33,7 +33,7 @@ Lại một lần nữa, cũng như bao lần khác, Thầy đã thông cảm ch
 
 ## Hướng dẫn học trò một cách khéo léo
 
-Thời còn là sadi, việc chuyển từ môi trường gia đình nhỏ sang sống ở môi trường cộng đồng như xóm Hạ quả là đầy thử thách đối với con. Con từng có bao nhiêu thắc mắc và băn khoăn xoay quanh chuyện “thế nào là nương tựa Tăng thân,” vì Thầy đặc biệt nhấn mạnh vào sự thực tập này. Con không thể nào hiểu được làm sao có thể nương tựa vào cái mà ta không thể định hình được và dường như không toàn hảo. 
+Thời còn là sadi, việc chuyển từ môi trường gia đình nhỏ sang sống ở môi trường cộng đồng như xóm Hạ quả là đầy thử thách đối với con. Con từng có bao nhiêu thắc mắc và băn khoăn xoay quanh chuyện “thế nào là nương tựa Tăng thân”, vì Thầy đặc biệt nhấn mạnh vào sự thực tập này. Con không thể nào hiểu được làm sao có thể nương tựa vào cái mà ta không thể định hình được và dường như không toàn hảo. 
 
 Một ngày nọ ở xóm Hạ, con thao thức quá chịu không nổi nên hỏi Thầy, với đôi mày nhíu lại đầy khẩn khoản: “Bạch Thầy, Thầy dạy chúng con về tầm quan trọng của Tăng thân, nhưng con thực sự không hiểu. Xin Thầy cho con hỏi: Tăng thân là gì?” 
 
