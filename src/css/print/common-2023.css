@@ -591,7 +591,9 @@ article .author + p
 }
 
 /* this has been explicitly requested by Sr Tai N: all paragraphs are indented by default (even on the first paragraph) */
-html:lang(vi) article > p {
+html:lang(vi) article > p,
+html:lang(vi) .positioned-text-box p
+{
     text-indent: 16pt;
 }
 
@@ -824,7 +826,7 @@ p.editors-preface i {
 /* https://unicode-search.net/unicode-namesearch.pl?term=CIRCLE */
 /* https://jrgraphix.net/r/Unicode/25A0-25FF */
 p.editors-preface::after, .divider::after {
-    margin-top: 12pt;
+    margin-top: 10pt;
     font-style: normal;
     content: "✦";
     font-size: 70%;
@@ -835,6 +837,7 @@ p.editors-preface::after, .divider::after {
     line-height: 0.65mm;
     color: var(--color-bark-dark);
     text-align: center;
+    text-align-last: center;
     display: block;
     width: 100%;
     /* box-shadow: inset ... will produce glitches (border stripes) in pdf output */
@@ -1039,22 +1042,6 @@ article ul li::before {
     font-style: normal;
 }
 
-#poem-mountain-dream b {
-    font-size: 130%;
-}
-
-.article-mountain-dream h1,
-.article-mountain-dream h2
-{
-    /* will break hyperlink */
-    display: none;
-}
-
-.article-mountain-dream cite {
-    font-style: normal;
-    padding-top: 8pt;
-}
-
 
 #calligraphy2023article-titlesyoung-buds-positive-habit,
 #calligraphy2023article-titlesyoung-buds-positive-habit img,
@@ -1091,6 +1078,7 @@ h1#tiep-noi-thay.calligraphyTitle + h2.author{
 }
 
 /* hide but retain link (id) */
+.article-mountain-dream > h2,
 .article-hai-mien-trang-sang > h1,
 .article-hai-mien-trang-sang > h2,
 .article-len-djoi > h1,
@@ -1180,6 +1168,39 @@ h1#opening-the-door-to-a-life-of-peace-and-purpose {
     line-height: 120%;
 }
 
+
+figure#calligraphy2023article-titlessr-linh-di-mountain-dream {
+    padding-top: 6mm;
+}
+
+.article-mountain-dream .verse {
+    column-span: all;
+    font-size: 13pt;
+    line-height: 130%;
+    width: 68%;
+    padding-left: 27mm;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15mm;
+    margin-bottom: 13mm
+}
+.article-mountain-dream .verse cite {
+    padding-top: 3mm;
+    font-style: normal;
+    line-height: 120%;
+    font-variant: small-caps;
+}
+figure#article2023sr-linh-dimountain-dreamedit {
+    column-span: all;
+    float: none;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+
 figure#article2023sr-dinh-nghiem-thay-van-luon-la-thay1e {
     width: 90%;
     padding-right: 5%;
@@ -1192,4 +1213,32 @@ figure#article2023sr-chan-duc-interview-doneIMG9782e {
     margin-left: auto;
     margin-right: auto;
     float: none;
+}
+
+.article-loc-uyen-mua-an h2.author {
+    margin-bottom: 4mm;
+}
+
+
+figure#article2023sr-tuyet-nghiem-doneimage-3,
+figure#article2023sr-chua-xua-donenature-deerpark-4 {
+    column-span: all;
+    float: none;
+    margin-bottom: 17pt !important;
+}
+figure#article2023sr-tuyet-nghiem-doneimage-3 + p,
+figure#article2023sr-chua-xua-donenature-deerpark-4 + p {
+    margin-top: 0 !important;
+    text-indent: 0 !important;
+}
+
+
+figure#article2023lilian-cheungimage6 {
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+#5-thay-s-ashes-3-adjusted-jpg {
+    columns: 2;
+    column-gap: 16pt;
 }

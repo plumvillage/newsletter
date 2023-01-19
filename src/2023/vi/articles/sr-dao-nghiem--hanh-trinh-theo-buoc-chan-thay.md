@@ -55,7 +55,7 @@ Lần cuối Thầy cho pháp thoại là ngày mở đầu khóa tu dành cho c
 
 Thầy đã dạy cho con thấy cuộc sống này đẹp vô cùng. Thầy giúp con tiếp xúc được những mầu nhiệm của sự sống trong những điều bình dị nhất, cho con thấy bản chất tương tức của vạn vật và hiểu vì sao mọi hành vi từ thân, khẩu, ý của mình đều có tác động lên toàn thế giới.
 
-{% image "article2023/sr-dao-nghiem/IMG_8654.JPG" %}
+{% image "article2023/sr-dao-nghiem/IMG_8654_e.JPG" %}
 
 Những năm đầu khi mới xuất gia, có những lúc con phải đối diện với rất nhiều khó khăn. Nhiều khi con không biết mình phải làm gì. Con tự hỏi mình: “Vì sao mình lại đi xuất gia? Vì sao mình lại chọn gia nhập tăng thân Làng Mai? Vì sao mình lại rời cộng đồng trước đây của mình?” Mỗi lần như vậy, con thường thầm cầu cứu Thầy trong tâm để Thầy giúp con có được cái nhìn sáng suốt hơn. Rất nhiều lần, khi con đang cầu cứu như vậy thì bỗng nhiên Thầy xuất hiện. Thầy xuất hiện thật sự chứ không phải ở trong tâm tưởng của con. Thời gian đó, con đang ở xóm Mới và có những ngày Thầy đột nhiên có mặt, tham gia thời thiền tọa buổi sáng với chúng con. Có ngày Thầy tới dự lễ tụng giới, lại có lúc con thấy Thầy bỗng nhiên có mặt sau cánh cửa, trong xe ô tô hay đang đi ra từ nhà vệ sinh. Mỗi lần gặp, Thầy đều mỉm cười với con hoặc giơ nhẹ tay chào hay nói với con đôi câu. Mỗi lần xuất hiện ấy của Thầy đã giúp con thấy Thầy luôn có mặt đó cho con. Đến bây giờ, mặc dù Thầy đã buông bỏ báo thân nhưng Thầy vẫn luôn có mặt cho con như vậy.
 

@@ -7,7 +7,7 @@ Hô to khẩu hiệu hai năm trước *Mở máy lên mà gõ* nên duyên này
 
 Từ khi xuất gia, tôi không còn đợi xem chương trình *Táo Quân* - *Gặp nhau cuối năm* của VTV vào đêm giao thừa nữa, mà đổi thành chờ báo Làng ra lò. Cảm giác cầm tờ báo trong tay, dù là bản giấy hay bản mềm trên máy tính luôn làm tôi háo hức. Nhiều khi chẳng đợi được báo giấy, tôi lên mạng tải về cho bằng được. Mở báo là tôi lướt hết các trang để ngắm ảnh. Đôi mắt lấp lánh thì thầm: “Tăng thân mình đẹp quá! Đời sống anh chị em xuất sĩ mình vui và tự do quá!”. Rồi nhâm nhi thưởng thức từng bài, có khi ham đọc cho đến khuya. Tôi gật gù mãn nguyện: “Ngày đầu năm mới mà đã được ăn một bữa cỗ, ôi chao là no nê!”
 
-{% image "article2023/sr-mai-phuong/08_IMG_8311.jpg" %}
+{% image "article2023/sr-mai-phuong/08_IMG_8311_e.jpg" %}
 
 Tôi nghe nói ngày xưa để báo Làng thêm phong phú với những bài viết đầy nuôi dưỡng về sự thực tập và chuyển hóa của tự thân, Thầy đã cho nghỉ một buổi thời khóa chiều để quý thầy quý sư cô có thời gian viết bài để nộp cho đúng hạn. Với nhiều bàn tay đóng góp, cũng như trải qua bao nhiêu năm gìn giữ và tiếp nối Thầy làm báo, Lá thư Làng Mai nay đã trở thành một sân chơi, một góc hội ngộ mỗi độ thu về đông sang. Nhận được lời mời hay đôi khi “đòi khéo” từ ban biên tập, nhiều anh chị em xuất sĩ đã có sẵn *sao trăng trong túi* để chuyển phát nhanh đến hộp thư của báo Làng. 
 

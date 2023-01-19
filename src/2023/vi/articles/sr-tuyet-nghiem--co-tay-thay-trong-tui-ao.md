@@ -3,6 +3,8 @@ title: Có tay Thầy trong túi áo
 author: Sư cô Chân Tuyết Nghiêm
 ---
 
+{% image "article2023/sr-tuyet-nghiem-done/image-3.jpg" %}
+
 Thầy kính thương,
 
 Con vẫn viết thư cho Thầy vì con cảm nhận sâu sắc Thầy vẫn còn đây trong giây phút này. Chỉ cần một hơi thở bình an là con có thể mời Thầy về bên con rất sâu sắc. Ngày Thầy chưa ẩn tàng, con cũng đã học tiếp xúc với Thầy trong con như vậy. Cho nên mỗi khi viết thư cho Thầy, con cảm nhận được Thầy đang thật sự rất gần, luôn có mặt để lắng nghe, để thấu hiểu những tâm tình của người con trẻ.
@@ -16,8 +18,6 @@ Lại một lần nữa con đặt chân đến miền đất mới. Mỗi lần
 Ngày rời Trạm Tịch, con có cảm giác mình chỉ lên đường cho một khóa tu dài hạn nên trong lòng không có cảm xúc rời bỏ hay chia ly. Nhìn lại, con thấy cuộc chơi mà con trải qua trên mảnh đất Trạm Tịch đã đủ đẹp. Con sống, tu học và cống hiến bằng cả trái tim ở đó nên ngày rời đi, con thấy lòng mình thỏa mãn, an vui. 
 
 Con lại một lần nữa chiêm nghiệm sâu sắc lý tưởng sống của mình: Sống trọn vẹn, sống hết lòng thì khi ra đi con sẽ thấy bình an. Sống đẹp, chết sẽ đẹp. Con đã gửi vào ngân hàng tâm linh của con một ít vốn cho sự nghiệp giải thoát sinh tử của mình. Thầy thấy con suy nghĩ vậy có được không ạ? Dù bé nhỏ nhưng cái thấy ấy cũng khiến cho con luôn cảm thấy vui và nhẹ nhàng trước sự đổi mới.
-
-{% image "article2023/sr-tuyet-nghiem-done/image-3.jpg" %}
 
 Đại Ẩn Sơn - Lộc Uyển Tự, cái tên mà con đã được biết từ rất lâu rồi, đã nghe nói nhiều về cái bao la và hùng vĩ nơi đây. Vậy mà hôm nay khi đặt những bước chân đầu tiên trên mảnh đất này, con thật sự cảm nhận sự vững chãi và thích thú. Đúng là ngôi chùa nằm ẩn sâu trong lòng núi, bao quanh là chập chùng núi đá sa mạc. Vừa đến nơi, con đã thấy hạnh phúc vì được về với thiên nhiên, về với sự che chở thật gần của trời Cha, đất Mẹ. Mấy hôm nay lòng con cũng thênh thang khi nhìn ngắm đất trời rộng mở bao la.
 
@@ -70,7 +70,7 @@ Những bài tập Thầy giao cho con, con vẫn để nhiều tâm huyết đ�
 
 Con đang từng ngày trưởng thành trên con đường Thầy đã dìu dắt. Con đường đạo Bụt đi vào cuộc đời thật không hề đơn giản chút nào. Thầy đã chuẩn bị cho con thật nhiều hành trang. Đó là tất cả tình thương yêu và tin cậy mà Thầy dành cho đệ tử.
 
-{% image "article2023/sr-tuyet-nghiem-done/image1.jpeg" %}
+{% image "article2023/sr-tuyet-nghiem-done/image1_e.jpeg" %}
 
 Sáng nay những lời pháp của Thầy lại tiếp tục soi sáng dẫn đường cho con đi tới trong chí nguyện đẹp đẽ của người xuất sĩ. Con lại từng bước thong dong lên đồi chơi, từng bước chân không vướng bận, từng bước hẹn về với bình an. Trên đồi cao, con lại ngồi thưởng thức những hơi thở an lành cùng mây gió.  Đặt tay vào túi áo, con thấy bàn tay ấm áp đang tiếp tục truyền cho con niềm khích lệ tin yêu.
 
