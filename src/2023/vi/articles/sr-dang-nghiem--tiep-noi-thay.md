@@ -5,7 +5,7 @@ author: Sư cô Chân Đẳng Nghiêm
 
 Khi Thầy qua đời, cả thế giới đều hướng về và chứng kiến một tâm tang hùng tráng. Cùng lúc đó, câu hỏi “Ai sẽ tiếp nối Thầy? Việc gì sẽ xảy ra cho tăng thân Làng Mai? Chúng ta sẽ đi về đâu?” trở nên thực tiễn hơn bao giờ hết.
 
-Con còn nhớ ngày gia đình cây Sứ được xuất gia, sau khi xuống tóc chúng con quây quần bên Thầy để chụp hình. Con quỳ lên, chắp tay và thưa: “Bạch Thầy, con sẽ cố gắng tu học để không phụ lòng Thầy.” Thầy quay lại nhìn con rồi nói: “Thầy tin là con sẽ làm được và con sẽ giúp được nhiều người.”
+Con còn nhớ ngày gia đình cây Sứ được xuất gia, sau khi xuống tóc chúng con quây quần bên Thầy để chụp hình. Con quỳ lên, chắp tay và thưa: “Bạch Thầy, con sẽ cố gắng tu học để không phụ lòng Thầy”. Thầy quay lại nhìn con rồi nói: “Thầy tin là con sẽ làm được và con sẽ giúp được nhiều người.”
 
 Những năm đầu làm sadi, con xin phép không chăm sóc chương trình dành cho thiếu nhi và thanh thiếu niên trong khóa tu mùa hè. Vì hình ảnh của người trẻ làm con nhớ lại tuổi thơ đau buồn của mình. Thầy biết được và nói với con: “Con tu học cho có hạnh phúc rồi con sẽ giúp được cho rất nhiều người trẻ.”
 
@@ -41,7 +41,7 @@ Giây phút nhận tin Thầy qua đời, chúng con đã ngồi rất yên và 
 
 Bảy ngày Tâm tang là bảy ngày Pháp hội mà chúng con rất trân quý. Tất cả cơ sở vật chất cũng như các pháp môn đều là di sản Thầy trao truyền. Chúng con thực tập im lặng hùng tráng, ngồi yên, thiền hành, dùng cơm quá đường, tụng giới, chia sẻ những kỷ niệm với Thầy hay sự thực tập để tiếp xúc với Thầy trong mỗi cá nhân chúng con.
 
-Thầy từng dạy, “Nỗi đau không tránh được, nhưng cái khổ là một sự chọn lựa.” Nỗi đau mất Thầy, chúng con không tránh được. Hai năm trước khi Thầy qua đời, chính tay con đã để hình Thầy vào khung rồi che lại, úp xuống trên cái bàn sẽ dùng làm bàn thờ của Thầy. Con sợ rằng khi giây phút đó đến, chúng con sẽ run đến nỗi không thể để di ảnh của Thầy vô khung được. Lần đầu nhìn di ảnh Thầy trên bàn thờ, con vẫn cảm thấy bàng hoàng dù đã chuẩn bị tinh thần nhiều đến mấy đi nữa. Khi đại chúng xếp hàng đứng trước thiền đường Trăng Đầu Non để rước tro cốt của Thầy mang từ chùa tổ Từ Hiếu về, nhìn thầy Pháp Lưu ôm hũ tro bước ra xe, không ai cầm được nước mắt. Trời mưa lất phất, nước mưa nước mắt hòa quyện vào nhau. Trong giây phút đó và kể cả sau này cũng vậy, tâm con chỉ có một ý nghĩ, “Thầy không có trong đó!”
+Thầy từng dạy, “Nỗi đau không tránh được, nhưng cái khổ là một sự chọn lựa”. Nỗi đau mất Thầy, chúng con không tránh được. Hai năm trước khi Thầy qua đời, chính tay con đã để hình Thầy vào khung rồi che lại, úp xuống trên cái bàn sẽ dùng làm bàn thờ của Thầy. Con sợ rằng khi giây phút đó đến, chúng con sẽ run đến nỗi không thể để di ảnh của Thầy vô khung được. Lần đầu nhìn di ảnh Thầy trên bàn thờ, con vẫn cảm thấy bàng hoàng dù đã chuẩn bị tinh thần nhiều đến mấy đi nữa. Khi đại chúng xếp hàng đứng trước thiền đường Trăng Đầu Non để rước tro cốt của Thầy mang từ chùa tổ Từ Hiếu về, nhìn thầy Pháp Lưu ôm hũ tro bước ra xe, không ai cầm được nước mắt. Trời mưa lất phất, nước mưa nước mắt hòa quyện vào nhau. Trong giây phút đó và kể cả sau này cũng vậy, tâm con chỉ có một ý nghĩ, “Thầy không có trong đó!”
 
 Trong kinh A Nậu La Độ, có người ngoại đạo hỏi, “Khi Bụt qua đời, Bụt còn hay không còn? Hay vừa còn vừa không còn? Hay vừa không còn vừa không không còn?” Dù đã nghe kinh rất nhiều lần, con vẫn thấy những mệnh đề đó khó hiểu. Vậy mà khi Thầy qua đời, tự nhiên con thấy rõ, đúng là không thể hỏi Thầy còn hay không còn; hay là vừa còn vừa không còn; hay là vừa không còn vừa không không còn! Thầy không bị kẹt vào những mệnh đề hay khuôn khổ eo hẹp đó. Giờ thì con đã hiểu vì sao Bụt im lặng không trả lời.
 
@@ -67,7 +67,7 @@ Tu viện Lộc Uyển hiện đang có khóa tu đón mừng năm 2023. Vì thi
 
 <!-- {% image "article2023/sr-dang-nghiem/Tiep-noi-thay-5_e.jpg" %} -->
 
-Sáng hôm sau, có một cặp vợ chồng người Mỹ tới gặp con sau khi con cho pháp thoại. Họ chắp tay, tha thiết nói: “Nhiều năm Thầy đã dạy tăng thân sẽ tiếp nối Thầy, nhưng tôi đã không tin điều đó. Từ lúc Thầy qua đời, tôi cảm thấy mất đi niềm cảm hứng. Nhưng trong khóa tu này, khi lắng nghe những lời chia sẻ của quý thầy quý sư cô, tôi thật sự thấy rằng Thầy đang được tăng thân tiếp nối. Bây giờ thì tôi thật sự tin điều đó. Cảm ơn quý thầy, quý sư cô đã cho tôi niềm tin.” Ông vừa nói vừa khóc, nước mắt dàn dụa. Vợ của ông đứng kế bên cũng khóc ròng. Chúng con cùng khóc với nhau những giọt nước mắt tràn đầy hạnh phúc.
+Sáng hôm sau, có một cặp vợ chồng người Mỹ tới gặp con sau khi con cho pháp thoại. Họ chắp tay, tha thiết nói: “Nhiều năm Thầy đã dạy tăng thân sẽ tiếp nối Thầy, nhưng tôi đã không tin điều đó. Từ lúc Thầy qua đời, tôi cảm thấy mất đi niềm cảm hứng. Nhưng trong khóa tu này, khi lắng nghe những lời chia sẻ của quý thầy quý sư cô, tôi thật sự thấy rằng Thầy đang được tăng thân tiếp nối. Bây giờ thì tôi thật sự tin điều đó. Cảm ơn quý thầy, quý sư cô đã cho tôi niềm tin”. Ông vừa nói vừa khóc, nước mắt dàn dụa. Vợ của ông đứng kế bên cũng khóc ròng. Chúng con cùng khóc với nhau những giọt nước mắt tràn đầy hạnh phúc.
 
 <div class="verse"><p>Chúng con đi, bước chân Thầy huyền thoại<br/>
 Chúng con thở, hơi thở Thầy truyền kỳ<br/>

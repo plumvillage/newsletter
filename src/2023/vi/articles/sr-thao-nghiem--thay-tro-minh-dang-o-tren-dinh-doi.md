@@ -15,7 +15,7 @@ Thầy Pháp Áo chưa kịp trả lời thì con nghe Thầy lên tiếng:
 
 > “Chuẩn bị đi thôi con, mình sẽ tạo bất ngờ cho quý thầy. Gọi tất cả các anh chị em khác cùng đi. Phải nhanh lên mới kịp, mình phải vào, trong lúc quý thầy chưa dậy mới vui!”
 
-Thế là anh chị em con được đi với Thầy vào tăng xá. Thầy dạy chúng con mang theo hai chậu hoa cúc để làm quà. Quý thầy thị giả đẩy xe cho Thầy, còn chị em con bưng hoa theo sau. Lên hết các bậc cấp của thất Ngồi Yên, ra khỏi mé rừng, con đường từ tháp chuông dẫn đến tăng xá trước năm giờ sáng còn tối lắm, cảm giác như còn giữa khuya. Ngẩng đầu nhìn lên là một bầu trời đầy sao. Không khí yên tĩnh, sao sáng lấp lánh cả bầu trời, Thầy thốt lên: “Ôi chao ôi, đẹp quá! Mầu nhiệm quá! Cám ơn Bụt Tổ còn cho con có cơ hội này, lâu rồi mới có cơ hội thấy lại.” Thầy trò ai cũng xúc động tận hưởng và trân quý sự mầu nhiệm của đất trời buổi sớm.
+Thế là anh chị em con được đi với Thầy vào tăng xá. Thầy dạy chúng con mang theo hai chậu hoa cúc để làm quà. Quý thầy thị giả đẩy xe cho Thầy, còn chị em con bưng hoa theo sau. Lên hết các bậc cấp của thất Ngồi Yên, ra khỏi mé rừng, con đường từ tháp chuông dẫn đến tăng xá trước năm giờ sáng còn tối lắm, cảm giác như còn giữa khuya. Ngẩng đầu nhìn lên là một bầu trời đầy sao. Không khí yên tĩnh, sao sáng lấp lánh cả bầu trời, Thầy thốt lên: “Ôi chao ôi, đẹp quá! Mầu nhiệm quá! Cám ơn Bụt Tổ còn cho con có cơ hội này, lâu rồi mới có cơ hội thấy lại”. Thầy trò ai cũng xúc động tận hưởng và trân quý sự mầu nhiệm của đất trời buổi sớm.
 
 {% image "article2023/sr-thao-nghiem/image1.jpg" %}
 

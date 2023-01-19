@@ -7,7 +7,7 @@ Bạch Thầy kính thương,
 
 Thắm thoát mà đã hơn một năm từ khi hai chị em con về tu viện Nhập Lưu để nương chúng tu học và phụng sự. Thời gian tuy không dài, nhưng cũng có thật nhiều chuyện để kể Thầy nghe, cũng như là một chút đóng góp vào ấn bản Lá thư Làng Mai mừng xuân Quý Mão.
 
-Bây giờ, mỗi khi chắp tay lên thưa chuyện với đại chúng, ai cũng nói: "Kính bạch giác linh Thầy (Sư Ông)", nhưng không hiểu sao, đối với con và một vài chị em, chúng con vẫn thường thưa: "Kính bạch Thầy (Sư Ông).” Chúng con vẫn thấy Thầy luôn còn đó với chúng con, gần gũi và rất thật trong mỗi hành động, nói năng, tư duy và hành xử. Trong con, không hề có một sự gián đoạn nào trong mối liên hệ thầy trò. Vì vậy, viết thư cho Thầy là một điều gì đó thật tự nhiên, cần thiết và nuôi dưỡng cho con.
+Bây giờ, mỗi khi chắp tay lên thưa chuyện với đại chúng, ai cũng nói: "Kính bạch giác linh Thầy (Sư Ông)", nhưng không hiểu sao, đối với con và một vài chị em, chúng con vẫn thường thưa: "Kính bạch Thầy (Sư Ông)”. Chúng con vẫn thấy Thầy luôn còn đó với chúng con, gần gũi và rất thật trong mỗi hành động, nói năng, tư duy và hành xử. Trong con, không hề có một sự gián đoạn nào trong mối liên hệ thầy trò. Vì vậy, viết thư cho Thầy là một điều gì đó thật tự nhiên, cần thiết và nuôi dưỡng cho con.
 
 Buổi đầu mùa dịch Covid, khoảng ba năm trước, một sáng thức dậy con bỗng nảy ra ý tưởng viết cuốn "Nẻo về của chúng con", như Thầy từng viết *Nẻo về của ý* vậy. “Tại sao không nhỉ?” con thì thầm, dù biết mình hơi tham vọng một tí. Dù lớn hay nhỏ, đó sẽ là những lời tâm tình với Thầy về những gì mà con đã và đang đi qua. 
 

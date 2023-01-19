@@ -41,7 +41,7 @@ Niềm tin còn gửi gắm<br/>
 Ta vui lòng đi xa.<br/>
 …</p></div>
 
-Chất liệu của người chiến sĩ, thi sĩ, nhạc sĩ, họa sĩ, bác sĩ và tu sĩ trong mỗi dòng thơ như thắp lên ánh sáng tâm linh, soi đường cho tuổi trẻ chúng con hướng về niềm tin tỉnh thức. Con nhớ về mùa thu năm ấy, Thầy viết xuống chiếc lá thu vàng dòng chữ: “Con có tuổi trẻ, con có lý tưởng, con có niềm vui sống.” Đó như là một khẩu ngữ để mỗi khi con ngồi chơi với các bạn trẻ có khổ đau, con cũng trao lại lời nhắn gửi này của Thầy.
+Chất liệu của người chiến sĩ, thi sĩ, nhạc sĩ, họa sĩ, bác sĩ và tu sĩ trong mỗi dòng thơ như thắp lên ánh sáng tâm linh, soi đường cho tuổi trẻ chúng con hướng về niềm tin tỉnh thức. Con nhớ về mùa thu năm ấy, Thầy viết xuống chiếc lá thu vàng dòng chữ: “Con có tuổi trẻ, con có lý tưởng, con có niềm vui sống”. Đó như là một khẩu ngữ để mỗi khi con ngồi chơi với các bạn trẻ có khổ đau, con cũng trao lại lời nhắn gửi này của Thầy.
 
 ## Một bàn tay giữ con đường mây
 
