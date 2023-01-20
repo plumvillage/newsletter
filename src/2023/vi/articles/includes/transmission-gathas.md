@@ -18,6 +18,13 @@
 > > Revealing their true treasures  
 > > As action and non-action go perfectly together.
 
+> **Sư cô Thích Nữ Chân Tựu Nghiêm**
+> *(Hồ Thị Bích Minh; Pháp danh: Tâm Thánh Quang)*
+> > Bước chân hơi thở là nhà  
+> > Thành **tựu** chỉ quán không xa Phật đài  
+> > Vạn pháp là một không hai  
+> > **Nghiêm** thân hộ ý ngày mai giúp đời.
+
 > **Sư cô Thích Nữ Chân Nhất Nghiêm**
 > *(Lê Thị Thanh Nhàn; Pháp danh: Tâm Phước Thiện)*
 > > **Nhất** tâm hướng Bụt  
@@ -25,13 +32,6 @@
 > > Báo ân phụ mẫu  
 > > Tạ nghĩa bốn chúng  
 > > Ngày ngày không quên.
-
-> **Sư cô Thích Nữ Chân Tựu Nghiêm**
-> *(Hồ Thị Bích Minh; Pháp danh: Tâm Thánh Quang)*
-> > Bước chân hơi thở là nhà  
-> > Thành **tựu** chỉ quán không xa Phật đài  
-> > Vạn pháp là một không hai  
-> > **Nghiêm** thân hộ ý ngày mai giúp đời.
 
 > **Sư cô Thích Nữ Chân Trăng Lộc Uyển**
 > *(Phạm Thị Thu Hằng; Pháp danh: Tâm Trung Kiên)*
