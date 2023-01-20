@@ -1,14 +1,18 @@
 <p class="noIndent">Dưới đây là tổng hợp những bài kệ truyền đăng được trao trong năm qua:</p>
 
+<!-- beware: 2 empty spaces at line-end mark break -->
+
 > **Thầy Thích Chân Trời Đại Giác**
-> *(Andreas Lukas Ambühl; Pháp danh: Great Determination of the Heart)*
+> *(Andreas Lukas Ambühl;  
+> Pháp danh: Great Determination of the Heart)*
 > > **Trời** tâm linh sáng bừng nét cọ  
 > > Thệ Nhật sơn **đại giác** nở hoa  
 > > Mười năm vườn tuệ siêng chăm sóc  
 > > Ân nghĩa bồi vun nếp lục hòa.
 
 > **Thầy Thích Chân Trời Phạm Hạnh**
-> *(Bart Johan Christiaan Bannink; Pháp danh: Deep Understanding of the Heart)*
+> *(Bart Johan Christiaan Bannink;  
+> Pháp danh: Deep Understanding of the Heart)*
 > > The sacred **holy life** of both east and west  
 > > Illuminates the well trodden ancestral paths  
 > > Revealing their true treasures  
@@ -51,14 +55,16 @@
 > > Sá chi mệt mỏi đường đời quanh co.
 
 > **Sư cô Thích Nữ Chân Trăng Tin Yêu**
-> *(Bong Suryati; Pháp danh: Deep Communication of the Heart)*
+> *(Bong Suryati;  
+> Pháp danh: Deep Communication of the Heart)*
 > > **Trăng** quê hương vẫn sáng  
 > > Chí nguyện chưa từng quên  
 > > Niềm **tin** không phai nhạt  
 > > Đem **yêu** thương mọi miền
 
 > **Sư cô Thích Nữ Chân Trăng Tam Muội**
-> *(Susan Rooke; Pháp danh: Transformation of the Heart)*
+> *(Susan Rooke;  
+> Pháp danh: Transformation of the Heart)*
 > > The **samādhi moon** shines in the eastern sky  
 > > For many years our ancestors have sought it  
 > > Carefully disciplined, we find our way home  
@@ -143,6 +149,14 @@
 
 {% image "article2023/Lang-mai-nam-qua/truyen-dang-an-cu-2022/122_Lamp.Transmission.2022_img_8217_e.jpg" %}
 
+<div class="page-break"></div>
+
+<div class="full-page-background-img-bleed">
+    {% image "Lang Mai Nam Qua A4 Final No Text/16 - Lamps_P2.jpg" %}
+</div>
+
+<div class="page-break"></div>
+
 > **Chân Lạc An - True Joyful Peace**
 > *(Margriet Messelink)*
 > > The **joy** of meditation is food  
@@ -152,30 +166,30 @@
 
 > **Chân Hỷ Vân - Vrai Joyeux Nuage**
 > *(Jacqueline Thouvenot)*
-> > Le **Joyeux Nuage** lentement dans le ciel 
-> > Rafraîchit le généreux soleil du midi
-> > Toucher la guérison avec le sourire de l’inter-être 
+> > Le **Joyeux Nuage** lentement dans le ciel  
+> > Rafraîchit le généreux soleil du midi  
+> > Toucher la guérison avec le sourire de l’inter-être  
 > > Goûter la douceur et la paix de l’ultime: tout est déjà parfait!
 
 > **Vraie Terre de Paix**
 > *(Marie-Ange Amiel)*
-> > Dans la **Terre de Paix** se trouve la source joyeuse de l’instant
-> > Où le souffle tranquille de la compassion guide l’action
-> > Dans l’océan de sagesse, les bruits de l’injustice s’effacent
+> > Dans la **Terre de Paix** se trouve la source joyeuse de l’instant  
+> > Où le souffle tranquille de la compassion guide l’action  
+> > Dans l’océan de sagesse, les bruits de l’injustice s’effacent  
 > > Le vivant dans toute sa beauté resplendit dans le silence.
 
 > **Chân Thâm Nghĩa - Vraie Loyauté Profonde**
 > *(Dominique Prodel)*
-> > La **Loyauté Profonde** de la terre donne aux arbres l’éclat joyeux de la Vie
-> > Sur les pas des ancêtres spirituels chaque respiration devient libération
-> > La présence lumineuse du cœur se suffit à elle-même
+> > La **Loyauté Profonde** de la terre donne aux arbres l’éclat joyeux de la Vie  
+> > Sur les pas des ancêtres spirituels chaque respiration devient libération  
+> > La présence lumineuse du cœur se suffit à elle-même  
 > > Comme le cyprès au milieu de la cour.
 
 > **Chân Lạc Ân - Vrai Sceau du Bonheur**
 > *(Christian Michel)*
-> > Dans chaque pas s’inscrit le **Sceau du Bonheur**
-> > La profondeur du silence intérieur réveille la douceur de la joie
-> > L’esprit du débutant s’amuse avec l’impermanence
+> > Dans chaque pas s’inscrit le **Sceau du Bonheur**  
+> > La profondeur du silence intérieur réveille la douceur de la joie  
+> > L’esprit du débutant s’amuse avec l’impermanence  
 > > Comme la feuille joue avec les saisons.
 
 > **Chân Hòa Lâm - True Harmonious Forest**
@@ -194,18 +208,17 @@
 
 > **Chân Quang Trang**
 > *(Bar Zecharya)*
-> > Understanding is the clear* **light**  
+> > Understanding is the clear **light**  
 > > That dispels all hatred and fear  
 > > It **adorns** the untended garden  
 > > Where all beings can enjoy the fruit.
 
 > **Chân Hạnh Toàn**
 > *(Hélène Prost)*
-> > Tấm lòng hiếu **hạnh** vẹn **toàn** 
-> > Nguyện theo gương sáng theo dòng Tổ tiên
-> > Không bùn không đóa hoa sen
+> > Tấm lòng hiếu **hạnh** vẹn **toàn**  
+> > Nguyện theo gương sáng theo dòng Tổ tiên  
+> > Không bùn không đóa hoa sen  
 > > Trời xanh mây trắng thênh thang đường về.
-
 
 > **True Source of Listening**
 > *(Maya Brandl)*
