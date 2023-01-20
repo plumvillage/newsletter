@@ -6,19 +6,27 @@
 </div>
 
 <div class="full-page-image bleed">
-    {% image ["LTLM46-2023 Inner Cover page 1 ", size_label ,".png"] | join %}
+    {% image ["LTLM46-2023 Inner Cover page 1 ", size_label ,".jpg"] | join %}
 </div>
 
 <div class="full-page-image bleed">
-    {% image ["LTLM46-2023 Inner Cover page 2 ", size_label ,".png"] | join %}
+    {% image ["LTLM46-2023 Inner Cover page 2 ", size_label ,".jpg"] | join %}
 </div>
 
 {# <div class="empty-page"></div> #}
+
+{% set break1 = true %}
 
 <div id="table-of-contents">
     <h1>{{ i18n.toc }}</h1>
     <ul class="toc">
         {%- for article in articles -%}
+
+            {%- if article.data.id == "nhung-choi-non-chao-nang-mai-3" -%}
+                {% set break1 = false %}
+            {%- endif -%}
+
+            {%- if break1 -%}
             {%- if article.data.chapter -%}
             <li class="chapterLi" id="li-{{ article.data.id }}">
                 <a class="" href="#{{ article.data.id }}">
@@ -31,17 +39,25 @@
                 <br/><span class="toc-author">{{ article.data.author }}</span>
                 {%- endif -%}
             {%- endif -%}
+            {%- endif -%}
             </a></li>
         {%- endfor -%}
     </ul>
 </div>
 
+{% set break1 = true %}
+
 {%- for article in articles -%}
+    {%- if article.data.id == "nhung-choi-non-chao-nang-mai-3" -%}
+        {% set break1 = false %}
+    {%- endif -%}
+
     {% set title = article.data.title %}
     {% set author = article.data.author %}
     {% set content = article.data.content %}
     {% set fileSlug = article.fileSlug %}
 
+    {%- if break1 -%}
     {%- if article.data.chapter -%}
         <section class="chapter" id="{{ article.data.id }}">
             <h1>{{ title }}</h1>
@@ -75,6 +91,7 @@
                 {{ content | safe }}
             <div class="article-end"></div>
         </article>
+    {%- endif -%}
     {%- endif -%}
 {%- endfor -%}
 
