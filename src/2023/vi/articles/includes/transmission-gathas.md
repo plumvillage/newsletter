@@ -54,14 +54,6 @@
 > > **Tiên** đang cứu giúp muôn người  
 > > Sá chi mệt mỏi đường đời quanh co.
 
-> **Sư cô Thích Nữ Chân Trăng Tin Yêu**
-> *(Bong Suryati;  
-> Pháp danh: Deep Communication of the Heart)*
-> > **Trăng** quê hương vẫn sáng  
-> > Chí nguyện chưa từng quên  
-> > Niềm **tin** không phai nhạt  
-> > Đem **yêu** thương mọi miền
-
 > **Sư cô Thích Nữ Chân Trăng Tam Muội**
 > *(Susan Rooke;  
 > Pháp danh: Transformation of the Heart)*
@@ -69,6 +61,14 @@
 > > For many years our ancestors have sought it  
 > > Carefully disciplined, we find our way home  
 > > Ancestors greet us and descendants rejoice.
+
+> **Sư cô Thích Nữ Chân Trăng Tin Yêu**
+> *(Bong Suryati;  
+> Pháp danh: Deep Communication of the Heart)*
+> > **Trăng** quê hương vẫn sáng  
+> > Chí nguyện chưa từng quên  
+> > Niềm **tin** không phai nhạt  
+> > Đem **yêu** thương mọi miền
 
 > **Sư cô Thích Nữ Chân Trăng Tịnh Thường**
 > *(Hồ Vũ Anh Đài; Pháp danh: Tâm Quảng Bảo)*
