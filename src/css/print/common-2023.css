@@ -919,28 +919,8 @@ article ul li::before {
 
 .positioned-text-box {
     position: absolute;
-    background-color: rgba(255, 0, 0, 0.103);
-}
-
-.size-A4 .positioned-text-box {
-    /* top: var(--A4Top);
-    left: var(--A4Left);
-    right: var(--A4Right);
-    bottom: var(--A4Bottom); */
-    /* top: 2mm; */
-    /* left: 2mm; */
-    /* right: 118mm; */
-    /* bottom: 136mm; */
-}
-.size-Letter .positioned-text-box {
-    /* top: var(--LetterTop);
-    left: var(--LetterLeft);
-    right: var(--LetterRight);
-    bottom: var(--LetterBottom); */
-    /* top: 2mm; */
-    /* left: 2mm; */
-    /* right: 20mm; */
-    /* bottom: 20mm; */
+    box-shadow: inset 0 0 4px 2px rgba(255, 0, 0, 0.199);
+    /* positioned in element style */
 }
 
 .full-page-background-img-bleed {
@@ -1107,7 +1087,7 @@ h1#an-old-home-in-a-new-land {
 .article-nhung-choi-non-chao-nang-mai-3 > h1,
 .article-young-buds-about-elders > h1,
 .article-young-buds-mindful-manners > h1,
-.article-review-of-the-year > h1 {
+h1#lang-mai-nam-qua {
     /* linking does not work if I set display: none; */
     position: absolute;
     content: "";
@@ -1275,6 +1255,10 @@ figure#article2023sr-tuyet-nghiem-doneimage-3 {
 figure#article2023sr-tuyet-nghiem-doneimage-3 img {
     object-fit: cover;
     height: 90mm;
+}
+
+.article-lang-mai-nam-qua h1:not(#lang-mai-nam-qua) {
+    margin-top: 0mm !important;
 }
 
 .article-lang-mai-nam-qua > blockquote {
