@@ -77,17 +77,22 @@ Trong khóa tu có một ngày chính thức ăn mừng Làng Mai 40 tuổi vớ
     },{
         img: "14 - Rains Retreat 2022.jpg",
         position: { A4: [137, 0, 94, 0], Letter: [10, 10, 0, 0] },
-        title: "Rains Retreat",
-        text: "Some Text"
+        title: "An cư kiết thu",
+        text: "Năm nay, tứ chúng Làng Mai tại Pháp gồm 255 vị (159 xuất sĩ, 2 tập sự và 94 cư sĩ) có cơ hội an cư ba tháng chung với nhau, từ ngày 15.09 đến ngày 13.12.
+        </p><p>Trong suốt mùa an cư, đại chúng có cơ hội học hỏi và thực tập với chủ đề Đạo Bụt dấn thân, Đạo Bụt nhập thế. Sự có mặt của sư cô Chân Không cũng như nhiều quý thầy, quý sư cô lớn khác đã tiếp thêm năng lượng ấm áp, vững chãi cho đại chúng."
     },{
-        img: "15 - Novice Ordination.jpg",
-        position: { A4: [90, 85, 0, 88], Letter: [10, 10, 0, 0] },
-        title: "Novice Ordination",
-        text: "Some Text"
+        img: "15 - Novice Ordination_n2.jpg",
+        position: { A4: [90, 85, 0, 0], Letter: [10, 10, 0, 0] },
+        title: "Ba lễ xuất gia",
+        text: "Dù sắc thân đã ẩn tàng, Thầy vẫn đang không ngừng được tiếp nối nơi vô vàn những hóa thân khác. Trong năm 2022, tăng thân đã chào đón thêm 25 thành viên mới, thế hệ đầu tiên mang pháp hiệu của Thầy - các sư chú với chữ “Nhất”, các sư cô với chữ “Hạnh”:</p><p>
+<i><b>Cây Tùng Lọng - Stone Pine</b></i> (ngày 12.06 tại tu viện Vườn Ươm, Thái Lan) gồm các sư chú: Chân Nhất Nguyện, Chân Nhất Niệm, Chân Nhất Lưu.</p><p>
+<i><b>Cây Táo Nhỏ -  Manzanita</b></i> (ngày 25.09 tại tu viện Lộc Uyển, Mỹ) gồm các sư chú: Chân Nhất Hướng và Chân Nhất Ấn.
+</p><p>
+<i><b>Cây Xích Tùng - Red Cedar</b></i> (ngày 18.12 tại tu viện Vườn Ươm, Thái Lan) gồm các sư chú: Chân Nhất Thể, Chân Nhất Đạo, Chân Nhất Đăng, Chân Nhất Chiếu, Chân Nhất Thừa, và các sư cô: Chân Lạc Hạnh, Chân Pháp Hạnh, Chân Bi Hạnh, Chân Phước Hạnh, Chân Giới Hạnh, Chân Tuệ Hạnh, Chân Nhân Hạnh, Chân Xuân Hạnh, Chân Quang Hạnh, Chân Khiêm Hạnh, Chân Bảo Hạnh, Chân Bối Hạnh, Chân Dung Hạnh, Chân Phổ Hạnh, Chân Tường Hạnh."
     },{
-        img: "16 - Lamps.jpg",
+        img: "16 - Lamps_n2.jpg",
         position: { A4: [190, 0, 85, 0], Letter: [10, 10, 0, 0] },
-        title: "Lamp Transmission",
+        title: "Lễ truyền đăng",
         text: "Trong năm 2022, tăng thân đã chào đón 31 vị giáo thọ mới, cả xuất sĩ và cư sĩ. Các buổi lễ truyền đăng được tổ chức tại Làng Mai Pháp trong khóa tu tháng Sáu với chủ đề <i>“Đã có đường đi rồi, con không còn lo sợ”</i> và khóa tu an cư kiết thu. Bên cạnh đó, sư cô Chân Không đã trực tiếp truyền đăng cho hai vị giáo thọ mới tại tu viện Bích Nham vào ngày 3.9, nhân chuyến hoằng pháp của Sư cô tại Mỹ."
     },{
         includeFile: "src/2023/vi/articles/includes/transmission-gathas.md"
@@ -116,22 +121,30 @@ Trong khóa tu có một ngày chính thức ăn mừng Làng Mai 40 tuổi vớ
     </div>
     {%- endif %}
 
-    {%- if page.includeFile %}
-        {% renderFile page.includeFile %}
-    {%- endif %}
-    
-    {%- if page.text %}
+    {%- if page.position %}
     <div class="positioned-text-box" id="{{ page.img | slugify }}" style="
         top: {{ page.position[size_label][0] }}mm;
         left: {{ page.position[size_label][1] }}mm;
         right: {{ page.position[size_label][2] }}mm;
         bottom: {{ page.position[size_label][3] }}mm;
     ">
+    {%- endif %}
+
     {%- if page.title %}
     {# 'safe' allows for the text to contain html #}
     <h1>{{ page.title | safe }}</h1>
     {%- endif %}
-    <p>{{ page.text | safe }}</p></div>
+    
+    {%- if page.includeFile %}
+    {% renderFile page.includeFile %}
+    {%- endif %}
+
+    {%- if page.text %}
+    <p>{{ page.text | safe }}</p>
+    {%- endif %}
+    
+    {%- if page.position %}
+    </div>
     {%- endif %}
 
     {%- if not loop.last %}

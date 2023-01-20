@@ -1,4 +1,4 @@
-Dưới đây là tổng hợp những bài kệ truyền đăng được trao trong năm qua:
+<p class="noIndent">Dưới đây là tổng hợp những bài kệ truyền đăng được trao trong năm qua:</p>
 
 > **Thầy Thích Chân Trời Đại Giác**
 > *(Andreas Lukas Ambühl; Pháp danh: Great Determination of the Heart)*
@@ -140,6 +140,8 @@ Dưới đây là tổng hợp những bài kệ truyền đăng được trao t
 > > The sangha becomes a **family**  
 > > Listening deeply reconciles us  
 > > The refreshing Dharma rain brings joy.
+
+{% image "article2023/Lang-mai-nam-qua/truyen-dang-an-cu-2022/122_Lamp.Transmission.2022_img_8217_e.jpg" %}
 
 > **Chân Lạc An - True Joyful Peace**
 > *(Margriet Messelink)*
