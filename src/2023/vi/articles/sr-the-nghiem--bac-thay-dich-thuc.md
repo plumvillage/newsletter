@@ -5,19 +5,19 @@ author: Sư cô Chân Thệ Nghiêm
 
 *(Bài viết được dịch từ tiếng Anh)*
 
-Kính bạch Thầy, mỗi khi nghĩ về Thầy, Tâm Thương Yêu của Thầy lại đong đầy trong trái tim chúng con. Nhớ ơn Thầy, chúng con xin nguyện gìn giữ những kỷ niệm đã từng có với Thầy trong trái tim thương yêu và rộng mở của chúng con.
+Kính bạch Thầy, mỗi khi nghĩ về Thầy, tâm thương yêu của Thầy lại đong đầy trong trái tim chúng con. Nhớ ơn Thầy, chúng con xin nguyện gìn giữ những kỷ niệm đã từng có với Thầy trong trái tim thương yêu và rộng mở của chúng con.
 
 Con rất biết ơn khi được làm đệ tử của Thầy, một vị thầy tâm linh đích thực. Người đã *hướng dẫn* chúng con trên con đường tâm linh, là *hiện thân* của hiểu biết, thương yêu, và *truyền cảm hứng* cho đệ tử qua cách sống của chính mình.
 
 Năm 21 tuổi, con được ba con giới thiệu quyển sách *Being Peace (Muốn an được an)* của Thầy. Một thế giới mới như đang mở ra trước mắt con: Ồ, đây đúng là nếp sống an lành và từ bi. Con thấy một vị thầy đang chia sẻ rất chân thực, đầy bình an, niềm vui và tuệ giác. Lời Thầy thổi sức sống vào trái tim con, hướng đôi mắt con về con đường tâm linh. Nhờ Thầy, con đã được thức tỉnh và tìm đến nếp sống xuất gia.
 
-## Hiện thân của Hiểu biết và Thương yêu
+## Hiện thân của hiểu biết và thương yêu
 
 Làm đệ tử của Thầy, con có cơ hội để trực tiếp cảm nghiệm sự hiểu biết và lòng từ bi của Thầy. Trong những năm đầu con ở Làng Mai, nhiều anh chị em chúng con may mắn được luân phiên nhau làm thị giả cho Thầy. Dù chúng con mỗi người có khả năng và tài năng khác nhau, Thầy vẫn luôn tìm cách để hiểu từng người và hướng dẫn thêm cho chúng con. 
 
 Trong những năm đầu xuất gia, con chật vật ghê lắm trong chuyện buông bỏ những thói quen riêng và tập thích nghi với đời sống tăng thân. Bởi vậy đến phiên làm thị giả cho Thầy, con hay căng thẳng mỗi khi Thầy có mặt. Mà Thầy thì luôn có mặt trọn vẹn và là tâm điểm chú ý của đại chúng trong mọi thời khóa. Khổ nỗi, trong thời sadi, con thường không cảm thấy thoải mái và tìm mọi cách để tránh những nơi tâm điểm đó.
 
-Ấy vậy, Thầy luôn làm chủ được những hoàn cảnh tưởng chừng như căng thẳng ấy với sự khoan thai, đầy ung dung tự tại. Lấy đi sự ngăn cách giữa mình và mọi người, Thầy hiến tặng sự nhẹ nhàng ấy cho những người xung quanh. Đó chính là những lúc con tiếp xúc được lòng từ bi nơi Thầy. Thầy không bị chi phối bởi các tâm hành mặc cảm, hay những cảm xúc lên xuống khổ sở, nhưng Thầy cảm thông được với những ai rơi vào tình trạng đó. Đồng thời, Thầy  hiểu cho tâm trạng của một người khá nhạy cảm, cần sự tế nhị.
+Ấy vậy, Thầy luôn làm chủ được những hoàn cảnh tưởng chừng như căng thẳng ấy với sự khoan thai, đầy ung dung tự tại. Lấy đi sự ngăn cách giữa mình và mọi người, Thầy hiến tặng sự nhẹ nhàng ấy cho những người xung quanh. Đó chính là những lúc con tiếp xúc được lòng từ bi nơi Thầy. Thầy không bị chi phối bởi các tâm hành mặc cảm, hay những cảm xúc lên xuống khổ sở, nhưng Thầy cảm thông được với những ai rơi vào tình trạng đó. Đồng thời, Thầy  hiểu cho tâm trạng của một người khá nhạy cảm và cần sự tế nhị.
 
 {% image "article2023/sr-the-nghiem-done/image_edited.jpg" %}
 
@@ -37,7 +37,7 @@ Thời còn là sadi, việc chuyển từ môi trường gia đình nhỏ sang 
 
 Một ngày nọ ở xóm Hạ, con thao thức quá chịu không nổi nên hỏi Thầy, với đôi mày nhíu lại đầy khẩn khoản: “Bạch Thầy, Thầy dạy chúng con về tầm quan trọng của Tăng thân, nhưng con thực sự không hiểu. Xin Thầy cho con hỏi: Tăng thân là gì?” 
 
-Thầy yên lặng nhìn con một lúc, rồi nhẹ nhàng trả lời: “Như trong bài hát đó con: *Năm uẩn là Tăng … phối hợp tinh cần.*” Ô hay! Cái câu này con nghe đi nghe lại, hát tới hát lui nhiều lần rồi. Nhưng lần này lại khác. Lời của Thầy như một luồng sáng, soi thấu vào sự hoang mang trong con. Giây phút ấy, con chợt nhận ra được mình và tiếp xúc được với thực tại dưới chân mình.
+Thầy yên lặng nhìn con một lúc, rồi nhẹ nhàng trả lời: “Như trong bài hát đó con: *Năm uẩn là Tăng … phối hợp tinh cần*”. Ô hay! Cái câu này con nghe đi nghe lại, hát tới hát lui nhiều lần rồi. Nhưng lần này lại khác. Lời của Thầy như một luồng sáng, soi thấu vào sự hoang mang trong con. Giây phút ấy, con chợt nhận ra được mình và tiếp xúc được với thực tại dưới chân mình.
 
 Ngẫm lại cuộc đối thoại giữa hai thầy trò, con nhận thấy Thầy có thể có rất nhiều cách để trả lời con. Vậy mà, Thầy đã chọn cách vượt thắng lối suy nghĩ theo trí năng và điều phục cái tâm đang còn nhiều lăng xăng của con. Câu trả lời của Thầy chạm tới những kinh nghiệm sống của con trước đây và giúp con có khả năng tiếp nhận ngay thời điểm đó.
 
@@ -47,11 +47,11 @@ Vậy là, Thầy đã phá tan chướng ngại và mở ra cánh cửa cho con
 
 ## Người làm vườn tận tụy
 
-Thầy thường được ví như một bậc thầy về làm vườn. Người khéo léo vun xới, làm cho vườn ươm tăng thân ngày càng đa dạng và lớn rộng bằng sự nuôi dưỡng và khích lệ của Thầy. Người kiên trì chăm sóc từng chồi non trong sự thực tập của chúng con. Thậm chí ở mức căn bản hơn, Thầy chăm sóc cẩn thận hạt giống niềm tin đôi khi còn ngủ vùi trong chúng con, để rồi giúp chúng con đánh thức niềm tin vào khả năng tỉnh thức hay tính Bụt trong chính mình. 
+Thầy thường được ví như một bậc thầy về làm vườn. Thầy khéo léo vun xới, làm cho vườn ươm tăng thân ngày càng đa dạng và lớn rộng bằng sự nuôi dưỡng và khích lệ của mình. Người kiên trì chăm sóc từng chồi non trong sự thực tập của chúng con. Thậm chí ở mức căn bản hơn, Thầy chăm sóc cẩn thận hạt giống niềm tin đôi khi còn ngủ vùi trong chúng con, để rồi giúp chúng con đánh thức niềm tin vào khả năng tỉnh thức hay tính Bụt trong chính mình. 
 
 Với sự hiểu biết và niềm tin cậy, Thầy đã tưới tẩm hạt giống đức tin nơi con. Nhờ đó, con mới có thể khám phá ra tính lành thiện trong mình và xung quanh mình.
 
-Một ngày nọ, trong không gian yên lắng ở Sơn Cốc, Thầy đem đến cho con một chậu hoa còn đang hé nụ. Thầy trò ngồi yên ngắm chậu hoa, rồi Thầy nói: “Con thấy không, con người mình cũng như bông hoa này đây.  Hễ đúng thời điểm, và khi hoa đã sẵn sàng, các cánh hoa sẽ tự khắc bung ra thôi, con ạ”. Trong giây phút ấy, con cảm được sự cảm thông và chấp nhận của Thầy cho người học trò còn nhiều dè dặt, lúng túng và thiếu tự tin như con. Đồng thời con cũng cảm nhận Thầy như khéo léo động viên con: *hãy cho phép bông hoa trong con được tự nhiên hé nở*.
+Một ngày nọ, trong không gian yên lắng ở Sơn Cốc, Thầy đem đến cho con một chậu hoa còn đang hé nụ. Thầy trò ngồi yên ngắm chậu hoa, rồi Thầy nói: “Con thấy không, con người mình cũng như bông hoa này đây. Hễ đúng thời điểm, và khi hoa đã sẵn sàng, các cánh hoa sẽ tự khắc bung ra thôi, con ạ”. Trong giây phút ấy, con cảm được sự cảm thông và chấp nhận của Thầy cho người học trò còn nhiều dè dặt, lúng túng và thiếu tự tin như con. Đồng thời con cũng cảm nhận Thầy như khéo léo động viên con: *hãy cho phép bông hoa trong con được tự nhiên hé nở*.
 
 ## Mở thêm rộng lớn con đường
 
@@ -61,7 +61,7 @@ Vào tháng Năm năm 2007, tăng thân nhỏ tại tu viện Thanh Sơn và tu 
 
 Như một đàn kiến ​​tập hợp lại sau khi bị lìa đàn, anh chị em chúng con bắt đầu tiến hành công việc chuyển đổi khách sạn và khu nghỉ dưỡng mùa hè trước đây thành một tu viện hoạt động quanh năm. Công việc chậm đã đành mà còn có phần thiếu tổ chức. Vào đầu mùa thu, công việc có tiến triển chút đỉnh, nhưng dường như không nhiều. 
 
-Tăng thân của Bích Nham thời đó giống một đoàn tàu nhỏ đang leo dốc. Đại chúng cố gắng nghĩ chuyện thực tế, nên thỉnh cầu Thầy cho phép tạm dừng việc tổ chức khóa tu lớn đầu tiên trong mùa tới. Nhiều lý do được đưa ra: nào là thời điểm hãy còn quá sớm, mình chưa chuyển thành tu viện kịp, đại chúng chưa chuẩn bị để sẵn sàng nhận thiền sinh… Thầy trả lời: “Tăng thân làm được”. Chúng con đưa thêm lý do: các dãy nhà chính vẫn cần được tu sửa. Thiền đường thậm chí lúc đó đâu đã được xây… Câu trả lời của Thầy: “Đó cũng không là trở ngại”. Kêu gọi sức mạnh và tinh thần tập thể, Thầy dạy đại chúng thuê một cái lều thật lớn thay cho thiền đường lúc đó chưa hiện hữu.
+Tăng thân của Bích Nham thời đó giống một đoàn tàu nhỏ đang leo dốc. Đại chúng cố gắng nghĩ chuyện thực tế, nên thỉnh cầu Thầy cho phép tạm dừng việc tổ chức khóa tu lớn đầu tiên trong mùa tới. Nhiều lý do được đưa ra: nào là thời điểm hãy còn quá sớm, mình chưa chuyển thành tu viện kịp, đại chúng chưa chuẩn bị để sẵn sàng nhận thiền sinh… Thầy trả lời: “Tăng thân làm được”. Chúng con đưa thêm lý do: các dãy nhà chính vẫn cần được tu sửa. Thiền đường thậm chí lúc đó đâu đã được xây. Câu trả lời của Thầy: “Đó cũng không là trở ngại”. Kêu gọi sức mạnh và tinh thần tập thể, Thầy dạy đại chúng thuê một cái lều thật lớn thay cho thiền đường lúc đó chưa hiện hữu.
 
 Chúng con lo cho viễn cảnh về một khóa tu mà một nửa các sinh hoạt diễn ra ngoài trời trong thời tiết băng giá của vùng New England sẽ là trở ngại cho thiền sinh. Nhưng có hề hấn chi, ngay sau khi chương trình ghi danh mở ra, người ta đăng ký đầy hết, còn vượt quá sức chứa của tu viện nữa. 
 
