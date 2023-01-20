@@ -29,7 +29,7 @@ Hồi ấy, Thầy từng nói: “Thầy trò mình đã leo đồi thế kỷ 
 
 Thầy kính thương, Thầy trò mình đang ở trên đỉnh đồi, đang ngồi yên bên nhau. Mình cùng thở chung một nhịp và mỉm cười ngắm nhìn sự mầu nhiệm của đất trời. Có Thầy trong lòng, con thấy mình thật đầy đủ, mạnh mẽ, giàu có và ấm áp.
 
-Mỗi lần hòa mình vào lòng đại chúng, con đều nhớ lại ước mơ lúc xưa của Thầy. Đó là xây dựng được một tăng thân dễ thương, có tình huynh đệ và có thực chất tu học. Thầy kính thương, có phải giấc mơ của Thầy đã thành hiện thực từ lâu? Giấc mơ đó đã trở thành hiện tại của chúng con và sẽ trở thành tương lai của các sư em sau này và của tất cả mọi người nữa.
+Mỗi lần hòa mình vào lòng đại chúng, con đều nhớ lại ước mơ lúc xưa của Thầy. Đó là xây dựng được một tăng thân dễ thương, có tình huynh đệ và có thực chất tu học. Thầy kính thương, có phải giấc mơ của Thầy đã thành hiện thực từ lâu? Giấc mơ đó đã trở thành hiện tại của chúng con, sẽ trở thành tương lai của các sư em và của tất cả mọi người nữa.
 
 {% image "article2023/sr-thao-nghiem/DSC_5381_e2.jpg" %}
 
