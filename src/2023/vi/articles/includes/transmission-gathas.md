@@ -1,5 +1,7 @@
 <p class="noIndent">Dưới đây là tổng hợp những bài kệ truyền đăng được trao trong năm qua:</p>
 
+<figure id="pageMarkerForGathas"></figure>
+
 <!-- beware: 2 empty spaces at line-end mark break -->
 
 > **Thầy Thích Chân Trời Đại Giác**
@@ -226,6 +228,8 @@
 > > Drops of compassion well up at the **source**  
 > > By transforming mud into lotuses   
 > > Faith in the three precious jewels deepens.
+
+<figure id="pageMarkerForGathasPage2"></figure>
 
 > **Chân An Đạo**
 > *(Hélène Nardot)*

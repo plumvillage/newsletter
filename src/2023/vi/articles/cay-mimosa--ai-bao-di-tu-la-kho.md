@@ -22,6 +22,8 @@ Nghe đến đó thì ai cũng phì cười. Từ đó, bài hát của cây b�
 
 Được ba má đến thăm là niềm vui lớn của những ai sống xa nhà, đặc biệt là người tu sĩ. Vui vì được gặp trực tiếp, hàn huyên mọi chuyện, và ba má có cơ hội tiếp xúc với pháp môn. Bên cạnh đó, đây còn là cơ hội để truyền thông, thấu hiểu, thông cảm và chấp nhận nhau. Một điều không kém phần quan trọng nữa là bánh *quà đầy mâm*, nào là bánh, là trái cây…, toàn là những món ngon ưa thích.
 
+{% image "article2023/mimosa-family-done/DSC_1778.JPG" %}
+
 Trong những lần ngồi chơi với ba má và gia đình, anh em chúng con thường hát cho ba má nghe. Lần đầu ba má nghe còn chưa quen và chưa hiểu hết nhưng cũng cảm được tinh thần vui tươi, phấn khởi trong lòng mỗi chúng con. Có một bài hát mà chúng con không bao giờ bỏ qua, đó là bài *Ai bảo đi tu là khổ*. Bài hát như một thông điệp nhắn nhủ tới ba má và gia đình: “Chúng con đi tu vui lắm, ba má không có chi phải lo sợ, buồn rầu cả. Nhà mình cứ yên tâm ở chúng con ạ”. Đặc biệt, có một câu trong bài hát mà chúng con hát đi hát lại nhiều lần nhằm nhấn mạnh để ba má nhớ cho: “Cứ mỗi năm, ba má đến thăm, đem bánh quà đầy mâm”. Thế là cả nhà lại có một trận cười, phá tan niềm mong mỏi các con sẽ trở về nhà trong ba má.
 
 Niềm vui lớn hơn nữa là kể từ chuyến thăm con, ba má đã biết ăn chay, đi chùa và nghe pháp thoại nhiều hơn. Từ đó, có sự chuyển hóa khổ đau, chấp nhận dễ dàng cho các con đi theo con đường hiểu và thương. Nhờ vậy, chúng con được nuôi dưỡng, hạnh phúc, yên tâm tu học và tinh tiến mỗi ngày.
@@ -39,8 +41,6 @@ Những ngày mới xuất gia ở Tổ đình Từ Hiếu, sáu anh em sadi nam
 Mỗi dịp làm biếng, chúng con thường được đi chơi. Lúc thì leo núi, khi thì lội suối, tắm biển… Có hôm đi từ tờ mờ sáng để ngắm bình minh, mặt trời ló rạng trên biển hay đi lúc chiều tà, leo lên ngọn núi cao, ngồi chơi trên mỏm đá. Chuyền nhau ly trà nóng, cái bánh rồi cùng ngắm cảnh núi đồi, trời mây và trăng sao… Trong không gian thênh thang, hùng vĩ ấy mà có được giây phút lắng yên nữa thì không còn gì tuyệt vời hơn. Bao suy tư, buồn phiền dường như được gửi trao cho Mẹ thiên nhiên ôm ấp và chuyển hoá. 
 
 Chúng con nhận ra rằng, sự thực tập trong đời sống hằng ngày không chỉ là khi ngồi thiền, tụng kinh và làm việc, mà còn là những giây phút vui vẻ, thoải mái khi đi chơi cùng nhau.
-
-{% image "article2023/mimosa-family-done/DSC_1778.JPG" %}
 
 <div class="verse"><p>Rồi mình lại đi chơi<br/>
 Lên đồi khi sương sớm<br/>

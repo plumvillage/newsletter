@@ -23,7 +23,7 @@ During those early years, I found it difficult to break out of my insular habits
 
 And yet Thay occupied these seemingly stressful circumstances with grace, ease, and spaciousness - without ego - and always sought to share this ease with those around him. These were especially the moments when I touched Thay’s compassion personally. For though he himself was not prone to complexes, or the ups and downs of afflictive emotions, he empathized with those who were. Thay was ever considerate of these sensitivities in others.
 
-{% image "article2023/sr-the-nghiem/image_edited.jpg" %}
+{% image "article2023/sr-the-nghiem-done/image_edited.jpg" %}
 
 I remember driving Thay from New Hamlet to Lower Hamlet as his attendant one day. I had recently learned how to drive stick-shift in the French countryside, but had not yet fully mastered it. Our morning drive along the country road was going smoothly and peacefully… until we approached a crossroads. The car suddenly jerked to a hard, unceremonious stop as the engine shuddered and died. I looked down at the stick-shift, flush with embarrassment at my blunder.
 
@@ -82,8 +82,6 @@ Over the years, Thay has steadfastly conveyed to us in equal measure the assuran
 ### Watching Over Us
 
 A number of years ago, during our biennial US Tour, the sangha was traveling by bus on our way to the next retreat. It was late at night, and most of the sangha was sleeping. I happened to be sitting in the front near Thay and the bus driver. Thay turned, smiled to me, and said in Vietnamese, “We need to help the bus driver stay awake.” Hearing this, I endeavored to keep my eyes on the bus driver. Eventually, though, my eyelids drooped, and soon I dozed off. When I awoke from my nap, I sheepishly looked over and was met with a familiar and comforting sight: Thay sitting upright, alert, with his eyes on the road before us. A feeling of gratitude arose, along with the thought, *Thay is watching over us…*
-
-{% image "article2023/sr-the-nghiem/ctn zen circle 3 2017 BCM_edited.jpg" %}
 
 ### Assurance
 

@@ -919,7 +919,7 @@ article ul li::before {
 
 .positioned-text-box {
     position: absolute;
-    box-shadow: inset 0 0 4px 2px rgba(255, 0, 0, 0.199);
+    /* box-shadow: inset 0 0 4px 2px rgba(255, 0, 0, 0.199); */
     /* positioned in element style */
 }
 
@@ -1209,7 +1209,7 @@ figure#article2023sr-dinh-nghiem-thay-van-luon-la-thay1e {
 figure#article2023sr-chan-duc-interview-doneIMG9782e {
     margin-top: 4mm;
     column-span: all;
-    width: 73%;
+    width: 75%;
     margin-left: auto;
     margin-right: auto;
     float: none;
@@ -1307,3 +1307,10 @@ figure#article2023sr-tuyet-nghiem-doneimage-3 img {
     font-style: normal;
 }
 
+.PAGE-OF-article-lang-mai-nam-qua:not(.PAGE-OF-Lang-Mai-Nam-Qua-A4-Final-No-Text7-Peace-ACND):not(.PAGE-OF-Lang-Mai-Nam-Qua-A4-Final-No-Text8-Monastics-On-Tour-1):not(.PAGE-OF-Lang-Mai-Nam-Qua-A4-Final-No-Text11-40-Years-PV-2):not(.PAGE-OF-Lang-Mai-Nam-Qua-A4-Final-No-Text14-Rains-Retreat-2022):not(.PAGE-OF-Lang-Mai-Nam-Qua-A4-Final-No-Text15-Novice-Ordinationn2):not(.PAGE-OF-Lang-Mai-Nam-Qua-A4-Final-No-Text16-Lampsn2):not(.PAGE-OF-article2023Lang-mai-nam-quatruyen-dang-an-cu-2022122LampTransmission2022img8217e):not(.PAGE-OF-pageMarkerForGathas):not(.PAGE-OF-pageMarkerForGathasPage2):not(.PAGE-OF-Lang-Mai-Nam-Qua-A4-Final-No-Text18-Thays-Memorial-1) .pagedjs_margin-bottom {
+    display: none;
+}
+
+.full-page-background-img-bleed.last-article-element::after {
+    content: none !important;
+}

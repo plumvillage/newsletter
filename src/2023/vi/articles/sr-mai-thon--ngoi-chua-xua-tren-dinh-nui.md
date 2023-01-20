@@ -7,11 +7,11 @@ Bạch Thầy kính thương,
 
 Thắm thoát mà đã hơn một năm từ khi hai chị em con về tu viện Nhập Lưu để nương chúng tu học và phụng sự. Thời gian tuy không dài, nhưng cũng có thật nhiều chuyện để kể Thầy nghe, cũng như là một chút đóng góp vào ấn bản Lá thư Làng Mai mừng xuân Quý Mão.
 
-Bây giờ, mỗi khi chắp tay lên thưa chuyện với đại chúng, ai cũng nói: "Kính bạch giác linh Thầy (Sư Ông)", nhưng không hiểu sao, đối với con và một vài chị em, chúng con vẫn thường thưa: "Kính bạch Thầy (Sư Ông)”. Chúng con vẫn thấy Thầy luôn còn đó với chúng con, gần gũi và rất thật trong mỗi hành động, nói năng, tư duy và hành xử. Trong con, không hề có một sự gián đoạn nào trong mối liên hệ thầy trò. Vì vậy, viết thư cho Thầy là một điều gì đó thật tự nhiên, cần thiết và nuôi dưỡng cho con.
+Bây giờ, mỗi khi chắp tay lên thưa chuyện với đại chúng, ai cũng nói: “Kính bạch giác linh Thầy (Sư Ông)”, nhưng không hiểu sao, đối với con và một vài chị em, chúng con vẫn thường thưa: “Kính bạch Thầy (Sư Ông)”. Chúng con vẫn thấy Thầy luôn còn đó với chúng con, gần gũi và rất thật trong mỗi hành động, nói năng, tư duy và hành xử. Trong con, không hề có một sự gián đoạn nào trong mối liên hệ thầy trò. Vì vậy, viết thư cho Thầy là một điều gì đó thật tự nhiên, cần thiết và nuôi dưỡng cho con.
 
-Buổi đầu mùa dịch Covid, khoảng ba năm trước, một sáng thức dậy con bỗng nảy ra ý tưởng viết cuốn "Nẻo về của chúng con", như Thầy từng viết *Nẻo về của ý* vậy. “Tại sao không nhỉ?” con thì thầm, dù biết mình hơi tham vọng một tí. Dù lớn hay nhỏ, đó sẽ là những lời tâm tình với Thầy về những gì mà con đã và đang đi qua. 
+Buổi đầu mùa dịch Covid, khoảng ba năm trước, một sáng thức dậy con bỗng nảy ra ý tưởng viết cuốn “Nẻo về của chúng con”, như Thầy từng viết *Nẻo về của ý* vậy. “Tại sao không nhỉ?” con thì thầm, dù biết mình hơi tham vọng một tí. Dù lớn hay nhỏ, đó sẽ là những lời tâm tình với Thầy về những gì mà con đã và đang đi qua. 
 
-Sau đây là một vài điều nho nhỏ mà con đã ghi chép vào "Nẻo về của chúng con", giống như mỗi dịp cuối năm người ta thường dâng lên Ngọc Hoàng sớ Táo Quân vậy. “Sớ” này con cũng chỉ xin tổng kết năm 2022 để dâng lên Thầy với hy vọng là Thầy sẽ mỉm cười thật vui.
+Sau đây là một vài điều nho nhỏ mà con đã ghi chép vào “Nẻo về của chúng con”, giống như mỗi dịp cuối năm người ta thường dâng lên Ngọc Hoàng sớ Táo Quân vậy. “Sớ” này con cũng chỉ xin tổng kết năm 2022 để dâng lên Thầy với hy vọng là Thầy sẽ mỉm cười thật vui.
 
 ## Điệu nào cũng múa
 
@@ -23,7 +23,7 @@ Sau những ngày Tâm tang, chị em con bảo nhau rằng có lẽ Sư Ông mu
 
 Tuy ít người nhưng những chương trình sinh hoạt vẫn được duy trì đầy đủ. Chúng con đi tặng chả giò, tổ chức ngày Mở cửa để làm quen với hàng xóm xung quanh nơi ở mới, rồi lên thời khóa cho ngày Giáng sinh, Tết tây với những bài pháp thoại, đốt lời khấn nguyện đầu năm và cùng làm lễ đón năm mới vào nửa đêm. Vào dịp Tết Nguyên đán, chúng con vẫn gói bánh chưng, bánh tét, cúng đại thí thực, tổ chức tất niên, thơ nhạc thiền và có cả chuông trống Bát Nhã đón Giao thừa. Sáng mồng Một Tết, chúng con cùng có mặt để chúc Tết Thầy, bói Kiều và thăm phòng quý sư cô. Chúng con còn mở hội chợ Xuân đón khoảng 200 người đến tham dự. Gian hàng bói Kiều trong hội chợ Xuân làm ăn rất khấm khá. Hai sư cô thay phiên nhau giải Kiều cho đến ba giờ chiều mới xong đó, thưa Thầy.
 
-Sau Tết, mấy chị em mệt nhoài nhìn nhau nói: "Mình ít người mà đúng là điệu nào cũng múa". Thì quà Tết của chúng con dâng Thầy có gì ngoài mấy điệu múa đó đâu!
+Sau Tết, mấy chị em mệt nhoài nhìn nhau nói: “Mình ít người mà đúng là điệu nào cũng múa”. Thì quà Tết của chúng con dâng Thầy có gì ngoài mấy điệu múa đó đâu!
 
 ## Mở ra một chương mới
 
@@ -62,7 +62,7 @@ Con luôn muốn cảm ơn những người đi trước. Cảm ơn những va v
 
 ## Chuyện con vịt
 
-Một hôm đi thiền hành bên hồ nước, chúng con phát hiện ra một con vịt con đang bơi một mình giữa hồ. Thông thường vịt đi có đôi, có đàn. Lâu lâu bị lạc đàn, chúng kêu cạc cạc cạc rồi nghiêng đầu lắng nghe xem có tiếng đáp lại hay không. Rồi những con vịt khác theo hướng của tiếng gọi mà bay đến bên cạnh. Vịt mà hạ cánh thì không thanh tao lắm đâu. Nó làm một cái "đụi" nếu ở trên mặt đất, còn nếu trên nước thì sẽ làm nước văng tung tóe. Đứng ngắm con vịt, con đoán nó mới chỉ đang tuổi lỡ nhỡ, mới lớn nên chưa có đôi. Chắc rồi nó cũng sẽ tìm ra đàn của nó thôi.
+Một hôm đi thiền hành bên hồ nước, chúng con phát hiện ra một con vịt con đang bơi một mình giữa hồ. Thông thường vịt đi có đôi, có đàn. Lâu lâu bị lạc đàn, chúng kêu cạc cạc cạc rồi nghiêng đầu lắng nghe xem có tiếng đáp lại hay không. Rồi những con vịt khác theo hướng của tiếng gọi mà bay đến bên cạnh. Vịt mà hạ cánh thì không thanh tao lắm đâu. Nó làm một cái “đụi” nếu ở trên mặt đất, còn nếu trên nước thì sẽ làm nước văng tung tóe. Đứng ngắm con vịt, con đoán nó mới chỉ đang tuổi lỡ nhỡ, mới lớn nên chưa có đôi. Chắc rồi nó cũng sẽ tìm ra đàn của nó thôi.
 
 Cứ ngỡ là như vậy cho đến hôm sau, khi đi thiền hành ngang qua bờ hồ con vẫn thấy nó, một mình đang rỉa cánh với vẻ cam chịu. “Hay bố mẹ nó để lại một cái trứng bên hồ này trong một chuyến du lịch ngang Nhập Lưu, rồi cất cánh bay đi, để lại em vịt tự nở, tự lo thân này? Có trời mới biết!”. Quý sư cô tự hỏi nhau và đưa ra rất nhiều giả định.
 
@@ -74,7 +74,7 @@ Bỗng một buổi sáng đi thiền hành, chúng con không thấy nó đâu 
 
 Con tự hỏi: “Tại sao mình lại có cái tâm trạng buồn thương như vậy cho một con vịt trời, nay đi mai ở?”. Rồi chợt nhận ra hình ảnh con vịt lẻ loi đã chạm tới nỗi cô đơn, tủi thân nằm thật sâu trong lòng. Có lẽ nỗi cô đơn này đã được truyền từ đời này sang đời khác. Vậy nên mới có một quyển sách có tựa đề là *Trăm năm cô đơn*. Mình đến trong đời này một mình thì khi ra đi cũng sẽ là một chuyến độc hành. Mình tự thương cho sự cô đơn, lẻ loi của mình cho nên nỗi niềm đó cũng lan tỏa đến với con vịt. Nhưng thật ra, tự thân con vịt đâu có thấy vậy. Nó được sinh ra, lớn lên và sống cuộc đời của nó như một lẽ thường tình. Vậy nên, có gì đâu mà nó phải buồn, phải hờn hay phải trách.
 
-Khi nhận diện và gọi tên được những cảm xúc tủi thân, cô đơn và lẻ loi, lòng con bỗng thấy nhẹ nhõm. Cái man mác buồn thương cũng tự dưng biến mất. Con mỉm một nụ cười, thấy thấm thía lời Thầy: "Gọi được tên thật của nó rồi thì mình sẽ tự do". May mắn cho con, bây giờ đã có đường đi rồi, con không còn lo sợ nữa. Con có thể cô đơn nhưng không cô độc.
+Khi nhận diện và gọi tên được những cảm xúc tủi thân, cô đơn và lẻ loi, lòng con bỗng thấy nhẹ nhõm. Cái man mác buồn thương cũng tự dưng biến mất. Con mỉm một nụ cười, thấy thấm thía lời Thầy: “Gọi được tên thật của nó rồi thì mình sẽ tự do”. May mắn cho con, bây giờ đã có đường đi rồi, con không còn lo sợ nữa. Con có thể cô đơn nhưng không cô độc.
 
 {% image "article2023/sr-mai-thon/TMT.1.JPG" %}
 

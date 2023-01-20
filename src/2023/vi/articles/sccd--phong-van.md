@@ -37,6 +37,8 @@ Hôm qua có một thiền sinh tới gặp Chân Đức, cô vốn làm công v
 
 Đối với Chân Đức, chỉ cần hiến tặng một nơi như thế là đủ rồi. Chân Đức không thấy có bất cứ áp lực nào khác hơn việc chăm sóc Làng Mai, để nơi đây luôn là một nơi nương tựa cho những ai cần đến. Tuy vậy, chúng ta cũng cần nhìn lại và tự hỏi chính mình: “Ta đã làm hết những gì có thể làm chưa?”. Và nếu có ai đó nói là chưa, thì ta hãy lắng nghe họ và tự hỏi: “Có điều gì ta có thể làm thêm nữa hay không?”. Hãy thành thật với chính mình! Những gì ta có thể làm được cũng còn tùy thuộc vào sức khỏe của chính ta. Rất nhiều người đã bày tỏ niềm biết ơn rất lớn của họ đối với tăng thân. Chúng ta cũng cần nhắc mình về điều đó!
 
+{% image "article2023/sr-chan-duc-interview-done/IMG_9782_e.jpg" %}
+
 ### BBT: Sư cô thấy pháp môn thực tập của Làng Mai có ảnh hưởng như thế nào đến cuộc khủng hoảng khí hậu hay tình trạng chiến tranh hiện nay?
 
 **Sư cô Chân Đức:** Sự thực tập không thể có ảnh hưởng và làm thay đổi tình trạng ngay lập tức. Những điều kiện tạo nên chiến tranh và tình trạng biến đổi khí hậu đã tích tụ trong một thời gian dài. Giờ đây, ta phải hết sức cẩn trọng để không làm gì có thể tạo thêm điều kiện cho chiến tranh xảy ra trong tương lai.
@@ -81,6 +83,3 @@ Thời điểm Chân Đức có được những cái thấy rất sáng tỏ th
 
 **Sư cô Chân Đức:** Mình giận vì mình nghĩ người mà mình giận là người đang gây hại. Đó là vấn đề đầu tiên. Mình xem người kia là người đang gây hại. Nhưng nếu nhìn sâu vào điều người đó đang làm và những nguyên nhân, điều kiện cũng như tất cả những người có liên quan tới hành động gây hại đó, mình sẽ thấy rằng đó không phải là vấn đề cá nhân. Ví dụ, tổng thống Bush hay tổng thống Trump có cả hệ thống chống lưng cho họ, đó là những người dân đã bỏ phiếu hay những người đang cố vấn cho họ. Vì thế lên án hay chỉ trích một cá nhân là khờ dại. Nếu nhìn cho sâu, ta thấy họ cũng là nạn nhân. Chúng ta có thể nói tình trạng hâm nóng địa cầu là do khai thác nhiên liệu hóa thạch hay do ngành nông nghiệp, v.v. Nhưng đằng sau đó là gì? Chính là lòng tham và sự vô minh. Loài người chúng ta có những tâm hành như tham đắm và si mê. Khi không biết cách để chuyển hóa thì chúng sẽ gây cho ta rất nhiều khổ đau. Vậy nên việc chúng ta có khả năng trở về với tự thân và chăm sóc những tâm hành của mình, để không góp phần tạo thêm chiến tranh, hành động tàn phá hay gây hại nào nữa là một điều rất quan trọng.
 
-<div class="article-end"></div>
-
-{% image "article2023/sr-chan-duc-interview-done/IMG_9782_e.jpg" %}

@@ -35,8 +35,6 @@ Là một bậc thầy tâm linh của thế giới nhưng Thầy sống bình d
 
 {% image "article2023/sr-dang-nghiem/SrDangN-e2.jpg" %}
 
-<!-- {% image "article2023/sr-dang-nghiem/Thay100Day-3_e.jpg" %} -->
-
 Giây phút nhận tin Thầy qua đời, chúng con đã ngồi rất yên và thở rất sâu trong thiền đường Sao Trên Biển. Chúng con đi thiền hành với nhau trước khi họp về chi tiết các buổi lễ. Thầy đã cho chúng con thời gian để chuẩn bị tinh thần cũng như mọi chi tiết khác. Vì vậy, chỉ hai tiếng sau, bàn thờ đã được thiết lập. Thời khóa tu tập cho suốt tuần lễ Tâm tang cũng đã sẵn sàng.
 
 Bảy ngày Tâm tang là bảy ngày Pháp hội mà chúng con rất trân quý. Tất cả cơ sở vật chất cũng như các pháp môn đều là di sản Thầy trao truyền. Chúng con thực tập im lặng hùng tráng, ngồi yên, thiền hành, dùng cơm quá đường, tụng giới, chia sẻ những kỷ niệm với Thầy hay sự thực tập để tiếp xúc với Thầy trong mỗi cá nhân chúng con.
