@@ -12,7 +12,7 @@ author: Phỏng vấn các vị xuất gia trẻ - phần III
 <!-- Ở ngoài đời, tại nơi làm việc, nếu ai đó nhắc nhở mình, họ trông đợi một câu trả lời và phản hồi nhanh. Nhưng trong tu viện, người nhận được lời nhắc nhở có thể có rất nhiều tự do và tuệ giác. -->
 <!-- Trước hết, với bất kì lời nhắc nhở nào, con đều cố gắng tiếp nhận với thật nhiều lòng biết ơn. Vì -->
 
-> <p>“Sự thực tập sống chung phòng với huynh đệ giúp con có nhiều sự để tâm hơn về nhu cầu của những người xung quanh và  những nhu cầu ấy thường rất khác với con. Càng ngày con càng học được thêm về cách tiếp xử với huynh đệ, kiểm tra lại với người kia về tri giác của mình và lắng nghe những gì được nói hay chưa được nói ra. Đó là những điều con thấy rất thú vị.”</p><cite>Sư chú Trời Định Túc</cite>
+> <p>“Sự thực tập sống chung phòng với huynh đệ giúp con có nhiều sự để tâm hơn về nhu cầu của những người xung quanh và những nhu cầu ấy thường rất khác với con. Càng ngày con càng học được thêm về cách tiếp xử với huynh đệ, kiểm tra lại với người kia về tri giác của mình và lắng nghe những gì được nói hay chưa được nói ra. Đó là những điều con thấy rất thú vị.”</p><cite>Sư chú Trời Định Túc</cite>
 
 > “Con thật sự thích tất cả các uy nghi. Khi thấy sự thực tập uy nghi tạo nên sự hòa hợp trong đại chúng và giúp cho con cảm thấy thoải mái hơn. Con cũng cảm thấy an tâm, biết rằng quý thầy quý sư cô cũng đang thực tập uy nghi và giới luật. Cảm nhận được sự an toàn và rộng rãi trong lòng thì đó cũng là một hình thức của tự do.”<cite>Sư chú Trời Niệm Xả</cite>
 
