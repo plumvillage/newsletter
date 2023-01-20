@@ -33,13 +33,13 @@ Lâu lâu, Thầy đi quanh bếp, mở tủ lạnh xem có gì trong đó. Có 
 
 Thỉnh thoảng, Thầy đi thăm xóm Mới, xóm Hạ, Sơn Hạ, xóm Thượng và đôi khi ở lại đó nhiều ngày. Thầy không quên dẫn chúng con đi lại trên những con đường tùng thẳng tắp, những con đường huyền thoại của Thầy. Trong lúc đi thăm các thầy đang làm việc trong văn phòng xóm Thượng, Thầy bắt gặp trên kệ một tượng Bụt đứng bằng đồng, chân và thân hình hơi cong, rất nghệ thuật. Thầy ôm Bụt trong lòng đi về cốc, hướng dẫn thị giả dọn sạch chiếc bàn gỗ kê sát tường ngay chính giữa phòng. Trên tường là tấm thư pháp Thầy vẽ vòng tròn. Thầy dạy thị giả dẹp hết đồ đạc trên bàn rồi đặt tượng Bụt lên, một bên trước tấm thư pháp. Thầy còn chỉ thị giả xoay tượng một chút để thấy rõ dáng Bụt đứng hơi cong. Sáng hôm sau thức dậy, Thầy đổi ý. Thầy hài lòng hơn khi tượng Bụt được đặt lại vào ngay chính giữa trước vòng tròn thư pháp. Thị giả pha trà mời Thầy, vừa đặt ly trà tạm trên bàn trước khi dâng lên Thầy là Thầy làm dấu dẹp ly trà ngay, không được đặt bất cứ một đồ vật gì trên bàn Bụt ấy. Mỗi lần thị giả quên là mỗi lần Thầy lại nhắc ngay.
 
-Tháng 07 năm 2015, Thầy quyết định đi Mỹ để theo chương trình của trung tâm phục hồi chức năng của trường đại học California tại San Francisco (UCSF).
+Tháng Bảy năm 2015, Thầy quyết định đi Mỹ để theo chương trình của trung tâm phục hồi chức năng của trường đại học California tại San Francisco (UCSF).
 
 Sáu tháng sau, vào tháng Giêng năm 2016, Thầy quyết định về lại Pháp. Tháng 12 cùng năm ấy, Thầy quyết định đi Thái Lan.
 
-Vào tháng 08 năm 2017, Thầy đi Việt Nam để về thăm Tổ đình Từ Hiếu. Chưa đến 24 giờ, Thầy rời Tổ đình về lại Thái Lan trong lúc đại chúng đang làm lễ Tự tứ.
+Vào tháng Tám năm 2017, Thầy đi Việt Nam để về thăm Tổ đình Từ Hiếu. Chưa đến 24 giờ, Thầy rời Tổ đình về lại Thái Lan trong lúc đại chúng đang làm lễ Tự tứ.
 
-Vào tháng 10 năm 2018, Thầy trở về Tổ đình.
+Vào tháng Mười năm 2018, Thầy trở về Tổ đình.
 
 Cuối năm 2019, Thầy về lại Thái Lan để tái khám. Sau khi tái khám và làm những gì cần làm xong, Thầy trở về Tổ đình và sống ở đây cho đến ngày cuối.
 
@@ -63,10 +63,10 @@ Có lần ở San Francisco, vừa nghe CD những bài thơ do chính Thầy đ
 
 Còn những giây phút ngoạn mục nhất nữa: đó là những lúc Thầy đứng một mình mà không cần thị giả đỡ một bên. Hôm đó đến giờ cơm trưa, Thầy muốn dùng cơm luôn trong tư thế đứng! Nét mặt Thầy trò ai cũng rạng rỡ và phấn khởi vô cùng. Lại có những lúc Thầy đứng thật thẳng trên xe đẩy, các thị giả cho xe đi vòng vòng, chầm chậm trong thất Nhìn Xa. Sao lạ quá, Thầy không nói gì nhưng Thầy ở đâu là nơi đó ấm cúng, đông vui và tràn đầy năng lượng thương yêu.
 
-Trong thời gian chùa Tổ được trùng tu, Thầy đã đồng ý đi biển Thuận An, biển Đà Nẵng nhiều lần để tránh bụi và tiếng ồn. Thầy cũng xuống tắm biển cùng với các thầy thị giả. Có lẽ lâu lâu lắm rồi, từ bao giờ, 60 năm, hay 70 năm, Thầy mới được ngâm cả người vào lòng nước biển ấm áp? Thầy muốn đi ra khơi, xa hơn nữa, xa hơn nữa, và xa hơn nữa. Đó là hôm Thầy chịu chơi nhất và cũng là lần tắm biển vui nhất trong đời của cả thầy lẫn trò. Có phải vậy không thưa Thầy?
+Trong thời gian chùa Tổ được trùng tu, Thầy đã đồng ý đi biển Thuận An, biển Đà Nẵng nhiều lần để tránh bụi và tiếng ồn. Thầy cũng xuống tắm biển cùng với các thầy thị giả. Có lẽ lâu lắm rồi, từ bao giờ, 60 năm, hay 70 năm, Thầy mới được ngâm cả người vào lòng nước biển ấm áp. Thầy muốn đi ra khơi, xa hơn nữa, xa hơn nữa, và xa hơn nữa. Đó là hôm Thầy chịu chơi nhất và cũng là lần tắm biển vui nhất trong đời của cả thầy lẫn trò. Có phải vậy không thưa Thầy?
 
 Đến năm 2020, Thầy yếu đi nhiều. Thầy không còn dạo quanh chùa và không còn đi thăm liêu Sư Cố nữa. Nhưng thở vào, chúng con ý thức rằng Thầy đang còn *sống*; thở ra, chúng con trân quý và mỉm cười với sự sống. Chúng con vẫn tiếp tục tận hưởng từng giây phút bên Thầy mà không để thương tiếc hay lo lắng chiếm ngự. Thầy đã cho chúng con thấy rằng với một thân thể già yếu và tật bệnh, với những cơn đau nhức, Thầy trò vẫn có thể sống an vui trong mọi hoàn cảnh với sự thực tập hiện pháp lạc trú mà đức Thế Tôn đã dạy.
 
 {% image "article2023/sr-dinh-nghiem--thay-van-luon-la-thay/image5.jpg" %}
 
-Trong suốt bảy năm, chúng con nhận ra được mọi hành vi cho đến nhận thức của Thầy đều là sự biểu hiện của một tàng thức đã được chuyển hóa, một tàng thức chứa đựng đầy hoa trái của một bậc chân tu. Những hoa trái đó có thể thay đổi hoàn toàn hoàn cảnh xung quanh. Những gì cần làm, Thầy đã làm với tất cả tình thương. Rồi với ý thức sáng tỏ, Thầy đã quyết định trở thành mây một cách lặng lẽ, dứt khoát, như bao nhiêu lần Thầy đã từng làm những quyết định. Đám mây của Thầy đã bao trùm và ôm lấy các con của Thầy trong một bầu không khí ấm cúng và tĩnh lặng, bấy giờ và mãi mãi.
+Trong suốt bảy năm, chúng con nhận ra được mọi hành vi cho đến nhận thức của Thầy đều là sự biểu hiện của một tàng thức đã được chuyển hóa, một tàng thức chứa đựng đầy hoa trái của một bậc chân tu. Những hoa trái đó có thể thay đổi hoàn toàn hoàn cảnh xung quanh. Những gì cần làm, Thầy đã làm với tất cả tình thương. Rồi với ý thức sáng tỏ, Thầy đã quyết định trở thành mây một cách lặng lẽ, dứt khoát, như bao nhiêu lần Thầy đã từng làm những quyết định. Đám mây của Thầy đã bao trùm và ôm lấy các con của Thầy trong một bầu không khí ấm cúng và tĩnh lặng, bây giờ và mãi mãi.
