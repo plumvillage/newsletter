@@ -1224,6 +1224,16 @@ figure#article2023Lang-mai-nam-quatruyen-dang-an-cu-2022122LampTransmission2022i
     float: none;
 }
 
+figure#article2023sr-tung-hac-doneta-co-la-ta-ta-moi-depedit {
+    margin-top: 4mm;
+    column-span: all;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    float: none;
+}
+
+
 .article-loc-uyen-mua-an h2.author {
     margin-bottom: 4mm;
 }

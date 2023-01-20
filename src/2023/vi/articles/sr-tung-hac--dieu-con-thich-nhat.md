@@ -49,8 +49,6 @@ Con rất hạnh phúc mỗi khi khám phá bản thân mình, hiểu mình, th�
 
 Những trận tuyết đầu mùa đã rơi. Vạn vật trắng xóa với nét đẹp huyền ảo. Chúng con đi bộ vào rừng ngắm tuyết, uống trà, lắng nghe dòng suối róc rách giữa hai bờ tuyết phủ trắng xóa và ăn siro đá bào từ tuyết cho Sư Ông. Con mời mọi người cùng chúng con tận hưởng và trân quý những giây phút quý giá này.
 
+<div class="article-end"></div>
 
-
-{% image "article2023/sr-tung-hac-done/ta-co-la-ta-ta-moi-dep.jpg" %}
-
-
+{% image "article2023/sr-tung-hac-done/ta-co-la-ta-ta-moi-dep_edit.jpg" %}
