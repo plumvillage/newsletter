@@ -27,7 +27,7 @@ Khi bọn trẻ đều đã vào bên trong để thăm quan mộ của con chó
 
 Lần đầu tiên loài người tổ chức một chuyến đi rất xa, đi lên mặt trăng. Apollo 11 là tên của đoàn thám hiểm đó. Tốn không biết bao nhiêu công sức, tiền bạc để gửi các phi hành gia lần đầu tiên lên mặt trăng. 
 
-Khi phi thuyền bay ra ngoài bầu khí quyển, các phi hành gia đã chụp được những hình ảnh của trái đất lần đầu tiên trong lịch sử.  Ngày xưa, thầy đã viết một bài thơ (về sự kiện này) có tên *An tịnh tâm hành*: 
+Khi phi thuyền bay ra ngoài bầu khí quyển, các phi hành gia đã chụp được những hình ảnh của trái đất lần đầu tiên trong lịch sử. Ngày xưa, thầy đã viết một bài thơ (về sự kiện này) có tên *An tịnh tâm hành*: 
 
 <div class="verse"><p>Trên đường lên nguyệt cầu<br/>
 Quay nhìn lại<br/>
@@ -49,7 +49,7 @@ Nhìn thấy trái đất, một niềm cảm thương lớn trào ra trong trá
 
 {% image "article2023/su-ong--dharma-talk/AS08-14-2383_clipped.jpg", "", 'Earthrise, 1968, William Anders<a class="note" href="https://www.nasa.gov/image-feature/apollo-8-earthrise">Nguồn hình ảnh: https://www.nasa.gov/image-feature/apollo-8-earthrise.</a>' %}
 
-Một phi hành gia không gian, khi về lại trái đất đã nói: khi đi, chúng tôi đi với tư cách những nhà chuyên môn, nhưng khi trở về, chúng tôi là những con người thật sự (“We went to the moon as technicians; we returned as humanitarians.”) Chúng ta cần có một chuyến đi như vậy để thấy rõ mình là ai, hành tinh của mình quý giá đến thế nào, để thấy rằng chúng ta quá dại dột. Chúng ta ở trong đó mà không biết cái đó là cái gì, không trân quý nó và để cho nó mất đi. 
+Một phi hành gia không gian, khi về lại trái đất đã nói: khi đi, chúng tôi đi với tư cách những nhà chuyên môn, nhưng khi trở về, chúng tôi là những con người thật sự (“We went to the moon as technicians; we returned as humanitarians”). Chúng ta cần có một chuyến đi như vậy để thấy rõ mình là ai, hành tinh của mình quý giá đến thế nào, để thấy rằng chúng ta quá dại dột. Chúng ta ở trong đó mà không biết cái đó là cái gì, không trân quý nó và để cho nó mất đi. 
 
 Đối với sự sống cũng vậy. Mỗi người chúng ta đều đang có sự sống, nhưng chúng ta không biết trân quý sự sống. Chúng ta để thì giờ qua đi một cách dại dột và oan uổng. Chúng ta tiêu phí thì giờ và sự sống giống như lấy tờ 100 đô-la đem đốt. Đốt hết tờ này đến tờ khác. Chúng ta làm khổ nhau và đi tìm những cái chúng ta cho là hạnh phúc, trong khi đó chúng ta chất chứa khổ đau và tạo ra khổ đau cho nhau. Điều đó đang xảy ra bây giờ, ở đây, vậy mà chúng ta không thấy. Nhiều khi phải đi rất xa để nhìn lại, chúng ta mới thấy thiên đường chính là nơi chúng ta đang sống. 
 
