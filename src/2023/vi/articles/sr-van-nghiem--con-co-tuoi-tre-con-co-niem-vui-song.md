@@ -9,17 +9,17 @@ Con đã về lại tu viện Mộc Lan sau những ngày đi biển cùng huynh
 
 ## Một bàn tay đưa cho nắng ngọt
 
-Mỗi lần bắt gặp hình ảnh Thầy nhìn bàn tay là lòng con lại xốn xang khi Thầy dạy: “Con hãy tập viết hai tay, để khi đau tay này thì mình còn tay kia nữa!” Rồi Thầy nhìn bàn tay đau của Thầy với vẻ đầy thông cảm. Câu nói ấy đã cho con cảm hứng để cầm bút với chủ đề: “Một bàn tay đưa cho nắng ngọt, một bàn tay giữ con đường mây” (trích từ tác phẩm *Trời phương ngoại* của Thầy).
+Mỗi lần bắt gặp hình ảnh Thầy nhìn bàn tay là lòng con lại xốn xang khi Thầy dạy: “Con hãy tập viết hai tay, để khi đau tay này thì mình còn tay kia nữa!”. Rồi Thầy nhìn bàn tay đau của Thầy với vẻ đầy thông cảm. Câu nói ấy đã cho con cảm hứng để cầm bút với chủ đề: “Một bàn tay đưa cho nắng ngọt, một bàn tay giữ con đường mây” (trích từ tác phẩm *Trời phương ngoại* của Thầy).
 
 *Bàn tay đưa cho nắng ngọt* là bàn tay nào trong đôi tay tài hoa của Thầy? Con cảm nhận nhiều hương vị ngọt ngào của quê hương trong *Thơ từng ôm và mặt trời từng hạt.* Những khi xa quê con như được trở về cùng tuổi thơ qua những câu thơ:
 
 <div class="verse"><p>Nắng trên không gian và thơ trên nắng,<br/>
 Thơ làm ra nắng, nắng ra thơ<br/>
 Mặt trời cất chứa trong lòng trái khổ qua<br/>
-…Khói ấm đưa thơ về trên trang ngoại sử…<br/>
-…Mồ hôi giọt xuống đất khô, thơ bay trên luống cày…</p></div>
+… Khói ấm đưa thơ về trên trang ngoại sử…<br/>
+… Mồ hôi giọt xuống đất khô, thơ bay trên luống cày…</p></div>
 
-Những ngày sau khóa tu tâm tang, con có cơ hội ngồi một mình trong những lúc cách ly. Hình ảnh Thầy ngồi yên bên trang sách cùng nụ cười hiền và ánh mắt tỏa sáng như khắc lại trong lòng con bền bỉ và sống động. Để rồi lời kinh, câu thơ và tiếng nhạc như đọng lại trong hư không yên lắng tình Thầy. Con cảm nhận một tình thương dịu ngọt như lời ca dao mẹ thường ru cho con ngủ ngon trong vòng tay an toàn của mẹ. Bàn tay Thầy chuyển pháp nhẹ nhàng khi chỉ vào đóa hoa, cây bút hay tờ giấy làm minh họa bên nụ cười hóm hỉnh tươi vui. Giờ đây, mỗi khi nhìn bông hoa, chiếc lá… con như thấy nụ cười cùng ánh mắt ngời sáng của Thầy. Bàn tay ấy đã giữ lại con đường mây cho chúng con hôm nay.
+Những ngày sau khóa tu Tâm tang, con có cơ hội ngồi một mình trong những lúc cách ly. Hình ảnh Thầy ngồi yên bên trang sách cùng nụ cười hiền và ánh mắt tỏa sáng như khắc lại trong lòng con bền bỉ và sống động. Để rồi lời kinh, câu thơ và tiếng nhạc như đọng lại trong hư không yên lắng tình Thầy. Con cảm nhận một tình thương dịu ngọt như lời ca dao mẹ thường ru cho con ngủ ngon trong vòng tay an toàn của mẹ. Bàn tay Thầy chuyển pháp nhẹ nhàng khi chỉ vào đóa hoa, cây bút hay tờ giấy làm minh họa bên nụ cười hóm hỉnh tươi vui. Giờ đây, mỗi khi nhìn bông hoa, chiếc lá… con như thấy nụ cười cùng ánh mắt ngời sáng của Thầy. Bàn tay ấy đã giữ lại con đường mây cho chúng con hôm nay.
 
 {% image "article2023/sr-van-nghiem-done/IMG_1786.JPG" %}
 
