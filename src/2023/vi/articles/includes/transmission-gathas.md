@@ -152,31 +152,31 @@
 
 > **Chân Hỷ Vân - Vrai Joyeux Nuage**
 > *(Jacqueline Thouvenot)*
-> > **Làn Mây Hoan Hỉ** bay nhẹ ngang bầu trời  
-> > Làm mát nắng trưa rộng lượng của phương nam  
-> > Xúc chạm sự trị liệu với nụ cười của sự tương tức  
-> > Nếm được sự êm dịu và an bình của bản môn: mọi việc đã hoàn hảo rồi!
+> > Le **Joyeux Nuage** lentement dans le ciel 
+> > Rafraîchit le généreux soleil du midi
+> > Toucher la guérison avec le sourire de l’inter-être 
+> > Goûter la douceur et la paix de l’ultime: tout est déjà parfait!
 
 > **Vraie Terre de Paix**
 > *(Marie-Ange Amiel)*
-> > Trên **Vùng Đất Bình An** tìm có nguồn vui tươi của sự có mặt  
-> > Nơi hơi thở nhẹ của từ bi dìu dắt mỗi hành động  
-> > Trong đại dương của trí tuệ, tiếng khóc của sự bất công tan biến đi  
-> > Nét đẹp của sự sống rạng rỡ trong sự im lặng.
+> > Dans la **Terre de Paix** se trouve la source joyeuse de l’instant
+> > Où le souffle tranquille de la compassion guide l’action
+> > Dans l’océan de sagesse, les bruits de l’injustice s’effacent
+> > Le vivant dans toute sa beauté resplendit dans le silence.
 
 > **Chân Thâm Nghĩa - Vraie Loyauté Profonde**
 > *(Dominique Prodel)*
-> > **Sự Trung Thành Sâu Sắc** của Đất Mẹ ban cho cây cối sức sống tươi vui sáng chói   
-> > Theo góc chân của tổ tiên tâm linh mỗi hơi thở trở thành sự giải thoát  
-> > Sự có mặt sáng ngời của trái tim là đủ  
-> > Như cây bách trước sân.
+> > La **Loyauté Profonde** de la terre donne aux arbres l’éclat joyeux de la Vie
+> > Sur les pas des ancêtres spirituels chaque respiration devient libération
+> > La présence lumineuse du cœur se suffit à elle-même
+> > Comme le cyprès au milieu de la cour.
 
 > **Chân Lạc Ân - Vrai Sceau du Bonheur**
 > *(Christian Michel)*
-> > Mỗi bước chân biểu hiện **Dấu Ấn Của Niềm Hạnh Phúc**  
-> > Chiều sau của sự im lặng bên trong đánh thức vị ngọt của niềm vui  
-> > Tâm ban đầu chơi đùa với sự vô thường  
-> > Như chiếc lá chơi đùa với bốn mùa
+> > Dans chaque pas s’inscrit le **Sceau du Bonheur**
+> > La profondeur du silence intérieur réveille la douceur de la joie
+> > L’esprit du débutant s’amuse avec l’impermanence
+> > Comme la feuille joue avec les saisons.
 
 > **Chân Hòa Lâm - True Harmonious Forest**
 > *(Claude Acker)*
@@ -201,10 +201,11 @@
 
 > **Chân Hạnh Toàn**
 > *(Hélène Prost)*
-> > By **listening** to the cries of the world   
-> > Drops of compassion well up at the **source**  
-> > By transforming mud into lotuses  
-> > Faith in the three precious jewels deepens.
+> > Tấm lòng hiếu **hạnh** vẹn **toàn** 
+> > Nguyện theo gương sáng theo dòng Tổ tiên
+> > Không bùn không đóa hoa sen
+> > Trời xanh mây trắng thênh thang đường về.
+
 
 > **True Source of Listening**
 > *(Maya Brandl)*
@@ -218,4 +219,4 @@
 > > **An** ban thủ ý phá tâm nghi  
 > > Lắng nghe, nhìn thấu **đạo** thâm sâu  
 > > Một tâm bước vững  vào rừng tía  
-> > Vượt sóng ba đào như dạo chơi
+> > Vượt sóng ba đào như dạo chơi.
