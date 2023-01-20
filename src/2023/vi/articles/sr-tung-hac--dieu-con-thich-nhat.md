@@ -3,9 +3,9 @@ title: Điều con thích nhất
 author: Sư cô Chân Trăng Tùng Hạc
 ---
 
-Con đến tu viện Bích Nham vào một ngày đầu thu. Vì trong nhóm có người bị nhiễm Covid nên con cùng bốn sư chị đi cùng chuyến phải ở phòng tách riêng với đại chúng trong một tuần. Những ngày đầu tiên chúng con chỉ loanh quanh trong phòng, thỉnh thoảng đi tới đi lui ở hành lang phía trước, nhìn các sư chị sư em qua lại và chào hỏi nhau từ xa. Có khi còn được ngắm nai nhởn nhơ dạo chơi trong vườn. Sóc thì chạy soàn soạt trên đám lá, cái miệng nhỏ gặm hạt rột rẹt hoặc đuổi nhau chạy từ cành này sang cành khác. Mỗi khi có chị em muốn ra ngoài đi bộ ngắm cảnh thì cứ bận áo ấm vào, bước ra tới cửa là mưa lại rơi. Những cơn mưa cũng rất biết cách gây sự chú ý chứ nhỉ!
+Con đến tu viện Bích Nham vào một ngày đầu thu. Vì trong nhóm có người bị nhiễm Covid nên con cùng bốn sư chị đi cùng chuyến phải ở phòng tách riêng với đại chúng trong một tuần. Những ngày đầu tiên chúng con chỉ loanh quanh trong phòng, thỉnh thoảng đi tới đi lui ở hành lang phía trước, nhìn các sư chị sư em qua lại và chào hỏi nhau từ xa. Có khi còn được ngắm nai nhởn nhơ dạo chơi trong vườn. Sóc thì chạy soàn soạt trên đám lá, cái miệng nhỏ gặm hạt rột rẹc hoặc đuổi nhau chạy từ cành này sang cành khác. Mỗi khi có chị em muốn ra ngoài đi bộ ngắm cảnh thì cứ bận áo ấm vào, bước ra tới cửa là mưa lại rơi. Những cơn mưa cũng rất biết cách gây sự chú ý chứ nhỉ!
 
-Cuối cùng chúng con cũng có dịp được đi bộ trên con đường phía trước tu viện. Những con đường thi thoảng mới có xe chạy qua đã trở thành đại lộ thênh thang cho những kẻ rong chơi. Đại chúng đã có một buổi cùng nhau đến công viên Minnewaska, cùng ăn trưa trên phiến đá thật to, uống trà ngắm lá thu chuyển màu và đi bộ dưới những tàng lá rực rỡ sắc màu quanh hồ nước thật to,với mặt hồ xanh thẳm.
+Cuối cùng chúng con cũng có dịp được đi bộ trên con đường phía trước tu viện. Những con đường thi thoảng mới có xe chạy qua đã trở thành đại lộ thênh thang cho những kẻ rong chơi. Đại chúng đã có một buổi cùng nhau đến công viên Minnewaska, cùng ăn trưa trên phiến đá thật to, uống trà ngắm lá thu chuyển màu và đi bộ dưới những tán lá rực rỡ sắc màu quanh hồ nước thật to,với mặt hồ xanh thẳm.
 
 Mùa thu đầu tiên của con ở nơi này thật đẹp!
 
@@ -48,3 +48,9 @@ Con rất hạnh phúc mỗi khi khám phá bản thân mình, hiểu mình, th�
 {% image "article2023/sr-tung-hac-done/IMG_4632.jpg" %}
 
 Những trận tuyết đầu mùa đã rơi. Vạn vật trắng xóa với nét đẹp huyền ảo. Chúng con đi bộ vào rừng ngắm tuyết, uống trà, lắng nghe dòng suối róc rách giữa hai bờ tuyết phủ trắng xóa và ăn siro đá bào từ tuyết cho Sư Ông. Con mời mọi người cùng chúng con tận hưởng và trân quý những giây phút quý giá này.
+
+
+
+{% image "article2023/sr-tung-hac-done/ta-co-la-ta-ta-moi-dep.jpg" %}
+
+
