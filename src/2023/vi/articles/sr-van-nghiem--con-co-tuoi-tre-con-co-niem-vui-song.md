@@ -5,7 +5,7 @@ author: Sư cô Chân Văn Nghiêm
 
 Thầy kính thương,
 
-Con đã về lại tu viện Mộc Lan sau những ngày đi biển cùng huynh đệ. Chuyến đi chơi lần này, con như được Thầy động viên: “Con có làm biếng không đó?” Câu hỏi của Thầy như một tiếng chuông gióng lên giữa thinh không. Nhớ những ngày tranh thủ học hỏi, thực hành theo sự hướng dẫn của Thầy ở Làng, con đã bỏ lỡ những cuộc chơi cùng huynh đệ. Ngày ấy, ý thức vô thường hiện rõ trong con khi thấy sức khỏe Thầy ngày một xuống mà còn bao nhiêu điều Thầy muốn làm. Vậy nên những ngày làm biếng con thường ở lại xóm Mới, thưởng thức cái yên tĩnh của Làng theo cách riêng của mình và quán chiếu lời nhắn gửi của Thầy. 
+Con đã về lại tu viện Mộc Lan sau những ngày đi biển cùng huynh đệ. Chuyến đi chơi lần này, con như được Thầy động viên: “Con có làm biếng không đó?”. Câu hỏi của Thầy như một tiếng chuông gióng lên giữa thinh không. Nhớ những ngày tranh thủ học hỏi, thực hành theo sự hướng dẫn của Thầy ở Làng, con đã bỏ lỡ những cuộc chơi cùng huynh đệ. Ngày ấy, ý thức vô thường hiện rõ trong con khi thấy sức khỏe Thầy ngày một xuống mà còn bao nhiêu điều Thầy muốn làm. Vậy nên những ngày làm biếng con thường ở lại xóm Mới, thưởng thức cái yên tĩnh của Làng theo cách riêng của mình và quán chiếu lời nhắn gửi của Thầy. 
 
 ## Một bàn tay đưa cho nắng ngọt
 
@@ -49,7 +49,7 @@ Thầy kính thương,
 
 Những ngày chơi đùa, uống trà trên biển, con thấy mình như đổi thay trước không gian bao la của đất trời và nụ cười của sư chị, sư em. Con cũng lại thấy nụ cười, ánh mắt Thầy biểu hiện nơi quý sư anh, sư chị, sư em của con thật gần gũi và thân thương. Với con, pháp môn đi chơi là một pháp môn khó thực tập khi con không có nhiều sức khỏe, lại trong mùa dịch Covid. Nhưng rồi với lời nhắn gửi: “Nhớ chơi với các sư em giúp Thầy!” đã cho con động lực đồng hành cùng tăng thân như lời Thầy dặn. 
 
-Ngày ấy sau sự kiện tượng đài Bông hồng cài áo tại Bát Nhã bị đập, Thầy đưa cho con một tập các bài pháp thoại bằng tiếng Anh mà Thầy từng dạy cho trẻ em và nhắn nhủ rằng Thầy muốn các con dựa trên những tài liệu này để viết một cuốn sách dành cho thiếu nhi Việt Nam. Cuốn sách đó nhắc đến tình bạn của Lưu Bình-Dương Lễ, những câu chuyện trong Văn Lang Dị Sử, trò chơi dân gian, những điều Thầy dạy cho Gia đình Phật tử… Thầy nói: “Tượng đài bên ngoài không quan trọng, cái chính là các con phải phục hồi lại tuổi thơ và mỗi người phải dựng cho được một tượng đài của mình, một gia đình hạnh phúc có ba mẹ và các con…” Câu nói ấy đã trở thành công án cho chúng con trong công trình thiết lập truyền thông với gia đình huyết thống.
+Ngày ấy sau sự kiện tượng đài Bông hồng cài áo tại Bát Nhã bị đập, Thầy đưa cho con một tập các bài pháp thoại bằng tiếng Anh mà Thầy từng dạy cho trẻ em và nhắn nhủ rằng Thầy muốn các con dựa trên những tài liệu này để viết một cuốn sách dành cho thiếu nhi Việt Nam. Cuốn sách đó nhắc đến tình bạn của Lưu Bình - Dương Lễ, những câu chuyện trong Văn Lang Dị Sử, trò chơi dân gian, những điều Thầy dạy cho Gia đình Phật tử… Thầy nói: “Tượng đài bên ngoài không quan trọng, cái chính là các con phải phục hồi lại tuổi thơ và mỗi người phải dựng cho được một tượng đài của mình, một gia đình hạnh phúc có ba mẹ và các con…”. Câu nói ấy đã trở thành công án cho chúng con trong công trình thiết lập truyền thông với gia đình huyết thống.
 
 {% image "article2023/sr-van-nghiem-done/PVM_2542.JPG" %}
 
@@ -69,15 +69,15 @@ Không thể nào mặc cả<br/>
 …<br/>
 <cite><i>trích</i> Kinh Người biết sống một mình</cite></p></div>
 
-Trong những lúc chơi với chính mình như vậy, lời Thầy lại vang vọng: “Đừng làm một cặp đôi hoàn hảo của Nguyễn Văn Sợ cùng Lê Thị Lo nhé!”, “Sự nghiệp của Thầy trò mình là sự nghiệp giải phóng khổ đau ngay ở đây và trong kiếp này nè!”, “Cho nên một vị Bụt không đủ mô con”, “Con hãy giúp Thầy một tay nha!”, “Thầy cần những giáo thọ trẻ giúp Thầy chơi với các em để khơi nguồn hiểu biết và mở lối thương yêu…”, “Hãy chỉ các em cách dừng lại mà đừng tiêu thụ và tiếp nhận thêm khổ đau nữa…” Lời Thầy như những con sóng vỗ vào bờ đều đặn. Con tự hỏi đó là tiếng sóng biển hay tiếng lòng của Thầy hóa thân trong từng con sóng nhỏ?
+Trong những lúc chơi với chính mình như vậy, lời Thầy lại vang vọng: “Đừng làm một cặp đôi hoàn hảo của Nguyễn Văn Sợ cùng Lê Thị Lo nhé!”, “Sự nghiệp của Thầy trò mình là sự nghiệp giải phóng khổ đau ngay ở đây và trong kiếp này nè!”, “Cho nên một vị Bụt không đủ mô con”, “Con hãy giúp Thầy một tay nha!”, “Thầy cần những giáo thọ trẻ giúp Thầy chơi với các em để khơi nguồn hiểu biết và mở lối thương yêu…”, “Hãy chỉ các em cách dừng lại mà đừng tiêu thụ và tiếp nhận thêm khổ đau nữa…”. Lời Thầy như những con sóng vỗ vào bờ đều đặn. Con tự hỏi đó là tiếng sóng biển hay tiếng lòng của Thầy hóa thân trong từng con sóng nhỏ?
 
 ## Hàm tiếu thiền
 
 Ngày ấy có cơ hội phụ làm tri khách nên con đi dò tên từng phòng. Con đã bật cười thích thú một mình khi mắt con chạm vào tấm bảng Biển Mây, rồi Sao Biển. Thật sự lúc đó con mắc cỡ mỗi khi đi vào những phòng ấy, vì thấy chẳng ăn nhập gì với khung cảnh núi đồi ở xóm Mới.
 
-Hôm đó con có dịp qua Sơn Cốc. Thầy kéo ghế ngồi chơi với vẻ hào hứng muốn nghe các sư con kể chuyện nên Thầy hỏi ngay: “Hôm nay có gì vui, kể cho Thầy nghe với!” Tủm tỉm cười với tên phòng Biển Mây, con thưa lại với Thầy chuyện con làm tri khách. Thầy không nói gì, chỉ hòa vào câu chuyện của chúng con bằng nụ cười hàm tiếu.
+Hôm đó con có dịp qua Sơn Cốc. Thầy kéo ghế ngồi chơi với vẻ hào hứng muốn nghe các sư con kể chuyện nên Thầy hỏi ngay: “Hôm nay có gì vui, kể cho Thầy nghe với!”. Tủm tỉm cười với tên phòng Biển Mây, con thưa lại với Thầy chuyện con làm tri khách. Thầy không nói gì, chỉ hòa vào câu chuyện của chúng con bằng nụ cười hàm tiếu.
 
-Một lúc sau, Thầy đong đưa chân và chậm rãi nói: “Tên Biển Mây rất đẹp, tuy ở đây không có biển nhưng mùa hè khi đưa mọi người tới phòng Biển Mây, người ta cảm tưởng rất mát mẻ. Cái tưởng của mình cũng hay lắm đó con. Con hãy làm tri khách đi!” Rồi Thầy tủm tỉm cười nói tiếp: “Thầy thấy tên Sao Biển cũng hay. Trên trời có sao mà dưới biển cũng có sao. Bàn tay mình cũng là một ngôi sao nữa đó con.”
+Một lúc sau, Thầy đong đưa chân và chậm rãi nói: “Tên Biển Mây rất đẹp, tuy ở đây không có biển nhưng mùa hè khi đưa mọi người tới phòng Biển Mây, người ta cảm tưởng rất mát mẻ. Cái tưởng của mình cũng hay lắm đó con. Con hãy làm tri khách đi!”. Rồi Thầy tủm tỉm cười nói tiếp: “Thầy thấy tên Sao Biển cũng hay. Trên trời có sao mà dưới biển cũng có sao. Bàn tay mình cũng là một ngôi sao nữa đó con”.
 
 Lời khai thị mộc mạc của Thầy đã đưa con về với tuổi thơ cùng hộp bánh lu đựng đầy vỏ sò, vỏ nghêu mà mẹ gửi tặng chị em con. Tối nào chúng con cũng quây quần bên hộp bánh lu để chơi trò gia đình sò biển. Con nhặt lấy những vỏ sò, vỏ nghêu mang về để làm những con chim hòa bình trong khóa tu nghệ thuật, và gửi tặng các bạn thiền sinh như gói theo trời mây non nước cùng nụ cười ấm áp của Thầy. Con chắp tay lại cảm ơn tình Thầy trong đôi tay nhỏ của mình.
 
