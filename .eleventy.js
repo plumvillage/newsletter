@@ -44,10 +44,10 @@ async function imageData(src) {
     let fastProcess = true
     let justCopy = false
     
-    // let maxWidth = 700
-    // let quality = 80
-    let maxWidth = 1500;
-    let quality = 60;
+    let maxWidth = 700
+    let quality = 80
+    // let maxWidth = 1500;
+    // let quality = 60;
     // let maxWidth = 5000;
     // let quality = 96;
     
@@ -215,10 +215,15 @@ module.exports = function(eleventyConfig) {
         (collection) => collection
             .getFilteredByGlob([`./src/${year}/${lang}/articles/*.md`, `./src/${year}/${lang}/articles/*.njk`])
             .sort((a, b) => {
-                console.assert((articleOrder[lang+year].includes(a.fileSlug)), `Missing order for ${a.fileSlug}`);
-                return articleOrder[lang+year].indexOf(a.fileSlug) - articleOrder[lang+year].indexOf(b.fileSlug);
+
+
+                // console.assert()), `Missing order for ${a.fileSlug}`)
+
+                return articleOrder[lang+year].indexOf(a.fileSlug) - articleOrder[lang+year].indexOf(b.fileSlug)
             })
             .map(e => {
+                e.existsInArticleOrder = articleOrder[lang+year].includes(e.fileSlug)
+
                 // sometimes I set id to make it custom. if not, use title:
                 if (!e.data.id) { 
                     // I emulate nunjucks' slugify here to get the same result
