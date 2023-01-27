@@ -27,6 +27,7 @@ module.exports = [
     "sr-mai-thon--ngoi-chua-xua-tren-dinh-nui",
     "sr-nhat-nghiem--con-biet-thay-dang-mim-cuoi",
     "sr-chua-xua--loc-uyen-mua-an",
+    "nhung-giot-nuoc-thanh-luong",
     // Poems
     "sr-tuyet-nghiem--nguoi-tu-do",
 ]
