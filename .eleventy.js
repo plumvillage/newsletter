@@ -28,10 +28,10 @@ let firstRun = true
 async function imageShortcode(src, optClasses = "", imgLabel = "") {
     let result = await imageData(src)
     
-    let html = `<figure id="${result.autoId}" class="${optClasses}"><img src="${result.srcAttribute}" decoding="async">${imgLabel != "" ? `<figcaption>${imgLabel}</figcaption>` : ""}</figure>`;
+    let html = `<figure id="${result.autoId}" class="${optClasses}"><img src="${result.srcAttribute}" decoding="async">${imgLabel != "" ? `<figcaption>${imgLabel}</figcaption>` : ""}</figure>`
     
     // img loading="lazy" is buggy! stops chrome from running pagedjs
-    return html;
+    return html
 }
 
 async function imageSrcShortcode(src) {
@@ -46,10 +46,10 @@ async function imageData(src) {
     
     let maxWidth = 700
     let quality = 80
-    // let maxWidth = 1500;
-    // let quality = 60;
-    // let maxWidth = 5000;
-    // let quality = 96;
+    // let maxWidth = 1500
+    // let quality = 60
+    // let maxWidth = 5000
+    // let quality = 96
     
     let imgFormat = "jpeg"
     // when the input image is a webp, the output image should also be webp, because jpeg does not support transparency
@@ -84,7 +84,7 @@ async function imageData(src) {
     
     try {
         // Image.statsSync doesn’t generate any files, but will tell you where the asynchronously generated files will end up!
-        // let metadata = await Image(srcFull, options);
+        // let metadata = await Image(srcFull, options)
         // Image.statsSync(srcFull, options)
         
         // console.log("processing:", src)
@@ -93,10 +93,10 @@ async function imageData(src) {
             
             if (justCopy) {
                 fs.mkdirSync(outputDir, { recursive: true }, (err) => {
-                    if (err) throw err;
-                });
+                    if (err) throw err
+                })
                 console.log("COPYING: ", srcFull, " -> ", destFileSameName)
-                fs.copyFileSync(srcFull, destFileSameName, fs.constants.COPYFILE_EXCL);
+                fs.copyFileSync(srcFull, destFileSameName, fs.constants.COPYFILE_EXCL)
             } else {
                 /* metadata:
                 {
@@ -122,9 +122,9 @@ async function imageData(src) {
                 // console.log(metadata)
     
                 if(metadata.svg.length) {
-                    data = metadata.svg[metadata.svg.length - 1];
+                    data = metadata.svg[metadata.svg.length - 1]
                 } else {
-                    data = metadata[imgFormat][metadata[imgFormat].length - 1];
+                    data = metadata[imgFormat][metadata[imgFormat].length - 1]
                 }
 
                 if (fastProcess && !fs.existsSync(destFileSameName)) {
@@ -275,4 +275,4 @@ module.exports = function(eleventyConfig) {
         },
         markdownTemplateEngine: "njk"
     }
-};
+}

@@ -1257,10 +1257,14 @@ figure#article2023lilian-cheungimage6 {
     padding-right: 5%;
 }
 
+#5-thay-s-ashes-3-adjusted-jpg,
 #7-peace-acnd-jpg,
-#5-thay-s-ashes-3-adjusted-jpg {
+#13-wake-up-and-summer-e-jpg,
+#17-scck-honor-e-jpg,
+#18-thay-s-memorial-1-jpg
+{
     columns: 2;
-    column-gap: 16pt;
+    column-gap: 20pt;
 }
 
 #7-peace-acnd-jpg h1 {

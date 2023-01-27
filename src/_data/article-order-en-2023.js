@@ -25,4 +25,5 @@ module.exports = [
 "sr-linh-di--mountain-dream",
 "sr-lam-hy--poems",
 "br-duc-dinh--being-rainbow",
+"sr-tu-nghiem--poems",
 ]
