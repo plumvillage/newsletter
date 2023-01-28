@@ -21,8 +21,9 @@ module.exports = [
     "john-p-hussman--chiec-la",
     "sr-tam-duc--hat-mam-nam-xua",
     "sr-nhat-nghiem--con-biet-thay-dang-mim-cuoi",
-
+    
     "sr-van-nghiem--con-co-tuoi-tre-con-co-niem-vui-song",
+    "sr-hoi-nghiem--uop-nang-day",
 
 
     "nhung-choi-non-chao-nang-mai-3",
@@ -34,5 +35,6 @@ module.exports = [
     "sr-chua-xua--loc-uyen-mua-an",
     "sr-mai-thon--ngoi-chua-xua-tren-dinh-nui",
     "nhung-giot-nuoc-thanh-luong",
-    // Poems
+    
+    "lich-sinh-hoat-nam-2023",
 ]
