@@ -1148,3 +1148,11 @@ figure#article2023sr-tam-duc-doneMG6079-edited2 {
     padding-left: 5%;
     float: none;
 }
+
+figure#article2023sr-van-nghiem-doneIMG1786 {
+    column-span: all;
+    float: none;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}

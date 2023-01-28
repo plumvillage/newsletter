@@ -79,8 +79,8 @@ Hôm đó con có dịp qua Sơn Cốc. Thầy kéo ghế ngồi chơi với v�
 
 Một lúc sau, Thầy đong đưa chân và chậm rãi nói: “Tên Biển Mây rất đẹp, tuy ở đây không có biển nhưng mùa hè khi đưa mọi người tới phòng Biển Mây, người ta cảm tưởng rất mát mẻ. Cái tưởng của mình cũng hay lắm đó con. Con hãy làm tri khách đi!”. Rồi Thầy tủm tỉm cười nói tiếp: “Thầy thấy tên Sao Biển cũng hay. Trên trời có sao mà dưới biển cũng có sao. Bàn tay mình cũng là một ngôi sao nữa đó con”.
 
+{% image "article2023/sr-van-nghiem-done/sc van nghiem_e.JPG" %}
+
 Lời khai thị mộc mạc của Thầy đã đưa con về với tuổi thơ cùng hộp bánh lu đựng đầy vỏ sò, vỏ nghêu mà mẹ gửi tặng chị em con. Tối nào chúng con cũng quây quần bên hộp bánh lu để chơi trò gia đình sò biển. Con nhặt lấy những vỏ sò, vỏ nghêu mang về để làm những con chim hòa bình trong khóa tu nghệ thuật, và gửi tặng các bạn thiền sinh như gói theo trời mây non nước cùng nụ cười ấm áp của Thầy. Con chắp tay lại cảm ơn tình Thầy trong đôi tay nhỏ của mình.
 
 Con nguyện là sự tiếp nối đẹp của Thầy!
-
-{% image "article2023/sr-van-nghiem-done/sc van nghiem.JPG" %}

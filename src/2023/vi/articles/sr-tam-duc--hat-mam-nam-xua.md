@@ -35,11 +35,11 @@ Con nhớ mãi kỉ niệm lần đầu tiên con được gặp Thầy tại th
 
 Con tiếp tục học, rồi tốt nghiệp, về lại Huế đi làm và vẫn giữ mong ước được làm học trò xuất gia với Thầy. Bốn ngày trước khi Thầy tịch, con được lên kiểm tra răng cho Thầy. Thầy nằm bình an trên giường, dù mệt nhưng vẫn để con kiểm tra. Con ý thức có thể đây là lần cuối được gặp Thầy nên rất trân quý những giây phút ấy. Con ngắm kĩ khuôn mặt Thầy và cùng thở với Thầy. Thầy không mở mắt nhưng con thấy mặt Thầy nhấp nháy như đang lắng nghe cuộc nói chuyện của con. Cách đây tám năm, Thầy muốn con được qua Làng xuất gia nhưng con chưa đủ duyên. Giờ đây, con được lên thăm Thầy và báo tin con sắp qua Làng tu học như ước nguyện năm xưa. 
 
+{% image "article2023/sr-tam-duc-done/DSC_4613_e.JPG" %}
+
 Trong nhà, mạ là người ủng hộ con đi tu, mạ nói ở ngoài đời, lấy chồng sinh con khổ quá. Ba không yểm trợ lắm vì muốn con ở ngoài đi làm để giúp đỡ gia đình. Con đã nhiều lần nói chuyện với ba về công việc con làm, xen lẫn những mong ước. Khi thấy các bác Tiếp Hiện làm chương trình Hiểu và Thương, con ao ước ngày mô đó ba cũng sẽ được tham gia cùng các bác. Khi ba nghỉ hưu, mong ước đó đã thành. Ba còn siêng đi sinh hoạt tăng thân, dự ngày Quán niệm. Thỉnh thoảng, mạ đi cùng và luôn ủng hộ ba làm các chương trình. Dần dần, ba yểm trợ cho ước nguyện của con hơn. 
 
 Nghe tin Thầy tịch, cả nhà đều thương vì nghĩ rằng con không có cơ hội được làm con của Thầy nữa. Em Ni, bây chừ là sư chị Chân Trăng Hương Bình may mắn hơn khi được Thầy có mặt và nắm tay trong lễ xuất gia ở Thái. Khi nghe con sẽ được xuất gia trong lễ tâm tang, cả nhà rất mừng. Con chưa bao giờ nghĩ lễ xuất gia của con sẽ có gia đình bên cạnh, rứa mà cuối cùng nhân duyên hội tụ, cả nhà đã có mặt đầy đủ trong ngày con xuống tóc.
-
-{% image "article2023/sr-tam-duc-done/DSC_4613.JPG" %}
 
 Con biết ơn khoa và trường ở Huế đã thương con. Dù con rất thương quý mọi người, nhưng ước nguyện sống cuộc đời xuất sĩ lớn quá nên con không thể tiếp tục con đường kia. Trước khi vô chùa, con cũng đã kịp gửi thư cho cô giáo ở Nhật để báo tin. Con rất vui khi cô nói rằng cô mừng cho con đã được đi con đường mà con mong ước và chúc con tu học có nhiều hạnh phúc. Con biết ơn tăng thân trẻ ở Huế đã cho con nhiều kỉ niệm đẹp, giúp con vun bồi bồ đề tâm. Những đêm trăng tròn đi thuyền cát trên sông Hương cùng các bạn luôn còn mãi trong con. Sau khi xuất gia, con được ở chung với các chị em cây Mimosa hai tuần, tuy ngắn nhưng đầy nuôi dưỡng. Buổi chiều đi chấp tác về, thấy trên bàn học rất nhiều thư và ảnh mà các chị em gửi sang làm con vui cả buổi tối hôm đó. Con mở từng bức thư, xem từng bức hình để nhớ lại những khoảnh khắc ở chùa Tổ. Ngoài sáu chị em con, chừ ba mạ có thêm một đàn con ở chùa nữa.
 
