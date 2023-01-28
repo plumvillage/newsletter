@@ -39,7 +39,7 @@ Khóa tu đã đem lại sự chuyển hóa hoàn toàn cho tôi và có lẽ c�
 
 Giờ chia tay kết thúc khóa tu ở Key West, Thầy có một lời nhắn nhủ đặc biệt: “Có lẽ nhiều người trong chúng ta đã nếm được một chút an lạc trong khóa tu này, nhưng nếu về nhà ta không giữ sự thực tập thì những an lạc đó sẽ tan biến hết”. Thông điệp này đã ghi sâu vào lòng tôi và tôi quyết tâm sẽ áp dụng những lời Thầy dạy vào đời sống của mình. Tôi bắt đầu thực tập chánh niệm mỗi ngày, dù có lúc tôi chỉ làm được nhiều nhất là 3% thời gian mình có. Vậy mà dần dà thói quen mới đã được hình thành, và tôi thấy mức độ chánh niệm của mình tăng lên theo năm tháng.
 
-## Những nhân duyên đưa đến cuốn sách “Ăn trong chánh niệm, sống trong tỉnh thức”
+## Những nhân duyên đưa đến cuốn sách<br/>*“Ăn trong chánh niệm, sống trong tỉnh thức”*
 
 Trong tuần lễ ở Key West, Thầy đã dạy chúng tôi thực tập về hơi thở, bước chân và ăn trong chánh niệm.
 

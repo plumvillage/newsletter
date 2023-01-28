@@ -3,8 +3,6 @@ title: Hạt mầm năm xưa
 author: Chân Trăng Tâm Đức
 ---
 
-{% image "article2023/sr-tam-duc-done/_MG_6079-edited.jpg" %}
-
 Ba mạ kính thương,
 
 Làng đang vào thu, cây cối chuyển màu đẹp lắm ba mạ ơi! Có hôm, khi mặt trời vừa lên, cỏ còn đọng sương đêm, con đi dạo quanh vườn và thấy đất Mẹ thật mầu nhiệm. Đây là mùa thu đầu tiên của con ở Làng, mới đó mà đã mười tháng rồi kể từ ngày con được xuất gia ở chùa Tổ trong lễ tâm tang của Thầy.
@@ -14,6 +12,8 @@ Lúc con mới sang, trời còn lạnh lắm. Có những ngày cỏ cũng bị
 Có hôm chị em con được chở sang Sơn Cốc, nơi ở của Thầy, cách xóm Mới không xa. Trên đường đi, con thấy một rừng tre, bên cạnh là con suối nhỏ. Con thắc mắc, bên Pháp mà cũng có nhà trồng tre như bên Việt Nam ri, té mô đó là Sơn Cốc. Không ai có thể hình dung được căn nhà của một vị thiền sư nổi tiếng thế giới lại giản dị như thế. Nơi đây đã lưu bao kỉ niệm, bao bước chân bình an của Thầy, có lẽ vì thế mà bước chân con cũng chánh niệm hơn.
 
 Con bắt đầu làm quen với cuộc sống xuất gia của một sa di mới một tháng tuổi. Mọi thứ đều mới mẻ với con. Con vô đội luân phiên để làm các công việc hàng ngày như rửa nồi, quét nhà, nấu ăn,… Có sư cô nói con mới xuất gia nên ra chơi với vườn tược cho vui, rứa là con vào tri hoa. Ở nhà, có ba trồng và chăm cây, con chỉ hưởng thành quả là ngắm hoa. Chừ con học cách tỉa hoa hồng, trồng cây, tỉa cành, nhổ cỏ, tưới nước và bón phân. Ba mạ biết không, bên ni cỏ tùm lum loại nên phân biệt được hoa với cỏ cũng là vấn đề. Vườn rộng nên nhiều khi chỗ này làm xong, sang chỗ khác và đến khi quay lại thì cỏ đã mọc lại rồi. Thời gian làm tri hoa mới được sáu tháng, tuy học được chút chút nhưng con đã có rất nhiều niềm vui.
+
+{% image "article2023/sr-tam-duc-done/_MG_6079-edited2.jpg" %}
 
 Con được học lớp Giới với các sư chị Sadi khác. Vì con mới xuất gia và không có thời gian tập sự nên lúc mới sang, sư cô đã dạy thêm cho con ba buổi trong tuần, giống như “luyện thi cấp tốc” rứa. Con được học giới luật và uy nghi trong chùa. Hồi ở ngoài, con chạy theo công việc nên chân lúc mô cũng đi nhanh, đầu lúc mô cũng đầy việc, chừ con đang đầu tư thực tập để bước chân được thảnh thơi hơn và cho mình cơ hội để tập dừng lại.
 

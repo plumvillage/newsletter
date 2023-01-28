@@ -7,7 +7,7 @@ const { exec } = require('child_process')
 let netlifyRedirects = `\n# for Netlify, see https://docs.netlify.com/routing/redirects/#syntax-for-the-redirects-file\n`
 
 function padTo2Digits(num) {
-    return num.toString().padStart(2, '0');
+    return num.toString().padStart(2, '0')
 }
 function formatDate(date) {
 return (
@@ -47,7 +47,7 @@ function downsample(pdfFile, pdfFileWithoutDate, dpi = 400, Q = 1.5, onFinished 
     let outputFile = path.join(parsed.dir, outName(parsed.name))
     let outputFileWithoutDate = path.join(parsedWithoutDate.dir, outName(parsedWithoutDate.name))
 
-    netlifyRedirects += `${parsed.dir.replace("./docs/", "/")}/${outName(parsedWithoutDate.name)}    ${parsed.dir.replace("./docs/", "/")}/${outName(parsed.name)}\n`;
+    netlifyRedirects += `${parsed.dir.replace("./docs/", "/")}/${outName(parsedWithoutDate.name)}    ${parsed.dir.replace("./docs/", "/")}/${outName(parsed.name)}\n`
 
 /*
 for DPI 300
@@ -117,7 +117,7 @@ gs -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/e
 -dGrayImageDownsampleThreshold=1.0 \
 -dMonoImageDownsampleThreshold=1.0 \
 -c "<< /GrayImageDict << /Blend 1 /VSamples [ 1 1 1 1 ] /QFactor ${Q} /HSamples [ 1 1 1 1 ] >> /ColorACSImageDict << /VSamples [ 1 1 1 1 ] /HSamples [ 1 1 1 1 ] /QFactor ${Q} /Blend 1 >> /ColorImageDownsampleType /Bicubic /ColorConversionStrategy /LeaveColorUnchanged >> setdistillerparams" \
--f "${pdfFile}"`;
+-f "${pdfFile}"`
 
     console.log("exec: ", command)
 
@@ -186,21 +186,21 @@ async function generatePDF(url, outputFile, onFinished = () => {}, customPdfOpti
     page.waitForTimeout(5000).then(async () => {
         console.log('Waited 5000!')
         if (usePDFstream) {
-            const pdfStream = await page.createPDFStream(pdfOptions);
-            const writeStream = fs.createWriteStream(outputFile);
-            pdfStream.pipe(writeStream);
+            const pdfStream = await page.createPDFStream(pdfOptions)
+            const writeStream = fs.createWriteStream(outputFile)
+            pdfStream.pipe(writeStream)
             pdfStream.on('end', async () => {
-                await browser.close();
+                await browser.close()
                 onFinished(outputFile, outputFileWithoutDate)
-            });
+            })
         } else {
-            await page.pdf(pdfOptions);
+            await page.pdf(pdfOptions)
         }
-    });
+    })
 }
 
-let todoNext = 0;
-let workInProgress = 0;
+let todoNext = 0
+let workInProgress = 0
 
 // https://en.wikipedia.org/wiki/Thread_pool
 // all jobs are assumed to continueWork() by themselves after being finished
@@ -232,7 +232,7 @@ let workQueue = [
 
     () => {
         console.log("begin downsampling. More hands! :)")
-        Array(6).fill().forEach(startWork);
+        Array(6).fill().forEach(startWork)
         continueWork()
     }
 ]

@@ -157,16 +157,8 @@ figure img {
     break-after: page;
 }
 
-#title-page, #zen-circle-page, #thays-full-title-page, #thays-portrait-page, .chapter, .article-editors-notes {
+.chapter {
     page: noFooter;
-}
-
-#zen-circle-page, #thays-full-title-page, #thays-portrait-page {
-    /* break-after: page; */
-    /* break-before: page; */
-    position: absolute;
-    width: 100%;
-    /* background-color: rgb(223, 255, 223); */
 }
 
 @page noFooter {
@@ -181,75 +173,6 @@ figure img {
     }
 }
 
-.article-editors-notes h1 {
-    padding-bottom: 5%;
-}
-
-
-#title-page h1 {
-    /* margin-top here needs to be replaced by padding-top, otherwise it does not work in the pdf in chrome */
-    padding-top: 22%;
-    margin-top: 0;
-    margin-bottom: 5%;
-    margin-left: auto;
-    margin-right: auto;
-}
-html:lang(vi) #title-page h1 {
-    padding-top: 33% !important;
-    margin-bottom: 8%;
-}
-html:lang(vi) #title-page h2 {
-    font-size: 230% !important;
-}
-
-#title-page figure {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-html:lang(en) #title-page h1 figure {
-    width: 72%;
-    padding-right: 4%;
-}
-html:lang(vi) #title-page h1 figure {
-    width: 90%;
-}
-#calligraphyarticle-titles-2-and-dividers5-maskedDividers2-2-straight {
-    width: 25%;
-    margin-bottom: 10%;
-}
-#title-page h2 {
-    font-family: "Cormorant Garamond";
-    text-align: center;
-    margin: 0 auto;
-    font-weight: bold;
-    font-size: 190%;
-    line-height: 130%;
-}
-#title-page h2 .num40 {
-    display: inline-block;
-    /* padding-left: 5pt; */
-    /* padding-right: 3pt; */
-    font-size: 160%;
-    font-weight: 500;
-}
-#title-page h2 #ambrsd {
-    display: block;
-    font-style: italic;
-    font-size: 154%;
-    font-weight: 500;
-    line-height: 120%;
-}
-#title-page h2 #tnh {
-    display: block;
-    font-size: 143%;
-    margin-top: 4%;
-    /* color: black; */
-    /* font-family: "CormorantSC-Medium"; */
-    /* for Medium, if this is not set, chrome will look ugly */
-    /* font-weight: normal; */
-}
-
 
 .chapter {
     break-before: page;
@@ -261,78 +184,6 @@ html:lang(vi) #title-page h1 figure {
     font-style: normal;
     font-weight: normal;
 }
-
-
-
-figure#calligraphyzen-circlezen-circle {
-    width: 100%;
-    padding-top: 30%;
-}
-
-
-#thays-portrait-page figure#ThayLampThayLamp-e2 {
-    float: none;
-    width: 60%;
-    padding-top: 30%;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-#thays-portrait-page .tpp-en {
-    display: block;
-    width: 100%;
-    text-align: center;
-    margin-top: 5%;
-    margin-left: auto;
-    margin-right: auto;
-    font-size: 180%;
-    color: var(--color-bark-dark);
-}
-
-#thays-portrait-page .tpp-vi {
-    text-align: center;
-    margin-top: 5%;
-}
-#thays-portrait-page .tpp-thay {
-    /* font-family: "Gentium Book Plus"; */
-    font-family: "CormorantSC-Bold";
-    font-size: 190%;
-    /* font-weight: bold; */
-    /* font-variant: small-caps; */
-    line-height: 130%;
-    margin-top: 5%;
-    color: var(--color-bark-dark);
-}
-#thays-portrait-page .tpp-date {
-    font-size: 14pt;
-    display: block;
-    margin-top: 3pt;
-    line-height: 130%;
-}
-
-#thays-portrait-page p {
-    font-size: 11pt;
-    line-height: 110%;
-    display: block;
-    width: 38%;
-    text-align: center;
-    /* padding-left: 12pt; */
-    margin-top: 3%;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-/* english only */
-#thays-full-title-page p {
-    display: block;
-    /* margin-top does not work in PDF output */
-    padding-top: 55%;
-    margin-left: auto;
-    margin-right: auto;
-    width: 70%;
-    text-align: center;
-}
-
 
 
 article h1 {
@@ -562,11 +413,6 @@ html:lang(en) h3 { /* section in article */
     font-size: 1em;
 }
 
-.article-parallax-press-and-the-journey-to-plum-village-through-books h3 {
-    padding-bottom: 0;
-    margin-bottom: 0;
-}
-
 article .author {
     font-size: 14pt;
     line-height: 16pt;
@@ -706,17 +552,6 @@ p + .verse,
     text-align: left !important;
     font-style: italic;
 }
-.special {
-    width: 105mm;
-    /* column-span: all; */
-    /* float: none; */
-    /* margin: 0 auto;
-    padding-left: 0;
-    padding-right: 0; */
-}
-.special p {
-    display: block;
-}
 
 
 html:lang(vi) .verse {
@@ -754,8 +589,6 @@ sup { /* superscript */
     font-size: 70%;
 }
 
-/* https://www.pagedjs.org/documentation/cheatsheet/ */
-
 .note {
     float: footnote;
     font-size: 8pt;
@@ -764,17 +597,14 @@ sup { /* superscript */
     /* margin-left: 5pt;
     text-indent: -5pt */
 }
-
 .note:after {
     /* this will prevent the superscript numeral from pushing the line down */
     line-height: 0;
 }
-
 .note::footnote-call {
     display: inline-block;
     text-indent: 0;
 }
-
 .note::footnote-marker {
     font-weight: bold;
     list-style-position: outside;
@@ -865,13 +695,6 @@ p.editors-preface::after, .divider::after {
     font-weight: normal !important;
     font-style: normal !important;
     color: var(--color-bark-dark);
-}
-
-figure#calligraphyParallels-VI-p1-Ngay-Vertical {
-    width: 50%;
-}
-figure#calligraphyParallels-VI-p2-Bon-Vertical {
-    width: 50%;
 }
 
 article ul {
@@ -1317,4 +1140,11 @@ figure#article2023sr-tuyet-nghiem-doneimage-3 img {
 
 .full-page-background-img-bleed.last-article-element::after {
     content: none !important;
+}
+
+
+figure#article2023sr-tam-duc-doneMG6079-edited2 {
+    width: 90%;
+    padding-left: 5%;
+    float: none;
 }
