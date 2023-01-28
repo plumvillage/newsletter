@@ -697,11 +697,14 @@ p.editors-preface::after, .divider::after {
     color: var(--color-bark-dark);
 }
 
+article ol {
+    padding-left: 4mm;
+}
 article ul {
     list-style: none;
     padding-left: 6pt;
 }
-article ul li + li {
+article ul li + li, article ol li + li {
     margin-top: 4pt;
 }
 article ul li::before {
@@ -1023,38 +1026,79 @@ figure#article2023sr-linh-dimountain-dreamedit {
 
 
 
-
-figure#article2023sr-dinh-nghiem-thay-van-luon-la-thay1e {
+figure#article2023sr-tung-hac-doneIMG4941,
+figure#article2023sr-dinh-nghiem-thay-van-luon-la-thay1e
+{
     width: 90%;
     padding-right: 5%;
 }
 
-figure#article2023sr-chan-duc-interview-doneIMG9782e {
-    margin-top: 4mm;
+
+/* centered images */
+figure#article2023sr-chan-duc-interview-doneIMG9782e,
+figure#article2023sr-van-nghiem-doneIMG1786,
+figure#article2023sr-tung-hac-doneIMG4631e,
+figure#article2023sr-chua-xua-done20230110110050e,
+figure#article2023sr-tung-hac-doneta-co-la-ta-ta-moi-depedit,
+figure#article2023Lang-mai-nam-quatruyen-dang-an-cu-2022122LampTransmission2022img8217e,
+figure#article2023sr-nhat-nghiem-doneSrNhat-Nghieme
+{
     column-span: all;
+    margin-left: auto;
+    margin-right: auto;
+    float: none;
+}
+
+figure#article2023sr-chan-duc-interview-doneIMG9782e
+{
+    margin-top: 4mm;
     width: 75%;
-    margin-left: auto;
-    margin-right: auto;
-    float: none;
 }
 
-figure#article2023Lang-mai-nam-quatruyen-dang-an-cu-2022122LampTransmission2022img8217e {
+figure#article2023Lang-mai-nam-quatruyen-dang-an-cu-2022122LampTransmission2022img8217e
+{
     margin-top: 4mm;
-    column-span: all;
     width: 100%;
-    margin-left: auto;
-    margin-right: auto;
-    float: none;
 }
 
-figure#article2023sr-tung-hac-doneta-co-la-ta-ta-moi-depedit {
+figure#article2023sr-chua-xua-done20230110110050e
+{
     margin-top: 4mm;
-    column-span: all;
+    margin-bottom: 0mm;
     width: 80%;
-    margin-left: auto;
-    margin-right: auto;
-    float: none;
 }
+
+figure#article2023sr-tung-hac-doneta-co-la-ta-ta-moi-depedit
+{
+    margin-top: 4mm;
+    width: 55%;
+}
+
+figure#article2023sr-nhat-nghiem-doneSrNhat-Nghieme
+{
+    margin-top: 4mm;
+    margin-bottom: 0mm;
+    width: 82%;
+}
+
+figure#article2023sr-tung-hac-doneIMG4631e
+{
+    width: 83%;
+}
+
+figure#article2023sr-tung-hac-doneIMG4631 + p {
+    margin-top: 0 !important;
+}
+
+.article-djieu-con-thich-nhat .author {
+    margin-bottom: 4mm;
+}
+
+figure#article2023sr-van-nghiem-doneIMG1786
+{
+    width: 70%;
+}
+
 
 
 .article-loc-uyen-mua-an h2.author {
@@ -1149,10 +1193,3 @@ figure#article2023sr-tam-duc-doneMG6079-edited2 {
     float: none;
 }
 
-figure#article2023sr-van-nghiem-doneIMG1786 {
-    column-span: all;
-    float: none;
-    width: 70%;
-    margin-left: auto;
-    margin-right: auto;
-}

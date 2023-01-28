@@ -17,17 +17,22 @@ module.exports = [
     "dr-lilian-cheung--canh-cua-da-mo-ra",
     "sr-mai-phuong--thu-gop-sao-trang",
     // Part2
-    "nhung-choi-non-chao-nang-mai-3",
     "sr-dinh-nghiem--thay-van-luon-la-thay",
-    "sr-dinh-nghiem--ky-niem-em-dem",
-    "sr-tam-duc--hat-mam-nam-xua",
-    "sr-van-nghiem--con-co-tuoi-tre-con-co-niem-vui-song",
     "john-p-hussman--chiec-la",
-    "sr-tung-hac--dieu-con-thich-nhat",
-    "sr-mai-thon--ngoi-chua-xua-tren-dinh-nui",
+    "sr-tam-duc--hat-mam-nam-xua",
     "sr-nhat-nghiem--con-biet-thay-dang-mim-cuoi",
+
+    "sr-van-nghiem--con-co-tuoi-tre-con-co-niem-vui-song",
+
+
+    "nhung-choi-non-chao-nang-mai-3",
+    
+    "sr-dinh-nghiem--ky-niem-em-dem",
+    "sr-tung-hac--dieu-con-thich-nhat",
+    "sr-tuyet-nghiem--nguoi-tu-do",
+    
     "sr-chua-xua--loc-uyen-mua-an",
+    "sr-mai-thon--ngoi-chua-xua-tren-dinh-nui",
     "nhung-giot-nuoc-thanh-luong",
     // Poems
-    "sr-tuyet-nghiem--nguoi-tu-do",
 ]

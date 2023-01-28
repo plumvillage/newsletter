@@ -27,8 +27,6 @@ Bạn thấy không, đàn nai cũng giống như mười một sư cô trẻ m�
 
 Chia sẻ về hành trình đi tìm đời sống tâm linh của các anh chị em xuất sĩ vào ngày thứ Năm hằng tuần trong mùa an cư năm nay là món ăn được mong đợi nhất. Cánh cửa trái tim được mở rộng ra trong lòng mỗi sư anh, sư chị và sư em.
 
-{% image "article2023/sr-chua-xua-done/20230110_110050.jpg" %}
-
 Lần đầu tiên, đại chúng có cơ hội được lắng nghe Sư cô trụ trì sau nhiều năm xuất gia chia sẻ về lý do vì sao sư cô quyết định rời ngôi chùa riêng để về sống và tu học chung với đại chúng. Được sống và tu học trong lòng tăng thân, sư cô cảm nhận được tình huynh đệ. Sư cô có đủ không gian, thời gian để trải nghiệm và hành trì các pháp môn được tiếp nhận từ Sư Ông. Những điều kiện ấy đã giúp sư cô tiếp xúc được với chất liệu của một người tu mà sư cô không có nhiều cơ hội được cảm nhận khi sống ở chùa riêng. Đồng thời, chí nguyện muốn tiếp nối Sư Ông để chăm sóc, thương yêu và có mặt với các sư em cũng được vun bồi và nuôi lớn thêm. Mỗi sáng tinh mơ, khi chuông thức chúng còn chưa thỉnh, sư cô đã có mặt thắp nến, dâng trầm thơm trong cốc Sư Ông và nơi thờ Bồ Tát Quan Thế Âm giữa vườn ni xá. Hình ảnh ấy đã lan tỏa hơi ấm tâm linh giữa mùa đông băng giá. 
 
 Đại chúng còn được nghe câu chuyện về sư cô lớn tuổi nhất ni xá với biệt hiệu “thiên thần quét lá”. Sư cô kể khi vào chùa, sư cô mới học viết, học đọc chữ quốc ngữ. Ở tuổi chín mươi tư, tuy phải chống gậy mỗi lần di chuyển, nhưng sư cô luôn đều đặn tham gia thời khóa cùng đại chúng và tụng kinh cúng cơm cho Bụt mỗi ngày không ngơi nghỉ. 
@@ -38,6 +36,8 @@ Rồi cả những câu chuyện nuôi dưỡng và đầy cảm hứng trong nh
 ## Dòng sông đang đi tới
 
 An cư năm nay, tu viện Lộc Uyển đón chào gia đình xuất gia Cây Táo Nhỏ - Cây Manzanita, với sự biểu hiện của hai sư chú: Chân Nhất Ấn và Chân Nhất Hướng. Cây Manzanita là một loài cây quý hiếm của vùng đất này. Mùa an cư cũng là mùa cây nở hoa, khắp núi rừng lung linh những chùm hoa trắng, hồng như những chiếc bông tai, hay những chiếc đèn chụp nhỏ xíu khắp nơi. 
+
+{% image "article2023/sr-chua-xua-done/20230110_110050_e.jpg" %}
 
 Niềm vui nối tiếp niềm vui. Đại chúng chào đón thêm hai vị tân giáo thọ là sư cô Nhất Nghiêm và sư cô Trăng Thủy Tiên, được sư cô Chân Không trực tiếp truyền đăng. Đồng thời, có ba sư em chuẩn bị để được về Thái Lan thọ giới lớn vào đầu năm tới. Sau chín mươi ngày an cư, trong hơn bốn mươi cư sĩ đã có sáu bạn trẻ xin được làm tập sự xuất gia. Ngoài ra, đại chúng sẽ cùng xây dựng chương trình tu học dài hạn cho những bạn có tâm muốn tu học và phụng sự dưới hình thức cư sĩ tại tu viện. 
 

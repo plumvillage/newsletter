@@ -37,6 +37,9 @@ His students came from every background and religion, and Thay taught in a way t
 
 Even when Thay spoke about a notion like “death,” his teaching was beautiful and light. He once shared a story of a little girl who asked him, “Thay, have you decided what to be in your next life?” After some reflection, Thay answered her – “I see that I will be many things. I will be a butterfly. I will be a cloud. I will be that yellow flower.” Then he playfully added, “and if you are not mindful, you may step on me.”
 
+{% image "article2023/John-P-Hussman/Leaf-Richi.jpg" %}
+<!-- drawing by Ricelli (Richi) Laplace Resende -->
+
 ## The Leaf
 
 Some of the moments that I remember most are the simplest. When Terri and I were married in Plum Village, Thay held up a lotus leaf and showed how two parts of the stem remained connected by strong fibers, even when they were separated.

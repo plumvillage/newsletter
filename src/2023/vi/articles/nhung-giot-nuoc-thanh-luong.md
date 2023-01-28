@@ -7,15 +7,16 @@ Chương trình Hiểu và Thương là cánh tay nối dài của Sư Ông, cù
 
 Trong năm qua do điều kiện kinh tế bị ảnh hưởng sau đại dịch Covid-19, những công tác giúp đỡ và cứu trợ gặp nhiều hạn chế. Nhưng với tình thương của Sư Ông, Sư cô Chân Không và các nhà hảo tâm, cũng như sự nhiệt tình từ các tác viên đang làm việc tại các tỉnh Quảng Trị, Thừa Thiên Huế, Nha Trang, Bình Thuận, Đồng Nai, Sài Gòn, Đồng Tháp và Bến Tre, chương trình Hiểu và Thương vẫn duy trì được nhiều hoạt động cứu trợ ở khắp nơi.
 
-Dưới đây là những công tác đã được thực hiện trong năm 2022 vừa qua:
-
-Hỗ trợ lương cho các cô giáo tại các nhóm trường:
+Dưới đây là những công tác đã được thực hiện trong năm 2022 vừa qua. Hỗ trợ lương cho các cô giáo tại các nhóm trường:
 
 1. Nhóm trường do chương trình Hiểu và Thương xây dựng và quản lý, trong đó có 36 cô giáo ở Bình Thuận với mức lương 1.000.000/người/tháng và 5 cô giáo ở Nha Trang với mức lương 1.500.000/ /người/tháng.
 2. Tại Thừa Thiên Huế, giúp đỡ được cho 16 cô giáo ở nhóm trường do các chùa quản lý, trong đó, 10 cô giáo với mức lương 1.200.000/người/tháng và 6 cô giáo với mức 1.000.000/người/tháng. Ngoài ra, chương trình cũng hỗ trợ được thêm 450.000/người/tháng cho 41 cô giáo ở nhóm trường công lập bên cạnh lương do nhà nước chi trả.
 3. Tại Quảng Trị, có 130 cô giáo đang công tác tại các trường do nhà nước quản lý, chương trình Hiểu và Thương yểm trợ lương với 380.000/người/tháng.
 
 Với hoạt động trao tặng học bổng cho các em sinh viên, chương trình đã giúp được cho 414 em với mức hỗ trợ 2.400.000/em/năm. Trong đó có:109 em ở Quảng Trị, 115 em ở Huế, 100 em ở Nha Trang và 90 em tại một số tỉnh phía Nam.
+
+{% image "article2023/understanding-and-love-program/09.jpg", "noFloat" %}
+{% image "article2023/understanding-and-love-program/00.jpg", "noFloat" %}
 
 Học bổng cho các em học sinh, chương trình cũng dành tặng 690 suất với mức hỗ trợ 1.200.000/em/năm, trong đó có: 30 em ở Quảng Trị, 140 em ở Huế, 50 em ở Nha Trang và 470 em ở các tỉnh khác.
 
@@ -32,6 +33,9 @@ Năm 2022 vừa qua, dải đất miền Trung lại tiếp tục hứng chịu 
 ​Ngoài ra, chương trình cũng hỗ trợ đào 6 giếng tưới hoa màu tại Đồng Nai; cũng như giúp 22 căn nhà bị dột nát với số tiền 6.000.000/căn để sửa sang lại mái nhà giúp bà con có chỗ che nắng che mưa tại Đồng Tháp.
 
 Để hoạt động cứu trợ được duy trì một cách bền bỉ trong suốt những năm qua, không thể không kể đến những đóng góp từ tấm lòng rộng mở của các nhà hảo tâm. Dù ít hay nhiều, nhưng tất cả đều xuất phát từ tình thương, từ trái tim trung kiên và bền bỉ luôn hướng về những mảnh đời còn khó khăn hơn mình. 
+
+{% image "article2023/understanding-and-love-program/01.jpg", "noFloat" %}
+{% image "article2023/understanding-and-love-program/06.jpg", "noFloat" %}
 
 Ngày 10 tháng 12 năm 2022, đại học hoàng gia Mahachulalongkorn đã trao tặng bằng tiến sĩ danh dự cho Sư cô Chân Không, để vinh danh những đóng góp công tác xã hội mà Sư cô đã cống hiến trong nhiều năm qua. Sư cô đã chia sẻ rằng những gì Sư cô đã làm được là nhờ quý cô bác, anh chị, các em nhỏ và những nhà hảo tâm đã dành dụm hoặc trích một ít từ ngân quỹ của gia đình; hay những em nhỏ đã bỏ ống tiết kiệm mỗi tháng rồi nhờ mẹ đem đi gửi cho Sư cô. Vậy nên, Sư cô rất muốn trao tặng tấm bằng đó đến cho tất cả các vị ân nhân đã cùng đồng hành, góp một bàn tay trong những công tác hỗ trợ cho đồng bào còn đói khổ, khó khăn; cũng như tạo thêm điều kiện để họ có thể cải thiện cuộc sống về lâu dài.
 

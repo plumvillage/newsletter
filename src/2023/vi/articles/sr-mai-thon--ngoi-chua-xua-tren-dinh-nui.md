@@ -35,7 +35,7 @@ Tuy nhiên, khi về địa điểm mới này, quý sư cô và các vị cư s
 
 ## Kính ngưỡng
 
-Hôm đó, trong khi đi thiền hành, đôi mắt con bỗng dừng lại nơi một cây khuynh diệp. Tuy đã già cỗi, vỏ đã bị mọt ăn khá nhiều nhưng dáng cây rất vững chãi, và cành lá vẫn còn đang xanh tốt. Con chợt nhớ đến Bồ tát Thường Bất Khinh, với hạnh nguyện của mình, chắc hẳn Ngài sẽ chắp tay xá cây và nói: “Tôi không dám coi thường bạn, bạn là một nhiệm mầu của vũ trụ. Bạn đã có mặt ở đây rất lâu rồi. Ai mà biết được bạn đã đi qua những khó khăn nào, mà vẫn đứng vững sau bao nhiêu cơn bão. Biết bao thế hệ chim muông, côn trùng đã xem bạn là nhà, là thức ăn, là nơi nương tựa? Rễ của bạn đã vươn đến đâu? Bao nhiêu cành lá của bạn đã rơi rụng trở về với đất, và biến chuyển thành bao hình thái của sự sống? Bạn thật sự là một biểu hiện mầu nhiệm của vũ trụ, làm sao tôi dám coi thường bạn!”.
+Hôm đó, trong khi đi thiền hành, đôi mắt con bỗng dừng lại nơi một cây khuynh diệp. Tuy đã già cỗi, vỏ đã bị mọt ăn khá nhiều nhưng dáng cây rất vững chãi, và cành lá vẫn còn đang xanh tốt. Con chợt nhớ đến Bồ tát Thường Bất Khinh, với hạnh nguyện của mình, chắc hẳn Ngài sẽ chắp tay xá cây và nói: “Tôi không dám coi thường bạn, bạn là một nhiệm mầu của vũ trụ. Bạn đã có mặt ở đây rất lâu rồi. Ai mà biết được bạn đã đi qua những khó khăn nào, mà vẫn đứng vững sau bao nhiêu cơn bão. Biết bao thế hệ chim muông, côn trùng đã xem bạn là nhà, là thức ăn, là nơi nương tựa? Rễ của bạn đã vươn đến đâu? Bao nhiêu cành lá của bạn đã rơi rụng trở về với đất, và biến chuyển thành bao hình thái của sự sống? Bạn thật sự là một biểu hiện mầu nhiệm của vũ trụ, làm sao tôi dám coi thường bạn!”
 
 Sau khi ngắm nhìn cội cây khuynh diệp với đôi mắt của một vị bồ tát, con tiếp tục buổi thiền hành cùng đại chúng. Lạ thay, mọi thứ dưới mỗi bước chân con dường như đang đổi thay. Lòng con dâng lên niềm kính trọng khi tiếp xúc với từng hòn sỏi, chiếc lá hay một cọng cỏ non. Tất cả, dù chỉ là những hiện hữu nhỏ nhoi, nhưng ai mà biết được chúng đã đi qua những cung bậc nào, đã là chứng nhân cho những điều gì. 
 
@@ -50,7 +50,7 @@ Mỗi người không những chỉ là một bài thơ mà còn là những bí
 
 Con xin nghiêng mình kính ngưỡng.
 
-{% image "article2023/sr-mai-thon/IMG-9110.jpg" %}
+{% image "article2023/sr-mai-thon/IMG-9110_e.jpg" %}
 
 ## Vướng dù
 
@@ -60,23 +60,23 @@ Buổi thiền hành hôm đó, con đi phía sau một sư cô. Con bỗng th�
 
 Con luôn muốn cảm ơn những người đi trước. Cảm ơn những va vấp, vụng về của họ và của cả chính mình. Tập tha thứ, chấp nhận những vụng về của mình và tìm đường đi tới. Biết đâu cũng có ai đó đang ở sau lưng mình quan sát, và họ không chìm đắm trong chiếc vỏ ốc. Nhờ vậy, họ cũng sẽ tránh được chuyện chiếc dù bị vướng, như con.
 
+{% image "article2023/sr-mai-thon/TMT.1_e.JPG" %}
+
 ## Chuyện con vịt
 
 Một hôm đi thiền hành bên hồ nước, chúng con phát hiện ra một con vịt con đang bơi một mình giữa hồ. Thông thường vịt đi có đôi, có đàn. Lâu lâu bị lạc đàn, chúng kêu cạc cạc cạc rồi nghiêng đầu lắng nghe xem có tiếng đáp lại hay không. Rồi những con vịt khác theo hướng của tiếng gọi mà bay đến bên cạnh. Vịt mà hạ cánh thì không thanh tao lắm đâu. Nó làm một cái “đụi” nếu ở trên mặt đất, còn nếu trên nước thì sẽ làm nước văng tung tóe. Đứng ngắm con vịt, con đoán nó mới chỉ đang tuổi lỡ nhỡ, mới lớn nên chưa có đôi. Chắc rồi nó cũng sẽ tìm ra đàn của nó thôi.
 
-Cứ ngỡ là như vậy cho đến hôm sau, khi đi thiền hành ngang qua bờ hồ con vẫn thấy nó, một mình đang rỉa cánh với vẻ cam chịu. “Hay bố mẹ nó để lại một cái trứng bên hồ này trong một chuyến du lịch ngang Nhập Lưu, rồi cất cánh bay đi, để lại em vịt tự nở, tự lo thân này? Có trời mới biết!”. Quý sư cô tự hỏi nhau và đưa ra rất nhiều giả định.
+Cứ ngỡ là như vậy cho đến hôm sau, khi đi thiền hành ngang qua bờ hồ con vẫn thấy nó, một mình đang rỉa cánh với vẻ cam chịu. “Hay bố mẹ nó để lại một cái trứng bên hồ này trong một chuyến du lịch ngang Nhập Lưu, rồi cất cánh bay đi, để lại em vịt tự nở, tự lo thân này? Có trời mới biết!” Quý sư cô tự hỏi nhau và đưa ra rất nhiều giả định.
 
 Ngày nào các sư cô cũng cố ý đi thiền hành ngang qua hồ, dừng lại ngắm nó một hồi rồi đi tiếp. Riết rồi thành thói quen. Đôi khi đại chúng chấp tác bên bờ hồ vài ba ngày liên tiếp đều thấy nó bơi thong dong, không sợ hãi mà cũng không thân thiện. Lâu lâu, con dừng tay ngắm nó, thấy lòng vui vui.
 
 Bỗng một buổi sáng đi thiền hành, chúng con không thấy nó đâu nữa. Dường như không tin vào mắt mình, chúng con dừng lại, quan sát thật lâu. Vài ngày sau, con vịt cũng không xuất hiện. Có lẽ nó đã đi thật rồi hoặc gặp một điều không may nào đó. Chạnh lòng, con nhớ đến con thằn lằn của chú Tâm Quán trong cuốn sách *Tình Người*. Một kiếp sống hiện lên ngắn ngủi trên biển hiện tượng, rồi biến mất. Lòng con chợt thấy thương thương và man mác buồn. 
 
-{% image "article2023/sr-mai-thon/Thiền hành Vu Lan 3.JPG" %}
+<!-- {% image "article2023/sr-mai-thon/Thiền hành Vu Lan 3.JPG" %} -->
 
-Con tự hỏi: “Tại sao mình lại có cái tâm trạng buồn thương như vậy cho một con vịt trời, nay đi mai ở?”. Rồi chợt nhận ra hình ảnh con vịt lẻ loi đã chạm tới nỗi cô đơn, tủi thân nằm thật sâu trong lòng. Có lẽ nỗi cô đơn này đã được truyền từ đời này sang đời khác. Vậy nên mới có một quyển sách có tựa đề là *Trăm năm cô đơn*. Mình đến trong đời này một mình thì khi ra đi cũng sẽ là một chuyến độc hành. Mình tự thương cho sự cô đơn, lẻ loi của mình cho nên nỗi niềm đó cũng lan tỏa đến với con vịt. Nhưng thật ra, tự thân con vịt đâu có thấy vậy. Nó được sinh ra, lớn lên và sống cuộc đời của nó như một lẽ thường tình. Vậy nên, có gì đâu mà nó phải buồn, phải hờn hay phải trách.
+Con tự hỏi: “Tại sao mình lại có cái tâm trạng buồn thương như vậy cho một con vịt trời, nay đi mai ở?” Rồi chợt nhận ra hình ảnh con vịt lẻ loi đã chạm tới nỗi cô đơn, tủi thân nằm thật sâu trong lòng. Có lẽ nỗi cô đơn này đã được truyền từ đời này sang đời khác. Vậy nên mới có một quyển sách có tựa đề là *Trăm năm cô đơn*. Mình đến trong đời này một mình thì khi ra đi cũng sẽ là một chuyến độc hành. Mình tự thương cho sự cô đơn, lẻ loi của mình cho nên nỗi niềm đó cũng lan tỏa đến với con vịt. Nhưng thật ra, tự thân con vịt đâu có thấy vậy. Nó được sinh ra, lớn lên và sống cuộc đời của nó như một lẽ thường tình. Vậy nên, có gì đâu mà nó phải buồn, phải hờn hay phải trách.
 
 Khi nhận diện và gọi tên được những cảm xúc tủi thân, cô đơn và lẻ loi, lòng con bỗng thấy nhẹ nhõm. Cái man mác buồn thương cũng tự dưng biến mất. Con mỉm một nụ cười, thấy thấm thía lời Thầy: “Gọi được tên thật của nó rồi thì mình sẽ tự do”. May mắn cho con, bây giờ đã có đường đi rồi, con không còn lo sợ nữa. Con có thể cô đơn nhưng không cô độc.
-
-{% image "article2023/sr-mai-thon/TMT.1.JPG" %}
 
 ## Chuông đại hồng
 

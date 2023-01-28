@@ -65,6 +65,6 @@ Those astronauts are our eyes that we sent into space to see for us. When our ey
 
 The Buddha was also our eyes. He did not need to travel into space, he just needed to sit under a Bodhi tree. But with the eyes of his mind he saw very deeply and reported to us that there is a world of freedom, which is nirvana. And there is a way to that freedom, which is the Noble Eightfold Path. In the past many of his disciples praised him as the eyes of the world.
 
-{% image "article2023/su-ong--dharma-talk/June retreat_UH_09.06.22 _33.jpg" %}
+{% image "article2023/su-ong--dharma-talk/June retreat_UH_09.06.22 _33_cut.jpg" %}
 
 The astronauts also followed that path. They volunteered to be the eyes, to see for us and transmit to us the insight. Have we seen it or not? How many bells have been sounded and how many images have been sent back? Yet we still live in slumber, we continue to inflict suffering on each other, and to destroy this one-of-a-kind work of art of the universe. As parents, teachers, elder brothers and sisters, you must have this insight and transmit it to your children and younger siblings. We have to wake up. If not it will be too late! Buddhism is called the *Path of Enlightenment*. Enlightenment means just this.

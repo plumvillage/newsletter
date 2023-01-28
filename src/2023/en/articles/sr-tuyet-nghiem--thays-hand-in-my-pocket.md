@@ -3,6 +3,8 @@ title: Thay’s Hand in My Pocket
 author: Sister Chân Tuyết Nghiêm
 ---
 
+{% image "article2023/sr-tuyet-nghiem-done/image-3.jpg" %}
+
 Dear Respected Thay,  
 
 I still write to Thay because I feel deeply that Thay is still here at this moment. With just one peaceful breath, I can invite Thay to be by my side. When you were not hidden, I had already learned to be in touch with you like this. So whenever I write to you, I can feel that you are very close, always present to listen in order to deeply understand the minds of your students. 
@@ -24,7 +26,7 @@ My first dawn on this new land, I answered a call inside me to reach the top of 
 <p class="noIndent">The sound of the Morning Chant echoed:</p>
 
 <div class="verse"><p>The Dharma body shines brightly as the day dawns.<br/>
-We sit in stillness, our hearts are at peace,<br/>
+We sit in stillness, our hearts are at peace.<br/>
 A half smile is born upon our lips…</p></div>
 
 How wonderful, this present moment! I am grateful for the innumerable conditions that have brought me here. It is clear that there is a ceaseless continuation; one condition ends for another to begin. Life is a continuous chain of miracles upon miracles.
@@ -43,7 +45,7 @@ After one round of walking meditation, Thay took out our hands, squeezed mine an
 
 The sadness was soothed by the warmth of a teacher’s love. I wanted to grow stronger with the trust of Thay and the sangha. Indeed while in Maison de L’inspir, there were moments when I felt weak, sad, and weary. There were also moments full of loneliness and regret. I remembered Thay, and many times I put my hand in my pocket to be in touch with Thay’s hand - the hand of love and trust. 
 
-That strength helped me overcome the small difficulties and I gradually matured. Perhaps in the ensuing journey, I was far from Thay physically, but I always felt Thay very closely in my heart. Thay’s words were like a mantra for me, “Thay’s hand is in your pocket.” This morning, walking up the hill with my two hands in my pockets, I also held Thay’s hand in those moments of returning to happiness, peace, and the warmth of love. 
+That strength helped me overcome the small difficulties and I gradually matured. Perhaps in the ensuing journey, I was far from Thay physically, but I always felt Thay very closely in my heart. Thay’s words were like a mantra for me, “Thay’s hand is in your pocket.” This morning, walking up the hill with my two hands in my pockets, I also held Thay’s hand in those moments of returning to happiness, peace, and the warmth of love.
 
 ## Sing with your own style
 
@@ -52,6 +54,8 @@ Dear respected Thay,
 The mountains and hills of Deer Park are truly beautiful. Sitting on a cliff and looking down on the vast mountain landscape, my heart naturally opens. There is nothing for me to worry about, or regret at this moment. Thanks to the lessons you have taught me while I was by your side, no matter which corner of the world I am in, I can find a few things that turn my thinking towards the positive. My mind always chooses to go in the direction of freedom so that whatever I choose to do in my monastic life has meaning in its own right.   
 
 I still remember when I returned to Plum Village after a year in Maison de L’inspir, I received a lot of love from the sangha there, especially from the young Vietnamese students who frequently came. When I left, I practiced to let go of all the connections with the people, the scenes, as my perspective on life was very clear - live wholeheartedly and leave with no strings attached. I thought this to be true of the monastic ideal of freedom. 
+
+{% image "article2023/sr-tuyet-nghiem-done/image1_e.jpeg" %}
 
 So, I was quite surprised when I returned to Plum Village and Thay again taught me, “I heard that the young friends in Paris love and cherish you very much, right? Remember to write to them and nurture them.” I was very surprised, but I thought, “Thay is encouraging me after my year of living in Maison de L’inspir and building the sangha there.” So I let Thay’s teaching pass by like a breeze.   
 
@@ -65,19 +69,22 @@ Thay’s words startled me. I knew that I could only sing naturally how I have a
 
 As I breathed a sigh of relief after passing through one challenge, Thay suddenly gave me the second challenge, “Tuyet Nghiem, please interpret the Oracle for the young friend.” I was even more shocked, because it seemed that only Thay and the elders ever interpreted the Oracles in front of the sangha. I felt so confused and tried to find a way out, to refuse lightly, “Yes, dear Thay, but I don’t know how to interpret Oracles at all.” My eyes were speaking SOS to Thay, but Thay laughed and resolutely said, “How can that be? You are my continuation, right?”  There was nothing I could do except to accept my current predicament - to interpret the oracle for our young friend. Perhaps I knew enough about her so I went straight to her issue, and it made everyone laugh because it was too much to the point.
 
-Dear respected Thay,
+<p class="noIndent">Dear respected Thay,</p>
 
 Throughout these past years, I have put all my heart into understanding the practices you have taught me. The mantra “You should sing with your own style” has helped me to overcome feelings of inferiority so that I can be natural and free in whatever I do. Whenever I do something wholeheartedly and with freedom, I can feel Thay right by me. At times when I feel so afraid, and hesitant of my own ability that I want to stop, withdraw, and quit, I find confidence again with the mantra “How can that be? You are my continuation, right?” 
 
 There are times I wish to end a connection even though I can still offer something to nourish someone. Your teaching “You should continue to nourish them…” will motivate me to keep on offering the most beautiful while I still can, so that each connection can be complete, until the conditions are no longer sufficient and then I can let go with a smile.
 
-Dearest Thay,
+{% image "article2023/sr-tuyet-nghiem-done/image2.jpeg" %}
+
+<p class="noIndent">Dearest Thay,</p>
 
 I am growing day by day on the path you have led. The path of Engaged Buddhism is not an easy one at all. You have prepared us so much for this journey through all the love and trust you have shown your students.
 
 This morning, your teachings continue to illuminate the path  I walk with the beautiful aspiration of a monastic. I walked up the hill with leisurely steps - each step in freedom, each step untangled, each step a promise to return to peace. At the top of the mountain, I sat down  to enjoy my peaceful breathing together with the wind and the clouds. Putting my hand in my pocket, I see that your warm hand continues to encourage me to trust and love.
 
-<div class="verse"><p>Look again, you will see me in you and in every leaf and flower bud.<br/>
+<div class="verse"><p>Look again, you will see me in you<br/>
+and in every leaf and flower bud.<br/>
 If you call my name, you will see me right away.<br/>
 …<br/>
 You and I have never really been apart.</p>
