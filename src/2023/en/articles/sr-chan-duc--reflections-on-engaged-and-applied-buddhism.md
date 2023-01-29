@@ -1,13 +1,15 @@
 ﻿---
 title: Reflections on Engaged and Applied Buddhism
-author: Sister Chân Đức
+author: An Interview with Sister Chân Đức
 ---
 
-<!-- Interview with Sister Chan Duc, 6.11.2022 -->
+<!-- 6.11.2022 -->
 
 **PV Newsletter**: What do Engaged Buddhism and Applied Buddhism mean to you?
 
-**Sr. Chan Duc**: Until the early years of this millennium, Thay used the words “Engaged Buddhism.” When we thought about Plum Village, we thought about Engaged Buddhism. Thay became famous in the West because of Engaged Buddhism. 
+**Sr. Chan Duc**: Until the early years of this millennium, Thay used the words “Engaged Buddhism.” When we thought about Plum Village, we thought about Engaged Buddhism. Thay became famous in the West because of Engaged Buddhism.
+
+{% image "article2023/sr-chan-duc-interview-done/030_IMG_7744_e.jpg" %}
 
 In the West, Japanese Buddhism was the first kind of Buddhism that came to the United States and it concentrated on sitting meditation. In the 1960s, Thay came to the West to call called for peace in Vietnam. The idea that we needed to bring the practice of Buddhism into the world of peace activism was new. Many peace activists were very angry. 
 
@@ -46,6 +48,8 @@ I did not become a nun to be able to practice sitting meditation and retire from
 **Sr. Chan Duc**: In the early times, when it was only the four of us, Sr. Chan Khong, Sr. Chan Vi, Thay and myself, it was not easy to lead retreats because the retreatants were all very new. For instance, some retreatants would say, “Why should I stop when I hear the bell? It takes away my freedom!” But as their experience grew over the years, we noticed the practice energy becoming much stronger. Returning long term practitioners gave us faith in the practice. Now there is a huge monastic and lay sangha and retreats flow easily. In the early years we were quite disorganized. Communication between the hamlets was not always good. Lower Hamlet did not know the schedule of Upper Hamlet and Upper Hamlet came down expecting a Dharma Talk and Lower Hamlet was doing something else. Thay used to say, organization is not our talent in Plum Village. There are lay people who do it much better than us.
 
 **PV Newsletter**: When you felt very tired and needed a spiritual boost, what are the practices that have been very supportive through the years?
+
+{% image "article2023/sr-chan-duc-interview-done/IMG_9782_e.jpg" %}
 
 **Sr. Chan Duc**: Walking was very important. When I am not able to go outside, I just walk up and down in my room. I walk very slowly. I can take one step for every  two breaths. To be able to sit in a good position is also very helpful. I try not to do anything but just to breathe, keeping my eyes open. I may look out of the window. At that moment if I make myself meditate on something I may become too tired. Then I just sit and breathe, and whatever happens is okay. 
 

@@ -1026,7 +1026,7 @@ figure#article2023sr-linh-dimountain-dreamedit {
 }
 
 
-html:lang(en) .article2023sr-dao-nghiemIMG8654e,
+html:lang(en) #article2023sr-dao-nghiemIMG8654e,
 figure#article2023sr-tung-hac-doneIMG4941,
 figure#article2023sr-dinh-nghiem-thay-van-luon-la-thay1e
 {
@@ -1050,10 +1050,16 @@ figure#article2023sr-nhat-nghiem-doneSrNhat-Nghieme
     float: none;
 }
 
-figure#article2023sr-chan-duc-interview-doneIMG9782e
+html:lang(vi) figure#article2023sr-chan-duc-interview-doneIMG9782e
 {
     margin-top: 4mm;
     width: 75%;
+}
+
+html:lang(en) figure#article2023sr-chan-duc-interview-doneIMG9782e
+{
+    margin-top: 6mm;
+    width: 100%;
 }
 
 figure#article2023Lang-mai-nam-quatruyen-dang-an-cu-2022122LampTransmission2022img8217e

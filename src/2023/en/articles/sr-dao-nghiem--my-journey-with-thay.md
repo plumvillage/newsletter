@@ -15,7 +15,7 @@ During this very first retreat, Thay told us the story of a group of nuns who ha
 
 I really enjoyed this story and hearing Thay, a Buddhist teacher speaking about God so freely and so beautifully!
 
-{% image "article2023/sr-dao-nghiem/IMG_5676.jpg" %}
+<!-- {% image "article2023/sr-dao-nghiem/IMG_5676.jpg" %} -->
 
 Just after this first retreat I went to see my aunt who had been in a coma for a couple of months. She died the night after my arrival and I felt deeply how the teachings I had just received while in Plum Village gave me the peace to embrace my own pain and the pain of her children and grandchildren. The words of Thay resonated in my mind. My aunt is still alive, she is everywhere. I feel her presence and can help my cousins to recognize within them the beautiful qualities of my aunt. She will continue within us.
 
@@ -41,13 +41,13 @@ Drinking tea in Thay’s company was one of my dreams when I first came to Plum 
 
 The first year after my ordination Thay often played with my name, calling me DaoLakshmi or LakshmiDao, smiling as he looked at me. Before I ordained I lived in an ashram for twenty years and I identified a lot with who I was. There I was called “Lakshmi.” Thay helped me to see this identification and the suffering that this was bringing, as it did not allow me to open myself to what the present moment was offering.
 
-{% image "article2023/sr-dao-nghiem/IMG_8654_e.JPG" %}
-
 The last spoken Dharma talk that Thay offered was at the beginning of the French Educator’s Retreat. Sr Jina and myself were sitting on each side of Thay. Thay turned to me and said, “Sœur Dao Nghiem, êtes-vous confortable?” (English: “Sister Dao Nghiem, do you feel at ease?”)  Gently, Thay brought me back to the present moment, the wonderful moment sitting with Thay alive next to me. Thay was sitting in a wheelchair and was already very sick and in my mind anxiety was present there. The question that Thay asked was a big bell of mindfulness. *Come back my child, where are you?*
 
 Thay taught me to see how life is incredibly beautiful. Thay helped me to touch, to see the miracle of life in very ordinary things, to experience the interdependent nature of all that is, and to understand how all of my actions of body, speech and mind have an effect on the whole world.
 
 The first couple of years of being a novice I had some very difficult moments. Sometimes I did not know what to do. I was asking myself: *Why did I ordain, why did I choose to join this community, why did I leave my other community?* And I was calling in my heart to Thay to come and help me to see clearly. And so many times, Thay appeared. Physically appeared. During this period I was staying in the New Hamlet and Thay would suddenly appear for sitting meditation with us early in the morning, or for precepts recitation or from behind a door or in his car or maybe coming out of a bathroom, giving me a smile or a gentle gesture from his hands, a few words, a simple presence all showing me that he was there present for me. He still is even though he is not physically present anymore.
+
+{% image "article2023/sr-dao-nghiem/IMG_8654_e.JPG" %}
 
 In 2012 Thay and the Sangha came to Paris for a few days. At this time I was living in Maison de l’Inspir and with another sister we were very much involved in the organizing of this big event. We had an argument in the garden and Thay was sitting not too far from us. I went to Thay and shared with him the feeling I had at that moment, sharing about how we hurt each other with our perceptions, and how painful it was. Thay listened and then shared with me that many people had perceptions about Thay but Thay just continued with determination, not letting himself be discouraged by the perceptions that people had of Thay. We have wrong perceptions about others, others have wrong perceptions about us and we have wrong perceptions about ourselves. We need to continue, to keep going. Everything that Thay shared stayed with me and helped me to go through many difficult times in my monastic life.
 

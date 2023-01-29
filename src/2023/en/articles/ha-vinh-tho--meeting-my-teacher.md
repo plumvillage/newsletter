@@ -1,5 +1,5 @@
 ﻿---
-title: Meeting my teacher
+title: Meeting my Teacher
 author: Dr. Hà Vĩnh Thọ
 ---
 <!-- *(In memory of a prominent son of Vietnam)* -->
