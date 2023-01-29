@@ -1,9 +1,9 @@
 module.exports = [
+"review-of-the-year",
 "su-ong--let-us-share-the-vision",
 "young-buds--positive-habit",
 "young-buds--elder-one",
 "young-buds--mindful-manners",
-"lang-mai-nam-qua",
 "sr-chan-duc--reflections-on-engaged-and-applied-buddhism",
 "sr-the-nghiem--a-true-teacher",
 "br-phap-luu--thay-in-my-heart",

@@ -15,6 +15,8 @@ During this very first retreat, Thay told us the story of a group of nuns who ha
 
 I really enjoyed this story and hearing Thay, a Buddhist teacher speaking about God so freely and so beautifully!
 
+{% image "article2023/sr-dao-nghiem/IMG_5676.jpg" %}
+
 Just after this first retreat I went to see my aunt who had been in a coma for a couple of months. She died the night after my arrival and I felt deeply how the teachings I had just received while in Plum Village gave me the peace to embrace my own pain and the pain of her children and grandchildren. The words of Thay resonated in my mind. My aunt is still alive, she is everywhere. I feel her presence and can help my cousins to recognize within them the beautiful qualities of my aunt. She will continue within us.
 
 I learned from Thay how to connect with my father, with my mindful steps. *Feel that you are holding the hand of your dad, then feel his feet walking in your feet*.
@@ -29,6 +31,8 @@ So many times I walked behind Thay, on different paths, in many big cities surro
 
 The suffering that I felt at my mother’s death in 1995 was buried deep within me. It was too painful to look at it and I preferred not to. Thay’s teachings on Mother Earth and his deep love allowed me to open myself to my suffering and to feel the love of my mother through the love of Mother Earth. Looking at the incredible beauty of Mother Nature and being truly present for her gifts, her beauty, her love, I was able to embrace my pain, bring relief and understand that my mom is still alive within me. I can offer to her my joy, my way of living and not only to my mom but to all of my ancestors. I am their continuation.
 
+{% image "article2023/sr-dao-nghiem/IMG_4821_e.JPG" %}
+
 Arriving in Lower Hamlet in February 2002, I was moved by the simplicity of the place and by a calligraphy on the wall of the dining hall: *The piece of bread in your hand is the body of the cosmos*.
 
 In 2005, one day after a US tour, Thay was resting with us in Pine and Crane, a nunnery we had in Vermont at that time. Just a few of us had dinner with Thay and Thay asked me, “You have nothing to eat, why don’t you eat?” “Oh Thay, I prefer not to eat in the evening, I feel better this way,” I answered. Thay looked at me with a smile and he took a piece of bread that he had on his plate and handed it to me. How could I refuse this piece of bread? I took it with a smile and gently ate it. This simple gesture from my teacher touched me and I learned how to look deeply at a piece of bread, to see the presence of the whole cosmos in the piece of bread, the interbeing nature of the bread, to feel the immense gratitude for everything that surrounds us.
@@ -36,6 +40,8 @@ In 2005, one day after a US tour, Thay was resting with us in Pine and Crane, a 
 Drinking tea in Thay’s company was one of my dreams when I first came to Plum Village and I wrote about it to Thay. On the first anniversary of our novice ordination, Thay before his Dharma talk called our little ordination family of four sisters and asked us to share about our practice during the past year. I shared that I practiced letting go of my expectations. Thay asked me if I was expecting Thay to become a buddha quickly and I replied that for me Thay was already the Buddha. Then Thay said, “Were you expecting to drink many cups of tea with Thay?”, and I said, “Touché”, and Thay laughed a lot -  a beautiful moment of complicity. Since then I have enjoyed many cups of tea with Thay. Such a simple gesture that can bring great happiness.
 
 The first year after my ordination Thay often played with my name, calling me DaoLakshmi or LakshmiDao, smiling as he looked at me. Before I ordained I lived in an ashram for twenty years and I identified a lot with who I was. There I was called “Lakshmi.” Thay helped me to see this identification and the suffering that this was bringing, as it did not allow me to open myself to what the present moment was offering.
+
+{% image "article2023/sr-dao-nghiem/IMG_8654_e.JPG" %}
 
 The last spoken Dharma talk that Thay offered was at the beginning of the French Educator’s Retreat. Sr Jina and myself were sitting on each side of Thay. Thay turned to me and said, “Sœur Dao Nghiem, êtes-vous confortable?” (English: “Sister Dao Nghiem, do you feel at ease?”)  Gently, Thay brought me back to the present moment, the wonderful moment sitting with Thay alive next to me. Thay was sitting in a wheelchair and was already very sick and in my mind anxiety was present there. The question that Thay asked was a big bell of mindfulness. *Come back my child, where are you?*
 
