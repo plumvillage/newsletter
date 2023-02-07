@@ -9,6 +9,7 @@ module.exports = [
 "br-phap-luu--thay-in-my-heart",
 "sr-dao-nghiem--my-journey-with-thay",
 "ha-vinh-tho--meeting-my-teacher",
+"sr-dinh-nghiem--thay-is-still-thay",
 "sr-thao-nghiem--we-are-with-you-at-the-top-of-the-hill",
 "sr-tuyet-nghiem--thays-hand-in-my-pocket",
 "br-thien-chi--the-taste-of-insight",

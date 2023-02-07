@@ -30,10 +30,14 @@ In Thay’s hermitage there is a flight of stairs that leads to Thay’s room. I
 
 Thay was always like that–he waited for me to come before starting to walk, and we both walked up the stairs one step at a time in mindfulness and happiness. It took a few steps for me to calm down again and be happy, because Thay had guided and reminded me to walk in mindfulness. I didn’t have to do anything, only to walk in Thay’s footsteps. Thay often smiled and said, “The teacher and student are climbing the hill of the century!” Thay had trained me to walk mindfully and today I always remember to do as Thay. 
 
-Back then Thay kept saying: “We have already climbed the hill of the century for many years. When we reach the top, how old would I be?” and laughed. I imagined that when I reach the top of the hill, Thay would be sitting there, in flesh and blood. By then I will be an old nun whose heart is filled with happiness, knowing that Thay is still sitting with us, surrounded by a beloved sangha. I will be wise enough and grown up enough after having leaned on Thay for so long. 
+Back then Thay kept saying: “We have already climbed the hill of the century for many years. When we reach the top, how old would I be?” and laughed. I imagined that when I reach the top of the hill, Thay would be sitting there, in flesh and blood. By then I will be an old nun whose heart is filled with happiness, knowing that Thay is still sitting with us, surrounded by a beloved sangha. I will be wise enough and grown up enough after having leaned on Thay for so long.
 
 Dear respected Thay, we are with you at the top of the hill, sitting peacefully together, breathing with the same rhythm, smiling and looking at the wonder of Earth and sky. With Thay in my heart, I see that I have enough, I am strong, rich, and warm.
 
-{% image "article2023/sr-thao-nghiem/DSC_5381_e2.jpg" %}
+<!-- {% image "article2023/sr-thao-nghiem/DSC_5381_e2.jpg" %} -->
 
 Whenever I am immersed in the heart of the sangha, I remember Thay’s old dream–to build a kind sangha that has brotherhood and sisterhood, and the substance of the practice. Dearest Thay, perhaps your dream from long ago has been realized? That dream has become our present and will be so for our younger siblings and for everyone in the future.
+
+<div class="article-end"></div>
+
+{% image "article2023/sr-thao-nghiem/Ngoi giua gio xuan.2_e.jpg" %}
