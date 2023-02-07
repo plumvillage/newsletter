@@ -225,7 +225,7 @@ module.exports = function(eleventyConfig) {
                 e.existsInArticleOrder = articleOrder[lang+year].includes(e.fileSlug)
 
                 // sometimes I set id to make it custom. if not, use title:
-                if (!e.data.id) { 
+                if (!e.data.id && e.data.title) { 
                     // I emulate nunjucks' slugify here to get the same result
                     e.data.id = slugify(e.data.title, { strict: true, lower: true })
                 }
