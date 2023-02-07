@@ -35,7 +35,8 @@ Con nhớ mãi kỉ niệm lần đầu tiên con được gặp Thầy tại th
 
 Con tiếp tục học, rồi tốt nghiệp, về lại Huế đi làm và vẫn giữ mong ước được làm học trò xuất gia với Thầy. Bốn ngày trước khi Thầy tịch, con được lên kiểm tra răng cho Thầy. Thầy nằm bình an trên giường, dù mệt nhưng vẫn để con kiểm tra. Con ý thức có thể đây là lần cuối được gặp Thầy nên rất trân quý những giây phút ấy. Con ngắm kĩ khuôn mặt Thầy và cùng thở với Thầy. Thầy không mở mắt nhưng con thấy mặt Thầy nhấp nháy như đang lắng nghe cuộc nói chuyện của con. Cách đây tám năm, Thầy muốn con được qua Làng xuất gia nhưng con chưa đủ duyên. Giờ đây, con được lên thăm Thầy và báo tin con sắp qua Làng tu học như ước nguyện năm xưa. 
 
-{% image "article2023/sr-tam-duc-done/DSC_4613_e.JPG" %}
+<!-- {% image "article2023/sr-tam-duc-done/DSC_4613_e.JPG" %} -->
+{% image "article2023/sr-tam-duc-done/DSC_5503_e.jpg" %}
 
 Trong nhà, mạ là người ủng hộ con đi tu, mạ nói ở ngoài đời, lấy chồng sinh con khổ quá. Ba không yểm trợ lắm vì muốn con ở ngoài đi làm để giúp đỡ gia đình. Con đã nhiều lần nói chuyện với ba về công việc con làm, xen lẫn những mong ước. Khi thấy các bác Tiếp Hiện làm chương trình Hiểu và Thương, con ao ước ngày mô đó ba cũng sẽ được tham gia cùng các bác. Khi ba nghỉ hưu, mong ước đó đã thành. Ba còn siêng đi sinh hoạt tăng thân, dự ngày Quán niệm. Thỉnh thoảng, mạ đi cùng và luôn ủng hộ ba làm các chương trình. Dần dần, ba yểm trợ cho ước nguyện của con hơn. 
 

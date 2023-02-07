@@ -38,7 +38,7 @@ Permanence…</p></div>
 
 From Angola to Portugal, she carried the history of her life in her flesh and bones - more than that, she carried them in this mind of hers, now afflicted by a ravaging dementia. But even in the midst of so much pain and confusion, she maintained beautiful traces of her boundless love and generosity. Sometimes, when we had to turn her body, she would scream with excruciating pain and become really angry towards whoever had to move her. Only to, in the next moment, fill us with loving hugs and kisses. I could see all those seeds in me too; the anger, the confusion, the deep love and selfless generosity. And I knew also, that at any moment she would breathe her last breath.
 
-On the 30th of June, in the year 2022, at the age of 92, my grandmother died. She was rushed to the hospital with a severe lung infection. She had stopped eating and her breathing became labored. I knew on this day, before she was carried away by the emergency services, that she would not return home. Not in the same form.
+On the 30th of July, in the year 2022, at the age of 92, my grandmother died. She was rushed to the hospital with a severe lung infection. She had stopped eating and her breathing became labored. I knew on this day, before she was carried away by the emergency services, that she would not return home. Not in the same form.
 
 <div class="verse"><p>Impermanence —<br/>
 how can I let it impregnate my being,<br/>

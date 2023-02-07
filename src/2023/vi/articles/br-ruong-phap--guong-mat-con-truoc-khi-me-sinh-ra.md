@@ -11,21 +11,21 @@ Khoảng sáu tháng trước ngày ấy, con được tăng thân cho phép v�
 
 Năm trước con đã có cơ hội về thăm bà vài tuần. Đó cũng là lần đầu tiên con về nhà với hình tướng của một người xuất sĩ. Bệnh mất trí của bà trở nặng và bà cũng không còn nhận được ra con. “Bà biết con là người nhà, nhưng bà chẳng biết tên con và cũng không biết con là ai”, bà nói. Ngày qua ngày, bà thường gọi con là “Chú tiểu” hoặc là “Cha xứ” mà không bao giờ nhắc đến con như cháu trai của bà. Dù cho nhiều lúc con cảm thấy buồn khi chứng kiến sự sa sút về sức khỏe thân tâm của bà. Bản năng cho con biết rằng tình thương chính là ngôn ngữ hiệu quả nhất mà con có thể truyền tải tới bà. Có thể bà cũng thấy quen thuộc với nguồn năng lượng thương yêu này vì chính bà là người trao truyền nó cho con và cho bất kỳ ai mà bà có cơ hội tiếp xúc. Một tình thương và lòng rộng lượng không ngằn mé.
 
+{% image "article2023/br-ruong-phap-done/7.jpg" %}
+
 Chỉ trong 5 tháng, tình hình sức khỏe của bà ngày càng xấu đi. Bà nằm liệt giường, gầy mòn và đau đớn. Khả năng nhận thức cũng thuyên giảm nhanh chóng. Ngay khi đặt chân về đến nhà, con đã cảm nhận ngay năng lượng trầm cảm và u buồn của cả nhà. Bầu không khí nặng nề và ảm đạm, đầy đau khổ và lo lắng. Đây cũng là lần đầu tiên mà mẹ con tắt hẳn nụ cười và thay vào đó là những dòng lệ khi thấy con trở về.
 
 Nhờ được học về giáo lý duyên khởi “mọi thứ đều do nhân duyên mà phát sinh, không có gì có thể tự nó sinh ra và mất đi” đã giúp cho con dừng lại và quán chiếu sâu sắc hơn.
 
 Con thở với ý thức là những gì con đang được chứng kiến có gốc rễ sâu dày và phức tạp hơn là những gì biểu hiện trước mắt con.
 
-{% image "article2023/br-ruong-phap-done/7.jpg" %}
-
 Biết rằng chỉ có thật sự tiếp xúc với giây phút hiện tại mới có thể giúp mình học hỏi và lớn lên, con xem khổ đau chính là cái mà con cần học và bà là người thầy dạy con về bài học này. Dù như thế nào, con hứa với lòng là sẽ duy trì ý thức về Năm điều tâm niệm:
 
-- Tôi thế nào cũng phải già nua, tôi không thể nào tránh thoát được sự già nua.
-- Tôi thế nào cũng phải bệnh, tôi không thể nào tránh thoát được cái bệnh.
-- Tôi thế nào cũng phải chết, tôi không thể nào tránh thoát được cái chết.
-- Tất cả những người tôi thương yêu và tất cả những gì tôi trân quý hôm nay, một mai này tôi đều phải xa lìa và buông bỏ; tôi không thể nào tránh thoát được giờ phút xa lìa và buông bỏ ấy.
-- Tôi là kẻ thừa tự những nghiệp quả do thân, miệng và ý của tôi tạo nên, và những nghiệp quả ấy là cái duy nhất tôi có thể mang theo với tôi sau này.
+- *Tôi thế nào cũng phải già nua, tôi không thể nào tránh thoát được sự già nua.*
+- *Tôi thế nào cũng phải bệnh, tôi không thể nào tránh thoát được cái bệnh.*
+- *Tôi thế nào cũng phải chết, tôi không thể nào tránh thoát được cái chết.*
+- *Tất cả những người tôi thương yêu và tất cả những gì tôi trân quý hôm nay, một mai này tôi đều phải xa lìa và buông bỏ; tôi không thể nào tránh thoát được giờ phút xa lìa và buông bỏ ấy.*
+- *Tôi là kẻ thừa tự những nghiệp quả do thân, miệng và ý của tôi tạo nên, và những nghiệp quả ấy là cái duy nhất tôi có thể mang theo với tôi sau này.*
 
 Sau tất cả, tuổi già, bệnh tật và cái chết sẽ trực tiếp mở ra trước mắt con. Làm sao mà con không giữ ý thức về nó cho được?
 
@@ -56,6 +56,8 @@ Bà có nghe chú chim hồng tước<br/>
 
 Tang lễ diễn ra đơn giản và nhanh chóng. Gia đình con không muốn bất kì một nghi thức tôn giáo nào được thực hiện. Không có cha xứ hay biểu tượng tôn giáo nào trong tang lễ.
 
+{% image "article2023/br-ruong-phap-done/6.jpg" %}
+
 Từ lâu, gia đình con đã mất niềm tin vào Nhà thờ Công giáo. Con là người duy nhất đem khía cạnh tâm linh biểu hiện trong giây phút linh thiêng ấy của tang lễ. Con đắp y đứng yên lặng ở đó với nước mắt lưng tròng, nhẹ nhàng chú tâm vào hơi thở. Nhìn sâu vào thân thể cứng đơ, lạnh ngắt và không còn sức sống của bà, con thấy rằng bà không phải chỉ là hình hài đó. 
 
 Vào giờ phút cuối cùng của sự tiễn biệt, mẹ con đặt tay lên vầng trán lạnh giá của bà, trong khi những thành viên khác vây quanh quan tài thành một vòng tròn. Khoảnh khắc đó con ước rằng mọi người có thể thấy được điều con thấy: bà vẫn tiếp tục có mặt trong mỗi tế bào cơ thể của con cháu. Sự tồn tại của bà không bị giới hạn bởi hình hài đang nằm kia. Nếu chúng con lấy yếu tố “bà” ra khỏi mình, chúng con sẽ tan biến ngay lập tức. 
@@ -69,8 +71,6 @@ Sợ hãi liền tan biến<br/>
 Mọi sầu khổ rụng rơi.</p></div>
 
 Mong ước sâu sắc nhất của con là những gì con đã trực tiếp kinh nghiệm trước sự ra đi của bà có thể giúp con thấm nhuần về vô thường và tương tức, để con hiến tặng được món quà vô úy cho người khác. Con đã bỏ lỡ cơ hội này khi cha con mất. Lúc đó, ở tuổi 18, con không thể có mặt cho nỗi đau khổ của con cũng như của những người xung quanh. Con không thể có mặt cho cha. Giờ đây con có cơ hội để chữa lành quá khứ trong giây phút hiện tại. Con có cơ hội chia sẻ về sự cao quý của khổ đau (khổ đế). Bởi vì nếu con biết sử dụng chất bùn của khổ đau thì biết bao loài hoa trong khu vườn tâm sẽ có khả năng nở rộ. Cuộc sống sẽ trở nên nhiều màu sắc, phong phú và quý giá hơn.
-
-{% image "article2023/br-ruong-phap-done/6.jpg" %}
 
 Sự sống vẫn tiếp diễn và con vẫn bắt gặp mình đang tìm kiếm dáng hình quen thuộc của bà. Con cố gắng tập cho mình nhìn thấy bà trong chiếc lá sồi đỏ, đang lén nhìn con và mỉm cười. Chiếc lá hỏi con rằng: “Cháu yêu, cháu có đang để ý không? Cháu có thấy được sự có mặt của bà nơi đây? Còn ở đằng kia nữa? Cháu không thấy bà đang nháy mắt với cháu qua tấm gương mà cháu soi mỗi sáng khi thức dậy sao? Cháu có cảm nhận được bà đang hiện diện trong lòng bàn chân mỗi khi cháu có mặt cho những bước chân của mình không? Chỉ cần để tâm hơn chút xíu nữa, cháu sẽ thấy rằng bà là đôi chân cháu và cũng là đất mà cháu đang giẫm lên”.
 

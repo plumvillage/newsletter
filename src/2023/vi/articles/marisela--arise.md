@@ -11,6 +11,8 @@ author: Phỏng vấn Marisela Gomez – tăng thân ARISE
 
 Trong tăng thân, cộng đồng BIPOC thường được đại diện bởi các xuất sĩ người Việt, nhưng vẫn còn rất hiếm người da đen, người Mỹ La Tinh cũng như người bản địa. Một số người trong cộng đồng BIPOC, trong đó có tôi, đã đặt câu hỏi: “Chúng tôi đang ở đâu và tại sao chúng tôi không có đại diện trong tăng thân?”. Khi đặt ra câu hỏi này, chúng tôi thường nhận được câu trả lời nôm na là: “Chuyện đó không quan trọng, vì thực ra chúng ta giống nhau, chúng ta tương tức và chúng ta là một. Nói như các bạn có thể gây chia rẽ trong tăng thân”. Nghe vậy chúng tôi rất đau lòng. Trong khi đó những gì chúng tôi đối diện trong đời sống hàng ngày liên quan đến vấn đề chủng tộc vẫn không ngừng gây ra những vết thương cần được chữa lành. Lẽ ra tăng thân là nơi chúng tôi có thể làm được điều đó. Nhưng nếu chúng tôi mang những vấn đề này ra thì lại không dễ được đón nhận. Hầu hết các tăng thân ở Mỹ đều có người da trắng chiếm đa số.
 
+{% image "article2023/marisela/arise-header.jpg" %}
+
 Một ví dụ cụ thể là sau cái chết của Freddie Gray – một thanh niên da đen - tại Mỹ vào năm 2015, có rất nhiều các cuộc biểu tình với hàng ngàn người xuống đường phản đối hành vi tàn bạo của cảnh sát. Một người bạn da đen đã chia sẻ vấn đề này trong tăng thân, nơi người da trắng chiếm đa số, nhưng không hề có ai lên tiếng. Không chỉ những người da đen mà cả xã hội Mỹ lúc bấy giờ đang bị tổn thương. Người bạn ấy đã trực tiếp gặp tôi và nói rằng bạn ấy không thể tiếp tục sinh hoạt trong tăng thân vì cảm giác sự có mặt của mình không được thừa nhận và không được quan tâm. 
 
 Khi có khó khăn xảy ra trong cộng đồng BIPOC, liệu tăng thân chúng ta có thể ôm ấp được không? Nếu tăng thân không hiểu rõ về nỗi đau mà cộng đồng BIPOC đang chịu đựng thì làm sao có thể ôm ấp được? Nếu có một người trong cộng đồng BIPOC qua đời, đặc biệt là do bạo lực, chúng tôi mong muốn tăng thân có mặt và cùng chia sẻ với chúng tôi niềm đau đó. Nhưng nếu tăng thân không hay biết gì về chuyện xảy ra, chúng tôi sẽ cảm thấy bơ vơ và bị tổn thương.
@@ -39,7 +41,9 @@ Hiện giờ, trong tăng thân ARISE vẫn có những người bạn da trắn
 
 Tăng thân ARISE vừa tổ chức một khóa học sáu tháng có tên là: “Chủng Tộc: Một pháp môn” (Race: A Dharma Door). Chúng tôi sử dụng giáo lý Tứ diệu đế làm cơ sở để trình bày sự phân biệt và bất công chủng tộc gây ra khổ đau như thế nào. ARISE cũng đã làm một bài quán nguyện dựa trên Năm Giới, chú trọng vào công bằng chủng tộc để làm rõ cách chúng ta có thể áp dụng tất cả các pháp môn để chấm dứt khổ đau này. Chúng ta đã có đầy đủ các phương tiện cần thiết. 
 
-Chúng ta cần chia sẻ giáo pháp như thế nào để mọi người đều thấy mình trong đó. Chánh pháp giúp cho tất cả mọi người tạo dựng không gian trong mình để trị liệu, nhìn rõ và hiểu được họ cần nuôi dưỡng điều gì, bên cạnh việc chăm sóc niềm đau, nỗi khổ của mình. Những người nghèo, những người đồng tính, hay những người bị khuyết tật, ta đều không thể bỏ sót bất cứ ai. 
+Chúng ta cần chia sẻ giáo pháp như thế nào để mọi người đều thấy mình trong đó. Chánh pháp giúp cho tất cả mọi người tạo dựng không gian trong mình để trị liệu, nhìn rõ và hiểu được họ cần nuôi dưỡng điều gì, bên cạnh việc chăm sóc niềm đau, nỗi khổ của mình. Những người nghèo, những người đồng tính, hay những người bị khuyết tật, ta đều không thể bỏ sót bất cứ ai.
+
+{% image "article2023/marisela/Lamp Transmissions_UH_10.06.22 _62_e.jpg" %}
 
 **BBT: Điều gì là trở ngại lớn nhất trong việc xây dựng tăng thân ARISE?**
 

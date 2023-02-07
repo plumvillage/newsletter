@@ -541,7 +541,8 @@ article blockquote:lang(zh) {
 }
 
 p + .verse,
-.verse + p
+.verse + p,
+.verse + .verse
 {
     margin-top: 11pt;
 }
@@ -1043,12 +1044,18 @@ figure#article2023sr-chua-xua-done20230110110050e,
 figure#article2023sr-tung-hac-doneta-co-la-ta-ta-moi-depedit,
 figure#article2023Lang-mai-nam-quatruyen-dang-an-cu-2022122LampTransmission2022img8217e,
 figure#article2023sr-nhat-nghiem-doneSrNhat-Nghieme,
-figure#article2023sr-thao-nghiemNgoi-giua-gio-xuan2e
+figure#article2023sr-thao-nghiemNgoi-giua-gio-xuan2e,
+figure#article2023John-P-HussmanLeaf-Richie,
+#poem-hoi-n-tam
 {
     column-span: all;
     margin-left: auto;
     margin-right: auto;
     float: none;
+}
+
+#poem-hoi-n-tam {
+    padding-left: 35%;
 }
 
 html:lang(vi) figure#article2023sr-chan-duc-interview-doneIMG9782e
@@ -1074,6 +1081,13 @@ figure#article2023sr-chua-xua-done20230110110050e
     margin-top: 4mm;
     margin-bottom: 0mm;
     width: 84%;
+}
+
+figure#article2023John-P-HussmanLeaf-Richie
+{
+    margin-top: 7mm;
+    margin-bottom: 0mm;
+    width: 80%;
 }
 
 html:lang(en) figure#article2023sr-thao-nghiemNgoi-giua-gio-xuan2e
@@ -1211,10 +1225,14 @@ figure#article2023sr-tuyet-nghiem-doneimage-3 img {
     content: none !important;
 }
 
-
+figure#article2023sr-tam-duc-doneDSC5503e,
 figure#article2023sr-tam-duc-doneMG6079-edited2 {
-    width: 90%;
-    padding-left: 5%;
+    width: 85%;
+    padding-left: 7.5%;
     float: none;
 }
 
+.article-guong-mat-con-truoc-khi-me-sinh-ra figure {
+    width: 94%;
+    padding-right: 3%;
+}

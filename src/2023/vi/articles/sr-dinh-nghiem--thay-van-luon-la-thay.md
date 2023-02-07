@@ -21,9 +21,9 @@ Có những lúc Thầy cười ra tiếng thật to, thật vui. Lần đầu t
 
 Một hôm, Thầy quyết định xuất viện. Sư cô Chân Không hoảng hốt! Về lại Làng sẽ không có bác sĩ, y tá bên cạnh, sẽ không còn phòng tập phục hồi chức năng cùng các bác sĩ vật lý trị liệu. Làm sao đây? Nhưng các bác sĩ của Thầy lại không lo lắng gì mấy. Bác sĩ Rouanet còn nói: “Thay a son propre programme” (Thầy có chương trình riêng của Thầy).
 
-{% image "article2023/sr-dinh-nghiem--thay-van-luon-la-thay/image4.jpg" %}
-
 Đúng vậy! Về tới Sơn Cốc, Thầy đi thăm lại từng căn phòng, dầu cho phải leo cầu thang dài lên đến lầu trên. Mỗi ngày Thầy đi ngắm từng gốc cây, ngọn cỏ, từng bông hoa hồng. Thầy nằm chơi trên xích đu dưới bóng mát của ba cây tùng mà Thầy thường gọi là “ba sư anh lớn” của chúng con. Thầy đi thăm giàn mướp. Thầy tập đi ngoài trời, đi len lỏi qua cả những cây tre thật xanh mọc chen chúc trong rừng tre. Thấy có một cây hoa sơn thù du (dogwood) con mà các sư cô biết Thầy thích và đã mua về còn để trong bọc chưa kịp đem trồng, Thầy liền “chỉ huy” thị giả đào lỗ đúng nơi Thầy chọn, đặt cây con xuống, lấp đất lại và tưới nước cho cây. Thầy còn chỉ cho các thầy, các sư cô trùng tu lại ngôi nhà gỗ cũ kỹ và thuê thợ xây thêm thiền đường ở cuối vườn Nội viện. Mỗi sáng, Thầy còn đi khảo sát công trình nữa chứ.
+
+{% image "article2023/sr-dinh-nghiem--thay-van-luon-la-thay/image4.jpg" %}
 
 Thầy dùng thức ăn mỗi ngày mỗi nhiều hơn, bắt đầu với món táo nấu xay nhuyễn và súp củ quả xay nhuyễn khi còn ở bệnh viện. Về đây, đi ngang qua thấy có trái chanh trên bàn nhà bếp, Thầy liền chỉ trái chanh và muốn nếm lại vị chua thật chua. Rồi Thầy muốn thử đến trái bơ, tiếp đến là muốn dùng cơm, sau đó là bánh mì baguette giòn rụm, rồi đủ các món như phở, bún riêu… Mỗi bữa ăn của Thầy đều là những giây phút bình an và hạnh phúc.
 

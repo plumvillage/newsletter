@@ -37,9 +37,6 @@ Giống như vị thiền sư dạy đệ tử cách quán chiếu cây tùng tr
 
 Đệ tử của Thầy đến từ khắp mọi miền và mọi nền tôn giáo nhưng Thầy luôn có cách chỉ dạy dung hòa được mọi sự khác biệt. Thay vì bị kẹt trong giáo điều hay một hệ tư tưởng, Thầy dạy đệ tử thấu hiểu về tương tức. Thầy không ngần ngại giảng về vũ trụ, Thượng Đế, Niết bàn và cõi Tịnh độ của Bụt trong cùng một bài giảng. Thầy không phân biệt gì cả. Nếu tất cả chúng ta đều có chung một cội nguồn, thì không có mong ước nào lớn hơn là chúng ta có đủ tỉnh thức để nhận ra tính nhân bản trong nhau.
 
-{% image "article2023/John-P-Hussman/Leaf-Richi.jpg" %}
-<!-- drawing by Ricelli (Richi) Laplace Resende -->
-
 Thậm chí khi nói về “cái chết”, Thầy cũng giảng một cách rất nhẹ nhàng. Thầy từng kể câu chuyện có một bé gái hỏi Thầy: “Thầy ơi, trong kiếp sau của Thầy, Thầy muốn trở thành gì?” Sau một hồi suy nghĩ, Thầy trả lời: “Thầy thấy là Thầy có thể trở thành nhiều thứ lắm, là con bướm nè, là đám mây nè và cũng có thể là một bông hoa vàng nữa”. Rồi Thầy dí dỏm nói thêm: “và nếu con không chánh niệm, con có thể giẫm lên Thầy đó”.
 
 Những giây phút bình dị bên Thầy là những khoảnh khắc đọng lại trong tâm trí tôi nhiều nhất. Khi tôi và Terri được làm lễ hằng thuận tại Làng, Thầy nâng lên một lá sen và chỉ cho chúng tôi thấy cọng lá sen tuy bị bẻ đôi nhưng hai đoạn vẫn còn dính nhau nhờ sợi tơ sen. Hay một lần vào giờ dùng cơm, Thầy bất chợt phá tan sự im lặng bằng cách trở đầu đũa, gắp vào chén tôi một món chiên. Rồi Thầy mỉm cười với ánh mắt sáng rỡ hào hứng và nói: “Đó là chiếc lá”.
@@ -61,3 +58,8 @@ Trong những lần tới thăm Thầy sau cùng, Thầy nói chuyện rất kh�
 Chúng ta có khuynh hướng nghĩ rằng chúng ta đã “mất” Thầy rồi. Chắc hẳn Thầy sẽ thì thầm: “Điều đó không đúng đâu!” Thầy luôn còn đây, trong đám mây, cánh bướm, bông hoa, chiếc lá, trong muôn vàn biểu hiện của cõi tịnh độ và trong bản môn. Tất cả những biểu hiện mầu nhiệm đó đang giữ gìn Thầy cho chúng ta.
 
 “Thân này không phải là tôi. Tôi không kẹt vào nơi thân ấy. Tôi là sự sống thênh thang. Tôi chưa bao giờ từng sinh mà cũng chưa bao giờ từng diệt”. Thầy chưa bao giờ sợ hãi vì Thầy thấy rõ ràng sự tiếp nối đẹp đẽ và vô tận của mình nơi các đệ tử - xuất gia cũng như tại gia; trong mỗi hơi thở, nụ cười chánh niệm, trong những hành động, lời nói đầy bình an và từ bi đang lan tỏa như những gợn sóng trên đại dương.
+
+<div class="article-end"></div>
+
+{% image "article2023/John-P-Hussman/Leaf-Richi_e.jpg" %}
+<!-- drawing by Ricelli (Richi) Laplace Resende -->

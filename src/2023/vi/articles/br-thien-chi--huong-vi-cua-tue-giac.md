@@ -37,6 +37,8 @@ Buổi sáng hôm đó, con đi ngang qua thầy Đạo Quang. Nhìn bộ điệ
 
 ## Tuệ giác = sự thực tập?
 
+{% image "article2023/br-thien-chi-done/IMG_9655_e.jpg" %}
+
 Theo kinh nghiệm còn hạn hẹp của con, tuệ giác thường ẩn nấp dưới những lớp vỏ bọc không mấy dễ chịu. Giống như trái cây thì có những lớp da hay vỏ dày, gai góc bao bọc bên ngoài. Để có được phần cơm quả bên trong, có lẽ con phải buông thư và chấp nhận những lớp vỏ đau đớn và coi đó là một phần của chính mình. Khi tự đặt những câu hỏi như: “Sao mình không thích hình hài này của mình?” hay “Sao lúc nào mình cũng căng thẳng vậy?” giúp con nhẹ nhàng định hướng lại sự chú tâm của mình. Khi chạm tới ngưỡng cửa của tuệ giác, con thường thấy mình có nhu yếu từ bỏ ý muốn tranh đấu với những đau nhức để có thể mở lòng ra, dù rằng có khi điều đó làm con càng mong manh và dễ bị tổn thương hơn.
 
 Thấy được ba đang có mặt trong con với những phẩm chất đẹp và chưa đẹp, cái thấy đó không làm cho con hạnh phúc hơn, nhưng khiến con khiêm nhường hơn, vững vàng và thực tế hơn. Nếu cách đây vài năm, có lẽ con không thể nào chấp nhận và chịu nổi sức nặng của cái thấy này. Có lẽ, con sẽ bị nó đè bẹp mất.
@@ -44,5 +46,7 @@ Thấy được ba đang có mặt trong con với những phẩm chất đẹp 
 Nhưng giờ đây, con đã bắt đầu mở lòng ra với ba hơn. Mỗi ngày, con cho phép mình được là ba và dành tình thương cho ba trong mình. Đôi lúc, con vẫn còn có chút cảm giác mình là nạn nhân, nhưng con thôi không còn đấu tranh gì nữa cả.
 
 Sau buổi trò chuyện với thầy Đạo Quang, con cảm nhận trong lòng mình đang có một cái hố thật sâu, thật to, có lẽ to bằng một phần ba thân thể con. Thật là nản lòng khi nhận ra trong mình đang có một cái máy phát năng lượng khổng lồ, mà động cơ để chạy cái máy đó chính là ước muốn được tốt, được giỏi như người khác! Nếu ai đó hỏi con cái thấy này có hương vị gì, con sẽ nói rằng nó đắng gấp mười lần trái khổ qua! Đây là một cái thấy khá mới đối với con và nó vẫn còn làm con xúc động lắm. Con biết mình cần có mặt nhiều hơn cho cảm giác đó, còn chuyện liệu nó có thay đổi hay không dường như chẳng quan trọng lắm.
+
+{% image "article2023/br-thien-chi-done/_MG_4657_e.JPG" %}
 
 Trong quyển *Nghệ Thuật Sống* (The Art of Living), Thầy có nhắc đến tuệ giác vô thường: “Chúng ta có thể biến tuệ giác vô thường trở thành một tuệ giác sống động có mặt trong ta trong mỗi giây phút”. Nhìn lại những tuệ giác, hay cái thấy, mà con đã chứng nghiệm, con tự hỏi mình: “Con có thể sống với những tuệ giác này trong mỗi giây mỗi phút của đời sống hàng ngày hay không?”
