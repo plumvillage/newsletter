@@ -3,11 +3,10 @@ title: Thầy tổ gọi con về
 author: Sư cô Chân Trăng Hiền Nhân
 ---
 
-*Sư cô Trăng Hiền Nhân, người Pháp, xuất gia năm 2018 trong gia đình Cây Dẻ Gai. Sư cô hiện đang tu học tại xóm Mới, Làng Mai. Bài viết được dịch từ tiếng Anh.* 
+<p class="editors-preface">Sư cô Trăng Hiền Nhân, người Pháp, xuất gia năm 2018 trong gia đình Cây Dẻ Gai. Sư cô hiện đang tu học tại xóm Mới, Làng Mai. Bài viết được dịch từ tiếng Anh.</p>
 
-Kính bạch Thầy,
-
-Kính thưa đại chúng,
+<p class="noIndent signoff-lvl-1">Kính bạch Thầy,<br/>
+Kính thưa đại chúng,</p>
 
 Làng đang vào thu. Những tia nắng xuyên qua những đám mây trên nền trời hồng sẫm của buổi sớm mai. Vẻ đẹp sững sờ của những chiếc lá đang nhảy múa đầy hứng khởi với sự sống, tất cả như đang diễn bày một pháp hội cho mọi người thưởng thức. Xóm Mới càng thêm đẹp hơn bởi sắc màu rực rỡ của nhiều loại cúc khác nhau.
 
@@ -36,4 +35,3 @@ Con được xuất gia cùng với các anh chị em khác trong gia đình câ
 Mặc dù được sinh ra ở phương Tây, con có cảm giác mình rất gần gũi với văn hóa Á Đông. Thỉnh thoảng, quý sư cô chọc con rằng chắc kiếp trước con được sinh ra ở Á Đông. Vào dịp Tết nguyên đán, con thường bốc Kiều, đặt niềm tin rằng tổ tiên tâm linh sẽ hướng dẫn cho con trong năm mới. Năm nay, con nhận ra chư vị đã mang con về xóm Mới khi con được chuyển về đây để tiếp tục tu học.
 
 Vừa mới đây, con nhận được tin rằng chúng con sẽ được về Thái Lan để thọ giới lớn. Trái tim con đong đầy niềm vui và sự tin cậy. Con đã được nhận 10 giới sadi ni vào ngày mà Thầy bay từ Thái về lại quê hương, và giờ đây, con lại được về thăm Á châu, quê hương của tổ tiên tâm linh vào khoảnh khắc rất đặc biệt trong cuộc đời người xuất sĩ của mình. Đúng là tổ tiên đang gọi con về nhà!
-

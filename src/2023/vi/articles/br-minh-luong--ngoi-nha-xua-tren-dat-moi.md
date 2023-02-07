@@ -3,7 +3,7 @@ title: Ngôi nhà xưa trên đất mới
 author: Thầy Chân Trời Minh Lượng
 ---
 
-*Thầy Trời Minh Lượng, người Mỹ, xuất gia trong gia đình Cây Xô Thơm vào năm 2018 và hiện đang tu học tại tu viện Lộc Uyển. Bài viết được dịch từ tiếng Anh.* 
+<p class="editors-preface">Thầy Trời Minh Lượng, người Mỹ, xuất gia trong gia đình Cây Xô Thơm vào năm 2018 và hiện đang tu học tại tu viện Lộc Uyển. Bài viết được dịch từ tiếng Anh.</p> 
 
 Tôi không thể tin rằng mình đã ở Thái Lan được năm tháng rồi! Chỉ còn một tháng nữa là tôi trở về tu viện Lộc Uyển bên Mỹ. Lúc đó tôi sẽ được nếm lại vị bánh mì kẹp, sinh tố trái cây của Nam Cali và để lại đằng sau hương vị thơm ngon của món phở, bánh canh và mì quảng của Làng Mai Thái. 
 
@@ -26,5 +26,3 @@ Tôi mỉm cười và nhìn ngắm các huynh đệ của mình. Những thầy
 Nhìn vào đôi mắt sáng của người huynh đệ hôm nay, tôi biết ngôi nhà này sẽ còn tiếp tục đứng vững cho đến mai sau để soi sáng cho các thế hệ con cháu tâm linh của chúng tôi và là nơi nương tựa cho tất cả các thế hệ tương lai. 
 
 Tôi tin một ngày nào đó sẽ có người đi qua khu rừng này, thấy được những phiến đá xưa và sẽ lại thắc mắc: Nếu như ngôi nhà biết nói, nó sẽ kể cho ta những câu chuyện gì?
-
-

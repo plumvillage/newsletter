@@ -3,7 +3,7 @@ title: Cho tình thương thêm sâu
 author: Phỏng vấn Marisela Gomez – tăng thân ARISE
 ---
 
-<p class="editors-preface">Marisela Gomez (Chân Biểu Tôn), giáo thọ cư sĩ của Làng Mai, là người đồng sáng lập <a class="note" href="https://arisesangha.org/">tăng thân ARISE</a> vào năm 2016. ARISE là từ viết tắt của <i>“Awakening through Race, Intersectionality, and Social Equity”</i>, tạm dịch là: “Tỉnh thức trong vấn đề chủng tộc, sự đan xen giữa nhiều hình thức phân biệt đối xử và các hoạt động vì công bằng xã hội”. Lấy gốc rễ từ truyền thống thiền tập Làng Mai, tăng thân ARISE cam kết thực tập chánh niệm trên tinh thần nhập thế để góp phần mang lại công bằng chủng tộc và xã hội. Bài phỏng vấn này được BBT thực hiện vào tháng 6 năm 2022 và được dịch từ tiếng Anh.</p>
+<p class="editors-preface">Marisela Gomez (Chân Biểu Tôn), giáo thọ cư sĩ của Làng Mai, là người đồng sáng lập tăng thân ARISE<a class="note" href="https://arisesangha.org/">arisesangha.org</a> vào năm 2016. ARISE là từ viết tắt của <i>“Awakening through Race, Intersectionality, and Social Equity”</i>, tạm dịch là: “Tỉnh thức trong vấn đề chủng tộc, sự đan xen giữa nhiều hình thức phân biệt đối xử và các hoạt động vì công bằng xã hội”. Lấy gốc rễ từ truyền thống thiền tập Làng Mai, tăng thân ARISE cam kết thực tập chánh niệm trên tinh thần nhập thế để góp phần mang lại công bằng chủng tộc và xã hội. Bài phỏng vấn này được BBT thực hiện vào tháng 6 năm 2022 và được dịch từ tiếng Anh.</p>
 
 **BBT**: **Chào chị Marisela, xin chị chia sẻ về hoàn cảnh ra đời của tăng thân ARISE và điều gì đã tạo cảm hứng cho chị trong việc xây dựng tăng thân này?**
 
@@ -59,4 +59,4 @@ Cuộc sống luôn có những điều tươi đẹp. Ngay trong cái nóng oi 
 
 Giờ đây cách tôi đối diện với sự phân biệt chủng tộc đã hoàn toàn thay đổi. Tôi không còn thấy ghét bỏ người da trắng nữa. Ngay cả khi có ai đó hành xử một cách kỳ thị với tôi, tôi cũng không nổi khùng như trước nữa. Đây là một sự chuyển hóa cực kỳ lớn đối với tôi. Tình trạng phân biệt chủng tộc vẫn chưa chấm dứt, nhưng bây giờ tôi cảm thấy mình có chủ quyền hơn trước. Tôi không còn bị lôi kéo, bị giật dây bởi con bò mà tôi đang cưỡi. Tôi đang đi thong thả bên cạnh con bò ấy.
 
-**BBT: Cảm ơn chị đã dành thời gian để chia sẻ và giúp mọi người hiểu sâu hơn về tăng thân ARISE.**
+**BBT**: Cảm ơn chị đã dành thời gian để chia sẻ và giúp mọi người hiểu sâu hơn về tăng thân ARISE.
