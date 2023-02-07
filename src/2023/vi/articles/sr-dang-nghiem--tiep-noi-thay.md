@@ -3,7 +3,7 @@ title: Tiếp nối Thầy
 author: Sư cô Chân Đẳng Nghiêm
 ---
 
-Khi Thầy qua đời, cả thế giới đều hướng về và chứng kiến một tâm tang hùng tráng. Cùng lúc đó, câu hỏi “Ai sẽ tiếp nối Thầy? Việc gì sẽ xảy ra cho tăng thân Làng Mai? Chúng ta sẽ đi về đâu?” trở nên thực tiễn hơn bao giờ hết.
+Khi Thầy qua đời, cả thế giới đều hướng về và chứng kiến một âm tang hùng tráng. Cùng lúc đó, câu hỏi “Ai sẽ tiếp nối Thầy? Việc gì sẽ xảy ra cho tăng thân Làng Mai? Chúng ta sẽ đi về đâu?” trở nên thực tiễn hơn bao giờ hết.
 
 Con còn nhớ ngày gia đình cây Sứ được xuất gia, sau khi xuống tóc chúng con quây quần bên Thầy để chụp hình. Con quỳ lên, chắp tay và thưa: “Bạch Thầy, con sẽ cố gắng tu học để không phụ lòng Thầy”. Thầy quay lại nhìn con rồi nói: “Thầy tin là con sẽ làm được và con sẽ giúp được nhiều người.”
 
