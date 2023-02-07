@@ -14,7 +14,7 @@ author: Phỏng vấn các vị xuất gia trẻ - phần II
 
 > “Tấm lòng phụng sự đầy nhiệt huyết và hết lòng nơi quý thầy, quý sư cô đã đánh động và gây nhiều cảm hứng để cho con thực tập theo.”<cite>Sư cô Trăng An Niệm</cite>
 
-> <p>“Là khi vị đó cho con được lớn lên, được phép lầm lỗi và không hoàn hảo. Dù sao thì một ngày nào đó, chúng ta sẽ có thể làm những gì mà người ta nói là hoàn hảo nhưng con nghĩ là không có gì phải vội. Với con, được tu học một cách chậm rãi, từ hòa và với lòng từ bi rất quan trọng. Và Y chỉ sư đã có đó bên cạnh con với tinh thần ấy.”</p><cite>Sư cô Trăng Xuân Hạnh</cite>
+> <p>“Là khi vị đó cho con được lớn lên, được phép lầm lỗi và không hoàn hảo. Dù sao thì một ngày nào đó, chúng ta sẽ có thể làm những gì mà người ta nói là hoàn hảo nhưng con nghĩ là không có gì phải vội. Với con, được tu học một cách chậm rãi, từ hòa và với lòng từ bi rất quan trọng. Và Y chỉ sư đã có đó bên cạnh con với tinh thần ấy.”</p><cite>Sư cô Chân Xuân Hạnh</cite>
 
 > “Đối với con, đó là sự chấp nhận. Khi vào chùa, con mang theo cả những khó khăn, có những thứ con chưa thực tập được. Quý sư cô đã cho con rất nhiều không gian và kiên nhẫn đợi chờ con thực tập, cũng như luôn sẵn sàng có mặt và hướng dẫn con. Con có cảm giác mình đang được về nhà.”<cite>Sư cô Trăng Tường Niệm</cite>
 
