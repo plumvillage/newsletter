@@ -32,8 +32,8 @@ module.exports = [
     "sr-tuyet-nghiem--nguoi-tu-do",
     "sr-hien-nhan--thay-to-goi-con-ve",
     "sr-chua-xua--loc-uyen-mua-an",
-    "br-thien-chi--huong-vi-cua-tue-giac",
     "sr-mai-thon--ngoi-chua-xua-tren-dinh-nui",
+    "br-thien-chi--huong-vi-cua-tue-giac",
     "nhung-giot-nuoc-thanh-luong",
     "lich-sinh-hoat-nam-2023",
 ]

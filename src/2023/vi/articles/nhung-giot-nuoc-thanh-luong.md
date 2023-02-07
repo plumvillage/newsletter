@@ -17,6 +17,7 @@ Với hoạt động trao tặng học bổng cho các em sinh viên, chương t
 
 {% image "article2023/understanding-and-love-program/09.jpg", "noFloat" %}
 {% image "article2023/understanding-and-love-program/00.jpg", "noFloat" %}
+{% image "article2023/understanding-and-love-program/vertical/11-e.jpg", "noFloat" %}
 
 Học bổng cho các em học sinh, chương trình cũng dành tặng 690 suất với mức hỗ trợ 1.200.000/em/năm, trong đó có: 30 em ở Quảng Trị, 140 em ở Huế, 50 em ở Nha Trang và 470 em ở các tỉnh khác.
 
@@ -30,12 +31,14 @@ Bên cạnh đó, chương trình cũng tiếp tục hỗ trợ tiền ăn bán 
 
 Năm 2022 vừa qua, dải đất miền Trung lại tiếp tục hứng chịu những đợt thiên tai nặng nề. Trong đó, cơn bão số 4 đổ bộ vào Thừa Thiên Huế đã làm sập nhà của bà con ở hai vùng Triều Sơn, phía tây của thành phố Huế và Khánh Mỹ xã Vinh Xuân. Chương trình đã đến động viên, hỗ trợ cho 60 căn nhà bị hư hại, mỗi hộ thấp nhất là 500.000 đ đến 1 triệu và cao nhất là 5 triệu đồng. Tổng cộng chương trình đã hỗ trợ 180 triệu cho 60 hộ nhà cửa bị thiệt hại sau mùa bão.
 
+{% image "article2023/understanding-and-love-program/01.jpg", "noFloat" %}
+{% image "article2023/understanding-and-love-program/06.jpg", "noFloat" %}
+{% image "article2023/understanding-and-love-program/10.jpg", "noFloat" %}
+{% image "article2023/understanding-and-love-program/02.jpg", "noFloat" %}
+
 ​Ngoài ra, chương trình cũng hỗ trợ đào 6 giếng tưới hoa màu tại Đồng Nai; cũng như giúp 22 căn nhà bị dột nát với số tiền 6.000.000/căn để sửa sang lại mái nhà giúp bà con có chỗ che nắng che mưa tại Đồng Tháp.
 
 Để hoạt động cứu trợ được duy trì một cách bền bỉ trong suốt những năm qua, không thể không kể đến những đóng góp từ tấm lòng rộng mở của các nhà hảo tâm. Dù ít hay nhiều, nhưng tất cả đều xuất phát từ tình thương, từ trái tim trung kiên và bền bỉ luôn hướng về những mảnh đời còn khó khăn hơn mình. 
-
-{% image "article2023/understanding-and-love-program/01.jpg", "noFloat" %}
-{% image "article2023/understanding-and-love-program/06.jpg", "noFloat" %}
 
 Ngày 10 tháng 12 năm 2022, đại học hoàng gia Mahachulalongkorn đã trao tặng bằng tiến sĩ danh dự cho Sư cô Chân Không, để vinh danh những đóng góp công tác xã hội mà Sư cô đã cống hiến trong nhiều năm qua. Sư cô đã chia sẻ rằng những gì Sư cô đã làm được là nhờ quý cô bác, anh chị, các em nhỏ và những nhà hảo tâm đã dành dụm hoặc trích một ít từ ngân quỹ của gia đình; hay những em nhỏ đã bỏ ống tiết kiệm mỗi tháng rồi nhờ mẹ đem đi gửi cho Sư cô. Vậy nên, Sư cô rất muốn trao tặng tấm bằng đó đến cho tất cả các vị ân nhân đã cùng đồng hành, góp một bàn tay trong những công tác hỗ trợ cho đồng bào còn đói khổ, khó khăn; cũng như tạo thêm điều kiện để họ có thể cải thiện cuộc sống về lâu dài.
 

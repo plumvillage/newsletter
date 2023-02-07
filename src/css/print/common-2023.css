@@ -1046,7 +1046,8 @@ figure#article2023Lang-mai-nam-quatruyen-dang-an-cu-2022122LampTransmission2022i
 figure#article2023sr-nhat-nghiem-doneSrNhat-Nghieme,
 figure#article2023sr-thao-nghiemNgoi-giua-gio-xuan2e,
 figure#article2023John-P-HussmanLeaf-Richie,
-#poem-hoi-n-tam
+#poem-hoi-n-tam,
+figure#article2023br-thien-chi-done01img7603ZASPShootingThaysHut11OCT2022
 {
     column-span: all;
     margin-left: auto;
@@ -1074,6 +1075,12 @@ figure#article2023Lang-mai-nam-quatruyen-dang-an-cu-2022122LampTransmission2022i
 {
     margin-top: 4mm;
     width: 100%;
+}
+
+figure#article2023br-thien-chi-done01img7603ZASPShootingThaysHut11OCT2022
+{
+    margin-top: 10mm;
+    width: 90%;
 }
 
 figure#article2023sr-chua-xua-done20230110110050e
@@ -1235,4 +1242,9 @@ figure#article2023sr-tam-duc-doneMG6079-edited2 {
 .article-guong-mat-con-truoc-khi-me-sinh-ra figure {
     width: 94%;
     padding-right: 3%;
+}
+
+figure#article2023understanding-and-love-programvertical11-e {
+    width: 90%;
+    padding-left: 5%;
 }

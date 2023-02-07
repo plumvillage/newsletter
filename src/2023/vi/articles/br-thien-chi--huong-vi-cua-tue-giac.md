@@ -47,6 +47,8 @@ Nhưng giờ đây, con đã bắt đầu mở lòng ra với ba hơn. Mỗi ng�
 
 Sau buổi trò chuyện với thầy Đạo Quang, con cảm nhận trong lòng mình đang có một cái hố thật sâu, thật to, có lẽ to bằng một phần ba thân thể con. Thật là nản lòng khi nhận ra trong mình đang có một cái máy phát năng lượng khổng lồ, mà động cơ để chạy cái máy đó chính là ước muốn được tốt, được giỏi như người khác! Nếu ai đó hỏi con cái thấy này có hương vị gì, con sẽ nói rằng nó đắng gấp mười lần trái khổ qua! Đây là một cái thấy khá mới đối với con và nó vẫn còn làm con xúc động lắm. Con biết mình cần có mặt nhiều hơn cho cảm giác đó, còn chuyện liệu nó có thay đổi hay không dường như chẳng quan trọng lắm.
 
-{% image "article2023/br-thien-chi-done/_MG_4657_e.JPG" %}
-
 Trong quyển *Nghệ Thuật Sống* (The Art of Living), Thầy có nhắc đến tuệ giác vô thường: “Chúng ta có thể biến tuệ giác vô thường trở thành một tuệ giác sống động có mặt trong ta trong mỗi giây phút”. Nhìn lại những tuệ giác, hay cái thấy, mà con đã chứng nghiệm, con tự hỏi mình: “Con có thể sống với những tuệ giác này trong mỗi giây mỗi phút của đời sống hàng ngày hay không?”
+
+<div class="article-end"></div>
+
+{% image "article2023/br-thien-chi-done/01.img_7603_ZASP.Shooting.Thay's.Hut.11.OCT.2022.jpg" %}
