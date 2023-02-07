@@ -5,7 +5,7 @@ author: Chân Trăng Tâm Đức
 
 Ba mạ kính thương,
 
-Làng đang vào thu, cây cối chuyển màu đẹp lắm ba mạ ơi! Có hôm, khi mặt trời vừa lên, cỏ còn đọng sương đêm, con đi dạo quanh vườn và thấy đất Mẹ thật mầu nhiệm. Đây là mùa thu đầu tiên của con ở Làng, mới đó mà đã mười tháng rồi kể từ ngày con được xuất gia ở chùa Tổ trong lễ tâm tang của Thầy.
+Làng đang vào thu, cây cối chuyển màu đẹp lắm ba mạ ơi! Có hôm, khi mặt trời vừa lên, cỏ còn đọng sương đêm, con đi dạo quanh vườn và thấy đất Mẹ thật mầu nhiệm. Đây là mùa thu đầu tiên của con ở Làng, mới đó mà đã mười tháng rồi kể từ ngày con được xuất gia ở chùa Tổ trong lễ âm tang của Thầy.
 
 Lúc con mới sang, trời còn lạnh lắm. Có những ngày cỏ cũng bị đông đá , cây cối thì trơ trụi, vậy mà có cây Mimosa vẫn nở hoa vàng rực. Con tích cực tập thể dục cho ấm người mà vẫn thấy lạnh. Rồi trời ấm dần, cây cối bắt đầu ra hoa, ra lá. Đồi mận xóm Mới như được trải một tấm thảm với hàng ngàn hoa bồ công anh và daisy trắng. Những ngày đầu đi thiền hành, con và quý sư cô mới ở Việt Nam sang không nỡ dẫm lên hoa, nhưng hoa khắp lối nên tránh hoa là hết đường đi.
 
