@@ -915,7 +915,10 @@ h1#an-old-home-in-a-new-land {
 .article-young-buds-about-elders > h1,
 .article-young-buds-mindful-manners > h1,
 h1#review-of-the-year,
-h1#lang-mai-nam-qua {
+h1#lang-mai-nam-qua,
+.article-nguoi-tu-do > h1,
+.article-nguoi-tu-do > h2
+{
     /* linking does not work if I set display: none; */
     position: absolute;
     content: "";
@@ -970,6 +973,7 @@ h1#opening-the-door-to-a-life-of-peace-and-purpose {
     margin-left: auto;
     margin-right: auto;
     margin-top: 27mm;
+    text-shadow: 0.3pt 0.4pt 0px white;
 }
 .article-len-djoi .verse cite {
     padding-top: 3mm;
@@ -1105,9 +1109,9 @@ html:lang(en) figure#article2023sr-thao-nghiemNgoi-giua-gio-xuan2e
 }
 html:lang(vi) figure#article2023sr-thao-nghiemNgoi-giua-gio-xuan2e
 {
-    margin-top: 4mm;
+    margin-top: 8mm;
     margin-bottom: 0mm;
-    width: 84%;
+    width: 70%;
 }
 
 figure#article2023sr-tung-hac-doneta-co-la-ta-ta-moi-depedit
@@ -1195,6 +1199,7 @@ figure#article2023sr-tuyet-nghiem-doneimage-3 img {
     margin-top: 0mm !important;
 }
 
+.article-review-of-the-year > blockquote,
 .article-lang-mai-nam-qua > blockquote {
     page-break-inside: avoid;
     text-indent: 0pt !important;
@@ -1203,17 +1208,21 @@ figure#article2023sr-tuyet-nghiem-doneimage-3 img {
 	padding-left: 0pt;
     font-style: normal;
 }
+.article-review-of-the-year > blockquote > p > strong,
 .article-lang-mai-nam-qua > blockquote > p > strong {
     padding-top: 1pt;
 }
+.article-review-of-the-year > blockquote p,
 .article-lang-mai-nam-qua > blockquote p {
     text-align: left !important;
 }
+.article-review-of-the-year > blockquote > p > em,
 .article-lang-mai-nam-qua > blockquote > p > em {
     display: block;
     padding-top: 2pt;
     padding-left: 12pt;
 }
+.article-review-of-the-year > blockquote > blockquote,
 .article-lang-mai-nam-qua > blockquote > blockquote {
     text-indent: 0pt !important;
     margin-top: 4pt;
@@ -1240,11 +1249,76 @@ figure#article2023sr-tam-duc-doneMG6079-edited2 {
 }
 
 .article-guong-mat-con-truoc-khi-me-sinh-ra figure {
-    width: 94%;
-    padding-right: 3%;
+    padding-right: 5%;
+    padding-left: 5%;
 }
 
 figure#article2023understanding-and-love-programvertical11-e {
-    width: 90%;
+    padding-right: 5%;
     padding-left: 5%;
+}
+
+figure#article2023understanding-and-love-programChapTaye1x1
+{
+    padding-right: 5%;
+    padding-left: 5%;
+}
+
+
+
+.article-lich-sinh-hoat-nam-2023 a
+{
+    color: var(--color-tower-dark) !important;
+}
+.article-lich-sinh-hoat-nam-2023 > p,
+.article-lich-sinh-hoat-nam-2023 blockquote p {
+    text-indent: 0 !important;
+    text-align: left !important;
+    padding-left: 4pt;
+}
+.article-lich-sinh-hoat-nam-2023 .author {
+    margin-bottom: 4mm;
+}
+.article-lich-sinh-hoat-nam-2023 blockquote h3 {
+    text-indent: 5pt;
+}
+.article-lich-sinh-hoat-nam-2023 ul {
+    margin-top: 0pt;
+    margin-bottom: 3pt;
+    padding-left: 2pt;
+}
+.article-lich-sinh-hoat-nam-2023 ul li {
+    margin-top: 0pt;
+}
+
+.article-nguoi-tu-do .verse b {
+    font-weight: bold;
+    font-size: 15pt;
+    padding-left: 3mm;
+}
+.article-nguoi-tu-do .verse {
+    column-span: all;
+    font-size: 14pt;
+    line-height: 130%;
+    width: 68%;
+    padding-left: 43mm;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 56mm;
+    text-shadow: 0.3pt 0.4pt 0px white;
+}
+.article-nguoi-tu-do .verse cite {
+    padding-top: 3mm;
+    line-height: 120%;
+}
+
+.PAGE-OF-article-nguoi-tu-do .pagedjs_margin-bottom
+{
+    display: none;
+}
+
+/* .PAGE-OF-Lang-Mai-Nam-Qua-A4-Final-No-Text15-Novice-Ordinationn2 .positioned-text-box,  */
+html:lang(en) .PAGE-OF-Lang-Mai-Nam-Qua-A4-Final-No-Text8-Monastics-On-Tour-1 .positioned-text-box,
+html:lang(en) .PAGE-OF-Lang-Mai-Nam-Qua-A4-Final-No-Text9-Monastics-On-Tour-2 .positioned-text-box  {
+    padding: 5mm;
 }

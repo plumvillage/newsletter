@@ -41,7 +41,7 @@ in the waters of life.</p>
 
 <p>Multitudes are smiling as<br/>
 the Boat continues<br/>
-in the waters of life”</p>
+in the waters of life</p>
 <!-- <cite>Sister Chân Trăng Linh Dị</cite> -->
 </div>
 

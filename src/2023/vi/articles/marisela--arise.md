@@ -3,15 +3,15 @@ title: Cho tình thương thêm sâu
 author: Phỏng vấn Marisela Gomez – tăng thân ARISE
 ---
 
-<p class="editors-preface">Marisela Gomez (Chân Biểu Tôn), giáo thọ cư sĩ của Làng Mai, là người đồng sáng lập tăng thân ARISE<a class="note" href="https://arisesangha.org/">arisesangha.org</a> vào năm 2016. ARISE là từ viết tắt của <i>“Awakening through Race, Intersectionality, and Social Equity”</i>, tạm dịch là: “Tỉnh thức trong vấn đề chủng tộc, sự đan xen giữa nhiều hình thức phân biệt đối xử và các hoạt động vì công bằng xã hội”. Lấy gốc rễ từ truyền thống thiền tập Làng Mai, tăng thân ARISE cam kết thực tập chánh niệm trên tinh thần nhập thế để góp phần mang lại công bằng chủng tộc và xã hội. Bài phỏng vấn này được BBT thực hiện vào tháng 6 năm 2022 và được dịch từ tiếng Anh.</p>
+<p class="editors-preface">Marisela Gomez (Chân Biểu Tôn), giáo thọ cư sĩ của Làng Mai, là người đồng sáng lập tăng thân ARISE vào năm 2016. ARISE là từ viết tắt của <i>“Awakening through Race, Intersectionality, and Social Equity”</i>, tạm dịch là: “Tỉnh thức trong vấn đề chủng tộc, sự đan xen giữa nhiều hình thức phân biệt đối xử và các hoạt động vì công bằng xã hội”. Lấy gốc rễ từ truyền thống thiền tập Làng Mai, tăng thân ARISE cam kết thực tập chánh niệm trên tinh thần nhập thế để góp phần mang lại công bằng chủng tộc và xã hội. Bài phỏng vấn này được BBT thực hiện vào tháng 6 năm 2022 và được dịch từ tiếng Anh.</p>
+
+{% image "article2023/marisela/arise-header.jpg", "noFloat", '<a href="https://arisesangha.org/">arisesangha.org</a>' %}
 
 **BBT**: **Chào chị Marisela, xin chị chia sẻ về hoàn cảnh ra đời của tăng thân ARISE và điều gì đã tạo cảm hứng cho chị trong việc xây dựng tăng thân này?**
 
 **Marisela**: Trong chuyến hoằng pháp của tăng thân Làng Mai tại Mỹ vào năm 2015, có một buổi chia sẻ chuyên đề về bình đẳng chủng tộc tại New York với chủ đề: *Where Spirit Meets Action (tạm dịch: Nơi tình thương biến thành hành động)*. Tại tu viện Lộc Uyển cũng có một buổi chia sẻ về chủ đề này. Trong cả hai buổi chia sẻ đó đều có ý kiến cho rằng sự có mặt cũng như tiếng nói đại diện cho nhóm người da đen, bản địa và người da màu là chưa đủ. Ở Mỹ thường dùng từ BIPOC, viết tắt của “Black, Indigenous, and People of Color” để nói về người da đen, người bản địa và người da màu. Còn ở Anh thì dùng từ BAME (Black, Asian, and Minority Ethnic), nghĩa là: người da đen, người gốc Á châu, và người dân tộc thiểu số. 
 
 Trong tăng thân, cộng đồng BIPOC thường được đại diện bởi các xuất sĩ người Việt, nhưng vẫn còn rất hiếm người da đen, người Mỹ La Tinh cũng như người bản địa. Một số người trong cộng đồng BIPOC, trong đó có tôi, đã đặt câu hỏi: “Chúng tôi đang ở đâu và tại sao chúng tôi không có đại diện trong tăng thân?”. Khi đặt ra câu hỏi này, chúng tôi thường nhận được câu trả lời nôm na là: “Chuyện đó không quan trọng, vì thực ra chúng ta giống nhau, chúng ta tương tức và chúng ta là một. Nói như các bạn có thể gây chia rẽ trong tăng thân”. Nghe vậy chúng tôi rất đau lòng. Trong khi đó những gì chúng tôi đối diện trong đời sống hàng ngày liên quan đến vấn đề chủng tộc vẫn không ngừng gây ra những vết thương cần được chữa lành. Lẽ ra tăng thân là nơi chúng tôi có thể làm được điều đó. Nhưng nếu chúng tôi mang những vấn đề này ra thì lại không dễ được đón nhận. Hầu hết các tăng thân ở Mỹ đều có người da trắng chiếm đa số.
-
-{% image "article2023/marisela/arise-header.jpg" %}
 
 Một ví dụ cụ thể là sau cái chết của Freddie Gray – một thanh niên da đen - tại Mỹ vào năm 2015, có rất nhiều các cuộc biểu tình với hàng ngàn người xuống đường phản đối hành vi tàn bạo của cảnh sát. Một người bạn da đen đã chia sẻ vấn đề này trong tăng thân, nơi người da trắng chiếm đa số, nhưng không hề có ai lên tiếng. Không chỉ những người da đen mà cả xã hội Mỹ lúc bấy giờ đang bị tổn thương. Người bạn ấy đã trực tiếp gặp tôi và nói rằng bạn ấy không thể tiếp tục sinh hoạt trong tăng thân vì cảm giác sự có mặt của mình không được thừa nhận và không được quan tâm. 
 
@@ -54,6 +54,8 @@ Chúng ta đều là đệ tử của Thầy. Thầy luôn có ước nguyện l
 **BBT: Khi đối diện với những khó khăn này, các anh chị đã nương tựa vào đâu?**
 
 **Marisela:** Chúng tôi nương tựa vào Thầy, vào hơi thở và bước chân của chính mình. Chúng tôi luôn tự nhắc mình giữ gìn sự tinh tấn và bền bỉ. Đa số chúng tôi đều chịu ảnh hưởng bởi nạn phân biệt chủng tộc. Vậy nên chúng tôi nương tựa vào chính trải nghiệm sống của mình, đồng thời nương tựa vào sự thực tập, bởi vì sự thực tập đã mang lại hiệu quả và sự chuyển hóa cho tất cả chúng tôi. Không phải chỉ có hiệu quả không, mà đó chính là tự do thực sự, tự do chân chính. Điều đó khiến chúng tôi ai cũng tận tâm, hết lòng với tăng thân này. Một điều rất rõ ràng là chúng tôi sẽ không dừng lại cho tới khi nào bất công chủng tộc không còn tồn tại.
+
+{% image "article2023/marisela/245387771_1331259623957316_197604318886040299_n_e.jpg" %}
 
 **BBT: Nhưng chúng ta biết là không bao giờ có thể chấm dứt hoàn toàn khổ đau trong cuộc đời này. Không có bùn thì cũng không có sen. Làm sao để ta vẫn đạt tới bình an thực sự trong khi khổ đau vẫn đang có đó?**
 

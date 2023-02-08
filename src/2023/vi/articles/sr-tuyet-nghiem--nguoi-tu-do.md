@@ -3,6 +3,10 @@ title: Người tự do
 author: Sư cô Chân Tuyết Nghiêm
 ---
 
+<div class="full-page-background-img-bleed">
+{% image "article2023/poem-sr-tuyet-nghiem/Scan2_e3.jpeg" %}
+</div>
+
 <div class="verse"><p><b>Người tự do</b></p>
 <!-- 20221016_180321.jpg -->
 </p>Đôi chân dạo lên đồi<br/>
@@ -29,4 +33,6 @@ Hơi thở lòng nhẹ tênh<br/>
 Một mình nghe chim hót<br/>
 Đất trời nuôi sự sống<br/>
 Một mình tình tinh khôi.</p>
-<cite>Lộc Uyển, tháng 8 năm 2022</cite></div>
+<cite>Sư cô Chân Tuyết Nghiêm<br/>
+<span style="padding-left: 2.3mm">Đại Ẩn Sơn, Lộc Uyển,<br/></span>
+<span style="padding-left: 2.3mm">tháng 8 năm 2022</span></cite></div>

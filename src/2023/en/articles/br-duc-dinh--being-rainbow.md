@@ -67,3 +67,7 @@ and is communicated to all in the three times.</p>
 
 <p>Thank you, my friends, for being here with me,<br/>
 Thanks to you I can enjoy myself and learn to live and to love together.</p></div>
+
+<div class="article-end"></div>
+
+{% image "article2023/drawings-sr-bo-de/xy6000_saturation_sharpen/Rainbow.webp" %}

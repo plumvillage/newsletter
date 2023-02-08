@@ -14,9 +14,9 @@ Một vài ngày trước, một đóa cúc vàng bỗng nhiên lọt vào mắt
 
 Bà ngoại con qua đời vào mùa thu năm ngoái, lúc ấy con đang an cư cùng đại chúng ở Làng. Tới thời điểm đó, con mới nhận ra sự tương đồng giữa hai nền văn hóa Mexico và Việt Nam trong cách tưởng nhớ ông bà tổ tiên. Những gì con được thấy quý sư cô người Việt thường làm trong những ngày kỵ giỗ như nấu một vài món ăn, trang trí bàn thờ, tụng một thời kinh, con chợt nhận ra mình cũng đang làm những điều đó cho bà. Con cảm thấy thật tự nhiên và thân thuộc. 
 
-{% image "article2023/sr-hien-nhan-them-hinh-ce-xh/_MG_6209_e.JPG" %}
-
 Trong giờ nghỉ trưa, khi nhà bếp đã rảnh, con liền nấu món đậu nghiền chiên, một món ăn truyền thống mà bà đã nấu cho con biết bao nhiêu lần. Con không biết công thức. Con chỉ nhớ về những hình ảnh trong ký ức, khi bà đang nấu ăn và con thì đang ngồi trong bếp, học vẽ, ăn quà, nói chuyện với bà hay đang làm một bài thơ.
+
+{% image "article2023/sr-hien-nhan-them-hinh-ce-xh/_MG_6209_e.JPG", "noFloat" %}
 
 Buổi lễ cầu siêu cho bà diễn ra vào một buổi tối, trong thiền đường Nến Hồng. Trên bàn thờ có bức hình và bức thư mà con viết cho bà bằng tiếng Tây Ban Nha. Buổi lễ diễn ra bằng tiếng Pháp, ngôn ngữ mà con thường nói chuyện với bà, ngoài tiếng Tây Ban Nha. Con mời thêm một vài quý sư cô nữa cùng tham dự. Quý sư cô rất dễ thương và hết lòng yểm trợ. Con soạn một chương trình đơn giản và chúng con tập họp lại với nhau. Đó thật là giây phút hiếm có và xúc động cho tất cả chúng con. 
 

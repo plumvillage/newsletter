@@ -45,3 +45,7 @@ Ngày 10 tháng 12 năm 2022, đại học hoàng gia Mahachulalongkorn đã tra
 Vào dịp lễ Tiểu tường của Sư Ông, Sư cô đã cúng dường lên Sư Ông bằng cách mang những phần quà tới cho bà con, như những giọt nước thanh lương làm dịu lại những tâm hồn, những mảnh đời còn quá nhiều thiếu thốn từ vật chất cho đến tinh thần. Nhớ lại năm Giáp Thìn 1964, trong chuyến đi cứu trợ nạn nhân bão lụt dọc sông Thu Bồn, Sư Ông đã nhỏ chín giọt máu trên sông và viết lên bài thơ *Ruột đau chín khúc*. Để tiếp nối hạnh nguyện ấy, năm nay Sư cô mong muốn được trao tặng 900 phần quà cho người dân đang trong hoàn cảnh khó khăn nơi đây.  
 
 Tăng thân Làng Mai xin chân thành cảm ơn sự đóng góp của quý cô bác, anh chị, các cháu trong năm vừa qua đã chung tay tiếp sức, để hai cánh chim bé nhỏ của chương trình Hiểu và Thương được đem những giọt nước từ bi, thanh lương đến với đồng bào khắp chốn. Một mùa xuân mới đang về, xin kính chúc quý cô bác, anh chị cùng gia quyến một năm mới thật nhiều an lành và hạnh phúc.
+
+<div class="article-end"></div>
+
+{% image "article2023/understanding-and-love-program/ChapTay_e_1x1.jpg" %}
