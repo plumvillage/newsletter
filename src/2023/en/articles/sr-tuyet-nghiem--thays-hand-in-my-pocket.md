@@ -47,7 +47,7 @@ The sadness was soothed by the warmth of a teacher’s love. I wanted to grow st
 
 That strength helped me overcome the small difficulties and I gradually matured. Perhaps in the ensuing journey, I was far from Thay physically, but I always felt Thay very closely in my heart. Thay’s words were like a mantra for me, “Thay’s hand is in your pocket.” This morning, walking up the hill with my two hands in my pockets, I also held Thay’s hand in those moments of returning to happiness, peace, and the warmth of love.
 
-## Sing with your own style
+## Sing With Your Own Style
 
 Dear respected Thay, 
 

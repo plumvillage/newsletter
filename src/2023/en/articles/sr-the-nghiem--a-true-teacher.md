@@ -67,7 +67,7 @@ Once, at the Hermitage, in a space of quiet, Thay brought me to a flowering plan
 
 Thay’s nurturing and affirmative ways are such a breath of fresh air in our world. The public discourse and social climate of today are often filled with skepticism, cynicism, and hurtful speech. In this toxic milieu, the self-confidence of our youth, and their faith in others, can easily be wounded. Our young ones especially need heartfelt affirmation of their goodness, and a vision of a wholesome path. How else will their inner and outer faith take root? Early and steadfast nurturance like Thay’s can lead them away from despair, and even save their lives. It can give them the self-confidence to face and overcome their suffering, to transform hurt into understanding and compassion. This kind of nurturance was the gift that Thay gave us.
 
-## Open The Path Wider
+## Open the Path Wider
 
 True to the Bodhisattva Vow, Thay has always encouraged us to open the path wider. Sometimes, this calls for us to stretch beyond our present comforts, challenges, and concerns in order that our sangha may grow, our embrace widen. Many times, Thay has challenged our hearts to expand in order to merge with his larger vision.
 
