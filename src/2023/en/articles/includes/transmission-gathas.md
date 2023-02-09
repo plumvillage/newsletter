@@ -7,10 +7,10 @@
 > **Br. Thích Chân Trời Đại Giác**
 > *(Andreas Lukas Ambühl;  
 >  Great Determination of the Heart)*
-> > **Trời** tâm linh sáng bừng nét cọ  
-> > Thệ Nhật sơn **đại giác** nở hoa  
-> > Mười năm vườn tuệ siêng chăm sóc  
-> > Ân nghĩa bồi vun nếp lục hòa.
+> > The spiritual skies is radiant with brush strokes
+> > Sun Vow mountain blooms with flowers of great awakening 
+> > A decade, diligently tending to the garden of wisdom 
+> > Gratitude cultivates the six harmonies
 
 > **Br. Thích Chân Trời Phạm Hạnh**
 > *(Bart Johan Christiaan Bannink;  
@@ -67,10 +67,10 @@
 > **Sr. Thích Nữ Chân Trăng Tin Yêu**
 > *(Bong Suryati;  
 >  Deep Communication of the Heart)*
-> > **Trăng** quê hương vẫn sáng  
-> > Chí nguyện chưa từng quên  
-> > Niềm **tin** không phai nhạt  
-> > Đem **yêu** thương mọi miền
+> > The **moon** over my country shines brightly.  
+> > My aspiration is still very alive.  
+> > My **trust** has not lost its lustre  
+> > And brings true **love** to all places.
 
 > **Sr. Thích Nữ Chân Trăng Tịnh Thường**
 > *(Hồ Vũ Anh Đài;  Tâm Quảng Bảo)*
