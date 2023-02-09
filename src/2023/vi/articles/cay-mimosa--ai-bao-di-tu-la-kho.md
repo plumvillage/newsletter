@@ -20,7 +20,7 @@ Nghe đến đó thì ai cũng phì cười. Từ đó, bài hát của cây b�
 
 ## Ba má đến thăm, bánh quà đầy mâm
 
-Được ba má đến thăm là niềm vui lớn của những ai sống xa nhà, đặc biệt là người tu sĩ. Vui vì được gặp trực tiếp, hàn huyên mọi chuyện, và ba má có cơ hội tiếp xúc với pháp môn. Bên cạnh đó, đây còn là cơ hội để truyền thông, thấu hiểu, thông cảm và chấp nhận nhau. Một điều không kém phần quan trọng nữa là bánh *quà đầy mâm*, nào là bánh, là trái cây…, toàn là những món ngon ưa thích.
+Được ba má đến thăm là niềm vui lớn của những ai sống xa nhà, đặc biệt là người tu sĩ. Vui vì được gặp trực tiếp, hàn huyên mọi chuyện, và ba má có cơ hội tiếp xúc với pháp môn. Bên cạnh đó, đây còn là cơ hội để truyền thông, thấu hiểu, thông cảm và chấp nhận nhau. Một điều không kém phần quan trọng nữa là *bánh quà đầy mâm*, nào là bánh, là trái cây,v.v. toàn là những món ngon ưa thích.
 
 {% image "article2023/mimosa-family-done/DSC_1778.JPG" %}
 
@@ -38,7 +38,7 @@ Những ngày mới xuất gia ở Tổ đình Từ Hiếu, sáu anh em sadi nam
 
 ## Rồi mình lại đi chơi
 
-Mỗi dịp làm biếng, chúng con thường được đi chơi. Lúc thì leo núi, khi thì lội suối, tắm biển… Có hôm đi từ tờ mờ sáng để ngắm bình minh, mặt trời ló rạng trên biển hay đi lúc chiều tà, leo lên ngọn núi cao, ngồi chơi trên mỏm đá. Chuyền nhau ly trà nóng, cái bánh rồi cùng ngắm cảnh núi đồi, trời mây và trăng sao… Trong không gian thênh thang, hùng vĩ ấy mà có được giây phút lắng yên nữa thì không còn gì tuyệt vời hơn. Bao suy tư, buồn phiền dường như được gửi trao cho Mẹ thiên nhiên ôm ấp và chuyển hoá. 
+Mỗi dịp làm biếng, chúng con thường được đi chơi. Lúc thì leo núi, khi thì lội suối, tắm biển. Có hôm đi từ tờ mờ sáng để ngắm bình minh, mặt trời ló rạng trên biển hay đi lúc chiều tà, leo lên ngọn núi cao, ngồi chơi trên mỏm đá. Chuyền nhau ly trà nóng, cái bánh rồi cùng ngắm cảnh núi đồi, trời mây và trăng sao. Trong không gian thênh thang, hùng vĩ ấy mà có được giây phút lắng yên nữa thì không còn gì tuyệt vời hơn. Bao suy tư, buồn phiền dường như được gửi trao cho Mẹ thiên nhiên ôm ấp và chuyển hoá. 
 
 Chúng con nhận ra rằng, sự thực tập trong đời sống hằng ngày không chỉ là khi ngồi thiền, tụng kinh và làm việc, mà còn là những giây phút vui vẻ, thoải mái khi đi chơi cùng nhau.
 
