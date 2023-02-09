@@ -6,12 +6,10 @@ author: của tăng thân Làng Mai
 ## Tại Làng Mai, Pháp
 
 - 15.02 - 22.02     Khóa tu xuất sĩ
-- 03.03 - 31.03     Khóa tu đầu mùa xuân
 - 07.04 - 14.04     Khóa tu tiếng Pháp
-- 21.04 - 09.06		Khóa tu cuối mùa xuân
-- 26.05 - 02.06		Khóa tu nấu ăn tại xóm Mới
-- 26.05 - 02.06		Khóa tu dành cho doanh nhân tại xóm Thượng
-- 09.06 - 29.07		Khóa tu mùa hè
+- 26.05 - 02.06		Khóa tu nấu ăn
+- 26.05 - 02.06		Khóa tu dành cho doanh nhân
+- 09.07 - 29.07		Khóa tu mùa hè
 - 04.08 - 11.08		Khóa tu dành cho các bạn trẻ
 - 18.08 - 25.08		Khóa tu dành cho giáo chức
 - 15.09 - 13.10		Khóa tu mùa thu
