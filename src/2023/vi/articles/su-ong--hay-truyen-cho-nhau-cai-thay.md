@@ -53,7 +53,7 @@ Một phi hành gia không gian, khi về lại trái đất đã nói: khi đi,
 
 Đối với sự sống cũng vậy. Mỗi người chúng ta đều đang có sự sống, nhưng chúng ta không biết trân quý sự sống. Chúng ta để thì giờ qua đi một cách dại dột và oan uổng. Chúng ta tiêu phí thì giờ và sự sống giống như lấy tờ 100 đô-la đem đốt. Đốt hết tờ này đến tờ khác. Chúng ta làm khổ nhau và đi tìm những cái chúng ta cho là hạnh phúc, trong khi đó chúng ta chất chứa khổ đau và tạo ra khổ đau cho nhau. Điều đó đang xảy ra bây giờ, ở đây, vậy mà chúng ta không thấy. Nhiều khi phải đi rất xa để nhìn lại, chúng ta mới thấy thiên đường chính là nơi chúng ta đang sống. 
 
-Các phi hành gia nói rằng trăng sao rất đẹp, nhưng rất lạnh lùng. Đó không phải là chỗ của mình. Chỉ có hành tinh nhỏ xíu, xanh xanh trắng trắng đó mới là nhà của mình, là nơi đón chào mình thôi. Chúng ta đang ở trong nhà, nhưng ta không biết trân quý ngôi nhà của mình, không biết trân quý thời gian chúng ta đang được ở nhà. Vì vậy những bức hình mà các phi hành gia gửi về là những tiếng chuông chánh niệm. Nhìn vào những bức hình ấy cũng giống như nghe một tiếng chuông, mình phải thức dậy. Thức dậy để thấy, để hiểu, để thương và để trân quý.
+Các phi hành gia nói rằng trăng sao rất đẹp, nhưng rất lạnh lùng. Đó không phải là chỗ của mình. Chỉ có hành tinh nhỏ xíu, xanh xanh trắng trắng đó mới là nhà của mình, là nơi đón chào mình thôi. Chúng ta đang ở trong nhà, nhưng ta không biết trân quý ngôi nhà của mình, không biết trân quý thời gian chúng ta đang được ở nhà. Vì vậy, những bức hình mà các phi hành gia gửi về là những tiếng chuông chánh niệm. Nhìn vào những bức hình ấy cũng giống như nghe một tiếng chuông, mình phải thức dậy. Thức dậy để thấy, để hiểu, để thương và để trân quý.
 
 ## Con mắt của thế gian
 
