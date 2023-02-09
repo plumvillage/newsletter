@@ -9,11 +9,11 @@ Trong năm qua do điều kiện kinh tế bị ảnh hưởng sau đại dịch
 
 Dưới đây là những công tác đã được thực hiện trong năm 2022 vừa qua. Hỗ trợ lương cho các cô giáo tại các nhóm trường:
 
-1. Nhóm trường do chương trình Hiểu và Thương xây dựng và quản lý, trong đó có 36 cô giáo ở Bình Thuận với mức lương 1.000.000/người/tháng và 5 cô giáo ở Nha Trang với mức lương 1.500.000/ /người/tháng.
+1. Nhóm trường do chương trình Hiểu và Thương xây dựng và quản lý, trong đó có 36 cô giáo ở Bình Thuận với mức lương 1.000.000/người/tháng và 5 cô giáo ở Nha Trang với mức lương 1.500.000/người/tháng.
 2. Tại Thừa Thiên Huế, giúp đỡ được cho 16 cô giáo ở nhóm trường do các chùa quản lý, trong đó, 10 cô giáo với mức lương 1.200.000/người/tháng và 6 cô giáo với mức 1.000.000/người/tháng. Ngoài ra, chương trình cũng hỗ trợ được thêm 450.000/người/tháng cho 41 cô giáo ở nhóm trường công lập bên cạnh lương do nhà nước chi trả.
 3. Tại Quảng Trị, có 130 cô giáo đang công tác tại các trường do nhà nước quản lý, chương trình Hiểu và Thương yểm trợ lương với 380.000/người/tháng.
 
-Với hoạt động trao tặng học bổng cho các em sinh viên, chương trình đã giúp được cho 414 em với mức hỗ trợ 2.400.000/em/năm. Trong đó có:109 em ở Quảng Trị, 115 em ở Huế, 100 em ở Nha Trang và 90 em tại một số tỉnh phía Nam.
+Với hoạt động trao tặng học bổng cho các em sinh viên, chương trình đã giúp được cho 414 em với mức hỗ trợ 2.400.000/em/năm. Trong đó có: 109 em ở Quảng Trị, 115 em ở Huế, 100 em ở Nha Trang và 90 em tại một số tỉnh phía Nam.
 
 {% image "article2023/understanding-and-love-program/09.jpg", "noFloat" %}
 {% image "article2023/understanding-and-love-program/00.jpg", "noFloat" %}
@@ -21,7 +21,7 @@ Với hoạt động trao tặng học bổng cho các em sinh viên, chương t
 
 Học bổng cho các em học sinh, chương trình cũng dành tặng 690 suất với mức hỗ trợ 1.200.000/em/năm, trong đó có: 30 em ở Quảng Trị, 140 em ở Huế, 50 em ở Nha Trang và 470 em ở các tỉnh khác.
 
-Đối với người già neo đơn, chương trình cũng hỗ trợ được 903 suất, trong đó tại Quảng Trị 378 suất, Huế 285 suất, Nha Trang 30 suất và, Sài Gòn 210 suất với mức yểm trợ 130.000/người/tháng.
+Đối với người già neo đơn, chương trình cũng hỗ trợ được 903 suất, trong đó tại Quảng Trị 378 suất, Huế 285 suất, Nha Trang 30 suất và Sài Gòn 210 suất với mức yểm trợ 130.000/người/tháng.
 
 Những món quà và sự hỗ trợ tuy nhỏ bé nhưng mỗi năm tới dịp trao quà, các cô giáo cũng như các em học sinh, sinh viên đều được gặp gỡ và lắng nghe quý sư cô chia sẻ những sự thực tập để mọi người biết cách chế tác an lạc và hạnh phúc trong đời sống của mình. *Năm điều em nhớ* - biểu hiện mới của Năm giới được Sư cô Chân Không chia sẻ một cách khéo léo, như một món quà tinh thần quý giá cùng với những món quà nhỏ gửi tới mỗi người dân nghèo.
 
