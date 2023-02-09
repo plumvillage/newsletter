@@ -5,7 +5,7 @@ author: Thầy Chân Trời Ruộng Pháp
 
 <p class="editors-preface">Thầy Trời Ruộng Pháp, người Bồ Đào Nha, xuất gia năm 2019 trong gia đình Cây Bạch Quả. Dưới đây là bài viết của thầy được dịch từ tiếng Anh.</p>
 
-Ngày 13 tháng 7 năm 2022 là ngày mà bà ngoại con đã chọn để rũ bỏ tấm thân bụi trần.
+Ngày 30 tháng 7 năm 2022 là ngày mà bà ngoại con đã chọn để rũ bỏ tấm thân bụi trần.
 
 Khoảng sáu tháng trước ngày ấy, con được tăng thân cho phép về lại Bồ Đào Nha để có mặt yểm trợ cho bà và gia đình. Bà của con bị đột quỵ đã một vài năm. Và dù đã phục hồi lại một phần nào, bà khó có thể tự chăm sóc mình như trước, nhất là khi bà bị mất trí nhớ. Căn bệnh này khiến cho bà không thể nào sống một mình mà không có người săn sóc.
 
