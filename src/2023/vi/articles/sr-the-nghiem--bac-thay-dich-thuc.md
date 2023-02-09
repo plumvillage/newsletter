@@ -21,7 +21,7 @@ Trong những năm đầu xuất gia, con chật vật ghê lắm trong chuyện
 
 {% image "article2023/sr-the-nghiem-done/image_edited.jpg" %}
 
-Có một lần, con làm thị giả lái xe đưa Thầy từ xóm Mới về xóm Hạ. Trước đó, con có học cách lái xe tay số trên đường làng của Pháp, nhưng con thấy mình chưa thực sự vững lắm. Sáng hôm ấy, hai thầy trò đi khá êm đềm và suôn sẻ… cho tới khi xe chạy đến ngã tư. Chiếc xe tự nhiên giật mạnh rồi dừng lại đột ngột vì chết máy. Con nhìn xuống chiếc cần gạt, đỏ bừng mặt vì nghĩ mình đã làm gì sai rồi.
+Có một lần, con làm thị giả lái xe đưa Thầy từ xóm Mới về xóm Hạ. Trước đó, con có học cách lái xe tay số trên đường làng của Pháp, nhưng con thấy mình chưa thực sự vững lắm. Sáng hôm ấy, hai thầy trò đi khá êm đềm và suôn sẻ cho tới khi xe chạy đến ngã tư. Chiếc xe tự nhiên giật mạnh rồi dừng lại đột ngột vì chết máy. Con nhìn xuống chiếc cần gạt, đỏ bừng mặt vì nghĩ mình đã làm gì sai rồi.
 
 Nhanh như chớp, nhưng vẫn điềm tĩnh và nhẹ nhàng, Thầy chỉ tay ra ngoài cửa xe, vui vẻ ngắm cảnh gì đó ở đằng xa để giúp con bớt mặc cảm trách móc bản thân. Lúc đó, con vừa quê vì thấy mình làm lỗi, mà cũng vừa ý thức là Thầy đang giúp mình “thay chốt”, nên con chỉ biết im lặng. Tuy vậy, trong con đã ghi tạc lòng từ bi của Thầy. *Bạch Thầy kính thương, cảm  ơn Thầy đã từ bi với con.*
 
@@ -33,11 +33,11 @@ Lại một lần nữa, cũng như bao lần khác, Thầy đã thông cảm ch
 
 ## Hướng dẫn học trò một cách khéo léo
 
-Thời còn là sadi, việc chuyển từ môi trường gia đình nhỏ sang sống ở môi trường cộng đồng như xóm Hạ quả là đầy thử thách đối với con. Con từng có bao nhiêu thắc mắc và băn khoăn xoay quanh chuyện “thế nào là nương tựa Tăng thân”, vì Thầy đặc biệt nhấn mạnh vào sự thực tập này. Con không thể nào hiểu được làm sao có thể nương tựa vào cái mà ta không thể định hình được và dường như không toàn hảo. 
+Thời còn là sadi, việc chuyển từ môi trường gia đình nhỏ sang sống ở môi trường cộng đồng như xóm Hạ quả là đầy thử thách đối với con. Con từng có bao nhiêu thắc mắc và băn khoăn xoay quanh chuyện “thế nào là nương tựa tăng thân”, vì Thầy đặc biệt nhấn mạnh vào sự thực tập này. Con không thể nào hiểu được làm sao có thể nương tựa vào cái mà ta không thể định hình được và dường như không toàn hảo. 
 
-Một ngày nọ ở xóm Hạ, con thao thức quá chịu không nổi nên hỏi Thầy, với đôi mày nhíu lại đầy khẩn khoản: “Bạch Thầy, Thầy dạy chúng con về tầm quan trọng của Tăng thân, nhưng con thực sự không hiểu. Xin Thầy cho con hỏi: Tăng thân là gì?” 
+Một ngày nọ ở xóm Hạ, con thao thức quá chịu không nổi nên hỏi Thầy, với đôi mày nhíu lại đầy khẩn khoản: “Bạch Thầy, Thầy dạy chúng con về tầm quan trọng của tăng thân, nhưng con thực sự không hiểu. Xin Thầy cho con hỏi: Tăng thân là gì?” 
 
-Thầy yên lặng nhìn con một lúc, rồi nhẹ nhàng trả lời: “Như trong bài hát đó con: *Năm uẩn là Tăng … phối hợp tinh cần*”. Ô hay! Cái câu này con nghe đi nghe lại, hát tới hát lui nhiều lần rồi. Nhưng lần này lại khác. Lời của Thầy như một luồng sáng, soi thấu vào sự hoang mang trong con. Giây phút ấy, con chợt nhận ra được mình và tiếp xúc được với thực tại dưới chân mình.
+Thầy yên lặng nhìn con một lúc, rồi nhẹ nhàng trả lời: “Như trong bài hát đó con: *Năm uẩn là tăng, phối hợp tinh cần*”. Ô hay! Cái câu này con nghe đi nghe lại, hát tới hát lui nhiều lần rồi. Nhưng lần này lại khác. Lời của Thầy như một luồng sáng, soi thấu vào sự hoang mang trong con. Giây phút ấy, con chợt nhận ra được mình và tiếp xúc được với thực tại dưới chân mình.
 
 Ngẫm lại cuộc đối thoại giữa hai thầy trò, con nhận thấy Thầy có thể có rất nhiều cách để trả lời con. Vậy mà, Thầy đã chọn cách vượt thắng lối suy nghĩ theo trí năng và điều phục cái tâm đang còn nhiều lăng xăng của con. Câu trả lời của Thầy chạm tới những kinh nghiệm sống của con trước đây và giúp con có khả năng tiếp nhận ngay thời điểm đó.
 
@@ -51,7 +51,7 @@ Thầy thường được ví như một bậc thầy về làm vườn. Thầy 
 
 Với sự hiểu biết và niềm tin cậy, Thầy đã tưới tẩm hạt giống đức tin nơi con. Nhờ đó, con mới có thể khám phá ra tính lành thiện trong mình và xung quanh mình.
 
-Một ngày nọ, trong không gian yên lắng ở Sơn Cốc, Thầy đem đến cho con một chậu hoa còn đang hé nụ. Thầy trò ngồi yên ngắm chậu hoa, rồi Thầy nói: “Con thấy không, con người mình cũng như bông hoa này đây. Hễ đúng thời điểm, và khi hoa đã sẵn sàng, các cánh hoa sẽ tự khắc bung ra thôi, con ạ”. Trong giây phút ấy, con cảm được sự cảm thông và chấp nhận của Thầy cho người học trò còn nhiều dè dặt, lúng túng và thiếu tự tin như con. Đồng thời con cũng cảm nhận Thầy như khéo léo động viên con: *hãy cho phép bông hoa trong con được tự nhiên hé nở*.
+Một ngày nọ, trong không gian yên lắng ở Sơn Cốc, Thầy đem đến cho con một chậu hoa còn đang hé nụ. Thầy trò ngồi yên ngắm chậu hoa, rồi Thầy nói: “Con thấy không, con người mình cũng như bông hoa này đây. Hễ đúng thời điểm, và khi hoa đã sẵn sàng, các cánh hoa sẽ tự khắc bung ra thôi, con ạ”. Trong giây phút ấy, con cảm được sự cảm thông và chấp nhận của Thầy cho người học trò còn nhiều dè dặt, lúng túng và thiếu tự tin như con. Đồng thời con cũng cảm nhận Thầy như khéo léo động viên con: *Hãy cho phép bông hoa trong con được tự nhiên hé nở*.
 
 ## Mở thêm rộng lớn con đường
 
