@@ -37,7 +37,7 @@ His students came from every background and religion, and Thay taught in a way t
 
 Even when Thay spoke about a notion like “death,” his teaching was beautiful and light. He once shared a story of a little girl who asked him, “Thay, have you decided what to be in your next life?” After some reflection, Thay answered her – “I see that I will be many things. I will be a butterfly. I will be a cloud. I will be that yellow flower.” Then he playfully added, “and if you are not mindful, you may step on me.”
 
-{% image "article2023/John-P-Hussman/Leaf-Richi.jpg" %}
+{% image "article2023/John-P-Hussman/Leaf-Richi_e.jpg" %}
 <!-- drawing by Ricelli (Richi) Laplace Resende -->
 
 ## The Leaf

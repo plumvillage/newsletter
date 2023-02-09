@@ -9,7 +9,7 @@ Most of the young German and Dutch children did not speak much English, so there
 
 {% image "article2023/sr-bo-de-done/DSC_2590_e.jpg" %}
 
-## “What are you looking for?”
+## “What Are You Looking For?”
 
 I was standing in the corridor cleaning when one child rushed over, looking confused. “What are you looking for?” I asked her. Very naturally she answered in German. Seeing my round and bewildered eyes, the child was completely lost. Luckily a volunteer passed by in the nick of time to rescue us from this moment of confusion. Looking at the direction she ran off in, I understood that she was looking for the bathroom. I could only put my hand on my forehead and shake my head, not knowing whether to cry or laugh.
 
@@ -19,7 +19,7 @@ It truly required great effort from both sides. I had to express myself in the m
 
 Sometimes, after “speaking” for a while by waving their hands and feet and seeing that I still looked confused, the children had their last solution, “Follow us!” With great excitement, they would lead me to their new discovery in the mammoth EIAB building. After climbing nearly a hundred steps, up several floors, we reached the stairs ascending into the building’s attic, where the exploration of the secret passageways began.
 
-## Love makes one strong
+## Love Makes One Strong
 
 The moments I connected most with the children were outside of the scheduled activities. We played ping pong, kicked balls, swung on swings, blew bubbles, and visited the neighbors’ rabbits and donkeys. I also invited their mums and dads to join us.
 
@@ -57,13 +57,13 @@ I walked and talked with the children, frequently asking if they were tired. I d
 
 {% image "article2023/sr-bo-de-done/DSC_4020_e.jpg" %}
 
-## The super naughty can also be sad
+## The Super Naughty Can Also Be Sad
 
 I found that I was able to love the children equally, whether they easily followed our guidance or not. During the two weeks of retreats in Germany, there were two girls who were incredibly energetic, smart, and … super naughty. They set up all sorts of games to play, to destroy, and to tease everyone. To be honest, I only dared to look from afar and did not have the courage to come close and play with them.
 
 One afternoon while playing shuttlecock with the brothers and sisters, “Super naughty #1” came and whispered, “Sister, can you play with me?” From the look on her face I knew that she was sad because she had to say goodbye to her friend, as “Super naughty #2” had gone home. I turned and asked with an affectionate voice, “Yes, what game do you want to play?” Playing with her, I discovered that she was a very emotionally sensitive girl. Once she could feel the love from the brothers and sisters, she became more at ease and quiet than before. From that, I realized that no matter how indescribably naughty a child can be, if we have enough inclusiveness, embrace and acceptance, it will be an opportunity for them to change.
 
-## The future of the world lies in the hands of the angels
+## The Future of the World Lies in the Hands of the Angels
 
 One tranquil morning, the golden sun painted the mulberry leaves and the meditation hall roof. The sun’s rays skipped and hopped everywhere amidst the chirping music of small birds. In stillness, I enjoyed the scene before my eyes. Suddenly a thought arose: *If people in the future no longer value spiritual life and society moves more towards consumption, this peaceful natural setting may disappear and the meditation hall may become a supermarket.* I thought of the angels at that moment.
 

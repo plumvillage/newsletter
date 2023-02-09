@@ -5,7 +5,7 @@ author: Brother Chân Trời Thiện Chí
 
 Very soon after I received my aspirant robe, I realised that I needed to find other ways to nourish myself than the ones I had as a lay person. The path I chose leads us to transformation and healing, and the medicine to achieve these are the practices of mindfulness, concentration and insight. Insight is a real source of strength, giving us confidence and energy and leading us to understanding and self-acceptance. Herewith, I would like to share with you three insights important to me and some key elements of my journey in exploring insight.
 
-## Conversation with the pain
+## Conversation With the Pain
 
 It was a cold, rainy evening at the monastery, and I was on my way to the cooler - ten minutes from my room. I had not taken my raincoat with me and was walking fast so as not to get wet. It was very dark and I could see almost nothing. At some point I felt that I was walking over grass and mud that was not supposed to be there, and I realized that I had lost the way. At that moment, I took a step to the side and hit a large rock hard with my lower leg. Immediately I put my hand on the injured area and felt a warm, sticky liquid and a sharp, burning pain. I had to stop and slowly walk back to the residence. Later, a brother helped me clean and bandage the wound on my leg.  
 
@@ -21,7 +21,7 @@ This was a very long and silent moment. How could I have lived for so long witho
 
 As a child, I was a little afraid of my father. His loud and deep voice, his beard and hairy chest, his heavy energy and sometimes aggressive way of walking and talking, the unpleasant smell in his bedroom after drinking alcohol were things I never liked and never wanted to be associated with. I realized that I was trying to create a person who had nothing in common with my father - including my way of speaking, my sense of humour, my style of dress, my friends, my livelihood, etc. It was as if there was a mechanism inside me that kept checking to see if my actions were protecting me from becoming like my father. In that moment, in the changing room, I realized that trying to run away from my father is trying to run away from myself.
 
-## Lunch with Brother Dao Quang
+## Lunch With Brother Dao Quang
 
 I remember during the last Rains retreat there was a moment when I had to take care of many things and felt stressed because of it. When I am under pressure, I don’t say what I mean but something else, my ability to listen decreases and I ask illogical questions. At such times, the feelings of fear, anxiety and worry find wonderful conditions to blossom and bear fruit. 
 
@@ -33,7 +33,7 @@ One morning, I went by my friend Br. Dao Quang. After my grumpy greeting, he loo
 
 > “No matter what responsibility I take on, I always get into doing more and more things until I’m exhausted. It’s always the same story. It’s like a race against myself. It’s like I’m trying to convince myself that I’m good, that I’m good enough. That I’m just as good as the others… It looks like deep down I believe that everyone is better than me. It’s as if the basis of my doing is just to prove to myself that I’m not so bad… Obviously, there is such a huge trauma of not feeling good enough, or such a deep inferiority complex that it creates a huge amount of life energy. Enough energy to work under stress and pressure for years without giving up.”
 
-## Insight = practice?
+## Insight = Practice?
 
 In my very limited experience, insights like to stay hidden under a few layers of unpleasant wrapping paper. They are like fruits covered with a thick, prickly and smelly skin. To get to the soft pulp, I may have to relax and accept the painful covering and make it a part of me. Asking a question, like “Why don’t I like my body?” or “Why am I always stressed?” helps me gently direct my focus. When I’m on the verge of insight, I usually give up fighting the pain and open myself up to become more and more vulnerable. 
 

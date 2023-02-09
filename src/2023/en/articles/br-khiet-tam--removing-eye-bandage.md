@@ -13,7 +13,7 @@ In May 2022, together with three brothers I had the pleasure of going on a ten-d
 
 Now I would like to briefly share some recent experiences of life in the sangha with you:
 
-## Office work
+## Office Work
 
 Working in the office in Upper Hamlet, we read and respond to many emails with questions and requests of many kinds. Some are long, some quite short. Each of the friends’ writing is unique, regarding their relationship to the spiritual practice and to Plum Village. That relationship is sometimes new, sometimes random; or it is deep and has great aspiration within it.
 
@@ -21,13 +21,13 @@ Mostly I feel inspired, drawn, to “listen” deeply to these emails. It is not
 
 One day I remembered Thay’s sharing on how in the sixties and seventies, before preparing and sending a care package for a child in his homeland, he looked deeply at the child’s photograph. Thay’s insight and compassion is certainly way beyond mine; still I feel connected to this and this is a direction I am inspired to go in.
 
-## Joyfully together
+## Joyfully Together
 
 I have seen a tendency in me to believe that we, as individuals, have to be pure, perfect, to be enlightened or truly happy. Looking at myself or others in such a grasping way, I see many problems, formations or knots in myself or others. How on earth can we reach well-being if there are so many knots and problems in us? I have an example, an image, for this grasping kind of thinking: When an acupuncturist doctor came to Plum Village, so many of the brothers and sisters went to consult her. A thought coming up in me at times was: It seems our brothers and sisters don’t have much *faith in their own capacity* of self- healing (which the PV- practice can be).
 
 I have experienced that in the sangha, by practicing mindfulness, concentration and insight, my way of looking at things changes for the better, and the insight arises that in Plum Village being a monastic is not only about oneself and that here we don’t have to be a perfect individual. So every day, I am encouraged or challenged to see the interconnection and not to get caught in the details, in fixations. Then I don’t need to think any more about mistakes, problems, that I perceive in individuals. “Joyfully together” is the name of a book by Thay on communal living, and this pair of words describe that shift very well. Sangha life and Thay’s teachings give me plenty of opportunities to make that shift in my way of looking. Do you remember what I wrote above on composting? This is a similar process.
 
-## My notebook
+## My Notebook
 
 After months of not writing in my notebook, suddenly something comes to mind.  I welcome it and write it down in order to later either distill short practices of insight out of the material or refine one I already have. Those are simple, short *gathas*, short phrases of insights (in the spirit of Buddhist meditation) I can breathe with and look at things within my daily life.
 

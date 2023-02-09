@@ -9,7 +9,7 @@ Dear Respected Thay,
 
 I still write to Thay because I feel deeply that Thay is still here at this moment. With just one peaceful breath, I can invite Thay to be by my side. When you were not hidden, I had already learned to be in touch with you like this. So whenever I write to you, I can feel that you are very close, always present to listen in order to deeply understand the minds of your students. 
 
-## A small game of life and death
+##  Small Game of Life and Death
 
 Dear Thay,
 
@@ -31,7 +31,7 @@ A half smile is born upon our lips…</p></div>
 
 How wonderful, this present moment! I am grateful for the innumerable conditions that have brought me here. It is clear that there is a ceaseless continuation; one condition ends for another to begin. Life is a continuous chain of miracles upon miracles.
 
-## Thay’s hand in my pocket
+## Thay’s Hand in My Pocket
 
 This morning, it was quite cold. I put on socks, a jacket and gloves, but my hands were still cold. I walked with my hands in my pockets. A sweet memory with Thay in the winter of 2010 surfaced. That year I turned 24 - a turbulent year with many changes on my spiritual journey. The changing of centers came upon me like an unprepared destiny; causes and conditions weaved into each other in a rush. 
 

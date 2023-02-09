@@ -17,7 +17,7 @@ If we know how to sit still and see that person from afar, we have a chance to s
 
 Sometimes we have to go far away to see what we want to see. We live side by side and interact with each other day in and day out but still we do not see. It isn’t until we have gone very far, so far that we may never meet again that we then start seeing that person and feel sympathy for them. It’s a pity for them and for us that we did not know how to relate to them and treasure them.
 
-## Look Down from Up High
+## Look Down From Up High
 
 In the past when Thay read the stories of Hans Christian Anderson, Thay loved one of them very much. It’s a short story called *A Great Grief*. There were two brothers standing on a rooftop of a high building and looking down. On the ground there was a group of children playing. A dog had just died and they wanted to bury it. They made a grave for the dog and they made it very beautifully. They thought, it’s such a beautiful grave, if they didn’t let the other children see it, it would be such a shame. They announced to all the children in the village that they could visit the grave.
 
@@ -27,7 +27,7 @@ After all the children had gone in to see the dog’s grave, there was a poor, s
 
 The two brothers on the rooftop saw everything from the beginning to the end. The younger one said, “Looking from high up here, it’s hardly worth crying over not having a button to enter!” But the child below did not know that. When we see from above, we see very differently our own pain and the pain of the other. Thay doesn’t remember exactly the original line, but that was the essential meaning. Thay remembers vividly that short story of only one and a half pages.
 
-## Treading the Path that Leads to the Moon
+## Treading the Path That Leads to the Moon
 
 The first time human beings organized a very far journey, it was to the moon. Apollo 11 was the name of that expedition. It took a great deal of money and energy to send a few astronauts to the moon.
 

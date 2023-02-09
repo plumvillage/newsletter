@@ -21,11 +21,11 @@ I was the youngest monk to follow Thay to Vietnam in 2005. In Hanoi, one of the 
 
 One night, in the first week, we got off the bus in a town near the outskirts of Hanoi to visit a temple of a nun - a student of Thay who had been to Plum Village. The road was narrow leading to her temple, and the sun was setting; we would have to walk about one kilometer to arrive there. I felt anxious for Thay; everything was so new and unusual for me in Vietnam, and I feared that someone might hurt Thay. Walking close to Thay, though, I felt no fear. Thay had been through so much, and practiced so deeply, that he was not afraid of being hurt or dying. Whenever fear or anxiety comes up in me, I remember Thay’s fearlessness in that moment, as Thay led the delegation through the winding dark roads, and my fear dissolves.
 
-## Human Beings who Need the Practice
+## Human Beings Who Need the Practice
 
 In the fall of 2006, as I worked with Brother Phap Thanh from Germany to organize the first Neuroscience Retreat in Plum Village, we stopped at the Hermitage after arranging for the retreat flyer to be printed. Thay was in his short robe outside, walking in meditation amidst the fruit trees. When Thay looked at us - two tall Western monks - I saw him austere as the general of great armies. I had the perception that Thay was in deep contemplation on how to transform the suffering of the world - and here we were suddenly disturbing Thay’s contemplation! But Thay was so compassionate. We wanted to ask Thay if it was all right to invite scientists to come and present in the retreat. Thay said, “The scientists can come and practice with us, but they should not expect to present the papers they have already written. After a few days of practice, they can speak to us about the insight they have received during the retreat.” It was an important teaching for me: not to get caught up in someone’s renown as an important scientist or knowledge, but rather to see them as human beings who also need the practice.
 
-## Engaged Practice and Contemplative Life are not two
+## Engaged Practice and Contemplative Life Are Not Two
 
 The Dharma teachers of Upper Hamlet decided to send Br. Phap Ho and I to Deer Park Monastery that spring, and we said goodbye to Thay before leaving. Thay told us, “Do not try to find the balance between engaged practice and contemplative life. They are one.” In that moment, an obstruction in my thinking broke open, like a dam bursting. Since then I haven’t once fallen into the trap of thinking that my practice needs to be more engaged, or more contemplative. Thay revealed it for me as the dualistic thinking it is.
 
@@ -37,7 +37,7 @@ When I returned to Plum Village in 2009, our young brothers and sisters had been
 
 In a one-on-one meeting with Thay, Thay asked me to help him to write an opinion letter - on how to write a love letter to a terrorist - for the *New York Times*, by translating part of his talk on the *Sutra on Fear and Terror*. I felt so intimidated and reluctant to do it - how would I find a lay friend to help me translate? How would the New York Times agree to print such a letter? Now I see how my doubts did not give justice to Thay’s vision and insight. Although this letter did not happen in 2010, it did manifest in 2012 in a new form, when a young disturbed man in my hometown in the US killed 26 people in an elementary school - the Sandy Hook shootings. I felt that the horror of those shootings - happening in a place so dear to me - brought all of Thay’s teachings on non-violence together for me as I wrote the young man a love letter. Thay also asked me to work on the book *Fear*, but I didn’t yet feel ready to take on such a responsibility. Now, in 2022, having worked on a number of Thay’s books, I feel I am beginning to pay back my debt to Thay.
 
-## Guiding with Love and Care
+## Guiding With Love and Care
 
 I constantly received so much love and care from Thay, even when Thay corrected me - like the time I guided a meditation through all of the sixteen exercises of mindful breathing in one sitting session (and Thay said it was too much), or when we started streaming Thay’s talks and filmed pan shots of the audience (Thay said it was distracting people who wanted to concentrate on the talk). I am still learning how to give guidance to my younger brothers with as much care and love that Thay gave me.
 
