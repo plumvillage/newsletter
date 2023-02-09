@@ -5,11 +5,11 @@ author: Sư cô Chân Đẳng Nghiêm
 
 Khi Thầy qua đời, cả thế giới đều hướng về và chứng kiến một tâm tang hùng tráng. Cùng lúc đó, câu hỏi “Ai sẽ tiếp nối Thầy? Việc gì sẽ xảy ra cho tăng thân Làng Mai? Chúng ta sẽ đi về đâu?” trở nên thực tiễn hơn bao giờ hết.
 
-Con còn nhớ ngày gia đình cây Sứ được xuất gia, sau khi xuống tóc chúng con quây quần bên Thầy để chụp hình. Con quỳ lên, chắp tay và thưa: “Bạch Thầy, con sẽ cố gắng tu học để không phụ lòng Thầy”. Thầy quay lại nhìn con rồi nói: “Thầy tin là con sẽ làm được và con sẽ giúp được nhiều người.”
+Con còn nhớ ngày gia đình cây Sứ được xuất gia, sau khi xuống tóc chúng con quây quần bên Thầy để chụp hình. Con quỳ lên, chắp tay và thưa: “Bạch Thầy, con sẽ cố gắng tu học để không phụ lòng Thầy”. Thầy quay lại nhìn con rồi nói: “Thầy tin là con sẽ làm được và con sẽ giúp được nhiều người”.
 
-Những năm đầu làm sadi, con xin phép không chăm sóc chương trình dành cho thiếu nhi và thanh thiếu niên trong khóa tu mùa Hè. Vì hình ảnh của người trẻ làm con nhớ lại tuổi thơ đau buồn của mình. Thầy biết được và nói với con: “Con tu học cho có hạnh phúc rồi con sẽ giúp được cho rất nhiều người trẻ.”
+Những năm đầu làm sadi, con xin phép không chăm sóc chương trình dành cho thiếu nhi và thanh thiếu niên trong khóa tu mùa Hè. Vì hình ảnh của người trẻ làm con nhớ lại tuổi thơ đau buồn của mình. Thầy biết được và nói với con: “Con tu học cho có hạnh phúc rồi con sẽ giúp được cho rất nhiều người trẻ”.
 
-Rồi trong những khóa tu người Việt, con cũng thường né tránh thiền sinh người Việt về đây từ các nước châu Âu và châu Mỹ, vì con và em trai là con lai, đã từng bị kỳ thị khi lớn lên ở Việt Nam. Con không muốn gần người Việt để khỏi chạm vào những vết thương tuổi thơ của mình. Không biết vì sao Thầy cũng biết điều này và một hôm khi con ngồi bên Thầy, Thầy vuốt đầu con rồi nói: “Con tu đi, rồi con sẽ giúp được cho những người Tây phương và con cũng sẽ giúp được cho đồng bào người Việt của mình.”
+Rồi trong những khóa tu người Việt, con cũng thường né tránh thiền sinh người Việt về đây từ các nước châu Âu và châu Mỹ, vì con và em trai là con lai, đã từng bị kỳ thị khi lớn lên ở Việt Nam. Con không muốn gần người Việt để khỏi chạm vào những vết thương tuổi thơ của mình. Không biết vì sao Thầy cũng biết điều này và một hôm khi con ngồi bên Thầy, Thầy vuốt đầu con rồi nói: “Con tu đi, rồi con sẽ giúp được cho những người Tây phương và con cũng sẽ giúp được cho đồng bào người Việt của mình”.
 
 Những lúc Thầy nói như vậy con chỉ lắng nghe thôi. Nhưng sau khi Thầy qua đời, con hiểu ra đó là những cái thấy của một vị thầy về đệ tử của mình. Không chỉ đối với riêng con mà đối với tất cả những người con tâm linh của mình, Thầy đều thấy được những khổ đau và cả những tiềm năng trong mỗi chúng con. Thầy có niềm tin rằng nếu cố công thực tập thì tất cả chúng con, ai cũng có thể làm được những điều mà mình nghĩ rằng không thể.
 
