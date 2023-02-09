@@ -244,7 +244,7 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addCollection('parallelVerses2023', function(c) {
         return parallelVerses2023
     })
-
+    
     // https://www.11ty.dev/docs/languages/nunjucks/#generic-global
     eleventyConfig.addNunjucksGlobal("articleCalligraphies", function(fileSlug) {
         let e = {}

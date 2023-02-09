@@ -9,11 +9,7 @@
     {% image ["LTLM46-2023 Inner Cover page 1 ", size_label ,".jpg"] | join %}
 </div>
 
-<div class="full-page-image bleed">
-    {% image ["LTLM46-2023 Inner Cover page 2 ", size_label ,".jpg"] | join %}
-</div>
-
-{# <div class="empty-page"></div> #}
+<div class="empty-page"></div>
 
 {% set onlyIncludeArticlesListedInTheOrder = false %}
 
@@ -87,7 +83,9 @@
     {%- endif -%}
 {%- endfor -%}
 
-<div class="empty-page"></div>
+<div class="full-page-image bleed">
+    {% image ["LTLM46-2023 Inner Cover page 2 ", size_label ,".jpg"] | join %}
+</div>
 
 <div class="full-page-image bleed">
     {% image ["LTLM46-2023 cover back ", locale ," ", size_label ," bleed.jpg"] | join %}

@@ -4,7 +4,7 @@ author: Sư cô Chân Tuyết Nghiêm
 ---
 
 <div class="full-page-background-img-bleed">
-{% image "article2023/poem-sr-tuyet-nghiem/Scan2_e3.jpeg" %}
+{% image "article2023/poem-sr-tuyet-nghiem/Scan2_e4.jpeg" %}
 </div>
 
 <div class="verse"><p><b>Người tự do</b></p>

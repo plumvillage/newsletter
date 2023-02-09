@@ -91,3 +91,7 @@ Khi trong lòng đã có tiếng chuông đại hồng sớm tối rồi, dù �
 <p class="signoff"><span class="signoff-lvl-1">Kính thương,</span><br/>
 <span class="signoff-lvl-1">Con của Thầy</span><br/>
 <span class="signoff-lvl-2">Chân Trăng Mai Thôn</span></p>
+
+<div class="article-end"></div>
+
+{% image "article2023/sr-mai-thon/Vn_con da biet duong ve_edit.jpg" %}

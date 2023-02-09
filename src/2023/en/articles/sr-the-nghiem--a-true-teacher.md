@@ -53,6 +53,8 @@ One day at Lower Hamlet, my culminating angst bubbled up in the form of a questi
 
 Thay looked at me quietly for a moment, and then without fanfare, replied directly, “It’s as expressed in the song, my child: *Sangha is my five skandhas… working in harmony*.” Oh! I had heard and even sung these lines many times before. But this time was different: Thay’s words cut through my confusion like a shaft of light. I suddenly saw myself and the ground beneath my feet.
 
+{% image "article2023/sr-the-nghiem-done/1.jpg" %}
+
 Reflecting on our exchange, I realize there could have been so many other ways for Thay to respond. Instead, he chose a way that would bypass my intellect and subdue my agitated mind. His response resonated with my past life’s experience, and it met me at my capacity to receive at the time.
 
 Thus, Thay cleared the obstacle and opened up the door for me to mature through direct experience. In fact, Thay’s teaching has continued to be a precious *koan* for me over the years. From various vantage points of time and experience, I have often returned to this teaching to reflect on my understanding and practice.
@@ -86,5 +88,7 @@ A number of years ago, during our biennial US Tour, the sangha was traveling by 
 ### Assurance
 
 Under the watchful eye of our teacher, we’ve been given the conditions to blossom on this path. Thay has patiently guided us to awaken the teacher within. He has steadfastly admonished us to take responsibility for our practice and our happiness. How remarkable that throughout his life, Thay so carefully and lovingly laid the groundwork for us to continue on with assurance.
+
+{% image "article2023/sr-the-nghiem-done/2.jpg" %}
 
 In fact, our sangha has grown into a bountiful forest of sustenance and support, of self-discovery and transformation. Today, our sangha is a vibrant and nurturing font of creativity and outreach. May we continue to lay down rich layers of sediment to nurture the awakening and well-being of many, many generations after us. So that countless generations from now, this greeting from the heart will continue to emanate: *Hello, my teacher. Hello, Plum Village.*

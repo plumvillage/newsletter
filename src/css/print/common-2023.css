@@ -773,8 +773,14 @@ article ul li::before {
 
 /* merge with succeeding poem/article */
 .article-bac-thay-djich-thuc,
-.article-nhung-thien-than-mua-he {
+.article-nhung-thien-than-mua-he,
+.article-a-true-teacher
+{
     break-after: unset !important;
+}
+
+h1#the-leaf {
+    padding-top: 10mm;
 }
 
 .article-nhung-choi-non-chao-nang-mai-1 h1,
@@ -875,6 +881,11 @@ article ul li::before {
     max-height: 28mm !important;
 }
 
+#calligraphy2023article-titleslang-mai-nam-qua,
+#calligraphy2023article-titleslang-mai-nam-qua img {
+    max-height: 29mm !important;
+}
+
 #calligraphy2023article-titlessr-dang-nghiem-tiep-noi-thay,
 #calligraphy2023article-titlessr-dang-nghiem-tiep-noi-thay img {
     max-height: 39mm !important;
@@ -915,7 +926,7 @@ h1#an-old-home-in-a-new-land {
 .article-young-buds-about-elders > h1,
 .article-young-buds-mindful-manners > h1,
 h1#review-of-the-year,
-h1#lang-mai-nam-qua,
+/* h1#lang-mai-nam-qua, */
 .article-nguoi-tu-do > h1,
 .article-nguoi-tu-do > h2
 {
@@ -1041,6 +1052,7 @@ figure#article2023sr-dinh-nghiem-thay-van-luon-la-thay1e
 
 
 /* centered images */
+figure#article2023sr-mai-thonVncon-da-biet-duong-veedit,
 figure#article2023sr-chan-duc-interview-doneIMG9782e,
 figure#article2023sr-van-nghiem-doneIMG1786,
 figure#article2023sr-tung-hac-doneIMG4631e,
@@ -1073,6 +1085,11 @@ html:lang(en) figure#article2023sr-chan-duc-interview-doneIMG9782e
 {
     margin-top: 6mm;
     width: 100%;
+}
+
+figure#article2023sr-mai-thonVncon-da-biet-duong-veedit {
+    margin-top: 18mm;
+    width: 85%;
 }
 
 figure#article2023Lang-mai-nam-quatruyen-dang-an-cu-2022122LampTransmission2022img8217e
@@ -1253,11 +1270,9 @@ figure#article2023sr-tam-duc-doneMG6079-edited2 {
     padding-left: 5%;
 }
 
-figure#article2023understanding-and-love-programvertical11-e {
-    padding-right: 5%;
-    padding-left: 5%;
-}
 
+html:lang(en) figure#article2023sr-the-nghiem-done1,
+figure#article2023understanding-and-love-programvertical11-e,
 figure#article2023understanding-and-love-programChapTaye1x1
 {
     padding-right: 5%;
@@ -1304,7 +1319,7 @@ figure#article2023understanding-and-love-programChapTaye1x1
     padding-left: 43mm;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 56mm;
+    margin-top: 71mm;
     text-shadow: 0.3pt 0.4pt 0px white;
 }
 .article-nguoi-tu-do .verse cite {
@@ -1317,8 +1332,16 @@ figure#article2023understanding-and-love-programChapTaye1x1
     display: none;
 }
 
+.PAGE-OF-Lang-Mai-Nam-Qua-A4-Final-No-Text1-Monastic-Retreat3 h1 {
+    font-size: 29pt;
+}
+
 /* .PAGE-OF-Lang-Mai-Nam-Qua-A4-Final-No-Text15-Novice-Ordinationn2 .positioned-text-box,  */
 html:lang(en) .PAGE-OF-Lang-Mai-Nam-Qua-A4-Final-No-Text8-Monastics-On-Tour-1 .positioned-text-box,
 html:lang(en) .PAGE-OF-Lang-Mai-Nam-Qua-A4-Final-No-Text9-Monastics-On-Tour-2 .positioned-text-box  {
     padding: 5mm;
+}
+
+.PAGE-OF-article2023drawings-sr-bo-dexy6000saturationsharpenRainbow .verse {
+    padding-top: 23mm !important;
 }

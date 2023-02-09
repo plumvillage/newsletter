@@ -1,6 +1,6 @@
 ﻿---
 title: Hạt mầm năm xưa
-author: Chân Trăng Tâm Đức
+author: Sư cô Chân Trăng Tâm Đức
 ---
 
 Ba mạ kính thương,
