@@ -218,7 +218,7 @@
 > **Chân Hạnh Toàn**
 > *(Hélène Prost)*
 > > Tấm lòng hiếu **hạnh** vẹn **toàn**  
-> > Nguyện theo gương sáng theo dòng ổ tiên  
+> > Nguyện theo gương sáng theo dòng tổ tiên  
 > > Không bùn không đóa hoa sen  
 > > Trời xanh mây trắng thênh thang đường về.
 
