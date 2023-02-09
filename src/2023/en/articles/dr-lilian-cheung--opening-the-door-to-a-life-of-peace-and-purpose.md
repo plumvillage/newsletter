@@ -25,7 +25,7 @@ In the fall of 1997, I received a flyer announcing a special seven-day retreat o
 
 Thay appeared on stage walking calmly towards his cushion. Without even hearing him speak and only through his presence, I recall my initial impression of Thay as a divine being. As I listened to his words and lessons, I began to feel a shift within myself. In one Dharma talk, Thay taught us that suffering is always there. “We need to look deeply into ill-being and find a way out. We cannot escape it. Happiness and well-being must be found in the heart of suffering.” Having been a worrier my whole life and often finding it difficult to be happy, I was moved by this lesson. The retreat was completely transformative for me, and when Thay bid farewell to us at the end of the Key West retreat, he made a special comment, “Many of you may have touched some peace in this retreat, but if you return home and do not practice, you will lose all your peace.” This message became deeply rooted in my brain and I set out to apply his advice in my life at home. I began to practice mindfulness daily - even if I could only manage for only three percent of my waking hours to start. However, eventually a habit began to form, and I was increasing my degree of mindfulness practice year after year!
 
-## The Genesis of *Savor – Mindful Eating, Mindful Life*
+## The Genesis of *Savor – Mindful Eating,<br/>Mindful Life*
 
 During the week in Key West, Thay taught us about mindful breathing, mindful walking, and mindful eating. *Mindful eating*? Despite studying nutrition throughout my academic training and career, I had never encountered this concept. It was profound for me to learn that we need to eat mindfully, not only for health purposes, but so there will be enough food to feed future generations.
 
@@ -41,7 +41,7 @@ Encouragingly, the book and Thay’s teachings continue to resonate. Mindful eat
 
 One day in 2011, I got a call from Olivia Wu, the Executive Chef at Google headquarters in Mountain View, California, who was eager to get Googlers to eat less desserts. I suggested numerous ways to improve the nutritional quality of the desserts and reduce the portion sizes. However, Olivia noted she had already tried these modifications without much success as all the food offered in Google is free! Then I asked her whether they have been coached on how to eat mindfully as described in *Savor – Mindful Eating, Mindful Life*? She hadn’t, and then asked if I could get Thay to speak at Google. 
 
-Fortunately, Olivia’s request came at a time when Thay was leading a retreat at Blue Cliff Monastery. I had the opportunity to meet with Thay and Sr. Chan Khong and asked him to consider giving a talk at Google. Thay seemed to be amused by my request. After a long pause, he smiled and nodded and said he would give a talk if Google allowed for a half-day retreat led by him and his monastics. Olivia was elated with Thay’s positive response; and Thay also seemed to be delighted about going to Google. The Google retreat was transformational for the campus culture. The Google community meditated, listened to Thay’s precious teachings and singing by the monastics, walked mindfully around the Google campus, and ate a dinner mindfully together in silence. The magic of the Google retreat has been captured by a wonderful video recording, *Mindfulness as a Foundation for Health*.<a class="note" href="https://www.youtube.com/watch?v=Ijnt-eXukwk">https://www.youtube.com/watch?v=Ijnt-eXukwk</a>
+Fortunately, Olivia’s request came at a time when Thay was leading a retreat at Blue Cliff Monastery. I had the opportunity to meet with Thay and Sr. Chan Khong and asked him to consider giving a talk at Google. Thay seemed to be amused by my request. After a long pause, he smiled and nodded and said he would give a talk if Google allowed for a half-day retreat led by him and his monastics. Olivia was elated with Thay’s positive response; and Thay also seemed to be delighted about going to Google. The Google retreat was transformational for the campus culture. The Google community meditated, listened to Thay’s precious teachings and singing by the monastics, walked mindfully around the Google campus, and ate a dinner mindfully together in silence. The magic of the Google retreat has been captured by a wonderful video recording, *Mindfulness as a Foundation for Health* (<a href="https://www.youtube.com/watch?v=Ijnt-eXukwk">youtube.com/watch?v=Ijnt-eXukwk</a>).
 
 ## Thay and His Monastics Flowing Through Boston
 
@@ -51,12 +51,12 @@ Again, when I reached out, Thay said that he would be happy to speak as long as 
 
 During the Q&A session, myself, along with Jon Kabat Zinn and conference organizers Christopher Germer and Ronald Siegel had the opportunity to ask Thay a question. My question was, “Thay, what is the most challenging and desperate situation that you have faced in your life? And how did you cope with it?” His answer, and the story he shared, resonates with me to this day:
 
-{% image "article2023/lilian-cheung/Thay-and-Jon-Kabat-Zinn-2013.jpg" %}
-
 > “I think the worst thing that can happen to a person is despair. And in a situation like the war in Vietnam, people can easily become the victim of despair.
 > 
 > “During the war in Vietnam, we tried our best to practice mindfulness of helping people. We trained young monks and nuns and lay practitioners, to help them rebuild regions that had been destroyed by the bombs. We tried to help peasants to heal, and to continue to rebuild. Many of our workers have been killed, because we followed the line of non-alignment. We didn’t want to take sides in the war. Our voice was that we do not want war between people living in the same country. We want to stop the war. We want negotiations, we want to reconcile.
-> 
+
+{% image "article2023/lilian-cheung/Thay-and-Jon-Kabat-Zinn-2013.jpg" %}
+
 > “That is why we stood in the middle, and that was a dangerous situation. Because this side thought of us as being with the other side. That is why many of us, monks, nuns, lay social workers, were killed. Just because of misunderstandings, wrong perceptions. And then the war went on and on and on. It didn’t seem to stop. Young people came and asked me, ‘Dear Thay, do you think the war will end one day soon?’ I saw their despair. Despair is the most dangerous thing for a man, for a woman, for a people.
 > 
 > “And that is the most difficult thing in our life-to continue always. That is why I told the young people who came to me and asked that kind of question, ‘Dear friends, the Buddha said that everything is impermanent. So, the war should be impermanent also. It will have to end one day.’ I tried to prevent despair from overwhelming them. It was very difficult. But we made it.”

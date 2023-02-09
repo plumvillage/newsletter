@@ -75,11 +75,7 @@ Throughout these past years, I have put all my heart into understanding the prac
 
 There are times I wish to end a connection even though I can still offer something to nourish someone. Your teaching “You should continue to nourish them…” will motivate me to keep on offering the most beautiful while I still can, so that each connection can be complete, until the conditions are no longer sufficient and then I can let go with a smile.
 
-{% image "article2023/sr-tuyet-nghiem-done/image2.jpeg" %}
-
-<p class="noIndent">Dearest Thay,</p>
-
-I am growing day by day on the path you have led. The path of Engaged Buddhism is not an easy one at all. You have prepared us so much for this journey through all the love and trust you have shown your students.
+Dearest Thay, I am growing day by day on the path you have led. The path of Engaged Buddhism is not an easy one at all. You have prepared us so much for this journey through all the love and trust you have shown your students.
 
 This morning, your teachings continue to illuminate the path  I walk with the beautiful aspiration of a monastic. I walked up the hill with leisurely steps - each step in freedom, each step untangled, each step a promise to return to peace. At the top of the mountain, I sat down  to enjoy my peaceful breathing together with the wind and the clouds. Putting my hand in my pocket, I see that your warm hand continues to encourage me to trust and love.
 
@@ -95,3 +91,6 @@ I am deeply grateful to Thay because Thay is always beautiful in my heart and st
 
 <p class="signoff"><span class="signoff-lvl-1">With deep respect and gratitude,</span><br/>
 <span class="signoff-lvl-2">Your student: Chan Tuyet Nghiem</span></p>
+
+<div class="article-end"></div>
+{% image "article2023/sr-tuyet-nghiem-done/image2.jpeg" %}

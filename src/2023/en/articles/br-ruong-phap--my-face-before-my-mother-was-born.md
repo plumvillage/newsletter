@@ -13,9 +13,9 @@ Five months passed and her health worsened. She was now bedridden, emaciated and
 
 The practice has taught me that everything is dependent on causes and conditions, that nothing exists by itself alone. This helped me to stop and allowed me to look deeper, to breathe with the awareness that whatever I was witnessing was more complex than that which manifested before my eyes.
 
-Knowing that we can only truly learn and grow when we are in touch with the present moment, I took this suffering as a teaching; accepting my grandmother as my teacher. And what a teacher she has been! I promised myself to maintain my awareness on the teaching of the Five Remembrances. After all, old age, sickness and death were unfolding before my eyes in a very direct way. How could I not keep this awareness?
-
 {% image "article2023/br-ruong-phap-done/7.jpg" %}
+
+Knowing that we can only truly learn and grow when we are in touch with the present moment, I took this suffering as a teaching; accepting my grandmother as my teacher. And what a teacher she has been! I promised myself to maintain my awareness on the teaching of the Five Remembrances. After all, old age, sickness and death were unfolding before my eyes in a very direct way. How could I not keep this awareness?
 
 Days, weeks and months passed. To take care of my grandmother was a full time endeavor. Although we had help during the week from the social services, we needed to offer our presence and support in everything else. I could see how I was easily becoming my environment, how interconnected I was with the suffering of my grandma, my mother, other members of the family and the wider world. The constant stream of news on the television, the rush of the world, the heedless conversations. The inability to connect with our deepest aspiration to heal the wounds caused by our individual and collective traumas. None of these conditions were separated from me.
 
@@ -30,11 +30,11 @@ Thanks to the basic, everyday practices, I could always touch a source of healin
 
 Sickness and death are not beautiful. Society always tries to make it clean and aesthetic. Dead bodies are beautified and groomed, so that they resemble the person while they were alive. It is very sanitized. The living body of the grandma in front of me was skeletal, parched, riddled with marks of a long life of poverty and backbreaking work. How “beautiful” would they make her the day she decided to die?
 
-{% image "article2023/br-ruong-phap-done/3.jpg" %}
-
 <div class="verse"><p>Disintegration before my eyes.<br/>
 Still, illusion lingers.<br/>
 Permanence…</p></div>
+
+{% image "article2023/br-ruong-phap-done/3.jpg" %}
 
 From Angola to Portugal, she carried the history of her life in her flesh and bones - more than that, she carried them in this mind of hers, now afflicted by a ravaging dementia. But even in the midst of so much pain and confusion, she maintained beautiful traces of her boundless love and generosity. Sometimes, when we had to turn her body, she would scream with excruciating pain and become really angry towards whoever had to move her. Only to, in the next moment, fill us with loving hugs and kisses. I could see all those seeds in me too; the anger, the confusion, the deep love and selfless generosity. And I knew also, that at any moment she would breathe her last breath.
 
