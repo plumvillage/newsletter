@@ -1063,7 +1063,8 @@ figure#article2023sr-nhat-nghiem-doneSrNhat-Nghieme,
 figure#article2023sr-thao-nghiemNgoi-giua-gio-xuan2e,
 figure#article2023John-P-HussmanLeaf-Richie,
 #poem-hoi-n-tam,
-figure#article2023br-thien-chi-done01img7603ZASPShootingThaysHut11OCT2022
+figure#article2023br-thien-chi-done01img7603ZASPShootingThaysHut11OCT2022,
+figure#article2023sr-tuyet-nghiem-doneimage2
 {
     column-span: all;
     margin-left: auto;
@@ -1079,6 +1080,11 @@ html:lang(vi) figure#article2023sr-chan-duc-interview-doneIMG9782e
 {
     margin-top: 4mm;
     width: 75%;
+}
+
+figure#article2023sr-tuyet-nghiem-doneimage2 {
+    margin-top: 4mm;
+    width: 60%;
 }
 
 html:lang(en) figure#article2023sr-chan-duc-interview-doneIMG9782e
@@ -1345,3 +1351,8 @@ html:lang(en) .PAGE-OF-Lang-Mai-Nam-Qua-A4-Final-No-Text9-Monastics-On-Tour-2 .p
 .PAGE-OF-article2023drawings-sr-bo-dexy6000saturationsharpenRainbow .verse {
     padding-top: 23mm !important;
 }
+
+.PAGE-OF-Lang-Mai-Nam-Qua-A4-Final-No-Text17-SCCK-Honore p {
+    text-align: left !important;
+}
+
