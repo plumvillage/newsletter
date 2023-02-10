@@ -5,7 +5,7 @@ author: Pháp thoại của Sư Ông Làng Mai
 
 Kính thưa đại chúng,
 
-Hôm nay là ngày 13 tháng 2 năm 2011, chúng ta đang ở tại chùa Từ Nghiêm xóm Mới, Làng Mai, trong mùa an cư kiết đông.
+Hôm nay là ngày 13 tháng 2 năm 2011, chúng ta đang ở tại chùa Từ Nghiêm, xóm Mới, Làng Mai, trong mùa an cư kiết đông.
 
 Chúng ta đang ngồi đây, ở một ngôi làng nhỏ của miền Nam nước Pháp. Chúng ta tới đây để làm gì? Ngồi đây chúng ta hãy phóng tâm, lấy con mắt của tâm mà nhìn người đó. Người đó không ở đây, người đó ở xa, có thể ở Á châu, Mỹ châu hay Phi châu. Người đó hiện bây giờ đang làm gì? Người đó là người mà ta thương hay ta ghét? Người đó hiện đang ở đâu và giờ này đang làm gì? Hãy lấy con mắt của tâm thức mà nhìn! Người đó đang thức, đang ngủ hay đang làm gì? 
 
@@ -15,13 +15,13 @@ Nhiều khi chúng ta phải đi rất xa mới thấy được cái mà chúng 
 
 ## Đứng từ trên cao nhìn xuống
 
-Ngày xưa khi đọc truyện của Hans Andersen, có một chuyện mà thầy rất thích. Đó là chuyện có hai đứa nhỏ đứng trên sân thượng của một nhà lầu rất cao nhìn xuống. Bên dưới có một đám con nít đang chơi với nhau. Có một con chó vừa mới chết nên bọn trẻ bàn với nhau là sẽ chôn con chó. Sau khi chôn xong, chúng đắp cho con chó một nấm mồ và chơi với nhau rất vui. 
+Ngày xưa khi đọc truyện của Hans Andersen, có một chuyện mà Thầy rất thích. Đó là chuyện có hai đứa nhỏ đứng trên sân thượng của một nhà lầu rất cao nhìn xuống. Bên dưới có một đám con nít đang chơi với nhau. Có một con chó vừa mới chết nên bọn trẻ bàn với nhau là sẽ chôn con chó. Sau khi chôn xong, chúng đắp cho con chó một nấm mồ và chơi với nhau rất vui. 
 
 Chúng đắp mồ cho con chó đẹp quá mà không cho bọn con nít ở xóm thấy thì uổng, cho nên bọn trẻ mới tổ chức một buổi viếng thăm mồ của con chó. Chúng báo tin cho tất cả trẻ con trong xóm. Đứa nào muốn vào thăm thì phải có vé, nghĩa là phải có một cái nút, nút áo hay nút quần gì cũng được nhưng phải nạp vô. Con nít có nhiều đứa mặc quần treo, nó giật bớt nút bên này, vì còn cái nút bên kia cho nên cái quần không bị tụt xuống. Có đứa thì có năm, sáu cái nút trên áo nên giật bớt một cái cũng không sao. Đứa nào cũng rất muốn vào xem cái mồ của con chó. Thấy những đứa khác vô hết rồi mà mình chưa được vô cho nên dù nút áo hay nút quần thì chúng đều giật ra để làm vé đi vào.  
 
-Khi bọn trẻ đều đã vào bên trong để thăm quan mộ của con chó, có một bé gái rất nhỏ và nghèo ở bên ngoài, nó không được vào vì nó không có cái nút nào hết. Áo quần của nó rất tơi tả, vì vậy theo luật thì không được vô. Tất cả bọn con nít đều được vô thăm mộ con chó, còn nó thì phải đứng ở bên ngoài nên nó khóc than, đau khổ. Nó khóc như mưa như gió. Nó là đứa con nít duy nhất trong xóm không được đi vào vì không có cái nút. 
+Khi bọn trẻ đều đã vào bên trong để tham quan mộ của con chó, có một bé gái rất nhỏ và nghèo ở bên ngoài, nó không được vào vì nó không có cái nút nào hết. Áo quần của nó rất tơi tả, vì vậy theo luật thì không được vô. Tất cả bọn con nít đều được vô thăm mộ con chó, còn nó thì phải đứng ở bên ngoài nên nó khóc than, đau khổ. Nó khóc như mưa như gió. Nó là đứa con nít duy nhất trong xóm không được đi vào vì không có cái nút. 
 
-Đứng từ trên sân thượng của tòa nhà là hai anh em, chúng thấy tất cả những gì xảy ra từ đầu đến cuối. Đứa em nói: Đứng từ trên cao nhìn xuống, mình thấy nỗi khổ niềm đau đó đâu có lớn lao gì, không có cái nút đi vào mà khóc như mưa như gió. Nỗi khổ niềm đau đó đâu có đáng gì đâu! Vậy mà đứa trẻ ở phía dưới đâu hề biết. Đứng từ trên cao nhìn xuống, mình có cái thấy rất khác về khổ đau của chính mình cũng như của người khác. Thầy không nhớ từng câu từng chữ, nhưng ý là như vậy. Truyện đó rất hay, chỉ khoảng một trang hay một trang rưỡi thôi mà thầy nhớ hoài. 
+Đứng từ trên sân thượng của tòa nhà là hai anh em, chúng thấy tất cả những gì xảy ra từ đầu đến cuối. Đứa em nói: Đứng từ trên cao nhìn xuống, mình thấy nỗi khổ niềm đau đó đâu có lớn lao gì, không có cái nút đi vào mà khóc như mưa như gió. Nỗi khổ niềm đau đó đâu có đáng gì đâu! Vậy mà đứa trẻ ở phía dưới đâu hề biết. Đứng từ trên cao nhìn xuống, mình có cái thấy rất khác về khổ đau của chính mình cũng như của người khác. Thầy không nhớ từng câu từng chữ, nhưng ý là như vậy. Truyện đó rất hay, chỉ khoảng một trang hay một trang rưỡi thôi mà Thầy nhớ hoài. 
 
 ## Trên đường lên nguyệt cầu
 
@@ -49,7 +49,7 @@ Nhìn thấy trái đất, một niềm cảm thương lớn trào ra trong trá
 
 {% image "article2023/su-ong--dharma-talk/AS08-14-2383_clipped.jpg", "", 'Earthrise, 1968, William Anders<a class="note" href="https://www.nasa.gov/image-feature/apollo-8-earthrise">Nguồn hình ảnh: https://www.nasa.gov/image-feature/apollo-8-earthrise.</a>' %}
 
-Một phi hành gia không gian, khi về lại trái đất đã nói: khi đi, chúng tôi đi với tư cách những nhà chuyên môn, nhưng khi trở về, chúng tôi là những con người thật sự (“We went to the moon as technicians; we returned as humanitarians”). Chúng ta cần có một chuyến đi như vậy để thấy rõ mình là ai, hành tinh của mình quý giá đến thế nào, để thấy rằng chúng ta quá dại dột. Chúng ta ở trong đó mà không biết cái đó là cái gì, không trân quý nó và để cho nó mất đi. 
+Một phi hành gia không gian, khi về lại trái đất đã nói: Khi đi, chúng tôi đi với tư cách những nhà chuyên môn, nhưng khi trở về, chúng tôi là những con người thật sự (“We went to the moon as technicians; we returned as humanitarians”). Chúng ta cần có một chuyến đi như vậy để thấy rõ mình là ai, hành tinh của mình quý giá đến thế nào, để thấy rằng chúng ta quá dại dột. Chúng ta ở trong đó mà không biết cái đó là cái gì, không trân quý nó và để cho nó mất đi. 
 
 Đối với sự sống cũng vậy. Mỗi người chúng ta đều đang có sự sống, nhưng chúng ta không biết trân quý sự sống. Chúng ta để thì giờ qua đi một cách dại dột và oan uổng. Chúng ta tiêu phí thì giờ và sự sống giống như lấy tờ 100 đô-la đem đốt. Đốt hết tờ này đến tờ khác. Chúng ta làm khổ nhau và đi tìm những cái chúng ta cho là hạnh phúc, trong khi đó chúng ta chất chứa khổ đau và tạo ra khổ đau cho nhau. Điều đó đang xảy ra bây giờ, ở đây, vậy mà chúng ta không thấy. Nhiều khi phải đi rất xa để nhìn lại, chúng ta mới thấy thiên đường chính là nơi chúng ta đang sống. 
 
