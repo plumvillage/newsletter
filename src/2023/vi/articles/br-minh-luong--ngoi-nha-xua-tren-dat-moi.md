@@ -9,7 +9,7 @@ Tôi không thể tin rằng mình đã ở Thái Lan được năm tháng rồi
 
 Các vị xuất sĩ ở Làng Mai Thái phần lớn là người Việt. Nhờ vậy khi sống trong nền văn hóa nơi đây, tôi thấy cách nhìn của mình thay đổi một cách không ngờ. Tôi bị chấn động trước sự tôn kính của mọi người đối với con đường xuất gia và đối với các vị tổ sư dù còn tại thế hay đã qua đời. Chưa bao giờ tôi được bao quanh bởi năng lượng yêu thích học hỏi giáo pháp và khám phá kho tàng tuệ giác của tổ tiên tâm linh như ở đây. 
 
-Buổi sáng hôm ấy, một nhóm quý thầy, quý sư cô đã giới thiệu với tăng thân ấn phẩm mới có tên *Giếng nước thơm trong*, tập san Đạo Bụt Ứng dụng của Làng Mai Thái. Trong đó có bài khảo cứu về các câu đối ở Tổ đình Từ Hiếu. Các câu đối này được dùng để trang trí nhiều nơi trong chùa, từ cổng tam quan cho đến chánh điện. Nhưng vì các câu đối được viết bằng chữ Hán nên nhiều quý thầy, quý sư cô không hiểu hết được ý nghĩa. 
+Buổi sáng hôm ấy, một nhóm quý thầy, quý sư cô đã giới thiệu với tăng thân ấn phẩm mới có tên *Giếng nước thơm trong*, tập san Đạo Bụt ứng dụng của Làng Mai Thái. Trong đó có bài khảo cứu về các câu đối ở Tổ đình Từ Hiếu. Các câu đối này được dùng để trang trí nhiều nơi trong chùa, từ cổng tam quan cho đến chánh điện. Nhưng vì các câu đối được viết bằng chữ Hán nên nhiều quý thầy, quý sư cô không hiểu hết được ý nghĩa. 
 
 Bài khảo cứu với bản dịch và chú giải rõ ràng đem đến cho người đọc cơ hội được học hỏi và hiểu một cách sâu sắc hơn ý nghĩa của các câu đối. Cặp mắt của người huynh đệ ấy sáng lên khi chia sẻ về bài viết. Mỗi ý lại được nhấn mạnh bởi nụ cười đầy cảm hứng. Bài viết đã giúp cho đại chúng khám phá ra một viên ngọc quý trong kho tàng quý giá của gốc rễ tâm linh Từ Hiếu. 
 
