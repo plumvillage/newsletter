@@ -11,7 +11,7 @@ Con đã về lại tu viện Mộc Lan sau những ngày đi biển cùng huynh
 
 Mỗi lần bắt gặp hình ảnh Thầy nhìn bàn tay là lòng con lại xốn xang khi Thầy dạy: “Con hãy tập viết hai tay, để khi đau tay này thì mình còn tay kia nữa!”. Rồi Thầy nhìn bàn tay đau của Thầy với vẻ đầy thông cảm. Câu nói ấy đã cho con cảm hứng để cầm bút với chủ đề: “Một bàn tay đưa cho nắng ngọt, một bàn tay giữ con đường mây” (trích từ tác phẩm *Trời phương ngoại* của Thầy).
 
-*Bàn tay đưa cho nắng ngọt* là bàn tay nào trong đôi tay tài hoa của Thầy? Con cảm nhận nhiều hương vị ngọt ngào của quê hương trong *Thơ từng ôm và mặt trời từng hạt.* Những khi xa quê con như được trở về cùng tuổi thơ qua những câu thơ:
+*Bàn tay đưa cho nắng ngọt* là bàn tay nào trong đôi tay tài hoa của Thầy? Con cảm nhận nhiều hương vị ngọt ngào của quê hương trong *Thơ từng ôm và mặt trời từng hạt.* Những khi xa quê, con như được trở về cùng tuổi thơ qua những câu thơ:
 
 <div class="verse"><p>Nắng trên không gian và thơ trên nắng,<br/>
 Thơ làm ra nắng, nắng ra thơ<br/>
@@ -77,7 +77,7 @@ Ngày ấy có cơ hội phụ làm tri khách nên con đi dò tên từng phò
 
 Hôm đó con có dịp qua Sơn Cốc. Thầy kéo ghế ngồi chơi với vẻ hào hứng muốn nghe các sư con kể chuyện nên Thầy hỏi ngay: “Hôm nay có gì vui, kể cho Thầy nghe với!”. Tủm tỉm cười với tên phòng Biển Mây, con thưa lại với Thầy chuyện con làm tri khách. Thầy không nói gì, chỉ hòa vào câu chuyện của chúng con bằng nụ cười hàm tiếu.
 
-Một lúc sau, Thầy đong đưa chân và chậm rãi nói: “Tên Biển Mây rất đẹp, tuy ở đây không có biển nhưng mùa hè khi đưa mọi người tới phòng Biển Mây, người ta cảm tưởng rất mát mẻ. Cái tưởng của mình cũng hay lắm đó con. Con hãy làm tri khách đi!”. Rồi Thầy tủm tỉm cười nói tiếp: “Thầy thấy tên Sao Biển cũng hay. Trên trời có sao mà dưới biển cũng có sao. Bàn tay mình cũng là một ngôi sao nữa đó con”.
+Một lúc sau, Thầy đong đưa chân và chậm rãi nói: “Tên Biển Mây rất đẹp. Tuy ở đây không có biển nhưng mùa hè khi đưa mọi người tới phòng Biển Mây, người ta cảm tưởng rất mát mẻ. Cái tưởng của mình cũng hay lắm đó con. Con hãy làm tri khách đi!”. Rồi Thầy tủm tỉm cười nói tiếp: “Thầy thấy tên Sao Biển cũng hay. Trên trời có sao mà dưới biển cũng có sao. Bàn tay mình cũng là một ngôi sao nữa đó con”.
 
 {% image "article2023/sr-van-nghiem-done/sc van nghiem_e.JPG" %}
 
