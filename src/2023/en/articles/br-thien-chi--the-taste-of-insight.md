@@ -35,6 +35,8 @@ One morning, I went by my friend Br. Dao Quang. After my grumpy greeting, he loo
 
 ## Insight = Practice?
 
+{% image "article2023/br-thien-chi-done/IMG_9655_e.jpg" %}
+
 In my very limited experience, insights like to stay hidden under a few layers of unpleasant wrapping paper. They are like fruits covered with a thick, prickly and smelly skin. To get to the soft pulp, I may have to relax and accept the painful covering and make it a part of me. Asking a question, like “Why don’t I like my body?” or “Why am I always stressed?” helps me gently direct my focus. When I’m on the verge of insight, I usually give up fighting the pain and open myself up to become more and more vulnerable. 
 
 It has not been the greatest happiness to understand that my father, with all his good and not so good qualities, is already inside me. This realization has not made me happier, but humbler, more grounded and less special. I am not someone who is better than everyone else. A few years ago, I would not have been able to bear the weight of this realization. It would have smashed me. 
@@ -44,3 +46,7 @@ But now I have already begun to open my heart to my father. Every day I allow my
 After talking with Br. Dao Quang, I felt a big hole inside me, almost in a third of my body. How uninspiring is it to understand that a huge generator of my life energy is the desire to be as good as others, isn’t it? If you ask me how this realization tasted, I would say ten times as bitter as a bitter melon. I don’t know how to handle it yet. Since the realization is fresh, I am still very emotional about it. I just know that I need to be more present for this feeling inside me. Whether it will change or not doesn’t matter right now. 
 
 In the book *The Art of Living*, Thay says in reference to the insight of impermanence “We can make the insight of impermanence into a living insight that is with us in every moment.” Regarding the wonderful insight I had about the healing presence of the universe, I ask myself, “Can I live this insight in every moment of my daily life?”
+
+<div class="article-end"></div>
+
+{% image "article2023/br-thien-chi-done/01.img_7603_ZASP.Shooting.Thay's.Hut.11.OCT.2022.jpg" %}

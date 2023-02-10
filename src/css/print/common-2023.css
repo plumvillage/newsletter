@@ -1052,6 +1052,7 @@ figure#article2023sr-dinh-nghiem-thay-van-luon-la-thay1e
 
 
 /* centered images */
+figure#article2023Ha-Vinh-ThoHa-Vinh-Tho-and-PV-monastic-in-Bhutan-2012e,
 figure#article2023sr-mai-thonVncon-da-biet-duong-veedit,
 figure#article2023sr-chan-duc-interview-doneIMG9782e,
 figure#article2023sr-van-nghiem-doneIMG1786,
@@ -1083,10 +1084,16 @@ html:lang(vi) figure#article2023sr-chan-duc-interview-doneIMG9782e
     width: 75%;
 }
 
+figure#article2023Ha-Vinh-ThoHa-Vinh-Tho-and-PV-monastic-in-Bhutan-2012e
+{
+    margin-top: 10mm;
+    width: 100%;
+}
+
 html:lang(en) figure#article2023lilian-cheungThay-and-Jon-Kabat-Zinn-2013
 {
-    margin-top: 3mm;
-    width: 93%;
+    margin-top: 10mm;
+    width: 100%;
 }
 
 figure#article2023sr-tuyet-nghiem-doneimage2 {

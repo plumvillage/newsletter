@@ -25,6 +25,8 @@ When Thay decided to leave the hospital and return to Plum Village, Sister Chan 
 
 An unplanted young dogwood sapling was still sitting in a bag, waiting to be planted. The sisters knew that Thay liked the dogwood flower and had bought it. Thay immediately “commanded” the attendants to dig a hole at a chosen spot, plant the sapling and provide it with ground cover and water. Thay also indicated for the brothers and sisters to restore the old wooden barn, and to hire workers to build a meditation hall at the far end of the Hermitage grounds. Every morning he went out to survey the project.
 
+{% image "article2023/sr-dinh-nghiem--thay-van-luon-la-thay/image4.jpg" %}
+
 Thay began to eat more and more, starting with pureed apple and pureed vegetable soup while he was in the hospital. After his return, one day Thay passed by the kitchen and saw a lemon on the table. Straight away Thay pointed to it and indicated that he wanted to taste sourness again! Soon after, Thay wished to try avocado, then rice, then crunchy baguette with all kinds of dishes such as Vietnamese noodle soup (phở, bún riêu)... Every meal of Thay’s was a moment of peace and happiness.
 
 Once in a while, Thay and his attendants went into the kitchen and opened the fridge to check what was inside. Sometimes he took a piece of cake or enjoyed some yogurt. The doctors had scheduled to see Thay in two months to assess his eating, and to determine when to stop the nutritional supplements through the stomach tube. A month before the appointment, Thay quietly pulled out the tube and did not let anyone know. 
@@ -35,6 +37,8 @@ While visiting the brothers working in the Upper Hamlet office, Thay came across
 
 Waking up the next morning, Thay changed his mind. He was happier when the Buddha statue was centered in front of the Zen circle. The attendant poured a cup of tea for Thay, and temporarily placed it on the table before offering it to him. Straight away Thay signaled to the attendant to remove the cup—*do not put anything on that Buddha’s table!* Since then, every time an attendant forgot this, then everytime Thay would remind him. 
 
+{% image "article2023/sr-dinh-nghiem--thay-van-luon-la-thay/1_e.jpg" %}
+
 In July 2015, Thay decided to go to the US to follow the rehabilitation program at the Physical Therapy Center of the University of California, San Francisco (UCSF). 
 
 And six months later in January 2016, Thay decided to return to France. Then in December of the same year, Thay decided to go to Thailand.
@@ -44,6 +48,8 @@ In August 2017, Thay went to Vietnam to visit his Root Temple, the Tu Hieu Templ
 In October 2018, Thay returned once more to his Root Temple.
 
 At the end of 2019, Thay went again to Thailand for his medical check-ups and afterwards, he returned to his Root Temple and lived there until his last day.
+
+{% image "article2023/sr-dinh-nghiem--thay-van-luon-la-thay/image3_e.jpg" %}
 
 Within those eight years, Thay made eight airline flights and each time, he clearly made the decision. Once a decision was made, Thay always wanted to realize it right away without any hesitation. He stopped eating, stopped drinking, and just went around with his attendants to see how the attendants were doing in preparing the luggage. We young ones who did not wish for Thay to travel far tried all kinds of ways and reasons to persuade him otherwise. But no matter how sharp our reasoning, within moments of coming before Thay, we bowed to him in defeat. No one and nothing could impede or change Thay’s decision. Sometimes, within only three nights and four days, the attendants had to do whatever it took to complete all the formalities and arrange everything for Thay’s trip.
 
@@ -70,5 +76,7 @@ Sometimes Thay was tired, but he persisted and pedaled non-stop until he fell as
 During the times when the Root Temple was being restored, to avoid the dust and noise, Thay agreed to go to the Thuan An and Da Nang beaches many times. He also went in the water with his attending brothers. Perhaps it had been a long time, 60 or 70 years, since Thay could immerse himself in warm seawater. Thay wanted to go further and farther out into the sea, farther and farther and farther. Those were the days when Thay was at his most playful, and for both Teacher and disciples, the most fun days at the seaside. Isn’t that so, Thay? 
 
 By 2020, Thay was much weaker. He no longer went around the temple or visited the hut of Grandfather teacher (Thay’s master). But, breathing in, we were aware that Thay was still alive. Breathing out, we cherished and smiled to life. We continued to enjoy every moment by Thay’s side and did not allow regrets or worries to take hold of us. Thay demonstrated that even with an aging, ailing, and weakening body full of aches and pains, Teacher and students could still live happily in any situation. This was possible with the practice of dwelling happily in the present moment, taught by the Buddha. 
+
+{% image "article2023/sr-dinh-nghiem--thay-van-luon-la-thay/image5.jpg" %}
 
 Throughout those seven years, we recognized that every action of Thay was a manifestation of a transformed store consciousness, one filled with the fruits of a true practitioner. Those fruits could completely change the surrounding environment. Whatever needed to be done, Thay did it with all his love. At last, with clear awareness, Thay decided to become a cloud, as quietly and decisively as he had made decisions in the past on countless occasions. Thay’s cloud has embraced his Dharma children in an atmosphere of warmth and stillness, then, now and forever.

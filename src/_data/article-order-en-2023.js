@@ -12,6 +12,7 @@ module.exports = [
 "br-ruong-phap--my-face-before-my-mother-was-born",
 "sr-tuyet-nghiem--thays-hand-in-my-pocket",
 "marisela-gomez--arise-sangha",
+"sr-linh-di--mountain-dream",
 "young-buds--elder-one",
 "sr-dao-nghiem--my-journey-with-thay",
 "sr-hien-nhan--the-ancestors-calling-home",
@@ -27,7 +28,6 @@ module.exports = [
 "br-phap-xa--my-masters-freedom",
 
 // POEMS
-"sr-linh-di--mountain-dream",
 "sr-lam-hy--poems",
 "br-duc-dinh--being-rainbow",
 "sr-tu-nghiem--poems",

@@ -7,11 +7,11 @@ author: Sister Chân Lạc Hạnh
 <p class="editors-preface">On 18 December 2022, the novice family (the “Red Cedar” family) was ordained in Thai Plum Village. They are the new generation of novices who carry Thay’s name in their Dharma name - the novice brothers carry the word <i>Nhat</i> (“One”) and the sisters the word <i>Hanh</i> (“Action”).<br/>
 Here, we share some reflections from Sister Chan Lac Hanh (“True Action of Happiness”) on Day 2 of her monastic journey.</p>
 
+{% image "article2023/sr-lac-hanh/Le xuat gia cay Xich Tung 16_e.JPG" %}
+
 What an incredibly beautiful, mysterious journey life is! I sit here in the pre-dawn morning, listening to the night creatures and distinct sounds of the countryside in Thailand, contemplating the sheer magnitude of what it is to be alive and awake to the profoundness of life, and all the causes and conditions that bring me here today, a recently ordained novice in the Plum Village tradition. 
 
-How wondrous it is that a baby born in Korea, adopted to Belgian parents in Italy, grew up in the United States and compelled to seek a spiritual path through yoga at the age of 16; bringing her to India to practice with her teachers for 18 years; traveling, teaching yoga, and living around the world to finally reunite with her biological, birth parents in Korea, which gave rise to a deeply embedded, overwhelming suffering; and finally washing up on the shores of the practices and teachings of Thay and taking refuge in New Hamlet in Plum Village, France. 
-
-{% image "article2023/sr-lac-hanh/7_e.JPG" %}
+How wondrous it is that a baby born in Korea, adopted to Belgian parents in Italy, grew up in the United States and compelled to seek a spiritual path through yoga at the age of 16; bringing her to India to practice with her teachers for 18 years; traveling, teaching yoga, and living around the world to finally reunite with her biological, birth parents in Korea, which gave rise to a deeply embedded, overwhelming suffering; and finally washing up on the shores of the practices and teachings of Thay and taking refuge in New Hamlet in Plum Village, France.
 
 When does the seed of monastic aspiration manifest? Perhaps it is deep and ancient, inherited from one’s ancestors; or a life already lived through many previous lifetimes. Only in stillness and silence can this seed be observed deep in oneself, breaking through the shell of one’s social conditioning and parental expectations; growing stronger and higher in one’s heart; bursting through one’s own inherent resistances and self-imposed obstacles until it fully blooms through the careful care and attention, cultivated from one’s own practices and received from the collective teachings, guidance, wisdom, support, and love from the beloved Sangha.
 
@@ -27,3 +27,5 @@ With deep love, respect, and gratitude to the totality of life, I bow to you.
 <span class="signoff-lvl-2">(True Action of Happiness)<br/>
 <small>Plum Village Thailand, 24 December, 2022</small></span>
 </p>
+
+{% image "article2023/sr-lac-hanh/7_e.JPG" %}

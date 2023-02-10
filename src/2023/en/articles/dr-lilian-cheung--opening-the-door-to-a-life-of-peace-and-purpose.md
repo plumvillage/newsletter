@@ -43,6 +43,8 @@ One day in 2011, I got a call from Olivia Wu, the Executive Chef at Google headq
 
 Fortunately, Olivia’s request came at a time when Thay was leading a retreat at Blue Cliff Monastery. I had the opportunity to meet with Thay and Sr. Chan Khong and asked him to consider giving a talk at Google. Thay seemed to be amused by my request. After a long pause, he smiled and nodded and said he would give a talk if Google allowed for a half-day retreat led by him and his monastics. Olivia was elated with Thay’s positive response; and Thay also seemed to be delighted about going to Google. The Google retreat was transformational for the campus culture. The Google community meditated, listened to Thay’s precious teachings and singing by the monastics, walked mindfully around the Google campus, and ate a dinner mindfully together in silence. The magic of the Google retreat has been captured by a wonderful video recording, *Mindfulness as a Foundation for Health* (<a href="https://www.youtube.com/watch?v=Ijnt-eXukwk">youtube.com/watch?v=Ijnt-eXukwk</a>).
 
+{% image "article2023/lilian-cheung/Poster_justEnso_t.jpg" %}
+
 ## Thay and His Monastics Flowing Through Boston
 
 Later that year, in the winter of 2011, I got a call from Dr. Judy Reiner Platt, Director of Continuing Education in Psychiatry at Harvard Medical School and Cambridge Health Alliance, asking if Thay could offer some teachings at their upcoming annual Meditation and Psychotherapy Conference. Judy asked me if I could help as they found Thay unreachable as he does not have a public relations office! 
@@ -54,9 +56,7 @@ During the Q&A session, myself, along with Jon Kabat Zinn and conference organiz
 > “I think the worst thing that can happen to a person is despair. And in a situation like the war in Vietnam, people can easily become the victim of despair.
 > 
 > “During the war in Vietnam, we tried our best to practice mindfulness of helping people. We trained young monks and nuns and lay practitioners, to help them rebuild regions that had been destroyed by the bombs. We tried to help peasants to heal, and to continue to rebuild. Many of our workers have been killed, because we followed the line of non-alignment. We didn’t want to take sides in the war. Our voice was that we do not want war between people living in the same country. We want to stop the war. We want negotiations, we want to reconcile.
-
-{% image "article2023/lilian-cheung/Thay-and-Jon-Kabat-Zinn-2013.jpg" %}
-
+> 
 > “That is why we stood in the middle, and that was a dangerous situation. Because this side thought of us as being with the other side. That is why many of us, monks, nuns, lay social workers, were killed. Just because of misunderstandings, wrong perceptions. And then the war went on and on and on. It didn’t seem to stop. Young people came and asked me, ‘Dear Thay, do you think the war will end one day soon?’ I saw their despair. Despair is the most dangerous thing for a man, for a woman, for a people.
 > 
 > “And that is the most difficult thing in our life-to continue always. That is why I told the young people who came to me and asked that kind of question, ‘Dear friends, the Buddha said that everything is impermanent. So, the war should be impermanent also. It will have to end one day.’ I tried to prevent despair from overwhelming them. It was very difficult. But we made it.”
@@ -80,3 +80,7 @@ speaking words of wisdom, let it be<br/>
 Let it be, let it be, whisper words of wisdom<br/>
 …Inter-be<br/>
 …A cloud never dies!</p></div>
+
+<div class="article-end"></div>
+
+{% image "article2023/lilian-cheung/Thay-and-Jon-Kabat-Zinn-2013.jpg" %}

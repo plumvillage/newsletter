@@ -9,6 +9,8 @@ author: Dr. Hà Vĩnh Thọ
 
 <p class="editors-preface">Dr. Hà Vĩnh Thọ (Chan Dai Tue) is a lay Dharma teacher in the Plum Village tradition. He was the program director of the Gross National Happiness Center (GNH) of the country of Bhutan from 2012 to 2018. He holds a PhD in psychology and education from Geneva University, Switzerland.</p>
 
+{% image "article2023/Ha-Vinh-Tho/Thay - Tet 2014.jpg" %}
+
 I was born from a Vietnamese father and a French mother. I grew up in many countries, but mostly in Europe and I first visited Vietnam with my father in 1982. I was 31 years old.
 
 Although I grew up abroad, I felt a connection to the country of my paternal ancestors, but it was limited because I had not learned Vietnamese as a child. My uncle Mr. Ha Van Lau was the ambassador of the Socialist Republic of Vietnam to France and lived in Paris, and when he came for working sessions to the United Nations in Geneva, he often visited us, as we lived nearby. 
@@ -26,6 +28,8 @@ I knew I had met my teacher.
 From then on, we went regularly for retreats to Plum Village, also with our children, and we had the chance to develop a very deep connection with Thay. For me it was also a wonderful opportunity to reconnect with my Vietnamese roots.
 
 Thay was able to share with the world the best of traditional Vietnamese culture and through him, many Vietnamese felt proud of their origins and could share it with their children. They were reminded of their ancestral roots even while living abroad. His foreign students developed a profound admiration for the beauty and depth of Vietnamese culture and spirituality.
+
+{% image "article2023/Ha-Vinh-Tho/Ancestors altar at Magnolia Grove Monastery -Photo by- Jamie Hadnagy .jpg", "", 'Ancestors altar at Magnolia Grove Monastery<br/>Photo by Jamie Hadnagy' %}
 
 As a child, we had an ancestor altar in my home, but it did not mean much to me. After visiting Plum Village and listening to Thay teaching on the importance of both biological and spiritual lineages; ancestor worship became very meaningful. To this day I have an ancestor altar in my home, and each morning I offer incense, fresh fruits and tea.
 
@@ -50,3 +54,7 @@ Another time, I was having dinner with Thay and Sister Chan Khong, and I was sha
 A true Zen Master, he was always attentive to help us live the mindfulness practice in every moment of our life, but he did so very gently and with humor and compassion.
 
 When I heard of the passing of Thay, to be frank, I did not feel sad. I felt a deep sense of gratitude and love. I am aware what a blessing it is to meet such a great master in my lifetime. I do not feel that Thay is gone. He lives in his teachings, in his many disciples, he has had a tremendous impact on this planet, he has brought so much wisdom, compassion, and a sense of ethical values to so many people all over the world. His spirit is more present than ever, and the people of Vietnam can be proud to have produced such a prominent son who has contributed to radiating the spirit of Vietnam in the ten directions.
+
+<div class="article-end"></div>
+
+{% image "article2023/Ha-Vinh-Tho/Ha Vinh Tho and PV monastic in Bhutan 2012_e.JPG", "", 'Ha Vinh Tho (in the center) with Plum Village monastics<br/>offering Thay’s books to the Bhutanese royal family in 2012' %}
