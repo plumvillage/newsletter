@@ -21,7 +21,7 @@ author: Phỏng vấn các vị xuất gia trẻ - phần II
 <!--  -->
 <h3>Phẩm chất nào ở quý thầy, quý sư cô lớn hoặc vị y chỉ sư <br/>mà quý sư cô, sư chú thấy trân quý nhất?</h3>
 
-> “Với con đó là sự từ ái và mở lòng. Có lần, con phải thỉnh chuông thời khóa, nhưng con không biết là phải mặc áo dài mới được thỉnh. Có một sư cô tới và nói với con là để sư chị thỉnh chuông cho em mà không hề có một sự phán xét. Đó thực sự là một cách rất hay để chỉ dạy, mà không cần phải nói ‘Em cần làm thế này, thế kia.’”<cite>Sư cô Trăng Lâm Hỷ</cite>
+> “Với con đó là sự từ ái và mở lòng. Có lần, con phải thỉnh chuông thời khóa, nhưng con không biết là phải mặc áo dài mới được thỉnh. Có một sư cô tới và nói với con là để sư chị thỉnh chuông cho em mà không hề có một sự phán xét. Đó thực sự là một cách rất hay để chỉ dạy, mà không cần phải nói ‘Em cần làm thế này, thế kia.”<cite>Sư cô Trăng Lâm Hỷ</cite>
 
 > <p>“Con biết là mỗi người đến từ tầng lớp xã hội khác nhau, trong môi trường văn hóa và với những ước nguyện khác nhau. Con rất trân quý những quý thầy, quý sư cô lớn, người có khả năng ôm lấy tất cả những sự khác biệt ấy. Dù vị đó có thể có sự tự giác kỷ luật rất cao nhưng đồng thời cũng có khả năng uyển chuyển và linh hoạt với người khác. Người hiểu được cốt tủy sự thực tập của Làng Mai và cách để áp dụng sự thực tập vào xã hội hiện đại. Con nghĩ những điểm này phải đi chung với nhau: Hiểu được người trẻ và hiểu được thế giới”.</p><cite>Sư cô Trăng Hiếu Đức</cite>
 
