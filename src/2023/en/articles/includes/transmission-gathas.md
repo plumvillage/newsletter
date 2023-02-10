@@ -1,4 +1,4 @@
-<p class="noIndent langEN">Here is a summary of the transmissions that have been awarded in the past year:</p>
+<p class="noIndent langEN">Here are the transmission gathas of 2022:</p>
 
 <figure id="pageMarkerForGathas"></figure>
 
