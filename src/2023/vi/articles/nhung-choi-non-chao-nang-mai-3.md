@@ -14,12 +14,12 @@ author: Phỏng vấn các vị xuất gia trẻ - phần III
 
 > <p>“Sự thực tập sống chung phòng với huynh đệ giúp con có nhiều sự để tâm hơn về nhu cầu của những người xung quanh và những nhu cầu ấy thường rất khác với con. Càng ngày con càng học được thêm về cách tiếp xử với huynh đệ, kiểm tra lại với người kia về tri giác của mình và lắng nghe những gì được nói hay chưa được nói ra. Đó là những điều con thấy rất thú vị”.</p><cite>Sư chú Trời Định Túc</cite>
 
-> “Con thật sự thích tất cả các uy nghi khi thấy sự thực tập uy nghi tạo nên sự hòa hợp trong đại chúng và giúp cho con cảm thấy thoải mái hơn. Con cũng cảm thấy an tâm, biết rằng quý thầy quý sư cô cũng đang thực tập uy nghi và giới luật. Cảm nhận được sự an toàn và rộng rãi trong lòng thì đó cũng là một hình thức của tự do”.<cite>Sư chú Trời Niệm Xả</cite>
+> “Con thật sự thích tất cả các uy nghi. Thực tập uy nghi tạo nên sự hòa hợp trong đại chúng và giúp cho con cảm thấy thoải mái hơn. Con cũng cảm thấy an tâm, biết rằng quý thầy quý sư cô cũng đang thực tập uy nghi và giới luật. Cảm nhận được sự an toàn và rộng rãi trong lòng thì đó cũng là một hình thức của tự do”.<cite>Sư chú Trời Niệm Xả</cite>
 
 <!-- explicit <p> here because I do not want the last line to be justified (very spaced out words) -->
 > <p>“Nấu ăn trong chánh niệm. Trong khi con làm việc, con có thể ý thức về hơi thở, về việc con đang làm cũng như những suy nghĩ và lời nói mà con tạo ra. Ý thức được rõ ràng về những gì đang làm, con cảm thấy rất vui và tự do”.</p><cite>Sư chú Trời Ruộng Đức</cite>
 
-> “Được làm việc như một tăng thân, như một cơ thể khiến con cảm thấy tự do khỏi những mối bận tâm cá nhân. Và con có thể dễ dàng tận hưởng công việc hơn”.<cite>Sư cô Trăng Lâm Hỷ</cite>
+> “Được làm việc như một tăng thân, như một cơ thể khiến con cảm thấy tự do khỏi những mối bận tâm cá nhân. Nhờ vậy, con có thể dễ dàng tận hưởng công việc hơn”.<cite>Sư cô Trăng Lâm Hỷ</cite>
 
 <!--  -->
 <h3>Quý sư cô, sư chú thấy <br/>uy nghi nào giúp mình có nhiều tự do nhất?</h3>
@@ -28,7 +28,7 @@ author: Phỏng vấn các vị xuất gia trẻ - phần III
 
 > “Với con là không uống rượu. Khi còn là cư sĩ, thỉnh thoảng con có uống rượu. Bây giờ, sau một thời gian dài không uống, con so sánh được hai trạng thái. Con thấy mình tự do thế nào khi không còn ở trong trạng thái mà con không làm chủ được những gì xảy ra với thân và tâm mình.
 > 
-> Cũng vậy, giới về đời sống phạm hạnh cho con sự tự do và sáng suốt hơn khi tiếp xử với người khác. Con biết vị trí của mình ở đâu, trong bất kỳ mối liên hệ nào. Điều này giúp con dễ dàng hướng năng lượng của mình vào con đường tâm linh”.<cite>Sư chú Trời Niệm Thuần</cite>
+> Cũng vậy, giới về đời sống phạm hạnh cho con sự tự do và sáng suốt hơn khi tiếp xử với người khác. Con biết vị trí của mình ở đâu trong bất kỳ mối liên hệ nào. Điều này giúp con dễ dàng hướng năng lượng của mình vào con đường tâm linh”.<cite>Sư chú Trời Niệm Thuần</cite>
 
 > Với con, con thích thực tập uy nghi khi làm việc thì không nói chuyện. Con cảm nhận được trong lòng mình có sự dừng lại, lắng dịu, quán thân sâu sắc hơn và thấy rõ được những suy nghĩ mà mình đang có”.<cite>Sư cô Trăng An Niệm</cite>
 
