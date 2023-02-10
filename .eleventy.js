@@ -44,12 +44,12 @@ async function imageData(src) {
     let fastProcess = true
     let justCopy = false
     
-    // let maxWidth = 700
-    // let quality = 80
+    let maxWidth = 700
+    let quality = 80
     // let maxWidth = 1500
     // let quality = 60
-    let maxWidth = 5000
-    let quality = 96
+    // let maxWidth = 5000
+    // let quality = 96
     
     let imgFormat = "jpeg"
     // when the input image is a webp, the output image should also be webp, because jpeg does not support transparency
