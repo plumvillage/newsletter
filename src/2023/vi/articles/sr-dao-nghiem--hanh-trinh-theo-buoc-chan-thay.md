@@ -27,7 +27,7 @@ Con rất thích thú khi được nghe câu chuyện này, nhất là khi thấ
 
 ## Trao truyền và tiếp nối
 
-Ngay sau khóa tu đầu tiên này, con đến thăm người cô của con. Lúc ấy cô của con bị bệnh nặng và trong tình trạng hôn mê đã vài tháng. Con tới hôm trước thì tối ngày hôm sau cô mất. Con cảm nhận một cách sâu sắc những gì con tiếp nhận trong khóa tu, đã giúp con giữ được sự bình thản để có thể ôm ấp nỗi đau của chính mình cũng như nỗi đau của các con, các cháu của cô. Những lời Thầy dạy cứ vang vọng trong con. Cô của con vẫn còn đó, cô đang có mặt khắp mọi nơi. Con cảm nhận được sự có mặt của cô và con cũng đã giúp những người anh chị em họ của mình nhận diện được những hạt giống tốt đẹp mà cô đã trao truyền cho các con. Chúng con là sự tiếp nối của cô.
+Ngay sau khóa tu đầu tiên này, con đến thăm người cô của con. Lúc ấy, cô của con bị bệnh nặng và trong tình trạng hôn mê đã vài tháng. Con tới hôm trước thì tối ngày hôm sau cô mất. Con cảm nhận một cách sâu sắc những gì con tiếp nhận trong khóa tu, đã giúp con giữ được sự bình thản để có thể ôm ấp nỗi đau của chính mình cũng như nỗi đau của các con, các cháu của cô. Những lời Thầy dạy cứ vang vọng trong con. Cô của con vẫn còn đó. Cô đang có mặt khắp mọi nơi và con có thể cảm nhận được. Con cũng đã giúp những người anh chị em họ của mình nhận diện được những hạt giống tốt đẹp mà cô đã trao truyền cho các con. Chúng con là sự tiếp nối của cô.
 
 Ba của con đã qua đời trước đó nhiều năm. Với niềm tin nơi Thầy, con nỗ lực thực tập những lời Thầy dạy. “Hãy cảm nhận rằng con đang nắm tay ba. Hãy cảm nhận ba đang bước đi bằng hai bàn chân của con”. Từ sự thực tập đó, con đã học được cách kết nối với ba nơi từng bước chân chánh niệm.
 
@@ -55,7 +55,7 @@ Thực tập có mặt thực sự để cảm nhận vẻ đẹp tuyệt diệu
 
 ## Niềm biết ơn tràn dâng
 
-Khi tới xóm Hạ tháng Hai năm 2002, con thật sự xúc động trước sự mộc mạc, đơn sơ của nơi này. Thật cảm động khi thấy bức thư pháp treo trong nhà ăn “The piece of bread in your hand is the body of the cosmos”. (Miếng bánh mì trong tay ta chứa đựng cả vũ trụ).
+Khi tới xóm Hạ tháng Hai năm 2002, con thật sự xúc động trước sự mộc mạc, đơn sơ của nơi này. Thật cảm động khi thấy bức thư pháp treo trong nhà ăn “The piece of bread in your hand is the body of the cosmos” (Miếng bánh mì trong tay ta chứa đựng cả vũ trụ).
 
 Năm 2005, một ngày sau khi hoàn thành chuyến hoằng pháp tại Mỹ, Thầy tới nghỉ tại tu viện Rừng Phong ở Vermont. Chỉ có một vài người trong chúng con ăn tối cùng Thầy. Thầy hỏi con: “Con không có gì để ăn kìa, vì sao con lại không ăn?” “Bạch Thầy, tối nay con không muốn ăn. Như thế này con thấy dễ chịu hơn”, con trả lời. Thầy nhìn con mỉm cười, rồi lấy một miếng bánh mì trong đĩa của Thầy đưa cho con. Làm sao con có thể từ chối miếng bánh mì từ Thầy. Con mỉm cười nhận miếng bánh và chậm rãi ăn. Cử chỉ đơn sơ của Thầy đã làm con thực sự xúc động. Con học cách nhìn sâu vào mỗi miếng bánh mì để thấy được sự có mặt của cả vũ trụ trong miếng bánh, bản chất tương tức của miếng bánh. Và con đã ăn miếng bánh trong niềm biết ơn tràn dâng đối với vạn vật xung quanh.
 
@@ -67,7 +67,7 @@ Năm đầu tiên sau khi con xuất gia, Thầy thường hay đùa khi gọi t
 
 ## Con có thấy thoải mái không?
 
-Lần cuối Thầy cho pháp thoại là ngày mở đầu khóa tu dành cho các thầy cô giáo và những người hoạt động trong ngành giáo dục ở Pháp. Sư cô Jina và con ngồi bên Thầy, mỗi người một bên. Thầy quay qua con và hỏi: “Sœur Dao Nghiem, êtes-vous comfortable?” (“Đào Nghiêm, con có thấy thoải mái không con?”). Rất nhẹ nhàng, Thầy đưa con trở về với giây phút hiện tại, giây phút tuyệt vời khi Thầy đang còn sống và con được ngồi bên cạnh Thầy. Lúc đó Thầy đã yếu và phải ngồi trên xe lăn, nên trong con có nhiều lo lắng. Câu hỏi của Thầy là tiếng chuông chánh niệm cho con: “Trở về đi con, con đang ở đâu vậy?” 
+Lần cuối Thầy cho pháp thoại là ngày mở đầu khóa tu dành cho các thầy cô giáo và những người hoạt động trong ngành giáo dục ở Pháp. Sư cô Jina và con ngồi bên Thầy, mỗi người một bên. Thầy quay qua con và hỏi: “Sœur Dao Nghiem, êtes-vous comfortable?” (“Đào Nghiêm, con có thấy thoải mái không con?”). Rất nhẹ nhàng, Thầy đưa con trở về với giây phút hiện tại, giây phút tuyệt vời khi Thầy đang còn sống và con được ngồi bên cạnh Thầy. Lúc đó Thầy đã yếu và phải ngồi trên xe lăn, nên trong con có nhiều lo lắng. Câu hỏi của Thầy là tiếng chuông chánh niệm cho con: “Trở về đi con, con đang ở đâu vậy?”.
 
 Thầy đã dạy cho con thấy cuộc sống này đẹp vô cùng. Thầy giúp con tiếp xúc được những mầu nhiệm của sự sống trong những điều bình dị nhất, cho con thấy bản chất tương tức của vạn vật và hiểu vì sao mọi hành vi từ thân, khẩu, ý của mình đều có tác động lên toàn thế giới.
 
