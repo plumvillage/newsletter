@@ -11,7 +11,7 @@ We have the tendency to honor the life of someone we love with an inscription of
 
 Thay would undoubtedly whisper, “That is not very accurate.”
 
-I first met Thay 20 years ago, after years of reading his teachings and eventually attending a retreat. Our charitable foundation was working to support vulnerable children in numerous schools along the Thailand-Burma border and in Vietnam. Thay, already contemplating his continuation, wished to protect and continue the training and support of his monastic sangha. In our conversations, the clarity of his intention and the resolve of his decisions gave the impression that he saw ahead to a hundred possible futures extending from each moment, choosing one deliberate step along a mindful path.
+I first met Thay 20 years ago, after years of reading about his teachings and eventually attending a retreat. Our charitable foundation was working to support vulnerable children in numerous schools along the Thailand-Burma border and in Vietnam. Thay, already contemplating his continuation, wished to protect and continue the training and support of his monastic sangha. In our conversations, the clarity of his intention and the resolve of his decisions gave the impression that he saw ahead a hundred possible futures extending from each moment, choosing one deliberate step along a mindful path.
 
 Even ordinary actions with Thay were grounded in mindfulness and appreciation. I remember walking with Thay and Sister Chan Khong along a grove of trees, each of us finding an apple, and the world becoming suspended in the simple experience of enjoying them, without words, in each other’s presence. Present moment, only moment.
 
@@ -25,17 +25,17 @@ Thay’s examples were full of nature – trees, leaves, seeds, sunshine, waves,
 
 Because he was a true teacher, Thay was not inclined to make concepts impenetrable, or to hold enlightenment at a distance from his students. One mindful step was enough to say “I have arrived. I am home.” It was enough to live in mindfulness one percent of the time, then two. Instead of treating imperfection as failure, Thay pointed them toward the north star, and offered practices filled with compassion, healing, forgiveness, grace, acceptance, and growth. No mud, no lotus.
 
-Listening to Thay, one did not need to contemplate the sound of one hand clapping to see that life is found in the present moment and the reality of interbeing, not in the notion of a separate self. The closest thing to a koan that I remember Thay posing was at a retreat, when he visited the kitchen as his students were making dinner. Thay invited them to the present moment, asking, “What are you doing?”
+Listening to Thay, one did not need to contemplate the sound of one hand clapping to see that life is found in the present moment and to see the reality of interbeing, not the notion of a separate self. The closest thing to a koan that I remember Thay posing was at a retreat, when he visited the kitchen as his students were making dinner. Thay invited them to the present moment, asking, “What are you doing?”
 
 “Cutting carrots.”
 
 “Thay has good eyes,” he smiled, “he can see that you are cutting carrots. What are you doing?”
 
-Like the master asking a student to contemplate the cypress in the courtyard, Thay led his students to moments of enlightenment by encouraging mindfulness, insight, and appreciation of interbeing. One could imagine Thay looking for someone to hold up a piece of carrot, smiling like Mahakashyapa.
+Like the master asking a student to contemplate the cypress tree in the courtyard, Thay led his students to moments of enlightenment by encouraging mindfulness, insight, and appreciation of interbeing. One could imagine Thay looking for someone to hold up a piece of carrot, smiling like Mahakashyapa.
 
 His students came from every background and religion, and Thay taught in a way that embraced all of them. Instead of being caught in dogma, or pitting one set of beliefs against another, Thay guided his students to the well of interbeing. He didn’t hesitate to talk about the universe, God, Nirvana, and the Pure Land of the Buddha in the same breath. Thay did not discriminate. If all of us emanate from one source, its greatest wish would be for us to be enlightened enough to recognize our common humanity.
 
-Even when Thay spoke about a notion like “death,” his teaching was beautiful and light. He once shared a story of a little girl who asked him, “Thay, have you decided what to be in your next life?” After some reflection, Thay answered her – “I see that I will be many things. I will be a butterfly. I will be a cloud. I will be that yellow flower.” Then he playfully added, “and if you are not mindful, you may step on me.”
+Even when Thay spoke about a notion like “death,” his teaching was beautiful and light. He once shared a story of a little girl who asked him, “Thay, have you decided what to be in your next life?” After some reflection, Thay answered her, “I see that I will be many things. I will be a butterfly. I will be a cloud. I will be that yellow flower.” Then he playfully added, “and if you are not mindful, you may step on me.”
 
 {% image "article2023/John-P-Hussman/Leaf-Richi_e.jpg" %}
 <!-- drawing by Ricelli (Richi) Laplace Resende -->
@@ -56,10 +56,10 @@ Thay sometimes talked of the moment he stopped to contemplate a leaf.
 
 > I asked the leaf whether it was frightened because it was autumn and the other leaves were falling. The leaf told me, “No. During the whole spring and summer I was completely alive. I worked hard to help nourish the tree, and now much of me is in the tree. I am not limited by this form. I am also the whole tree, and when I go back to the soil, I will continue to nourish the tree. So I don’t worry at all. As I leave this branch and float to the ground, I will wave to the tree and tell her, ‘I will see you again very soon.’ ”<br/>That day there was a wind blowing and, after a while, I saw the leaf leave the branch and float down to the soil, dancing joyfully, because as it floated it saw itself already there in the tree. It was so happy. I bowed my head, knowing that I have a lot to learn from the leaf.
 
-Like the leaf, Thay was not worried about his continuation. “We are all of the nature to grow old. We are all of the nature to have ill health.” Instead of avoiding such statements, Thay used them to teach us how to live deeply and with gratitude. When he was unable to walk, he was supported by his sangha, surrounding him, in Sr. Chan Khong’s words, “like joyful bees.” I was reminded of a little sign in Thay’s hut – “When you walk, you walk for Thay.”
+Like the leaf, Thay was not worried about his continuation. “We are all of the nature to grow old. We are all of the nature to have ill health.” Instead of avoiding such statements, Thay used them to teach us how to live deeply and with gratitude. When he was unable to walk, he was supported by his sangha, surrounding him, in Sr. Chan Khong’s words, “like joyful bees.” I was reminded of a little sign in Thay’s hut, “When you walk, you walk for Thay.”
 
 In one of our later visits, it was difficult for Thay to speak. We stood face to face, breathing, smiling, but this time, no words of Dharma. I said “I am here for you, and I know you are there.” His eyes brightened, and he laughed.
 
-We have the tendency to imagine that we have “lost” Thay. He would undoubtedly whisper, “That is not very accurate.” He is there, in the butterfly, in the cloud, in the little yellow flower, in the leaf, in countless manifestations of the Pure Land; the ultimate reality. All of them hold Thay for us.
+We have the tendency to imagine that we have “lost” Thay. He would undoubtedly whisper, “That is not very accurate.” He is there, in the butterfly, in the cloud, in the little yellow flower, in the leaf, in countless manifestations of the Pure land; the ultimate reality. All of them hold Thay for us.
 
 “This body is not me. I am not caught in this body. I am life without boundaries. No birth, no death.” Thay had no fear, because he saw his own endless and beautiful continuation clearly – in his beloved monastics, in his students, and in the countless actions he inspired; every smile, mindful breath, act of compassion, and word of peace, rippling like waves from his teaching, his life, and the lives he touched.
