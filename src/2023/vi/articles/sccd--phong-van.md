@@ -69,7 +69,7 @@ Cá nhân Chân Đức không trở thành người tu chỉ để được ng�
 
 ### BBT: Khi Sư cô cảm thấy mệt mỏi, những pháp môn nào đã giúp Sư cô lấy lại năng lượng và tiếp tục đi tới trong những năm tháng qua?
 
-**Sư cô Chân Đức:** Đi thiền hành rất quan trọng đối với Chân Đức. Lúc nào không đi ra ngoài trời được, Chân Đức đi lên đi xuống cầu thang trong nhà. Chân Đức đi rất chậm, có thể bước một bước trong hai hơi thở. Những lúc như thế, nếu ép bản thân phải thiền quán về một đối tượng nào đó, có thể Chân Đức sẽ rất mệt. Vì vậy, Chân Đức không cố gắng mà chỉ thở và mở mắt ngắm nhìn cảnh vật qua khung cửa sổ. Ngồi đúng tư thế giúp ích cho Chân Đức rất nhiều.
+**Sư cô Chân Đức:** Đi thiền hành rất quan trọng đối với Chân Đức. Lúc nào không đi ra ngoài trời được, Chân Đức đi lên đi xuống cầu thang trong nhà. Chân Đức đi rất chậm, có thể bước một bước trong hai hơi thở. Ngồi yên và đúng tư thế cũng giúp ích cho Chân Đức rất nhiều. Chân Đức không cố gắng mà chỉ thở và ngắm nhìn cảnh vật qua khung cửa sổ. Những lúc như thế, nếu ép bản thân phải thiền quán về một đối tượng nào đó có thể khiến Chân Đức rất mệt.
 
 Thời điểm Chân Đức có được những cái thấy rất sáng tỏ thường là trong những đêm Chân Đức không ngủ được. Xung quanh hoàn toàn tối đen, Chân Đức nằm đó theo dõi hơi thở và chăm sóc những chỗ đau nhức trên cơ thể mình. Nhưng bất chợt, Chân Đức thấy rõ là thân này không phải là mình. Cái thấy này đến rất tự nhiên, không hề có sự cố gắng để đạt được.
 
