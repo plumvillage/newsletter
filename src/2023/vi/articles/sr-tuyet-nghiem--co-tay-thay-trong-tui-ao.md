@@ -32,7 +32,7 @@ Tĩnh tọa lòng an miệng mỉm cười…</p></div>
 
 ## Tay Thầy trong túi áo con
 
-Buổi sáng, trời se lạnh. Con khoác áo, mang tất, đeo găng tay ấm áp nhưng tay vẫn lạnh. Con vừa đi, hai bàn tay thọc vào túi áo. Con nhớ lại một kỷ niệm ngọt ngào với Thầy vào mùa đông năm 2010. Năm ấy con tròn hai mươi tư tuổi, một năm nhiều sóng gió với những bước chuyển mình trong hành trình tu học của con. Việc chuyển trung tâm tu học đến với con như một định mệnh chưa mấy sẵn sàng mà các nhân duyên cứ nối tiếp nhau một cách vội vã. 
+Buổi sáng, trời se lạnh. Con khoác áo, mang tất, đeo găng tay ấm áp nhưng tay vẫn lạnh. Con vừa đi, hai bàn tay thọc vào túi áo. Con nhớ lại một kỷ niệm ngọt ngào với Thầy vào mùa đông năm 2010. Năm ấy con tròn hai mươi tư tuổi, một năm nhiều sóng gió với những bước chuyển mình trong hành trình tu học của con. Việc chuyển trung tâm tu học đến với con như một định mệnh, chưa mấy sẵn sàng mà các nhân duyên cứ nối tiếp nhau một cách vội vã. 
 
 Tuổi hai mươi tư, con còn ham vui lắm, còn cần thật nhiều tình huynh đệ. Do vậy, việc phải chuyển từ xóm Hạ lên thiền đường Hơi Thở Nhẹ ở Paris như một sự thiệt thòi, hy sinh của tuổi trẻ. Từ một đại chúng ba xóm có đến mấy trăm người đông vui, con được khuyến khích trải nghiệm sống ở một trung tâm nhỏ chỉ có tám sư cô, trong đó có bốn chị em trẻ Việt Nam.
 
