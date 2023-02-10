@@ -29,7 +29,7 @@ Trong mùa an cư vừa rồi, có một lần con bị căng thẳng khi phải
 
 Buổi sáng hôm đó, con đi ngang qua thầy Đạo Quang. Nhìn điệu bộ cáu kỉnh của con trong cách xá chào, thầy nhìn con và hỏi thăm đã xảy ra chuyện gì. Chuông thỉnh giờ thọ trai vang lên trước khi con kịp trả lời thầy. Chúng con đi vào khất thực và vài phút sau, cuộc trò chuyện đã diễn ra trong nhà trà:
 
-> “Hình như lúc nào con cũng tìm cơ hội để bị căng thẳng”, con kể với thầy. “Dù ở tu viện hay ở bên ngoài, con sắp xếp cuộc sống của mình kiểu gì mà lúc nào cũng vướng vào nhiều áp lực”.
+> “Hình như lúc nào con cũng tìm cơ hội để bị căng thẳng”, <i>con kể với thầy.</i> “Dù ở tu viện hay ở bên ngoài, con sắp xếp cuộc sống của mình kiểu gì mà lúc nào cũng vướng vào nhiều áp lực”.
 
 > “Ồ, quan sát hay đó. Tiếp tục nữa đi, nhìn sâu thêm nữa đi. Nhìn vào những vùng thật là đau nhức ấy”, <i>thầy Đạo Quang nói.</i>
 
@@ -41,7 +41,7 @@ Buổi sáng hôm đó, con đi ngang qua thầy Đạo Quang. Nhìn điệu b�
 
 Theo kinh nghiệm còn hạn hẹp của con, tuệ giác thường ẩn nấp dưới những lớp vỏ bọc không mấy dễ chịu. Giống như trái cây thì có những lớp da hay vỏ dày, gai góc bao bọc bên ngoài. Để có được phần cơm quả bên trong, có lẽ con phải buông thư và chấp nhận những lớp vỏ đau đớn và coi đó là một phần của chính mình. Khi tự đặt những câu hỏi như: “Sao mình không thích hình hài này của mình?” hay “Sao lúc nào mình cũng căng thẳng vậy?” giúp con nhẹ nhàng định hướng lại sự chú tâm của mình. Khi chạm tới ngưỡng cửa của tuệ giác, con thường thấy mình có nhu yếu từ bỏ ý muốn tranh đấu với những đau nhức để có thể mở lòng ra, dù rằng có khi điều đó làm con càng mong manh và dễ bị tổn thương hơn.
 
-Thấy được ba đang có mặt trong con với những phẩm chất đẹp và chưa đẹp, cái thấy đó không làm cho con hạnh phúc hơn, nhưng khiến con khiêm nhường hơn, vững vàng và thực tế hơn. Nếu cách đây vài năm, có lẽ con không thể nào chấp nhận và chịu nổi sức nặng của cái thấy này. Có lẽ, con sẽ bị nó đè bẹp mất.
+Thấy được ba đang có mặt trong con với những phẩm chất đẹp và chưa đẹp, cái thấy đó không làm cho con hạnh phúc hơn. Trái lại, điều đó khiến con khiêm nhường, vững vàng và thực tế hơn. Nếu cách đây vài năm, có lẽ con không thể nào chấp nhận và chịu nổi sức nặng của cái thấy này. Có lẽ, con sẽ bị nó đè bẹp mất.
 
 Nhưng giờ đây, con đã bắt đầu mở lòng ra với ba hơn. Mỗi ngày, con cho phép mình được là ba và dành tình thương cho ba trong mình. Đôi lúc, con vẫn còn có chút cảm giác mình là nạn nhân, nhưng con thôi không còn đấu tranh gì nữa cả.
 
