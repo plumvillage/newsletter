@@ -3,7 +3,7 @@ title: Những thiên thần mùa hè
 author: Sư cô Chân Trăng Bồ Đề
 ---
 
-Nhìn ngắm một lần cuối hai chiếc lá vàng, lá đỏ trước khi bỏ vào bì thư để gửi đi, lòng con tràn ngập sự thương mến. Bất chợt, con mỉm cười khi nhớ lại những dòng chữ ngây thơ mà con nhận được vào một buổi sáng đẹp trời: “Hôm nay là ngày đầu tiên con đi học. Trường của con ở Bilthoven. Con đạp xe 2,5 cây số để đến trường vào buổi sáng và về lại vào buổi chiều”. Đó là một trong những kí ức đẹp con có trong chương trình thiếu nhi mùa hè vừa rồi tại Viện Phật học Ứng dụng châu Âu (EIAB) ở Đức.
+Nhìn ngắm một lần cuối hai chiếc lá vàng, lá đỏ trước khi bỏ vào bì thư để gửi đi, lòng con tràn ngập sự thương mến. Bất chợt, con mỉm cười khi nhớ lại những dòng chữ ngây thơ mà con nhận được vào một buổi sáng đẹp trời: “Hôm nay là ngày đầu tiên con đi học. Trường của con ở Bilthoven. Con đạp xe 2,5 cây số để đến trường vào buổi sáng và về lại vào buổi chiều...”. Đó là một trong những kí ức đẹp con có trong chương trình thiếu nhi mùa hè vừa rồi tại Viện Phật học Ứng dụng châu Âu (EIAB) ở Đức.
 
 Đa phần trẻ em Đức và Hà Lan không nói được tiếng Anh nhiều nên bao câu chuyện khóc cười do khác biệt ngôn ngữ cứ nối nhau…
 
