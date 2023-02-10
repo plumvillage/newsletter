@@ -20,7 +20,7 @@ Nghe đến đó thì ai cũng phì cười. Từ đó, bài hát của cây b�
 
 ## Ba má đến thăm, bánh quà đầy mâm
 
-Được ba má đến thăm là niềm vui lớn của những ai sống xa nhà, đặc biệt là người tu sĩ. Vui vì được gặp trực tiếp, hàn huyên mọi chuyện, và ba má có cơ hội tiếp xúc với pháp môn. Bên cạnh đó, đây còn là cơ hội để truyền thông, thấu hiểu, thông cảm và chấp nhận nhau. Một điều không kém phần quan trọng nữa là *bánh quà đầy mâm*, nào là bánh, là trái cây,v.v. toàn là những món ngon ưa thích.
+Được ba má đến thăm là niềm vui lớn của những ai sống xa nhà, đặc biệt là người tu sĩ. Vui vì được gặp trực tiếp, hàn huyên mọi chuyện, và ba má có cơ hội tiếp xúc với pháp môn. Bên cạnh đó, đây còn là cơ hội để truyền thông, thấu hiểu, thông cảm và chấp nhận nhau. Một điều không kém phần quan trọng nữa là *bánh quà đầy mâm*, nào là bánh, là trái cây,v.v. Toàn là những món ngon ưa thích.
 
 {% image "article2023/mimosa-family-done/DSC_1778.JPG" %}
 
