@@ -35,9 +35,9 @@ From time to time, Thay visited New Hamlet, Lower Hamlet, Son Ha, and Upper Haml
 
 While visiting the brothers working in the Upper Hamlet office, Thay came across a bronze statue of the Buddha on a shelf. The statue was very artistic with the body and legs gently bent. Thay held the Buddha statue close to his heart and brought it back to his hut. On the wall in the center of the hut hangs one of Thay’s Zen circle calligraphies and underneath it stands a wooden table. Thay directed the attendants to clear everything on the table and to place the statue there, to one side of the calligraphy. Thay even indicated to the attendants to turn the statue slightly so that its curvature could be clearly seen.
 
-Waking up the next morning, Thay changed his mind. He was happier when the Buddha statue was centered in front of the Zen circle. The attendant poured a cup of tea for Thay, and temporarily placed it on the table before offering it to him. Straight away Thay signaled to the attendant to remove the cup—*do not put anything on that Buddha’s table!* Since then, every time an attendant forgot this, then everytime Thay would remind him. 
-
 {% image "article2023/sr-dinh-nghiem--thay-van-luon-la-thay/1_e.jpg" %}
+
+Waking up the next morning, Thay changed his mind. He was happier when the Buddha statue was centered in front of the Zen circle. The attendant poured a cup of tea for Thay, and temporarily placed it on the table before offering it to him. Straight away Thay signaled to the attendant to remove the cup—*do not put anything on that Buddha’s table!* Since then, every time an attendant forgot this, then everytime Thay would remind him. 
 
 In July 2015, Thay decided to go to the US to follow the rehabilitation program at the Physical Therapy Center of the University of California, San Francisco (UCSF). 
 

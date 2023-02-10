@@ -43,10 +43,11 @@ It has not been the greatest happiness to understand that my father, with all hi
 
 But now I have already begun to open my heart to my father. Every day I allow myself to be my father and to love my father within me. I don’t fight it anymore. Sometimes I still feel a little bit like a victim, but I don’t fight with that feeling anymore either. 
 
+{% image "article2023/br-thien-chi-done/01.img_7603_ZASP.Shooting.Thay's.Hut.11.OCT.2022.jpg" %}
+
 After talking with Br. Dao Quang, I felt a big hole inside me, almost in a third of my body. How uninspiring is it to understand that a huge generator of my life energy is the desire to be as good as others, isn’t it? If you ask me how this realization tasted, I would say ten times as bitter as a bitter melon. I don’t know how to handle it yet. Since the realization is fresh, I am still very emotional about it. I just know that I need to be more present for this feeling inside me. Whether it will change or not doesn’t matter right now. 
 
 In the book *The Art of Living*, Thay says in reference to the insight of impermanence “We can make the insight of impermanence into a living insight that is with us in every moment.” Regarding the wonderful insight I had about the healing presence of the universe, I ask myself, “Can I live this insight in every moment of my daily life?”
 
-<div class="article-end"></div>
+<!-- <div class="article-end"></div> -->
 
-{% image "article2023/br-thien-chi-done/01.img_7603_ZASP.Shooting.Thay's.Hut.11.OCT.2022.jpg" %}

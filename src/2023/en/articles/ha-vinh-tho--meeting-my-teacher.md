@@ -9,13 +9,13 @@ author: Dr. Hà Vĩnh Thọ
 
 <p class="editors-preface">Dr. Hà Vĩnh Thọ (Chan Dai Tue) is a lay Dharma teacher in the Plum Village tradition. He was the program director of the Gross National Happiness Center (GNH) of the country of Bhutan from 2012 to 2018. He holds a PhD in psychology and education from Geneva University, Switzerland.</p>
 
-{% image "article2023/Ha-Vinh-Tho/Thay - Tet 2014.jpg" %}
-
 I was born from a Vietnamese father and a French mother. I grew up in many countries, but mostly in Europe and I first visited Vietnam with my father in 1982. I was 31 years old.
 
 Although I grew up abroad, I felt a connection to the country of my paternal ancestors, but it was limited because I had not learned Vietnamese as a child. My uncle Mr. Ha Van Lau was the ambassador of the Socialist Republic of Vietnam to France and lived in Paris, and when he came for working sessions to the United Nations in Geneva, he often visited us, as we lived nearby. 
 
 At that time, we lived in a community that took care of children with intellectual disabilities, and my uncle often told us we should create something similar, to support the disabled children in Vietnam. During this first visit to Vietnam, I met several members of my family, including one uncle who was a well-known Buddhist sculptor, and his son who was a painter. Both father and son had been students of Zen Master Thich Nhat Hanh in the sixties and they asked me if I had had the chance to meet with Thay who now lived in France. I was embarrassed to admit that I had never heard of him – in those days Thay was not so well known in Europe yet.
+
+{% image "article2023/Ha-Vinh-Tho/Thay - Tet 2014_e.jpg", "", "Tet 2014" %}
 
 When I returned to Europe, I wrote a letter to Thay asking if we could come and visit. His close disciple Sister Chan Khong wrote back a very friendly letter inviting us to come and visit the newly opened center Plum Village in south-west France. She also sent an English edition of *The Miracle of Mindfulness* that was published in Vietnam. I read the book with great interest, but for some reason it took us several years before my wife Lisi and I visited Plum Village for the first time in the late eighties.
 

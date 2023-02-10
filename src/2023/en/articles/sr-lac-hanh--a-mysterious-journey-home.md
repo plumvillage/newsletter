@@ -7,8 +7,6 @@ author: Sister Chân Lạc Hạnh
 <p class="editors-preface">On 18 December 2022, the novice family (the “Red Cedar” family) was ordained in Thai Plum Village. They are the new generation of novices who carry Thay’s name in their Dharma name - the novice brothers carry the word <i>Nhat</i> (“One”) and the sisters the word <i>Hanh</i> (“Action”).<br/>
 Here, we share some reflections from Sister Chan Lac Hanh (“True Action of Happiness”) on Day 2 of her monastic journey.</p>
 
-{% image "article2023/sr-lac-hanh/Le xuat gia cay Xich Tung 16_e.JPG" %}
-
 What an incredibly beautiful, mysterious journey life is! I sit here in the pre-dawn morning, listening to the night creatures and distinct sounds of the countryside in Thailand, contemplating the sheer magnitude of what it is to be alive and awake to the profoundness of life, and all the causes and conditions that bring me here today, a recently ordained novice in the Plum Village tradition. 
 
 How wondrous it is that a baby born in Korea, adopted to Belgian parents in Italy, grew up in the United States and compelled to seek a spiritual path through yoga at the age of 16; bringing her to India to practice with her teachers for 18 years; traveling, teaching yoga, and living around the world to finally reunite with her biological, birth parents in Korea, which gave rise to a deeply embedded, overwhelming suffering; and finally washing up on the shores of the practices and teachings of Thay and taking refuge in New Hamlet in Plum Village, France.
@@ -28,4 +26,9 @@ With deep love, respect, and gratitude to the totality of life, I bow to you.
 <small>Plum Village Thailand, 24 December, 2022</small></span>
 </p>
 
+<div class="article-end"></div>
+
+<div class="page-break"></div>
+
+{% image "article2023/sr-lac-hanh/Le xuat gia cay Xich Tung 16_e.JPG" %}
 {% image "article2023/sr-lac-hanh/7_e.JPG" %}
