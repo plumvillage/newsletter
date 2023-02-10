@@ -5,7 +5,7 @@ author: John P. Hussman
 
 <p class="editors-preface">John P. Hussman, pháp danh Tâm Thật Hữu (Genuine Friend of the Heart), là Giám đốc của Hussman Foundation, một tổ chức có nhiều dự án cải thiện cuộc sống và giảm bớt khổ đau cho các nhóm dân số dễ bị tổn thương. Hoạt động của các dự án liên quan đến nhiều lĩnh vực khác nhau: giáo dục, nhân quyền, sức khỏe toàn cầu, tình trạng vô gia cư, chăm sóc sức khỏe cho người lớn tuổi và hỗ trợ các bệnh liên quan đến thần kinh như chứng tự kỷ và Alzheimer. Kể từ năm 2002, John đã giúp thành lập và hỗ trợ nhiều dự án cho tăng thân Làng Mai. Bài viết được dịch từ tiếng Anh.</p>
 
-“Nếu một ngày nào đó có người nói với con rằng thầy đã qua đời”, Thầy ngưng lại một chút rồi mỉm cười nói: “thì con đừng tin”. Thầy hẳn nhiên sẽ thì thầm: “Điều đó không đúng đâu!”
+“Nếu một ngày nào đó có người nói với con rằng thầy đã qua đời”, Thầy ngưng lại một chút rồi mỉm cười nói: “thì con đừng tin”. Thầy hẳn nhiên sẽ thì thầm: “Điều đó không đúng đâu!”.
 
 Khi tưởng nhớ về cuộc đời một người mà ta thương mến, ta có khuynh hướng đóng khung sự hiện hữu của họ trong hai mốc thời gian, sinh ra và mất đi: Thích Nhất Hạnh (1926 – 2022).
 
