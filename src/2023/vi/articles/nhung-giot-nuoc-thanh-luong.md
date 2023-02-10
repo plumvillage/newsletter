@@ -7,7 +7,9 @@ Chương trình Hiểu và Thương là cánh tay nối dài của Sư Ông, cù
 
 Trong năm qua do điều kiện kinh tế bị ảnh hưởng sau đại dịch Covid-19, những công tác giúp đỡ và cứu trợ gặp nhiều hạn chế. Nhưng với tình thương của Sư Ông, Sư cô Chân Không và các nhà hảo tâm, cũng như sự nhiệt tình từ các tác viên đang làm việc tại các tỉnh Quảng Trị, Thừa Thiên Huế, Nha Trang, Bình Thuận, Đồng Nai, Sài Gòn, Đồng Tháp và Bến Tre, chương trình Hiểu và Thương vẫn duy trì được nhiều hoạt động cứu trợ ở khắp nơi.
 
-Dưới đây là những công tác đã được thực hiện trong năm 2022 vừa qua. Hỗ trợ lương cho các cô giáo tại các nhóm trường:
+Dưới đây là những công tác đã được thực hiện trong năm 2022 vừa qua. 
+
+Hỗ trợ lương cho các cô giáo tại các nhóm trường:
 
 1. Nhóm trường do chương trình Hiểu và Thương xây dựng và quản lý, trong đó có 36 cô giáo ở Bình Thuận với mức lương 1.000.000/người/tháng và 5 cô giáo ở Nha Trang với mức lương 1.500.000/người/tháng.
 2. Tại Thừa Thiên Huế, giúp đỡ được cho 16 cô giáo ở nhóm trường do các chùa quản lý, trong đó, 10 cô giáo với mức lương 1.200.000/người/tháng và 6 cô giáo với mức 1.000.000/người/tháng. Ngoài ra, chương trình cũng hỗ trợ được thêm 450.000/người/tháng cho 41 cô giáo ở nhóm trường công lập bên cạnh lương do nhà nước chi trả.
@@ -27,7 +29,7 @@ Những món quà và sự hỗ trợ tuy nhỏ bé nhưng mỗi năm tới dị
 
 Năm 2022 đi qua với thật nhiều biến động, nhưng chương trình Hiểu và Thương vẫn cố gắng duy trì những hoạt động thường niên khác như trao quà Tết cho các hộ nghèo, với trị giá 300.000/phần quà: Quảng Trị với 400 phần, 300 phần tại Huế, Nha Trang 300 phần và Sài Gòn 1.500 phần. Tổng số lên tới 2.500 phần quà đã được trao tặng.
 
-Bên cạnh đó, chương trình cũng tiếp tục hỗ trợ tiền ăn bán trú cho trẻ tại các trường mầm non, tiểu học tại một số tỉnh thành từ thành phố đến nông thôn, vùng ven biển, đầm phá cho đến núi cao. Trong năm vừa qua, với số tiền khoảng 66.000/đồng/tháng/trẻ, đã có 4.500 trẻ được nhận hỗ trợ tại các tỉnh như Quảng Trị, Huế, Nha Trang, và một vài tỉnh ở khu vực phía Nam như Bình Thuận, Đồng Nai, Đồng Tháp, Bến Tre... Năm vừa qua các em học sinh tiếp tục nhận những bộ đồng phục từ chương trình Hiểu và Thương. Đã có khoảng 9.590 bộ quần áo trị giá 41.000/bộ được đưa đến tay của các cháu tại các tỉnh thành như Quảng Trị với số lượng 5.500 bộ, Huế 3.200 bộ, Nha Trang 150 bộ và một số tỉnh khu vực phía Nam với số lượng 740 bộ. Trước kỳ nghỉ hè, chương trình cũng hỗ trợ những phần quà nhỏ cho các trường để làm phần thưởng tặng cho các cháu vào dịp tổng kết năm học. 
+Bên cạnh đó, chương trình cũng tiếp tục hỗ trợ tiền ăn bán trú cho trẻ tại các trường mầm non, tiểu học tại một số tỉnh thành từ thành phố đến nông thôn, vùng ven biển, đầm phá cho đến núi cao. Trong năm vừa qua, với số tiền khoảng 66.000/đồng/tháng/trẻ, đã có 4.500 trẻ được nhận hỗ trợ tại các tỉnh như Quảng Trị, Huế, Nha Trang, và một vài tỉnh ở khu vực phía Nam như Bình Thuận, Đồng Nai, Đồng Tháp, Bến Tre... Năm vừa qua các em học sinh tiếp tục nhận những bộ đồng phục từ chương trình Hiểu và Thương. Đã có khoảng 9.590 bộ quần áo với trị giá 41.000/bộ được đưa đến tay của các cháu tại các tỉnh thành như Quảng Trị với số lượng 5.500 bộ, Huế 3.200 bộ, Nha Trang 150 bộ và một số tỉnh khu vực phía Nam với số lượng 740 bộ. Trước kỳ nghỉ hè, chương trình cũng hỗ trợ những phần quà nhỏ cho các trường để làm phần thưởng tặng cho các cháu vào dịp tổng kết năm học. 
 
 Năm 2022 vừa qua, dải đất miền Trung lại tiếp tục hứng chịu những đợt thiên tai nặng nề. Trong đó, cơn bão số 4 đổ bộ vào Thừa Thiên Huế đã làm sập nhà của bà con ở hai vùng Triều Sơn, phía tây của thành phố Huế và Khánh Mỹ xã Vinh Xuân. Chương trình đã đến động viên, hỗ trợ cho 60 căn nhà bị hư hại, mỗi hộ thấp nhất là 500.000 đến 1 triệu và cao nhất là 5 triệu đồng. Tổng cộng chương trình đã hỗ trợ 180 triệu cho 60 hộ nhà cửa bị thiệt hại sau mùa bão.
 
