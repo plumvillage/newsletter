@@ -1363,3 +1363,6 @@ html:lang(en) .PAGE-OF-Lang-Mai-Nam-Qua-A4-Final-No-Text9-Monastics-On-Tour-2 .p
     text-align: left !important;
 }
 
+html:lang(vi) .PAGE-OF-Lang-Mai-Nam-Qua-A4-Final-No-Text9-Monastics-On-Tour-2 p {
+    margin-top: 3pt !important;
+}

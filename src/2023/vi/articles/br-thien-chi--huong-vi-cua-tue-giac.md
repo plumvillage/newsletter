@@ -29,11 +29,11 @@ Trong mùa an cư vừa rồi, có một lần con bị căng thẳng khi phải
 
 Buổi sáng hôm đó, con đi ngang qua thầy Đạo Quang. Nhìn điệu bộ cáu kỉnh của con trong cách xá chào, thầy nhìn con và hỏi thăm đã xảy ra chuyện gì. Chuông thỉnh giờ thọ trai vang lên trước khi con kịp trả lời thầy. Chúng con đi vào khất thực và vài phút sau, cuộc trò chuyện đã diễn ra trong nhà trà:
 
-> “Hình như lúc nào con cũng tìm cơ hội để bị căng thẳng”, con kể với thầy. “Dù ở tu viện hay ở bên ngoài, con sắp xếp cuộc sống của mình kiểu gì mà lúc nào cũng vướng vào nhiều áp lực.”
+> “Hình như lúc nào con cũng tìm cơ hội để bị căng thẳng”, con kể với thầy. “Dù ở tu viện hay ở bên ngoài, con sắp xếp cuộc sống của mình kiểu gì mà lúc nào cũng vướng vào nhiều áp lực”.
 
 > “Ồ, quan sát hay đó. Tiếp tục nữa đi, nhìn sâu thêm nữa đi. Nhìn vào những vùng thật là đau nhức ấy”, <i>thầy Đạo Quang nói.</i>
 
-> “Cho dù nhận lãnh trách nhiệm nào đi nữa, kiểu gì con cũng đi tới chỗ làm nhiều hơn, nhiều hơn nữa cho tới lúc kiệt sức. Luôn là câu chuyện cũ. Giống như con đang ở trong một cuộc đua với chính mình. Như thể con đang cố gắng tự thuyết phục rằng mình giỏi đủ, mình hay đủ… Dường như trong sâu thẳm, con luôn tin rằng mọi người ai cũng tốt hơn mình, giỏi hơn mình. Như thể mọi hành động của con đều dựa trên căn cứ là muốn chứng minh bản thân, rằng con không đến nỗi nào… Phải là một sang chấn tâm lý lớn với cảm giác “mình không đủ tốt”, hay là đã có một mặc cảm thua kém rất sâu trong lòng mới có thể tạo ra một sức mạnh lớn đến vậy, đủ để con làm việc dưới áp lực cao và chịu đựng sự căng thẳng nhiều năm qua mà không chịu từ bỏ.” 
+> “Cho dù nhận lãnh trách nhiệm nào đi nữa, kiểu gì con cũng đi tới chỗ làm nhiều hơn, nhiều hơn nữa cho tới lúc kiệt sức. Luôn là câu chuyện cũ. Giống như con đang ở trong một cuộc đua với chính mình. Như thể con đang cố gắng tự thuyết phục rằng mình giỏi đủ, mình hay đủ… Dường như trong sâu thẳm, con luôn tin rằng mọi người ai cũng tốt hơn mình, giỏi hơn mình. Như thể mọi hành động của con đều dựa trên căn cứ là muốn chứng minh bản thân, rằng con không đến nỗi nào… Phải là một sang chấn tâm lý lớn với cảm giác “mình không đủ tốt”, hay là đã có một mặc cảm thua kém rất sâu trong lòng mới có thể tạo ra một sức mạnh lớn đến vậy, đủ để con làm việc dưới áp lực cao và chịu đựng sự căng thẳng nhiều năm qua mà không chịu từ bỏ”. 
 
 ## Tuệ giác = sự thực tập?
 

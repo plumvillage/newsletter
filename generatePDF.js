@@ -209,14 +209,14 @@ let workQueue = [
     // () => generatePDF("http://localhost:8080/2023/en/articles-print-preview/john-d-hussman--the-leaf/", `./docs/2023/en/articles-print-preview/john-d-hussman--the-leaf`, onFinshed),
     
     () => generatePDF("http://localhost:8080/2023/en/a4/", `./docs/2023/en-a4`, onFinshed),
-    // () => generatePDF("http://localhost:8080/2023/en/a4-bleed/", `./docs/2023/en-a4-bleed`, onFinshed),
+    () => generatePDF("http://localhost:8080/2023/en/a4-bleed/", `./docs/2023/en-a4-bleed`, onFinshed),
     // US Letter: 11in x 8.5in
     // () => generatePDF("http://localhost:8080/2023/en/letter/", `./docs/2023/en-letter`, onFinshed, {format: "Letter"}),
     // US Letter +5mm bleed
     // () => generatePDF("http://localhost:8080/2023/en/letter-bleed/", `./docs/2023/en-letter-bleed`, onFinshed, {height: "225.9mm", width: "289.4mm"}),
     
     () => generatePDF("http://localhost:8080/2023/vi/a4/", `./docs/2023/vi-a4`, onFinshed),
-    // () => generatePDF("http://localhost:8080/2023/vi/a4-bleed/", `./docs/2023/vi-a4-bleed`, onFinshed),
+    () => generatePDF("http://localhost:8080/2023/vi/a4-bleed/", `./docs/2023/vi-a4-bleed`, onFinshed),
     
 
     // () => generatePDF("http://localhost:8080/2022/en/a4/", `./docs/2022/en-a4`, onFinshed),
@@ -244,8 +244,8 @@ var onFinshed = function(file, fileWithoutDate) {
     execCMD(`ln -sf ${parsed.base} ${fileWithoutDate}`)
     // ;\nfirefox ${fileWithoutDate}
     
-    // workQueue.push(() => downsample(file, fileWithoutDate, 500, 0.3, continueWork))
-    // workQueue.push(() => downs tu viện Bích Nham vào một nample(file, fileWithoutDate, 300, 0.05, continueWork))
+    workQueue.push(() => downsample(file, fileWithoutDate, 500, 0.3, continueWork))
+    workQueue.push(() => downsample(file, fileWithoutDate, 300, 0.05, continueWork))
     workQueue.push(() => downsample(file, fileWithoutDate, 250, 1.5, (generatedFile) => {
         // we could to some custom task here.
         continueWork()

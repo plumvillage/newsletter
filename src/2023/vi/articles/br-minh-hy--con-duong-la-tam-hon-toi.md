@@ -9,7 +9,7 @@ Trên con đường vắng, những cây tùng xanh mạnh khỏe, đứng bên 
 
 Thầy nói:
 
-> “Những hàng cây đứng thẳng như những cây cột trong giáo đường, khiến ta có cảm tưởng như đang lạc vào trong một thánh đường uy nghiêm.”
+> “Những hàng cây đứng thẳng như những cây cột trong giáo đường, khiến ta có cảm tưởng như đang lạc vào trong một thánh đường uy nghiêm”.
 
 {% image "article2023/br-minh-hy-done/thay-minh-hy.jpg" %}
 
