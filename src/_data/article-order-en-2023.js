@@ -26,6 +26,7 @@ module.exports = [
 "sr-dinh-nghiem--thay-is-still-thay",
 "jack-lawlor--going-the-extra-mile",
 "br-phap-xa--my-masters-freedom",
+"sr-giac-an--continuing-dad",
 
 // POEMS
 "sr-lam-hy--poems",
