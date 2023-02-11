@@ -36,7 +36,7 @@ Thầy ơi, lúc Sư cô thắp lên ngọn đèn để trao cho con, cả Sư c
 
 <!-- {% image "article2023/sr-nhat-nghiem-done/08-PVM5067.jpg" %} -->
 
-Kính bạch Thầy, không biết nhờ phước duyên nào mà kiếp này con được gặp Thầy, và được nuôi lớn trong vòng tay Tăng thân. Con thấy mình là sự tiếp tục của dòng chảy tâm linh và huyết thống. Những yếu kém, khổ đau cũng như những cái hay, cái đẹp đang có trong con đều được truyền trao từ gia đình huyết thống và tâm linh. Con ý thức rằng tình thương của Thầy và đại chúng luôn có đó để nâng đỡ con trên con đường này. Một khi ngọn đèn tuệ giác được thắp lên, tay con được tiếp nhận từ tay Sư cô - đại diện cho Thầy, cho chư Tổ, con biết mình cần phải cố gắng thêm nhiều hơn nữa. 
+Kính bạch Thầy, không biết nhờ phước duyên nào mà kiếp này con được gặp Thầy, và được nuôi lớn trong vòng tay tăng thân. Con thấy mình là sự tiếp tục của dòng chảy tâm linh và huyết thống. Những yếu kém, khổ đau cũng như những cái hay, cái đẹp đang có trong con đều được truyền trao từ gia đình huyết thống và tâm linh. Con ý thức rằng tình thương của Thầy và đại chúng luôn có đó để nâng đỡ con trên con đường này. Một khi ngọn đèn tuệ giác được thắp lên, tay con được tiếp nhận từ tay Sư cô - đại diện cho Thầy, cho chư Tổ, con biết mình cần phải cố gắng thêm nhiều hơn nữa. 
 
 <p class="noIndent">Thầy ơi, con muốn làm một giáo thọ hạnh phúc!<br/>
 Con biết, Thầy đang mỉm cười!<br/>
