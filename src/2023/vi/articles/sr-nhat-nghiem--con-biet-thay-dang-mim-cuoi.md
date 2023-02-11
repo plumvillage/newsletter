@@ -13,7 +13,7 @@ Có lần Thầy xoa đầu con và nói: “Này con, thế nào Thầy cũng s
 
 Cho đến một ngày con chợt nhận ra, con phải tự đứng vững bằng đôi chân của mình. Thầy sẽ không còn ở đó để chỉ bày cho con như ngày xưa nữa. Vì vậy, con tự nhắc mình phải cố gắng hơn và tập trung vào việc học lại những điều mà Thầy đã dạy, dù là đơn giản nhất.
 
-Trước khi nhận truyền đăng, con để tâm đọc thật kỹ bộ sách *52 năm theo Thầy học đạo và phụng sự* của Ni Trưởng *(người “Chị Cả” của giáo đoàn ni chúng Làng Mai, thường được mọi người gọi bằng danh xưng thân thuộc và giản dị: Sư Cô Chân Không)*. Từng dòng chữ, từng trang sách như mở thêm rộng lớn con đường, giúp con tiếp xúc sâu sắc hơn tình thương của Thầy. Sư cô đã truyền lửa cho con. Ngọn lửa của bồ tát Quan Âm Đại Sĩ. 
+Trước khi nhận truyền đăng, con để tâm đọc thật kỹ bộ sách *52 năm theo Thầy học đạo và phụng sự* của Ni Trưởng *(người “Chị Cả” của giáo đoàn ni chúng Làng Mai, thường được mọi người gọi bằng danh xưng thân thuộc và giản dị: Sư Cô Chân Không)*. Từng dòng chữ, từng trang sách như mở thêm rộng lớn con đường, giúp con tiếp xúc sâu sắc hơn tình thương của Thầy. Sư cô đã truyền lửa cho con. Ngọn lửa của Bồ tát Quan Âm Đại Sĩ. 
 
 Một hôm, nghe tin Sư cô sẽ sang thăm các tu viện thuộc Làng Mai tại Mỹ, con mừng lắm. Con cứ trông ngóng từng ngày để được gặp lại Sư cô và ước mong được làm thị giả cho Sư cô. Bỗng nhiên, trong con khởi lên ý niệm rằng: “Nếu đủ duyên con sẽ thỉnh Sư cô truyền đăng cho con khi Sư cô về Lộc Uyển”. Con ý thức là Sư cô đã lớn tuổi và thời gian chúng con được gần bên Sư cô không nhiều nữa, nên con trân quý từng phút giây bên Sư cô. May mắn thay, quý sư cô xóm Trong Sáng đã hoan hỷ và yểm trợ cho lời thỉnh cầu của con. Con vui và hạnh phúc lắm. 
 
