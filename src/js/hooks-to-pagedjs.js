@@ -62,8 +62,8 @@ class MyHandler extends Paged.Handler {
             */
             if(node.textContent.includes("�")) {
                 console.log("FOUND � BUG IN: ", node)
-                let search = /([^�]{6})(�{1,5})([^�]{6})/i
-                let result = node.textContent.match(search);
+                let search = /([^�]{0,6})(�{1,5})([^�]{0,6})/i
+                let result = node.textContent.match(search)
                 // [ "nhân c��a thàn", "nhân c", "��", "a thàn" ]
                 console.log(result)
                 let rx = `${result[1]}(.{1,3})${result[3]}`
@@ -71,7 +71,7 @@ class MyHandler extends Paged.Handler {
                 let r2 = vi2022fullText.match(regex)
                 if (!r2)
                     r2 = vi2023fullText.match(regex)
-
+                
                 if (r2) {
                     // [ "nhân của thàn", "ủ" ]
                     console.log(r2)
