@@ -4,7 +4,7 @@ author: Sister Chân Từ Nghiêm
 ---
 
 <div class="verse">
-<p><b>There’s a Song in My Heart</b></p>
+<!-- <p><b>There’s a Song in My Heart</b></p> -->
 
 <p>Everything is frozen<br/>
 and the garden is still.<br/>
@@ -28,9 +28,9 @@ For them who will listen</p>
 Streaming down<br/>
 from the heavens:</p>
 
-<p>“The Boat continues<br/>
- in the waters of life.</p>
- 
+<p>The Boat continues<br/>
+in the waters of life.</p>
+
 <p>People get on and get off,<br/>
 and the Boat continues<br/>
 in the waters of life.</p>
@@ -41,26 +41,26 @@ in the waters of life.</p>
 
 <p>Multitudes are smiling as<br/>
 the Boat continues<br/>
-in the waters of life</p>
-<!-- <cite>Sister Chân Trăng Linh Dị</cite> -->
+in the waters of life.</p>
+<!-- <cite>Sister Chân Từ Nghiêm</cite> -->
 </div>
 
-<div class="verse">
+<!-- <div class="verse">
 <p><b>Little Asparagus Trees</b></p>
 
 <p>Little asparagus trees,<br/>
 The raindrops quench<br/>
 Your thirst<br/>
 For survival.</p>
-</div>
+</div> -->
 
 <!-- <div class="article-end"></div> -->
 
-<!-- {% image "article2023/sr-linh-di/mountain-dream_edit.jpg" %} -->
+<!-- These two poems were written during the late autumn when the weather became very cold.
 
-These two poems were written during the late autumn when the weather became very cold.
+There is an asparagus farm, across the road from us at New Hamlet, and our neighbor farmers let their asparagus plants grow up tall so that eventually they look like little delicate brown trees with gossamer branches. It was very dry this fall with little rain, but one day it rained, and the raindrops fell on the tiny asparagus “trees”. And the raindrops nourished the soil they were in and they could survive. -->
 
-There is an asparagus farm, across the road from us at New Hamlet, and our neighbor farmers let their asparagus plants grow up tall so that eventually they look like little delicate brown trees with gossamer branches. It was very dry this fall with little rain, but one day it rained, and the raindrops fell on the tiny asparagus “trees”. And the raindrops nourished the soil they were in and they could survive.
+{% image "article2023/sr-tu-nghiem/IMG_0350_e.jpg", "noFloat" %}
 
 One morning it was -5 degrees Celsius and I saw that the garden was frozen overnight. Everything was very still in the freezing air. But I know that the sun always rises and warms up the air later on. I was reflecting on the Sangha, and how Thay taught us that the Sangha is our Boat, always carrying us, and supporting us as we are engaged here and in the world with our practice, and with the Fourteen Mindfulness Trainings.
 

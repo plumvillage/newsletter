@@ -7,6 +7,8 @@ author: Sư cô Chân Đào Nghiêm
 
 Con đã học được những gì từ Thầy? Con học dừng lại, có mặt thực sự, nghe mưa, uống một tách trà và tiếp xúc với sự sống một cách sâu sắc. Con học được rằng sự có mặt đích thực cũng là hành động. Con chỉ cần là con thôi mà không cần phải cố gắng trở thành một cái gì khác. 
 
+{% image "article2023/sr-dao-nghiem/IMG_4821_e.JPG" %}
+
 Những lời dạy của Thầy đã thay đổi cuộc đời con như thế nào? Thầy dạy với những ngôn từ rất giản dị và bằng sự sống của chính Thầy. Thầy đã sống đúng với những gì Thầy dạy và điều đó đánh động tâm con một cách sâu sắc.
 
 ## Sao Thầy không nhắc gì tới Thượng đế?
@@ -19,8 +21,6 @@ Hồi đó, con có nhu yếu sâu sắc muốn tìm hiểu về cái chết và
 
 Trong khóa tu đầu tiên của con ở Làng, con được nghe Thầy kể câu chuyện về một nhóm nữ tu Cơ Đốc giáo tới tham dự khóa tu do Thầy hướng dẫn. Sau năm ngày, một vị là mẹ bề trên trong nhóm nữ tu đó thưa với Thầy: “Bạch Thầy, Thầy đã dạy chúng con mọi thứ nhưng sao Thầy không nhắc gì tới Thượng đế?” 
 
-{% image "article2023/sr-dao-nghiem/IMG_5676.jpg" %}
-
 Thầy kể lại rằng lúc đó Thầy không trả lời câu hỏi ngay. Thầy đã thở chậm rãi một vài hơi, rồi sau đó Thầy mới nói với vị nữ tu ấy: “Thưa Sơ (Soeur), vậy có điều gì tôi nói trong suốt năm ngày vừa qua mà không phải là nói về Thượng đế?” Và Thầy kể thêm: “Đó là giây phút khiến mọi người trong phòng bừng tỉnh. Ai cũng chợt ngộ ra một điều: Chúng ta bị vướng vào từ ngữ và khái niệm quá nhiều. Sự thực là lúc nào chúng ta cũng có thể trò chuyện và tâm tình được với Thượng đế”. 
 
 Con rất thích thú khi được nghe câu chuyện này, nhất là khi thấy một tu sĩ Phật giáo như Thầy có thể nói về Thượng đế một cách thoải mái bằng thứ ngôn từ đẹp đến như vậy.
@@ -31,15 +31,15 @@ Ngay sau khóa tu đầu tiên này, con đến thăm người cô của con. L�
 
 Ba của con đã qua đời trước đó nhiều năm. Với niềm tin nơi Thầy, con nỗ lực thực tập những lời Thầy dạy. “Hãy cảm nhận rằng con đang nắm tay ba. Hãy cảm nhận ba đang bước đi bằng hai bàn chân của con”. Từ sự thực tập đó, con đã học được cách kết nối với ba nơi từng bước chân chánh niệm.
 
-Khi mới thực tập, con phải dùng trí tưởng tượng của mình, nhưng càng thực tập thì con càng thấy rõ ba đang bước đi cùng con. Đó là một trải nghiệm vô cùng ấn tượng và sâu sắc. Con mất ba lúc mười chín tuổi. Ngày đó, con nghĩ rằng như thế là hết. Nhưng thực tập thiền hành theo cách Thầy dạy đã gợi lại trong con những kỷ niệm của thời thơ ấu. Hồi còn nhỏ, con thường đứng trên hai bàn chân của ba, rồi hai cha con cùng nhảy múa. Ba vẫn còn sống mãi trong con! 
+Khi mới thực tập, con phải dùng trí tưởng tượng của mình, nhưng càng thực tập thì con càng thấy rõ ba đang bước đi cùng con. Đó là một trải nghiệm vô cùng ấn tượng và sâu sắc. Con mất ba lúc mười chín tuổi. Ngày đó, con nghĩ rằng như thế là hết. Nhưng thực tập thiền hành theo cách Thầy dạy đã gợi lại trong con những kỷ niệm của thời thơ ấu. Hồi còn nhỏ, con thường đứng trên hai bàn chân của ba, rồi hai cha con cùng nhảy múa. Ba vẫn còn sống mãi trong con!
+
+{% image "article2023/sr-dao-nghiem/IMG_5676.jpg" %}
 
 Kể từ đó, con đường trị liệu được mở ra. Đó là một con đường rất đẹp, con đường chuyển hóa mối liên hệ giữa hai cha con. Con thấu hiểu hơn những gì ba đã trao truyền cho con và đã thiết lập lại được sự truyền thông với ba. Con viết thư để kể cho ba nghe những điều mà con chưa từng có cơ hội.
 
 Pháp môn thiền hành là một trong những món quà lớn nhất mà con tiếp nhận được từ Thầy. Món quà ấy đã giúp nuôi dưỡng niềm vui và xoa dịu nỗi đau trong con. Mỗi khi có một người thân qua đời, mỗi khi thấy cơn giận nổi lên, hay thấy buồn bã, lo âu,… con lại thực tập thiền hành và có mặt hoàn toàn với bước chân, hơi thở, ý thức rõ rệt về từng bước chân và sự di chuyển của cơ thể. Được đặt từng bước chân trên mặt đất quả thật là một phép lạ. Con đi cho những người thân không còn có khả năng tự bước đi được nữa. Con bước đi trong niềm vui là mình đang được bước đi.
 
 ## Con đang bước cho Thầy
-
-{% image "article2023/sr-dao-nghiem/IMG_4821_e.JPG" %}
 
 Năm 2020, con may mắn được về Tổ đình Từ Hiếu một tuần để thăm Thầy và có dịp đẩy xe lăn cho Thầy đi dạo xung quanh Tổ đình. Thầy ra hiệu bằng tay để nói chuyện với con, giới thiệu cho con các địa điểm khác nhau trong Tổ đình. Con bước đi cho Thầy, hai bàn chân của Thầy cũng chính là hai bàn chân con.
 

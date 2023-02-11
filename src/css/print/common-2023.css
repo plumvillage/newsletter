@@ -776,7 +776,8 @@ article ul li::before {
 .article-nhung-thien-than-mua-he,
 .article-a-true-teacher,
 .article-the-taste-of-the-insight,
-.article-the-angels-of-summer
+.article-the-angels-of-summer,
+.article-thay-is-still-thay
 {
     break-after: unset !important;
 }
@@ -835,7 +836,7 @@ h1#an-old-home-in-a-new-land + .author {
 .article-nhung-choi-non-chao-nang-mai-1 h3,
 .article-nhung-choi-non-chao-nang-mai-2 h3,
 .article-nhung-choi-non-chao-nang-mai-3 h3 {
-    font-size: 14pt !important;
+    font-size: 18pt !important;
 }
 
 
@@ -931,8 +932,6 @@ h1#an-old-home-in-a-new-land {
 .article-nhung-choi-non-chao-nang-mai-3 > h1,
 .article-young-buds-about-elders > h1,
 .article-young-buds-mindful-manners > h1,
-h1#review-of-the-year,
-/* h1#lang-mai-nam-qua, */
 .article-nguoi-tu-do > h1,
 .article-nguoi-tu-do > h2,
 h1#this-path,
@@ -969,12 +968,21 @@ h1#opening-the-door-to-a-life-of-peace-and-purpose {
     margin-top: 0;
 }
 
-#calligraphy2023article-titlesdivider-3,
 #calligraphy2023article-titlesdivider-2,
 #calligraphy2023article-titlesdivider-1
 {
     width: 35%;
-    margin-top: 5% !important;
+    margin-top: 8mm !important;
+    column-span: all;
+    float: none;
+    margin: 0 auto;
+}
+
+#calligraphy2023article-titlesdivider-3
+{
+    width: 35%;
+    /* there is a BUG in the pdf output which adds space before the figure equivalent to 8mm. so here I remove it. */
+    margin-top: 0mm !important;
     column-span: all;
     float: none;
     margin: 0 auto;
@@ -1062,6 +1070,9 @@ figure#article2023sr-dinh-nghiem-thay-van-luon-la-thay1e
 
 
 /* centered images */
+figure#article2023br-phap-xaDSC1063e,
+figure#article2023sr-giac-anIMG-0686e,
+html:lang(vi) figure#article2023br-thien-chi-done01img7603ZASPShootingThaysHut11OCT2022,
 figure#article2023drawings-sr-tung-hacIMG230720222106121658585383831e,
 figure#article2023kim-nhat-nguyenHonor-Land-AncestorsLH-sistersfriends2022-10-31,
 figure#article2023sr-lac-hanhLe-xuat-gia-cay-Xich-Tung-16e,
@@ -1111,6 +1122,7 @@ figure#article2023Ha-Vinh-ThoHa-Vinh-Tho-and-PV-monastic-in-Bhutan-2012e
     width: 100%;
 }
 
+html:lang(vi) figure#article2023br-thien-chi-done01img7603ZASPShootingThaysHut11OCT2022,
 html:lang(en) figure#article2023lilian-cheungThay-and-Jon-Kabat-Zinn-2013
 {
     margin-top: 10mm;
@@ -1139,6 +1151,13 @@ figure#article2023Lang-mai-nam-quatruyen-dang-an-cu-2022122LampTransmission2022i
     width: 100%;
 }
 
+figure#article2023br-phap-xaDSC1063e
+{
+    margin-top: 6mm;
+    margin-bottom: 0mm;
+    width: 88%;
+}
+
 figure#article2023sr-chua-xua-done20230110110050e
 {
     margin-top: 4mm;
@@ -1162,11 +1181,12 @@ html:lang(en) figure#article2023sr-thao-nghiemNgoi-giua-gio-xuan2e
 
 figure#article2023drawings-sr-tung-hacIMG230720222106121658585383831e
 {
-    margin-top: 4mm;
+    margin-top: 5mm;
     margin-bottom: 0mm;
-    width: 77%;
+    width: 80%;
 }
 
+figure#article2023sr-giac-anIMG-0686e,
 html:lang(vi) figure#article2023sr-thao-nghiemNgoi-giua-gio-xuan2e
 {
     margin-top: 8mm;
@@ -1253,7 +1273,7 @@ figure#article2023sr-tuyet-nghiem-doneimage-3 img {
     height: 90mm;
 }
 
-.article-review-of-the-year h1:not(#lang-mai-nam-qua),
+.article-review-of-the-year h1:not(#review-of-the-year),
 .article-lang-mai-nam-qua h1:not(#lang-mai-nam-qua)
 {
     margin-top: 0mm !important;
@@ -1302,13 +1322,10 @@ figure#article2023sr-lac-hanh7e::after,
     content: none !important;
 }
 
-figure#article2023kim-nhat-nguyenHonor-Land-AncestorsLH-sistersfriends2022-10-31
-
 figure#article2023sr-tam-duc-doneDSC5503e,
 figure#article2023sr-tam-duc-doneMG6079-edited2 {
-    width: 85%;
-    padding-left: 7.5%;
-    float: none;
+    padding-right: 8%;
+    padding-left: 8%;
 }
 
 .article-guong-mat-con-truoc-khi-me-sinh-ra figure,
@@ -1383,7 +1400,7 @@ html:lang(en) .PAGE-OF-Lang-Mai-Nam-Qua-A4-Final-No-Text9-Monastics-On-Tour-2 .p
     padding: 5mm;
 }
 
-.PAGE-OF-article2023drawings-sr-bo-dexy6000saturationsharpenRainbow .verse {
+.PAGE-OF-article2023br-duc-dinhDSC2151e .verse {
     padding-top: 23mm !important;
 }
 
@@ -1399,11 +1416,32 @@ html:lang(vi) .PAGE-OF-Lang-Mai-Nam-Qua-A4-Final-No-Text9-Monastics-On-Tour-2 p 
     padding-top: 10mm;
 }
 .article-this-path .verse {
-    padding-left: 10mm;
+    padding-left: 18mm;
+}
+.article-this-path .verse p + p {
+    margin-top: 7pt !important;
 }
 .article-this-path .verse cite {
     padding-top: 3mm;
     font-style: normal;
     line-height: 120%;
     font-variant: small-caps;
+}
+
+.article-theres-a-song-in-my-heart .verse {
+    padding-left: 15mm;
+    padding-top: 7mm;
+}
+.article-theres-a-song-in-my-heart .verse p {
+    font-size: 12pt;
+    line-height: 125%;
+}
+
+h1#review-of-the-year {
+    font-size: 32pt;
+    margin-top: 12pt;
+}
+
+.PAGE-OF-Lang-Mai-Nam-Qua-A4-Final-No-Text1-Monastic-Retreat3 .positioned-text-box h1 {
+    font-size: 24pt;
 }

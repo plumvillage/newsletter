@@ -25,11 +25,9 @@ module.exports = [
 "br-khiet-tam--removing-eye-bandage",
 "young-buds--mindful-manners",
 "sr-dinh-nghiem--thay-is-still-thay",
-"jack-lawlor--going-the-extra-mile",
-"br-phap-xa--my-masters-freedom",
 "sr-giac-an--continuing-dad",
-
-// POEMS
-"br-duc-dinh--being-rainbow",
+"jack-lawlor--going-the-extra-mile",
 "sr-tu-nghiem--poems",
+"br-phap-xa--my-masters-freedom",
+"br-duc-dinh--being-rainbow",
 ]

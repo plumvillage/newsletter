@@ -7,8 +7,8 @@
 > **Br. Thích Chân Trời Đại Giác**
 > *(Andreas Lukas Ambühl;  
 >  Great Determination of the Heart)*
-> > The spiritual skies is radiant with brush strokes
-> > Sun Vow mountain blooms with flowers of great awakening 
+> > The spiritual **sky** is radiant with brush strokes  
+> > Sun Vow mountain blooms with flowers of **great awakening**  
 > > A decade, diligently tending to the garden of wisdom 
 > > Gratitude cultivates the six harmonies
 

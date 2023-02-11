@@ -13,9 +13,9 @@ Có hôm chị em con được chở sang Sơn Cốc, nơi ở của Thầy, cá
 
 Con bắt đầu làm quen với cuộc sống xuất gia của một sa di mới một tháng tuổi. Mọi thứ đều mới mẻ với con. Con vô đội luân phiên để làm các công việc hàng ngày như rửa nồi, quét nhà, nấu ăn,… Có sư cô nói con mới xuất gia nên ra chơi với vườn tược cho vui, rứa là con vào tri hoa. Ở nhà, có ba trồng và chăm cây, con chỉ hưởng thành quả là ngắm hoa. Chừ con học cách tỉa hoa hồng, trồng cây, tỉa cành, nhổ cỏ, tưới nước và bón phân. Ba mạ biết không, bên ni cỏ tùm lum loại nên phân biệt được hoa với cỏ cũng là vấn đề. Vườn rộng nên nhiều khi chỗ này làm xong, sang chỗ khác và đến khi quay lại thì cỏ đã mọc lại rồi. Thời gian làm tri hoa mới được sáu tháng, tuy học được chút chút nhưng con đã có rất nhiều niềm vui.
 
-{% image "article2023/sr-tam-duc-done/_MG_6079-edited2.jpg" %}
-
 Con được học lớp Giới với các sư chị Sadi khác. Vì con mới xuất gia và không có thời gian tập sự nên lúc mới sang, sư cô đã dạy thêm cho con ba buổi trong tuần, giống như “luyện thi cấp tốc” rứa. Con được học giới luật và uy nghi trong chùa. Hồi ở ngoài, con chạy theo công việc nên chân lúc mô cũng đi nhanh, đầu lúc mô cũng đầy việc, chừ con đang đầu tư thực tập để bước chân được thảnh thơi hơn và cho mình cơ hội để tập dừng lại.
+
+{% image "article2023/sr-tam-duc-done/_MG_6079-edited2.jpg" %}
 
 Lúc con mới sang, cũng là lúc Làng bắt đầu mở cửa lại sau hơn hai năm dịch Covid, nên con dần thích nghi với số lượng thiền sinh đến xóm Mới. Lần đầu tiên trong đời con tham gia nấu ăn cho mấy trăm người. Không khí làm việc vui và hết lòng lắm. Ở nhà mỗi lần có kị, mạ nấu cho hơn năm mươi người là thấy nhiều rồi, chừ nghe nấu cho cả mấy trăm người, chắc mạ cũng tò mò không biết chị em con xoay xở như răng. 
 
@@ -35,7 +35,6 @@ Con nhớ mãi kỉ niệm lần đầu tiên con được gặp Thầy tại th
 
 Con tiếp tục học, rồi tốt nghiệp, về lại Huế đi làm và vẫn giữ mong ước được làm học trò xuất gia với Thầy. Bốn ngày trước khi Thầy tịch, con được lên kiểm tra răng cho Thầy. Thầy nằm bình an trên giường, dù mệt nhưng vẫn để con kiểm tra. Con ý thức có thể đây là lần cuối được gặp Thầy nên rất trân quý những giây phút ấy. Con ngắm kĩ khuôn mặt Thầy và cùng thở với Thầy. Thầy không mở mắt nhưng dường như mắt Thầy đang nhấp nháy lắng nghe cuộc nói chuyện của con. Cách đây tám năm, Thầy muốn con được qua Làng xuất gia nhưng con chưa đủ duyên. Giờ đây, con được lên thăm Thầy và báo tin con sắp qua Làng tu học như ước nguyện năm xưa.
 
-<!-- {% image "article2023/sr-tam-duc-done/DSC_4613_e.JPG" %} -->
 {% image "article2023/sr-tam-duc-done/DSC_5503_e.jpg" %}
 
 Trong nhà, mạ là người ủng hộ con đi tu, mạ nói ở ngoài đời, lấy chồng sinh con khổ quá. Ba không yểm trợ lắm vì muốn con ở ngoài đi làm để giúp đỡ gia đình. Con đã nhiều lần nói chuyện với ba về công việc con làm, xen lẫn những mong ước. Khi thấy các bác Tiếp Hiện làm chương trình Hiểu và Thương, con ao ước ngày mô đó ba cũng sẽ được tham gia cùng các bác. Khi ba nghỉ hưu, mong ước đó đã thành. Ba còn siêng đi sinh hoạt tăng thân, dự ngày Quán niệm. Thỉnh thoảng, mạ đi cùng và luôn ủng hộ ba làm các chương trình. Dần dần, ba yểm trợ cho ước nguyện của con hơn. 
