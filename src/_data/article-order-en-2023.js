@@ -9,6 +9,7 @@ module.exports = [
 "sr-chan-duc--reflections-on-engaged-and-applied-buddhism",
 "young-buds--positive-habit",
 "sr-bo-de--the-angels-of-summer",
+"sr-lam-hy--poems",
 "br-ruong-phap--my-face-before-my-mother-was-born",
 "sr-tuyet-nghiem--thays-hand-in-my-pocket",
 "marisela-gomez--arise-sangha",
@@ -29,7 +30,6 @@ module.exports = [
 "sr-giac-an--continuing-dad",
 
 // POEMS
-"sr-lam-hy--poems",
 "br-duc-dinh--being-rainbow",
 "sr-tu-nghiem--poems",
 ]

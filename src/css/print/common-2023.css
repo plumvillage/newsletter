@@ -775,7 +775,8 @@ article ul li::before {
 .article-bac-thay-djich-thuc,
 .article-nhung-thien-than-mua-he,
 .article-a-true-teacher,
-.article-the-taste-of-the-insight
+.article-the-taste-of-the-insight,
+.article-the-angels-of-summer
 {
     break-after: unset !important;
 }
@@ -933,7 +934,9 @@ h1#an-old-home-in-a-new-land {
 h1#review-of-the-year,
 /* h1#lang-mai-nam-qua, */
 .article-nguoi-tu-do > h1,
-.article-nguoi-tu-do > h2
+.article-nguoi-tu-do > h2,
+h1#this-path,
+h1#this-path + h2
 {
     /* linking does not work if I set display: none; */
     position: absolute;
@@ -966,8 +969,10 @@ h1#opening-the-door-to-a-life-of-peace-and-purpose {
     margin-top: 0;
 }
 
+#calligraphy2023article-titlesdivider-3,
 #calligraphy2023article-titlesdivider-2,
-#calligraphy2023article-titlesdivider-1 {
+#calligraphy2023article-titlesdivider-1
+{
     width: 35%;
     margin-top: 5% !important;
     column-span: all;
@@ -1057,6 +1062,7 @@ figure#article2023sr-dinh-nghiem-thay-van-luon-la-thay1e
 
 
 /* centered images */
+figure#article2023drawings-sr-tung-hacIMG230720222106121658585383831e,
 figure#article2023kim-nhat-nguyenHonor-Land-AncestorsLH-sistersfriends2022-10-31,
 figure#article2023sr-lac-hanhLe-xuat-gia-cay-Xich-Tung-16e,
 figure#article2023sr-lac-hanh7e,
@@ -1153,6 +1159,14 @@ html:lang(en) figure#article2023sr-thao-nghiemNgoi-giua-gio-xuan2e
     margin-bottom: 0mm;
     width: 60%;
 }
+
+figure#article2023drawings-sr-tung-hacIMG230720222106121658585383831e
+{
+    margin-top: 4mm;
+    margin-bottom: 0mm;
+    width: 77%;
+}
+
 html:lang(vi) figure#article2023sr-thao-nghiemNgoi-giua-gio-xuan2e
 {
     margin-top: 8mm;
@@ -1379,4 +1393,17 @@ html:lang(en) .PAGE-OF-Lang-Mai-Nam-Qua-A4-Final-No-Text9-Monastics-On-Tour-2 .p
 
 html:lang(vi) .PAGE-OF-Lang-Mai-Nam-Qua-A4-Final-No-Text9-Monastics-On-Tour-2 p {
     margin-top: 3pt !important;
+}
+
+.article-this-path {
+    padding-top: 10mm;
+}
+.article-this-path .verse {
+    padding-left: 10mm;
+}
+.article-this-path .verse cite {
+    padding-top: 3mm;
+    font-style: normal;
+    line-height: 120%;
+    font-variant: small-caps;
 }

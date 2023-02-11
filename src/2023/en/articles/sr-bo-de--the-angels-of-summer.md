@@ -72,3 +72,7 @@ Besides their freshness and innocence, children also have seeds of fear, violenc
 I transmit the seed of love to them through my smiles, my eyes, my words, and my conduct. I do everything I need to do so that tomorrow, when I become the wind and the cloud, I can smile peacefully. Because I know that the angels will continue the mission of bringing love to the earth.
 
 Whether the future of the world is bright or not depends on how you treat a child in the present moment. There are many ways to protect Mother Earth. And one of the most concrete ways is to care for your children and grandchildren with all your love and awareness.
+
+<div class="article-end"></div>
+
+{% image "calligraphy2023/article-titles/divider-3.webp" %}

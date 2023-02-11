@@ -1,5 +1,5 @@
 ﻿---
-title: Poems
+title: This Path
 author: Sister Chân Trăng Lâm Hỷ
 ---
 
@@ -17,11 +17,9 @@ silently stretching out its roots<br/>
 
 <p>There has to be a winter first<br/>
 before welcoming the spring.</p>
-Sister Chân Trăng Lâm Hỷ</div>
+<cite>Sister Chân Trăng Lâm Hỷ</cite></div>
 
-<div class="divider"></div>
-
-<div class="verse"><p><b>When we are gone</b></p>
+<div class="verse"><p><b>When We Are Gone</b></p>
 
 <p>Who will look at the stars<br/>
 and witness the sunrise?</p>
@@ -38,3 +36,7 @@ and feel the cat in your lap?</p>
 to feel the intense beauty and the pain.</p>
 
 <p>Being alive is not a small thing.</p></div>
+
+<div class="article-end"></div>
+
+{% image "article2023/drawings-sr-tung-hac/IMG_23072022_210612_1658585383831_e.jpg" %}
