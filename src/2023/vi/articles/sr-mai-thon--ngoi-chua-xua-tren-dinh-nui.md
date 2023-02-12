@@ -9,7 +9,7 @@ Thấm thoát mà đã hơn một năm từ khi hai chị em con về tu viện 
 
 Bây giờ, mỗi khi chắp tay lên thưa chuyện với đại chúng, ai cũng nói: “Kính bạch giác linh Thầy (Sư Ông)”, nhưng không hiểu sao, đối với con và một vài chị em, chúng con vẫn thường thưa: “Kính bạch Thầy (Sư Ông)”. Chúng con vẫn thấy Thầy luôn còn đó với chúng con, gần gũi và rất thật trong mỗi hành động, nói năng, tư duy và hành xử. Trong con, không hề có một sự gián đoạn nào trong mối liên hệ thầy trò. Vì vậy, viết thư cho Thầy là một điều gì đó thật tự nhiên, cần thiết và nuôi dưỡng cho con.
 
-Buổi đầu mùa dịch Covid, khoảng ba năm trước, một sáng thức dậy con bỗng nảy ra ý tưởng viết cuốn “Nẻo về của chúng con”, như Thầy từng viết *Nẻo về của ý* vậy. “Tại sao không nhỉ?” con thì thầm, dù biết mình hơi tham vọng một tí. Dù lớn hay nhỏ, đó sẽ là những lời tâm tình với Thầy về những gì mà con đã và đang đi qua. 
+Buổi đầu mùa dịch Covid, khoảng ba năm trước, một sáng thức dậy con bỗng nảy ra ý tưởng viết cuốn “Nẻo về của chúng con”, như Thầy từng viết *Nẻo về của ý* vậy. “Tại sao không nhỉ?”, con thì thầm, dù biết mình hơi tham vọng một tí. Dù lớn hay nhỏ, đó sẽ là những lời tâm tình với Thầy về những gì mà con đã và đang đi qua. 
 
 Sau đây là một vài điều nho nhỏ mà con đã ghi chép vào “Nẻo về của chúng con”, giống như mỗi dịp cuối năm người ta thường dâng lên Ngọc Hoàng sớ Táo Quân vậy. “Sớ” này con cũng chỉ xin tổng kết năm 2022 để dâng lên Thầy với hy vọng là Thầy sẽ mỉm cười thật vui.
 
