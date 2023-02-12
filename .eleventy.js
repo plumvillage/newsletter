@@ -42,7 +42,7 @@ async function imageSrcShortcode(src) {
 async function imageData(src) {
     // use images that are already build without going through the slow Image()
     let fastProcess = true
-    let justCopy = true
+    let justCopy = false
     
     let maxWidth = 700
     let quality = 80
