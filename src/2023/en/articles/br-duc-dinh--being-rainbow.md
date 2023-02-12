@@ -14,10 +14,10 @@ Without you I couldn’t be.<br/>
 You make my life real and beautiful.<br/>
 Do you know you can see me this way because you stand where you stand?<br/>
 Take a little step to one side, and you may see me differently,<br/>
-You might even not see me anymore - we are fragile beings!</p>
+You might not even see me anymore - we are fragile beings!</p>
 
-<p>I have the blue colour, and I have the pink colour,<br/>
-I have both pink and blue – and many other colours.<br/>
+<p>I have the blue color, and I have the pink color,<br/>
+I have both pink and blue – and many other colors.<br/>
 In the small blue box in your mind, the one with the blue label,<br/>
 I feel a little tight.<br/>
 Would you allow me a little bit of pink, too?<br/>
@@ -29,7 +29,7 @@ And one can’t avoid oneself.<br/>
 I’ll do just the same and listen to what you have to say,<br/>
 for your blue box is mine too.<br/>
 For your happiness is mine too.<br/>
-In fact I am free from all that colour thing, and you too.<br/>
+In fact I am free from all that color thing, and you too.<br/>
 Let us accept pinkness in blue boxes, and such and such,<br/>
 It might help both of us feel happier,<br/>
 And we’ll be able to enjoy each other.</p>
@@ -37,17 +37,17 @@ And we’ll be able to enjoy each other.</p>
 <p>You may be mostly red, orange, pink, or blue,<br/>
 And we both dwell in the same rainbow.<br/>
 Between you and I, no real boundaries,<br/>
-Look, I send my hand across colours and reach out to you.<br/>
-Ha! Look! My hand has the same colour as you!</p>
+Look, I send my hand across colors and reach out to you.<br/>
+Ha! Look! My hand has the same color as you!</p>
 
 <p>When sunlight and rain aren’t seen<br/>
-What is our colour my dear rainbow?<br/>
+What is our color my dear rainbow?<br/>
 The water in us, is it pink, blue, green?<br/>
 How about the air, the earth and the heat in us,<br/>
 Are they blue, are they pink?<br/>
 Looking at ourselves through a Diamond eye,<br/>
 What shall we see?<br/>
-What is our true colour?</p>
+What is our true color?</p>
 
 <p>I love to fly in the great sky,<br/>
 And swim across from one box to the next!</p>
