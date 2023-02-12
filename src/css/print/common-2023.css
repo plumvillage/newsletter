@@ -223,7 +223,7 @@ ul.toc {
 
 ul.toc li {
     margin-left: 3pt;
-    margin-bottom: 12pt;
+    margin-bottom: 10pt;
     page-break-inside: avoid;
 }
 
@@ -1432,6 +1432,8 @@ html:lang(vi) .PAGE-OF-Lang-Mai-Nam-Qua-A4-Final-No-Text9-Monastics-On-Tour-2 p 
     padding-left: 15mm;
     padding-top: 7mm;
 }
+
+.article-little-bird-take-gentle-steps .verse p,
 .article-theres-a-song-in-my-heart .verse p {
     font-size: 12pt;
     line-height: 125%;
