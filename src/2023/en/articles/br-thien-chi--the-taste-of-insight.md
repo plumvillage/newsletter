@@ -3,9 +3,9 @@ title: The Taste of the Insight
 author: Brother Chân Trời Thiện Chí
 ---
 
-Very soon after I received my aspirant robe, I realised that I needed to find other ways to nourish myself than the ones I had as a lay person. The path I chose leads us to transformation and healing, and the medicine to achieve these are the practices of mindfulness, concentration and insight. Insight is a real source of strength, giving us confidence and energy and leading us to understanding and self-acceptance. Herewith, I would like to share with you three insights important to me and some key elements of my journey in exploring insight.
+Very soon after I received my aspirant robe, I realized that I needed to find ways to nourish myself other than the ones I knew as a lay person. The path I chose leads us to transformation and healing, and the medicine to achieve these are the practices of mindfulness, concentration and insight. Insight is a real source of strength, giving us confidence and energy and leading us to understanding and self-acceptance. Herewith, I would like to share with you three insights important to me and some key elements of my journey in exploring insight.
 
-## Conversation With the Pain
+## Conversation With Pain
 
 It was a cold, rainy evening at the monastery, and I was on my way to the cooler - ten minutes from my room. I had not taken my raincoat with me and was walking fast so as not to get wet. It was very dark and I could see almost nothing. At some point I felt that I was walking over grass and mud that was not supposed to be there, and I realized that I had lost the way. At that moment, I took a step to the side and hit a large rock hard with my lower leg. Immediately I put my hand on the injured area and felt a warm, sticky liquid and a sharp, burning pain. I had to stop and slowly walk back to the residence. Later, a brother helped me clean and bandage the wound on my leg.  
 
@@ -15,7 +15,7 @@ That night I could not fall asleep. My mind was very restless and the pain was s
 
 A few years ago, I went to the beach with some monastic brothers. I love the sea very much, so I felt happy and fresh - my smile reached up to my ears. 
 
-One morning I woke up and had breakfast with my brothers. Already excited by the thought of going to the beach and having a coffee while listening to the sound of the waves, I enthusiastically went to brush my teeth and put on my swimsuit. As I entered one of the campsite’s changing rooms, I noticed a large mirror on the wall. Somehow, I started reacting to seeing my reflection. The old, bitter feeling of not liking myself and my body began to permeate me from the top of my head to my ears, neck and back. I stopped changing and looked at myself in the mirror. “Why do I dislike my body so much?” I began to look at my long thin arms, my big hands, my skin and my narrow chest. And at that moment I realized. I don’t like my body because my body is the same as my father’s. When I see my body, I see my father. “Oh, no…” I whispered. 
+One morning I woke up and had breakfast with my brothers. Already excited by the thought of going to the beach and having a coffee while listening to the sound of the waves, I enthusiastically went to brush my teeth and put on my swimsuit. As I entered one of the campsite’s changing rooms, I noticed a large mirror on the wall. Somehow, I started reacting to seeing my reflection. The old, bitter feeling of not liking myself and my body began to permeate me from the top of my head to my ears, neck and back. I stopped changing and looked at myself in the mirror. “Why do I dislike my body so much?” I began to look at my long thin arms, my big hands, my skin and my narrow chest. And at that moment I realized—I don’t like my body because my body is the same as my father’s. When I see my body, I see my father. “Oh, no…” I whispered. 
 
 This was a very long and silent moment. How could I have lived for so long without seeing how much my father is present everywhere in my body? 
 
@@ -23,9 +23,9 @@ As a child, I was a little afraid of my father. His loud and deep voice, his bea
 
 ## Lunch With Brother Dao Quang
 
-I remember during the last Rains retreat there was a moment when I had to take care of many things and felt stressed because of it. When I am under pressure, I don’t say what I mean but something else, my ability to listen decreases and I ask illogical questions. At such times, the feelings of fear, anxiety and worry find wonderful conditions to blossom and bear fruit. 
+I remember during the last Rains Retreat there was a moment when I had to take care of many things and felt stressed because of it. When I am under pressure, I don’t say what I mean but something else, my ability to listen decreases and I ask illogical questions. At such times, the feelings of fear, anxiety and worry find wonderful conditions to blossom and bear fruit. 
 
-One morning, I went by my friend Br. Dao Quang. After my grumpy greeting, he looked at me and asked what was wrong. Before I could answer, the bell for lunch rang. Then we served our food and a few minutes later we were already talking in the teahouse. I said:
+One morning, I went by my friend Br. Dao Quang. After my grumpy greeting, he looked at me and asked what was wrong. Before I could answer, the lunch bell rang. Then we served our food and a few minutes later we were already talking in the teahouse. I said,
 
 > “It seems like I’m always looking for opportunities to feel stressed. Whether I’m in the monastery or out, the way I organize my life always involves a lot of stress.”
 
@@ -37,7 +37,7 @@ One morning, I went by my friend Br. Dao Quang. After my grumpy greeting, he loo
 
 {% image "article2023/br-thien-chi-done/IMG_9655_e.jpg" %}
 
-In my very limited experience, insights like to stay hidden under a few layers of unpleasant wrapping paper. They are like fruits covered with a thick, prickly and smelly skin. To get to the soft pulp, I may have to relax and accept the painful covering and make it a part of me. Asking a question, like “Why don’t I like my body?” or “Why am I always stressed?” helps me gently direct my focus. When I’m on the verge of insight, I usually give up fighting the pain and open myself up to become more and more vulnerable. 
+In my very limited experience, insights like to stay hidden under a few layers of unpleasant wrapping paper. They are like fruits covered with a thick, prickly and smelly skin. To get to the soft pulp, I may have to relax and accept the painful covering and make it a part of me. Asking a question, like “Why don’t I like my body?” or “Why am I always stressed?” helps me gently direct my focus. When I’m on the verge of insight, I usually give up fighting the pain and open myself up to becoming more and more vulnerable. 
 
 It has not been the greatest happiness to understand that my father, with all his good and not so good qualities, is already inside me. This realization has not made me happier, but humbler, more grounded and less special. I am not someone who is better than everyone else. A few years ago, I would not have been able to bear the weight of this realization. It would have smashed me. 
 

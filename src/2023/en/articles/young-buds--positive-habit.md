@@ -13,7 +13,7 @@ author: The Voices of Young Monastics
 
 > “When I was a lay person, I spoke very little, even though my work was in management. I communicated very briefly, and sometimes felt nervous to share. When I became a monk, I began to practice loving speech. I started feeling more inner space and time to say what I wanted to say. In this way, my words now contain more love and understanding.”<cite>Br. Ruong Hieu</cite>
 
-<h3 class="young-ones-center-heading">What is a positive habit<br/>that you have developed<br/>since entering the Sangha?</h2>
+<h3 class="young-ones-center-heading">What is a positive habit<br/>that you have developed<br/>since entering the sangha?</h2>
 
 > “When there is an emotion coming up, I like to recognise it, and take time to sit with it, acknowledge it and embrace it for a few minutes. I don’t want to move onto something else too quickly anymore. Otherwise, I know that this emotion will ‘follow’ me for hours. I prefer to take care of it right away and re-establish inner peace as soon as I can.”<cite>Br. Thien Y</cite>
 
