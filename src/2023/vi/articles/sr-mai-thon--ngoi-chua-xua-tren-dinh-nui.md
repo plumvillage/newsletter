@@ -19,9 +19,9 @@ Khi hai chị em con về Nhập Lưu, số lượng thường trú ở đây t�
 
 Sau những ngày Tâm tang, chị em con bảo nhau rằng có lẽ Sư Ông muốn mình tiếp tục làm những công việc cần làm. Vì vậy, ban ngày chúng con vẫn có mặt với cư sĩ hết lòng nhưng khi trở về phòng, nằm trên đơn mà nước mắt cứ chảy dài khi nghĩ về Thầy.
 
-{% image "article2023/sr-mai-thon/DJI_0538.JPG" %}
-
 Tuy ít người nhưng những chương trình sinh hoạt vẫn được duy trì đầy đủ. Chúng con đi tặng chả giò, tổ chức ngày Mở cửa để làm quen với hàng xóm xung quanh nơi ở mới, rồi lên thời khóa cho ngày Giáng sinh, Tết tây với những bài pháp thoại, đốt lời khấn nguyện đầu năm và cùng làm lễ đón năm mới vào nửa đêm. Vào dịp Tết Nguyên đán, chúng con vẫn gói bánh chưng, bánh tét, cúng đại thí thực, tổ chức tất niên, thơ nhạc thiền và có cả chuông trống Bát Nhã đón Giao thừa. Sáng mồng Một Tết, chúng con cùng có mặt để chúc Tết Thầy, bói Kiều và thăm phòng quý sư cô. Chúng con còn mở hội chợ Xuân đón khoảng 200 người đến tham dự. Gian hàng bói Kiều trong hội chợ Xuân làm ăn rất khấm khá. Hai sư cô thay phiên nhau giải Kiều cho đến ba giờ chiều mới xong đó, thưa Thầy.
+
+{% image "article2023/sr-mai-thon/DJI_0538.JPG" %}
 
 Sau Tết, mấy chị em mệt nhoài nhìn nhau nói: “Mình ít người mà đúng là điệu nào cũng múa”. Thì quà Tết của chúng con dâng Thầy có gì ngoài mấy điệu múa đó đâu!
 

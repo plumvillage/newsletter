@@ -23,4 +23,4 @@ is more so.</p>
 <p>Little bird, take gentle steps,<br/>
 then fly into freedom.</p></div>
 
-This poem was written the morning of 12 February 2023, when the sangha gathered to chant for Sister Trang Chanh Niem, who had passed away on 10 February, 2023. She had a beautiful voice, like a nightingale, and she sang Ave Maria beautifully like an opera singer, which she was. And the little bird, so young and tender, is perhaps the new continuation of the nightingale who left the skies.
+This poem was written the morning of 12 February 2023, when the sangha gathered to chant for Sister Trang Chanh Niem, who had passed away on 10 February, 2023. She had a beautiful voice, like a nightingale, and she sang Ave Maria beautifully like an opera singer, which she was. And the little bird, so young and tender, is perhaps the new continuation of the nightingale who left the sky.

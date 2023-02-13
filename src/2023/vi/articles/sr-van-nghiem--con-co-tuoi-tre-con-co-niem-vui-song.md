@@ -69,7 +69,7 @@ Không thể nào mặc cả<br/>
 …<br/>
 <cite><i>trích</i> Kinh Người biết sống một mình</cite></p></div>
 
-Trong những lúc chơi với chính mình như vậy, lời Thầy lại vang vọng: “Đừng làm một cặp đôi hoàn hảo của Nguyễn Văn Sợ cùng Lê Thị Lo nhé!”, “Sự nghiệp của Thầy trò mình là sự nghiệp giải phóng khổ đau ngay ở đây và trong kiếp này nè!”, “Cho nên một vị Bụt không đủ mô con”, “Con hãy giúp Thầy một tay nha!”, “Thầy cần những giáo thọ trẻ giúp Thầy chơi với các em để khơi nguồn hiểu biết và mở lối thương yêu…”, “Hãy chỉ các em cách dừng lại mà đừng tiêu thụ và tiếp nhận thêm khổ đau nữa…”. Lời Thầy như những con sóng vỗ vào bờ đều đặn. Con tự hỏi đó là tiếng sóng biển hay tiếng lòng của Thầy hóa thân trong từng con sóng nhỏ?
+Trong những lúc chơi với chính mình như vậy, lời Thầy lại vang vọng: “Đừng làm một cặp đôi hoàn hảo của Nguyễn Văn Sợ cùng Lê Thị Lo nhé!”, “Sự nghiệp của Thầy trò mình là sự nghiệp giải phóng khổ đau ngay ở đây và trong kiếp này!”, “Cho nên một vị Bụt không đủ mô con”, “Con hãy giúp Thầy một tay nha!”, “Thầy cần những giáo thọ trẻ giúp Thầy chơi với các em để khơi nguồn hiểu biết và mở lối thương yêu…”, “Hãy chỉ các em cách dừng lại mà đừng tiêu thụ và tiếp nhận thêm khổ đau nữa…”. Lời Thầy như những con sóng vỗ vào bờ đều đặn. Con tự hỏi đó là tiếng sóng biển hay tiếng lòng của Thầy hóa thân trong từng con sóng nhỏ?
 
 ## Hàm tiếu thiền
 
@@ -79,8 +79,10 @@ Hôm đó con có dịp qua Sơn Cốc. Thầy kéo ghế ngồi chơi với v�
 
 Một lúc sau, Thầy đong đưa chân và chậm rãi nói: “Tên Biển Mây rất đẹp. Tuy ở đây không có biển nhưng mùa hè khi đưa mọi người tới phòng Biển Mây, người ta cảm tưởng rất mát mẻ. Cái tưởng của mình cũng hay lắm đó con. Con hãy làm tri khách đi!”. Rồi Thầy tủm tỉm cười nói tiếp: “Thầy thấy tên Sao Biển cũng hay. Trên trời có sao mà dưới biển cũng có sao. Bàn tay mình cũng là một ngôi sao nữa đó con”.
 
-{% image "article2023/sr-van-nghiem-done/sc van nghiem_e.JPG" %}
-
 Lời khai thị mộc mạc của Thầy đã đưa con về với tuổi thơ cùng hộp bánh lu đựng đầy vỏ sò, vỏ nghêu mà mẹ gửi tặng chị em con. Tối nào chúng con cũng quây quần bên hộp bánh lu để chơi trò gia đình sò biển. Con nhặt lấy những vỏ sò, vỏ nghêu mang về để làm những con chim hòa bình trong khóa tu nghệ thuật, và gửi tặng các bạn thiền sinh như gói theo trời mây non nước cùng nụ cười ấm áp của Thầy. Con chắp tay lại cảm ơn tình Thầy trong đôi tay nhỏ của mình.
 
 Con nguyện là sự tiếp nối đẹp của Thầy!
+
+<div class="article-end"></div>
+
+{% image "article2023/sr-van-nghiem-done/sc van nghiem_e.JPG" %}

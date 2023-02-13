@@ -4,7 +4,7 @@ const path = require("path")
 const { exec } = require('child_process')
 
 // we want the link to remain unchanged even when new revisions are being uploaded with a timestamp
-let netlifyRedirects = `\n# for Netlify, see https://docs.netlify.com/routing/redirects/#syntax-for-the-redirects-file\n`
+let netlifyRedirectsRule = `\n`
 
 function padTo2Digits(num) {
     return num.toString().padStart(2, '0')
@@ -47,10 +47,13 @@ function downsample(pdfFile, pdfFileWithoutDate, dpi = 400, Q = 1.5, onFinished 
     let outputFile = path.join(parsed.dir, outName(parsed.name))
     let outputFileWithoutDate = path.join(parsedWithoutDate.dir, outName(parsedWithoutDate.name))
 
-    netlifyRedirects += `${parsed.dir.replace("./docs/", "/")}/${outName(parsedWithoutDate.name)}    ${parsed.dir.replace("./docs/", "/")}/${outName(parsed.name)}\n`
+    netlifyRedirectsRule += `[[redirects]]
+  from = "${parsed.dir.replace("./docs/", "/")}/${outName(parsedWithoutDate.name)}"
+  to = "${parsed.dir.replace("./docs/", "/")}/${outName(parsed.name)}"\n`
 
 /*
 for DPI 300
+        OUTDATED! BUG: Q does not seem to make a difference anymore
 Q
 0.01 -> 175 MiB
 0.04 -> 110 MiB
@@ -113,6 +116,7 @@ gs -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/e
 -dColorImageResolution=${dpi} \
 -dGrayImageResolution=${dpi} \
 -dMonoImageResolution=${dpi} \
+-dColorImageFilter=/DCTEncode \
 -dColorImageDownsampleThreshold=1.0 \
 -dGrayImageDownsampleThreshold=1.0 \
 -dMonoImageDownsampleThreshold=1.0 \
@@ -207,14 +211,14 @@ let workInProgress = 0
 // we first generate all raw PDFs. onFinished() adds the downsample jobs to this queue and then proceeds execution with more threads (because the downsample is not as memory-hungry)
 let workQueue = [
     
-    () => generatePDF("http://localhost:8080/2023/en/a4/", `./docs/2023/en-a4`, onFinshed),
+    // () => generatePDF("http://localhost:8080/2023/en/a4/", `./docs/2023/en-a4`, onFinshed),
     () => generatePDF("http://localhost:8080/2023/en/a4-bleed/", `./docs/2023/en-a4-bleed`, onFinshed),
     // US Letter: 11in x 8.5in
     // () => generatePDF("http://localhost:8080/2023/en/letter/", `./docs/2023/en-letter`, onFinshed, {format: "Letter"}),
     // US Letter +5mm bleed
     // () => generatePDF("http://localhost:8080/2023/en/letter-bleed/", `./docs/2023/en-letter-bleed`, onFinshed, {height: "225.9mm", width: "289.4mm"}),
     
-    () => generatePDF("http://localhost:8080/2023/vi/a4/", `./docs/2023/vi-a4`, onFinshed),
+    // () => generatePDF("http://localhost:8080/2023/vi/a4/", `./docs/2023/vi-a4`, onFinshed),
     () => generatePDF("http://localhost:8080/2023/vi/a4-bleed/", `./docs/2023/vi-a4-bleed`, onFinshed),
     
 
@@ -228,11 +232,14 @@ let workQueue = [
     // () => generatePDF("http://localhost:8080/2022/vi/a4/", `./docs/2022/vi-a4`, onFinshed),
     // () => generatePDF("http://localhost:8080/2022/vi/a4-bleed/", `./docs/2022/vi-a4-bleed`, onFinshed),
     
-    // () => onFinshed("./docs/2022/en-a4_2022-03-19_20-28-32.pdf", "./docs/2022/en-a4.pdf"),
+    // () => onFinshed("./docs/2023/en-a4_2023-02-13_10-17-13.pdf", "./docs/2022/en-a4-bleed.pdf"),
+    // () => onFinshed("./docs/2023/en-a4-bleed_2023-02-13_10-17-13.pdf", "./docs/2022/en-a4-bleed.pdf"),
+    // () => onFinshed("./docs/2023/vi-a4_2023-02-13_10-53-50.pdf", "./docs/2022/en-a4-bleed.pdf"),
+    // () => onFinshed("./docs/2023/vi-a4-bleed_2023-02-13_10-53-50.pdf", "./docs/2022/en-a4-bleed.pdf"),
 
     () => {
         console.log("begin downsampling. More hands! :)")
-        Array(6).fill().forEach(startWork)
+        Array(8).fill().forEach(startWork)
         continueWork()
     }
 ]
@@ -242,7 +249,7 @@ var onFinshed = function(file, fileWithoutDate) {
     // ln target linkname
     execCMD(`ln -sf ${parsed.base} ${fileWithoutDate}`)
     
-    workQueue.push(() => downsample(file, fileWithoutDate, 500, 0.3, continueWork))
+    // workQueue.push(() => downsample(file, fileWithoutDate, 500, 0.3, continueWork))
     workQueue.push(() => downsample(file, fileWithoutDate, 300, 0.05, continueWork))
     workQueue.push(() => downsample(file, fileWithoutDate, 250, 1.5, (generatedFile) => {
         // we could to some custom task here.
@@ -277,11 +284,11 @@ function continueWork() {
             // wait a bit as a safety margin (otherwise exec gets killed while printing stdout)
             setTimeout(() => {
                 console.log("All Done!")
-                console.log("done!", netlifyRedirects)
+                console.log("done!", netlifyRedirectsRule)
 
                 try {
                     // the first occation of a rule is effective, which is why we need to prepend new rules, not append
-                    prependToFile("./docs/_redirects", netlifyRedirects)
+                    prependToFile("./docs/netlify.toml", netlifyRedirectsRule)
                     // fs.appendFileSync('./docs/_redirects', netlifyRedirects)
                     //file written successfully
                 } catch (err) {
@@ -296,5 +303,4 @@ function continueWork() {
 
 // concurrent.
 // for full-size pdf, 2 is very memory intense (16GB recommended)
-Array(1).fill().forEach(startWork)
-
+Array(4).fill().forEach(startWork)

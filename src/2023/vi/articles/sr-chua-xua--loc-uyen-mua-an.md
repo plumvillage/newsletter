@@ -15,7 +15,7 @@ Bạn ơi, những đêm trăng trên vùng sa mạc núi đá ở tu viện L�
 
 Ngắm nhìn rừng hoa tăng thân, con thấy sư cô trụ trì và tất cả quý sư cô lớn nơi đây cũng như những gốc đại thụ, kiên trì, nhu nhuyến, dù đi qua bao khó khăn vẫn tỏa hương thiền thơm ngát. 
 
-## Đàn nai đã trở về lại Lộc Uyển, bạn biết chưa?
+## Đàn nai đã trở về Lộc Uyển, bạn biết chưa?
 
 Ni xá xóm Trong Sáng nằm giữa thung lũng núi đá và rừng sồi nên từ bất cứ góc cửa sổ phòng nào nhìn ra cũng thấy được núi cao và trời xanh. Nếu ai đó lần đầu tiên tới thì chắc hẳn sẽ không biết rằng ẩn giữa những ngọn núi kia có một ni xá với gần bốn mươi sư cô. 
 

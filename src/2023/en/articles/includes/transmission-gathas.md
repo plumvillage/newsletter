@@ -9,7 +9,7 @@
 >  Great Determination of the Heart)*
 > > The spiritual **sky** is radiant with brush strokes  
 > > Sun Vow mountain blooms with flowers of **great awakening**  
-> > A decade, diligently tending to the garden of wisdom 
+> > A decade, diligently tending to the garden of wisdom  
 > > Gratitude cultivates the six harmonies
 
 > **Br. Thích Chân Trời Phạm Hạnh**

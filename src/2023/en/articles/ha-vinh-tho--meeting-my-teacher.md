@@ -29,7 +29,7 @@ From then on, we went regularly for retreats to Plum Village, along with our chi
 
 Thay was able to share with the world the best of traditional Vietnamese culture and through him, many Vietnamese felt proud of their origins and could share it with their children. They were reminded of their ancestral roots even while living abroad. His foreign students developed a profound admiration for the beauty and depth of Vietnamese culture and spirituality.
 
-{% image "article2023/Ha-Vinh-Tho/Ancestor altar at Magnolia Grove Monastery -Photo by- Jamie Hadnagy .jpg", "", 'Ancestors altar at Magnolia Grove Monastery<br/>Photo by Jamie Hadnagy' %}
+{% image "article2023/Ha-Vinh-Tho/Ancestors altar at Magnolia Grove Monastery.jpg", "", 'Ancestors altar at Magnolia Grove Monastery<br/>Photo by Jamie Hadnagy' %}
 
 As a child, we had an ancestor altar in my home, but it did not mean much to me. After visiting Plum Village and listening to Thay teaching on the importance of both biological and spiritual lineages; ancestor worship became very meaningful. To this day I have an ancestor altar in my home, and each morning I offer incense, fresh fruits and tea.
 
