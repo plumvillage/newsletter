@@ -37,12 +37,12 @@ function execCMD(command, onFinshed = () => {}) {
     child.on('exit', onFinshed)
 }
 
-function downsample(pdfFile, pdfFileWithoutDate, dpi = 400, Q = 1.5, onFinished = () => {}) {
+function downsample(pdfFile, pdfFileWithoutDate, ppi = 400, Q = "prepress", onFinished = () => {}) {
 
     let parsed = path.parse(pdfFile)
     let parsedWithoutDate = path.parse(pdfFileWithoutDate)
     
-    let outName = (src) => `${src}_dpi${dpi}_q${Q}.pdf`
+    let outName = (src) => `${src}_ppi${ppi}_${Q}.pdf`
 
     let outputFile = path.join(parsed.dir, outName(parsed.name))
     let outputFileWithoutDate = path.join(parsedWithoutDate.dir, outName(parsedWithoutDate.name))
@@ -52,9 +52,13 @@ function downsample(pdfFile, pdfFileWithoutDate, dpi = 400, Q = 1.5, onFinished 
   to = "${parsed.dir.replace("./docs/", "/")}/${outName(parsed.name)}"\n`
 
 /*
-for DPI 300
-        OUTDATED! BUG: Q does not seem to make a difference anymore
-Q
+READ Distiller Parameters in Ghostscript doc (page 210)
+read PostScript Language Reference Manual
+
+We can compress pdfs with Adobe Acrobat.
+The settings seem to be ignored. The file is always the same size, with terrible quality. Cannot be used.
+
+QFactor
 0.01 -> 175 MiB
 0.04 -> 110 MiB
 0.1  ->  78 MiB
@@ -62,12 +66,6 @@ Q
 0.8  ->  29 MiB
 3.0  ->  17 MiB very poor
 5.0  ->  14 MiB Too Harsh!
-
-for DPI 400
-Q
-1.5  ->  26 MiB poor, but ok for web view
-3.0  ->  20 MiB
-
 
 this is how I resized the A4 cover to fit Letter:
 1 inch = 72 points = 25.4mm
@@ -80,47 +78,59 @@ gs \
  -dFIXEDMEDIA \
  -dPDFFitPage \
  -f "LTLM45-2022_cover_v2022-02-en.pdf"
-
-gs \
- -o "LTLM45-2022_cover_v2022-02-vi-letter.pdf" \
- -sDEVICE=pdfwrite \
- -dDEVICEWIDTHPOINTS=1194.13 \
- -dDEVICEHEIGHTPOINTS=831.47 \
- -dAutoRotatePages=/None \
- -dFIXEDMEDIA \
- -dPDFFitPage \
- -f "LTLM45-2022_cover_v2022-02-vi.pdf"
-
-https://stackoverflow.com/questions/40849325/ghostscript-pdfwrite-specify-jpeg-quality
-
-gs -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/ebook -sOutputFile=out.pdf full.pdf
-    75dpi	150		300		    300, colour preserving
-    /screen	/ebook	/printer	/prepress	        /default
     
     -sColorConversionStrategy=CMYK \
     -dFirstPage=8 \
     -dLastPage=9 \
+    // DCTEncode is default. flate is lossless compression.
+    // -dColorImageFilter=/FlateEncode \
+    // -dColorImageFilter=/DCTEncode \
 
-    */
-   let command = `gs \
-   -o "${outputFile}" \
-   -sDEVICE=pdfwrite \
-   -dNOPAUSE \
-   -dFastWebView \
+I cannot set the QFactor anymore, because this line is ignored:
+-c "<< /GrayImageDict << /Blend 1 /VSamples [ 2 1 1 1 ] /QFactor ${Q} /HSamples [ 2 1 1 1 ] >> /ColorACSImageDict << /VSamples [ 2 1 1 1 ] /HSamples [ 2 1 1 1 ] /QFactor ${Q} /Blend 1 >> /ColorConversionStrategy /LeaveColorUnchanged >> setdistillerparams" \
+
+marisela lamp (full width image)
+original: 5044x3363 13MiB
+prepress: 2596x1731 1.5MiB
+printer: 2522x1681 834KiB width: 210mm = 8,267716535in => 305 ppi
+300ppi printer: 2522x1681 366KiB
+600ppi printer: 5044x3363 1.8MiB
+
+prepress /QFactor 0.15
+printer /QFactor 0.4
+screen and ebook /QFactor 0.76
+default /QFactor 0.9
+
+I now use a combination of dPDFSETTINGS to set the QFactor and a custom ppi
+
+
+Adding any of these severely reduces output size (quality loss)
+-dAutoFilterGrayImages=false \
+-dAutoFilterColorImages=false \
+
+*/
+
+let command = `gs \
+-o "${outputFile}" \
+-sDEVICE=pdfwrite \
+-dNOPAUSE \
 -dQUIET \
 -q \
+-dPDFSETTINGS=/${Q} \
+-dFastWebView \
 -dAutoRotatePages=/None \
 -dDownsampleColorImages=true \
 -dDownsampleGrayImages=true \
 -dDownsampleMonoImages=true \
--dColorImageResolution=${dpi} \
--dGrayImageResolution=${dpi} \
--dMonoImageResolution=${dpi} \
--dColorImageFilter=/DCTEncode \
+-dColorImageResolution=${ppi} \
+-dGrayImageResolution=${ppi} \
+-dMonoImageResolution=${ppi} \
 -dColorImageDownsampleThreshold=1.0 \
 -dGrayImageDownsampleThreshold=1.0 \
 -dMonoImageDownsampleThreshold=1.0 \
--c "<< /GrayImageDict << /Blend 1 /VSamples [ 1 1 1 1 ] /QFactor ${Q} /HSamples [ 1 1 1 1 ] >> /ColorACSImageDict << /VSamples [ 1 1 1 1 ] /HSamples [ 1 1 1 1 ] /QFactor ${Q} /Blend 1 >> /ColorImageDownsampleType /Bicubic /ColorConversionStrategy /LeaveColorUnchanged >> setdistillerparams" \
+-dColorImageDownsampleType=/Bicubic \
+-dGrayImageDownsampleType=/Bicubic \
+-dMonoImageDownsampleType=/Bicubic \
 -f "${pdfFile}"`
 
     console.log("exec: ", command)
@@ -210,6 +220,7 @@ let workInProgress = 0
 // all jobs are assumed to continueWork() by themselves after being finished
 // we first generate all raw PDFs. onFinished() adds the downsample jobs to this queue and then proceeds execution with more threads (because the downsample is not as memory-hungry)
 let workQueue = [
+    // () => generatePDF("http://localhost:8080/2023/en/articles-print-preview/marisela-gomez--arise-sangha/", `./docs/2023/en/articles-print-preview/marisela-gomez--arise-sangha`, onFinshed),
     
     // () => generatePDF("http://localhost:8080/2023/en/a4/", `./docs/2023/en-a4`, onFinshed),
     () => generatePDF("http://localhost:8080/2023/en/a4-bleed/", `./docs/2023/en-a4-bleed`, onFinshed),
@@ -219,7 +230,7 @@ let workQueue = [
     // () => generatePDF("http://localhost:8080/2023/en/letter-bleed/", `./docs/2023/en-letter-bleed`, onFinshed, {height: "225.9mm", width: "289.4mm"}),
     
     // () => generatePDF("http://localhost:8080/2023/vi/a4/", `./docs/2023/vi-a4`, onFinshed),
-    () => generatePDF("http://localhost:8080/2023/vi/a4-bleed/", `./docs/2023/vi-a4-bleed`, onFinshed),
+    // () => generatePDF("http://localhost:8080/2023/vi/a4-bleed/", `./docs/2023/vi-a4-bleed`, onFinshed),
     
 
     // () => generatePDF("http://localhost:8080/2022/en/a4/", `./docs/2022/en-a4`, onFinshed),
@@ -232,10 +243,9 @@ let workQueue = [
     // () => generatePDF("http://localhost:8080/2022/vi/a4/", `./docs/2022/vi-a4`, onFinshed),
     // () => generatePDF("http://localhost:8080/2022/vi/a4-bleed/", `./docs/2022/vi-a4-bleed`, onFinshed),
     
-    // () => onFinshed("./docs/2023/en-a4_2023-02-13_10-17-13.pdf", "./docs/2022/en-a4-bleed.pdf"),
-    // () => onFinshed("./docs/2023/en-a4-bleed_2023-02-13_10-17-13.pdf", "./docs/2022/en-a4-bleed.pdf"),
-    // () => onFinshed("./docs/2023/vi-a4_2023-02-13_10-53-50.pdf", "./docs/2022/en-a4-bleed.pdf"),
-    // () => onFinshed("./docs/2023/vi-a4-bleed_2023-02-13_10-53-50.pdf", "./docs/2022/en-a4-bleed.pdf"),
+    // () => onFinshed("./docs/2023/en-a4-bleed_2023-02-13_10-17-13.pdf", "./docs/2023/en-a4-bleed_XY.pdf"),
+    // () => onFinshed("./docs/2023/vi-a4-bleed_2023-02-13_10-53-50.pdf", "./docs/2022/vi-a4-bleed_XY.pdf"),
+    // () => onFinshed("./builds/marisela-gomez--arise-sangha_2023-02-14_08-51-19.pdf", "./builds/marisela-OUTPUT.pdf"),
 
     () => {
         console.log("begin downsampling. More hands! :)")
@@ -249,10 +259,9 @@ var onFinshed = function(file, fileWithoutDate) {
     // ln target linkname
     execCMD(`ln -sf ${parsed.base} ${fileWithoutDate}`)
     
-    // workQueue.push(() => downsample(file, fileWithoutDate, 500, 0.3, continueWork))
-    workQueue.push(() => downsample(file, fileWithoutDate, 300, 0.05, continueWork))
-    workQueue.push(() => downsample(file, fileWithoutDate, 250, 1.5, (generatedFile) => {
-        // we could to some custom task here.
+    // workQueue.push(() => downsample(file, fileWithoutDate, 440, "prepress", continueWork))
+    // workQueue.push(() => downsample(file, fileWithoutDate, 550, "prepress", continueWork))
+    workQueue.push(() => downsample(file, fileWithoutDate, 400, "prepress", (generatedFile) => {
         continueWork()
     }))
     continueWork()
@@ -288,7 +297,9 @@ function continueWork() {
 
                 try {
                     // the first occation of a rule is effective, which is why we need to prepend new rules, not append
-                    prependToFile("./docs/netlify.toml", netlifyRedirectsRule)
+                    
+                    // prependToFile("./docs/netlify.toml", netlifyRedirectsRule)
+
                     // fs.appendFileSync('./docs/_redirects', netlifyRedirects)
                     //file written successfully
                 } catch (err) {
@@ -303,4 +314,4 @@ function continueWork() {
 
 // concurrent.
 // for full-size pdf, 2 is very memory intense (16GB recommended)
-Array(4).fill().forEach(startWork)
+Array(1).fill().forEach(startWork)
