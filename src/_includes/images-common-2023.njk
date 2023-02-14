@@ -100,13 +100,6 @@ html:lang(vi) .pagedjs_right_page .pagedjs_margin-bottom-right {
     content: none !important;
 }
 
-{% idMap ".PAGE-OF-article2023", items, " p" %},
-{% idMap ".PAGE-OF-article2023", items, " cite" %}
-{
-    {# for better visibility when overlapping with image #}
-    {# text-shadow: 0.3pt 0.4pt 0px white; #}
-}
-
 
 {% for item in items %}
 figure#article2023{{ item[0] }} {
@@ -148,6 +141,7 @@ figure#article2023{{ item[0] }} figcaption {
     right: 17mm;
     width: 70mm;
     color: rgb(220, 220, 220);
+    {# any text-shadow (even without a blur) is computationally intense. do not use it without a strong need #}
     {# most beautiful, but computationally complex. printershops have problems with this. #}
     {# text-shadow:
         0 0 1pt black,
