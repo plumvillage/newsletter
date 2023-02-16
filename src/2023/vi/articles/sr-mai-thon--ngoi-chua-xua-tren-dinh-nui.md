@@ -72,8 +72,6 @@ Ngày nào các sư cô cũng cố ý đi thiền hành ngang qua hồ, dừng l
 
 Bỗng một buổi sáng đi thiền hành, chúng con không thấy nó đâu nữa. Dường như không tin vào mắt mình, chúng con dừng lại, quan sát thật lâu. Vài ngày sau, con vịt cũng không xuất hiện. Có lẽ nó đã đi thật rồi hoặc gặp một điều không may nào đó. Chạnh lòng, con nhớ đến con thằn lằn của chú Tâm Quán trong cuốn sách *Tình Người*. Một kiếp sống hiện lên ngắn ngủi trên biển hiện tượng, rồi biến mất. Lòng con chợt thấy thương thương và man mác buồn. 
 
-<!-- {% image "article2023/sr-mai-thon/Thiền hành Vu Lan 3.JPG" %} -->
-
 Con tự hỏi: “Tại sao mình lại có cái tâm trạng buồn thương như vậy cho một con vịt trời, nay đi mai ở?”. Rồi chợt nhận ra hình ảnh con vịt lẻ loi đã chạm tới nỗi cô đơn, tủi thân nằm thật sâu trong lòng. Có lẽ nỗi cô đơn này đã được truyền từ đời này sang đời khác. Vậy nên mới có một quyển sách có tựa đề là *Trăm năm cô đơn*. Mình đến trong đời này một mình thì khi ra đi cũng sẽ là một chuyến độc hành. Mình tự thương cho sự cô đơn, lẻ loi của mình cho nên nỗi niềm đó cũng lan tỏa đến với con vịt. Nhưng thật ra, tự thân con vịt đâu có thấy vậy. Nó được sinh ra, lớn lên và sống cuộc đời của nó như một lẽ thường tình. Vậy nên, có gì đâu mà nó phải buồn, phải hờn hay phải trách.
 
 Khi nhận diện và gọi tên được những cảm xúc tủi thân, cô đơn và lẻ loi, lòng con bỗng thấy nhẹ nhõm. Cái man mác buồn thương cũng tự dưng biến mất. Con mỉm một nụ cười, thấy thấm thía lời Thầy: “Gọi được tên thật của nó rồi thì mình sẽ tự do”. May mắn cho con, bây giờ đã có đường đi rồi, con không còn lo sợ nữa. Con có thể cô đơn nhưng không cô độc.

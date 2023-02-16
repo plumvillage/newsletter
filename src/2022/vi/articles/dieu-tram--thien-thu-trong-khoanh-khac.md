@@ -27,8 +27,6 @@ Có Sư Ông ở đây, mỗi ngày chúng con trông đến lượt mình để
 
 Có những ngày Sư Ông mất khẩu vị, Sư Ông nhìn mâm cơm một hồi rồi đưa tay mời chị em chúng con ăn và chuyền hết mâm cơm cho chúng con. Hay có khi nhìn ra cửa sổ, thấy đông các sư con đang cổ vũ: “Sư Ông ơi, Sư Ông ráng lên Sư Ông!” Thế là Sư Ông lại ráng dùng một muỗng cơm hay một hớp sữa. Chúng con biết ơn Sư Ông đã ráng thời cơm và ráng uống sữa vì thương chúng con.
 
-<!-- {% image "article/eulogy-in-vietnam/L1004781.jpg" %} -->
-
 Có lúc chúng con rất cảm động khi nhìn qua cửa sổ, thấy một thầy thị giả ngồi bên trong tâm sự thật lâu với Sư Ông trong khi Sư Ông lắng nghe rất chăm chú với ánh mắt tràn đầy từ bi. Sau này, chúng con được nghe thầy ấy thổ lộ rằng Sư Ông đã đưa tay chỉ vào bụng thầy ấy nhiều lần. Thầy thị giả đã hiểu rằng Sư Ông nhắc thầy thực tập thở sâu xuống đến bụng, phải thực tập thở bụng để không bị tư duy kéo đi. Thầy đã làm theo và đã vượt qua được một giai đoạn khó khăn trong đời tu. Chúng con biết ơn Sư Ông về đây cho chúng con thấy thế nào là lắng nghe sâu. 
 
 Sư Ông kính thương của chúng con, từ khi đại dịch bùng phát, chúng con không còn được vào liêu hầu Sư Ông nữa. Nhưng chúng con vẫn còn được lên lau dọn bên ngoài thất Sư Ông, được ngắm nhìn Sư Ông qua cửa sổ. Sư Ông nằm nghỉ ngơi thật bình an, thật đẹp. Chúng con vẫn đứng ngoài cửa sổ hát cho Sư Ông nghe. Chúng con vẫn được ngồi ngoài cửa sổ ăn cơm với Sư Ông. Nhiều lần trong bữa ăn, bỗng nhiên Sư Ông ngưng nhai và nhìn thẳng từng đứa, rồi gật đầu với từng đứa một. Chúng con biết ơn Sư Ông về đây dạy trực tiếp chúng con thế nào là có mặt trọn vẹn 100% với người mình thương. 

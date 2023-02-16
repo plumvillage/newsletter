@@ -17,8 +17,6 @@ Vào năm 1998, lúc tôi lên mười tuổi, cha mẹ đã cho tôi tham dự 
 
 Từ đó, năm nào cả nhà chúng tôi cũng về tham dự khóa tu gia đình mỗi khi Thầy và tăng thân đến Bắc Mỹ. Vì vậy mà tôi có niềm hạnh phúc được lớn lên trong chiếc nôi của Làng. Tôi được tham gia từ chương trình trẻ em đến chương trình dành cho thiếu niên. May mắn là không lâu sau khi tôi “tốt nghiệp” chương trình thiếu niên, Thầy và tăng thân bắt đầu tổ chức chương trình Wake Up dành cho người trẻ. Tôi tham gia trong chương trình Wake Up Tour vùng Bờ Đông năm 2011. Trong chuyến đi này, một nhóm quý thầy, quý sư cô và các bạn thiền sinh trẻ ở tuổi 20 - 30 đã đến sinh hoạt với các trường đại học dọc bờ Đông Hoa Kỳ (kể cả các trường Yale, Harvard và Brown). Tiếp tục tu tập, sinh hoạt rất thường xuyên và gần gũi với tăng thân, tôi thọ giới Tiếp Hiện năm 2015. Hiện tôi đang là một trong các thành viên sáng lập của tăng thân Wake Up ở Toronto và thành viên Ban chăm sóc của Wake Up Bắc Mỹ.
 
-<!-- {% image "article/dr-elli-weisbaum/Wake-Up-Toronto-Monastics-from-BCM-May-2018.jpg", "", "WakeUp Toronto, 2018" %} -->
-
 ## Nguồn cảm hứng mới
 
 Mười lăm tuổi, tôi phải nhập viện sau khi bị một số virus kích hoạt phản ứng tự miễn dịch, rồi làm cho hệ miễn nhiễm của tôi hoạt động quá mức. Đêm đầu tiên ở bệnh viện, các bác sĩ cho biết họ không chắc là tôi có thể qua nổi đêm đó. Trong suốt quá trình nằm viện, kể cả trong những lúc phải chịu không biết bao nhiêu lần xét nghiệm liên tục, cả nhà tôi đã nương tựa rất nhiều vào pháp môn thực tập của Làng Mai. 
@@ -32,8 +30,6 @@ Cha tôi là bác sĩ. Còn mẹ tôi thường được mời dạy vẽ tại 
 Niềm cảm hứng trong tôi lớn thêm trong quá trình tôi học thạc sĩ. Thời gian đó, bên cạnh tập trung nghiên cứu về việc lồng ghép chánh niệm vào lĩnh vực giáo dục, tôi còn giữ vai trò điều phối viên của chương trình Wake Up Schools - một chương trình được Thầy và tăng thân khởi xướng nhằm hỗ trợ việc đem chánh niệm vào giáo dục. Trong quá trình học sau đại học, tôi được biết đến các nghiên cứu khoa học về tình trạng kiệt sức vì quá tải của những người làm việc trong lĩnh vực phụng sự cộng đồng, đặc biệt là giáo viên và y bác sĩ.
 
 Những kinh nghiệm sống khác nhau đã khiến tôi quan tâm tìm hiểu làm cách nào để môi trường y tế trở nên lành mạnh, nuôi dưỡng, giúp các bác sĩ và nhân viên y tế được phát triển vững mạnh, thay vì phải rơi vào tình trạng kiệt sức vì công việc quá tải. Tôi nhớ trong buổi nói chuyện với vị hiệu trưởng trường Y tế cộng đồng thuộc đại học Harvard, Thầy đã đề nghị mỗi thành viên của một cộng đồng y tế phải học cách sống như thế nào để góp phần tạo nên một môi trường làm việc lành mạnh. Thầy cho rằng cách các nhân viên y tế ăn uống, đi đứng, và làm việc cũng có thể tạo nên một môi trường đầy an vui, để rồi bản thân cộng đồng đó sẽ trở thành một yếu tố mang lại sự thay đổi lành mạnh. Một môi trường như thế sẽ mang lại lợi lạc về sức khỏe cho mọi thành viên của cộng đồng, bao gồm cả bệnh nhân, gia đình, y bác sĩ và các nhân viên quản lý trong ngành y tế.
-
-<!-- {% image "article/dr-elli-weisbaum/PV-Upper-Hamlet-2019-From-left-Sharon-Weisbaum-Elli-Weisbaum-Harry-Weisbaum-cut.jpg" %} -->
 
 Tôi lớn lên với những lời dạy của Thầy, rồi trải qua quá trình nghiên cứu tìm cách kết hợp giáo pháp vào lĩnh vực giáo dục. Tiếp theo, tôi bắt đầu nghiên cứu phương pháp kết nối những dòng kiến thức khoa học với giáo pháp đạo Bụt. Tôi nhận thấy hai dòng kiến thức này có tiềm năng bổ túc cho nhau. Dù vậy, vẫn luôn có những khó khăn, thử thách về cách trình bày, diễn đạt như thế nào để giáo pháp có thể được chấp nhận trong môi trường thực nghiệm của ngành y tế. Kinh nghiệm mới mẻ của tôi trong vai trò một nhà nghiên cứu khoa học và một thiền sinh dài hạn của Làng Mai đã cho tôi một góc nhìn rất độc đáo, cũng như cơ hội để khai thác những pháp môn mà tôi cho là có thể ứng dụng được cho cả cộng đồng y khoa quốc tế lẫn tăng thân Làng Mai. Vậy là tôi quyết định nộp hồ sơ nghiên cứu sinh tiến sĩ ở trường đại học Toronto với mục tiêu nghiên cứu ảnh hưởng của chánh niệm đối với sức khỏe thân tâm của các bác sĩ và chuyên viên y tế.
 
@@ -75,5 +71,4 @@ Trong phạm vi bài viết, tôi không thể chia sẻ hết được công vi
 
 <div class="article-end"></div>
 
-<!-- {% image "article/dr-elli-weisbaum/En_healing is every step - twois.jpg" %} -->
 {% image "article/dr-elli-weisbaum/Wake-Up-Toronto-Monastics-from-BCM-May-2018-c.jpg", "", "WakeUp Toronto, năm 2018" %}

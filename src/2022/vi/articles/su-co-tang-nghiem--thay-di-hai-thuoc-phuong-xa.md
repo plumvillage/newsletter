@@ -60,8 +60,6 @@ Giờ đây, mỗi lần nhớ Thầy, nhớ lại công án ngày xưa Thầy t
 
 Ở Thái Lan, mùa này là mùa đẹp nhất trong năm, thưa Thầy! Mùa vàng rực của lá tre, lá bàng. Đã cuối đông, thời tiết chuyển, trời dần ấm hơn như để đón mùa xuân về. Chúng con mở các khóa tu trực tuyến cho thiền sinh có nơi trở về; cùng nhau học kinh Quán niệm hơi thở, Công phu nở đóa sen ngàn cánh, Duy biểu học,… Chúng con trồng thêm rau sạch để cung cấp cho đại chúng trong mùa đại dịch covid. Quan trọng nhất là chúng con nhắc nhau thực tập giữ hòa khí để con thuyền tăng thân vận hành trôi chảy. Đó là những phương thuốc mà nơi đây chúng con đang chế tác. Mỗi chúng con đều ý thức được rằng muốn hiến tặng hạnh phúc cho mọi người trên thế giới thì bản thân chúng con phải có hạnh phúc trước.
 
-<!-- {% image "article/sr-tang-nghiem/DSC_0737-e.jpg" %} -->
-
 Thơ cũng là một phương thuốc đưa con trở về nếm trải hương vị nhiệm mầu của phút giây hiện tại. Thơ giúp con biết quẳng gánh lo đi mà nở nụ cười cùng hoa, lá, mây trời. Mỗi khi chạm mặt với cái đẹp thực tại, con xúc động lắm. Con cảm thấy ẩn tàng phía sau mỗi sự việc hay mỗi con người là những đáp án và những sự thật rất đỗi bất ngờ, nếu con biết hiểu và thương. Lòng từ bi là liều thuốc mở cửa trái tim để con người bình thường trở nên vĩ đại… Dài dòng thêm đôi chữ, con kính dâng Thầy cũng như quý y chỉ sư và tăng thân một bài thơ, được con góp nhặt từ những chiếc lá tre vàng ở Vườn Ươm:
 
 <div class="verse" id="poem-duyen"><p><b>Duyên</b><br/>

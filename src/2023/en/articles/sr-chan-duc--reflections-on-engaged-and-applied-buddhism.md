@@ -47,9 +47,9 @@ I did not become a nun to be able to practice sitting meditation and retire from
 
 **Sr. Chan Duc**: In the early times, when it was only the four of us, Sr. Chan Khong, Sr. Chan Vi, Thay and myself, it was not easy to lead retreats because the retreatants were all very new. For instance, some retreatants would say, “Why should I stop when I hear the bell? It takes away my freedom!” But as their experience grew over the years, we noticed the practice energy becoming much stronger. Returning long term practitioners gave us faith in the practice. Now there is a huge monastic and lay sangha and retreats flow easily. In the early years we were quite disorganized. Communication between the hamlets was not always good. Lower Hamlet did not know the schedule of Upper Hamlet and Upper Hamlet came down expecting a Dharma Talk and Lower Hamlet was doing something else. Thay used to say, organization is not our talent in Plum Village. There are lay people who do it much better than us.
 
-**PV Newsletter**: When you felt very tired and needed a spiritual boost, what are the practices that have been very supportive through the years?
-
 {% image "article2023/sr-chan-duc-interview-done/IMG_9782_e.jpg" %}
+
+**PV Newsletter**: When you felt very tired and needed a spiritual boost, what are the practices that have been very supportive through the years?
 
 **Sr. Chan Duc**: Walking was very important. When I am not able to go outside, I just walk up and down in my room. I walk very slowly. I can take one step for every  two breaths. To be able to sit in a good position is also very helpful. I try not to do anything but just to breathe, keeping my eyes open. I may look out of the window. At that moment if I make myself meditate on something I may become too tired. Then I just sit and breathe, and whatever happens is okay. 
 

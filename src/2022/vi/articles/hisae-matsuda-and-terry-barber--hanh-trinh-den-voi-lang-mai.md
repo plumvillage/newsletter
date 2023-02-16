@@ -51,7 +51,3 @@ Em muốn tiếp tục tiến trình chúng ta đang làm và xây dựng một 
 Em mong Parallax trở thành một công ty xuất bản đúng như những gì Thầy đã trao truyền trong một buổi gặp mặt với các thành viên từ hồi trước khi em gia nhập Parallax. Đó là làm việc trong tinh thần hòa hợp như những chú ong và đưa sự thực tập chánh niệm đích thực đến với độc giả khắp nơi thông qua những cuốn sách. Ban làm sách của Làng Mai đã hỗ trợ và đóng góp cho Parallax rất nhiều tuệ giác. Em rất vui khi sư cô Chân Đức cùng nhiều quý thầy, quý sư cô trong ban làm sách đã nỗ lực giúp Palm Leaves Press (một nhánh của NXB Parallax) xuất bản những tác phẩm chưa được phát hành của Thầy. Quả thật, độc giả luôn thích những quyển sách mới và có nhu cầu tìm hiểu sâu hơn về sự thực tập chánh niệm.
 
 Hiện nay có nhiều người tu học theo Làng Mai nhưng chưa hề được gặp Thầy. Họ thẩm thấu giáo lý thông qua những phương tiện truyền thông khác nhau của Làng Mai. Các vị giáo thọ xuất sĩ và cư sĩ cũng đang tiếp tục trao truyền nguồn tuệ giác với tất cả tình thương, lòng can đảm của mình. Em thấy rất vui khi chị em mình được là một phần của tăng thân và được ăn mừng kỉ niệm 40 năm thành lập Làng Mai trong năm 2022 này. 
-
-<!-- <div class="article-end"></div> -->
-
-<!-- {% image "calligraphy/article titles 2 and dividers/5-masked/Dividers2-2-straight.webp" %} -->

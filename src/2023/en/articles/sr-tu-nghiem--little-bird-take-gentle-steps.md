@@ -4,7 +4,6 @@ author: Sister Chân Từ Nghiêm
 ---
 
 {% image "article2023/sr-tu-nghiem/DSC08537_e.jpg", "noFloat" %}
-<!-- {% image "article2023/sr-tu-nghiem/DSC_0879_e_crop.JPG", "noFloat" %} -->
 
 <div class="verse">
 <p>A nightingale has left the midnight sky,<br/>

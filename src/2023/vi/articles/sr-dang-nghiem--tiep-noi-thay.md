@@ -63,8 +63,6 @@ Làm an lạc cuộc đời.</p>
 
 Tu viện Lộc Uyển hiện đang có khóa tu đón mừng năm 2023. Vì thiếu chỗ nên nhiều gia đình có cháu nhỏ cũng phải cắm trại. Trời đổ mưa nặng hạt đôi khi lạnh cóng, nhưng khuôn mặt ai cũng rạng rỡ. Lều cắm san sát với những màu sắc rực rỡ như nấm mọc lên sau cơn mưa giữa sa mạc. Các sư em con cũng mạnh dạn lên chia sẻ trong buổi hướng dẫn tổng quát dù tiếng Anh không phải là ngôn ngữ mẹ đẻ.
 
-<!-- {% image "article2023/sr-dang-nghiem/Tiep-noi-thay-5_e.jpg" %} -->
-
 Sáng hôm sau, có một cặp vợ chồng người Mỹ tới gặp con sau khi con cho pháp thoại. Họ chắp tay, tha thiết nói: “Nhiều năm Thầy đã dạy tăng thân sẽ tiếp nối Thầy, nhưng tôi đã không tin điều đó. Từ lúc Thầy qua đời, tôi cảm thấy mất đi niềm cảm hứng. Nhưng trong khóa tu này, khi lắng nghe những lời chia sẻ của quý thầy quý sư cô, tôi thật sự thấy rằng Thầy đang được tăng thân tiếp nối. Bây giờ thì tôi thật sự tin điều đó. Cảm ơn quý thầy, quý sư cô đã cho tôi niềm tin”. Ông vừa nói vừa khóc, nước mắt giàn giụa. Vợ của ông đứng kế bên cũng khóc ròng. Chúng con cùng khóc với nhau những giọt nước mắt tràn đầy hạnh phúc.
 
 <div class="verse"><p>Chúng con đi, bước chân Thầy huyền thoại<br/>

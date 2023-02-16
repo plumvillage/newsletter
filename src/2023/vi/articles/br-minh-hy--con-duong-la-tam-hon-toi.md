@@ -21,6 +21,4 @@ Nếu chẳng thấy mãn nguyện cùng đi chơi trên những con đường n
 
 Về đi! Bạn và tôi thuộc về nơi đây, thuộc về những con đường. Con đường là hạnh phúc, là chính ta.
 
-<!-- {% image "article/eulogy-in-PV/IMG_1576-e.jpg", "" %} -->
-
 Con đường vắng, những hàng tùng xanh, dáng đứng thẳng tắp bên nhau.

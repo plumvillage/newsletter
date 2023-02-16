@@ -36,5 +36,4 @@ Theo gót chân Ngài tâm tự khai.</p></div>
 
 <div class="article-end"></div>
 
-<!-- {% image "article2023/sr-hoi-nghiem/plum blossom_edit1.webp" %} -->
 {% image "article2023/drawings-sr-bo-de/xy6000_saturation_sharpen/Poplar-Cathedral_cut.jpg" %}

@@ -35,8 +35,6 @@ Vậy đó, có những thứ rất quen mà không bao giờ cũ. Mỗi bước
 
 Một lần nọ, thầy thị giả của Sư Ông phát hiện thấy hôm nay Sư Ông hơi khác lạ. Sau pháp thoại, Sư Ông đi về thất, uống một ly trà và cầm nón lá đi thiền hành ngay. Mọi khi Sư Ông thường nghỉ thêm một chút nữa. Đến nơi, Sư Ông xá đại chúng và dẫn đi thiền hành. Từng bước chân thong thả, Sư Ông dẫn đại chúng đến đồi Bụt, nơi Sư Ông rất thích ngồi nghỉ chân giữa buổi thiền hành. Đại chúng vừa ngồi xuống thì chuông nhà thờ vừa thỉnh. Thầy thị giả nhìn sang thấy Sư Ông cười rất tươi. Thì ra, có một phái đoàn các thầy ngoại quốc đến thăm Làng. Đây là lần đầu họ đến xóm Thượng và tham dự thiền hành nên Sư Ông đã đãi các thầy một giây phút huyền thoại. Sư Ông rất ưng ý khoảnh khắc ấy, mọi thứ đều vừa đúng lúc. Đâu cần phải bày món hay có trà ngon mới gọi là đãi khách. 
 
-<!-- {% image "article/br-minh-hy/IMG_8496-edited.jpg" %} -->
-
 Một giây phút đẹp có thể giúp mọi người làm lớn lên niềm hạnh phúc trong mình là một bữa tiệc mà mình có thể đãi những người thương của mình nhiều lần trong ngày. Nhưng trước hết mình phải có khả năng cảm nhận, có khả năng đãi cho bản thân mình những bữa tiệc như thế. Làm sao có thể đãi cho người bạn đến thăm một ly trà ngon nếu mình không biết uống trà. Một người quá bận rộn khó có thể đãi người khác một giây phút thảnh thơi. 
 
 {% image "article/br-minh-hy/DSC_3796-edit.jpg" %}

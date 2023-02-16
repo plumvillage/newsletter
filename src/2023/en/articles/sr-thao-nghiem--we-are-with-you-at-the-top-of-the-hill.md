@@ -16,7 +16,6 @@ In the autumn of 2014, Thay was recuperating in Upper Hamlet and the attending b
 “Just get ready, my child. We are going to surprise the brothers. Call the other (attending) brothers and sisters to come also. We have to be quick to be on time. It’s only fun if we arrive before the brothers have risen.”
 
 {% image "article2023/sr-thao-nghiem/starlit_composite2.jpg" %}
-<!-- {% image "article2023/sr-thao-nghiem/image1.jpg" %} -->
 
 Promptly, our group of brothers and sisters followed Thay into the monks’ residence before everyone had time to wake up. Thay told the sisters to bring two pots of chrysanthemums as gifts for the brothers. The attending brothers pushed Thay’s wheelchair, while the sisters carried the flowers behind, up all the steps of the Sitting Still Hut, out of the woods. The path from the bell tower to the monks’ residence was still pitch-dark before five in the morning. Above us was the vast starlit sky. Thay cried out in amazement, “Oh my, so beautiful, so wonderful! Thank you Buddha and ancestral teachers for giving me this opportunity. It has been a long time since I’ve had the chance to see this again.” All of us were touched and cherished this chance to enjoy the mystery of the early morning earth and sky. 
 
@@ -33,8 +32,6 @@ Thay was always like that–he waited for me to come before starting to walk, an
 Back then Thay kept saying: “We have already climbed the hill of the century for many years. When we reach the top, how old will I be?” and laughed. I imagined that when I reach the top of the hill, Thay would be sitting there, in flesh and blood. By then I will be an old nun whose heart is filled with happiness, knowing that Thay is still sitting with us, surrounded by a beloved sangha. I will be wise enough and grown up enough after having leaned on Thay for so long.
 
 Dear respected Thay, we are with you at the top of the hill, sitting peacefully together, breathing with the same rhythm, smiling and looking at the wonder of earth and sky. With Thay in my heart, I see that I have enough, I am strong, rich, and warm.
-
-<!-- {% image "article2023/sr-thao-nghiem/DSC_5381_e2.jpg" %} -->
 
 Whenever I am immersed in the heart of the sangha, I remember Thay’s old dream–to build a kind sangha that has brotherhood and sisterhood, and the substance of the practice. Dearest Thay, perhaps your dream from long ago has been realized? That dream has become our present and will be so for our younger siblings and for everyone in the future.
 

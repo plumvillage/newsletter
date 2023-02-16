@@ -7,8 +7,6 @@ author: Brother Chân Minh Hy
 
 There is an anecdote about an occasion at the Tu Dam Temple in Vietnam, when the monks were about to put their sanghati robe on for the precepts recitation ceremony, and Venerable Thien Sieu asked, “Do you know why we say, ‘The Dharma is deep and wonderful’?” Pausing for a few moments, he continued, “Because it is here, right in front of you.”
 
-<!-- {% image "article/br-minh-hy/IMG_8496-edited.jpg" %} -->
-
 I heard this anecdote when the Venerable Abbot of Bao Lam Temple recounted it to us at Dieu Tram Nunnery. This question has stayed with me ever since–*How can the wonderful and deep Dharma be right in front of us? Why can’t I see it? Is it because there are many things around that are so ordinary that I am unable to see it?*
 
 At banquets, we often offer special dishes. If a meal only has rice and green vegetables, we cannot call it a banquet since they are eaten every day, every week, every month, the whole year round, and throughout our whole life. But there are people who cannot bear it if they don’t have rice, even just for one or two days. If that is so, then rice and green vegetables are not ordinary. They are in fact special because almost everyone can eat them and many cannot live without these staples. “Special dishes” at banquets are special, but they can only be eaten occasionally. We cannot eat them every day like the way we eat rice. As the Vietnamese proverb says, *No one loves us like rice does.* 

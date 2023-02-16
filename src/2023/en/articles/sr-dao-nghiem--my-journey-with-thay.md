@@ -15,8 +15,6 @@ During my very first retreat, Thay told us the story of a group of nuns who had 
 
 I really enjoyed this story and hearing Thay—a Buddhist teacher—speaking about God so freely and so beautifully!
 
-<!-- {% image "article2023/sr-dao-nghiem/IMG_5676.jpg" %} -->
-
 Just after this first retreat I went to see my aunt, who had been in a coma for a couple of months. She died the night after my arrival and I felt deeply how the teachings I had just received while in Plum Village gave me the peace to embrace my own pain and the pain of her children and grandchildren. The words of Thay resonated in my mind. My aunt is still alive, she is everywhere. I feel her presence and can help my cousins to recognize within them the beautiful qualities of my aunt. She will continue within us.
 
 I learned from Thay how to connect with my father, with my mindful steps. *Feel that you are holding the hand of your dad, then feel his feet walking in your feet*.

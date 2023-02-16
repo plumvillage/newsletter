@@ -17,9 +17,6 @@ There are moments, dear Thay, because I am still young and have much to learn, w
 
 Thay, in the past two weeks I have been asked, “What’s next?” Each time someone asks me this, I can see you gently holding your teacup with a warm smile on your face because I know instead of asking “What’s next?” you would point towards the “What’s now.” Now is what has always been and will ever be. Now is where we get the chance to walk with Thay, to sit, speak, build community, drink tea, smile, laugh, and cry for Thay. Now is where the beloved community will meet each other, to care for each other, to embrace each other, to support each other, and to slow down together so that we can recognize and transform the sufferings of the world with limitless compassion and wisdom. “This is it,” right, dear Thay? This is the legendary moment.   
 
-<!-- {% image "article/br-phap-huu/IMG_2227e.jpg" %} -->
-<!-- <span class="note">Plum Village Monastic Retreat 2022</span> -->
-
 We have a beautiful community full of talent and vitality, and we will carry the torch of wisdom you have handed to us into the here and now–and towards the future for generations to come.
 
 {% image "article/br-phap-huu/1567876120513-edited.jpg" %}
