@@ -5,8 +5,8 @@ Single source publishing project using [Eleventy](https://www.11ty.dev) and [Pag
 A deploy is running here: [lathu.langmai.org](https://lathu.langmai.org/)
 
 ## Setup for local development
-The [media archive](https://drive.google.com/file/d/1irF6b0GT4MHNmnBmRfb_au2cQb7eM1hE/view?usp=sharing) (1.5GiB) is required but not part of this repository. Please request it from the Newsletter team and extract it via:
-`tar -xf LTLM2022_FullMediaArchiveForBookGeneration_2022-03-20.tar.gz -C src`
+The [media archive](https://drive.google.com/file/d/1VLqG8LwCLKMNcINTUDWyHhTr-eIypFR8/view?usp=share_link) (3.2GiB) is required but not part of this repository. Please request it from the Newsletter team and extract it via:
+`tar -xf LTLM2023_and_2022_FullMediaArchiveForBookGeneration_2023-02.tar.gz -C src`
 
 Then run `./setup.sh`
 
