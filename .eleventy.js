@@ -44,6 +44,9 @@ async function imageData(src) {
     let fastProcess = true
     let justCopy = false
     
+    // ~2600px width = 300 PPI
+    // ~4340px width = 500 PPI
+
     // let maxWidth = 700
     // let quality = 80
     let maxWidth = 1500
@@ -156,7 +159,7 @@ const spreadFn = (y) => y === 0 ? (x) => x : (y > 0
 	? (x) => Math.atan( (x-0.5)*y*2 )/Math.atan(y)/2+0.5
 	: (x) => Math.tan( (x-0.5)*Math.atan(-y)*2 )/-y/2+0.5)
 
-function easingGradient(start = 0, end = 100, stops = 8, smoothness = 3) {
+function easingGradient(start = 0, end = 100, stops = 2, smoothness = 3) {
 	var fn = spreadFn(smoothness)
 	var range = end - start
 	var result = []

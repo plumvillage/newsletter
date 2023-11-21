@@ -110,6 +110,8 @@ let command = `gs \
 -dNOPAUSE \
 -dQUIET \
 -q \
+-dFirstPage=29 \
+-dLastPage=29 \
 -dPDFSETTINGS=/${Q} \
 -dFastWebView \
 -dAutoRotatePages=/None \
@@ -215,14 +217,14 @@ let workInProgress = 0
 // we first generate all raw PDFs. onFinished() adds the downsample jobs to this queue and then proceeds execution with more threads (because the downsample is not as memory-hungry)
 let workQueue = [
     
-    () => generatePDF("http://localhost:8080/2023/en/a4/", `./docs/2023/en-a4`, onFinshed),
+    // () => generatePDF("http://localhost:8080/2023/en/a4/", `./docs/2023/en-a4`, onFinshed),
     // () => generatePDF("http://localhost:8080/2023/en/a4-bleed/", `./docs/2023/en-a4-bleed`, onFinshed),
     // US Letter: 11in x 8.5in
     // () => generatePDF("http://localhost:8080/2023/en/letter/", `./docs/2023/en-letter`, onFinshed, {format: "Letter"}),
     // US Letter +5mm bleed
     // () => generatePDF("http://localhost:8080/2023/en/letter-bleed/", `./docs/2023/en-letter-bleed`, onFinshed, {height: "225.9mm", width: "289.4mm"}),
     
-    () => generatePDF("http://localhost:8080/2023/vi/a4/", `./docs/2023/vi-a4`, onFinshed),
+    // () => generatePDF("http://localhost:8080/2023/vi/a4/", `./docs/2023/vi-a4`, onFinshed),
     // () => generatePDF("http://localhost:8080/2023/vi/a4-bleed/", `./docs/2023/vi-a4-bleed`, onFinshed),
     // () => generatePDF("http://localhost:8080/2023/vi/letter/", `./docs/2023/vi-letter`, onFinshed, {format: "Letter"}),
     // US Letter +5mm bleed
@@ -239,8 +241,8 @@ let workQueue = [
     // () => generatePDF("http://localhost:8080/2022/vi/a4-bleed/", `./docs/2022/vi-a4-bleed`, onFinshed),
     
     // () => onFinshed("./docs/2023/vi-a4-bleed_2023-02-14_13-42-06.pdf", "./docs/2023/vi-a4-bleed.pdf"),
-    // () => onFinshed("./docs/2023/en-a4-bleed_2023-02-14_13-42-06.pdf", "./docs/2022/en-a4-bleed.pdf"),
     // () => onFinshed("./docs/2023/en-a4_2023-02-14_17-21-23.pdf", "./docs/en-a4.pdf"),
+    () => onFinshed("./docs/2023/en-a4-bleed_2023-02-14_13-42-06.pdf", "./docs/en-a4-bleed.pdf"),
     // () => onFinshed("./builds/marisela-gomez--arise-sangha_2023-02-14_08-51-19.pdf", "./builds/marisela-OUTPUT.pdf"),
 
     () => {
@@ -255,8 +257,8 @@ var onFinshed = function(file, fileWithoutDate) {
     // ln target linkname
     execCMD(`ln -sf ${parsed.base} ${fileWithoutDate}`)
     
-    workQueue.push(() => downsample(file, fileWithoutDate, 250, "screen", continueWork))
-    workQueue.push(() => downsample(file, fileWithoutDate, 300, "prepress", continueWork))
+    // workQueue.push(() => downsample(file, fileWithoutDate, 250, "screen", continueWork))
+    // workQueue.push(() => downsample(file, fileWithoutDate, 300, "prepress", continueWork))
     workQueue.push(() => downsample(file, fileWithoutDate, 500, "prepress", (generatedFile) => {
         continueWork()
     }))
