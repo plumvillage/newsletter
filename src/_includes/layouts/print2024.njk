@@ -1,0 +1,80 @@
+{% extends "layouts/print-frame.njk" %}
+{% block content %}
+
+<div class="full-page-image bleed">
+    {% image ["LTLM47-2024 cover ", locale ," ", size_label ," bleed.jpg"] | join %}
+</div>
+
+{% set onlyIncludeArticlesListedInTheOrder = false %}
+
+<div id="table-of-contents">
+    <h1>{{ i18n.toc }}</h1>
+    <ul class="toc">
+        {%- for article in articles -%}
+            {%- if not onlyIncludeArticlesListedInTheOrder or article.existsInArticleOrder -%}
+                {%- if article.data.chapter -%}
+                <li class="chapterLi" id="li-{{ article.data.id }}">
+                    <a class="" href="#{{ article.data.id }}">
+                    <span class="toc-chapter-title">{{ article.data.title }}</span>
+                {%- else -%}
+                <li id="li-{{ article.data.id }}">
+                    <a class="toc-links" href="#{{ article.data.id }}">
+                    <span class="toc-title">{{ article.data.title }}</span>
+                    {%- if not article.data.author == "" -%}
+                    <br/><span class="toc-author">{{ article.data.author }}</span>
+                    {%- endif -%}
+                {%- endif -%}
+                </a></li>
+            {%- endif -%}
+        {%- endfor -%}
+    </ul>
+</div>
+
+
+{%- for article in articles -%}
+    {%- if not onlyIncludeArticlesListedInTheOrder or article.existsInArticleOrder -%}
+
+        {% set title = article.data.title %}
+        {% set author = article.data.author %}
+        {% set content = article.data.content %}
+        {% set fileSlug = article.fileSlug %}
+
+        {%- if article.data.chapter -%}
+            <section class="chapter" id="{{ article.data.id }}">
+                <h1>{{ title }}</h1>
+                {{ content | safe }}
+            </section>
+        {%- else -%}
+            {# this code is duplicated in article.njk. factoring it out has failed, because of the async call to image. #}
+            <article class="article-{{ article.data.id }}">
+                {%- if article.data.preceeding_full_page_image_A4 %}
+                    <div class="full-page-image bleed">
+                        {%- if size_label == "A4" %}
+                            {% image article.data.preceeding_full_page_image_A4 %}
+                        {%- else %}
+                            {% image article.data.preceeding_full_page_image_Letter %}
+                        {%- endif %}
+                    </div>
+                {%- endif %}
+
+                {% set artCall = articleCalligraphies(fileSlug) %}
+                {%- if artCall.hasCalligraphy %}
+                    <h1 id="{{ article.data.id }}" class="calligraphyTitle">
+                        {% image artCall.calligraphyFile, "articleCalligraphy" %}
+                    </h1>
+                {%- else %}
+                    <h1 id="{{ article.data.id }}">{{ title }}</h1>
+                {%- endif %}
+
+                {%- if author %}
+                    <h2 class="author">{{ author }}</h2>
+                {%- endif %}
+                    {{ content | safe }}
+                <div class="article-end"></div>
+            </article>
+        {%- endif -%}
+
+    {%- endif -%}
+{%- endfor -%}
+
+{% endblock %}

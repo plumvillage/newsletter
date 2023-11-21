@@ -3,6 +3,8 @@ articleOrder.vi2022 = require("./src/_data/article-order-vi-2022.js")
 articleOrder.en2022 = require("./src/_data/article-order-en-2022.js")
 articleOrder.en2023 = require("./src/_data/article-order-en-2023.js")
 articleOrder.vi2023 = require("./src/_data/article-order-vi-2023.js")
+articleOrder.en2024 = require("./src/_data/article-order-en-2024.js")
+articleOrder.vi2024 = require("./src/_data/article-order-vi-2024.js")
 
 const { EleventyRenderPlugin } = require("@11ty/eleventy")
 const fs = require('fs')
@@ -212,7 +214,7 @@ module.exports = function(eleventyConfig) {
         }
         firstRun = false
     })
-
+    
     let createSortedCollection = function(year, lang) {
         eleventyConfig.addCollection(`articles_${year}_${lang}`,
         (collection) => collection
@@ -243,6 +245,9 @@ module.exports = function(eleventyConfig) {
 
     createSortedCollection("2023", "en")
     createSortedCollection("2023", "vi")
+
+    createSortedCollection("2024", "en")
+    createSortedCollection("2024", "vi")
 
     eleventyConfig.addCollection('parallelVerses2023', function(c) {
         return parallelVerses2023

@@ -1,0 +1,1455 @@
+@charset "UTF-8";
+
+:root {
+    --bleed: 5mm;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    counter-reset: chapternum figurenum ;
+    font-family: "Gentium Book Plus ManualLineHeight", serif;
+    /* in the chrome preview (not in Firefox), the first page will be blank when using line-height 14, instead of 16 pt. */
+    line-height: 127.3%; /* ~125% has proven good */
+    /* line-height: 16pt; */
+    font-size: 11pt;
+    /* https://software.sil.org/gentium/features/ */
+    font-feature-settings:
+    /* single-story 'a' and 'g' */
+    /* "ss01", */
+    /* Vietnamese-style diacritics */
+    "cv75"
+    ;
+}
+
+/* default */
+figure {
+    margin: 0;
+}
+
+.pagedjs_sheet {
+    overflow: hidden;
+}
+
+@page {
+    /* chrome needs to have --pagedjs-margin-top set manually, otherwise it yields different results */
+    margin-top: 32pt;
+    --pagedjs-margin-top: 32pt;
+    margin-bottom: 40pt;
+
+    /* BUG: this breaks the table of contents */
+    /* counter-reset: footnote; */
+
+    /* this breaks pagedjs */
+    /* bleed: var(--bleed); */
+
+    @footnote {
+        padding-top: 8pt;
+        color: var(--color-footnote);
+        float: bottom;
+    }
+}
+
+@page:left {
+    /* A4 Margins: 33.27pt = 11.7369167mm */
+    /* 64pt = 22.57777mm */
+    /* margin-right: 22.57777mm;
+    margin-left: 11.7369167mm; */
+
+    /* for Letter format */
+    /* margin-right: 37.078mm;
+    margin-left: 16.7369167mm; */
+    @bottom-left {
+        /* top right bottom left*/
+        padding: 10pt 0 10pt 0;
+        content: counter(page);
+        font-size: 11pt;
+    }
+}
+
+@page:right {
+    /* A4 */
+    /* margin-right: 11.7369167mm;
+    margin-left: 22.57777mm; */
+
+    /* for Letter format */
+    /* margin-right: 16.7369167mm;
+    margin-left: 37.078mm; */
+    @bottom-right {
+        padding: 10pt 0 10pt 120pt;
+        content: counter(page);
+        font-size: 11pt;
+    }
+}
+
+.lastmod {
+    color: gray;
+    background-color: white;
+}
+.pagedjs_right_page .lastmod {
+    float: left;
+}
+
+.pagedjs_left_page .lastmod {
+    float: right;
+}
+
+figure img {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+}
+
+.articleCalligraphy img {
+    max-width: 100%;
+    width: auto;
+}
+
+.full-page-image, .empty-page {
+    page: photopage; /* named pages*/
+    width: calc(var(--pagedjs-pagebox-width));
+    height: calc(var(--pagedjs-pagebox-height));
+    top: calc((var(--pagedjs-margin-top))*-1);
+    left: calc((var(--pagedjs-margin-left))*-1);
+    position: relative;
+    break-after: page;
+    overflow: visible;
+}
+
+.full-page-image.bleed, .empty-page {
+    width: calc(var(--pagedjs-pagebox-width) + (var(--bleed) * 2));
+    height: calc(var(--pagedjs-pagebox-height) + (var(--bleed) * 2));
+    top: calc((var(--pagedjs-margin-top) + var(--bleed)) * -1);
+    left: calc((var(--pagedjs-margin-left) + var(--bleed)) * -1);
+}
+
+.full-page-image figure {
+    width: 100%;
+    height: 100%;
+    margin-top: 0 !important;
+}
+
+.full-page-image figure img {
+    width: auto;
+    height: 100%;
+}
+
+@page photopage {
+    /* Important for BUG-HUNTERS: if set to "0" only, it messes up the layout. it needs to be "0mm" */
+    margin-top: 0mm;
+    margin-right: 0mm;
+    margin-left: 0mm;
+    /* although this should be 0mm, in chrome, it would otherwise leave a white blank bar above the full-page images with bleed */
+    margin-bottom: -5mm;
+
+    @bottom-right {
+        display: none;
+    }
+    @bottom-left {
+        display: none;
+    }
+    @bottom-center {
+        display: none;
+    }
+}
+
+#title-page, .page-break {
+    break-after: page;
+}
+
+.chapter {
+    page: noFooter;
+}
+
+@page noFooter {
+    @bottom-right {
+        display: none;
+    }
+    @bottom-left {
+        display: none;
+    }
+    @bottom-center {
+        display: none;
+    }
+}
+
+
+.chapter {
+    break-before: page;
+    break-after: page;
+}
+.chapter h1 {
+    padding-top: 33%;
+    font-family: "CormorantSC-SemiBold";
+    font-style: normal;
+    font-weight: normal;
+}
+
+
+article h1 {
+    string-set: doctitle content(text);
+}
+
+
+#table-of-contents {
+    page: page-toc;
+    columns: 2;
+    break-after: page;
+    column-gap: 32pt;
+    font-size: 12pt;
+}
+
+@page page-toc {
+    --pagedjs-margin-bottom: 60pt!important;
+    margin-bottom: 60pt !important;
+}
+
+/* select second page of toc */
+.pagedjs_page-toc_page:not(.pagedjs_page-toc_first_page) .pagedjs_page_content > div > div {
+    padding-top: 14.5% !important;
+}
+
+
+#table-of-contents h1 {
+    margin-bottom: 24pt;
+}
+
+ul.toc {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    break-after: page;
+}
+
+ul.toc li {
+    margin-left: 3pt;
+    margin-bottom: 10pt;
+    page-break-inside: avoid;
+}
+
+html:lang(vi) ul.toc li {
+    margin-bottom: 5pt;
+}
+
+
+html:lang(vi) .chapterLi {
+    padding-top: 13pt;
+    padding-bottom: 0pt;
+}
+html:lang(en) .chapterLi {
+    padding-top: 26pt;
+    padding-bottom: 0pt;
+}
+.toc-chapter {
+    padding-left: 0pt;
+}
+
+.toc-chapter-title {
+    font-family: "CormorantSC-Bold";
+    font-size: 140%;
+    line-height: 120%;
+    font-style: normal;
+    font-weight: normal;
+    border-bottom: 1pt solid var(--color-bark-light);
+}
+
+/* https://pagedjs.org/documentation/-cross-references/ */
+.toc-links::before {
+    content: target-counter(attr(href url), page);
+    position: relative;
+    display: inline-block;
+    width: 22pt;
+    vertical-align: top;
+    text-align: right;
+    left: 73mm;
+    /* right: 8pt; */
+    /* font-size: 14pt; */
+}
+
+.toc-title {
+    /* position: relative; */
+    display: inline-block;
+    /* text-indent: -6pt;
+    padding-left: 6pt; */
+    margin-left: -5mm;
+    width: 68mm;
+    font-weight: bold;
+    /* color: var(--color-tower-dark); */
+    color: var(--color-bark-dark);
+}
+.toc-author {
+    position: relative;
+    display: inline-block;
+    padding-top: 1pt;
+    padding-left: 6pt;
+    text-indent: -6pt;
+    width: 68mm;
+    margin-left: -5mm;
+    left: 24pt;
+}
+
+ul.toc > *:first-child {
+    padding-top: 0pt !important;
+}
+
+/* CASE STYLING: English */
+ul.toc #li-strolling-with-joy-on-a-sunny-day {
+    /* break-after: column; */
+    /* emulate column break after */
+    padding-bottom: 30pt;
+}
+ul.toc #li-early-years-of-plum-village {
+    padding-top: 0;
+}
+
+
+
+
+a {
+    text-decoration: none;
+}
+article a, #table-of-contents a {
+    color: #000;
+}
+.pagedjs_footnote_area a {
+    color: var(--color-footnote) !important;
+}
+
+/* add page number to cross references */
+/* a.xref::after {
+    content: " (page " target-counter(attr(href, url), page) ")";
+} */
+
+article {
+    columns: 2;
+    break-after: page;
+    column-gap: 16pt
+}
+
+
+h1, article .author, article h2.altAuthor {
+    column-span: all;
+    text-align: center;
+    color: var(--color-bark-dark);
+}
+
+ /* title */
+h1 {
+    font-family: "Cormorant Garamond";
+    font-weight: bold;
+    font-size: 32pt;
+    line-height: 110%;
+    margin-top: 12pt;
+    margin-bottom: 8pt;
+    /* font-style: italic; */
+    /* changes how numbers look like */
+    font-feature-settings: 'lnum';
+}
+
+/* https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Mastering_margin_collapsing
+-> Note that the margins of floating and absolutely positioned elements never collapse. */
+article figure {
+    display: block; /* block eliminates space around image */
+    float: right; /* makes paragraph text float/break around it */
+    max-width: 100%;
+    margin-top: 11pt;
+    margin-bottom: 11pt;
+}
+
+figure.noFloat {
+    float: none !important;
+}
+
+/* will also fill 5mm bleed */
+figure.expandToRightBorder,
+figure.expandToLeftBorder
+{
+    width: 120%;
+    position: relative;
+    max-width: none !important;
+}
+figure.expandToLeftBorder figcaption
+{
+    margin-left: 10% !important;
+}
+figure.expandToRightBorder figcaption
+{
+    margin-right: 10% !important;
+}
+figure.expandToRightBorder {
+    /* because float is normally: right */
+    right: -20%;
+}
+figure.expandToRightBorder.noFloat {
+    right: 0 !important;
+}
+/* expandToLeftBorder is already left-bound */
+
+h1.calligraphyTitle {
+    margin-top: 0mm;
+    margin-bottom: -2mm;
+}
+
+h1.calligraphyTitle figure {
+    margin: 0 auto;
+    float: none;
+}
+h1.calligraphyTitle figure,
+h1.calligraphyTitle figure img {
+    max-height: 32mm;
+}
+
+h2 { /* section in article */
+    font-size: 12pt;
+    font-weight: bold;
+    color: var(--color-bark-dark);
+    margin-top: 14pt;
+    margin-bottom: 5pt;
+}
+
+html:lang(en) h3 { /* section in article */
+    font-weight: bold;
+    font-style: italic;
+    font-size: 1em;
+}
+
+article .author {
+    font-size: 14pt;
+    line-height: 16pt;
+    margin-top: 6pt;
+     /* less bold */
+    /* font-family: "Gentium Plus"; */
+    font-weight: normal;
+    font-variant: small-caps;
+    margin-bottom: 8mm;
+}
+
+article .editors-preface,
+article .author + h2,
+article .author + figure
+{
+    margin-top: 0 !important;
+    text-indent: 0 !important;
+}
+
+article .author + p
+{
+    margin-top: 0 !important;
+}
+
+/* this has been explicitly requested by Sr Tai N: all paragraphs are indented by default (even on the first paragraph) */
+html:lang(vi) article > p,
+html:lang(vi) .positioned-text-box p
+{
+    text-indent: 16pt;
+}
+
+article > *:first-child:not(h1) {
+    margin-top: 0 !important;
+}
+
+/* for some reason, appending this above does not work */
+html:lang(en) article > *:first-child:not(h1) {
+    text-indent: 0 !important;
+}
+
+
+/* Vietnamese words are smaller on average, thus more suitable for block text */
+html:lang(vi) article p {
+    text-align: justify;
+    text-align-last: left;
+}
+html:lang(en) article p {
+    text-align: left;
+    /* text-align: justify; */
+}
+
+article p, article blockquote {
+    /* DEFAULT. To be refined below ... */
+    margin: 0;
+    /* does not work in Firefox, but in Chrome. Very strange. */
+    /* does not work reliably. new pages can have 1-line widows */
+    orphans: 3;
+    widows: 3;
+}
+
+article p:not(.editors-preface):not(.centered-preface) + p,
+article figure + p,
+html:lang(vi) .editors-preface + p
+html:lang(vi) article blockquote + p,
+html:lang(vi) article .verse + p
+{
+    text-indent: 16pt;
+    margin-top: 11pt;
+}
+
+article h2, article h3 {
+    page-break-after: avoid;
+}
+
+html:lang(vi) article h2:not(.author) + p {
+    text-indent: 16pt;
+}
+
+article blockquote {
+    margin-top: 11pt;
+    margin-bottom: 14pt;
+	padding-left: 6pt;
+    font-style: italic;
+}
+html:lang(vi) article blockquote {
+    text-indent: 14pt;
+}
+article blockquote i {
+    font-style: normal;
+}
+article blockquote p + p {
+    margin-top: 6pt;
+}
+/* can be in blockquote and .verse */
+article cite::before {
+    color: var(--color-bark-dark);
+    content: "—"; /* —🙒🙛🙘 */
+	font-size: 80%;
+}
+article cite {
+	position: relative;
+	display: inline-block;
+	left: 3pt;
+    padding-right: 1mm;
+    font-style: italic;
+    color: var(--color-bark-dark);
+}
+
+.verse cite {
+    font-family: "Gentium Book Plus";
+    font-weight: normal;
+    font-size: 11pt;
+}
+.verse cite i {
+    font-style: normal;
+}
+
+article blockquote:lang(zh) {
+    font-size: 120%;
+    font-style: normal;
+    line-height: 110%;
+    text-indent: 0;
+    border-left: 0 !important; /* no border */
+    /* margin-top: 9pt; */
+    /* margin-bottom: 9pt; */
+}
+
+p + .verse,
+.verse + p,
+.verse + .verse
+{
+    margin-top: 11pt;
+}
+
+.verse {
+    page-break-inside: avoid;
+    margin-left: 6pt;
+    text-align: left !important;
+    font-style: italic;
+}
+
+
+html:lang(vi) .verse {
+    /* font-size: 130%;
+    line-height: 125%; */
+}
+
+.verse b, .verseTitle {
+    /* position: relative; */
+    /* left: -3pt; */
+    /* font-family: "CormorantSC-SemiBold"; */
+    font-variant: small-caps;
+    font-style: normal;
+    font-weight: normal;
+    /* font-size: 120%; */
+    /* line-height: 120%; */
+    /* text-transform: lowercase; */
+}
+
+.verse p + p {
+    margin-top: 11pt;
+}
+.verse p {
+    text-indent: 0pt;
+}
+.noIndent {
+    text-indent: 0 !important;
+}
+
+/* 21st century */
+/* https://en.wikipedia.org/wiki/Ordinal_indicator */
+sup { /* superscript */
+    /* otherwise, the line above is pushed up  */
+    line-height: 0;
+    font-size: 70%;
+}
+
+.note {
+    float: footnote;
+    font-size: 8pt;
+    line-height: 120%;
+    /* indent all but first line */
+    /* margin-left: 5pt;
+    text-indent: -5pt */
+}
+.note:after {
+    /* this will prevent the superscript numeral from pushing the line down */
+    line-height: 0;
+}
+.note::footnote-call {
+    display: inline-block;
+    text-indent: 0;
+}
+.note::footnote-marker {
+    font-weight: bold;
+    list-style-position: outside;
+}
+
+.translation-note {
+    font-size: 80%;
+    font-style: italic;
+}
+
+article span.color {
+    color: var(--color-tower-dark);
+}
+
+article figure figcaption {
+    /* block eliminates remaining space between image and label*/
+    display: block; 
+    font-size: 9pt;
+    line-height: 120%;
+    text-indent: 0;
+    text-align: right !important;
+    margin-top: 0;
+    margin-bottom: 0 !important;
+    padding-top: 1pt;
+    z-index: 2;
+}
+
+.centered-preface {
+    column-span: all;
+    font-style: italic;
+    text-align: center !important;
+    text-align-last: center !important;
+    text-indent: 0 !important;
+    max-width: 60%;
+    margin: 0 auto;
+    padding-bottom: 1.5em;
+}
+
+p.editors-preface {
+    font-style: italic;
+    margin-left: 6pt;
+    margin-right: 6pt;
+    margin-bottom: 12pt;
+}
+
+p.editors-preface i {
+    color: var(--color-bark-dark);
+    font-style: normal;
+}
+/* https://unicode-search.net/unicode-namesearch.pl?term=CIRCLE */
+/* https://jrgraphix.net/r/Unicode/25A0-25FF */
+p.editors-preface::after, .divider::after {
+    margin-top: 10pt;
+    font-style: normal;
+    content: "✦";
+    font-size: 70%;
+    /* problems with layout without padding. very weird. */
+    padding-top: 1.2mm;
+    padding-bottom: 1.8mm;
+    height: 0.25mm;
+    line-height: 0.65mm;
+    color: var(--color-bark-dark);
+    text-align: center;
+    text-align-last: center;
+    display: block;
+    width: 100%;
+    /* box-shadow: inset ... will produce glitches (border stripes) in pdf output */
+    background-clip: content-box;
+    background-image: linear-gradient(to right,
+    transparent 3%,
+    var(--color-bark-dark),
+    transparent 50%,
+    var(--color-bark-dark),
+    transparent 97%);
+}
+
+.divider {
+    margin-bottom: 12pt;
+}
+
+/* normally, this css would work, but articles are split between pages, so to select the last element, we need some javascript */
+/* article > p:last-child::after */
+.last-article-element::after {
+    /* https://en.wikipedia.org/wiki/Fleuron_(typography) */
+    /* https://www.htmlsymbols.xyz/unicode/U+1F662 */
+    content: " \1F662";
+    /* content: ' 🙢'; 	 */
+    font-weight: normal !important;
+    font-style: normal !important;
+    color: var(--color-bark-dark);
+}
+
+article ol {
+    padding-left: 4mm;
+}
+article ul {
+    list-style: none;
+    padding-left: 6pt;
+}
+article ul li + li, article ol li + li {
+    margin-top: 4pt;
+}
+article ul li::before {
+    content: "• ";
+    color: var(--color-bark-light);
+}
+.divider.page {
+    display: block;
+    column-span: all;
+    width: 40%;
+    margin-top: 17pt;
+    margin-bottom: 25pt;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.signoff {
+    text-indent: 0pt !important;
+    font-style: italic;
+}
+.signoff-lvl-1, .signoff-lvl-2, .signoff-lvl-3, .signoff small {
+    display: inline-block;
+}
+.signoff-lvl-1 {
+    padding-left: 16pt;
+}
+.signoff-lvl-2 {
+    padding-left: 32pt;
+}
+.signoff-lvl-3 {
+    padding-left: 48pt;
+}
+.signoff small {
+    padding-top: 2pt;
+    font-size: 80%;
+}
+
+
+.positioned-text-box {
+    position: absolute;
+    /* box-shadow: inset 0 0 4px 2px rgba(255, 0, 0, 0.199); */
+    /* positioned in element style */
+}
+
+.full-page-background-img-bleed {
+    position: absolute;
+    /* for some unknown reason, if I position this with >top<, in the pdf output, a top-margin remains */
+    bottom: calc((var(--pagedjs-margin-bottom) + var(--bleed)) * -1);
+    left: calc((var(--pagedjs-margin-left) + var(--bleed)) * -1);
+    width: calc(var(--pagedjs-pagebox-width) + (var(--bleed)) * 2);
+    z-index: -1;
+}
+.full-page-background-img-bleed figure {
+    float: none;
+    margin: 0mm !important;
+}
+
+
+
+/* ////////////////////////////////////////////////// */
+/* ////////////////////////////////////////////////// */
+/* /////////////  CASE-BASED STYLING  /////////////// */
+/* ////////////////////////////////////////////////// */
+/* ////////////////////////////////////////////////// */
+
+/* merge with succeeding poem/article */
+.article-bac-thay-djich-thuc,
+.article-nhung-thien-than-mua-he,
+.article-a-true-teacher,
+.article-the-taste-of-the-insight,
+.article-the-angels-of-summer,
+.article-thay-is-still-thay
+{
+    break-after: unset !important;
+}
+
+h1#an-old-home-in-a-new-land,
+h1#the-leaf {
+    padding-top: 10mm;
+}
+h1#an-old-home-in-a-new-land + .author {
+    margin-bottom: 4mm !important;
+}
+
+.article-nhung-choi-non-chao-nang-mai-1 h1,
+.article-young-buds-glistening-in-the-sunshine h1
+{
+    margin-bottom: 11pt;
+}
+.article-nhung-choi-non-chao-nang-mai-1 .intro,
+.article-nhung-choi-non-chao-nang-mai-2 .intro,
+.article-nhung-choi-non-chao-nang-mai-3 .intro,
+.article-young-buds-about-elders .intro,
+.article-young-buds-mindful-manners .intro,
+.article-young-buds-glistening-in-the-sunshine .intro
+{
+    column-span: all;
+    width: 50%;
+    margin-left: 25%;
+    margin-bottom: 20pt;
+    text-align: center;
+    font-style: italic;
+}
+
+.article-nhung-choi-non-chao-nang-mai-1 h3,
+.article-nhung-choi-non-chao-nang-mai-2 h3,
+.article-nhung-choi-non-chao-nang-mai-3 h3,
+.article-young-buds-about-elders h3,
+.article-young-buds-mindful-manners h3,
+.article-young-buds-glistening-in-the-sunshine h3
+{
+    column-span: all;
+    font-style: normal !important;
+    line-height: 125%;
+    /* width: 55%; */
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 4mm;
+    margin-bottom: 6mm;
+}
+.article-young-buds-about-elders h3,
+.article-young-buds-mindful-manners h3,
+.article-young-buds-glistening-in-the-sunshine h3
+{
+    font-size: 21pt !important;
+}
+.article-nhung-choi-non-chao-nang-mai-1 h3,
+.article-nhung-choi-non-chao-nang-mai-2 h3,
+.article-nhung-choi-non-chao-nang-mai-3 h3 {
+    font-size: 18pt !important;
+}
+
+
+
+.article-nhung-choi-non-chao-nang-mai-1 blockquote,
+.article-nhung-choi-non-chao-nang-mai-2 blockquote,
+.article-nhung-choi-non-chao-nang-mai-3 blockquote,
+.article-young-buds-about-elders blockquote,
+.article-young-buds-mindful-manners blockquote,
+.article-young-buds-glistening-in-the-sunshine blockquote
+{
+    margin-top: 0;
+    margin-bottom: 15pt;
+    padding-left: 0;
+}
+.article-nhung-choi-non-chao-nang-mai-1 blockquote p,
+.article-nhung-choi-non-chao-nang-mai-2 blockquote p,
+.article-nhung-choi-non-chao-nang-mai-3 blockquote p,
+.article-young-buds-about-elders blockquote p,
+.article-young-buds-mindful-manners blockquote p,
+.article-young-buds-glistening-in-the-sunshine blockquote p
+{
+    break-inside: avoid;
+    font-style: normal;
+}
+
+#calligraphy2023article-titlesbr-ruong-phap-my-face-before-my-mother-was-born,
+#calligraphy2023article-titlesbr-ruong-phap-my-face-before-my-mother-was-born img
+{
+    max-height: 46mm !important;
+}
+
+#calligraphy2023article-titlesyoung-buds-positive-habit,
+#calligraphy2023article-titlesyoung-buds-positive-habit img,
+#calligraphy2023article-titlessr-van-nghiem-con-co-tuoi-tre-con-co-niem-vui-song,
+#calligraphy2023article-titlessr-van-nghiem-con-co-tuoi-tre-con-co-niem-vui-song img {
+    max-height: 42mm !important;
+}
+
+#calligraphy2023article-titlessr-the-nghiem-a-true-teacher,
+#calligraphy2023article-titlessr-the-nghiem-a-true-teacher img {
+    max-height: 26mm !important;
+}
+
+#calligraphy2023article-titlessr-mai-phuong-thu-gop-sao-trang,
+#calligraphy2023article-titlessr-mai-phuong-thu-gop-sao-trang img,
+#calligraphy2023article-titlessr-the-nghiem-bac-thay-dich-thuc,
+#calligraphy2023article-titlessr-the-nghiem-bac-thay-dich-thuc img {
+    max-height: 28mm !important;
+}
+
+#calligraphy2023article-titleslang-mai-nam-qua,
+#calligraphy2023article-titleslang-mai-nam-qua img {
+    max-height: 29mm !important;
+}
+
+#calligraphy2023article-titlessr-dang-nghiem-tiep-noi-thay,
+#calligraphy2023article-titlessr-dang-nghiem-tiep-noi-thay img {
+    max-height: 39mm !important;
+}
+
+h1#reflections-on-engaged-and-applied-buddhism {
+    font-size: 26.7pt;
+}
+
+h1#young-buds-glistening-in-the-sunshine.calligraphyTitle,
+h1#nhung-choi-non-chao-nang-mai-1.calligraphyTitle,
+h1#nhung-choi-non-chao-nang-mai-2.calligraphyTitle,
+h1#nhung-choi-non-chao-nang-mai-3.calligraphyTitle
+{
+    margin-bottom: -4mm !important;
+}
+
+h1#tiep-noi-thay.calligraphyTitle {
+    margin-bottom: -11mm !important;
+}
+h1#tiep-noi-thay.calligraphyTitle + h2.author{
+    padding-left: 10mm;
+}
+
+h1#an-old-home-in-a-new-land {
+    margin-top: 3mm !important;
+    margin-bottom: -4mm !important;
+}
+
+/* hide but retain link (id) */
+.article-mountain-dream > h2,
+.article-hai-mien-trang-sang > h1,
+.article-hai-mien-trang-sang > h2,
+.article-len-djoi > h1,
+.article-len-djoi > h2,
+.article-nhung-choi-non-chao-nang-mai-2 > h1,
+.article-nhung-choi-non-chao-nang-mai-3 > h1,
+.article-young-buds-about-elders > h1,
+.article-young-buds-mindful-manners > h1,
+.article-nguoi-tu-do > h1,
+.article-nguoi-tu-do > h2,
+h1#this-path,
+h1#this-path + h2
+{
+    /* linking does not work if I set display: none; */
+    position: absolute;
+    content: "";
+    opacity: 0;
+}
+
+.article-being-rainbow {
+    columns: 1;
+}
+.article-being-rainbow .verse p {
+    text-align: center;
+    font-size: 12pt;
+    line-height: 130%;
+}
+
+/* break 2 line heading well */
+h1#opening-the-door-to-a-life-of-peace-and-purpose {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.article-djao-but-dan-than-va-djao-but-ung-dung h3 {
+    font-size: 11pt !important;
+    font-style: italic;
+    margin-bottom: 0.4em;
+    /* color: var(--color-bark-dark); */
+}
+.article-djao-but-dan-than-va-djao-but-ung-dung h3:first-of-type {
+    margin-top: 0;
+}
+
+#calligraphy2023article-titlesdivider-2,
+#calligraphy2023article-titlesdivider-1
+{
+    width: 35%;
+    margin-top: 8mm !important;
+    column-span: all;
+    float: none;
+    margin: 0 auto;
+}
+
+#calligraphy2023article-titlesdivider-3
+{
+    width: 35%;
+    /* there is a BUG in the pdf output which adds space before the figure equivalent to 8mm. so here I remove it. */
+    margin-top: 0mm !important;
+    column-span: all;
+    float: none;
+    margin: 0 auto;
+}
+
+.article-len-djoi .verse b {
+    font-weight: bold;
+    font-size: 15pt;
+    padding-left: 23mm;
+}
+.article-len-djoi .verse {
+    column-span: all;
+    font-size: 14pt;
+    line-height: 130%;
+    width: 68%;
+    padding-left: 27mm;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 27mm;
+    text-shadow: 0.3pt 0.4pt 0px white;
+}
+.article-len-djoi .verse cite {
+    padding-top: 3mm;
+    line-height: 120%;
+}
+
+.article-hai-mien-trang-sang .verse b {
+    font-weight: bold;
+    font-size: 13pt;
+    padding-left: 10mm;
+}
+.article-hai-mien-trang-sang .verse {
+    column-span: all;
+    font-size: 13pt;
+    line-height: 130%;
+    width: 68%;
+    padding-left: 27mm;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 14mm;
+    text-shadow: 0.3pt 0.4pt 0px white;
+}
+.article-hai-mien-trang-sang .verse cite {
+    padding-top: 3mm;
+    line-height: 120%;
+}
+
+
+figure#calligraphy2023article-titlessr-linh-di-mountain-dream {
+    padding-top: 6mm;
+}
+
+.article-mountain-dream .verse {
+    column-span: all;
+    font-size: 13pt;
+    line-height: 130%;
+    width: 68%;
+    padding-left: 27mm;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15mm;
+    margin-bottom: 13mm
+}
+.article-mountain-dream .verse cite {
+    padding-top: 3mm;
+    font-style: normal;
+    line-height: 120%;
+    font-variant: small-caps;
+}
+figure#article2023sr-linh-dimountain-dreamedit {
+    column-span: all;
+    float: none;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+html:lang(en) #article2023sr-dao-nghiemIMG8654e,
+figure#article2023sr-tung-hac-doneIMG4941,
+figure#article2023sr-dinh-nghiem-thay-van-luon-la-thay1e
+{
+    width: 90%;
+    padding-right: 5%;
+}
+
+
+/* centered images */
+figure#article2023br-phap-xaDSC1063e,
+figure#article2023sr-giac-anIMG-0686e,
+html:lang(vi) figure#article2023br-thien-chi-done01img7603ZASPShootingThaysHut11OCT2022,
+figure#article2023drawings-sr-tung-hacIMG230720222106121658585383831e,
+figure#article2023kim-nhat-nguyenHonor-Land-AncestorsLH-sistersfriends2022-10-31,
+figure#article2023sr-lac-hanhLe-xuat-gia-cay-Xich-Tung-16e,
+figure#article2023sr-lac-hanh7e,
+figure#article2023Ha-Vinh-ThoHa-Vinh-Tho-and-PV-monastic-in-Bhutan-2012e,
+figure#article2023sr-mai-thonVncon-da-biet-duong-veedit,
+figure#article2023sr-chan-duc-interview-doneIMG9782e,
+figure#article2023sr-van-nghiem-doneIMG1786,
+figure#article2023sr-tung-hac-doneIMG4631e,
+figure#article2023sr-chua-xua-done20230110110050e,
+figure#article2023sr-tung-hac-doneta-co-la-ta-ta-moi-depedit,
+figure#article2023Lang-mai-nam-quatruyen-dang-an-cu-2022122LampTransmission2022img8217e,
+figure#article2023sr-nhat-nghiem-doneSrNhat-Nghieme,
+figure#article2023sr-thao-nghiemNgoi-giua-gio-xuan2e,
+html:lang(vi) figure#article2023John-P-HussmanLeaf-Richie,
+#poem-hoi-n-tam,
+figure#article2023sr-tuyet-nghiem-doneimage2,
+html:lang(en) figure#article2023lilian-cheungThay-and-Jon-Kabat-Zinn-2013
+{
+    column-span: all;
+    margin-left: auto;
+    margin-right: auto;
+    float: none;
+}
+
+#poem-hoi-n-tam {
+    padding-left: 35%;
+}
+
+figure#article2023kim-nhat-nguyenHonor-Land-AncestorsLH-sistersfriends2022-10-31
+{
+    margin-top: 4mm;
+    width: 100%;
+}
+
+html:lang(vi) figure#article2023sr-chan-duc-interview-doneIMG9782e
+{
+    margin-top: 4mm;
+    width: 75%;
+}
+
+figure#article2023sr-lac-hanhLe-xuat-gia-cay-Xich-Tung-16e,
+figure#article2023sr-lac-hanh7e,
+figure#article2023Ha-Vinh-ThoHa-Vinh-Tho-and-PV-monastic-in-Bhutan-2012e
+{
+    margin-top: 10mm;
+    width: 100%;
+}
+
+html:lang(vi) figure#article2023br-thien-chi-done01img7603ZASPShootingThaysHut11OCT2022,
+html:lang(en) figure#article2023lilian-cheungThay-and-Jon-Kabat-Zinn-2013
+{
+    margin-top: 10mm;
+    width: 100%;
+}
+
+figure#article2023sr-tuyet-nghiem-doneimage2 {
+    margin-top: 4mm;
+    width: 80%;
+}
+
+html:lang(en) figure#article2023sr-chan-duc-interview-doneIMG9782e
+{
+    margin-top: 6mm;
+    width: 100%;
+}
+
+figure#article2023sr-mai-thonVncon-da-biet-duong-veedit {
+    margin-top: 18mm;
+    width: 85%;
+}
+
+figure#article2023Lang-mai-nam-quatruyen-dang-an-cu-2022122LampTransmission2022img8217e
+{
+    margin-top: 4mm;
+    width: 100%;
+}
+
+figure#article2023br-phap-xaDSC1063e
+{
+    margin-top: 6mm;
+    margin-bottom: 0mm;
+    width: 88%;
+}
+
+figure#article2023sr-chua-xua-done20230110110050e
+{
+    margin-top: 4mm;
+    margin-bottom: 0mm;
+    width: 84%;
+}
+
+html:lang(vi) figure#article2023John-P-HussmanLeaf-Richie
+{
+    margin-top: 7mm;
+    margin-bottom: 0mm;
+    width: 80%;
+}
+
+html:lang(en) figure#article2023sr-thao-nghiemNgoi-giua-gio-xuan2e
+{
+    margin-top: 4mm;
+    margin-bottom: 0mm;
+    width: 60%;
+}
+
+figure#article2023drawings-sr-tung-hacIMG230720222106121658585383831e
+{
+    margin-top: 5mm;
+    margin-bottom: 0mm;
+    width: 80%;
+}
+
+figure#article2023sr-giac-anIMG-0686e,
+html:lang(vi) figure#article2023sr-thao-nghiemNgoi-giua-gio-xuan2e
+{
+    margin-top: 8mm;
+    margin-bottom: 0mm;
+    width: 70%;
+}
+
+figure#article2023sr-tung-hac-doneta-co-la-ta-ta-moi-depedit
+{
+    margin-top: 4mm;
+    width: 55%;
+}
+
+figure#article2023sr-nhat-nghiem-doneSrNhat-Nghieme
+{
+    margin-top: 4mm;
+    margin-bottom: 0mm;
+    width: 82%;
+}
+
+figure#article2023sr-tung-hac-doneIMG4631e
+{
+    width: 83%;
+}
+
+figure#article2023sr-tung-hac-doneIMG4631 + p {
+    margin-top: 0 !important;
+}
+
+.article-djieu-con-thich-nhat .author {
+    margin-bottom: 4mm;
+}
+
+figure#article2023sr-van-nghiem-doneIMG1786
+{
+    width: 70%;
+}
+
+
+
+.article-loc-uyen-mua-an h2.author {
+    margin-bottom: 4mm;
+}
+
+
+figure#article2023sr-tuyet-nghiem-doneimage-3,
+figure#article2023sr-chua-xua-donenature-deerpark-4 {
+    column-span: all;
+    float: none;
+    margin-bottom: 17pt !important;
+}
+figure#article2023sr-tuyet-nghiem-doneimage-3 + p,
+figure#article2023sr-chua-xua-donenature-deerpark-4 + p {
+    margin-top: 0 !important;
+    text-indent: 0 !important;
+}
+
+
+figure#article2023lilian-cheungimage6 {
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+#5-thay-s-ashes-3-adjusted-jpg,
+#7-peace-acnd-jpg,
+#13-wake-up-and-summer-e-jpg,
+#17-scck-honor-e-jpg,
+#18-thay-s-memorial-1-jpg
+{
+    columns: 2;
+    column-gap: 20pt;
+}
+
+#7-peace-acnd-jpg h1 {
+    padding-bottom: 0.5em;
+}
+
+/* crop with css */
+figure#article2023sr-tuyet-nghiem-doneimage-3 {
+    overflow: hidden;
+}
+figure#article2023sr-tuyet-nghiem-doneimage-3 img {
+    object-fit: cover;
+    height: 90mm;
+}
+
+.article-review-of-the-year h1:not(#review-of-the-year),
+.article-lang-mai-nam-qua h1:not(#lang-mai-nam-qua)
+{
+    margin-top: 0mm !important;
+}
+
+.article-review-of-the-year > blockquote,
+.article-lang-mai-nam-qua > blockquote {
+    page-break-inside: avoid;
+    text-indent: 0pt !important;
+    margin-top: 11pt;
+    margin-bottom: 14pt;
+	padding-left: 0pt;
+    font-style: normal;
+}
+.article-review-of-the-year > blockquote > p > strong,
+.article-lang-mai-nam-qua > blockquote > p > strong {
+    padding-top: 1pt;
+}
+.article-review-of-the-year > blockquote p,
+.article-lang-mai-nam-qua > blockquote p {
+    text-align: left !important;
+}
+.article-review-of-the-year > blockquote > p > em,
+.article-lang-mai-nam-qua > blockquote > p > em {
+    display: block;
+    padding-top: 2pt;
+    padding-left: 12pt;
+}
+.article-review-of-the-year > blockquote > blockquote,
+.article-lang-mai-nam-qua > blockquote > blockquote {
+    text-indent: 0pt !important;
+    margin-top: 4pt;
+    margin-bottom: 20pt;
+	padding-left: 7pt;
+    font-style: normal;
+}
+
+/* .PAGE-OF-article-review-of-the-year:not(.PAGE-OF-Lang-Mai-Nam-Qua-Letter-Final-No-Text7-Peace-ACND) .pagedjs_margin-bottom */
+
+
+.PAGE-OF-article-lang-mai-nam-qua:not(.PAGE-OF-Lang-Mai-Nam-Qua-Letter-Final-No-Text7-Peace-ACND):not(.PAGE-OF-Lang-Mai-Nam-Qua-Letter-Final-No-Text8-Monastics-On-Tour-1):not(.PAGE-OF-Lang-Mai-Nam-Qua-Letter-Final-No-Text11-40-Years-PV-2):not(.PAGE-OF-Lang-Mai-Nam-Qua-Letter-Final-No-Text14-Rains-Retreat-2022):not(.PAGE-OF-Lang-Mai-Nam-Qua-Letter-Final-No-Text15-Novice-Ordinationn2):not(.PAGE-OF-Lang-Mai-Nam-Qua-Letter-Final-No-Text16-Lampsn2):not(.PAGE-OF-Lang-Mai-Nam-Qua-Letter-Final-No-Text18-Thays-Memorial-1):not(.PAGE-OF-Lang-Mai-Nam-Qua-A4-Final-No-Text7-Peace-ACND):not(.PAGE-OF-Lang-Mai-Nam-Qua-A4-Final-No-Text8-Monastics-On-Tour-1):not(.PAGE-OF-Lang-Mai-Nam-Qua-A4-Final-No-Text11-40-Years-PV-2):not(.PAGE-OF-Lang-Mai-Nam-Qua-A4-Final-No-Text14-Rains-Retreat-2022):not(.PAGE-OF-Lang-Mai-Nam-Qua-A4-Final-No-Text15-Novice-Ordinationn2):not(.PAGE-OF-Lang-Mai-Nam-Qua-A4-Final-No-Text16-Lampsn2):not(.PAGE-OF-article2023Lang-mai-nam-quatruyen-dang-an-cu-2022122LampTransmission2022img8217e):not(.PAGE-OF-pageMarkerForGathas):not(.PAGE-OF-pageMarkerForGathasPage2):not(.PAGE-OF-Lang-Mai-Nam-Qua-A4-Final-No-Text18-Thays-Memorial-1) .pagedjs_margin-bottom,
+.PAGE-OF-article-review-of-the-year:not(.PAGE-OF-Lang-Mai-Nam-Qua-Letter-Final-No-Text7-Peace-ACND):not(.PAGE-OF-Lang-Mai-Nam-Qua-Letter-Final-No-Text8-Monastics-On-Tour-1):not(.PAGE-OF-Lang-Mai-Nam-Qua-Letter-Final-No-Text11-40-Years-PV-2):not(.PAGE-OF-Lang-Mai-Nam-Qua-Letter-Final-No-Text14-Rains-Retreat-2022):not(.PAGE-OF-Lang-Mai-Nam-Qua-Letter-Final-No-Text15-Novice-Ordinationn2):not(.PAGE-OF-Lang-Mai-Nam-Qua-Letter-Final-No-Text16-Lampsn2):not(.PAGE-OF-Lang-Mai-Nam-Qua-Letter-Final-No-Text18-Thays-Memorial-1):not(.PAGE-OF-Lang-Mai-Nam-Qua-A4-Final-No-Text7-Peace-ACND):not(.PAGE-OF-Lang-Mai-Nam-Qua-A4-Final-No-Text8-Monastics-On-Tour-1):not(.PAGE-OF-Lang-Mai-Nam-Qua-A4-Final-No-Text11-40-Years-PV-2):not(.PAGE-OF-Lang-Mai-Nam-Qua-A4-Final-No-Text14-Rains-Retreat-2022):not(.PAGE-OF-Lang-Mai-Nam-Qua-A4-Final-No-Text15-Novice-Ordinationn2):not(.PAGE-OF-Lang-Mai-Nam-Qua-A4-Final-No-Text16-Lampsn2):not(.PAGE-OF-article2023Lang-mai-nam-quatruyen-dang-an-cu-2022122LampTransmission2022img8217e):not(.PAGE-OF-pageMarkerForGathas):not(.PAGE-OF-pageMarkerForGathasPage2):not(.PAGE-OF-Lang-Mai-Nam-Qua-A4-Final-No-Text18-Thays-Memorial-1) .pagedjs_margin-bottom
+{
+    display: none;
+}
+
+figure#article2023sr-lac-hanh7e::after,
+.full-page-background-img-bleed.last-article-element::after {
+    content: none !important;
+}
+
+figure#article2023sr-tam-duc-doneDSC5503e,
+figure#article2023sr-tam-duc-doneMG6079-edited2 {
+    padding-right: 8%;
+    padding-left: 8%;
+}
+
+.article-guong-mat-con-truoc-khi-me-sinh-ra figure,
+html:lang(en) figure#article2023sr-the-nghiem-done1,
+figure#article2023understanding-and-love-programvertical11-e,
+figure#article2023understanding-and-love-programChapTaye1x1
+{
+    padding-right: 5%;
+    padding-left: 5%;
+}
+
+
+
+.article-lich-sinh-hoat-nam-2023 a
+{
+    color: var(--color-tower-dark) !important;
+}
+.article-lich-sinh-hoat-nam-2023 > p,
+.article-lich-sinh-hoat-nam-2023 blockquote p {
+    text-indent: 0 !important;
+    text-align: left !important;
+    padding-left: 4pt;
+}
+.article-lich-sinh-hoat-nam-2023 .author {
+    margin-bottom: 4mm;
+}
+.article-lich-sinh-hoat-nam-2023 blockquote h3 {
+    text-indent: 5pt;
+}
+.article-lich-sinh-hoat-nam-2023 ul {
+    margin-top: 0pt;
+    margin-bottom: 3pt;
+    padding-left: 2pt;
+}
+.article-lich-sinh-hoat-nam-2023 ul li {
+    margin-top: 0pt;
+}
+
+.article-nguoi-tu-do .verse b {
+    font-weight: bold;
+    font-size: 15pt;
+    padding-left: 3mm;
+}
+.article-nguoi-tu-do .verse {
+    column-span: all;
+    font-size: 14pt;
+    line-height: 130%;
+    width: 68%;
+    padding-left: 43mm;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 71mm;
+    text-shadow: 0.3pt 0.4pt 0px white;
+}
+.article-nguoi-tu-do .verse cite {
+    padding-top: 3mm;
+    line-height: 120%;
+}
+
+.PAGE-OF-article-nguoi-tu-do .pagedjs_margin-bottom
+{
+    display: none;
+}
+
+.PAGE-OF-Lang-Mai-Nam-Qua-A4-Final-No-Text1-Monastic-Retreat3 h1 {
+    font-size: 29pt;
+}
+
+/* .PAGE-OF-Lang-Mai-Nam-Qua-A4-Final-No-Text15-Novice-Ordinationn2 .positioned-text-box,  */
+html:lang(en) .PAGE-OF-Lang-Mai-Nam-Qua-A4-Final-No-Text8-Monastics-On-Tour-1 .positioned-text-box,
+html:lang(en) .PAGE-OF-Lang-Mai-Nam-Qua-A4-Final-No-Text9-Monastics-On-Tour-2 .positioned-text-box  {
+    padding: 5mm;
+}
+
+.PAGE-OF-article2023br-duc-dinhDSC2151e .verse {
+    padding-top: 23mm !important;
+}
+
+.PAGE-OF-Lang-Mai-Nam-Qua-A4-Final-No-Text17-SCCK-Honore p {
+    text-align: left !important;
+}
+
+html:lang(vi) .PAGE-OF-Lang-Mai-Nam-Qua-A4-Final-No-Text9-Monastics-On-Tour-2 p {
+    margin-top: 3pt !important;
+}
+
+.article-this-path {
+    padding-top: 10mm;
+}
+.article-this-path .verse {
+    padding-left: 18mm;
+}
+.article-this-path .verse p + p {
+    margin-top: 7pt !important;
+}
+.article-this-path .verse cite {
+    padding-top: 3mm;
+    font-style: normal;
+    line-height: 120%;
+    font-variant: small-caps;
+}
+
+.article-theres-a-song-in-my-heart .verse {
+    padding-left: 15mm;
+    padding-top: 7mm;
+}
+
+.article-little-bird-take-gentle-steps .verse p,
+.article-theres-a-song-in-my-heart .verse p {
+    font-size: 12pt;
+    line-height: 125%;
+}
+
+h1#review-of-the-year {
+    font-size: 32pt;
+    margin-top: 12pt;
+}
+
+.PAGE-OF-Lang-Mai-Nam-Qua-A4-Final-No-Text1-Monastic-Retreat3 .positioned-text-box h1,
+.PAGE-OF-Lang-Mai-Nam-Qua-Letter-Final-No-Text1-Monastic-Retreat3 .positioned-text-box h1
+{
+    font-size: 24pt;
+}

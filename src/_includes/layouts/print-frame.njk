@@ -19,8 +19,13 @@
 
     {% include "../partials/page-setup.njk" %}
     {# v0.4 breaks the 2022 edition #}
-    {# <script src="/pagedjs/paged.polyfill_v0.4.js"></script> #}
-    <script src="/pagedjs/paged.polyfill_{{ "v0.2" if year == "2022" else "v0.4" }}.js"></script>
+    {%- if year == "2022" %}
+        <script src="/pagedjs/paged.polyfill_v0.2.js"></script>
+    {% elif year == "2023" %}
+        <script src="/pagedjs/paged.polyfill_v0.4.js"></script>
+    {% else %}
+        <script src="/pagedjs/paged.polyfill_v0.4.3.js"></script>
+    {%- endif %}
     {# paged.js preview in browser #}
     <link rel="stylesheet" href="/pagedjs/interface_v0.4.css">
     <script src="/js/hooks-to-pagedjs.js"></script>
