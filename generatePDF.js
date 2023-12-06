@@ -102,6 +102,8 @@ Adding any of these severely reduces output size (quality loss)
 
 // my version is 1.7
 -dCompatibilityLevel=1.5
+-dFirstPage=29 \
+-dLastPage=29 \
 */
 
 let command = `gs \
@@ -110,8 +112,6 @@ let command = `gs \
 -dNOPAUSE \
 -dQUIET \
 -q \
--dFirstPage=29 \
--dLastPage=29 \
 -dPDFSETTINGS=/${Q} \
 -dFastWebView \
 -dAutoRotatePages=/None \
@@ -151,7 +151,7 @@ async function generatePDF(url, outputFile, onFinished = () => {}, customPdfOpti
     
     const browser = await puppeteer.launch({
         args: args,
-        // executablePath: "/usr/bin/google-chrome-stable"
+        executablePath: "/usr/bin/google-chrome-stable"
         // executablePath: "/usr/bin/chromium-browser"
     })
 
@@ -216,6 +216,10 @@ let workInProgress = 0
 // all jobs are assumed to continueWork() by themselves after being finished
 // we first generate all raw PDFs. onFinished() adds the downsample jobs to this queue and then proceeds execution with more threads (because the downsample is not as memory-hungry)
 let workQueue = [
+
+    () => generatePDF("http://localhost:8080/2024/en/a4/", `./docs/2024/en-a4`, onFinshed),
+    () => generatePDF("http://localhost:8080/2024/en/a4-bleed/", `./docs/2024/en-a4-bleed`, onFinshed),
+    
     
     // () => generatePDF("http://localhost:8080/2023/en/a4/", `./docs/2023/en-a4`, onFinshed),
     // () => generatePDF("http://localhost:8080/2023/en/a4-bleed/", `./docs/2023/en-a4-bleed`, onFinshed),
@@ -242,7 +246,7 @@ let workQueue = [
     
     // () => onFinshed("./docs/2023/vi-a4-bleed_2023-02-14_13-42-06.pdf", "./docs/2023/vi-a4-bleed.pdf"),
     // () => onFinshed("./docs/2023/en-a4_2023-02-14_17-21-23.pdf", "./docs/en-a4.pdf"),
-    () => onFinshed("./docs/2023/en-a4-bleed_2023-02-14_13-42-06.pdf", "./docs/en-a4-bleed.pdf"),
+    // () => onFinshed("./docs/2023/en-a4-bleed_2023-02-14_13-42-06.pdf", "./docs/en-a4-bleed.pdf"),
     // () => onFinshed("./builds/marisela-gomez--arise-sangha_2023-02-14_08-51-19.pdf", "./builds/marisela-OUTPUT.pdf"),
 
     () => {

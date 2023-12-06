@@ -3,10 +3,6 @@ title: Let Us Share the Vision
 author: A Dharma Talk by Thay
 ---
 
-<!--
-Kinh Pháp Cú-Hoa Hương Phẩm [bài 01] -TS Thích Nhất Hạnh (13-02-2011, Xóm Mới, Làng Mai)
-https://www.youtube.com/watch?v=EJPGvHWFu9o -->
-
 Dear Sangha,
 
 Today is the 13th of February 2011, and we are in the Loving Kindness Temple (New Hamlet) Plum Village, in our Winter Rains Retreat.
@@ -43,7 +39,7 @@ yet oh so fragile.<br/>
 
 Going out into space and looking back, they saw how beautiful our Planet Earth is. In this solar system or the universe, we had never seen anything as beautiful and ephemeral like that. When the astronauts landed on the moon and walked on it, they saw the moon was very different, there was no life. At night on the moon they could see their way thanks to the light of the sun reflected from the Earth. Standing on the Earth we see the moon rise, and on the moon they saw the Earth rise. The Earth rises very beautifully - not golden, but shades of blue and white. Those images were sent back to us humans on Earth.
 
-{% image "article2023/su-ong--dharma-talk/AS08-14-2383_clipped.jpg", "", 'Earthrise, 1968, William Anders<a class="note" href="https://www.nasa.gov/image-feature/apollo-8-earthrise">https://www.nasa.gov/image-feature/apollo-8-earthrise.</a>' %}
+{% image "article2024/br-dinh-thanh//Transforming Resentment - Br Dinh Thanh.jpg" %}
 
 The members of the Apollo 11 expedition were deeply moved when they saw the image of Earth. They described the space on the moon as bitterly cold and inhospitable. On Earth they had never seen darkness like the darkness of outer space. There may also be pitch dark nights on Earth, but that darkness is alive, there is warmth, sounds and fragrance. But the darkness on the moon is terribly cold and black. Although there was the reflected gleam of the sun, they could see nothing. The universe up there is empty. Light has to encounter something for us to be able to see it. When light travels in empty space we do not see it. The color blue that we see when we look up at the sky is not there in outer space. It is thanks to the layers of atmosphere that when the sunlight shines on them, we see the blue sky. Once you have left the Earth’s atmosphere, the blue is no longer there. There is just pitch black, a freezing pitch black.
 
@@ -64,7 +60,5 @@ The astronauts also had families and knew the dangers awaiting them. When someon
 Those astronauts are our eyes that we sent into space to see for us. When our eyes reported back, did we listen, did we see anything? We have to educate our children so they can see the preciousness of life and the Planet Earth, see the preciousness of being born, growing up, walking and breathing on this planet. That is awakening. Once you see this, it is happiness to take a step and happiness to speak a word. When we come in touch with Mother Earth, each of our steps is filled with love, each word we speak is filled with love. That insight changes us completely.
 
 The Buddha was also our eyes. He did not need to travel into space, he just needed to sit under a Bodhi tree. But with the eyes of his mind he saw very deeply and reported to us that there is a world of freedom, which is nirvana. And there is a way to that freedom, which is the Noble Eightfold Path. In the past many of his disciples praised him as the eyes of the world.
-
-{% image "article2023/su-ong--dharma-talk/June retreat_UH_09.06.22 _33_cut.jpg" %}
 
 The astronauts also followed that path. They volunteered to be the eyes, to see for us and transmit to us the insight. Have we seen it or not? How many bells have been sounded and how many images have been sent back? Yet we still live in slumber, we continue to inflict suffering on each other, and to destroy this one-of-a-kind work of art of the universe. As parents, teachers, elder brothers and sisters, you must have this insight and transmit it to your children and younger siblings. We have to wake up. If not it will be too late! Buddhism is called the *Path of Enlightenment*. Enlightenment means just this.
