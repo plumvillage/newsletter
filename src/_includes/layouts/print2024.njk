@@ -5,6 +5,10 @@
     {% image ["LTLM47-2024 cover ", locale ," ", size_label ," bleed.jpg"] | join %}
 </div>
 
+<div class="full-page-image bleed">
+    {% image ["LTLM Inner Covers ", size_label ," Left bleed.jpg"] | join %}
+</div>
+
 {% set onlyIncludeArticlesListedInTheOrder = false %}
 
 <div id="table-of-contents">
@@ -76,6 +80,10 @@
 
     {%- endif -%}
 {%- endfor -%}
+
+<div class="full-page-image bleed">
+    {% image ["LTLM Inner Covers ", size_label ," Right bleed.jpg"] | join %}
+</div>
 
 <div class="full-page-image bleed">
     {% image ["LTLM47-2024 cover back ", locale ," ", size_label ," bleed.jpg"] | join %}
