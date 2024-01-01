@@ -3,7 +3,7 @@ title: A Spiritual Family Without Borders
 author: Brother Chân Trời Đức Hiền
 ---
 
-**The following are excerpts from a diary written during the six-week Latin America tour in the spring of 2023, with five other monastic brothers and sisters from Plum Village.**
+<p class="editors-preface">The following are excerpts from a diary written during the six-week Latin America tour in the spring of 2023, with five other monastic brothers and sisters from Plum Village.</p>
 
 ## Province of Santa Catarina, Brazil
 

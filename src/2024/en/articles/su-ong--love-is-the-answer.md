@@ -3,7 +3,7 @@ title: Love Is the Answer
 author: An Interview with Thay
 ---
 
-*This article is an excerpt and edited from a “lost” interview conducted by Jo Confino (working for the Guardian at the time) in 2012 with Thay in the Toadskin hut in Son Ha. You* *may listen to the entire interview on the Plum Village Podcast, ‘The Way Out is In’ Episode #47, aired March 21, 2023.* 
+<p class="editors-preface">This article is an excerpt and edited from a “lost” interview conducted by Jo Confino (working for the Guardian at the time) in 2012 with Thay in the Toadskin hut in Son Ha. You* *may listen to the entire interview on the Plum Village Podcast, ‘The Way Out is In’ Episode #47, aired March 21, 2023.</p>
 
 **Jo Confino (JC)**: I have been looking at issues like climate change and the fact that last year, there has been very bad weather, extreme weather, lots of other problems as a result of climate change and the destruction of the environment. And yet, it seems like not many want to act. What is your thought on this?
 

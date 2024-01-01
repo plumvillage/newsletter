@@ -3,9 +3,9 @@ title: Trở về nguồn cội
 author: Main Hương, Hồng Anh và Janny
 ---
 
-*Đây là bài chia sẻ của ba bạn trẻ Main Hương, Hồng Anh và Janny về khóa tu "Tìm về ngôi nhà đích thực" (2-9.6.2023) tại Làng Mai dành cho người trẻ Việt lớn lên ở nước ngoài. Ba bạn trẻ này đã từng cùng cha mẹ về Làng khi còn ở tuổi thiếu nhi.*
+<p class="editors-preface">Đây là bài chia sẻ của ba bạn trẻ Main Hương, Hồng Anh và Janny về khóa tu "Tìm về ngôi nhà đích thực" (2-9.6.2023) tại Làng Mai dành cho người trẻ Việt lớn lên ở nước ngoài. Ba bạn trẻ này đã từng cùng cha mẹ về Làng khi còn ở tuổi thiếu nhi.</p>
 
-**Một khóa tu thật khác biệt!**
+## Một khóa tu thật khác biệt!
 
 Khi đến Làng Mai tu tập, trong niềm vui gặp gỡ các bạn thiền sinh đến từ khắp nơi trên thế giới, chúng tôi thường mong muốn được kết nối với những người bạn có cùng cội nguồn văn hóa. Trong những khóa tu khác mà chúng tôi từng tham gia, rất nhiều người trong chúng tôi thường có cảm giác không gian ở đó giống hệt như môi trường mà chúng tôi đã sinh sống và lớn lên, chỉ là những nhóm thiểu số ở trường học hay công sở, nhìn quanh may ra tìm được vài ba người bạn có cùng nguồn gốc văn hóa.
 
@@ -19,7 +19,7 @@ Năng lượng tập thể và phẩm chất của sự thực tập cũng rất
 
 Đôi khi, chúng tôi không nhận ra mình đã mất đi điều gì cho đến khi nó hiện ra ngay trước mặt. Cảm giác được trở về nhà và kết nối với mọi người thật mầu nhiệm. Điều đó nhắc nhở chúng tôi rằng mình không đơn độc trên hành trình trị liệu và chuyển hóa, và chúng tôi có thể tìm được nguồn cảm hứng cũng như sức mạnh nơi những người hiểu mình sâu sắc.
 
-**Trở về tiếp nhận gia tài**
+## Trở về tiếp nhận gia tài
 
 Rất nhiều người trong chúng tôi là thế hệ con cháu của những người Việt Nam tị nạn vì chiến tranh. Gia đình chúng tôi đã cố gắng làm những gì tốt nhất có thể, trong khi họ vẫn phải đối mặt với những khó khăn, mất mát vì xa quê hương, đồng thời phải tìm cách hòa nhập với xã hội và văn hóa khác biệt ở một đất nước mới. Trong chúng tôi, ý thức về gia tài văn hóa Việt chỉ giới hạn trong phạm vi gia đình, và di sản văn hóa này thường trở thành thứ yếu so với văn hóa ở nơi chúng tôi sinh sống.
 
@@ -33,7 +33,7 @@ Trong môi trường thiện lành và nuôi dưỡng này, cha mẹ chúng tôi
 
 Giờ đây, sau bốn mươi năm, chúng tôi được ngồi bên nhau dưới cây sồi đó. Sư Ông vẫn còn hiển hiện quanh chúng tôi – khi làn gió tới khiến cành lá rung rinh vẫy chào, hoặc khi chúng tôi bước những bước chân chánh niệm trong khu rừng ở xóm Hạ. Chúng tôi thật may mắn vì vẫn được thừa hưởng gia tài thật đẹp mà Sư Ông và cha mẹ đã để lại. Làng Mai vẫn luôn là nơi mà chúng tôi, cũng giống cha mẹ mình trước đây, được trở về để tiếp tục trân quý di sản văn hóa và trị liệu những vết thương của cha ông. Thật ý nghĩa biết bao!
 
-**Chất liệu thương yêu và chuyển hóa**
+## Chất liệu thương yêu và chuyển hóa
 
 Tiếng Việt được sử dụng trong tất cả các hoạt động của khóa tu, điều này khiến chúng tôi vô cùng xúc động. Đây là lần đầu tiên nhiều người trong chúng tôi được nghe hướng dẫn tổng quát bằng tiếng Việt trong một khóa tu của Làng Mai. Chúng tôi ngay lập tức có cảm giác được trở về nhà khi sư cô Biện Nghiêm và sư cô Thùy Nghiêm chào đón chúng tôi bằng tiếng mẹ đẻ. Quý sư cô chia sẻ bằng tất cả tấm lòng, và vì vậy, đi thẳng vào trái tim chúng tôi. Chúng tôi chưa bao giờ thấy nhiều người khóc như vậy trong suốt buổi hướng dẫn tổng quát.
 

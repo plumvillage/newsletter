@@ -3,11 +3,9 @@ title: Trót thương
 author: Thầy Chân Trời Hải Thượng
 ---
 
-*Thầy Trời Hải Thượng sinh năm 1990 và thị tịch năm 2023 lúc mới 33 tuổi đời và 5 tuổi hạ, trong sự cảm thương và tiếc nhớ của hai gia đình tâm linh, huyết thống, bạn bè và cư sĩ. Thầy xuất gia và thọ giới sadi tại tu viện Vườn Ươm, Làng Mai Thái Lan năm 2014 trong gia đình cây Sồi Đỏ, thọ giới lớn năm 2019 tại tu viện Vườn Ươm trong Đại giới đàn Đã về Đã tới. Sau nhiều năm tu tập và phụng sự ở Vườn Ươm, thầy đã tình nguyện sang xây dựng tăng thân ở Viện Phật học Ứng dụng châu Âu (EIAB), Đức, nơi thầy đã đột ngột ra đi vào một buổi sáng tháng 10 năm 2023.*
-
-*BBT xin giới thiệu bài viết “Trót thương” và “Người đã về, đã tới” của thầy Trời Hải Thượng.* *Đọc bài viết, chúng ta sẽ được tiếp xúc với tâm hồn tinh tế, tình yêu cuộc sống, sự có mặt trọn vẹn, sự trân quý từng phút từng giây của thầy Trời Hải Thượng. Chỉ khi nào người ta có khả năng an trú trong hiện tại thì mới có thể cảm và nhìn thấy từng góc cạnh, từng chi tiết nhỏ những nét đẹp nhiệm mầu của sự sống đến như thế.*
-
-*Dù thầy Trời Hải Thượng không còn biểu hiện qua hình tướng thông thường nữa, chúng ta vẫn có thể tiếp xúc với thầy qua các bài viết sâu sắc và những vần thơ phản ánh tâm hồn tinh tế, thoát tục nhưng tha thiết yêu đời của thầy.*
+<div class="editors-preface"><p>Thầy Trời Hải Thượng sinh năm 1990 và thị tịch năm 2023 lúc mới 33 tuổi đời và 5 tuổi hạ, trong sự cảm thương và tiếc nhớ của hai gia đình tâm linh, huyết thống, bạn bè và cư sĩ. Thầy xuất gia và thọ giới sadi tại tu viện Vườn Ươm, Làng Mai Thái Lan năm 2014 trong gia đình cây Sồi Đỏ, thọ giới lớn năm 2019 tại tu viện Vườn Ươm trong Đại giới đàn Đã về Đã tới. Sau nhiều năm tu tập và phụng sự ở Vườn Ươm, thầy đã tình nguyện sang xây dựng tăng thân ở Viện Phật học Ứng dụng châu Âu (EIAB), Đức, nơi thầy đã đột ngột ra đi vào một buổi sáng tháng 10 năm 2023.</p><p>
+BBT xin giới thiệu bài viết “Trót thương” và “Người đã về, đã tới” của thầy Trời Hải Thượng. Đọc bài viết, chúng ta sẽ được tiếp xúc với tâm hồn tinh tế, tình yêu cuộc sống, sự có mặt trọn vẹn, sự trân quý từng phút từng giây của thầy Trời Hải Thượng. Chỉ khi nào người ta có khả năng an trú trong hiện tại thì mới có thể cảm và nhìn thấy từng góc cạnh, từng chi tiết nhỏ những nét đẹp nhiệm mầu của sự sống đến như thế.</p><p>
+Dù thầy Trời Hải Thượng không còn biểu hiện qua hình tướng thông thường nữa, chúng ta vẫn có thể tiếp xúc với thầy qua các bài viết sâu sắc và những vần thơ phản ánh tâm hồn tinh tế, thoát tục nhưng tha thiết yêu đời của thầy.</p></div>
 
 Đã trót thương phía trời Đông mây thoáng hồng ươm nắng bình minh, từ đằng Tây chiếc khăn mây vòng qua chân núi chạy dài bồng bềnh một dải Khaoyai, đồng sắn ngô, xóm làng thị trấn ngọn tháp trắng trở mình trong sương mờ ảo, nắng lên nâng lớp mây mỏng dần dâng tới khoảng không đỉnh núi, ngày đã lên theo nắng nâng bàn chân nhịp sống lại tuần hoàn
 
@@ -45,7 +43,7 @@ author: Thầy Chân Trời Hải Thượng
 
 Đã trót thương mình, phút nhận ra toàn thân mệt mỏi, dưới nếp trán nhăn nghĩ suy đuổi nhau như chớp giật, một bãi chiến trường sau đôi mắt nhắm; nhớ hơi thở nhẹ, biết đã có lối về, có thể mỉm nụ cười với dòng hiện hành dẫu còn hung mãnh
 
-` `Đã trót thương khoảng lặng tiếng chuông, toàn thân chìm vào yên lắng giờ mặt trời đứng bóng, hai trăm con người lặng nghe tiếng gọi trở về, đồng tâm dừng lại tạo một vũng trầm tưởng như bất tận, đón vào tiếng chim kêu, chó sủa, quạt máy, xe chạy; cảm nhận không phải ồn ào mà là thanh âm sự sống nhiệm màu
+Đã trót thương khoảng lặng tiếng chuông, toàn thân chìm vào yên lắng giờ mặt trời đứng bóng, hai trăm con người lặng nghe tiếng gọi trở về, đồng tâm dừng lại tạo một vũng trầm tưởng như bất tận, đón vào tiếng chim kêu, chó sủa, quạt máy, xe chạy; cảm nhận không phải ồn ào mà là thanh âm sự sống nhiệm màu
 
 Đã  trót thương tiếng nói trong tâm mỗi lần chút nghi ngại thoáng đi lên: "nước không rửa nước, bụi không vương bụi”, nghi ngại cũng ngại ngọn đèn nhận diện, có gì con không làm được?!
 

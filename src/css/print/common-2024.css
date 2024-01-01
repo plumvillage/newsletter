@@ -474,6 +474,7 @@ article p, article blockquote {
 }
 
 article p:not(.editors-preface):not(.centered-preface) + p,
+article div:not(.editors-preface) + p,
 article figure + p,
 html:lang(vi) .editors-preface + p
 html:lang(vi) article blockquote + p,
@@ -644,20 +645,20 @@ article figure figcaption {
     padding-bottom: 1.5em;
 }
 
-p.editors-preface {
+.editors-preface {
     font-style: italic;
     margin-left: 6pt;
     margin-right: 6pt;
     margin-bottom: 12pt;
 }
 
-p.editors-preface i {
+.editors-preface i {
     color: var(--color-bark-dark);
     font-style: normal;
 }
 /* https://unicode-search.net/unicode-namesearch.pl?term=CIRCLE */
 /* https://jrgraphix.net/r/Unicode/25A0-25FF */
-p.editors-preface::after, .divider::after {
+.editors-preface::after, .divider::after {
     margin-top: 10pt;
     font-style: normal;
     content: "✦";
@@ -770,3 +771,7 @@ article ul li::before {
 /* /////////////  CASE-BASED STYLING  /////////////// */
 /* ////////////////////////////////////////////////// */
 /* ////////////////////////////////////////////////// */
+
+h1#resilience-community-and-spirituality {
+    font-size: 31pt;
+}

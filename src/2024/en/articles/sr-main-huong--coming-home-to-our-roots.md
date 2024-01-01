@@ -3,9 +3,9 @@ title: Coming Home to Our Roots
 author: Main Hương, Hồng Anh & Janny
 ---
 
-*Where is our true home? Is it a particular place with particular people within a particular culture? What if we had to leave our “home”? Or grew up in a culture vastly different from that of our parents’? Main Hương, Hồng Anh, and Janny, three international Wake Up sangha core members, explored these questions deeply during a retreat in Plum Village Monastery, France for young Asian diaspora.*
+<p class="editors-preface">Where is our true home? Is it a particular place with particular people within a particular culture? What if we had to leave our “home”? Or grew up in a culture vastly different from that of our parents’? Main Hương, Hồng Anh, and Janny, three international Wake Up sangha core members, explored these questions deeply during a retreat in Plum Village Monastery, France for young Asian diaspora.</p>
 
-**A “unique” retreat**
+## A “unique” retreat
 
 Coming to Plum Village, besides enjoying meeting friends from around the world, we usually longed to connect with friends with whom we could share our background and experiences. In other retreats we previously attended, it often felt like we had to deliberately seek out these spaces which mirrored the experience many of us had growing up as ethnic minorities, where there might have been 1-2 friends in school or at work who shared a similar background.
 
@@ -19,7 +19,7 @@ The collective energy and quality of practice also felt very special. The sister
 
 Sometimes, we don’t realize something is missing until we find it right in front of us. This feeling of (finally) coming home and being able to connect with others was very unique. It was a reminder that we were not alone in our journey of healing and transformation and that we could find solace and strength in the company of others who intimately understood our experiences.
 
-**Coming back to claim our inheritance** 
+## Coming back to claim our inheritance
 
 Many of us grew up as children or descendents of Vietnamese refugees displaced by war and colonialism. Our families did the best they could given their difficult circumstances from the deep loss of their homeland while trying to navigate a different society and culture in a new country. Our sense of Vietnamese heritage was limited to our families, and often took the backseat to the heritage of the places we grew up in.
 
@@ -33,7 +33,7 @@ In this beautifully loving and nurturing environment, our parents were able to t
 
 40 years later, we sat underneath the same oak tree. Thay was still present all around us—when a breeze prompted the leaves to send us a warm welcome or when we walked mindfully through the forest. We felt fortunate to be able to continue this beautiful legacy of Thay and our parents. To see that Plum Village could also be a place where we, like our parents, continued to celebrate our culture and heal the wounds of our ancestors, was so meaningful.
 
-**Love and transformation** 
+## Love and transformation
 
 Being surrounded by a strong presence of the Vietnamese language in all the activities was deeply touching. It was the first time many of us heard the orientation of a Plum Village retreat in Vietnamese. Sister Thuy Nghiem and Sister Bien Nghiem’s welcoming words in their mother tongue made us feel immediately at home. We really felt that they were sharing from their hearts; and it went straight into our hearts. We had never seen so many people cry during an orientation.
 
@@ -43,26 +43,11 @@ For many of us who were of the post-war generation, we were only ever exposed to
 
 Our hope is that this retreat can continue and be a space where the Asian and Vietnamese diaspora can return to and feel at home. 
 
-
-
-![](Aspose.Words.90903068-4c0f-4dd8-9295-a47c9e610d05.001.png)
-
+<!-- PICTURE LABELS
 *Loving Kindness Family on Thay*’*s deck*
-
-![](Aspose.Words.90903068-4c0f-4dd8-9295-a47c9e610d05.002.jpeg)
-
 *Thay offering a dharma talk underneath the oak tree of Lower Hamlet*
-
-![](Aspose.Words.90903068-4c0f-4dd8-9295-a47c9e610d05.003.jpeg)
-
 *Lunch underneath the oak tree of Lower Hamlet*
-
-![](Aspose.Words.90903068-4c0f-4dd8-9295-a47c9e610d05.004.jpeg)
-
-*Compassion Family on lazy day after breakfast on Thay’s deck![](Aspose.Words.90903068-4c0f-4dd8-9295-a47c9e610d05.005.jpeg)*
-
+*Compassion Family on lazy day after breakfast on Thay’s deck
 *Embracing the traditional Vietnamese áo dài and nón lá.* 
-
-![](Aspose.Words.90903068-4c0f-4dd8-9295-a47c9e610d05.006.jpeg)
-
 *Joy Family after receiving the 5 Mindfulness Trainings*
+-->

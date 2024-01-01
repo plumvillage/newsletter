@@ -3,7 +3,7 @@ title: Giọt nước trong dòng sông Tăng thân
 author: Sư cô Chân Trăng Tâm Đức
 ---
 
-**Niềm vui trong khóa tu xuất sĩ**
+## Niềm vui trong khóa tu xuất sĩ
 
 Đây là dịp mà con được gặp rất nhiều quý thầy, quý sư cô từ các trung tâm ở châu Âu về Làng tề tựu. Chúng con được học, tu, chơi và làm việc trong nhiều nhóm khác nhau. Nào là đội luân phiên, đội trò chơi, đội đá banh, bạn “đồng liêu” và gia đình pháp đàm. Chưa bắt đầu khóa tu mà chúng con đã bắt đầu cảm nhận niềm hạnh phúc của sự sum vầy.
 
@@ -13,7 +13,7 @@ Nhờ khóa tu này mà lần đầu con được ngắm mặt trời mọc từ
 
 Thời gian trôi qua nhanh quá! Ngồi trên xe về lại xóm Mới, chị em con chia sẻ niềm hạnh phúc sau một tuần có mặt trọn vẹn cho nhau. Suốt cả năm, Làng mở cửa để đón thiền sinh tới tu học, nên khóa tu xuất sĩ là dịp hiếm hoi cho anh chị em chúng con sum họp. Con được nuôi dưỡng nhiều từ những buổi công phu sáng tối với năng lượng trầm hùng. Những bài pháp thoại sách tấn sự tu học, cách nuôi dưỡng và xây dựng tình huynh đệ. Chúng con có cơ hội làm quen với những người mình chưa được quen, cùng chia sẻ cho nhau những niềm vui, những thao thức. Những buổi pháp đàm với sự mở lòng, những cảm xúc từ trái tim đã được vòng tròn ôm ấp. Những tiếng cười giòn tan xua đi cái lạnh của mùa đông trong những lần tham gia trò chơi. Những bữa ăn hết sức ngon lành dưới bàn tay của bao nhiêu là đầu bếp xuất gia tài ba. Con còn được trải nghiệm chuyến đi bộ thăm nhà thờ Monbos trong ngày làm biếng. Tăng thân mình đẹp quá và con ý thức rõ niềm hạnh phúc khi được là một giọt nước trong dòng sông tăng thân.
 
-**“Nói chuyện ăn thì nói bao giờ cho hết”**
+## “Nói chuyện ăn thì nói bao giờ cho hết”
 
 Sau khóa tu xuất sĩ, Làng mở cửa trở lại để chào đón thiền sinh về tham dự các khóa tu trong năm. Có hôm, sau buổi trưa, có một chú gặp con với điệu bộ rất sốt sắng và nói muốn gặp đội nấu ăn hôm nay. Chú đến xóm Mới cùng cô con gái mười bảy tuổi.  Hạt giống lo trong con đi lên, không biết hai cha con chú có vấn đề chi với đồ ăn, vì bên này nhiều thiền sinh dị ứng thực phẩm. Con hỏi lý do thì mới hay chú muốn cám ơn quý sư cô vì đồ ăn ngon quá. Đội nấu ăn lúc đó đang bận nên con nói chú viết lên bảng để quý sư cô biết. Chú nói nếu vậy, chú muốn cám ơn không chỉ đội nấu ăn trong ngày hôm nay mà là tất cả các ngày khác nữa vì ngày nào cũng ngon hết. 
 
@@ -25,7 +25,7 @@ Trước khi bắt đầu khóa tu, quý sư cô đã dày công chuẩn bị, n
 
 Trong suốt một tuần, bên cạnh những buổi thuyết trình món ăn, đại chúng có dịp được tiếp nhận thức ăn từ những bài pháp thoại, những buổi pháp đàm, thuyết trình năm giới, làm mới. Với năng lượng tập thể, con nghĩ mỗi thành phần của tăng thân đều có được những hoa trái của sự thực tập.
 
-**Mùa hè sống động**
+## Mùa hè sống động
 
 Khóa tu đông vui nhất trong năm chính là khóa tu mùa hè khi mà các gia đình dẫn con về Làng tu học. Nhìn lều to, lều nhỏ dựng khắp trong xóm, khiến con nhớ đến những đợt cắm trại trong thời đi học của mình. Có cô thiền sinh chia sẻ, từ lúc biết Làng, cô không còn phải nhọc công suy nghĩ sẽ đi đâu trong kì nghỉ hè vì Làng đã là điểm đến của gia đình trong nhiều năm qua.
 
@@ -50,7 +50,7 @@ Chưa kịp hỏi thêm thì đứa nhóc nhỏ nhất nhóm, chắc sáu tuổi
 
 Mấy đứa nhóc sao mà hồn nhiên, tinh nghịch và dễ thương quá. Con có cảm giác năm đứa cháu trai của con bên Huế đang có mặt trong những đứa nhỏ này. Làng đã mang các em đến với nhau, chơi với nhau như anh em trong nhà suốt một tuần. Con hi vọng những kỉ niệm tuổi thơ trong trẻo ở Làng sẽ giúp các em có một hành trang đẹp để rồi khi lớn lên, mỗi khi nhớ về, các em sẽ mỉm cười và thấy ấm áp trong lòng.
 
-**Các sư cô có bị “quá tải” không?**
+## Các sư cô có bị “quá tải” không?
 
 Đây là câu mà nhiều thiền sinh hay hỏi khi thấy Làng mở cửa gần như quanh năm, quý sư cô lo hết khóa tu này đến khóa tu khác, gặp gỡ bao nhiêu con người với đủ các cung bậc cảm xúc. Con hay cười và trả lời với những trải nghiệm của mình rằng các khóa tu đem lại cho con nhiều niềm vui, con học hỏi thêm được nhiều điều mới và có nhiều động lực hơn để tu tập. Con xem các khóa tu như là cơ hội để con vừa được phụng sự mà vừa được tu học. Chính nhờ các bạn thiền sinh tới đây mà con biết hơn về những gì đang xảy ra ngoài kia với quá nhiều những bạo động, sợ hãi, hận thù, tham vọng. Con hiểu được hơn những khổ đau mà họ đang gặp phải trong cuộc sống thường ngày. Để rồi khi nhìn lại, con thấy được sống trong lòng tăng thân là một may mắn lớn. 
 
@@ -59,5 +59,4 @@ Với thiền sinh đến dự khóa tu, chỉ cần con có mặt đó trong nh
 Đã bao lần, nhìn hàng trăm, hàng ngàn người tới Làng tu học, con thấy sự vĩ đại trong công trình dựng tăng và phụng sự cuộc đời của Sư Ông. Con nhớ trong một bài pháp thoại, Sư Ông nói rằng nếu mình có một ước mơ, tăng thân sẽ giúp mình biến ước mơ đó thành hiện thực. Với cá nhân nhỏ bé của con, dù có ao ước lớn giúp đời thế nào đi nữa, con cũng không làm được gì nhiều. Nay được sống cùng tăng thân, được tu học, được phụng sự, với con đó là phước đức rất lớn. Mỗi sáng thức dậy, ý thức mình đang là người tu, đang được ôm trong vòng tay tăng thân là niềm biết ơn liền đi lên trong con. Con biết ơn Sư Ông và tăng thân đã cho con được làm một giọt nước trong dòng sông đa màu sắc, đa văn hóa này để mỗi ngày con đều có cơ hội được thở, được cười, được chế tác niềm vui, bình an cho con và hiến tặng cho những người xung quanh. 
 
 Con của Sư Ông và Tăng thân,
-
-Chân Trăng Tâm Đức 
+Chân Trăng Tâm Đức

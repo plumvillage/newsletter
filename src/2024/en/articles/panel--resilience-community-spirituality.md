@@ -1,15 +1,12 @@
 ﻿---
-title: Resilience, Community, and Spirituality
-author: Tho Ha Vinh, Rehena Harilal, and Satish Kumar
+title: Resilience, Community and Spirituality
+author: Tho Ha Vinh, Rehena Harilal and Satish Kumar
 ---
 
-*The following is an excerpt of the panel conversation on the theme of Resilience, Community, and Spirituality that took place in June 2023, during the Earth Holder’s Retreat [‘Love is Freedom’](https://plumvillage.org/retreats/info/earth-week-love-is-freedom). Our three panelists were Tho Ha Vinh, Rehena Harilal, and Satish Kumar.*
-
-**Tho Ha Vinh** received the lamp transmission from Thay in 2001. He was the former program director of Bhutan’s Gross National Happiness Center and is the author of the book “A Culture of Happiness.”
-
-**Rehena Harilall** joined the Order of Interbeing in 2016, is a member of the Heart of London Sangha, Colors of Compassion Sangha, and actively brings racial justice and climate justice together. She founded “Buddhists across Traditions,” a BIPOC-centered collective in the UK in 2019.
-
-**Satish Kumar** is the founder of Schumacher College for ecological studies. In 1962 he went on a peace walk of over 8,000 miles for two and a half years, from New Delhi to Moscow, Paris, London, and Washington, D.C. He is the author of the recently published book Radical Love.
+<div class="editors-preface"><p>The following is an excerpt of the panel conversation on the theme of Resilience, Community, and Spirituality that took place in June 2023, during the Earth Holder’s Retreat ‘Love is Freedom.’ Our three panelists were:</p>
+<p><b>Tho Ha Vinh</b> received the lamp transmission from Thay in 2001. He was the former program director of Bhutan’s Gross National Happiness Center and is the author of the book “A Culture of Happiness.”</p>
+<p><b>Rehena Harilall</b> joined the Order of Interbeing in 2016, is a member of the Heart of London Sangha, Colors of Compassion Sangha, and actively brings racial justice and climate justice together. She founded “Buddhists across Traditions,” a BIPOC-centered collective in the UK in 2019.</p>
+<p><b>Satish Kumar</b> is the founder of Schumacher College for ecological studies. In 1962 he went on a peace walk of over 8,000 miles for two and a half years, from New Delhi to Moscow, Paris, London, and Washington, D.C. He is the author of the recently published book Radical Love.</p></div>
 
 **Sr Lang Nghiem (facilitator)**: In our current global state, there is much despair, anger, blame, and disappointment. How do you continue to act from a place of love?
 

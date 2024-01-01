@@ -3,7 +3,7 @@ title: My Path To Wake Up Schools
 author: Joost Vriens
 ---
 
-*Joost Vriens (Dharma name is Attentive Mountain of the Heart)  lives in Eindhoven, Netherlands, and is a father of two grown up children and takes care of his mother. He was a teacher at a secondary vocational school for 40 years. He supports Wake Up Schools and is a co-founder of a Dutch online Education Sangha. He also writes a weekly blog for the NIVOZ about the connection between mindfulness and being a teacher.*
+<p class="editors-preface">Joost Vriens (Dharma name is Attentive Mountain of the Heart)  lives in Eindhoven, Netherlands, and is a father of two grown up children and takes care of his mother. He was a teacher at a secondary vocational school for 40 years. He supports Wake Up Schools and is a co-founder of a Dutch online Education Sangha. He also writes a weekly blog for the NIVOZ about the connection between mindfulness and being a teacher.</p>
 
 When I took my first steps into the classroom in 1982, I was a 22 year old teacher of religion, idealistic, full of expectations and driven. But the reality was not heaven, but a learning environment. The school system I stepped into was in essence a delivery system. I talk, you listen. I know, you accept. There was such a strong conditioning that the students, even as adults or adolescents, were afraid to share, give, or express themselves.
 
