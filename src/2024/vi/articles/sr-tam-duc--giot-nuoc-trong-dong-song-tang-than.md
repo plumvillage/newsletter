@@ -58,5 +58,5 @@ Với thiền sinh đến dự khóa tu, chỉ cần con có mặt đó trong nh
 
 Đã bao lần, nhìn hàng trăm, hàng ngàn người tới Làng tu học, con thấy sự vĩ đại trong công trình dựng tăng và phụng sự cuộc đời của Sư Ông. Con nhớ trong một bài pháp thoại, Sư Ông nói rằng nếu mình có một ước mơ, tăng thân sẽ giúp mình biến ước mơ đó thành hiện thực. Với cá nhân nhỏ bé của con, dù có ao ước lớn giúp đời thế nào đi nữa, con cũng không làm được gì nhiều. Nay được sống cùng tăng thân, được tu học, được phụng sự, với con đó là phước đức rất lớn. Mỗi sáng thức dậy, ý thức mình đang là người tu, đang được ôm trong vòng tay tăng thân là niềm biết ơn liền đi lên trong con. Con biết ơn Sư Ông và tăng thân đã cho con được làm một giọt nước trong dòng sông đa màu sắc, đa văn hóa này để mỗi ngày con đều có cơ hội được thở, được cười, được chế tác niềm vui, bình an cho con và hiến tặng cho những người xung quanh. 
 
-Con của Sư Ông và Tăng thân,
-Chân Trăng Tâm Đức
+<p class="signoff"><span class="signoff-lvl-1">Con của Sư Ông và Tăng thân,</span><br/>
+<span class="signoff-lvl-2">Chân Trăng Tâm Đức</span></p>

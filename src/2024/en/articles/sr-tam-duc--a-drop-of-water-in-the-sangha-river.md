@@ -21,7 +21,7 @@ Many other lay friends also expressed their gratitude either in-person or on gre
 
 The cooking retreat this year was a joy as the New Hamlet welcomed many friends. Nature generously offered daily midnight rains that provided for the cool the following day. A woman who was a bit senior in age, on learning of this retreat at the very last minute when the registration link was already closed, had pleaded with the office team to allow her to sign up. She said that it didn’t matter if she couldn’t sleep in the dormitory or even had to pitch a tent on the hamlet’s grounds. She only needed a space near the vegetable garden for her tent as long as she could participate in the retreat. I felt so much compassion for her when I heard about her situation. In the end, someone canceled their registration last-minute, so she was able to register for the retreat after all.
 
-Before the retreat started, the monastic sisters worked hard to test the recipes and invited the sangha to sample the food in the kitchen, with the slogan “*happy cooking, happy moment*”. Thanks to the skillfulness of the MC, the interactions between the monastic chefs and audience were filled with fits of uninhibited laughter. The recipes were not too complicated, but the joy, sense of humor, and ease of the sisters while on stage left many unforgettable memories for the lay friends. Everyone was delighted to not only get to learn how to cook the dishes but also to find them on the serving tables the next day.
+Before the retreat started, the monastic sisters worked hard to test the recipes and invited the sangha to sample the food in the kitchen, with the slogan *“happy cooking, happy moment.”* Thanks to the skillfulness of the MC, the interactions between the monastic chefs and audience were filled with fits of uninhibited laughter. The recipes were not too complicated, but the joy, sense of humor, and ease of the sisters while on stage left many unforgettable memories for the lay friends. Everyone was delighted to not only get to learn how to cook the dishes but also to find them on the serving tables the next day.
 
 Throughout the week, aside from the cooking demonstrations, everyone also received nourishment from the Dharma talks, Dharma sharing sessions, and the presentations on the Five Mindfulness Trainings and Beginning Anew. Embraced by the collective energy, I believe each member of the retreat more or less could taste the fruits of the practice.
 
@@ -37,23 +37,20 @@ While at Plum Village, the teens had to hand their phones over to the sisters fo
 
 What nourished me those three weeks was also the presence of the little angels aged 6-12. One evening in the dining hall, upon seeing a group of little friends enjoying each other’s company over cups of drinks, I came over and asked:
 
-*“What are you drinking?”*
-
-*“We’re having Earl Grey,”* said an older one in the group.
-
-*“Will you be able to sleep if you drink tea?”*
-
-` `*“I only use a little bit of tea.”*
+> “What are you drinking?”  
+> “We’re having Earl Grey,” said an older one in the group.  
+> “Will you be able to sleep if you drink tea?”  
+> “I only use a little bit of tea.”
 
 Before I could ask anything further, the youngest in the group, probably 6, said cheekily:
 
-*“I drink lots of tea and I don’t need to sleep, I stay up all night.”*
+> “I drink lots of tea and I don’t need to sleep, I stay up all night.”  
+> “Really, you don’t need to sleep? So how can you grow up?”  
+> “You see, I haven’t slept but I’ve grown this big.”
 
-*“Really, you don’t need to sleep? So how can you grow up?”*
+Then the little boy spanned out his little hand to measure himself from head to toes. Then the older boys in the group huddled around him, teasing,
 
-*“You see, I haven’t slept but I’ve grown this big.”*
-
-Then the little boy spanned out his little hand to measure himself from head to toes. Then the older boys in the group huddled around him, teasing, “*Come on! You slept so deep that your Mum had to wake you up, and you say you don’t need to sleep?”*
+> “Come on! You slept so deep that your Mum had to wake you up, and you say you don’t need to sleep?”
 
 Witnessing this funny scene, I thought how innocent, mischievous, and lovely these kids were! I had the feeling as though my five nephews in Hue (Vietnam) were also present in these young boys. Plum Village had brought them here, playing with one another as siblings of one family for one week. I hope the fond childhood memories they had at Plum Village will lay a strong spiritual foundation early on in life; so when they grow up, whenever these memories come to mind, they will smile and feel warm inside.
 

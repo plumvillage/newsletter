@@ -3,12 +3,10 @@ title: Cánh cửa xót thương
 author: Thầy Chân Minh Hy
 ---
 
-*(để đọc mỗi khi buồn)*
-
-*“Hãy nhớ gọi đúng tên tôi*
-*cho tôi giật mình tỉnh thức*
-*và để cho cánh cửa lòng tôi để ngỏ*
-*cánh cửa xót thương.”* (\*)
+<div class="verse"><p>“Hãy nhớ gọi đúng tên tôi<br/>
+cho tôi giật mình tỉnh thức<br/>
+và để cho cánh cửa lòng tôi để ngỏ<br/>
+cánh cửa xót thương.”<br/><cite>Trích từ bài thơ <i>Hãy gọi đúng tên tôi</i><br/>Sư Ông Làng Mai<br/>(để đọc mỗi khi buồn)</cite></p></div>
 
 Cánh cửa xót thương là cánh cửa của lòng mình. Chúng ta có quyền đóng hay mở cánh cửa đó với bất cứ ai. Mình có quyền thương và mình có quyền được giận, được buồn. Khi thương thì mình có nhiều không gian và khi giận thì ít không gian hơn. Cái không gian riêng của mình khi giận hay buồn nó chật chội, tù túng hơn. Cho nên có khi chúng ta muốn chạy, chạy đi thật xa, muốn thoát ra khỏi sự tù túng ấy. Chúng ta muốn cười một trận cười cho đã cái sự chật chội ấy, cho rỗng cõi lòng. 
 
@@ -21,5 +19,3 @@ Thường thì chúng ta chỉ muốn đón vào nhà những ngọn gió mát m
 Sự khó chịu ấy có thể không đến từ người ấy. Nó có thể đã đến từ nhiều cái không vừa lòng trong nhiều ngày, nhiều năm. Hãy tính xem, ngày hôm nay có bao nhiêu cái làm mình không vừa lòng? Có bao nhiêu cái đến từ người ấy và bao nhiêu cái đến từ những cái khác? Thức dậy đã có cái không vừa lòng, cho đến khi nằm trên giường ngủ mình cũng thấy chưa vừa lòng, cũng có cái làm mình trằn trọc, băn khoăn. Cái không vừa lòng ấy biết bao giờ mình mới vừa lòng! 
 
 Cùng một ngọn gió ấy, nếu có người đến từ một vùng đất khô cằn hơn, nóng bức hơn họ sẽ không thấy khó chịu chi mấy. Vì vậy, bằng lòng hay không bằng lòng đó không phải là vấn đề, nó nằm ở cách tiếp nhận. Nếu biết tiếp nhận vấn đề bằng sự xót thương thì mọi chuyện sẽ trở nên dễ chịu. 
-
-(\*) Trích từ bài thơ *Hãy gọi đúng tên tôi* - Sư Ông Làng Mai

@@ -516,8 +516,9 @@ article cite::before {
 article cite {
 	position: relative;
 	display: inline-block;
-	left: 3pt;
-    padding-right: 1mm;
+    text-indent: -2mm;
+	left: 2mm;
+    padding-right: 2mm; /* for article-end marker*/
     font-style: italic;
     color: var(--color-bark-dark);
 }
@@ -602,6 +603,8 @@ sup { /* superscript */
 .note:after {
     /* this will prevent the superscript numeral from pushing the line down */
     line-height: 0;
+    vertical-align: super;
+    font-size: 65%;
 }
 .note::footnote-call {
     display: inline-block;
@@ -774,4 +777,7 @@ article ul li::before {
 
 h1#resilience-community-and-spirituality {
     font-size: 31pt;
+}
+h1#transforming-resentment-into-compassion {
+    font-size: 28pt;
 }
