@@ -15,7 +15,7 @@ The organizer of this evening invited a group of young musicians to start off th
 
 I was very touched by the communal energy which was slowly taking hold, giving us confidence to take turns sharing—with the help of a translator—about how the practice inspired us, and allowed us to welcome life as it manifested itself inside and around us. On the bus back to our accommodation we shared the wonder and deep gratitude that we felt after such an encounter.
 
-I felt truly blessed and honored to be part of this group, and to become even more aware of the power of our commitment to “awaken humanity to love and the reality of interbeing.” I saw more clearly how the precepts and monastic robe offered me the opportunity to be, without needing to appear, to exist by myself. I could simply allow every moment of this  multifaceted, collective movement to manifest and shine through, smiling to life.
+I felt truly blessed and honored to be part of this group, and to become even more aware of the power of our commitment to “awaken humanity to love and the reality of interbeing.” I saw more clearly how the precepts and monastic robe offered me the opportunity to be, without needing to appear, to exist by myself. I could simply allow every moment of this multifaceted, collective movement to manifest and shine through, smiling to life.
 
 A few days later we facilitated a retreat with 80 people, including the group of young musicians who generously accompanied us for the 5 days of practice with their songs, guitars and percussion. Music, for me, is a vehicle of joy and prayer, of direct connection through the heart, so you can imagine my happiness. Of course, I joined them on several occasions to share Plum Village songs revisited with a Brazilian groove.
 
@@ -35,11 +35,13 @@ Early Sunday morning, 70 people, including 10 young residents received the 5 Min
 
 I met two women activists committed to indigenous populations. Deep in their eyes shone a spark of determination and love that warmed the hearts of the most deprived. The youngest of them shared with us her admiration for Sister Chan Khong and aspiration for monastic life. (In fact, she arrived at Plum Village at the start of the Rains Retreat with the intention to join the aspirant program. How wonderful!)
 
-Another moment of pure grace happened during walking meditation. I was hand in hand with a little girl, accompanied by her mother, who was so happy to be able to join us. The little girl sent me a drawing which now hangs above my bed. A smile is guaranteed when I wake up! 
+Another moment of pure grace happened during walking meditation. I was hand in hand with a little girl, accompanied by her mother, who was so happy to be able to join us. The little girl sent me a drawing which now hangs above my bed. A smile is guaranteed when I wake up!
+
+{% image "article2024/br-duc-hien/IMG_0754_e.JPG" %}
 
 ## Buenos Aires, Argentina
 
-After an hour and a half of traveling in traffic jams, we arrived at a Catholic university and were welcomed by the local sangha in a small room. There were around 30 people practicing here once a week! We bowed reverently and right away I felt a deep warmth in my heart. There was something intensely familiar and comforting. I hardly knew anyone and yet the deep and joyful sense of being part of this spiritual family allowed me to feel at home. The atmosphere of brotherhood and sisterhood was authentic and  reassuring.
+After an hour and a half of traveling in traffic jams, we arrived at a Catholic university and were welcomed by the local sangha in a small room. There were around 30 people practicing here once a week! We bowed reverently and right away I felt a deep warmth in my heart. There was something intensely familiar and comforting. I hardly knew anyone and yet the deep and joyful sense of being part of this spiritual family allowed me to feel at home. The atmosphere of brotherhood and sisterhood was authentic and reassuring.
 
 I realized the extent of Thay's transmission which allows us to be at home in any community in the world—a bell, a few cushions, a photo of our master, a candle, a little incense, flowers, caring smiles and the depth of the practice brought us together that evening. We shared a deep aspiration to cultivate mindfulness, to learn, to understand and love better. Most people had never met Thay, or even had the chance to come and stay in Plum Village. Yet I could feel the presence of our beloved teacher in the looks, the words, the quality of listening, the heart vibrating with compassion and the Bodhicitta of the members of this beautiful assembly.
 

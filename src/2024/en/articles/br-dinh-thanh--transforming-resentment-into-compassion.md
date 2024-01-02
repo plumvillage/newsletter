@@ -5,6 +5,8 @@ author: Brother Chân Trời Định Thành
 
 Last year, in January 2022, a few days after I ordained as a monk and moved to the monastic residence, I asked my ordination brother, Br. Dinh Tuc, to craft a calligraphy for me with the words “Beloved Community.” This phrase was used by Martin Luther King to refer to the Sangha, the community of practice.
 
+{% image "article2024/br-dinh-thanh/Transforming Resentment - Br Dinh Thanh.jpg" %}
+
 I posted this calligraphy on my bedroom wall in order to remind myself of inter-being - rather than that of separate individuality. It worked for a while, but over time it became too familiar and I forgot the intended message. It needed to be renewed.
 
 This calligraphy soon found a new vocation during summer. It all started with an intuition that dawned on me while chanting Namo Avalokiteshvaraya with the community. In the third round of chanting, I made an effort to extend my compassion to some individuals I resented in the political, media, and financial spheres for their deeply harmful actions. Indeed, as an observer and actor in the field of ethics of my society, at times, the sight or evocation of certain figures in the media-political field tended to provoke anger and resentment in me.

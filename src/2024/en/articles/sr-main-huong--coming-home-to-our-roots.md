@@ -3,13 +3,25 @@ title: Coming Home to Our Roots
 author: Main Hương, Hồng Anh & Janny
 ---
 
-<p class="editors-preface">Where is our true home? Is it a particular place with particular people within a particular culture? What if we had to leave our “home”? Or grew up in a culture vastly different from that of our parents’? Main Hương, Hồng Anh, and Janny, three international Wake Up sangha core members, explored these questions deeply during a retreat in Plum Village Monastery, France for young Asian diaspora.</p>
+<!-- https://plumvillage.org/articles/coming-home-to-our-roots -->
+
+<p class="editors-preface">Where is our true home? Is it a particular place with particular people within a particular culture? What if we had to leave our “home”? Or grew up in a culture vastly different from that of our parents? Main Hương, Hồng Anh, and Janny, three international Wake Up sangha core members, explored these questions deeply during a retreat in Plum Village Monastery, France for young Asian diaspora (those growing up outside of their homeland).</p>
+
+{% image "article2024/main-huong/1-On-Thays-Deck_e.jpg", "", "Loving Kindness Family on Thay’s deck" %}
+
+<!-- PICTURE LABELS
+*Thay offering a dharma talk underneath the oak tree of Lower Hamlet*
+*Lunch underneath the oak tree of Lower Hamlet*
+*Compassion Family on lazy day after breakfast on Thay’s deck
+*Embracing the traditional Vietnamese áo dài and nón lá.* 
+*Joy Family after receiving the 5 Mindfulness Trainings*
+-->
 
 ## A “unique” retreat
 
 Coming to Plum Village, besides enjoying meeting friends from around the world, we usually longed to connect with friends with whom we could share our background and experiences. In other retreats we previously attended, it often felt like we had to deliberately seek out these spaces which mirrored the experience many of us had growing up as ethnic minorities, where there might have been 1-2 friends in school or at work who shared a similar background.
 
-Last June, the retreat *Finding Our True Home* was the first retreat specifically for young Vietnamese and Asians from the diaspora (those growing up outside of their homeland). We have never seen so many young Asian friends together at aPlum Village retreat before. Attending the retreat surrounded by those who shared similar upbringing and challenges of being disconnected from our Vietnamese culture and our parents’ experiences was incredibly empowering. There was such a deep understanding without needing to exchange many words. 
+Last June, the retreat *Finding Our True Home* was the first retreat specifically for young Vietnamese and Asians from the diaspora. We have never seen so many young Asian friends together at aPlum Village retreat before. Attending the retreat surrounded by those who shared similar upbringing and challenges of being disconnected from our Vietnamese culture and our parents’ experiences was incredibly empowering. There was such a deep understanding without needing to exchange many words. 
 
 In her Dharma talk, sister Lang Nghiem shared about the four elements of true love and reminded us that Thay taught us that love is understanding. “True love is limitless, so is understanding and vice versa.” We felt that during this retreat we all touched a deep love that was hard to put into words: unconditional love from the monastic sisters, love for our parents and our ancestors, love for our roots that we had long thought were buried, love for our cultural practices, and love for ourselves.
 
@@ -42,12 +54,3 @@ To hear some of the teachings in Vietnamese added an additional layer to the pra
 For many of us who were of the post-war generation, we were only ever exposed to Vietnamese at home. Often, this language transmitted much suffering and violence to us. But here in Plum Village, we got to hear the language used with so much peace and love. It’s so hard to put into words the sense of full embrace, generosity, love and care the sisters gave to us. In Vietnamese, we say *thương* which describes a very deep, unconditional love—and that was what we felt throughout the whole week. 
 
 Our hope is that this retreat can continue and be a space where the Asian and Vietnamese diaspora can return to and feel at home. 
-
-<!-- PICTURE LABELS
-*Loving Kindness Family on Thay*’*s deck*
-*Thay offering a dharma talk underneath the oak tree of Lower Hamlet*
-*Lunch underneath the oak tree of Lower Hamlet*
-*Compassion Family on lazy day after breakfast on Thay’s deck
-*Embracing the traditional Vietnamese áo dài and nón lá.* 
-*Joy Family after receiving the 5 Mindfulness Trainings*
--->
