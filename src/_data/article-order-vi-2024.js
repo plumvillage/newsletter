@@ -1,4 +1,5 @@
 module.exports = [
+    "lang-mai-nam-qua",
     "br-hai-thuong--trot-thuong",
     "br-minh-hy--canh-cua-xot-thuong",
     "sr-bao-nghiem--tho",

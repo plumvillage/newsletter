@@ -787,3 +787,42 @@ figure#article2024br-duc-hienIMG0754e {
     padding-left: 10%;
     padding-right: 10%;
 }
+
+
+.article-a-year-in-review h1:not(#a-year-in-review),
+.article-lang-mai-nam-qua h1:not(#lang-mai-nam-qua)
+{
+    margin-top: 0mm !important;
+}
+
+.article-a-year-in-review > blockquote,
+.article-lang-mai-nam-qua > blockquote {
+    page-break-inside: avoid;
+    text-indent: 0pt !important;
+    margin-top: 11pt;
+    margin-bottom: 14pt;
+	padding-left: 0pt;
+    font-style: normal;
+}
+.article-a-year-in-review > blockquote > p > strong,
+.article-lang-mai-nam-qua > blockquote > p > strong {
+    padding-top: 1pt;
+}
+.article-a-year-in-review > blockquote p,
+.article-lang-mai-nam-qua > blockquote p {
+    text-align: left !important;
+}
+.article-a-year-in-review > blockquote > p > em,
+.article-lang-mai-nam-qua > blockquote > p > em {
+    display: block;
+    padding-top: 2pt;
+    padding-left: 12pt;
+}
+.article-a-year-in-review > blockquote > blockquote,
+.article-lang-mai-nam-qua > blockquote > blockquote {
+    text-indent: 0pt !important;
+    margin-top: 4pt;
+    margin-bottom: 20pt;
+	padding-left: 7pt;
+    font-style: normal;
+}
