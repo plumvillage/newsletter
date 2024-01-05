@@ -4,7 +4,95 @@
 
 <!-- beware: 2 empty spaces at line-end mark break -->
 
+<!-- https://langmai.org/tang-kinh-cac/ke-truyen-dang/ke-truyen-dang-trong-khoa-tu-xuat-si-vung-mot-niem-tin-2023/ -->
+## Khoá tu xuất sĩ diễn ra từ ngày 15 đến 23.02 tại Chùa Pháp Vân, xóm Thượng, Làng Mai Pháp
+
+> **Thầy Thích Chân Trời Nội Tâm**  
+> *(Thế danh: Phạm Văn Tài)*
+> > **Trời nội** điển, ngày pho thủ tự  
+> > Nhập tánh không, đêm quán **tâm** kinh  
+> > Ơn thầy tổ nguyền xin tiếp nối  
+> > Một lên đường, sông núi chứng minh
+
+> **Sư Cô Thích nữ Chân Trăng Hoa Tiên**  
+> *(Thế danh: Nguyễn Thị Quế Trâm)*
+> > Gót sen thiền tập cùng **Trăng**  
+> > **Hoa** tâm nở rộ thoát vòng thị phi  
+> > Dáng **Tiên** hiện nét uy nghi  
+> > Lắng nghe nhẫn hạnh từ bi cứu đời
+
+> **Sư cô Thích nữ Chân Trợ Nghiêm**  
+> *(Thế danh: Hoàng Thị Minh Nguyệt)*
+> > **Chân** tâm vắng duyên **trợ**  
+> > **Nghiêm** từ chẳng đến đi  
+> > Như Lai bậc như thị  
+> > Chánh Niệm vượt thị phi
+
+> **Sư cô Thích nữ Chân Trăng Quê Hương**  
+> *(Thế danh: Nguyễn Thị Kim Thạnh)*
+> > **Chân Trăng** là **Quê Hương**  
+> > Chiếc lá vốn bản môn  
+> > Pháp nhiệm ấy con đường  
+> > Lắng nghe hiểu và thương
+
+> **Sư cô Thích nữ Chân Trăng Mới Lên**  
+> *(Thế danh: Yuliana Wijaya)*
+> > Out of darkness **the moon** has just **risen**  
+> > Its guiding light illuminates our steps.  
+> > In this pure land of mindfulness and joy  
+> > I offer my service to all beings.
+
+> **Sư Cô Thích nữ Chân Trăng Thong Dong**  
+> *(Thế danh: Bùi Hồng Thu Quý)*
+> > **Trăng** xưa lập nguyện đại bi  
+> > Sao cho muôn loại tổng trì vô sanh  
+> > **Thong Dong** cùng chúng đồng hành  
+> > Ân đền nghĩa đáp dạ thành khắc ghi
+
+> **Sư cô Thích nữ Chân Trăng Lý Tưởng**  
+> *(Thế danh: Châu Thị Thu Sương)*
+> > Hé nụ cười chân thật, tuyệt vời  
+> > **Trăng** sao chiếu sáng khắp muôn nơi  
+> > Long lanh ánh mắt ngời **lý tưởng**  
+> > Sưởi ấm tình người giữa trùng khơi
+
+> **Sư cô Thích nữ Chân Trăng Chí Thành**  
+> *(Thế danh: Lê Thị Tư)*
+> > Vén mây **trăng** lộ diện  
+> > Tu tập dạ **chí thành**  
+> > Công phu không xao lãng  
+> > Sen nở cõi Trời Tây
+
+> **Thầy Thích Chân Trời Bình Minh**  
+> *(Thế danh: Trương Văn Sen)*
+> > Tâm tạo **trời bình minh**  
+> > Toả sáng khắp mười phương  
+> > Xuyên suốt qua ba cõi  
+> > Hiện tại là quê hương  
+> > Đức căn dày muôn kiếp  
+> > Thành quả bậc trượng phu  
+> > Được hương gió lan toả
+
+> **Chân Hỷ Tạng**  
+> *(Thế danh: Faye Nhi Nguyen)*
+> > By seeing the nature of affinities planted since beginningless time  
+> > The authentic fruit of insight reveals itself as a storehouse of joy  
+> > Walking this ancient path suddenly we realize that there was never a time when we were not wonderful together  
+> > Sunflowers waving in the gentle breeze quietly reveal the wondrous Dharma Body
+
+> **Chân Minh Hải**  
+> *(Thế danh: Daya Heather Jepsen)*
+> > The Ocean of Wisdom is our ancient and true inheritance  
+> > The bright eyes of the Awakened One contemplate the nature if all things and see no coming and no going  
+> > On her path pf return, she carries the peaceful light of the moon  
+> > As a gracious offering to each living being
+
+
+
+
 <!-- https://langmai.org/tang-kinh-cac/ke-truyen-dang/ke-truyen-dang-trong-dai-gioi-dan-trung-quang-tu-10-1422023/ -->
+
+## Đại giới đàn “Trừng Quang” đã diễn ra từ ngày 10-14/2/2023 tại Tu viện Vườn Ươm – Làng Mai Thái Lan
 
 > **Thầy Thích Chân Phương Cần**  
 > *(Nguyễn Thế Lộc;  Pháp danh: Nhuận Thọ)*
