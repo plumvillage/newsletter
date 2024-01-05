@@ -7,4 +7,6 @@ module.exports = [
     "sr-tam-duc--a-drop-of-water-in-the-sangha-river",
     "joost-vriens--my-path-to-wake-up-schools",
     "sr-main-huong--coming-home-to-our-roots",
+    "br-minh-hy--the-door-of-compassion",
+    "sr-dao-nghiem--a-friend-on-the-path",
 ]
