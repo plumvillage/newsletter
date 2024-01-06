@@ -707,7 +707,10 @@ article ol {
 }
 article ul {
     list-style: none;
-    padding-left: 6pt;
+    padding-left: 11pt;
+}
+article ul li {
+    text-indent: -6pt;
 }
 article ul li + li, article ol li + li {
     margin-top: 4pt;

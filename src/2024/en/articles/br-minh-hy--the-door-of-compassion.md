@@ -2,6 +2,7 @@
 title: The Door of Compassion
 author: Brother Chân Minh Hy
 ---
+
 <div class="verse"><p>“Please call me by my true names,<br/>
 so I can wake up<br/>
 and the door of my heart<br/>
