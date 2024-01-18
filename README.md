@@ -33,7 +33,6 @@ Because of a bug that currently renders 4 columns on first run, you need to trig
 - [Conversion to Markdown with GroupDocs](https://products.groupdocs.app/conversion/odt-to-md)
 
 ## Other tools considered
-- [Pandoc](https://pandoc.org/)
 - [Prince](https://princexml.com/)
 - [Vivliostyle](https://vivliostyle.org/)
 - [Quire](https://quire.getty.edu/)
@@ -43,4 +42,23 @@ Because of a bug that currently renders 4 columns on first run, you need to trig
 ## Bugs & ToDos
  - Eleventy Image processing is not parallel.
  - Sometimes paragraphs (and images) do not break correctly to the next page. See src/media/documentation/BugTextFragment.webp. The fragment ends up in the top right corner (or outside) of the page.
- - The pages with the fade-in gradients over the background images crash Adobe Reader, but only if they had been compressed before with Ghostscript; the uncompressed original works fine! In other words, there is something Ghostscript add in the compression of those pages that cause the crash. I confirmed that it does not depend on the number of stops of the linear-gradient. It also does not depend on the whether or not I use PDF version 1.7 or 1.5.
+ - The pages with the fade-in gradients over the background images crash Adobe Reader, but only if they had been compressed before with Ghostscript; the uncompressed original works fine! In other words, there is something Ghostscript adds in the compression of those pages that cause the crash. I confirmed that it does not depend on the number of stops of the linear-gradient. It also does not depend on the whether or not I use PDF version 1.7 or 1.5.
+
+## Bulk conversation from source ODT (or DOCX...) to Markdown using [Pandoc](https://pandoc.org/)
+```
+for i in *.odt
+do
+	pandoc --from odt --to markdown --wrap=none -i "$i" -o "${i%odt}md"
+done
+```
+
+## Text Harmonisations to Remember/Conventions
+  - Sr > Sr.
+  - Br > Br.
+  - '  ' > ' ' (replace double spaces)
+  - – > ' – '
+  - ... > …
+  - ' > ’
+  - \' > ’ (a pandoc markdown conversion thing)
+  - " > “”
+  - ”. > .”
