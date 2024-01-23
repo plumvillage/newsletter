@@ -23,7 +23,7 @@ Dù thầy Trời Hải Thượng không còn biểu hiện qua hình tướng t
 
 Đã trót thương một thoáng dừng chân chạm được lắng yên, địa đàng chắc thật vững vàng đón kiếp người đi hoang đã về nương tựa, dẫu mới chỉ đặng trong chốc lát
 
-Đã trót yêu ca từ dòng Nước Tịnh, "mặt trời như trái tim đỏ tươi", hẳn chứ! “Ta vẫn sống trong ta” những tháng ngày ấp ủ nuôi tiếng gọi lên đường
+Đã trót yêu ca từ dòng Nước Tịnh, “mặt trời như trái tim đỏ tươi”, hẳn chứ! “Ta vẫn sống trong ta” những tháng ngày ấp ủ nuôi tiếng gọi lên đường
 
 Đã trót thương đàn kiến băng đường thành dòng trôi qua nắng sớm lung linh, đàn sẻ ríu rít sà xuống đồng ngô mới hái, hay thường râm ran vòm tre sáng chiều, đàn ong cần cù xúm xít cất xây, dòng người bồng bềnh đi thiền trong sớm sương, giọt nước sau tháng năm tuổi trẻ kiếm tìm thấy những liên kết định mệnh của mình hòa dòng xuôi lối thênh thang hạnh phúc
 
@@ -39,13 +39,13 @@ Dù thầy Trời Hải Thượng không còn biểu hiện qua hình tướng t
 
 Đã trót thương trăng đêm kiên nhẫn đợi bước khuya dời góc suy tư, dạo mắt qua khu vườn đầy bóng lá thêu hoa hoà tiếng dế còn thức ngợi ca tĩnh mịch, thời gian mệt ngủ quên đọng ướt trên mái ngói màu trăng
 
-Đã trót thương một góc riêng bí mật, hàng dương, rừng keo hay mé đồi gốc me hàng phượng, chợt hóa thiên đường sau ngày Chủ Nhật, sớm đầu tuần võng, chiếu, loa "tất bật", cùng nhau thơ, trà, bánh... tập lại cách buông bỏ, biếng lười
+Đã trót thương một góc riêng bí mật, hàng dương, rừng keo hay mé đồi gốc me hàng phượng, chợt hóa thiên đường sau ngày Chủ Nhật, sớm đầu tuần võng, chiếu, loa “tất bật”, cùng nhau thơ, trà, bánh… tập lại cách buông bỏ, biếng lười
 
 Đã trót thương mình, phút nhận ra toàn thân mệt mỏi, dưới nếp trán nhăn nghĩ suy đuổi nhau như chớp giật, một bãi chiến trường sau đôi mắt nhắm; nhớ hơi thở nhẹ, biết đã có lối về, có thể mỉm nụ cười với dòng hiện hành dẫu còn hung mãnh
 
 Đã trót thương khoảng lặng tiếng chuông, toàn thân chìm vào yên lắng giờ mặt trời đứng bóng, hai trăm con người lặng nghe tiếng gọi trở về, đồng tâm dừng lại tạo một vũng trầm tưởng như bất tận, đón vào tiếng chim kêu, chó sủa, quạt máy, xe chạy; cảm nhận không phải ồn ào mà là thanh âm sự sống nhiệm màu
 
-Đã  trót thương tiếng nói trong tâm mỗi lần chút nghi ngại thoáng đi lên: "nước không rửa nước, bụi không vương bụi”, nghi ngại cũng ngại ngọn đèn nhận diện, có gì con không làm được?!
+Đã  trót thương tiếng nói trong tâm mỗi lần chút nghi ngại thoáng đi lên: “nước không rửa nước, bụi không vương bụi”, nghi ngại cũng ngại ngọn đèn nhận diện, có gì con không làm được?!
 
 Đã trót thương gương mặt trẻ, em từ đâu tới và đang tìm chi, không đến nơi đây vì vị Thầy nổi tiếng, cũng chưa từng nghe biết Thiền sư, nhưng khổ đau hôm nay trên tay em đang thật có - tuổi hai mươi vốn liếng bấy nhiêu ra đi tìm câu trả lời chân thực; từ đó tương lai chúng ta sẽ cùng dựng xây tiếp nối, từ gia tài Người để lại
 
@@ -59,4 +59,4 @@ Dù thầy Trời Hải Thượng không còn biểu hiện qua hình tướng t
 
 Đã trót thương một chất liệu, dẫu thay muôn hình vạn dạng vẫn có thể nuôi đời, nhân duyên để Bụt giúp, khóc cười vẫn khóc cười
 
-Mới trót thương tất cả, ... 
+Mới trót thương tất cả, … 

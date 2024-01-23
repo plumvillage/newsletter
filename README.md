@@ -53,12 +53,25 @@ done
 ```
 
 ## Text Harmonisations to Remember/Conventions
+VS Code allows for regex replace submatch, e.g.: ([a-zA-Z])" > $1”
   - Sr > Sr.
   - Br > Br.
   - '  ' > ' ' (replace double spaces)
   - – > ' – '
   - ... > …
+  - \... > …
   - ' > ’
   - \' > ’ (a pandoc markdown conversion thing)
   - " > “”
+  - ([a-zA-Z])"  > $1” 
   - ”. > .”
+  - \*\*(.*)\*\* > ## $1
+
+
+## Photos to DL
+Monastic Retreat
+https://plumvillage.app.box.com/folder/198341729068
+Rains Closing
+https://plumvillage.box.com/s/tyj8b4c4yn1s9gkx78g15r3xbm46ip01
+Alms Round
+https://plumvillage.app.box.com/folder/244153866109

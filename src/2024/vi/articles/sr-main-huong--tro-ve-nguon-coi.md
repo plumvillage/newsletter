@@ -3,7 +3,7 @@ title: Trở về nguồn cội
 author: Main Hương, Hồng Anh và Janny
 ---
 
-<p class="editors-preface">Đây là bài chia sẻ của ba bạn trẻ Main Hương, Hồng Anh và Janny về khóa tu "Tìm về ngôi nhà đích thực" (2-9.6.2023) tại Làng Mai dành cho người trẻ Việt lớn lên ở nước ngoài. Ba bạn trẻ này đã từng cùng cha mẹ về Làng khi còn ở tuổi thiếu nhi.</p>
+<p class="editors-preface">Đây là bài chia sẻ của ba bạn trẻ Main Hương, Hồng Anh và Janny về khóa tu “Tìm về ngôi nhà đích thực” (2-9.6.2023) tại Làng Mai dành cho người trẻ Việt lớn lên ở nước ngoài. Ba bạn trẻ này đã từng cùng cha mẹ về Làng khi còn ở tuổi thiếu nhi.</p>
 
 ## Một khóa tu thật khác biệt!
 
