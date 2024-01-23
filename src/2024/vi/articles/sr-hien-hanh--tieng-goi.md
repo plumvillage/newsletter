@@ -2,6 +2,7 @@
 title: Tiếng gọi
 author: Sư cô Chân Hiền Hạnh
 ---
+
 <div class="verse"><p>“Châu báu chất đầy thế giới<br/>
 Tôi đem tặng bạn sáng nay<br/>
 Một vốc kim cương sáng chói<br/>
@@ -15,9 +16,7 @@ Chung trà đã cạn, mình đứng dậy nhìn ra xa, ôi nước… Thấy bi
 
 Xế chiều thì nước ùa lên sân nhà. Khi đó mình hơi lo lắng chút xíu. Có vài thứ cần kê lên, một mình thì làm sao? Nếu bị ngập hư thì lấy gì xài. Ngóng ra đường thì thấy cậu bạn đang chèo ghe đi chơi. Mình í ới nhờ cậu ta trợ giúp. Hai đứa kê đồ lên cao hơn chút rồi tủm tỉm cười. Cậu ta là đứa bạn một thời thả diều, chơi ô quan với mình. Nay có gia đình ở xa, mỗi tuần đều ghé về chăm mẹ già. Hơn hai mươi năm gặp lại, đứa nào cũng vui vui và tự thấu hiểu nỗi gian khó của quê hương.
 
-[]{#anchor}Quê mình, bà con mỗi lần gọi nhau làm gì thì làng trên xóm dưới đều nghe. Mình xa quê cũng lâu và bây giờ ở nhà trong hình tướng sư cô nên sự tiếp xúc với xóm giềng cũng khác. Mà khi cần thì tình làng nghĩa xóm vẫn gần gũi chân chất.
-
-[]{#anchor-1}
+Quê mình, bà con mỗi lần gọi nhau làm gì thì làng trên xóm dưới đều nghe. Mình xa quê cũng lâu và bây giờ ở nhà trong hình tướng sư cô nên sự tiếp xúc với xóm giềng cũng khác. Mà khi cần thì tình làng nghĩa xóm vẫn gần gũi chân chất.
 
 Cậu bạn ra về, mình tiếp tục nhìn sự ngổn ngang. Kiếm chút gì ăn đã, rồi tiếp tục dọn nhà, kê đồ. Ôi nước tràn vào nhà rồi, lên nhanh thiệt. Mình ngồi nhìn dòng nước và kỷ niệm lúc bảy, tám tuổi trở về…
 
