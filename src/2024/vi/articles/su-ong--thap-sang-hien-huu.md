@@ -7,6 +7,10 @@ author: Sư Ông Làng Mai
 
 **Jo Confino: Thưa Thầy, trước tình hình biến đổi khí hậu và môi trường thiên nhiên bị tàn phá như hiện nay, nhiều người vẫn có vẻ thờ ơ và chưa muốn hành động gì cả. Thầy nghĩ gì về điều này?**
 
+{% image "article2024/Done-interview-with-thay/IMG_9672_.jpg" %}
+{% image "article2024/Done-interview-with-thay/TNH - spain2014 (2).jpg" %}
+{% image "article2024/Done-interview-with-thay/Calligraphy_TNH_You-have-enough.jpg" %}
+
 **Thầy:** Thực ra, họ không hành động gì không chỉ đối với vấn đề biến đổi khí hậu mà còn đối với nhiều vấn đề khác. Họ có nhiều vấn đề cá nhân như liên hệ với chính tự thân, với người khác và với gia đình. Nhưng họ đâu làm gì để cải thiện những mối liên hệ này.
 
 Nếu chúng ta đòi hỏi họ phải làm gì cho môi trường thì có thể hơi quá, trong khi họ chưa làm gì cho những vấn đề cấp thiết của chính họ. Họ sợ phải đối diện với khổ đau, với các vấn đề của chính mình. Mà nếu vậy thì làm sao họ đủ sức để nghĩ tới nỗi khổ của đất Mẹ hay của môi trường? Vậy nên nhiều người có thái độ thờ ơ. Họ sợ. Họ không muốn nhìn thấy sự thật.

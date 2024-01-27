@@ -7,6 +7,10 @@ Một nụ cười nhẹ nhàng thả trên ngọn đồi Tiểu Ẩn. Hơi th�
 
 Tôi vốn là người của những cuộc hẹn, những buổi trà chiều, những giờ leo núi với huynh đệ,… Và ở đâu có tăng thân, có huynh đệ sum vầy thì vẫn thường có mặt tôi ở đó. Tôi luôn ưu tiên chọn có mặt cho huynh đệ vì ở đó tôi tìm thấy nguồn thức ăn cần thiết nuôi dưỡng hạnh phúc, chí nguyện của mình. Mỗi lần huynh đệ ngồi chơi với nhau, đi núi với nhau, ngồi hát ca,… là lòng tôi tràn đầy niềm vui. Tôi luôn cảm nhận những cái tôi riêng lẻ được nhẹ nhàng hòa tan vào nhau nhiệm mầu. Nên với tôi đó là cơ hội nuôi dưỡng tinh thần vô ngã, tương tức trong mỗi người. Mình cần nhau, mình nương tựa vào nhau, cùng nhau làm nên một tác phẩm chung, không ai là quan trọng hơn ai cả.
 
+{% image "article2024/Done-Sr. Tuyet N/DSC00153.JPG" %}
+{% image "article2024/Done-Sr. Tuyet N/DSC01023.JPG" %}
+{% image "article2024/Done-Sr. Tuyet N/IMG_6618.jpg" %}
+
 Tôi nghĩ sự có mặt cho nhau, chơi với nhau là một tinh thần thực tập rất đẹp nên chẳng bao giờ tôi thấy phí thời gian. Tôi vẫn học và thực tập được rất nhiều thứ trong những cuộc chơi từ việc nuôi dưỡng chánh niệm trong sự có mặt tròn đầy của mình, quán sát tâm mình, đóng góp năng lượng kết nối để những tâm hồn khác nhau lại gần với nhau hơn.
 
 Tuy vậy những cuộc hẹn với chính mình vẫn là cuộc hẹn quan trọng và cần thiết mà tôi vẫn thường dành cho riêng mình. Vì những cuộc hẹn với mình đã giúp tôi tận hưởng và thấy rõ hơn giá trị cao đẹp trong việc có mặt, đi chung với mọi người. Cũng nhờ về chăm sóc mình mà ước nguyện xây dựng tăng thân trong tôi lại rõ ràng và mạnh mẽ hơn mỗi ngày.

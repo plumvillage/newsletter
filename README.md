@@ -68,11 +68,14 @@ VS Code allows for regex replace submatch, e.g.: ([a-zA-Z])" > $1”
   - ”. > .”
   - \*\*(.*)\*\* > ## $1
 
+## Terminal Foo
+/media/data/dev/newsletter/src/media/originals/article2024
+find * | grep -i "Done" | grep -E -i "jpg|jpeg|png" | grep -v "/._"
 
-## Photos to DL
-Monastic Retreat
-https://plumvillage.app.box.com/folder/198341729068
-Rains Closing
-https://plumvillage.box.com/s/tyj8b4c4yn1s9gkx78g15r3xbm46ip01
-Alms Round
-https://plumvillage.app.box.com/folder/244153866109
+## unused Images
+
+{% image "article2024/Done-Br. Tuong Tuc/399796255_313295418126751_8334081940523573211_n.jpg" %}
+{% image "article2024/Done-Br. Tuong Tuc/370186431_271736955615931_7437894567308404210_n.jpg" %}
+
+{% image "article2024/Done-Sr.Hien Tam/IMG_2286.JPG" %}
+{% image "article2024/Done-Sr.Hien Tam/IMG_2966.JPG" %}

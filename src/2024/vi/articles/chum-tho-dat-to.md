@@ -61,7 +61,7 @@ trên vành nôi ươm biếc”.</p></div>
 <p>Em sinh ra tay ai bế ai bồng<br/>
 Vành nôi êm chào đời những nụ hôn<br/>
 Dòng sữa hiền nuôi bao ngày khôn lớn<br/>
-Tình thương -- tràn chảy như nắng ấm mùa xuân.<br/>
+Tình thương — tràn chảy như nắng ấm mùa xuân.<br/>
 Mẹ dắt tay, chân bước những bước đầu tiên<br/>
 Chị dạy Em học tiếng nói ngoan hiền<br/>
 Thở bình an, Em lớn trên đất Bụt<br/>

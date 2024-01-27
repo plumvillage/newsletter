@@ -11,6 +11,10 @@ author: Sư cô Chân Thuận Nghiêm
 
 <p>Cho đến ngày nay, Palestine vẫn chưa được toàn thế giới công nhận là một quốc gia và phải sống phụ thuộc vào Israel. Vì không phải là một quốc gia nên họ không có bất kỳ một quyền lợi nào trên trường quốc tế, và chỉ là một quan sát viên trong Liên Hợp Quốc.</p></div>
 
+{% image "article2024/Done-sr-thuan-nghiem/05b00c36-3b6d-46e8-8284-b90f48830d2d.JPG" %}
+{% image "article2024/Done-sr-thuan-nghiem/IMG-0378.JPG" %}
+{% image "article2024/Done-sr-thuan-nghiem/df51ccf0-41cc-422d-9cf2-2e292cf4c906.JPG" %}
+
 ## Hoằng pháp ở Israel 
 
 Ban tổ chức địa phương đã tổ chức những khóa tu và ngày quán niệm cho cả người Israel và người Palestine. Khóa tu đầu tiên diễn ra ở Israel vào bốn ngày cuối tuần với sự giúp đỡ của chị Tiếp hiện Hagit. Chỉ tầm khoảng bốn mươi người tham dự vì điều kiện chỗ ở còn hạn chế.

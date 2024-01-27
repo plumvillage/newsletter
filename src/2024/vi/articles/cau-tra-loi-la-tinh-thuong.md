@@ -11,6 +11,13 @@ author: Hà Vĩnh Thọ, Satish Kumar, Rehena Harilall
 
 <p>Rehena Harilall là một vị Tiếp hiện của Làng Mai từ năm 2016. Cô là thành viên của tăng thân Trái tim London (The heart of London) và tăng thân Những sắc màu từ bi (Colors of compassion). Cô rất tích cực trong cả hai phong trào hoạt động vì công bằng chủng tộc và công bằng trong việc ứng phó với biến đổi khí hậu. Cô đã thành lập cộng đồng “Phật tử xuyên truyền thống” (“Buddhists Across Traditions”), một đoàn thể thực tập đạo Bụt do người da màu chủ đạo.</p></div>
 
+{% image "article2024/Done-Resillence, Community, Spituality/Rehena .jpg" %}
+{% image "article2024/Done-Resillence, Community, Spituality/Dr.Ha Vinh Tho.jpg" %}
+{% image "article2024/Done-Resillence, Community, Spituality/IMG_7922_.jpg" %}
+{% image "article2024/Done-Resillence, Community, Spituality/IMG_7925_.jpg" %}
+{% image "article2024/Done-Resillence, Community, Spituality/IMG_7811_.jpg" %}
+{% image "article2024/Done-Resillence, Community, Spituality/IMG_7899_.jpg" %}
+
 **Sư cô Lăng Nghiêm:** Trước tình trạng thế giới hiện nay, nhiều người trở nên tuyệt vọng, giận dữ, trách móc, chán nản và mất niềm tin. Làm thế nào để chúng ta có thể tiếp tục hành động với tình thương?
 
 **Bác Satish Kumar**: Điều trước tiên là tôi tự hỏi: Sự giận dữ, trách móc, lo lắng có ảnh hưởng lên chính bản thân mình như thế nào?

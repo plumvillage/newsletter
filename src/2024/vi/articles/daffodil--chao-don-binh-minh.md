@@ -7,6 +7,18 @@ author: Phỏng vấn gia đình Daffodil
 
 **BBT:** Những nhân duyên nào đã đưa các sư em đến với con đường xuất gia? Các sư em có nhớ khoảnh khắc mà mình nhận ra rằng “Đây rồi, đây chính là con đường mà mình đã tìm kiếm bấy lâu!”?
 
+{% image "article2024/Done-Daffodil family/200_110723.jpg" %}
+{% image "article2024/Done-Daffodil family/Sr.Diệu Hạnh.jpg" %}
+{% image "article2024/Done-Daffodil family/Br.Nhat Luong.jpg" %}
+{% image "article2024/Done-Daffodil family/044_110723.jpg" %}
+{% image "article2024/Done-Daffodil family/Br.Nhất Xuân.jpg" %}
+{% image "article2024/Done-Daffodil family/073_110723.jpg" %}
+{% image "article2024/Done-Daffodil family/Br.Nhất Vũ.jpg" %}
+{% image "article2024/Done-Daffodil family/Br.Nhat Nguyen.jpg" %}
+{% image "article2024/Done-Daffodil family/Br.Nhat Thanh.jpg" %}
+{% image "article2024/Done-Daffodil family/Br.Nhất Vân.jpg" %}
+{% image "article2024/Done-Daffodil family/Sr.Đăng Hạnh.jpg" %}
+
 **Sư chú Chân Nhất Nguyên:** Con biết đến Sư Ông và bắt đầu thiền tập khoảng một năm rưỡi trước khi con đến Làng Mai lần đầu. Khi ấy, con đã thấy có nhiều lợi lạc và tìm được bình an trong thân. Trong quyển sách *You are here* (tạm dịch *Bạn đang có mặt đây: Khám phá phép lạ trong hiện tại*), Sư Ông giải thích về giáo lý tương tức. Đối với con, đó là điều tuyệt vời nhất mà con từng được nghe. Đây chính là hai dấu hiệu cho biết con đã tìm được con đường sáng đẹp cho cuộc đời mình.
 
 Trước đây con chưa bao giờ cảm thấy mình có một con đường sáng để đi. Thường thì con hành xử bằng sợ hãi và căng thẳng, cố gắng để sống còn. Nhưng khi bước trên con đường này, con thấy mình có bình an và hạnh phúc. Con thấy mình buông được nỗi sợ. Và quyết định xuất gia đến với con một cách thật nhẹ nhàng, thảnh thơi.

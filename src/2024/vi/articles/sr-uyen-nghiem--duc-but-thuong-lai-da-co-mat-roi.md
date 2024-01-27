@@ -7,6 +7,12 @@ author: Sư cô Chân Uyển Nghiêm
 
 Nhắc đến tình thương, tôi không khỏi nghĩ đến Thầy. Mỗi lần nhắc đến Thầy hay tăng thân, tôi cũng như nhiều quý thầy và quý sư cô đều dễ xúc động. Tôi nhớ có lần tôi được làm thị giả cho Thầy. Lúc đó Thầy chuẩn bị đi khóa tu ở Anh. Tôi còn rất mới và tu tập chưa giỏi nên chưa biết cách quan sát. Thời gian ấy, Thầy nghỉ ngơi và làm việc ở Sơn Cốc. Sáng ngày đưa Thầy ra sân bay đi Anh, sư cô Chân Không làm tài xế lái xe. Trước khi rời khỏi Sơn Cốc, Thầy gọi tôi vào thư viện để giúp cho Thầy vài việc. Sau đó, hai thầy trò đi kiểm tra một vòng xung quanh để chắc chắn đèn đã tắt, cửa đã khóa, gas đã được vặn lại,… Khi thấy mọi thứ đã ổn, hai thầy trò ra xe để đi.
 
+{% image "article2024/Done-Sr. Uyen Nghiem/Article - Sr. Uyen N/DSC_0236.JPG" %}
+{% image "article2024/Done-Sr. Uyen Nghiem/Article - Sr. Uyen N/DSC01094.JPG" %}
+{% image "article2024/Done-Sr. Uyen Nghiem/Poem-Sr. Uyen N/L1004967.jpg" %}
+{% image "article2024/Done-Sr. Uyen Nghiem/Poem-Sr. Uyen N/con duy tri dia xuc.JPG" %}
+{% image "article2024/Done-Sr. Uyen Nghiem/Poem-Sr. Uyen N/L1004533.JPG" %}
+
 Trên đường đi ra sân bay, Thầy nói với tôi: “Ồ, con kể chuyện cho Thầy nghe đi. Dạo này con tu học có vui không? Các anh chị em sống với nhau như thế nào?”. Vâng lời Thầy, tôi ngồi líu lo kể hết chuyện này sang chuyện kia và thầy trò cười với nhau rất vui. Cứ như vậy, đi được hơn nửa đường, Thầy chợt hỏi tôi: “Lúc nãy đi ra, con có cầm cái đãy (túi vải) của Thầy không?”. Tôi hết hồn, trả lời Thầy: “Dạ không”.
 
 Trong đãy của Thầy có máy ghi âm. Những lúc Thầy đi dạy ở ngoài, những bài pháp thoại có lúc được quay phim, có lúc không, nhưng thường thì Thầy có đem theo máy ghi âm để tự thâu lại những bài giảng. Thứ nhất là để lưu lại làm tư liệu, thứ hai là Thầy biết đó là tài sản mà Thầy để lại cho thế hệ tương lai. Đi chung với Thầy vui quá nên tôi hoàn toàn không nhớ và cũng không biết là mình cần đem theo cái gì cho Thầy.

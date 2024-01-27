@@ -7,6 +7,11 @@ author: Sư cô Chân Trăng Tâm Đức
 
 Đây là dịp mà con được gặp rất nhiều quý thầy, quý sư cô từ các trung tâm ở châu Âu về Làng tề tựu. Chúng con được học, tu, chơi và làm việc trong nhiều nhóm khác nhau. Nào là đội luân phiên, đội trò chơi, đội đá banh, bạn “đồng liêu” và gia đình pháp đàm. Chưa bắt đầu khóa tu mà chúng con đã bắt đầu cảm nhận niềm hạnh phúc của sự sum vầy.
 
+{% image "article2024/Done-Sr. Tam Duc/_MG_0514.JPG" %}
+{% image "article2024/Done-Sr. Tam Duc/IMG_2900.JPG" %}
+{% image "article2024/Done-Sr. Tam Duc/PV_2023_45.jpg" %}
+{% image "article2024/Done-Sr. Tam Duc/Cooking retreat 2023 8.JPG" %}
+
 Nhóm luân phiên của con nấu ăn gần ngày cuối, nhưng từ lúc bắt đầu khóa tu là đã lên thực đơn rồi. Nhiều phương án được đưa ra phòng trường hợp các đội trước đã nấu món đội mình dự định. Cuối cùng, chúng con cũng thực hiện được phương án làm pizza cho buổi trưa. Sáng hôm đó, đội con hẹn nhau ở nhà ăn, đốt nến, uống trà rồi mới bắt đầu công việc. Đây là lần đầu tiên con trải nghiệm làm pizza từ lúc nhồi bột, làm đế, làm nhân, dùng lò nướng củi, lấy bánh cho đến khâu rửa cối. Lúc rửa, con thấy thương cái cối này ghê. Nó đủ nhân duyên để được đưa về đây và có mặt trong mỗi miếng bánh mì “made in Xóm Thượng”.
 
 Nhờ khóa tu này mà lần đầu con được ngắm mặt trời mọc từ Cốc Ngồi Yên của Sư Ông. Con được sư chị cùng cây rủ đi uống trà và ngắm sao vào sáng sớm trước thời công phu. Nhìn bầu trời lấp lánh ánh sao, với ly trà thơm nóng trên tay và sư chị ở bên, con mỉm cười trong niềm hạnh phúc, gửi lòng biết ơn sâu sắc đến Sư Ông đã mang chị em con từ nhiều quốc gia đến với nhau. Một sáng nọ, con đi bộ với sư chị xuống thung lũng dưới đồi và ngỡ ngàng trước vẻ đẹp của “biển mây”. Sương mù dày đặc phủ kín thung lũng. Càng đi xuống thì cảnh trong sương dần hiện ra. Những mạng nhện mỏng manh thế kia nhưng sau một đêm được sương phủ đầy, trở thành những tràng ngọc đẹp lung linh dưới nắng mai. Con nghĩ chắc sẽ không có một kiến trúc sư tài ba nào có thể tạo ra công trình đẹp như thế. 

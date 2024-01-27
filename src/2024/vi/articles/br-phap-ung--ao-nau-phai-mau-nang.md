@@ -9,6 +9,10 @@ author: Thầy Chân Pháp Ứng
 
 Trong 30 năm được Sư Ông dạy dỗ và đại chúng dưỡng nuôi, Pháp Ứng có cảm tưởng như mình đi qua gần trọn một chu kỳ. Như một năm có bốn mùa, mùa đông lá rụng, mùa xuân biểu hiện. Pháp Ứng thấy mình trải nghiệm đủ mọi đổi thay.
 
+{% image "article2024/Done-Br.Phap Ung/_DSC7759.JPG" %}
+{% image "article2024/Done-Br.Phap Ung/Thay and Br. Phap Ung at Omega Institute in New York - 1996 PHOTO Simon Chaput.jpg" %}
+{% image "article2024/Done-Br.Phap Ung/Br.Phap Ung.jpg" %}
+
 Trong 30 năm ấy, Pháp Ứng đã trải qua đủ loại lỗi lầm, té xuống rồi đứng dậy, trầy da tróc vảy. Có lẽ nhờ vậy mà Pháp Ứng có cảm giác hoa trái dần dần hình thành, bây giờ hoa mới chớm nở. Pháp Ứng bắt đầu nhận ra, cảm được và có niềm tin nơi vị thầy trong mình. Điều đó quý vô cùng. Nhưng thật ra, đó cũng không phải là một điều gì mới. Cái cảm giác trở về được với chính mình, giống như quay về cội nguồn để rồi tiếp tục đi tới. Có thể đó là tố chất tổ tiên đã trao truyền, bây giờ nó tiếp tục chớm nở. Giống như một chu kỳ được tiếp nối.
 
 Khi Pháp Ứng có ý muốn xuất gia, gia đình vẫn chưa sẵn sàng. Hôm đó Pháp Ứng tủi thân, lên gác nằm khóc. Đang khóc thì bỗng thấy có một vị nét mặt hồng hào, đôn hậu hiện ra, nói: “Con yên tâm đi!”. Nghe vậy, Pháp Ứng thấy lòng lắng xuống… Sau đó không lâu, Pháp Ứng được gặp Sư Ông trong một khóa tu ở Hà Lan. Sư Ông nhìn mặt Pháp Ứng, chắc là “ngáo ngáo” kiểu sinh viên, kiểu gia đình Phật tử, hỏi: “Con muốn làm kỹ sư Phật học không?”. Pháp Ứng nghĩ thầm: “Ủa, kỹ sư Phật học là cái gì? Sư Ông hỏi gì mình không hiểu”. Pháp Ứng ngơ ngơ nhìn Sư Ông, nhưng hạt giống đã được trao truyền, được gửi gắm. *Hạt đậu năm xưa hé miệng cười*.

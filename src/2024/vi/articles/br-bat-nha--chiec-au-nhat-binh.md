@@ -9,6 +9,10 @@ Thầy kính thương,
 
 Trời thu đã đi qua và gửi chút se lạnh của mùa đông tới mái chùa Từ Đức đầy ấm áp này.
 
+{% image "article2024/Done-Br. Bat Nha/CTD04521.jpg" %}
+{% image "article2024/Done-Br. Bat Nha/CTD04445.jpg" %}
+{% image "article2024/Done-Br. Bat Nha/Br. T Bat Nha.jpg" %}
+
 Những khoảnh khắc đẹp đẽ buổi sớm, những dấu chân thiền hành thảnh thơi và thong dong tự tại, in đậm trên nền trời một bầu không khí dịu dàng… Vài chiếc lá rơi trong cơn gió mùa đông nhè nhẹ, một vài hạt sương sớm đã tô điểm cho không gian êm ả đó đi vào trong con một cách bình yên đến lạ kỳ.
 
 Thời gian mà con được sống trong lòng Tăng thân, quả thật là khoảng thời gian quý giá vô cùng với hình hài của một người xuất sĩ, một sư chú đi cùng với một lý tưởng và hoài bão đang độ tuổi 23. Quý giá ở đây chính là nếp sống tỉnh thức, nếp sống của những người cùng chung chí hướng. Con thấy trong con luôn ôm ấp và dung chứa mỗi ngày những niềm vui nho nhỏ, những hạnh phúc thật giản đơn. Thầy ơi, con thấy may mắn lắm vì ở tu viện có rất đông anh chị em sadi và sadini. Chúng con lúc nào cũng kề vai sát cánh với nhau trong các công việc, trong những buổi sinh hoạt, và cùng nhau tạo dựng một vùng trời tuổi thơ. Con cứ nhớ mãi câu nói quý thầy, quý sư cô thường hay nhắc nhở: “Khoảng thời gian sadi là khoảng thời gian đẹp đẽ, hào hùng nhất, nên các em phải biết trân quý khi mình đang được sống đời sống của những vị sa di trẻ”. Nghe được những lời động viên, nhắn nhủ đó mà con thấy hân hoan biết bao. Con càng yêu thương những phút giây được sống và thực tập làm một “chú tiểu” nhỏ trong Tăng thân.
