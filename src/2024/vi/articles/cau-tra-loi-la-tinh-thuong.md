@@ -45,9 +45,7 @@ Hành trình thương yêu là một hành trình vừa hướng ngoại vừa h
 
 **Sư cô Lăng Nghiêm**: Khi hành động của ta phát xuất từ thương yêu thay cho sự hờn giận thì thực chất chúng ta đang chuyển hóa cơn giận. Và khi được công nhận, không bị đè nén, cơn giận có thể trở thành suối nguồn của tình thương và lòng từ bi. Xin Giáo sư Hà Vĩnh Thọ cho biết điều gì đã giúp Giáo sư duy trì sự dấn thân phụng sự mà không bị mệt mỏi?
 
-**Giáo sư Hà Vĩnh Thọ:**
-
-Chúng ta có thể cùng nhìn vào giáo lý Bốn sự thật mầu nhiệm (Tứ diệu đế) mà Bụt đã dạy. Chúng ta biết gốc rễ của khổ đau là cái nhìn nhị nguyên, phân biệt. Và trong những lời dạy của mình, Thầy luôn nhấn mạnh về tự tính tương tức của vạn vật.
+**Giáo sư Hà Vĩnh Thọ:** Chúng ta có thể cùng nhìn vào giáo lý Bốn sự thật mầu nhiệm (Tứ diệu đế) mà Bụt đã dạy. Chúng ta biết gốc rễ của khổ đau là cái nhìn nhị nguyên, phân biệt. Và trong những lời dạy của mình, Thầy luôn nhấn mạnh về tự tính tương tức của vạn vật.
 
 Bác Satish Kumar đã giải thích rất hay rằng tình thương đích thực và cấp tiến là vô điều kiện. Thương không phải là một cảm xúc hay là một ý thích. Nếu ta có thể tiếp xúc với tính nhân bản, với phần sâu thẳm nhất trong tâm hồn mình, ta có thể nhận ra rằng những cái đó cũng hiện diện trong bất kỳ một chúng sanh nào mà ta gặp, dù đó là con người hay bất cứ hình thái nào của sự sống. Khi ta thương yêu thật sự, ta sẽ trở thành một với đối tượng thương yêu, vượt thoát lưỡng nguyên và chia cách, nhờ đó ta có thể chuyển hóa sự cô đơn bên trong mình.
 
@@ -85,9 +83,7 @@ Khía cạnh thứ ba là thay đổi hệ thống từ bên trong. Đây là đ
 
 **Sư cô Lăng Nghiêm**: Trước khi kết thúc buổi trò chuyện này, xin quý vị chia sẻ một vài điều có thể giúp thắp sáng niềm tin và hy vọng trong trái tim của mọi người.
 
-**Giáo sư Hà Vĩnh Thọ:**
-
-Ba nguồn cung cấp hạnh phúc và sức khỏe thân tâm của tôi là sống hòa hợp với chính bản thân, với những người xung quanh và với thiên nhiên.
+**Giáo sư Hà Vĩnh Thọ:** Ba nguồn cung cấp hạnh phúc và sức khỏe thân tâm của tôi là sống hòa hợp với chính bản thân, với những người xung quanh và với thiên nhiên.
 
 Nguồn thứ nhất là có sự hòa hợp với chính mình, cho phép mình đủ thời gian để thực tập chánh niệm, từ bi; cố gắng sống theo những giá trị mà mình trân quý và thực hiện hạnh nguyện sâu sắc nhất của mình.
 

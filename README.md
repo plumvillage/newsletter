@@ -63,7 +63,8 @@ VS Code allows for regex replace submatch, e.g.: ([a-zA-Z])" > $1”
   - ' > ’
   - \' > ’ (a pandoc markdown conversion thing)
   - " > “”
-  - ([a-zA-Z])"  > $1” 
+  -  "([\p{Letter}]) >  "$1
+  -  "([\p{Letter}]) >  "$1
   - ”. > .”
   - \*\*(.*)\*\* > ## $1
 

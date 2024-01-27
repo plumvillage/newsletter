@@ -17,12 +17,17 @@ const srcPath = "src/media/originals"
 const calligraphyPath = "calligraphy/article-titles/"
 const calligraphyPath2023 = "calligraphy2023/article-titles/"
 const parallelVerses2023path = "media/originals/passthroughCopies/ParallelVerses2023/"
+const parallelVerses2024path = "media/originals/passthroughCopies/ParallelVerses2024/"
 
 var articleTitleCalligraphies = fs.readdirSync(`src/media/originals/${calligraphyPath}`)
 var articleTitleCalligraphies2023 = fs.readdirSync(`src/media/originals/${calligraphyPath2023}`)
 var parallelVerses2023 = {
     dir: parallelVerses2023path,
     list: fs.readdirSync(`src/${parallelVerses2023path}`)
+}
+var parallelVerses2024 = {
+    dir: parallelVerses2024path,
+    list: fs.readdirSync(`src/${parallelVerses2024path}`)
 }
 let firstRun = true
 
@@ -251,6 +256,9 @@ module.exports = function(eleventyConfig) {
 
     eleventyConfig.addCollection('parallelVerses2023', function(c) {
         return parallelVerses2023
+    })
+    eleventyConfig.addCollection('parallelVerses2024', function(c) {
+        return parallelVerses2024
     })
     
     // https://www.11ty.dev/docs/languages/nunjucks/#generic-global
