@@ -99,6 +99,6 @@ Có lẽ hai cha con sẽ không bao giờ nói chuyện với nhau theo kiểu 
 
 **Sư chú Chân Nhất Vân:** Gia đình con không đến dự lễ xuất gia được nhưng có theo dõi buổi lễ trực tuyến. Lúc ban đầu, họ hỏi: “Chừng nào con về nhà?”. Nhưng bây giờ con nghĩ là gia đình đã hiểu. Con cho họ biết là con thấy rất bình an ở đây. Gia đình trước giờ luôn chấp nhận những chọn lựa của con. Hy vọng năm tới họ có thể tới thăm và sẽ thấy là ở đây hay hơn những gì họ hình dung rất nhiều.
 
-**Sư chú Chân Nhất Vũ:** Con đã có gia đình trước khi con đi tu. Con trai con chính là gia đình huyết thống của con. Con trai con đã biết từ lâu con đường mà con muốn đi vì con đã nuôi dạy con trai theo Năm giới. Nó cảm được con, nó thấy con “nở ra như một bông hoa” trong tăng thân, trong cuộc sống mới này. Tháng Tám năm ngoái, nó nói với con: “Thương yêu - một nghề thật là *chịu chơi*, ba!” ("To Love—this is a cool job, Dad!").
+**Sư chú Chân Nhất Vũ:** Con đã có gia đình trước khi con đi tu. Con trai con chính là gia đình huyết thống của con. Con trai con đã biết từ lâu con đường mà con muốn đi vì con đã nuôi dạy con trai theo Năm giới. Nó cảm được con, nó thấy con “nở ra như một bông hoa” trong tăng thân, trong cuộc sống mới này. Tháng Tám năm ngoái, nó nói với con: “Thương yêu - một nghề thật là *chịu chơi*, ba!” (“To Love—this is a cool job, Dad!”).
 
 **BBT:** Cảm ơn những lời chia sẻ rất chân thành của các sư em. Xin chúc các sư em luôn có nhiều niềm vui trên con đường sáng đẹp này!

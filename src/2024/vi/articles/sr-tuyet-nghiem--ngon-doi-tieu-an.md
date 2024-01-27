@@ -3,7 +3,7 @@ title: Ngọn đồi Tiểu Ẩn
 author: Sư cô Chân Tuyết Nghiêm
 ---
 
-Một nụ cười nhẹ nhàng thả trên ngọn đồi Tiểu Ẩn. Hơi thở bình an đang có mặt cho một tâm tư rỗng rang, thảnh thơi trong cuộc hẹn với chính mình. Hôm nay là ngày làm biếng. Mới chiều qua em rủ tôi đi núi uống trà, tôi mỉm cười trả lời em: “Làm biếng này chị có hẹn mất rồi”, rồi em hỏi tiếp “Chị có hẹn với ai vậy?". Tôi nhìn em một cách thân thương “Chị có hẹn với chính mình”. Thế rồi hai chị em đã cười với nhau trong sự thấu hiểu và yểm trợ sâu sắc. Tôi thầm biết ơn em!
+Một nụ cười nhẹ nhàng thả trên ngọn đồi Tiểu Ẩn. Hơi thở bình an đang có mặt cho một tâm tư rỗng rang, thảnh thơi trong cuộc hẹn với chính mình. Hôm nay là ngày làm biếng. Mới chiều qua em rủ tôi đi núi uống trà, tôi mỉm cười trả lời em: “Làm biếng này chị có hẹn mất rồi”, rồi em hỏi tiếp “Chị có hẹn với ai vậy?”. Tôi nhìn em một cách thân thương “Chị có hẹn với chính mình”. Thế rồi hai chị em đã cười với nhau trong sự thấu hiểu và yểm trợ sâu sắc. Tôi thầm biết ơn em!
 
 Tôi vốn là người của những cuộc hẹn, những buổi trà chiều, những giờ leo núi với huynh đệ,… Và ở đâu có tăng thân, có huynh đệ sum vầy thì vẫn thường có mặt tôi ở đó. Tôi luôn ưu tiên chọn có mặt cho huynh đệ vì ở đó tôi tìm thấy nguồn thức ăn cần thiết nuôi dưỡng hạnh phúc, chí nguyện của mình. Mỗi lần huynh đệ ngồi chơi với nhau, đi núi với nhau, ngồi hát ca,… là lòng tôi tràn đầy niềm vui. Tôi luôn cảm nhận những cái tôi riêng lẻ được nhẹ nhàng hòa tan vào nhau nhiệm mầu. Nên với tôi đó là cơ hội nuôi dưỡng tinh thần vô ngã, tương tức trong mỗi người. Mình cần nhau, mình nương tựa vào nhau, cùng nhau làm nên một tác phẩm chung, không ai là quan trọng hơn ai cả.
 

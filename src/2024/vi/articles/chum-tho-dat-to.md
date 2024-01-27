@@ -20,7 +20,7 @@ hạt trổ mầm xanh.<br/>
 Sớm nay dấu chân con in dưới những hàng thông<br/>
 nghe hơi thở hòa vào hồn núi sông thiêng khí<br/>
 đất trời muôn thuở<br/>
-dặm con đi tổ tiên che chở, đưa lối dẫn đường.</p>
+dặm con đi tổ tiên che chở, đưa lối dẫn đường.</p></div>
 
 <div class="verse"><p><b>Dừng chân</b></p>
 <p>“Quê hương tôi là đây<br/>
@@ -39,7 +39,7 @@ Khói trầm nhẹ bay<br/>
 hương phảng phất<br/>
 gọi hồn tâm linh trong một chốc<br/>
 tiếng vũ trụ gọi kẻ lang thang về<br/>
-dừng chân.</p>
+dừng chân.</p></div>
 
 <div class="verse"><p><b>Thương</b></p>
 <p>Thương<br/>
@@ -55,7 +55,7 @@ Vầng dương lên<br/>
 chồi non xanh<br/>
 đất lành<br/>
 “sự sống níu<br/>
-trên vành nôi ươm biếc”.</p>
+trên vành nôi ươm biếc”.</p></div>
 
 <div class="verse"><p><b>Vành nôi êm</b></p>
 <p>Em sinh ra tay ai bế ai bồng<br/>
@@ -71,4 +71,4 @@ Vành nôi êm tay đưa tiếng à ơi<br/>
 Lời ru ấm êm Thầy mơ ngày mai lớn lên con làm Thánh Gióng<br/>
 Vó ngựa cánh bằng<br/>
 Trượng phu xây chí<br/>
-Góp kì vĩ núi sông.</p>
+Góp kì vĩ núi sông.</p></div>

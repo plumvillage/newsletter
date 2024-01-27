@@ -44,7 +44,7 @@ Khi một vị thiền sinh cúng dường tăng thân, hoặc đóng góp tiề
 <div class="verse"><p>Bình bát của Như Lai<br/>
 Nay được nâng trên tay<br/>
 Nguyện hết lòng thực tập<br/>
-Pháp tam luân không tịch<br/><cite>Kệ Nâng bát — Bước tới thảnh thơi<br/>Sư Ông Làng Mai</cite></p></div>
+Pháp tam luân không tịch<br/><cite>Kệ Nâng bát, Bước tới thảnh thơi<br/>Sư Ông Làng Mai</cite></p></div>
 
 Con bướm và bông hoa, nếu ta lấy đi một cái, thì cái kia cũng không còn tồn tại nữa. Con bướm và bông hoa nương vào nhau để biểu hiện cùng một lúc. Nếu chúng tiến hóa, thì chúng sẽ cùng nhau tiến hóa. Chúng không hơn, không kém mà cũng không bằng nhau.
 
@@ -62,7 +62,7 @@ bằng một nụ cười tự tấm lòng.</p></div>
 
 ## Đi khất thực là một pháp môn
 
-Trong chúng tôi, có một vài người tự hỏi “Có phải chúng ta tổ chức một sự kiện chỉ có tính cách biểu tượng mà thôi?", hay “Chúng ta có nuôi dưỡng ý tưởng muốn làm những gì Đức Bụt đã làm, trong khi trên thực tế, chúng ta đã có quá đủ thức ăn và tiện nghi trong tu viện hay không?".
+Trong chúng tôi, có một vài người tự hỏi “Có phải chúng ta tổ chức một sự kiện chỉ có tính cách biểu tượng mà thôi?”, hay “Chúng ta có nuôi dưỡng ý tưởng muốn làm những gì Đức Bụt đã làm, trong khi trên thực tế, chúng ta đã có quá đủ thức ăn và tiện nghi trong tu viện hay không?”.
 
 Tôi đã tìm ra một câu trả lời khi quan sát những gì xảy ra vào ngày khất thực qua cách tổ chức và sự thực tập của mọi người. Tôi thấy những hạt giống thiện lành trong từng cá nhân và trong đoàn thể đang được tưới tẩm. Chúng tôi thực tập hài hòa trong quan điểm, lắng nghe nhau, có mặt và hành động trong chánh niệm, tưới tẩm những hạt giống rộng lượng, biết ơn, khiêm tốn, hạnh nguyện, quyết tâm và hiểu biết - thậm chí bằng cách đặt những câu hỏi như trên. Trong ngày hôm đó, chúng tôi cũng quán chiếu về mối quan hệ giữa mình với thức ăn và cảm thọ nơi tự thân.
 
