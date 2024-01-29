@@ -139,10 +139,10 @@ https://github.com/CatharsisFonts/Cormorant
     font-style: italic;
 }
 
+/* regular is font-weight: 400 */
 @font-face {
     font-family: "Cormorant Garamond";
     src: url("fonts/CormorantGaramond-Regular.woff2") format("woff2");
-    /* regular is font-weight: 400 */
 }
 
 @font-face {

@@ -17,9 +17,11 @@ author: Phỏng vấn gia đình Daffodil
 {% image "article2024/Done-Daffodil family/Br.Nhat Nguyen.jpg" %}
 {% image "article2024/Done-Daffodil family/Br.Nhat Thanh.jpg" %}
 {% image "article2024/Done-Daffodil family/Br.Nhất Vân.jpg" %}
-{% image "article2024/Done-Daffodil family/Sr.Đăng Hạnh.jpg" %}
+
 
 **Sư chú Chân Nhất Nguyên:** Con biết đến Sư Ông và bắt đầu thiền tập khoảng một năm rưỡi trước khi con đến Làng Mai lần đầu. Khi ấy, con đã thấy có nhiều lợi lạc và tìm được bình an trong thân. Trong quyển sách *You are here* (tạm dịch *Bạn đang có mặt đây: Khám phá phép lạ trong hiện tại*), Sư Ông giải thích về giáo lý tương tức. Đối với con, đó là điều tuyệt vời nhất mà con từng được nghe. Đây chính là hai dấu hiệu cho biết con đã tìm được con đường sáng đẹp cho cuộc đời mình.
+
+<p class="pull-quote">Sư Ông giải thích về giáo lý tương tức. Đối với con, đó là điều tuyệt vời nhất mà con từng được nghe. Đây chính là hai dấu hiệu cho biết con đã tìm được con đường sáng đẹp cho cuộc đời mình.</p>
 
 Trước đây con chưa bao giờ cảm thấy mình có một con đường sáng để đi. Thường thì con hành xử bằng sợ hãi và căng thẳng, cố gắng để sống còn. Nhưng khi bước trên con đường này, con thấy mình có bình an và hạnh phúc. Con thấy mình buông được nỗi sợ. Và quyết định xuất gia đến với con một cách thật nhẹ nhàng, thảnh thơi.
 
@@ -51,7 +53,11 @@ Vì hai lý do này mà con quyết định nương tựa truyền thống Làng
 
 **Sư cô Chân Đăng Hạnh:** Đã từ lâu con biết rất rõ sự tu tập sẽ là một điều thiết yếu của đời mình. Khi còn sống ở New York, con quyết định mỗi năm sẽ đến tu viện Bích Nham vài hôm vào dịp sinh nhật của mình. Con đã đọc quyển *Bước tới thảnh thơi*, thậm chí cả quyển *Giới bản khất sĩ tân tu* nữa. Ý tưởng xuất gia thật hấp dẫn, nhưng khi đó nó chỉ là một lý tưởng nằm trong trí tưởng tượng của con mà thôi.
 
+{% image "article2024/Done-Daffodil family/Sr.Đăng Hạnh_e.jpg" %}
+
 Năm đó, sau sinh nhật của con tại Bích Nham, con ngồi trong thiền đường lớn. Thấy tâm mình thật tĩnh lặng, con tự nhủ “Đây là lúc mình có thể đặt câu hỏi từ đáy lòng mình”. Con mời Sư Ông (trong con) cùng ngồi với con, rồi hỏi: “Bạch Sư Ông, con có một vòng luẩn quẩn vui vui. Dù cho con chọn làm cư sĩ hay xuất sĩ thì con vẫn phải tu. Vậy thì con nên chọn cái nào ạ?” (Cho đến giờ phút đó, trong con vẫn còn những nghi ngại nho nhỏ như là “không biết mình có thể buông bỏ nhạc, váy áo, và các thứ đồ đạc của mình không?”; “Nếu mình vẫn còn muốn đi du lịch bất cứ khi nào mình nổi hứng thì sao?”; “Không có tóc không biết nhìn mình có ổn không?”) Khi đó có một giọng nói vang vang trả lời con: “Con đang chú tâm vào những nghi ngại vặt vãnh chứ không chú tâm vào đại nguyện của con”. Câu trả lời của Sư Ông quá rõ ràng làm con bật khóc. Nhưng trong lòng thấy nhẹ nhõm, con thưa: “Dạ, bạch Sư Ông”. Ngay lập tức con đi tìm một sư cô lớn để hỏi cách xuất gia.
+
+<p class="pull-quote">Con đang chú tâm vào những nghi ngại vặt vãnh chứ không chú tâm vào đại nguyện của con.</p>
 
 Trong lễ xuất gia, khi chúng con ngồi chờ để được gọi lên trình diện trước Tam bảo, con tự nhủ: “Giờ mình hãy buông hết những nghi ngại để *phát túc siêu phương*”. Con biết mình đã mong chờ giây phút này quá lâu rồi, cho đến nỗi con nghĩ nếu con có qua đời ngay ngày hôm đó, con cũng hạnh phúc. Bởi vì con đã cố gắng hết khả năng của mình rồi. Tất cả những điều khác nằm ngoài khả năng của con. Giờ thì không còn có giọng nói thì thầm ở trong đầu “Ồ, nhưng mà…” nữa. Thật nhẹ nhõm làm sao!
 

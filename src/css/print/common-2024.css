@@ -770,6 +770,27 @@ article ul li::before {
     margin: 0mm !important;
 }
 
+p.pull-quote {
+    font-family: "Cormorant Garamond";
+    font-size: 170%;
+    margin-top: 0.25em;
+    padding-right: 1em;
+    padding-left: 1em;
+    padding-bottom: 0.3em;
+    text-indent: -0.2em !important;
+    line-height: 130%;
+    font-weight: 400;
+    font-style: italic;
+}
+p.pull-quote:before {
+    content: '“';
+    font-size: 300%;
+    font-weight: 100;
+    position: relative;
+    top: 0.32em;
+    left: -0.13em;
+    color: #939393;
+}
 
 
 /* ////////////////////////////////////////////////// */
@@ -828,4 +849,9 @@ figure#article2024br-duc-hienIMG0754e {
     margin-bottom: 20pt;
 	padding-left: 7pt;
     font-style: normal;
+}
+
+figure#article2024Done-Daffodil-familySrDJang-Hanhe {
+    padding-left: 5%;
+    padding-right: 5%;
 }
