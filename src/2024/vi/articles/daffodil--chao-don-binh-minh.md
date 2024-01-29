@@ -18,6 +18,7 @@ author: Phỏng vấn gia đình Daffodil
 {% image "article2024/Done-Daffodil family/Br.Nhat Thanh.jpg" %}
 {% image "article2024/Done-Daffodil family/Br.Nhất Vân.jpg" %}
 
+{% image "article2024/Done-Daffodil family/051_05_Nov_2023_e_crop.jpg" %}
 
 **Sư chú Chân Nhất Nguyên:** Con biết đến Sư Ông và bắt đầu thiền tập khoảng một năm rưỡi trước khi con đến Làng Mai lần đầu. Khi ấy, con đã thấy có nhiều lợi lạc và tìm được bình an trong thân. Trong quyển sách *You are here* (tạm dịch *Bạn đang có mặt đây: Khám phá phép lạ trong hiện tại*), Sư Ông giải thích về giáo lý tương tức. Đối với con, đó là điều tuyệt vời nhất mà con từng được nghe. Đây chính là hai dấu hiệu cho biết con đã tìm được con đường sáng đẹp cho cuộc đời mình.
 

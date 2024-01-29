@@ -1,6 +1,6 @@
 ---
-title: Interview With the Daffodil Family
-author: 
+title: Greeting the Dawn
+author: Interview with the Daffodil Family
 ---
 
 <p class="editors-preface">On 5 November 2023, ten young people shed their hair to become novice monks and nuns in the Daffodil family in Plum Village France. The Newsletter Team had a chance to interview them after their ordination to learn of their journeys, transformations, challenges, and aspirations.</p>
@@ -20,6 +20,8 @@ author:
 
 ***Newsletter Team:*** Could you share with us how you came to realise “This is it! This is the path that I have been looking for.”
 
+{% image "article2024/Done-Daffodil family/044_110723.jpg" %}
+
 ***Br. Nhat Nguyen*** *(True Source of Oneness):* When I found Thay and started to meditate---that was one and a half years before I first came to Plum Village---I quickly enjoyed the benefits of meditation, finding calm in my body. In the book You Are Here, Thay explains Interbeing, and I immediately felt it was the most beautiful thing I’ve ever heard. Those two made me feel I found my path in life, a big bright path for me!
 
 Before, I had never felt like having a clear path. I often acted out of fear and stress, trying to survive in the world. But this path was just there for me to walk very calmly and joyfully. The feeling was very much one of letting go of fear. Deciding to become a monastic felt very light and freeing.
@@ -35,6 +37,8 @@ Before, I had never felt like having a clear path. I often acted out of fear and
 While an aspirant, I told myself, “Regardless of whether I get accepted or not, I want to become a monk.” Knowing th'at I want to continue on the path strengthened my commitment. This was a beautiful moment.
 
 ***Sr. Don Hanh*** *(True Kind Action; Sr. Don Hanh has come as a monastic from another Zen tradition):* When I was 20 years old, I was going through a difficult period in my life and, looking for something to help me rediscover my inner balance, I found a meditation centre in the Japanese Soto Zen tradition in Madrid, my hometown. I remember very well the feeling of peace and joy I felt the first time I sat in zazen. Without having any idea of Buddhism or meditation, I felt somehow that I had finally found what could help me.
+
+{% image "article2024/Done-Daffodil family/051_05_Nov_2023_e_crop.jpg" %}
 
 I continued to practise assiduously, going every day to the dojo and monthly retreats, and little by little I was able to re-establish an intimate connection with myself and find inner peace and happiness.
 
@@ -60,6 +64,8 @@ After one of my birthdays at Blue Cliff, I remember sitting in the big meditatio
 
 In the ordination ceremony, when we were waiting to stand up and walk in procession to the altar, I told myself, “Let go of all doubts and step into freedom!” I knew I had wanted this for so long, to the extent that if I died today, I would be happy. I did my best. Everything else was beyond my control. Now there is no more incessant talking in the back of my head saying “Ohh, but…” It is very relieving.
 
+{% image "article2024/Done-Daffodil family/Br.Nhat Luong_e.jpg" %}
+
 ***Br. Nhat Luong*** *(True Refreshing Oneness):* The question of how I ended up in Plum Village is like a box full of surprises. Already as a young teenager---20 years ago---I wanted to ordain. I first encountered a Chinese Zen Master from the City of Ten Thousand Buddhas in California. I was very impressed reading his books, but I couldn’t get a visa to enter the US.
 
 So I went to a monastery in Malaysia. It was quite a difficult experience because the culture is so different and the style of Buddhism is very traditional, full of rituals and embellishments. I was a bit disappointed that I didn’t fit in and ended up going back home.
@@ -67,6 +73,8 @@ So I went to a monastery in Malaysia. It was quite a difficult experience becaus
 I then tried a monastery in Hong Kong in the mountains outside the city, where I spent three months. It was amazing, but I did not end up staying there either. Then I went to the Thai Forest Tradition in 2012 and ended up ordaining as a novice for four months. But again, I did not fit into the culture, and the way of practice seemed too rigid to me. At some point I could not sleep at night, I became depressed, and ended up leaving.
 
 I took ten years to reevaluate, but even though I opened my mind to things besides Buddhism, the desire to ordain never disappeared. I have since made much more progress and relate to myself in a different way. When Thay passed away---without knowing it---I started crying in meditation, and I asked myself, “Why is this happening, who died?” Then I found out Thay had passed away. I eventually came to Plum Village for a retreat, thinking this could be a good place to ordain.
+
+{% image "article2024/Done-Daffodil family/055_05_Nov_2023_e.jpg" %}
 
 ***Sr. Dieu Hanh*** *(True Wondrous Action):* Seven years ago, I was lucky enough to discover Maison de L’Inspir, and often visited to practise. I also came to Plum Village, especially in the summer and for the Rains Retreat. I don’t exactly know when the wish to ordain came up. I had the strong feeling inside of me that this is really a path that I want to follow, because it helped me so much.
 
@@ -113,6 +121,8 @@ Of course, it takes some time to get to know everybody. I enjoy always having ma
 ***Sr. Dang Hanh:*** After I had been practising for a few years back in the U.S. I felt that I had a lot of transformation. I was listening to my mother more deeply, I was accepting my father more, I felt more space. Nowadays when I call customer service, I make the representative laugh. I think I interact with people so differently now. I once asked my father, “Do you feel that I changed in the past year?” I felt we were not fighting or getting into arguments as much as before. And he just said “No.” (Laughter) But I do feel a difference.
 
 When I announced to my dad that I wanted to become a nun 2 years ago, it was a huge shock for him. He is an immigrant and worked really hard. He said, “You know, I’ve lived this way and I was successful, but I don’t really know if I would recommend it to anybody either. You’ve made me think back on the way that I thought was the right way to live. I don’t even know why it is the right way to live.” I don’t think my father would have had that kind of conversation with me if I hadn’t made this decision.
+
+{% image "article2024/Done-Daffodil family/200_110723_e.jpg" %}
 
 ***Br. Nhat Nguyen:*** One of the big reasons I like this tradition is because family is treasured. The practice of seeing my parents as a 5 year old child has changed my life. Being in the Sangha for one year helped me see them very differently. Because of my growing stability, I was brave enough to see their instability. Before, I would suppress this, or become angry at them without understanding why. Something in me wanted them to be that stability for me, that would take care of me. But now, it feels like I don’t need that from them. I could see their instability and from that arose a lot of compassion and love. My mother didn’t have to be perfect. It healed the relationship with my mother. I’m very happy with this. My mother is so sweet.
 
