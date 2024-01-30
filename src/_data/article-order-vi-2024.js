@@ -1,6 +1,6 @@
 module.exports = [
     // Muôn thu ngàn dặm một nhà (Tường thuật về lễ Đại tường)	
-    "lang-mai-nam-qua",
+    // "lang-mai-nam-qua",
     "su-ong--thap-sang-hien-huu",
     "sr-hoa-nghiem--ngan-song-trang-hien",
     "br-bat-nha--chiec-au-nhat-binh",
@@ -23,4 +23,5 @@ module.exports = [
     "br-hai-thuong--trot-thuong",
     "br-hai-thuong--nguoi-da-ve-da-toi",
     "tien-nguyen--co-nhung-ngay-uom-nang",
+    // CALLIGRAPHY nguoi di hai thuoc dau non.webp
 ]

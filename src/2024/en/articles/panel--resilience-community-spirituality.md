@@ -4,9 +4,13 @@ author: Tho Ha Vinh, Rehena Harilal and Satish Kumar
 ---
 
 <div class="editors-preface"><p>The following is an excerpt of the panel conversation on the theme of Resilience, Community, and Spirituality that took place in June 2023, during the Earth Holder’s Retreat ‘Love is Freedom.’ Our three panelists were:</p>
-<p><b>Tho Ha Vinh</b> received the lamp transmission from Thay in 2001. He was the former program director of Bhutan’s Gross National Happiness Center and is the author of the book “A Culture of Happiness.”</p>
+{% image "article2024/Done-Resillence, Community, Spituality/Rehena_34.png" %}
 <p><b>Rehena Harilall</b> joined the Order of Interbeing in 2016, is a member of the Heart of London Sangha, Colors of Compassion Sangha, and actively brings racial justice and climate justice together. She founded “Buddhists across Traditions,” a BIPOC-centered collective in the UK in 2019.</p>
-<p><b>Satish Kumar</b> is the founder of Schumacher College for ecological studies. In 1962 he went on a peace walk of over 8,000 miles for two and a half years, from New Delhi to Moscow, Paris, London, and Washington, D.C. He is the author of the recently published book Radical Love.</p></div>
+{% image "article2024/Done-Resillence, Community, Spituality/Satish Kumar_34.png" %}
+<p><b>Satish Kumar</b> is the founder of Schumacher College for ecological studies. In 1962 he went on a peace walk of over 8,000 miles for two and a half years, from New Delhi to Moscow, Paris, London, and Washington, D.C. He is the author of the recently published book Radical Love.</p>
+{% image "article2024/Done-Resillence, Community, Spituality/Ha Vinh Tho_34.png" %}
+<p><b>Tho Ha Vinh</b> received the lamp transmission from Thay in 2001. He was the former program director of Bhutan’s Gross National Happiness Center and is the author of the book “A Culture of Happiness.”</p>
+</div>
 
 ***Sr Lang Nghiem (facilitator):*** In our current global state, there is much despair, anger, blame, and disappointment. How do you continue to act from a place of love?
 
@@ -31,6 +35,11 @@ Hatred starts when you see others as separate from you, but we are not separate,
 Thay talks about taking care of anger. What is the impact if I respond with this type of emotion? Am I perpetuating the same energy of division, anger, and hatred that someone else has acted on me? We can practice loving, like a little muscle. If we practice every day, it increases. Mindfulness helps me to listen to who I am, to see who I am, to understand who I am. Love comes from understanding.
 
 The journey to love outside is also the journey inside. Suppose there is a person whose views are the most diametrically opposed to mine. That person is still a human being, who is connected to me, whose life has shaped their suffering and experience, who is trying to do things in a way that they believe is the right way. I like to see and separate an action from an individual, because we all have anger, and also the capacity to love and to be compassionate. The important thing is, what do I do every day to increase my compassion and joy, to open my heart to everyone? I think to love is to be in service. If compassion is overflowing, if it comes with the right intention, there is no compassion fatigue.
+
+{% image "article2024/Done-Resillence, Community, Spituality/IMG_7922_.jpg" %}
+{% image "article2024/Done-Resillence, Community, Spituality/IMG_7925_.jpg" %}
+{% image "article2024/Done-Resillence, Community, Spituality/IMG_7811_.jpg" %}
+{% image "article2024/Done-Resillence, Community, Spituality/IMG_7899_.jpg" %}
 
 ***Sr Lang Nghiem:*** Thank you for explaining how you practice with anger. When we act from a place of love, rather than anger, we in fact process the anger; when we acknowledge it, when we don’t suppress it, it becomes the source of our love and compassion.  
 Tho, what sustains you, and what keeps you from engagement fatigue?

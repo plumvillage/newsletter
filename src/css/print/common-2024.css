@@ -851,6 +851,8 @@ figure#article2024br-duc-hienIMG0754e {
     font-style: normal;
 }
 
+figure#article2024Done-Daffodil-familyBrNhat-Xuane,
+figure#article2024Done-Daffodil-family137110723e,
 figure#article2024Done-Daffodil-familySrDieu-Hanhe,
 figure#article2024Done-Daffodil-familyBrNhat-Vane,
 figure#article2024Done-Daffodil-familyBrNhat-Nguyene,
@@ -860,6 +862,109 @@ figure#article2024Done-Daffodil-familyBrNhat-Luonge2,
 figure#article2024Done-Daffodil-family05505Nov2023e,
 figure#article2024Done-Daffodil-family05105Nov2023ecrop,
 figure#article2024Done-Daffodil-familySrDJang-Hanhe {
-    padding-left: 6%;
-    padding-right: 6%;
+    display: inline;
+    float: left;
+    margin-right: 0.9em;
+    padding-top: 0.3em;
+    margin-bottom: 0.6em;
+    /* margin-top: 0em; */
+    width: 47%;
+}
+
+#calligraphy2024article-titlessu-ong-love-is-the-answer, #calligraphy2024article-titlessu-ong-love-is-the-answer img {
+    max-height: 39mm !important;
+}
+
+/* calligraphy */
+#thap-sang-hien-huu + h2.author {
+    margin-top: -9pt !important;
+}
+
+.article-love-is-the-answer h2.author {
+    margin-top: -24pt;
+}
+
+.article-thap-sang-hien-huu .editors-preface,
+.article-love-is-the-answer .editors-preface {
+    column-span: all;
+    width: 71%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.article-thap-sang-hien-huu .editors-preface::after,
+.article-love-is-the-answer .editors-preface::after {
+    display: none;
+}
+
+figure#article2024Done-interview-with-thayTNH-spain2014-2 {
+    display: block;
+    float: none;
+    column-span: all;
+    width: 71%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* copy from divider */
+figure#article2024Done-interview-with-thayTNH-spain2014-2::after {
+    margin-top: 10pt;
+    font-style: normal;
+    content: "✦";
+    font-size: 70%;
+    /* problems with layout without padding. very weird. */
+    padding-top: 1.2mm;
+    padding-bottom: 1.8mm;
+    height: 0.25mm;
+    line-height: 0.65mm;
+    color: var(--color-bark-dark);
+    text-align: center;
+    text-align-last: center;
+    display: block;
+    width: 100%;
+    /* box-shadow: inset ... will produce glitches (border stripes) in pdf output */
+    background-clip: content-box;
+    background-image: linear-gradient(to right,
+    transparent 3%,
+    var(--color-bark-dark),
+    transparent 50%,
+    var(--color-bark-dark),
+    transparent 97%);
+}
+
+figure#article2024Done-interview-with-thayTNH-spain2014-2 + p {
+    text-indent: 0em;
+    margin-top: 0em;
+}
+
+.PAGE-OF-article2024Done-interview-with-thayIMG9672 p {
+    text-shadow: 0.3pt 0.4pt 0px white;
+}
+
+#article2024Done-Resillence-Community-SpitualityHa-Vinh-Tho34,
+#article2024Done-Resillence-Community-SpitualityRehena34,
+#article2024Done-Resillence-Community-SpitualitySatish-Kumar34 {
+    display: inline;
+    float: left;
+    margin-right: 0.9em;
+    padding-top: 0.3em;
+    margin-bottom: 2.3em;
+    /* margin-top: 0em; */
+    width: 35%;
+}
+
+html:lang(vi) #article2024Done-Resillence-Community-SpitualityRehena34,
+html:lang(vi) #article2024Done-Resillence-Community-SpitualitySatish-Kumar34,
+#article2024Done-Resillence-Community-SpitualityHa-Vinh-Tho34 {
+    margin-bottom: 0em;
+}
+
+.article-cau-tra-loi-la-tinh-thuong .editors-preface p,
+.article-resilience-community-and-spirituality .editors-preface p {
+    text-indent: 0em;
+}
+
+/* calligraphy */
+#cau-tra-loi-la-tinh-thuong + h2.author {
+    margin-top: -16pt !important;
 }

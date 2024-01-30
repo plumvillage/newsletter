@@ -1,5 +1,5 @@
 module.exports = [
-    "a-year-in-review",
+    // "a-year-in-review",
     "su-ong--love-is-the-answer",
     "panel--resilience-community-spirituality",
     "br-duc-hien--a-spiritual-family-without-borders",

@@ -16,11 +16,14 @@ const Image = require("@11ty/eleventy-img")
 const srcPath = "src/media/originals"
 const calligraphyPath = "calligraphy/article-titles/"
 const calligraphyPath2023 = "calligraphy2023/article-titles/"
+const calligraphyPath2024 = "calligraphy2024/article-titles/"
 const parallelVerses2023path = "media/originals/passthroughCopies/ParallelVerses2023/"
 const parallelVerses2024path = "media/originals/passthroughCopies/ParallelVerses2024/"
 
 var articleTitleCalligraphies = fs.readdirSync(`src/media/originals/${calligraphyPath}`)
 var articleTitleCalligraphies2023 = fs.readdirSync(`src/media/originals/${calligraphyPath2023}`)
+var articleTitleCalligraphies2024 = fs.readdirSync(`src/media/originals/${calligraphyPath2024}`)
+
 var parallelVerses2023 = {
     dir: parallelVerses2023path,
     list: fs.readdirSync(`src/${parallelVerses2023path}`)
@@ -268,11 +271,18 @@ module.exports = function(eleventyConfig) {
         if (e.hasCalligraphy) {
             e.calligraphyFile = `${calligraphyPath}${fileSlug}.webp`
         } else {
-            e.hasCalligraphy = articleTitleCalligraphies2023.includes(`${fileSlug}.webp`)
-            if (e.hasCalligraphy) {
-                // console.log("found calligraphy for article: ", fileSlug)
-                e.calligraphyFile = `${calligraphyPath2023}${fileSlug}.webp`
-            }
+
+        e.hasCalligraphy = articleTitleCalligraphies2023.includes(`${fileSlug}.webp`)
+        if (e.hasCalligraphy) {
+            e.calligraphyFile = `${calligraphyPath2023}${fileSlug}.webp`
+        } else {
+
+        e.hasCalligraphy = articleTitleCalligraphies2024.includes(`${fileSlug}.webp`)
+        if (e.hasCalligraphy) {
+            console.log("found calligraphy for article: ", fileSlug)
+            e.calligraphyFile = `${calligraphyPath2024}${fileSlug}.webp`
+        }
+        }
         }
         return e
     })

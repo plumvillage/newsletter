@@ -5,11 +5,9 @@ author: Sư Ông Làng Mai
 
 <div class="editors-preface"><p>Đây là đoạn trích từ cuộc phỏng vấn do Jo Confino thực hiện với Thầy tại thất Da Cóc, Sơn Hạ vào năm 2012. Lúc ấy Jo là phóng viên của báo The Guardian, Vương quốc Anh. Bản ghi âm cuộc phỏng vấn đã bị thất lạc một thời gian và gần đây đã tìm lại được. Quý vị có thể nghe toàn bộ cuộc phỏng vấn trên Plum Village Podcast “The Way Out is In” số 41, phát thanh vào ngày 21 tháng 3 năm 2023.</p></div>
 
-**Jo Confino: Thưa Thầy, trước tình hình biến đổi khí hậu và môi trường thiên nhiên bị tàn phá như hiện nay, nhiều người vẫn có vẻ thờ ơ và chưa muốn hành động gì cả. Thầy nghĩ gì về điều này?**
-
-{% image "article2024/Done-interview-with-thay/IMG_9672_.jpg" %}
 {% image "article2024/Done-interview-with-thay/TNH - spain2014 (2).jpg" %}
-{% image "article2024/Done-interview-with-thay/Calligraphy_TNH_You-have-enough.jpg" %}
+
+**Jo Confino: Thưa Thầy, trước tình hình biến đổi khí hậu và môi trường thiên nhiên bị tàn phá như hiện nay, nhiều người vẫn có vẻ thờ ơ và chưa muốn hành động gì cả. Thầy nghĩ gì về điều này?**
 
 **Thầy:** Thực ra, họ không hành động gì không chỉ đối với vấn đề biến đổi khí hậu mà còn đối với nhiều vấn đề khác. Họ có nhiều vấn đề cá nhân như liên hệ với chính tự thân, với người khác và với gia đình. Nhưng họ đâu làm gì để cải thiện những mối liên hệ này.
 
@@ -41,6 +39,8 @@ Khi thiền hành, chúng ta tiêu thụ thời gian. Trong bối cảnh của n
 
 Cho nên ta cần chia sẻ cho họ cách đi từ bãi đậu xe đến nơi làm việc. Đi như thế nào để mỗi bước chân có thể phục hồi sự bình an, niềm vui và tình yêu cuộc sống trong họ. Giúp cho họ làm thế nào để dừng suy nghĩ.
 
+{% image "article2024/Done-interview-with-thay/Calligraphy_TNH_You-have-enough.jpg" %}
+
 **Jo Confino: Rất nhiều người mất sự kết nối giữa cuộc sống của họ và những điều ảnh hưởng đến cuộc sống ấy. Thí dụ như khi mua một cái gì đó, họ không biết nó đến từ đâu, cũng không biết ai đã sản xuất nó và những người sản xuất đó sống ra sao. Họ thật sự bị cách biệt với thế giới xung quanh. Và họ không thấy được rằng bất cứ điều gì họ làm cũng có ảnh hưởng đến thế giới. Thầy có nghĩ rằng người ta sống mà bị mất kết nối như vậy là một vấn đề hay không?**
 
 **Thầy:** Chính vì thực trạng đó cho nên trong quyển sách “Nghệ thuật tiêu thụ”, ta có thể chỉ cho họ cách ăn: nghệ thuật ăn. Thay vì suy nghĩ và nói nhiều trong khi ăn, người ta tập dừng lại để ăn cho đàng hoàng. Nhìn vào thức ăn, tiếp xúc với miếng cà rốt, với phân bón, với nước, với mưa, với nắng. Tiếp xúc với đất Mẹ. Ăn như thế nào để có thể tiếp xúc được với sự sống, với gốc rễ của mình. Đó là thiền tập. Và thiền tập rất dễ chịu. Người ta vốn đã có một thói quen ăn uống cho nên ta phải chỉ cho họ một cách ăn khác để họ có thể thấy được làm thế nào một miếng cà rốt có mặt trong bữa ăn của họ. Trước khi bắt đầu ăn, ta đọc Năm lời quán nguyện. Nhưng sự quán chiếu phải kéo dài trong suốt bữa ăn chứ không phải chỉ lúc bắt đầu mà thôi. Khi dừng lại mọi suy tư, ta nhai mỗi miếng thức ăn trong ý thức đó, tiếp xúc với thức ăn và phát khởi lòng biết ơn. Chừng nào còn biết ơn, chừng đó ta còn hạnh phúc.
@@ -50,6 +50,8 @@ Sáng nay lúc tôi lạy xuống, tôi không lạy như một cá nhân. Tôi 
 Khi tôi lạy xuống trước Bụt, tôi không thấy Bụt là một cái ngã riêng biệt mà là sự tiếp nối của cả một dòng tâm linh bất tận. Cho nên ta có thể thấy được gốc rễ của Bụt trong nhiều thế hệ. Trong khi lạy xuống như vậy, ta có được tuệ giác vô ngã. Người ngồi trước mặt của bạn chính là một vị đại sứ. Người ấy có mặt không như một cá nhân. Người ấy đại diện cho cả dòng họ tổ tiên, cho đất nước, dân tộc của mình. Cho nên bạn cần tập nhìn người thương, bạn bè của mình như những vị đại sứ của cả dòng họ tổ tiên. Và bạn xá xuống trước họ: “Xin chào ngài đại sứ”. Nhìn được như vậy bạn sẽ có thể liên hệ với người đó với lòng kính trọng và nể phục, bởi vì trong họ có những tài năng và đức hạnh của rất nhiều thế hệ. Bạn không nói với người ấy như một cá nhân. Bạn nói chuyện với người ấy với lòng kính trọng bởi vì trong người ấy cũng có một vị Bụt. Đó là cách để nhìn mọi người.
 
 Một cây thông được làm bởi rất nhiều thế hệ, có cả trăng, sao trong đó. Cho nên bạn xá xuống trước một cây thông. Đó là một hành động văn minh, một lối sống đẹp. Nếu bạn học theo lối sống đó, bạn không cần ai nhắc nhở trong việc chăm sóc môi trường. Bạn có thể tự làm được. Đó chính là tuệ giác có được khi bạn thực hành vô ngã. Chúng ta sống cuộc sống hàng ngày với những trải nghiệm như vậy. Khi đó những gì chúng ta nói hay viết đều có thể chạm đến trái tim của người khác. Bởi vì chúng ta viết từ tuệ giác của chính mình mà không phải lấy từ ý của người khác. Vì vậy viết quyển sách “Nghệ thuật tiêu thụ” cũng chính là một sự thực tập. Những người sản xuất ra sản phẩm cho chúng ta tiêu thụ, và chúng ta, những người mua các sản phẩm đó, tất cả chúng ta đều cần học cách tiêu thụ.
+
+{% image "article2024/Done-interview-with-thay/IMG_9672_.jpg" %}
 
 **Jo Confino: Theo Thầy, những nhà hoạt động xã hội nên làm gì? Thầy nói rất đúng là việc đầu tiên họ phải làm là chế tác hạnh phúc cho chính họ. Nhưng về phương diện hành động, ta phải làm thế nào để lên tiếng chống lại áp bức và bất công xã hội? Có cách nào để làm việc đó với sự bình an và lòng quyết tâm?**
 
