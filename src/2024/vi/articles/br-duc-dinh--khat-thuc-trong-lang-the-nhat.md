@@ -2,6 +2,7 @@
 title: Khất thực trong làng Thệ Nhật
 author: Thầy Chân Trời Đức Định
 ---
+<!-- title: Bình bát của Như -->
 
 ## Duyên đã chín muồi
 

@@ -20,9 +20,9 @@ author: Interview with the Daffodil Family
 
 ***Newsletter Team:*** Could you share with us how you came to realise “This is it! This is the path that I have been looking for.”
 
-{% image "article2024/Done-Daffodil family/044_110723.jpg" %}
+***Br. Nhat Nguyen*** *(True Source of Oneness):* When I found Thay and started to meditate — that was one and a half years before I first came to Plum Village — I quickly enjoyed the benefits of meditation, finding calm in my body. In the book You Are Here, Thay explains Interbeing, and I immediately felt it was the most beautiful thing I’ve ever heard. Those two made me feel I found my path in life, a big bright path for me!
 
-***Br. Nhat Nguyen*** *(True Source of Oneness):* When I found Thay and started to meditate---that was one and a half years before I first came to Plum Village---I quickly enjoyed the benefits of meditation, finding calm in my body. In the book You Are Here, Thay explains Interbeing, and I immediately felt it was the most beautiful thing I’ve ever heard. Those two made me feel I found my path in life, a big bright path for me!
+{% image "article2024/Done-Daffodil family/044_110723.jpg" %}
 
 Before, I had never felt like having a clear path. I often acted out of fear and stress, trying to survive in the world. But this path was just there for me to walk very calmly and joyfully. The feeling was very much one of letting go of fear. Deciding to become a monastic felt very light and freeing.
 
@@ -64,23 +64,26 @@ After one of my birthdays at Blue Cliff, I remember sitting in the big meditatio
 
 In the ordination ceremony, when we were waiting to stand up and walk in procession to the altar, I told myself, “Let go of all doubts and step into freedom!” I knew I had wanted this for so long, to the extent that if I died today, I would be happy. I did my best. Everything else was beyond my control. Now there is no more incessant talking in the back of my head saying “Ohh, but…” It is very relieving.
 
-{% image "article2024/Done-Daffodil family/Br.Nhat Luong_e.jpg" %}
+{% image "article2024/Done-Daffodil family/Br.Nhat Luong_e2.jpg" %}
 
-***Br. Nhat Luong*** *(True Refreshing Oneness):* The question of how I ended up in Plum Village is like a box full of surprises. Already as a young teenager---20 years ago---I wanted to ordain. I first encountered a Chinese Zen Master from the City of Ten Thousand Buddhas in California. I was very impressed reading his books, but I couldn’t get a visa to enter the US.
+***Br. Nhat Luong*** *(True Refreshing Oneness):* The question of how I ended up in Plum Village is like a box full of surprises. Already as a young teenager — 20 years ago — I wanted to ordain. I first encountered a Chinese Zen Master from the City of Ten Thousand Buddhas in California. I was very impressed reading his books, but I couldn’t get a visa to enter the US.
 
 So I went to a monastery in Malaysia. It was quite a difficult experience because the culture is so different and the style of Buddhism is very traditional, full of rituals and embellishments. I was a bit disappointed that I didn’t fit in and ended up going back home.
 
 I then tried a monastery in Hong Kong in the mountains outside the city, where I spent three months. It was amazing, but I did not end up staying there either. Then I went to the Thai Forest Tradition in 2012 and ended up ordaining as a novice for four months. But again, I did not fit into the culture, and the way of practice seemed too rigid to me. At some point I could not sleep at night, I became depressed, and ended up leaving.
 
-I took ten years to reevaluate, but even though I opened my mind to things besides Buddhism, the desire to ordain never disappeared. I have since made much more progress and relate to myself in a different way. When Thay passed away---without knowing it---I started crying in meditation, and I asked myself, “Why is this happening, who died?” Then I found out Thay had passed away. I eventually came to Plum Village for a retreat, thinking this could be a good place to ordain.
+I took ten years to reevaluate, but even though I opened my mind to things besides Buddhism, the desire to ordain never disappeared. I have since made much more progress and relate to myself in a different way. When Thay passed away — without knowing it — I started crying in meditation, and I asked myself, “Why is this happening, who died?” Then I found out Thay had passed away. I eventually came to Plum Village for a retreat, thinking this could be a good place to ordain.
 
-{% image "article2024/Done-Daffodil family/055_05_Nov_2023_e.jpg" %}
+<!-- {% image "article2024/Done-Daffodil family/055_05_Nov_2023_e.jpg" %} -->
+{% image "article2024/Done-Daffodil family/Sr.Diệu Hạnh_e.jpg" %}
 
 ***Sr. Dieu Hanh*** *(True Wondrous Action):* Seven years ago, I was lucky enough to discover Maison de L’Inspir, and often visited to practise. I also came to Plum Village, especially in the summer and for the Rains Retreat. I don’t exactly know when the wish to ordain came up. I had the strong feeling inside of me that this is really a path that I want to follow, because it helped me so much.
 
 I only saw Thay once in his physical form on my very first retreat. I’ve learnt so much about the practice from the Sangha. I really feel the sangha is his continuation and that I would not have learnt so much or be here without all the brothers and sisters practising and guiding me and all the love and support I receive.
 
 Unfortunately my parents are not supportive of me ordaining, and I know it is going to be difficult for them. I practise being patient. After listening deeply to myself it became clear that I would regret not having at least tried to be a nun. I was very happy at the ordination. It felt like a relief.
+
+{% image "article2024/Done-Daffodil family/Br.Nhất Vân_e.jpg" %}
 
 ***Br. Nhat Van*** *(True Cloud of Oneness):* Eleven years ago I had a strong event in my life that awakened me to spirituality. I attended my first spiritual retreat in Portugal. I was really impressed by the peaceful and loving environment, and how much compassion and understanding the monks had to face all the challenges of daily life. I stayed connected to monastics in different projects, like volunteering to teach basic English to children, giving support in a kind of ecovillage, helping in a vegan restaurant at an event, and attending yoga and meditation sessions. I felt a strong spiritual calling. There were signs during my life that pointed to monastic life, showing me that this is a right choice. When I found Thay, I felt a lot of peace and the practice gave me a lot of joy and stability. I came knowing that I would enter monastic life, it was a step of trust. I’m very happy to be here.
 
@@ -94,6 +97,8 @@ Unfortunately my parents are not supportive of me ordaining, and I know it is go
 
 ***Br. Nhat Moc:*** Sweden is considered very individualistic in the minds of most people. I had a nice apartment just for myself, was very happy with it, but also felt very lonely. So last year, before coming here, I decided to live together with friends. Sharing rooms in Plum Village, I would sometimes appreciate having more space. I guess it will never be perfect. But one thing is for sure, this is much better than feeling lonely.
 
+{% image "article2024/Done-Daffodil family/Br.Nhat Thanh_e.jpg" %}
+
 ***Br. Nhat Thanh:*** It was clear to me that sharing a room is not going to be easy, that it is going to be challenging. But there’s also a strong sense that it’s a condition for growth. I always try to keep this mindset, remembering that living together helps me improve my communication, helps me to learn to resolve conflicts, helps me to demand less from others.
 
 On days of mindfulness, I sometimes feel overwhelmed by the amount of people present. I am learning to respect my limits and finding ways to be more spacious. We were asked in class how to take root in the Sangha. Do I want to have tea in every room, every day and get to know everyone? Or is it okay to let people approach me? I don’t need to always take the first step.
@@ -101,6 +106,8 @@ On days of mindfulness, I sometimes feel overwhelmed by the amount of people pre
 ***Sr. Don Hanh:*** I treasure living together as a very important part of the practice, because it helps me to open my heart, understand my sisters’ needs, and how to support each other. I am also learning to listen to myself, and to respect my limits. Especially on busy days in the summer, I have found going into the woods with my hammock to be most beautiful and refreshing. Oh, so good (laughter).
 
 ***Sr. Dang Hanh:*** Ever since I was 11 years old, I’ve had my own room. What I know about myself is that I scan my surroundings, trying to look for ways that people might judge me, wondering “Am I doing a good enough job?” and “What are they thinking about me?” Being alone is one way that I protected myself. Coming into the Sangha has been a continual practice for me to transform this anxiety. It helps me to tell myself things like, “Not everyone is interested in you and everything that you’re doing” or “people are quite busy with their own thoughts and don’t care that you are taking a nap or they do not care which book you are reading and they don’t have an opinion about which book you *should* be reading. They are busy reading their *own* book.” (Laughter) I’m surrounded by some of the kindest of people in the kindest of environments.
+
+{% image "article2024/Done-Daffodil family/Br.Nhat Nguyen_e.jpg" %}
 
 ***Br. Nhat Nguyen:*** As a child I spent some time in a spiritual community and I think I always wanted to come back to that. Coming from Sweden, I’m very aware of how it is to be alone. It’s horrible, actually. From that point of view, I don’t understand how people manage *not* to live in a community.
 
@@ -110,9 +117,13 @@ Some of my difficulties living in a community revolve around how to behave socia
 
 Of course, it takes some time to get to know everybody. I enjoy always having many new people to connect with, but it can also be a little stressful for me not knowing how to behave, since I do not want to disturb anybody. I also see my tendency to get used to this good environment quickly, and overly concentrate on some small little difficulty. Then I remind myself about how good the conditions are, and if I cannot be happy here, where can I be?!
 
-***Br. Nhat Vu:*** After living alone for the last 20 years, I have to admit that the first year in a dormitory with 7 people has been more than challenging. The noise, the rhythm, the feeling of not having my own refuge space---I had to unlearn and relearn everything. It is a good practice for my individualistic mindset. On the upside, sharing resources and being able to take refuge in the sangha is quite a relief and brings me joy.
+{% image "article2024/Done-Daffodil family/211_110723_e.jpg" %}
+
+***Br. Nhat Vu:*** After living alone for the last 20 years, I have to admit that the first year in a dormitory with 7 people has been more than challenging. The noise, the rhythm, the feeling of not having my own refuge space — I had to unlearn and relearn everything. It is a good practice for my individualistic mindset. On the upside, sharing resources and being able to take refuge in the sangha is quite a relief and brings me joy.
 
 <div class="divider"></div>
+
+{% image "article2024/Done-Daffodil family/200_110723_e2.jpg" %}
 
 ***Newsletter Team:*** We felt touched to hear from your families and friends who come for the ordination. How has being with your family been for you? Are there things that have changed in how you respond in family situations?
 
@@ -121,8 +132,6 @@ Of course, it takes some time to get to know everybody. I enjoy always having ma
 ***Sr. Dang Hanh:*** After I had been practising for a few years back in the U.S. I felt that I had a lot of transformation. I was listening to my mother more deeply, I was accepting my father more, I felt more space. Nowadays when I call customer service, I make the representative laugh. I think I interact with people so differently now. I once asked my father, “Do you feel that I changed in the past year?” I felt we were not fighting or getting into arguments as much as before. And he just said “No.” (Laughter) But I do feel a difference.
 
 When I announced to my dad that I wanted to become a nun 2 years ago, it was a huge shock for him. He is an immigrant and worked really hard. He said, “You know, I’ve lived this way and I was successful, but I don’t really know if I would recommend it to anybody either. You’ve made me think back on the way that I thought was the right way to live. I don’t even know why it is the right way to live.” I don’t think my father would have had that kind of conversation with me if I hadn’t made this decision.
-
-{% image "article2024/Done-Daffodil family/200_110723_e.jpg" %}
 
 ***Br. Nhat Nguyen:*** One of the big reasons I like this tradition is because family is treasured. The practice of seeing my parents as a 5 year old child has changed my life. Being in the Sangha for one year helped me see them very differently. Because of my growing stability, I was brave enough to see their instability. Before, I would suppress this, or become angry at them without understanding why. Something in me wanted them to be that stability for me, that would take care of me. But now, it feels like I don’t need that from them. I could see their instability and from that arose a lot of compassion and love. My mother didn’t have to be perfect. It healed the relationship with my mother. I’m very happy with this. My mother is so sweet.
 
