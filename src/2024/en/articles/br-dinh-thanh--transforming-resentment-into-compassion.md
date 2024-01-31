@@ -7,7 +7,7 @@ Last year, in January 2022, a few days after I ordained as a monk and moved to t
 
 {% image "article2024/br-dinh-thanh/Transforming Resentment - Br Dinh Thanh.jpg" %}
 
-I posted this calligraphy on my bedroom wall in order to remind myself of inter-being - rather than that of separate individuality. It worked for a while, but over time it became too familiar and I forgot the intended message. It needed to be renewed.
+I posted this calligraphy on my bedroom wall in order to remind myself of inter-being — rather than that of separate individuality. It worked for a while, but over time it became too familiar and I forgot the intended message. It needed to be renewed.
 
 This calligraphy soon found a new vocation during summer. It all started with an intuition that dawned on me while chanting Namo Avalokiteshvaraya with the community. In the third round of chanting, I made an effort to extend my compassion to some individuals I resented in the political, media, and financial spheres for their deeply harmful actions. Indeed, as an observer and actor in the field of ethics of my society, at times, the sight or evocation of certain figures in the media-political field tended to provoke anger and resentment in me.
 
@@ -39,7 +39,7 @@ In “We, Sons of Eichmann”<a class="note">Translated from the book “Wir Eic
 > 
 > 3. That millions of people were placed and kept in a situation where they knew nothing about it. And didn't know because they didn't want to know; and didn't want to know because they had no right to know. So millions of passive Eichmanns.”
 
-The atrocious and long war in Vietnam would not have been possible without a sufficiently favorable American public opinion—sufficiently favorable because the public was kept under disinformation. Hence Thay’s courageous departure for the United States to reinform the American public and call for a halt to the war - a departure which earned him exile from his country.
+The atrocious and long war in Vietnam would not have been possible without a sufficiently favorable American public opinion—sufficiently favorable because the public was kept under disinformation. Hence Thay’s courageous departure for the United States to reinform the American public and call for a halt to the war — a departure which earned him exile from his country.
 
 Thay’s example is nourishing in many ways. Before acting, he took the time to analyze the situation in depth, in order to obtain the most accurate vision possible. In his book Lotus on a Sea of Fire, published in 1967, Thay wrote no less than 70 pages analyzing the historical framework of the Vietnam war and looking deeply into the difficulties of the time he was writing, before making concrete proposals and taking action.
 

@@ -20,7 +20,7 @@ Vài năm trước, trong một lần quý thầy, quý sư cô cùng đi bộ t
 {% image "article2024/Done-Br.Đức Định/Rains retreat 23-24_5.jpg" %}
 {% image "article2024/Done-Br.Đức Định/Rains retreat 23-24_45.jpg" %}
 
-Vào đầu mùa an cư kết đông 2023 - 2024, tôi đề nghị ý tưởng này với quý thầy. Nếu được như thế, chúng tôi có thể kết thúc mùa an cư một cách rất ý nghĩa. Tôi khá ngạc nhiên khi thấy quý thầy chấp nhận đề nghị này một cách thật dễ dàng và vui vẻ. Không lâu sau đó, một ban tổ chức rất nhiệt tình gồm ba thầy và năm cư sĩ đã thành hình. Suốt thời gian tổ chức sự kiện này, chúng tôi đã gặp nhiều thuận duyên và rất ít khó khăn. Có vẻ như điều kiện đã chín muồi nên mọi việc diễn ra trôi chảy. Cá nhân tôi rất ngạc nhiên thấy một sự kiện liên quan tới nhiều người đến thế mà lại diễn ra một cách thật hòa điệu.
+Vào đầu mùa an cư kết đông 2023 — 2024, tôi đề nghị ý tưởng này với quý thầy. Nếu được như thế, chúng tôi có thể kết thúc mùa an cư một cách rất ý nghĩa. Tôi khá ngạc nhiên khi thấy quý thầy chấp nhận đề nghị này một cách thật dễ dàng và vui vẻ. Không lâu sau đó, một ban tổ chức rất nhiệt tình gồm ba thầy và năm cư sĩ đã thành hình. Suốt thời gian tổ chức sự kiện này, chúng tôi đã gặp nhiều thuận duyên và rất ít khó khăn. Có vẻ như điều kiện đã chín muồi nên mọi việc diễn ra trôi chảy. Cá nhân tôi rất ngạc nhiên thấy một sự kiện liên quan tới nhiều người đến thế mà lại diễn ra một cách thật hòa điệu.
 
 ## Một cơ thể, một trái tim
 
@@ -77,7 +77,7 @@ bằng một nụ cười tự tấm lòng.</p></div>
 
 Trong chúng tôi, có một vài người tự hỏi “Có phải chúng ta tổ chức một sự kiện chỉ có tính cách biểu tượng mà thôi?”, hay “Chúng ta có nuôi dưỡng ý tưởng muốn làm những gì Đức Bụt đã làm, trong khi trên thực tế, chúng ta đã có quá đủ thức ăn và tiện nghi trong tu viện hay không?”.
 
-Tôi đã tìm ra một câu trả lời khi quan sát những gì xảy ra vào ngày khất thực qua cách tổ chức và sự thực tập của mọi người. Tôi thấy những hạt giống thiện lành trong từng cá nhân và trong đoàn thể đang được tưới tẩm. Chúng tôi thực tập hài hòa trong quan điểm, lắng nghe nhau, có mặt và hành động trong chánh niệm, tưới tẩm những hạt giống rộng lượng, biết ơn, khiêm tốn, hạnh nguyện, quyết tâm và hiểu biết - thậm chí bằng cách đặt những câu hỏi như trên. Trong ngày hôm đó, chúng tôi cũng quán chiếu về mối quan hệ giữa mình với thức ăn và cảm thọ nơi tự thân.
+Tôi đã tìm ra một câu trả lời khi quan sát những gì xảy ra vào ngày khất thực qua cách tổ chức và sự thực tập của mọi người. Tôi thấy những hạt giống thiện lành trong từng cá nhân và trong đoàn thể đang được tưới tẩm. Chúng tôi thực tập hài hòa trong quan điểm, lắng nghe nhau, có mặt và hành động trong chánh niệm, tưới tẩm những hạt giống rộng lượng, biết ơn, khiêm tốn, hạnh nguyện, quyết tâm và hiểu biết — thậm chí bằng cách đặt những câu hỏi như trên. Trong ngày hôm đó, chúng tôi cũng quán chiếu về mối quan hệ giữa mình với thức ăn và cảm thọ nơi tự thân.
 
 Thêm một câu trả lời nữa mà tôi đã tìm ra, nhờ một câu trong kinh Duy Ma Cật: “Đi khất thực như vậy không hẳn là vì mình cần ăn”. Thầy cũng đã giải thích thêm trong tác phẩm *Bồ Tát tại gia, Bồ Tát xuất gia* rằng “Khất thực không phải là để có thức ăn, mà là một pháp môn thực tập. Đi khất thực là chỉ để đi khất thực thôi”.
 

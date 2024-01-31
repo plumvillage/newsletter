@@ -85,7 +85,7 @@ Một trong những điều mà Pháp Ứng rất biết ơn Sư Ông, đó là 
 
 ## Tinh thần vô úy
 
-Phẩm chất nơi Sư Ông mà Pháp Ứng muốn tiếp nối nhất là tinh thần vô úy - không sợ hãi. Chất liệu đó rất cần thiết trong giai đoạn này của đời sống, của con người, của Trái Đất, của tất cả. Có bình an, không sợ hãi, có tinh thần dũng mãnh thì mình lại càng có niềm tin. Niềm tin mình cảm được trong máu trong xương, nó truyền lửa, truyền sức sống, giúp cho mình chăm sóc được khổ đau chứ không phải hy vọng trong tương lai. Đức vô úy, không sợ hãi này mang chất liệu của từ bi, có thể giúp mình đối diện với khổ đau của bạo lực, của sự tàn phá, cuồng loạn.
+Phẩm chất nơi Sư Ông mà Pháp Ứng muốn tiếp nối nhất là tinh thần vô úy — không sợ hãi. Chất liệu đó rất cần thiết trong giai đoạn này của đời sống, của con người, của Trái Đất, của tất cả. Có bình an, không sợ hãi, có tinh thần dũng mãnh thì mình lại càng có niềm tin. Niềm tin mình cảm được trong máu trong xương, nó truyền lửa, truyền sức sống, giúp cho mình chăm sóc được khổ đau chứ không phải hy vọng trong tương lai. Đức vô úy, không sợ hãi này mang chất liệu của từ bi, có thể giúp mình đối diện với khổ đau của bạo lực, của sự tàn phá, cuồng loạn.
 
 Bây giờ Sư Ông không còn trong hình tướng quen thuộc để trực tiếp hướng dẫn chúng ta nữa, cho nên bản thân mỗi người cần quay về nuôi dưỡng, chăm sóc mình để làm nền tảng. Chúng ta có chung nền tảng đó, giúp tạo nên sức mạnh. Giống như mình thở cùng một hơi thở, mình đi cùng một nhịp. Như vậy là mình có Bụt, có Tổ, có Sư Ông với mình.
 

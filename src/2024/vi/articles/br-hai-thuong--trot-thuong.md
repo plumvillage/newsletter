@@ -47,7 +47,7 @@ Dù thầy Trời Hải Thượng không còn biểu hiện qua hình tướng t
 
 Đã  trót thương tiếng nói trong tâm mỗi lần chút nghi ngại thoáng đi lên: “nước không rửa nước, bụi không vương bụi”, nghi ngại cũng ngại ngọn đèn nhận diện, có gì con không làm được?!
 
-Đã trót thương gương mặt trẻ, em từ đâu tới và đang tìm chi, không đến nơi đây vì vị Thầy nổi tiếng, cũng chưa từng nghe biết Thiền sư, nhưng khổ đau hôm nay trên tay em đang thật có - tuổi hai mươi vốn liếng bấy nhiêu ra đi tìm câu trả lời chân thực; từ đó tương lai chúng ta sẽ cùng dựng xây tiếp nối, từ gia tài Người để lại
+Đã trót thương gương mặt trẻ, em từ đâu tới và đang tìm chi, không đến nơi đây vì vị Thầy nổi tiếng, cũng chưa từng nghe biết Thiền sư, nhưng khổ đau hôm nay trên tay em đang thật có — tuổi hai mươi vốn liếng bấy nhiêu ra đi tìm câu trả lời chân thực; từ đó tương lai chúng ta sẽ cùng dựng xây tiếp nối, từ gia tài Người để lại
 
 Đã trót thương tấm áo nâu vách núi từng nút gài thu giấu hình hài sắc hương mùa xuân đang tràn đầy nhựa sống; sức trẻ tuổi trinh nguyên em cúi xuống chọn hạnh của đất thanh bần, từ đây nguyện giữ lòng như băng tuyết tinh khiết, mỗi mỗi tâm niệm hướng về nẻo an lành; 
 
