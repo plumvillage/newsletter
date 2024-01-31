@@ -63,6 +63,6 @@ Con không trải qua thời chiến tranh, không có mặt cùng Thầy trong 
 Có phải để khóc đâu anh<br/>
 Hai bàn tay chở che<br/>
 Hai bàn tay nuôi dưỡng<br/>
-Sự ra đi hờn dỗi của.”<br/><cite><i>Ấm áp</i> thơ Thầy Làng Mai</cite></p></div>
+Sự ra đi hờn dỗi của.”<br/><cite><i>Ấm áp,</i> thơ Thầy Làng Mai</cite></p></div>
 
 Thi hào Nguyễn Du nói rằng: “Thác là thể phách, còn là tinh anh”. Thầy là đỉnh trầm đã cháy hết nhưng hương thơm vẫn lưu chuyển trong không gian mãi đến ngàn sau…

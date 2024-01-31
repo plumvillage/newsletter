@@ -20,8 +20,10 @@ module.exports = [
 
     // PART 2
     "cau-tra-loi-la-tinh-thuong",
+    "sr-bo-de--bong-dang-thay",
     "br-hai-thuong--trot-thuong",
     "br-hai-thuong--nguoi-da-ve-da-toi",
+    "br-hai-thuong--nguoi-di-hai-thuoc-dau-non",
     "tien-nguyen--co-nhung-ngay-uom-nang",
-    // CALLIGRAPHY nguoi di hai thuoc dau non.webp
+    "sr-chua-xua--loc-uyen-mua-an-vui",
 ]

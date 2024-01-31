@@ -968,3 +968,12 @@ html:lang(vi) #article2024Done-Resillence-Community-SpitualitySatish-Kumar34,
 #cau-tra-loi-la-tinh-thuong + h2.author {
     margin-top: -16pt !important;
 }
+
+/* calligraphy */
+.article-nguoi-dji-hai-thuoc-djau-non h2.author {
+    margin-top: 0pt;
+}
+
+.article-nguoi-dja-ve-dja-toi h2.author {
+    margin-top: -10pt;
+}

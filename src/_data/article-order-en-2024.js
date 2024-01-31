@@ -13,4 +13,5 @@ module.exports = [
     "interview-with-the-daffodil-family",
     "sr-lam-hy--running-another-way-of-stopping",
     "sr-tu-nghiem--poem-entering-the-field",
+    "sr-hien-hanh--the-calling",
 ]
