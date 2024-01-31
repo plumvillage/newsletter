@@ -3,14 +3,11 @@ title: Giọt nước trong dòng sông Tăng thân
 author: Sư cô Chân Trăng Tâm Đức
 ---
 
+{% image "article2024/Done-Sr. Tam Duc/_MG_0514_e.JPG" %}
+
 ## Niềm vui trong khóa tu xuất sĩ
 
 Đây là dịp mà con được gặp rất nhiều quý thầy, quý sư cô từ các trung tâm ở châu Âu về Làng tề tựu. Chúng con được học, tu, chơi và làm việc trong nhiều nhóm khác nhau. Nào là đội luân phiên, đội trò chơi, đội đá banh, bạn “đồng liêu” và gia đình pháp đàm. Chưa bắt đầu khóa tu mà chúng con đã bắt đầu cảm nhận niềm hạnh phúc của sự sum vầy.
-
-{% image "article2024/Done-Sr. Tam Duc/_MG_0514.JPG" %}
-{% image "article2024/Done-Sr. Tam Duc/IMG_2900.JPG" %}
-{% image "article2024/Done-Sr. Tam Duc/PV_2023_45.jpg" %}
-{% image "article2024/Done-Sr. Tam Duc/Cooking retreat 2023 8.JPG" %}
 
 Nhóm luân phiên của con nấu ăn gần ngày cuối, nhưng từ lúc bắt đầu khóa tu là đã lên thực đơn rồi. Nhiều phương án được đưa ra phòng trường hợp các đội trước đã nấu món đội mình dự định. Cuối cùng, chúng con cũng thực hiện được phương án làm pizza cho buổi trưa. Sáng hôm đó, đội con hẹn nhau ở nhà ăn, đốt nến, uống trà rồi mới bắt đầu công việc. Đây là lần đầu tiên con trải nghiệm làm pizza từ lúc nhồi bột, làm đế, làm nhân, dùng lò nướng củi, lấy bánh cho đến khâu rửa cối. Lúc rửa, con thấy thương cái cối này ghê. Nó đủ nhân duyên để được đưa về đây và có mặt trong mỗi miếng bánh mì “made in Xóm Thượng”.
 
@@ -20,7 +17,9 @@ Thời gian trôi qua nhanh quá! Ngồi trên xe về lại xóm Mới, chị e
 
 ## “Nói chuyện ăn thì nói bao giờ cho hết”
 
-Sau khóa tu xuất sĩ, Làng mở cửa trở lại để chào đón thiền sinh về tham dự các khóa tu trong năm. Có hôm, sau buổi trưa, có một chú gặp con với điệu bộ rất sốt sắng và nói muốn gặp đội nấu ăn hôm nay. Chú đến xóm Mới cùng cô con gái mười bảy tuổi. Hạt giống lo trong con đi lên, không biết hai cha con chú có vấn đề chi với đồ ăn, vì bên này nhiều thiền sinh dị ứng thực phẩm. Con hỏi lý do thì mới hay chú muốn cám ơn quý sư cô vì đồ ăn ngon quá. Đội nấu ăn lúc đó đang bận nên con nói chú viết lên bảng để quý sư cô biết. Chú nói nếu vậy, chú muốn cám ơn không chỉ đội nấu ăn trong ngày hôm nay mà là tất cả các ngày khác nữa vì ngày nào cũng ngon hết. 
+Sau khóa tu xuất sĩ, Làng mở cửa trở lại để chào đón thiền sinh về tham dự các khóa tu trong năm. Có hôm, sau buổi trưa, có một chú gặp con với điệu bộ rất sốt sắng và nói muốn gặp đội nấu ăn hôm nay. Chú đến xóm Mới cùng cô con gái mười bảy tuổi. Hạt giống lo trong con đi lên, không biết hai cha con chú có vấn đề chi với đồ ăn, vì bên này nhiều thiền sinh dị ứng thực phẩm. Con hỏi lý do thì mới hay chú muốn cám ơn quý sư cô vì đồ ăn ngon quá. Đội nấu ăn lúc đó đang bận nên con nói chú viết lên bảng để quý sư cô biết. Chú nói nếu vậy, chú muốn cám ơn không chỉ đội nấu ăn trong ngày hôm nay mà là tất cả các ngày khác nữa vì ngày nào cũng ngon hết.
+
+{% image "article2024/Done-Sr. Tam Duc/Cooking retreat 2023 8_e.JPG" %}
 
 Nhiều thiền sinh khác cũng gặp trực tiếp hoặc viết thiệp để cảm ơn các sư cô vì đã hiến tặng không những sự thực tập, niềm vui, nụ cười, sự thảnh thơi mà còn nấu cho họ những món ăn rất ngon và lành. Họ nói đã từng thưởng thức đồ ăn nhiều nơi nhưng không hiểu sao đồ ăn ở Làng luôn ngon hơn. Con nghĩ chính niềm vui, tình thương, sự hoà điệu khi quý sư cô làm việc được gửi vào từ khâu chuẩn bị đến khi thành món nên thiền sinh không những được thưởng thức hương vị món ăn mà còn nhận được năng lượng thương yêu của quý sư cô trong đó.
 
@@ -35,6 +34,8 @@ Trong suốt một tuần, bên cạnh những buổi thuyết trình món ăn, 
 Khóa tu đông vui nhất trong năm chính là khóa tu mùa hè khi mà các gia đình dẫn con về Làng tu học. Nhìn lều to, lều nhỏ dựng khắp trong xóm, khiến con nhớ đến những đợt cắm trại trong thời đi học của mình. Có cô thiền sinh chia sẻ, từ lúc biết Làng, cô không còn phải nhọc công suy nghĩ sẽ đi đâu trong kì nghỉ hè vì Làng đã là điểm đến của gia đình trong nhiều năm qua.
 
 Tuần đầu, con ở trong gia đình những người có con tuổi teen. Mới buổi pháp đàm đầu tiên, nhiều vị đã mở lòng và bật khóc khi có quá nhiều vấn đề với con cái trong độ tuổi mới lớn. Họ khổ vì con sử dụng điện thoại suốt ngày và dường như sống trong thế giới ảo nhiều hơn. Truyền thông giữa ba mẹ và con cái vì vậy mà không có nhiều. Cả gia đình cũng không còn có những bữa ăn cùng nhau. Nghe những chia sẻ, con vừa thấy thương mà vừa thấy mình may mắn quá khi chọn con đường tu này. Đúng là không hề dễ khi cho ra đời một sinh mạng mới. Bao vất vả để nuôi nấng từ hồi bé thơ, đến khi cắp sách đến trường, rồi sang độ tuổi vị thành niên với những thay đổi tâm sinh lý, khiến bao bậc phụ huynh lao đao khốn khổ theo.
+
+{% image "article2024/Done-Sr. Tam Duc/PV_2023_45_e.jpg" %}
 
 Buổi pháp đàm tiếp theo, một cô chia sẻ rằng mấy năm nay, cô không nói chuyện dễ dàng với cô con gái tuổi mới lớn. Thế mà sáng nay, cô bé gặp rồi ôm mẹ, và nói cám ơn mẹ đã đem em tới Làng. Nhìn giọt nước mắt xúc động lăn trên má cô mà con thấy thương và mừng cho cô. 
 
@@ -60,6 +61,8 @@ Mấy đứa nhóc sao mà hồn nhiên, tinh nghịch và dễ thương quá. C
 Đây là câu mà nhiều thiền sinh hay hỏi khi thấy Làng mở cửa gần như quanh năm, quý sư cô lo hết khóa tu này đến khóa tu khác, gặp gỡ bao nhiêu con người với đủ các cung bậc cảm xúc. Con hay cười và trả lời với những trải nghiệm của mình rằng các khóa tu đem lại cho con nhiều niềm vui, con học hỏi thêm được nhiều điều mới và có nhiều động lực hơn để tu tập. Con xem các khóa tu như là cơ hội để con vừa được phụng sự mà vừa được tu học. Chính nhờ các bạn thiền sinh tới đây mà con biết hơn về những gì đang xảy ra ngoài kia với quá nhiều những bạo động, sợ hãi, hận thù, tham vọng. Con hiểu được hơn những khổ đau mà họ đang gặp phải trong cuộc sống thường ngày. Để rồi khi nhìn lại, con thấy được sống trong lòng tăng thân là một may mắn lớn. 
 
 Với thiền sinh đến dự khóa tu, chỉ cần con có mặt đó trong những buổi pháp đàm, những bữa ăn cùng gia đình, hết lòng lắng nghe và chia sẻ những kinh nghiệm từ sự thực tập hàng ngày của mình là con đã giúp được cho thiền sinh rồi. Khổ đau đang tràn ngập trên địa cầu này, có thể con không đưa trực tiếp cánh tay mình ra để làm vơi nhẹ được. Nhưng nếu ở trong tu viện, con học cách sống hòa hợp, có hạnh phúc với các chị em, chế tác niềm vui và bình an trong tự thân thì con đã có thể gửi năng lượng lành đó đến những người đang khổ. *Tâm bình thì thế giới bình* — con lấy câu đó như lời nhắc nhở mỗi ngày để dù có làm chi đi nữa, sau một ngày nhìn lại, con thấy con có đủ sự bình an và niềm vui trong tự thân hay không. Và chỉ khi nào thật sự có được, con mới có thể hiến tặng cho người khác, mà gần gũi nhất là gia đình huyết thống và các chị em xung quanh con.
+
+{% image "article2024/Done-Sr. Tam Duc/IMG_2900_e.JPG" %}
 
 Đã bao lần, nhìn hàng trăm, hàng ngàn người tới Làng tu học, con thấy sự vĩ đại trong công trình dựng tăng và phụng sự cuộc đời của Sư Ông. Con nhớ trong một bài pháp thoại, Sư Ông nói rằng nếu mình có một ước mơ, tăng thân sẽ giúp mình biến ước mơ đó thành hiện thực. Với cá nhân nhỏ bé của con, dù có ao ước lớn giúp đời thế nào đi nữa, con cũng không làm được gì nhiều. Nay được sống cùng tăng thân, được tu học, được phụng sự, với con đó là phước đức rất lớn. Mỗi sáng thức dậy, ý thức mình đang là người tu, đang được ôm trong vòng tay tăng thân là niềm biết ơn liền đi lên trong con. Con biết ơn Sư Ông và tăng thân đã cho con được làm một giọt nước trong dòng sông đa màu sắc, đa văn hóa này để mỗi ngày con đều có cơ hội được thở, được cười, được chế tác niềm vui, bình an cho con và hiến tặng cho những người xung quanh. 
 

@@ -76,5 +76,3 @@ find * | grep -i "Done" | grep -E -i "jpg|jpeg|png" | grep -v "/._"
 {% image "article2024/Done-Br. Tuong Tuc/399796255_313295418126751_8334081940523573211_n.jpg" %}
 {% image "article2024/Done-Br. Tuong Tuc/370186431_271736955615931_7437894567308404210_n.jpg" %}
 
-{% image "article2024/Done-Sr.Hien Tam/IMG_2286.JPG" %}
-{% image "article2024/Done-Sr.Hien Tam/IMG_2966.JPG" %}

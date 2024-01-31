@@ -8,18 +8,6 @@ author: Thầy Chân Trời Đức Định
 
 Vài năm trước, trong một lần quý thầy, quý sư cô cùng đi bộ tại Thénac, một làng nhỏ nơi xóm Thượng, Làng Mai tọa lạc, mọi người tác ý là một ngày nào đó sẽ đến khất thực nơi nhà những bạn bè quen biết, cũng là các hàng xóm cư sĩ ở đây.
 
-{% image "article2024/Done-Br.Đức Định/Rains retreat 23-24.jpg" %}
-{% image "article2024/Done-Br.Đức Định/Rains retreat 23-24_20.jpg" %}
-{% image "article2024/Done-Br.Đức Định/Rains retreat 23-24_35.jpg" %}
-{% image "article2024/Done-Br.Đức Định/Rains retreat 23-24_22.jpg" %}
-{% image "article2024/Done-Br.Đức Định/Rains retreat 23-24_53.jpg" %}
-{% image "article2024/Done-Br.Đức Định/Rains retreat 23-24_55.jpg" %}
-{% image "article2024/Done-Br.Đức Định/Rains retreat 23-24_29.jpg" %}
-{% image "article2024/Done-Br.Đức Định/Rains retreat 23-24_9.jpg" %}
-{% image "article2024/Done-Br.Đức Định/Rains retreat 23-24_16.jpg" %}
-{% image "article2024/Done-Br.Đức Định/Rains retreat 23-24_5.jpg" %}
-{% image "article2024/Done-Br.Đức Định/Rains retreat 23-24_45.jpg" %}
-
 Vào đầu mùa an cư kết đông 2023 — 2024, tôi đề nghị ý tưởng này với quý thầy. Nếu được như thế, chúng tôi có thể kết thúc mùa an cư một cách rất ý nghĩa. Tôi khá ngạc nhiên khi thấy quý thầy chấp nhận đề nghị này một cách thật dễ dàng và vui vẻ. Không lâu sau đó, một ban tổ chức rất nhiệt tình gồm ba thầy và năm cư sĩ đã thành hình. Suốt thời gian tổ chức sự kiện này, chúng tôi đã gặp nhiều thuận duyên và rất ít khó khăn. Có vẻ như điều kiện đã chín muồi nên mọi việc diễn ra trôi chảy. Cá nhân tôi rất ngạc nhiên thấy một sự kiện liên quan tới nhiều người đến thế mà lại diễn ra một cách thật hòa điệu.
 
 ## Một cơ thể, một trái tim
@@ -27,6 +15,9 @@ Vào đầu mùa an cư kết đông 2023 — 2024, tôi đề nghị ý tưởn
 Sáng thứ bảy, 13.01.2024, hai nhóm xuất sĩ mang bình bát đi thiền hành tới Thénac, ngang qua những cánh đồng miền quê nước Pháp. Quang cảnh bên đường, từng hàng cây ngọn cỏ đều trắng tinh vì phủ đầy sương giá. Khi đến nhà của các bạn cư sĩ hàng xóm, sau khi được cúng dường, quý thầy tụng bài “Cát tường” để hộ niệm cho thí chủ, đoạn xá chào cảm ơn, rồi tiếp tục bước thiền hành.
 
 Khi các huynh đệ cùng đi với nhau trong tĩnh lặng, tôi cảm thấy tất cả chúng tôi cùng thuộc về một cơ thể, một trái tim. Tôi cảm được sự gắn bó và có cùng chung một niềm hạnh phúc với huynh đệ. Nhóm khất thực của chúng tôi sắp xếp hai hàng đi song song với nhau và cất bình bát trong túi bọc khi đi trên một đoạn đường dài, lúc gần đến nhà cư sĩ, chúng tôi đổi lại đi hàng một, tay nâng bình bát. Cứ như trong một vũ điệu, chúng tôi hòa vào một dòng chảy. Khi vị đầu tiên dừng lại, tất cả các thầy đều dừng lại một lượt, lấy bình bát ra cùng một lượt. Tôi có thể cảm được quý thầy đi phía sau sẵn sàng hay chưa nhờ lắng nghe sự yên lặng rất bình an của cả đoàn.
+
+<!-- Dao Hanh receiving -->
+{% image "article2024/Done-Br.Đức Định/Rains retreat 23-24_35.jpg" %}
 
 ## Tưới tẩm hạt giống rộng lượng và biết ơn
 
@@ -40,7 +31,14 @@ Tôi còn nhớ một hôm trước ngày khất thực, khi đi bộ ngang nhà
 
 Toàn bộ sự kiện là một cơ hội để cho quý thầy nhận diện và kết nối với các vị thiền sinh cư sĩ, những người đã chuyển nhà đến sống gần tu viện. Hàng ngày, kể cả các ngày quán niệm, thường thì quý thầy không nhận ra các vị cư sĩ này là ai, nhất là khi họ không nói cùng một thứ tiếng và không cùng pháp đàm trong một nhóm với quý thầy.
 
+<!-- March: Big -->
+{% image "article2024/Done-Br.Đức Định/Rains retreat 23-24_5_e.jpg" %}
+
 Tôi rất cảm ơn ban tổ chức của buổi khất thực bởi vì mọi người đã thực tập theo tinh thần mà tôi nghĩ là Thầy sẽ hài lòng: cùng làm việc thảnh thơi, vui vẻ và hòa điệu, có hiệu quả nhưng lại không bị kẹt vào kết quả.
+
+<!-- 3x4 side-by-side -->
+{% image "article2024/Done-Br.Đức Định/Rains retreat 23-24_10_e.jpg" %}
+{% image "article2024/Done-Br.Đức Định/Rains retreat 23-24_1_e.jpg" %}
 
 Cùng làm việc trong ban tổ chức với hai huynh đệ, tôi cảm thấy rất được yểm trợ. Nhờ cơ hội này chúng tôi có sự kết nối chặt chẽ với nhau hơn trong khi cùng nhau phụng sự đại chúng.
 
@@ -77,6 +75,14 @@ bằng một nụ cười tự tấm lòng.</p></div>
 
 Trong chúng tôi, có một vài người tự hỏi “Có phải chúng ta tổ chức một sự kiện chỉ có tính cách biểu tượng mà thôi?”, hay “Chúng ta có nuôi dưỡng ý tưởng muốn làm những gì Đức Bụt đã làm, trong khi trên thực tế, chúng ta đã có quá đủ thức ăn và tiện nghi trong tu viện hay không?”.
 
+{% image "article2024/Done-Br.Đức Định/Rains retreat 23-24_22.jpg" %}
+{% image "article2024/Done-Br.Đức Định/Rains retreat 23-24_20.jpg" %}
+{% image "article2024/Done-Br.Đức Định/Rains retreat 23-24_55.jpg" %}
+{% image "article2024/Done-Br.Đức Định/Rains retreat 23-24_29.jpg" %}
+{% image "article2024/Done-Br.Đức Định/Rains retreat 23-24_9.jpg" %}
+{% image "article2024/Done-Br.Đức Định/Rains retreat 23-24_16.jpg" %}
+{% image "article2024/Done-Br.Đức Định/Rains retreat 23-24_45.jpg" %}
+
 Tôi đã tìm ra một câu trả lời khi quan sát những gì xảy ra vào ngày khất thực qua cách tổ chức và sự thực tập của mọi người. Tôi thấy những hạt giống thiện lành trong từng cá nhân và trong đoàn thể đang được tưới tẩm. Chúng tôi thực tập hài hòa trong quan điểm, lắng nghe nhau, có mặt và hành động trong chánh niệm, tưới tẩm những hạt giống rộng lượng, biết ơn, khiêm tốn, hạnh nguyện, quyết tâm và hiểu biết — thậm chí bằng cách đặt những câu hỏi như trên. Trong ngày hôm đó, chúng tôi cũng quán chiếu về mối quan hệ giữa mình với thức ăn và cảm thọ nơi tự thân.
 
 Thêm một câu trả lời nữa mà tôi đã tìm ra, nhờ một câu trong kinh Duy Ma Cật: “Đi khất thực như vậy không hẳn là vì mình cần ăn”. Thầy cũng đã giải thích thêm trong tác phẩm *Bồ Tát tại gia, Bồ Tát xuất gia* rằng “Khất thực không phải là để có thức ăn, mà là một pháp môn thực tập. Đi khất thực là chỉ để đi khất thực thôi”.
@@ -84,6 +90,8 @@ Thêm một câu trả lời nữa mà tôi đã tìm ra, nhờ một câu trong
 Tương tự như thế, cúng dường chỉ là để cúng dường thôi, không hẳn là vì để quý thầy có thức ăn, hay để tạo thêm chút phước.
 
 Chúng tôi đã tổ chức sự kiện khất thực để thưởng thức nó thật hết lòng, và tôi nghĩ là chúng tôi đã làm được điều đó.
+
+{% image "article2024/Done-Br.Đức Định/Rains retreat 23-24_53.jpg" %}
 
 Tuy vậy tôi cũng nhân cơ hội này suy ngẫm về nhu yếu đích thực của mình trong vai trò của một hành giả, cũng như nhu yếu đích thực của một tăng thân đang chia sẻ các pháp môn thực tập với cộng đồng quốc tế bằng vô số phương tiện.
 

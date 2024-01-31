@@ -11,7 +11,7 @@ Trong 30 năm được Sư Ông dạy dỗ và đại chúng dưỡng nuôi, Ph�
 
 {% image "article2024/Done-Br.Phap Ung/_DSC7759.JPG" %}
 {% image "article2024/Done-Br.Phap Ung/Thay and Br. Phap Ung at Omega Institute in New York - 1996 PHOTO Simon Chaput.jpg" %}
-{% image "article2024/Done-Br.Phap Ung/Br.Phap Ung.jpg" %}
+{% image "article2024/Done-Br.Phap Ung/Br.Phap Ung_e.jpg" %}
 
 Trong 30 năm ấy, Pháp Ứng đã trải qua đủ loại lỗi lầm, té xuống rồi đứng dậy, trầy da tróc vảy. Có lẽ nhờ vậy mà Pháp Ứng có cảm giác hoa trái dần dần hình thành, bây giờ hoa mới chớm nở. Pháp Ứng bắt đầu nhận ra, cảm được và có niềm tin nơi vị thầy trong mình. Điều đó quý vô cùng. Nhưng thật ra, đó cũng không phải là một điều gì mới. Cái cảm giác trở về được với chính mình, giống như quay về cội nguồn để rồi tiếp tục đi tới. Có thể đó là tố chất tổ tiên đã trao truyền, bây giờ nó tiếp tục chớm nở. Giống như một chu kỳ được tiếp nối.
 
