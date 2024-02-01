@@ -12,16 +12,30 @@ I sit in the early morning and just let my hand write what is there without thin
  - Our practice is to focus on arriving at freedom. We just need to practice one method: to put our mind at ease. Everything we do has the mark of ease. Whatever you undertake for your spiritual life should have the mark of freedom and ease.
  - Our place of refuge is our capacity to feel joy in being alive, our capacity to accept to live anywhere and still to be happy. The most solid place of refuge for us is our own person. We take refuge in the Buddha in ourselves. This means we take refuge in our own stability, ease, freedom, peace, and joy.
 
+{% image "article2024/sr-dao-nghiem/cup of tea_e.jpg" %}
+
 I write highlights, the lows of my day, my thoughts and feelings, or something that inspired me, insights from books I read, people I am grateful for, difficult relationships I need to work through, my fears, dreams, things I love. Sometimes it comes as a drawing or poem. Here is a poem I wrote this past November:
 
-<div class="verse"><p>“Song of the rain<br/>
+<!-- <div class="verse"><p style="text-align: center;">“Song of the rain<br/>
 Song of the Earth<br/>
 A cup of tea<br/>
 It’s still night<br/>
 In my heart<br/>
-Sadness“</p></div>
+Sadness“</p></div> -->
+
+<p class="pull-quote" style="text-align: center;">Song of the rain<br/>
+Song of the Earth<br/>
+A cup of tea<br/>
+It’s still night<br/>
+In my heart<br/>
+Sadness</p>
 
 When I ruminate on some thoughts or something that touches me and causes me discomfort, pain, journaling allows me to get “outside” of my head, helps my mind not to dwell on it and turn it over and over again. It helps me to process the joys and sorrows I experience, to learn valuable lessons from my experiences, and when I read what I wrote, months or weeks later, I can see the regular pattern of my mind, practice with it and thus understand my mind better. It is an outlet to release heavy emotions like anger, frustration, or sadness. Putting these feelings on paper frees me from having them linger in my mind.
+
+{% image "article2024/sr-dao-nghiem/fire within.webp" %}
+{% image "article2024/sr-dao-nghiem/flower.webp" %}
+{% image "article2024/sr-dao-nghiem/hope.webp" %}
+{% image "article2024/sr-dao-nghiem/tree of life.webp" %}
 
 I regularly look back at what I wrote, whether it was last year or many years ago. It has been a help in my understanding of my pain. Reflecting on what I have written gives me a greater sense of clarity and insight. I have found this to be very powerful. Through this self-reflection, I can reflect on my thoughts, desires, intentions, and actions, and then take appropriate steps based on that reflection.
 

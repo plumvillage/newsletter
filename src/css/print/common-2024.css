@@ -799,6 +799,8 @@ p.pull-quote:before {
 /* ////////////////////////////////////////////////// */
 /* ////////////////////////////////////////////////// */
 
+/* Adjusting title and author */
+
 h1#resilience-community-and-spirituality {
     font-size: 31pt;
 }
@@ -807,17 +809,89 @@ h1#transforming-resentment-into-compassion {
 }
 
 
-figure#article2024br-duc-hienIMG0754e {
-    padding-left: 10%;
-    padding-right: 10%;
-}
-
-
 .article-a-year-in-review h1:not(#a-year-in-review),
 .article-lang-mai-nam-qua h1:not(#lang-mai-nam-qua)
 {
     margin-top: 0mm !important;
 }
+
+.article-ao-nau-phai-mau-nang h2.author {
+    margin-top: -21pt;
+    padding-left: 2em;
+}
+.article-a-friend-on-the-path h2.author {
+    margin-top: -12pt;
+}
+.article-coming-home-to-our-roots h2.author {
+    margin-top: -22pt;
+}
+.article-ngon-djoi-tieu-an h2.author {
+    margin-bottom: 4mm;
+}
+.article-chiec-ao-nhat-binh h2.author {
+    margin-top: -16pt;
+}
+.article-canh-cua-xot-thuong h2.author,
+.article-tieng-goi h2.author {
+    margin-top: -12pt !important;
+}
+.article-trot-thuong h2.author {
+    margin-top: -27pt !important;
+}
+#thap-sang-hien-huu + h2.author {
+    margin-top: -9pt !important;
+}
+.article-love-is-the-answer h2.author {
+    margin-top: -24pt;
+}
+#cau-tra-loi-la-tinh-thuong + h2.author {
+    margin-top: -16pt !important;
+}
+.article-nguoi-dji-hai-thuoc-djau-non h2.author {
+    margin-top: 0pt;
+}
+.article-blossoming-trees h2.author,
+.article-nguoi-dja-ve-dja-toi h2.author {
+    margin-top: -10pt;
+}
+.article-the-door-of-compassion h2.author {
+    margin-top: -14pt;
+    padding-right: 2.5em;
+}
+.article-the-calling h2.author {
+    margin-top: -32pt;
+    padding-right: 7em;
+}
+
+
+
+#calligraphy2024article-titlessr-hien-hanh-the-calling, #calligraphy2024article-titlessr-hien-hanh-the-calling img {
+    max-height: 44mm !important;
+}
+#calligraphy2024article-titlesbr-thien-chi-blossoming-trees, #calligraphy2024article-titlesbr-thien-chi-blossoming-trees img {
+    max-height: 36mm !important;
+}
+
+#calligraphy2024article-titlessu-ong-love-is-the-answer, #calligraphy2024article-titlessu-ong-love-is-the-answer img {
+    max-height: 39mm !important;
+}
+
+#calligraphy2024article-titlesbr-hai-thuong-trot-thuong,
+#calligraphy2024article-titlesbr-hai-thuong-trot-thuong img,
+#calligraphy2024article-titlessr-hien-hanh-tieng-goi, #calligraphy2024article-titlessr-hien-hanh-tieng-goi img {
+    max-height: 50mm !important;
+}
+
+
+
+
+
+
+
+
+
+
+
 
 .article-a-year-in-review > blockquote,
 .article-lang-mai-nam-qua > blockquote {
@@ -851,6 +925,17 @@ figure#article2024br-duc-hienIMG0754e {
     font-style: normal;
 }
 
+
+
+
+
+
+
+figure#article2024br-duc-hienIMG0754e {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
 figure#article2024Done-Daffodil-familyBrNhat-Xuane,
 figure#article2024Done-Daffodil-family137110723e,
 figure#article2024Done-Daffodil-familySrDieu-Hanhe,
@@ -871,19 +956,6 @@ figure#article2024Done-Daffodil-familySrDJang-Hanhe {
     width: 47%;
 }
 
-#calligraphy2024article-titlessu-ong-love-is-the-answer, #calligraphy2024article-titlessu-ong-love-is-the-answer img {
-    max-height: 39mm !important;
-}
-
-/* calligraphy */
-#thap-sang-hien-huu + h2.author {
-    margin-top: -9pt !important;
-}
-
-.article-love-is-the-answer h2.author {
-    margin-top: -24pt;
-}
-
 .article-thap-sang-hien-huu .editors-preface,
 .article-love-is-the-answer .editors-preface {
     column-span: all;
@@ -902,34 +974,10 @@ figure#article2024Done-interview-with-thayTNH-spain2014-2 {
     float: none;
     column-span: all;
     width: 71%;
+    margin-top: 2em;
+    margin-bottom: 2em;
     margin-left: auto;
     margin-right: auto;
-}
-
-/* copy from divider */
-figure#article2024Done-interview-with-thayTNH-spain2014-2::after {
-    margin-top: 10pt;
-    font-style: normal;
-    content: "✦";
-    font-size: 70%;
-    /* problems with layout without padding. very weird. */
-    padding-top: 1.2mm;
-    padding-bottom: 1.8mm;
-    height: 0.25mm;
-    line-height: 0.65mm;
-    color: var(--color-bark-dark);
-    text-align: center;
-    text-align-last: center;
-    display: block;
-    width: 100%;
-    /* box-shadow: inset ... will produce glitches (border stripes) in pdf output */
-    background-clip: content-box;
-    background-image: linear-gradient(to right,
-    transparent 3%,
-    var(--color-bark-dark),
-    transparent 50%,
-    var(--color-bark-dark),
-    transparent 97%);
 }
 
 figure#article2024Done-interview-with-thayTNH-spain2014-2 + p {
@@ -964,20 +1012,6 @@ html:lang(vi) #article2024Done-Resillence-Community-SpitualitySatish-Kumar34,
     text-indent: 0em;
 }
 
-/* calligraphy */
-#cau-tra-loi-la-tinh-thuong + h2.author {
-    margin-top: -16pt !important;
-}
-
-/* calligraphy */
-.article-nguoi-dji-hai-thuoc-djau-non h2.author {
-    margin-top: 0pt;
-}
-
-.article-nguoi-dja-ve-dja-toi h2.author {
-    margin-top: -10pt;
-}
-
 figure#article2024Done-Sr-Tam-DucMG0514e {
     display: block;
     float: none;
@@ -994,3 +1028,66 @@ figure#article2024Done-BrDJuc-DJinhRains-retreat-23-2410e {
 figure#article2024Done-BrDJuc-DJinhRains-retreat-23-2410e {
     margin-left: 5%;
 }
+
+figure#article2024Done-Br-Bat-NhaCTD04445 {
+    display: inline;
+    float: left;
+    margin-right: 0.9em;
+    padding-top: 0.3em;
+    margin-bottom: 0.9em;
+    /* margin-top: 0em; */
+    width: 45%;
+}
+
+figure#article2024Done-Br-Bat-NhaCTD04521e {
+    padding-left: 6%;
+    padding-right: 6%;
+}
+
+/* full-paper-width */
+figure#article2024Done-Sr-Tuyet-NIMG6618ecut {
+    display: block;
+    float: none;
+    left: -12%;
+    column-span: all;
+    /* width: 97%; */
+    margin-left: auto;
+    margin-right: auto;
+    width: 120%;
+    position: relative;
+    max-width: none !important;
+}
+
+figure#article2024Done-Sr-Uyen-NghiemArticle-Sr-Uyen-NDSC01094,
+figure#article2024Done-BrPhap-UngBrPhap-Unge {
+    display: block;
+    float: none;
+    /* left: -12%; */
+    column-span: all;
+    /* width: 97%; */
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    position: relative;
+    max-width: none !important;
+}
+
+figure#article2024Done-Sr-Tuyet-NDSC00153e {
+    display: block;
+    float: none;
+    /* left: -12%; */
+    column-span: all;
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    max-width: none !important;
+}
+
+
+figure#article2024Done-Sr-Tuyet-NIMG6618ecut + p {
+    margin-top: 0em;
+    text-indent: 0em !important;
+}
+
+

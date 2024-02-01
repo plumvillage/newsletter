@@ -5,10 +5,9 @@ author: Sư cô Chân Hoa Nghiêm
 
 Mùa thu năm nay, tu viện Bích Nham có hai vị khách từ Việt Nam sang, đó là chú Thành và Huy. Chú Thành, đạo diễn của đoàn làm phim về cuộc đời của Sư Ông, đã liên lạc với chúng tôi thông qua cô Châu Thổ là đạo diễn chính của phim. Chú nói với tôi là chú rất cần sự giúp đỡ từ quý thầy và quý sư cô về những nơi mà Sư Ông từng đi qua và từng sống vào thập niên 1962. Đó là khoảng thời gian quan trọng trong cuộc đời của Sư Ông khi sang Mỹ để học lấy bằng Thạc sĩ (Master of Arts, 1962) và cũng là thời gian Sư Ông bắt đầu tranh đấu cho hòa bình ở Việt Nam.
 
-{% image "article2024/Done-Sr.Hoa Nghiem/Sr.Hoa N-Princeton.3.jpg" %}
-{% image "article2024/Done-Sr.Hoa Nghiem/TNH-directory-page-half-768x1201.jpg" %}
-
 Thầy Pháp Không đã liên lạc với các trường đại học Princeton và Columbia để phái đoàn làm phim và một số thầy, sư cô đến thăm viếng di tích lịch sử nơi Sư Ông đã từng sống. Địa điểm đầu tiên mà chúng tôi đến là trường đại học Princeton. Đây là nơi năm xưa Sư Ông đã từng theo học khi còn là một học tăng trẻ. Tiến sĩ Brian Shetler đã hướng dẫn chúng tôi thăm thư viện Princeton, nơi lưu trữ rất nhiều hồ sơ luận án Thạc sĩ của Sư Ông, và ông đã chỉ cư xá Brown Hall, nơi Sư Ông từng cư trú khi ở đây. Chúng tôi thiền hành trên con đường đầy lá phong vàng đỏ từ thư viện qua trường, nơi ngày xưa Sư Ông đã từng đi qua. Tôi cảm thấy như Sư Ông đang cùng chúng tôi về thăm lại trường xưa. Dừng chân dưới một gốc cây phong, chúng tôi ngồi thành vòng tròn và lắng nghe một đoạn văn trong *Nẻo về của ý*. Sau đó chúng tôi hát bài *Từng lá ngô đồng rơi*, bài dân ca Pháp đã được Sư Ông dịch ra lời Việt. Cơn gió đi qua, thổi bay những chiếc lá vàng trên cây chao liệng trong không gian, đẹp biết bao.
+
+{% image "article2024/Done-Sr.Hoa Nghiem/Sr.Hoa N-Princeton.2.jpeg" %}
 
 Địa điểm kế mà chúng tôi đến là căn nhà gỗ Pomona ở trại hè Ockanickon, Medford, New Jersey. Pomona thuộc về YMCA nằm ở tiểu bang New Jersey, là nơi cắm trại cho các thanh thiếu niên. Đó là căn nhà gỗ nằm bên cạnh một cái hồ rộng lớn, nơi mà Sư Ông đã từng ngồi trên một chiếc thuyền con và tự chèo lên phía Bắc của hồ, và ngồi chơi giữa những bông súng cho đến khi chiều xuống. Bây giờ là mùa thu, những chiếc lá vàng bay theo gió rơi trên mặt hồ. Tôi tưởng tượng một vị thầy trẻ đang ngồi trầm tư và tưởng nhớ về quê hương, về Phương Bối và về niềm đau chiến tranh trên quê hương mình mà thấy thương. Tôi nhớ ngày xưa khi đọc quyển hồi ký *Nẻo về của ý* của Sư Ông, mắt tôi đã ướt vì hai câu thơ mà Lý, một vị tác viên xã hội đã viết cho Sư Ông như một lời chia tay, đến bây giờ khi đọc lại, cảm xúc của tôi vẫn dâng trào:
 
@@ -21,11 +20,15 @@ Ngày hôm sau chúng tôi tiếp tục đi đến Chủng viện Thần Học (
 
 Thời đó, người tu Phật giáo hầu như không có. Tôi nghĩ đến thời gian Sư Ông phải đối diện với những xung đột trong nội tâm và cảm giác cô đơn trong môi trường mới này. Người tu sĩ trẻ đó còn mang nỗi niềm về cuộc chiến tranh khốc liệt đang xảy ra trên quê hương mình. Nghĩ đến đây tôi thấy mắt mình cay cay vì thương người tu trẻ, thầy mình, đã mang một gánh nặng như thế trên vai. Tôi không muốn mọi người thấy mình khóc nên vội lau nước mắt. Nhưng tôi nhớ Sư Ông đã từng nói với tôi rằng: “Muốn khóc thì cứ khóc, đừng đè nén. Khóc không có gì là xấu hổ. Có ý thức là mình đang khóc là được rồi”. Ý thức mình đang khóc thì nước mắt sẽ tự nhiên ngừng chảy. Mặt trời ý thức mà rọi lên thì ánh sáng sẽ tràn về, tôi không cần đè nén cơn cảm xúc xuống. Ý thức mình đang khóc thì làm sao khóc được nhỉ?
 
+{% image "article2024/Done-Sr.Hoa Nghiem/TNH-directory-page-half-768x1201.jpg" %}
+
 Ngày xưa Sư Ông đã đến đây một mình. Khi rời New York về lại Việt Nam, Sư Ông có bao giờ nghĩ rằng có lúc Người sẽ trở lại đây, không phải một mình mà với cả một tăng thân? Sư Ông lúc ấy chắc không ngờ rằng sau này Người còn thành lập cả một tu viện ở vùng New York, phía Đông Hoa Kỳ, nơi mà ngày xưa Người chỉ là một thầy tu trẻ không tên tuổi. Ngày nay, Sư Ông có hàng ngàn đệ tử người Hoa Kỳ. Sự tiếp nối của Sư Ông thật không thể nghĩ bàn (bất khả tư nghì).
 
 Chúng tôi đến thư viện của trường đại học Columbia, thăm thư viện Butler ở tầng thứ mười một, nơi Sư Ông từng nhắc tới trong *Nẻo về của ý*. Sư Ông đã mở một quyển sách ra xem và thấy rằng quyển sách này trước đây đã có hai người mượn, ngày tháng cho thấy đã cách nhau hàng chục năm. Và Sư Ông là người thứ ba. Sư Ông đã viết: *Tôi đang đứng đây, gặp họ trong không gian nhưng không gặp họ trong thời gian.* Nghĩ đến đây tôi bỗng rung động trong lòng; tôi cũng đang gặp Sư Ông, một tăng sĩ trẻ đang mở quyển sách ra xem ở tại gác sách này trong không gian của tâm thức mình. 
 
 Cô Carolyn Bratnober, một giảng viên của trường đại học, hướng dẫn chúng tôi trong cuộc thăm viếng, nói rằng thật sự thì tất cả cũng như xưa, không có nhiều thay đổi, có chăng là họ thay đổi mã số ngoài bìa quyển sách để tương ứng với số trong hệ thống máy tính. Nhìn những hàng kệ sách mà lòng tôi cảm thán! Thời gian đã đi qua, mà không gian vẫn như xưa. Đã có bao thế hệ học giả đi trước đã từng đi ngang qua những hàng kệ sách này, trong đó có Thầy tôi. 
+
+{% image "article2024/Done-Sr.Hoa Nghiem/Sr Hoa Nghiem 2_e.jpg" %}
 
 Sau đó cô dẫn riêng tôi và thầy Pháp Không thăm Burke Library, một thư viện khác ở tầng trên, là chỗ để cho học sinh có thể vào học và nghiên cứu. Cô dẫn chúng tôi vào căn phòng nhỏ biệt lập, nơi trưng bày hình ảnh và tư liệu về những vị đã thành lập ngôi trường và những giáo sư đã từng giảng dạy nơi đây. Tôi ngạc nhiên khi thấy hình Sư Ông cùng với những giáo sư nổi tiếng khác của trường được trưng bày trong tủ kiếng. Sư Ông trông rất trẻ, khoảng 36 tuổi. Họ trưng bày bản luận cương Thạc sĩ của Sư Ông, và đề tài nghiên cứu là Triết học Tôn giáo: Vấn đề Nhận thức trong Duy thức học *(The Problem of Knowledge in the Philosophy of Vijñānavāda)*. Tôi thầm hãnh diện và khâm phục thầy mình vô hạn. Một vị tu sĩ còn trẻ mà đã có thể trình bày một cách sáng tỏ về Duy thức học Phật giáo, một giáo lý tương đối khó, trong môi trường học thuật ở phương Tây nơi mà đạo Bụt thời bấy giờ còn khá xa lạ. 
 
@@ -53,5 +56,7 @@ Tôi thấy rõ sự có mặt của tôi ở nơi này. Tôi thấy rõ là mì
 
 <div class="verse"><p>“Nước Bích lắng trong, ngàn sông có nước ngàn sông trăng hiện<br/>
 Non Nham tú lệ, mỗi lần nhìn lại mỗi lần mới tinh”</p></div>
+<!-- 
+{% image "article2024/Done-Sr.Hoa Nghiem/Sr.Hoa Nghiem-Princeton_e.jpeg" %} -->
 
 Tôi muốn nói với Sư Ông: “Thầy thương kính của con, con rất hạnh phúc vì mỗi ngày con đã thấy rõ hướng đi và biết nơi mình đang đến. Lòng biết ơn của con đối với Thầy, với chư Tổ, với gia đình tâm linh, đối với cha mẹ, với gia đình huyết thống không bao giờ cạn trong con. Sang năm là Đại tường của Thầy, nhưng con biết rằng Thầy đang rong chơi Trời phương ngoại, Thầy vẫn còn đó mãi trong lòng chúng con”.

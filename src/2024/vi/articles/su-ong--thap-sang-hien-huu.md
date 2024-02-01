@@ -37,11 +37,11 @@ Khi thiền hành, chúng ta tiêu thụ thời gian. Trong bối cảnh của n
 
 Cho nên ta cần chia sẻ cho họ cách đi từ bãi đậu xe đến nơi làm việc. Đi như thế nào để mỗi bước chân có thể phục hồi sự bình an, niềm vui và tình yêu cuộc sống trong họ. Giúp cho họ làm thế nào để dừng suy nghĩ.
 
-{% image "article2024/Done-interview-with-thay/Calligraphy_TNH_You-have-enough.jpg" %}
-
 **Jo Confino: Rất nhiều người mất sự kết nối giữa cuộc sống của họ và những điều ảnh hưởng đến cuộc sống ấy. Thí dụ như khi mua một cái gì đó, họ không biết nó đến từ đâu, cũng không biết ai đã sản xuất nó và những người sản xuất đó sống ra sao. Họ thật sự bị cách biệt với thế giới xung quanh. Và họ không thấy được rằng bất cứ điều gì họ làm cũng có ảnh hưởng đến thế giới. Thầy có nghĩ rằng người ta sống mà bị mất kết nối như vậy là một vấn đề hay không?**
 
 **Thầy:** Chính vì thực trạng đó cho nên trong quyển sách “Nghệ thuật tiêu thụ”, ta có thể chỉ cho họ cách ăn: nghệ thuật ăn. Thay vì suy nghĩ và nói nhiều trong khi ăn, người ta tập dừng lại để ăn cho đàng hoàng. Nhìn vào thức ăn, tiếp xúc với miếng cà rốt, với phân bón, với nước, với mưa, với nắng. Tiếp xúc với đất Mẹ. Ăn như thế nào để có thể tiếp xúc được với sự sống, với gốc rễ của mình. Đó là thiền tập. Và thiền tập rất dễ chịu. Người ta vốn đã có một thói quen ăn uống cho nên ta phải chỉ cho họ một cách ăn khác để họ có thể thấy được làm thế nào một miếng cà rốt có mặt trong bữa ăn của họ. Trước khi bắt đầu ăn, ta đọc Năm lời quán nguyện. Nhưng sự quán chiếu phải kéo dài trong suốt bữa ăn chứ không phải chỉ lúc bắt đầu mà thôi. Khi dừng lại mọi suy tư, ta nhai mỗi miếng thức ăn trong ý thức đó, tiếp xúc với thức ăn và phát khởi lòng biết ơn. Chừng nào còn biết ơn, chừng đó ta còn hạnh phúc.
+
+<!-- {% image "article2024/Done-interview-with-thay/Calligraphy_TNH_You-have-enough.jpg" %} -->
 
 Sáng nay lúc tôi lạy xuống, tôi không lạy như một cá nhân. Tôi thấy cả hai dòng tổ tiên tâm linh và huyết thống. Tôi thấy tôi là một với tăng thân tứ chúng. Và tôi lạy xuống như một tăng thân đông đảo mà không phải là một cá nhân. Tôi không thấy mình là cái ngã riêng biệt mà là cả dòng họ tổ tiên.
 

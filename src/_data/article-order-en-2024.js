@@ -14,4 +14,5 @@ module.exports = [
     "sr-lam-hy--running-another-way-of-stopping",
     "sr-tu-nghiem--poem-entering-the-field",
     "sr-hien-hanh--the-calling",
+    "br-thien-chi--blossoming-trees",
 ]

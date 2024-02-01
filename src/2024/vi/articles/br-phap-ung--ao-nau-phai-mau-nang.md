@@ -9,10 +9,6 @@ author: Thầy Chân Pháp Ứng
 
 Trong 30 năm được Sư Ông dạy dỗ và đại chúng dưỡng nuôi, Pháp Ứng có cảm tưởng như mình đi qua gần trọn một chu kỳ. Như một năm có bốn mùa, mùa đông lá rụng, mùa xuân biểu hiện. Pháp Ứng thấy mình trải nghiệm đủ mọi đổi thay.
 
-{% image "article2024/Done-Br.Phap Ung/_DSC7759.JPG" %}
-{% image "article2024/Done-Br.Phap Ung/Thay and Br. Phap Ung at Omega Institute in New York - 1996 PHOTO Simon Chaput.jpg" %}
-{% image "article2024/Done-Br.Phap Ung/Br.Phap Ung_e.jpg" %}
-
 Trong 30 năm ấy, Pháp Ứng đã trải qua đủ loại lỗi lầm, té xuống rồi đứng dậy, trầy da tróc vảy. Có lẽ nhờ vậy mà Pháp Ứng có cảm giác hoa trái dần dần hình thành, bây giờ hoa mới chớm nở. Pháp Ứng bắt đầu nhận ra, cảm được và có niềm tin nơi vị thầy trong mình. Điều đó quý vô cùng. Nhưng thật ra, đó cũng không phải là một điều gì mới. Cái cảm giác trở về được với chính mình, giống như quay về cội nguồn để rồi tiếp tục đi tới. Có thể đó là tố chất tổ tiên đã trao truyền, bây giờ nó tiếp tục chớm nở. Giống như một chu kỳ được tiếp nối.
 
 Khi Pháp Ứng có ý muốn xuất gia, gia đình vẫn chưa sẵn sàng. Hôm đó Pháp Ứng tủi thân, lên gác nằm khóc. Đang khóc thì bỗng thấy có một vị nét mặt hồng hào, đôn hậu hiện ra, nói: “Con yên tâm đi!”. Nghe vậy, Pháp Ứng thấy lòng lắng xuống… Sau đó không lâu, Pháp Ứng được gặp Sư Ông trong một khóa tu ở Hà Lan. Sư Ông nhìn mặt Pháp Ứng, chắc là “ngáo ngáo” kiểu sinh viên, kiểu gia đình Phật tử, hỏi: “Con muốn làm kỹ sư Phật học không?”. Pháp Ứng nghĩ thầm: “Ủa, kỹ sư Phật học là cái gì? Sư Ông hỏi gì mình không hiểu”. Pháp Ứng ngơ ngơ nhìn Sư Ông, nhưng hạt giống đã được trao truyền, được gửi gắm. *Hạt đậu năm xưa hé miệng cười*.
@@ -51,6 +47,8 @@ Nhân dịp hai thầy trò ngồi tại cốc Ngồi Yên, bất ngờ Sư Ông
 
 Trong 30 năm, Pháp Ứng đã đi qua nhiều thăng trầm. Những lúc trầm, cái phao cứu sinh của Pháp Ứng là niềm tin, là liên hệ thầy trò, và liên hệ tăng thân. Sở dĩ Pháp Ứng được xuất gia là có sự yểm trợ của tổ tiên chứ không phải vì mình tài giỏi. Như Sư Ông thường nói là nhờ phước đức ông bà, mà cũng là phước đức của tổ tiên tâm linh, trong đó có tăng thân.
 
+{% image "article2024/Done-Br.Phap Ung/Br.Phap Ung_e.jpg" %}
+
 Nhìn sâu, Pháp Ứng thấy những thăng trầm của mình xuất phát từ vết thương của gia đình huyết thống, chứ không phải ngoại cảnh làm cho mình như vậy. Khi vết thương biểu hiện, mình có những suy nghĩ này, hoang mang kia, nghi ngờ nọ. Mình không có sự vững vàng. Pháp Ứng tập chấp nhận và kiên trì tìm hiểu cách vận hành của tâm mình. Pháp Ứng biết con đường mình đang đi rất xứng đáng, đúng với ước nguyện của mình. Chính niềm tin đó giúp Pháp Ứng tiếp tục bước. Té xuống lại đứng dậy đi tiếp. Bên cạnh đó, Pháp Ứng chăm sóc vết thương của tổ tiên. Vết thương này sâu quá nên nó cứ biểu hiện từng giai đoạn, nó không dừng lại.
 
 Pháp Ứng may mắn được học rằng không cần phải đợi cho vết thương hoàn toàn được chữa lành thì mình mới có hạnh phúc, mà mình có thể hạnh phúc trong lúc chăm sóc vết thương. Mình không cần phải đi ra ngoài để tìm lối thoát, tìm sự an ủi hay chữa lành.
@@ -62,6 +60,8 @@ Khi đi tu, Pháp Ứng cũng muốn giúp làm vơi bớt phần nào những k
 ## Trình kệ kiến giải
 
 Mùa thu năm 1994, Sư Ông dạy về kinh Tuổi trẻ và Hạnh phúc (kinh Tam Di Đề). Cuối khóa, Sư Ông đề nghị mỗi người làm một bài thơ, bài hát để trình kiến giải của mình. Tự nhiên Pháp Ứng được “biếu” một bài, không biết từ đâu nữa! Pháp Ứng trình cho Sư Ông và đại chúng. Sư Ông chấm điểm nữa chứ! Sau khi hát xong, thầy Pháp Đăng và Pháp Ứng phải đi khóa tu bên Đức. Khi về, Pháp Ứng nghe kể lại là mình cũng được 7 điểm (*cười*).
+
+{% image "article2024/Done-Br.Phap Ung/_DSC7759_e.JPG" %}
 
 <div class="verse"><p>Áo nâu phai màu nắng<br/>
 Người về đây với Bụt<br/>
@@ -88,6 +88,8 @@ Một trong những điều mà Pháp Ứng rất biết ơn Sư Ông, đó là 
 Phẩm chất nơi Sư Ông mà Pháp Ứng muốn tiếp nối nhất là tinh thần vô úy — không sợ hãi. Chất liệu đó rất cần thiết trong giai đoạn này của đời sống, của con người, của Trái Đất, của tất cả. Có bình an, không sợ hãi, có tinh thần dũng mãnh thì mình lại càng có niềm tin. Niềm tin mình cảm được trong máu trong xương, nó truyền lửa, truyền sức sống, giúp cho mình chăm sóc được khổ đau chứ không phải hy vọng trong tương lai. Đức vô úy, không sợ hãi này mang chất liệu của từ bi, có thể giúp mình đối diện với khổ đau của bạo lực, của sự tàn phá, cuồng loạn.
 
 Bây giờ Sư Ông không còn trong hình tướng quen thuộc để trực tiếp hướng dẫn chúng ta nữa, cho nên bản thân mỗi người cần quay về nuôi dưỡng, chăm sóc mình để làm nền tảng. Chúng ta có chung nền tảng đó, giúp tạo nên sức mạnh. Giống như mình thở cùng một hơi thở, mình đi cùng một nhịp. Như vậy là mình có Bụt, có Tổ, có Sư Ông với mình.
+
+{% image "article2024/Done-Br.Phap Ung/Thay and Br. Phap Ung at Omega Institute in New York - 1996 PHOTO Simon Chaput.jpg", "", "At the Omega Institute in New York, 1996.<br/>Photo courtesy by Simon Chaput." %}
 
 Điều quan trọng nữa là làm thế nào để mỗi người cảm thấy thoải mái, được là chính mình trong tăng thân. Nhu yếu đó rất thiết thực. Được là mình trong tinh thần mỗi người cần thời gian để phát triển, để hiểu, để lớn lên, cũng như cần thể hiện, cần được yểm trợ, cần được chấp nhận. Đó là những cái cần. Nhưng tự thân chúng ta cũng cần mở rộng lòng ra cho nhau, tạo chất keo kết nối trong tăng thân đa văn hóa, đa truyền thống này.
 
