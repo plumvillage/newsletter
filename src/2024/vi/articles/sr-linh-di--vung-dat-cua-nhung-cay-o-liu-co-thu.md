@@ -9,15 +9,15 @@ Hôm nay là ngày tiếp nối của Thầy.
 
 Chúng con, bốn người con xuất sĩ của Thầy, đang ở miền Đất Thánh, và chiến tranh giữa Israel và Palestine đã bùng nổ bốn ngày trước đây. Chúng con vẫn bình an. Chúng con có nước, có đồ ăn, có nơi trú ẩn và có những người bạn dễ thương của tăng thân. Nhưng cách đây chỉ năm mươi cây số thôi, người dân ở đó không có nước, không có thức ăn, và không có nơi trú ẩn an toàn. Những đứa trẻ đang chết dần chết mòn. Cả ngày lẫn đêm chúng con đều nghe thấy tiếng rít của tên lửa, chúng con cảm thấy đất rung chuyển khi tên lửa nổ. Những lúc đó con nhắm mắt lại và thành tâm cầu nguyện — cầu cho sự bình an và từ bi đến được với trái tim mọi người.
 
-{% image "article2024/Done-sr-linh-di/4b0fc9b1-47ca-49f3-8d3c-8395efe91e73.JPG" %}
-{% image "article2024/Done-sr-linh-di/779e467a-03dc-49ed-bac4-977a4b0495d1.jpg" %}
-{% image "article2024/Done-sr-linh-di/2023.10.06 Deep Relaxation.jpg" %}
+{% image "article2024/Done-sr-linh-di/4b0fc9b1-47ca-49f3-8d3c-8395efe91e73_e.JPG" %}
 
 Cuộc sống giống như một bức tranh cát đã lật ngược lại, và chúng ta không thể biết cảnh tượng tiếp theo sẽ diễn ra như thế nào.
 
 Thầy kính thương, con đã rất sợ hãi. Con không biết liệu mình có thể gặp lại cha và mẹ nữa hay không. Nằm trong bóng tối, hơi thở sâu và đều đặn, con nhìn thấy Thầy, đang đứng trước những ngôi làng bị phá hủy và đang hối thúc những người dân xây dựng lại làng xóm hết lần này đến lần khác. Con nhìn thấy tăng thân đang thực tập sám pháp địa xúc, cả một biển y vàng phủ phục dưới đất. Và con nhìn thấy bà nội của con, người đã đưa bảy đứa con mình ra khỏi vùng chiến tranh, mỉm cười và thì thầm: “Các con sẽ bình an thôi. Các con đều có sức mạnh của bà”.
 
 Chúng con đến miền Đất Thánh này để hiểu, để kết nối mọi người lại trong từng hơi thở, từng bước chân, và để lắng nghe nhau trong sự bình an.
+
+{% image "article2024/Done-sr-linh-di/779e467a-03dc-49ed-bac4-977a4b0495d1.jpg" %}
 
 Một hôm, chúng con đi dạo ở Wadi Khana, một vùng ốc đảo của những cây ô liu cổ thụ. Cùng đi với chúng con có anh Issa Souf, một nhà hoạt động hòa bình người Palestine, anh đã từng bị bắn trong cuộc xung đột và bị liệt từ đó. Anh chia sẻ với chúng con rằng thung lũng màu mỡ này từng là nơi được tự do chăn dê và trồng ô liu. Vài năm gần đây, những khu định cư bất hợp pháp mọc lên trên những triền đồi, và người Palestine không còn được phép trồng ô liu ở đó nữa.
 
@@ -27,9 +27,9 @@ Nhóm chúng con, gồm những nhà hoạt động hòa bình và những ngư�
 
 Chúng con rất cảm phục trước nỗi đau cũng như sự mạnh mẽ của họ. Người dân nơi đây có những tố chất của những cây ô liu ngàn năm tuổi, can trường đứng giữa những triền đồi cháy nắng mà vẫn đơm hoa kết trái.
 
- - “Làm sao chúng tôi có thể tiếp tục ôm ấp nỗi đau này khi trái tim không thể chịu đựng thêm nữa?”
- - “Làm sao chúng tôi có thể bày tỏ nỗi đau của mình mà không làm tổn thương người nghe?”
- - “Tôi phải trả lời con tôi nhưng thế nào khi mỗi tối con hỏi tôi rằng họ đã ký kết hiệp ước hòa bình chưa?”
+ - Làm sao chúng tôi có thể tiếp tục ôm ấp nỗi đau này khi trái tim không thể chịu đựng thêm nữa?
+ - Làm sao chúng tôi có thể bày tỏ nỗi đau của mình mà không làm tổn thương người nghe?
+ - Tôi phải trả lời con tôi nhưng thế nào khi mỗi tối con hỏi tôi rằng họ đã ký kết hiệp ước hòa bình chưa?
 
 Chúng con không có câu trả lời, nhưng chúng con lắng nghe họ với tất cả lòng từ bi, và dành không gian cho mỗi người được nói lên nỗi lòng của họ. Chúng con tới đây mang theo những “công cụ” trong cuộc sống hằng ngày của chúng con ở Làng Mai để giúp xoa dịu những trái tim tổn thương.
 
@@ -57,6 +57,8 @@ Sự thực tập hòa hợp thường đòi hỏi chúng con phải tránh nói
 
 Chúng con biết rằng đó không phải là lúc để chứng minh rằng “ai đúng”, mà cần cả nhóm phải tập trung, vì vậy chúng con đã dừng lại việc đưa ra những chỉ dẫn khác nhau. Thay vào đó, chúng con ngồi thật yên để thở, duy trì ý thức về hoàn cảnh xung quanh, và lắng nghe nhu cầu của người lái xe để chúng con có thể hỗ trợ. Và thật hạnh phúc, sư cô lớn trong nhóm đã ngồi thật yên bình trong suốt thời gian đó.
 
+{% image "article2024/Done-sr-linh-di/2023.10.06 Deep Relaxation.jpg" %}
+
 Sự thực tập hòa hợp cũng yêu cầu chúng con phải biết tôn trọng và khiêm cung dù là những điều nhỏ nhất. Một hôm đang ở giữa khóa tu, sư cô hỏi con: “Sư em, sư em nghĩ ngày mai mình cùng tụng bài *Ngày đêm an lành* được không?” “Dạ, được!” “Nhờ sư em hỏi thử bên quý thầy nhé?” “Vâng.” Con nhanh nhảu gửi ngay một tin nhắn cho quý thầy trên hộp tin nhắn của nhóm: “Thưa quý thầy, sáng mai chúng ta sẽ cùng nhau tụng bài *Ngày đêm an lành* nhé”.
 
 Nhìn thấy tin nhắn đó, sư cô cười và nhẹ nhàng nhắc con: “Sư em, nhắn tin cho quý thầy như vậy là không dễ thương và không có sự tôn trọng. Chúng ta cùng làm việc với nhau, và chúng ta luôn nên hỏi người khác về ý kiến của họ hơn là thông báo hoặc yêu cầu. Nếu chúng ta thực tập chánh niệm trong những điều nhỏ như vậy, những căng thẳng sẽ không bị dồn lại trong suốt hành trình khóa tu”. Con chắp tay xá cảm ơn sư cô và gửi đi một tin nhắn khác: “Thưa quý thầy, con đã không thật sự tôn trọng khi chỉ nhắn cho quý thầy ngày mai chúng ta sẽ tụng bài gì … vì vậy … con xin hỏi quý thầy ngày mai chúng ta cùng tụng bài *Ngày đêm an lành* có được không ạ?”.
@@ -75,3 +77,7 @@ Thầy kính thương, con rất biết ơn Thầy đã xây dựng một tăng 
 
 <p class="signoff"><span class="signoff-lvl-1">Trân kính và biết ơn,</span><br/>
 <span class="signoff-lvl-2">Con, Trăng Linh Dị</span></p>
+
+<div class="article-end"></span>
+
+{% image "article2024/Done-sr-linh-di/2023.10.06 Battir Terrace_e.jpeg" %}

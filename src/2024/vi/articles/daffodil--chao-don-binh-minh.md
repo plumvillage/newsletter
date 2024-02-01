@@ -26,15 +26,13 @@ author: Phỏng vấn gia đình Daffodil
 
 Trước đây con chưa bao giờ cảm thấy mình có một con đường sáng để đi. Thường thì con hành xử bằng sợ hãi và căng thẳng, cố gắng để sống còn. Nhưng khi bước trên con đường này, con thấy mình có bình an và hạnh phúc. Con thấy mình buông được nỗi sợ. Và quyết định xuất gia đến với con một cách thật nhẹ nhàng, thảnh thơi.
 
-{% image "article2024/Done-Daffodil family/137_110723_e.jpg" %}
-
 **Sư chú Chân Nhất Mộc:** Con đã đọc nhiều sách của Sư Ông và con cảm thấy muốn trở thành một người xuất gia dù con chưa bao giờ đến Làng Mai. Con nghĩ, dù Làng Mai chỉ đẹp bằng một nửa so với hình dung của con thì đó vẫn là nơi con muốn xuất gia. Vì vậy, vừa tới Làng Mai là con đã tỏ ý muốn trở thành một xuất sĩ ở đây. Đây chính là nơi con tìm kiếm.
 
 {% image "article2024/Done-Daffodil family/Br.Nhat Thanh_e.jpg" %}
 
 **Sư chú Chân Nhất Thanh:** Vào năm 2019, 2020 con sống và thực tập ở Thiền đường Hơi Thở Nhẹ khoảng chín tháng. Sau đó con trải qua hai năm tại một trung tâm thiền theo truyền thống Tây Tạng tên là Vườn Thiền Samyé ở Bỉ. Năm 2022, con đến xóm Thượng, Làng Mai làm tình nguyện viên cho khóa tu hai mươi mốt ngày — kỷ niệm 40 năm Làng Mai, và ở lại đây cho đến nay. Con thương giáo pháp, thương pháp môn và đạo hạnh của Sư Ông nhưng ý định trở thành một người xuất gia vẫn chưa rõ ràng trong con. Sau khi tham dự lớp học dành cho những người có tâm nguyện xuất gia và được bạn bè khuyến khích, con nghĩ con có thể làm được. Là một người có khuynh hướng căng thẳng và có nhiều khó khăn khi phải cam kết một điều gì, lúc đầu con không thoải mái lắm với cam kết xuất gia trọn đời. Nhưng sau khi nói chuyện thêm với quý thầy con thấy an tâm hơn.
 
-{% image "article2024/Done-Daffodil family/Br.Nhất Xuân_e.jpg" %}
+{% image "article2024/Done-Daffodil family/Br.Nhất Xuân_e2.jpg" %}
 
 **Sư chú Chân Nhất Xuân:** Cách đây một năm rưỡi, con là thiền sinh dài hạn ở xóm Thượng. Từ khi biết pháp môn của Sư Ông, con đã buông được rất nhiều thứ, trong đó có những mối quan hệ không nuôi dưỡng. Khi đó con mới hai mươi tuổi, vì vậy chọn con đường xuất gia thực sự là một quyết định lớn của cuộc đời con. Điều làm cho con rất hạnh phúc là gia đình con đã yểm trợ quyết định này. Tháng Tư năm ngoái, một tuần sau khi gia đình tới Làng Mai nhân dịp sinh nhật của con, con đã nói cho mẹ biết ước muốn xuất gia của mình. Mẹ con rất vui, nói: “Ờ, làm thầy tu hợp với con lắm”. Anh trai cũng vậy. Anh ôm con và nói: “Tuyệt quá!”. Quả là một niềm khích lệ lớn cho con khi biết những người mình yêu thương có thể yểm trợ cho mình trên con đường này.
 
@@ -104,6 +102,8 @@ Con thường liên lạc với các vị xuất sĩ qua một số việc như 
 **BBT:** Sống tập thể trong tăng thân là một thử thách cho khá nhiều người, nhất là người Tây phương. Xin các sư em chia sẻ trải nghiệm của mình trong thời gian sống với tăng thân Làng Mai, đặc biệt là khi phải sống chung phòng với nhiều người khác.
 
 **Sư chú Chân Nhất Vân:** Từ năm mười tuổi, con đã sống tại trường nội trú và chỉ về thăm nhà vào cuối tuần. Con đã sống trong các cư xá có từ ba mươi đến một trăm học sinh. Mặc đồng phục, cắt tóc ngắn, hành vi phải mực thước, các nghi thức và cuộc sống tập thể rất quen thuộc đối với con. Nhờ sống tập thể mà con có được những tình bạn lâu bền, học được thế nào là tình huynh đệ. Vì vậy khi vào sống trong đại chúng Làng Mai con thấy thật sự như trở về nhà và rất hạnh phúc.
+
+{% image "article2024/Done-Daffodil family/137_110723_e.jpg" %}
 
 **Sư chú Chân Nhất Mộc:** Nhiều người cho rằng Thuỵ Điển — quê hương con — là một nước thiên về chủ nghĩa cá nhân. Con từng có một căn hộ rất đẹp và khá hài lòng với nó, nhưng con lại cảm thấy quá cô đơn. Cho nên năm ngoái, trước khi tới Làng, con quyết định tới sống với mấy người bạn. Qua Làng, sống chung phòng với nhiều người, đôi khi con ước gì có thêm chút không gian. Nhưng con nghĩ đâu có cái gì hoàn hảo. Tuy nhiên, có một điều chắc chắn là không có nhiều không gian còn dễ chịu hơn là cảm thấy cô đơn.
 

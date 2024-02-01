@@ -11,9 +11,7 @@ author: Sư cô Chân Thuận Nghiêm
 
 <p>Cho đến ngày nay, Palestine vẫn chưa được toàn thế giới công nhận là một quốc gia và phải sống phụ thuộc vào Israel. Vì không phải là một quốc gia nên họ không có bất kỳ một quyền lợi nào trên trường quốc tế, và chỉ là một quan sát viên trong Liên Hợp Quốc.</p></div>
 
-{% image "article2024/Done-sr-thuan-nghiem/05b00c36-3b6d-46e8-8284-b90f48830d2d.JPG" %}
-{% image "article2024/Done-sr-thuan-nghiem/IMG-0378.JPG" %}
-{% image "article2024/Done-sr-thuan-nghiem/df51ccf0-41cc-422d-9cf2-2e292cf4c906.JPG" %}
+{% image "article2024/Done-sr-thuan-nghiem/IMG_3889.jpg" %}
 
 ## Hoằng pháp ở Israel 
 
@@ -29,6 +27,9 @@ Những thiền sinh tham dự khóa tu đã được chuyển hóa rất nhiề
 
 Hơn một trăm người tham dự cả ngày quán niệm. Có một số người Palestine cũng tham dự. Mọi người thực tập thiền đi, thiền ngồi, thiền ăn, thiền buông thư rất hết lòng. Ngày quán niệm kết thúc sau buổi vấn đáp với rất nhiều câu hỏi thiết thực. Nhiều người Palestine rất mong ước có những ngày tu chánh niệm như thế này để họ học chế tác bình an trong từng hơi thở và bước chân.
 
+<!-- manually push heading to 2. col -->
+<div style="height: 3.0em;"></div>
+
 ## Hoằng pháp ở Palestine
 
 Quý thầy, quý sư cô thuê xe để lái qua Palestine và phải đi qua nhiều checkpoint. Ai cũng cảm nhận sự nghi kỵ, đề phòng, và bất an của những người lính trẻ Israel.
@@ -37,11 +38,14 @@ Tại đây, mọi việc đều do quý thầy, quý sư cô điều động, h
 
 Có khoảng 30 phụ nữ Palestine tham dự buổi sinh hoạt chánh niệm. Họ đều rất tò mò và thích thú khi khám phá ra rằng các sư cô không kết hôn và sinh con như họ. Họ có rất nhiều căng thẳng, bồn chồn dồn chứa trong thân nên mặc dù rất cố gắng, các sư cô vẫn khó giúp họ buông thư được. Sau vài phút thăm dò khá dè dặt, họ đã bộc lộ được những khó khăn và đau khổ của mình qua những câu hỏi và tâm tình. Họ chia sẻ rằng trong một xã hội không ai biết lắng nghe, mạnh ai nấy nói nên việc truyền thông trong gia đình rất khó khăn. Vậy mà sau vài phút nghe chuông, họ thực tập lắng nghe và trở nên yên lắng rất nhiều. Họ để các sư cô chia sẻ mà không cắt lời như trước đó. Sau gần hai tiếng đồng hồ sinh hoạt, họ đồng loạt đứng dậy ra về để nấu ăn cho chồng con làm hai sư cô cũng khá bất ngờ.
 
+{% image "article2024/Done-sr-thuan-nghiem/IMG-0378.JPG" %}
 Có hai buổi sinh hoạt cho cả người Do Thái và Palestine do tăng thân Israel và Palestine tổ chức. Những người Palestine tham dự đa phần là các nhà hoạt động xã hội trên nhiều lĩnh vực như môi trường, tranh đấu bất bạo động,… Có khoảng vài chục người tham dự hai buổi sinh hoạt này. Mọi người đều hết lòng thực tập những pháp môn như thiền thở, thiền đi, thiền ăn. Vào buổi chiều, có buổi pháp đàm để hai bên có cơ hội ngồi lắng nghe nhau. Những người Palestine chia sẻ rằng điều họ mong muốn nhất là hòa bình nhưng rất khó, giống như một giấc mơ ngoài tầm tay, không với tới được.
 
 Khi những người Do Thái qua đến Palestine, được tiếp xúc trực tiếp và lắng nghe từ người Palestine, họ nhận ra rằng họ đã quá thờ ơ. Những quyền như tự do báo chí, tự do ngôn luận là những điều rất đỗi bình thường đối với họ, trong khi người Palestine không có cả những quyền cơ bản của một con người. Thấy được điều đó, nhiều người Do Thái đã bày tỏ sự đồng cảm, muốn đồng hành với người Palestine trong cuộc đấu tranh bất bạo động để giúp người Palestine giành lại quyền được sống trên mảnh đất của chính họ.
 
 Hai buổi sinh hoạt đó như những giọt nước giữa đại dương, không đủ thấm vào đâu nhưng đó là cơ hội để hai bên ngồi lại với nhau, hiểu được khó khăn của nhau, đặc biệt là của người Palestine. Những khổ đau của họ, thế giới cần phải biết, cần phải nghe và hiểu. Chúng ta cần đến tận nơi để thấy thì mới hiểu được. Nếu chỉ nghe qua báo chí về tình hình chiến tranh đang diễn ra, ta sẽ không thể nào mường tượng ra được khổ đau mà người Palestine phải gánh chịu. Không chỉ riêng người Palestine, người Do Thái cũng có những khổ đau của họ. Chúng ta thấy được một điều là trên thế giới còn rất nhiều bạo động, hận thù và sự thiếu hiểu biết.
+
+{% image "article2024/Done-sr-thuan-nghiem/df51ccf0-41cc-422d-9cf2-2e292cf4c906_e.JPG" %}
 
 Hai sắc dân cùng sống trên một mảnh đất. Nếu thấy và hiểu được rằng người dân của cả hai bên đều có chung một nhu yếu là được sống một cuộc đời bình an, hạnh phúc thì cả hai bên mới có thể giúp đỡ, hỗ trợ nhau để cùng sống chung an lạc. Trong quá khứ, họ đã từng sống tương đối hài hòa trên mảnh đất này, không hề xảy ra xung đột hay chiến tranh. Nhưng bây giờ điều đó đã trở thành một giấc mơ. Đặc biệt đối với người dân Palestine, việc được công nhận dường như đã trở thành một niềm hi vọng xa vời.
 
@@ -59,6 +63,10 @@ Trong những ngày ở đó, tiếng bom đạn vang rền suốt cả ngày l�
 
 Quý thầy và quý sư cô làm hết những gì trong khả năng để giúp họ lắng dịu những bồn chồn, thù hận, tuyệt vọng trong lòng. Những người Palestine sống tại Israel bị hạn chế đi lại, chỉ được ra khỏi nhà trong bán kính 1km đến hiệu thuốc hoặc chợ. Họ đè nén trong lòng rất nhiều cảm xúc như sự căm thù và sợ hãi.
 
+<!-- {% image "article2024/Done-sr-thuan-nghiem/IMG_3963.jpg" %} -->
+<!-- {% image "article2024/Done-sr-thuan-nghiem/IMG_4068.jpg" %} -->
+<!-- {% image "article2024/Done-sr-thuan-nghiem/05b00c36-3b6d-46e8-8284-b90f48830d2d.JPG" %} -->
+
 Có một bạn trẻ người Palestine đã từng đến Làng tham dự khóa tu Wake Up chia sẻ rằng: “Tổ tiên, ông bà, cha mẹ con đã từng bao đời sống trên mảnh đất này nhưng đến thế hệ con lại phải sống trong lo sợ, có thể bị giết bất cứ lúc nào, không biết bản thân có thể sống đến ngày mai hay không. Sự thù hận dâng tràn trong lòng con”.
 
 Khi sống với sự thù hận như vậy, ta không thể nào có bình an được. Khi đến vùng đất này quý thầy và quý sư cô đều thao thức muốn đem giáo pháp, đặc biệt là giáo lý tương tức chia sẻ với người dân để giúp họ thay đổi tình trạng, giải tỏa hận thù. Nếu mình thấy được mình là người kia và người kia là mình thì mình sẽ không giết nhau và có thể sống được với nhau trong an bình. Những người dân ở đây rất khao khát giáo pháp. Họ rất mừng là quý thầy và quý sư cô đã đến được nơi này. Phái đoàn đã có được ba tuần lễ yên bình để hoằng pháp trước khi chiến tranh nổ ra.
@@ -66,3 +74,7 @@ Khi sống với sự thù hận như vậy, ta không thể nào có bình an �
 Ở Israel có rất nhiều tăng thân địa phương cũng như rất nhiều vị giáo thọ kì cựu. Có những vị đã biết Thầy và thực tập từ năm 1997, khi Thầy có chuyến hoằng pháp ở đây. Những vị đó đã giúp Thầy tổ chức khóa tu. Cho đến bây giờ họ vẫn tiếp tục thực tập. Còn ở Palestine hầu như chưa có gì hết.
 
 Trong tương lai, quý thầy, quý sư cô sẽ có nhiều cơ hội mang giáo pháp, mang sự thực tập chánh niệm đến chia sẻ với những người dân nơi đây, giúp họ có được bình an trong đời sống hằng ngày. Nếu họ thực tập hay, sự tỉnh thức lan tỏa ra cả cộng đồng thì có thể một ngày nào đó, người dân Palestine có thể làm được những điều họ mong muốn, như thành lập được quốc gia của mình mà không cần phải dùng đến bạo lực để đạt được mục tiêu đó.
+
+<div class="article-end"></div>
+
+{% image "calligraphy/article titles 2 and dividers/5-masked/Dividers1-1.webp" %}

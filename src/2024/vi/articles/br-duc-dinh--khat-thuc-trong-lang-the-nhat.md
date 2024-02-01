@@ -36,10 +36,6 @@ Toàn bộ sự kiện là một cơ hội để cho quý thầy nhận diện v
 
 Tôi rất cảm ơn ban tổ chức của buổi khất thực bởi vì mọi người đã thực tập theo tinh thần mà tôi nghĩ là Thầy sẽ hài lòng: cùng làm việc thảnh thơi, vui vẻ và hòa điệu, có hiệu quả nhưng lại không bị kẹt vào kết quả.
 
-<!-- 3x4 side-by-side -->
-{% image "article2024/Done-Br.Đức Định/Rains retreat 23-24_10_e.jpg" %}
-{% image "article2024/Done-Br.Đức Định/Rains retreat 23-24_1_e.jpg" %}
-
 Cùng làm việc trong ban tổ chức với hai huynh đệ, tôi cảm thấy rất được yểm trợ. Nhờ cơ hội này chúng tôi có sự kết nối chặt chẽ với nhau hơn trong khi cùng nhau phụng sự đại chúng.
 
 ## Là gì cũng đẹp
@@ -75,14 +71,6 @@ bằng một nụ cười tự tấm lòng.</p></div>
 
 Trong chúng tôi, có một vài người tự hỏi “Có phải chúng ta tổ chức một sự kiện chỉ có tính cách biểu tượng mà thôi?”, hay “Chúng ta có nuôi dưỡng ý tưởng muốn làm những gì Đức Bụt đã làm, trong khi trên thực tế, chúng ta đã có quá đủ thức ăn và tiện nghi trong tu viện hay không?”.
 
-{% image "article2024/Done-Br.Đức Định/Rains retreat 23-24_22.jpg" %}
-{% image "article2024/Done-Br.Đức Định/Rains retreat 23-24_20.jpg" %}
-{% image "article2024/Done-Br.Đức Định/Rains retreat 23-24_55.jpg" %}
-{% image "article2024/Done-Br.Đức Định/Rains retreat 23-24_29.jpg" %}
-{% image "article2024/Done-Br.Đức Định/Rains retreat 23-24_9.jpg" %}
-{% image "article2024/Done-Br.Đức Định/Rains retreat 23-24_16.jpg" %}
-{% image "article2024/Done-Br.Đức Định/Rains retreat 23-24_45.jpg" %}
-
 Tôi đã tìm ra một câu trả lời khi quan sát những gì xảy ra vào ngày khất thực qua cách tổ chức và sự thực tập của mọi người. Tôi thấy những hạt giống thiện lành trong từng cá nhân và trong đoàn thể đang được tưới tẩm. Chúng tôi thực tập hài hòa trong quan điểm, lắng nghe nhau, có mặt và hành động trong chánh niệm, tưới tẩm những hạt giống rộng lượng, biết ơn, khiêm tốn, hạnh nguyện, quyết tâm và hiểu biết — thậm chí bằng cách đặt những câu hỏi như trên. Trong ngày hôm đó, chúng tôi cũng quán chiếu về mối quan hệ giữa mình với thức ăn và cảm thọ nơi tự thân.
 
 Thêm một câu trả lời nữa mà tôi đã tìm ra, nhờ một câu trong kinh Duy Ma Cật: “Đi khất thực như vậy không hẳn là vì mình cần ăn”. Thầy cũng đã giải thích thêm trong tác phẩm *Bồ Tát tại gia, Bồ Tát xuất gia* rằng “Khất thực không phải là để có thức ăn, mà là một pháp môn thực tập. Đi khất thực là chỉ để đi khất thực thôi”.
@@ -90,8 +78,6 @@ Thêm một câu trả lời nữa mà tôi đã tìm ra, nhờ một câu trong
 Tương tự như thế, cúng dường chỉ là để cúng dường thôi, không hẳn là vì để quý thầy có thức ăn, hay để tạo thêm chút phước.
 
 Chúng tôi đã tổ chức sự kiện khất thực để thưởng thức nó thật hết lòng, và tôi nghĩ là chúng tôi đã làm được điều đó.
-
-{% image "article2024/Done-Br.Đức Định/Rains retreat 23-24_53.jpg" %}
 
 Tuy vậy tôi cũng nhân cơ hội này suy ngẫm về nhu yếu đích thực của mình trong vai trò của một hành giả, cũng như nhu yếu đích thực của một tăng thân đang chia sẻ các pháp môn thực tập với cộng đồng quốc tế bằng vô số phương tiện.
 
@@ -101,3 +87,19 @@ Là hạnh nguyện sâu sắc<br/>
 Để sống đời tỉnh thức.</p></div>
 
 Cảm ơn tăng thân, gia đình tâm linh yêu quý, đã tạo ra vô vàn khoảnh khắc tuyệt vời như ngày hôm nay. Chúng ta có thể cùng nhau ăn mừng hạnh phúc và cam kết cùng nhau đi trên con đường tu tập này thật lâu bền.
+
+<div class="article-end"></div>
+<div class="page-break"></div>
+
+<!-- 3x4 side-by-side -->
+<!-- {% image "article2024/Done-Br.Đức Định/Rains retreat 23-24_10_e.jpg" %}
+{% image "article2024/Done-Br.Đức Định/Rains retreat 23-24_1_e.jpg" %} -->
+
+{% image "article2024/Done-Br.Đức Định/Rains retreat 23-24_9.jpg", "noFloat" %}
+{% image "article2024/Done-Br.Đức Định/Rains retreat 23-24_22.jpg", "noFloat" %}
+{% image "article2024/Done-Br.Đức Định/Rains retreat 23-24_16.jpg", "noFloat" %}
+{% image "article2024/Done-Br.Đức Định/Rains retreat 23-24_20.jpg", "noFloat" %}
+{% image "article2024/Done-Br.Đức Định/Rains retreat 23-24_29.jpg", "noFloat" %}
+{% image "article2024/Done-Br.Đức Định/Rains retreat 23-24_45.jpg", "noFloat" %}
+{% image "article2024/Done-Br.Đức Định/Rains retreat 23-24_55.jpg", "noFloat" %}
+{% image "article2024/Done-Br.Đức Định/Rains retreat 23-24_53.jpg", "noFloat" %}

@@ -816,10 +816,10 @@ p.pull-quote:before {
 /* ////////////////////////////////////////////////// */
 
 /* merge with succeeding poem/article */
-/* .article-duc-but-tuong-lai-da-co-mat-roi
+.article-giai-toa-han-thu-khoi-suoi-yeu-thuong
 {
     break-after: unset !important;
-} */
+}
 
 
 /* Adjusting title and author */
@@ -959,7 +959,7 @@ figure#article2024br-duc-hienIMG0754e {
     padding-right: 10%;
 }
 
-figure#article2024Done-Daffodil-familyBrNhat-Xuane,
+figure#article2024Done-Daffodil-familyBrNhat-Xuane2,
 figure#article2024Done-Daffodil-family137110723e,
 figure#article2024Done-Daffodil-familySrDieu-Hanhe,
 figure#article2024Done-Daffodil-familyBrNhat-Vane,
@@ -1095,17 +1095,34 @@ figure#article2024Done-BrPhap-UngBrPhap-Unge {
     max-width: none !important;
 }
 
+figure#article2024Done-sr-linh-di20231006-Battir-Terracee,
+figure#article2024Done-sr-linh-di20231006-Deep-Relaxation,
+figure#article2024Done-sr-linh-di4b0fc9b1-47ca-49f3-8d3c-8395efe91e73e,
+figure#article2024Done-sr-thuan-nghiemIMG3889,
 figure#article2024Done-SrHoa-NghiemSrHoa-Nghiem-Princetone,
 figure#article2024Done-Sr-Tuyet-NDSC00153e {
     display: block;
     float: none;
     /* left: -12%; */
     column-span: all;
+    /* default */
     width: 85%;
     margin-left: auto;
     margin-right: auto;
     position: relative;
     max-width: none !important;
+}
+figure#article2024Done-sr-linh-di20231006-Battir-Terracee {
+    width: 60%;
+    margin-bottom: 0em;
+}
+figure#article2024Done-sr-linh-di4b0fc9b1-47ca-49f3-8d3c-8395efe91e73e {
+    width: 78%;
+    margin-bottom: 0em;
+}
+
+figure#article2024Done-sr-thuan-nghiemIMG3889 {
+    width: 90%;
 }
 
 
@@ -1126,4 +1143,34 @@ figure#article2024Done-Sr-Tuyet-NDSC00153e {
     float: none;
     width: 19em;
     padding-left: 3em;
+}
+
+.article-giai-toa-han-thu-khoi-suoi-yeu-thuong .editors-preface::after {
+    display: none;
+}
+
+.article-giot-nuoc-trong-dong-song-tang-than ul li::before {
+    content: "— ";
+}
+.article-giot-nuoc-trong-dong-song-tang-than ul li {
+    font-style: italic;
+}
+
+
+figure#calligraphyarticle-titles-2-and-dividers5-maskedDividers2-1,
+figure#calligraphyarticle-titles-2-and-dividers5-maskedDividers1-1
+{
+    display: block;
+    column-span: all;
+    float: none;
+    width: 50%;
+    padding-left: 8%;
+    margin-top: 20pt;
+    /* margin-bottom: 27pt; */
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.PAGE-OF-article2024Done-BrDJuc-DJinhRains-retreat-23-249 .last-article-element::after {
+    display: none;
 }
