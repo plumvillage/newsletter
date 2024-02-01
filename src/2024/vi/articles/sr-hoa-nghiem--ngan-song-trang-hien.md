@@ -48,6 +48,8 @@ Có lần Sư Ông nói với tôi: “Ngoài kia, người ta có nhiều khổ
 
 Tôi về Bích Nham đã được gần mười năm. Sống trong một cường quốc như nước Mỹ, tôi nghĩ rằng khổ đau sẽ ít hơn so với các nước nghèo trên thế giới. Nhưng tôi đã lầm. Khổ đau ở đây đầy ắp như biển Đại Tây Dương. Tôi đã tiếp xúc với gia đình có đứa con trai tự tử, có đứa con gái tự tử. Tôi lắng nghe những em thiền sinh có vết thương do cha mẹ lạm dụng tình dục hay lạm dụng bằng sự bạo động. Có những vị cảm thấy thật cô đơn trong đời sống của họ. Có những người trẻ đã từng sa lầy trong nghiện ngập, vui chơi trác táng, v.v. Dĩ nhiên là cũng có những mặt đẹp của cuộc sống. Nhưng điều tôi muốn nói ở đây là một đất nước dù hùng mạnh vẫn có mặt trái của nó.
 
+{% image "article2024/Done-Sr.Hoa Nghiem/Sr.Hoa Nghiem-Princeton_e.jpeg" %}
+
 Thời gian gần đây, ngày quán niệm mỗi tuần đều đông nghẹt người. Các thanh thiếu niên trẻ về càng lúc càng đông. Tôi hiểu được là nhu yếu tu học rất mạnh, vì thế giới càng ngày càng có nhiều xung đột, chiến tranh, nền kinh tế toàn cầu đang suy thoái, môi trường khí hậu thay đổi bất thường, thiên tai … bệnh trầm cảm, căng thẳng khiến cho nhiều người trẻ tự tử. Thỉnh thoảng tôi nghe có người trẻ tự tử ở New York hay ở Washington D.C. Áp lực phải kinh khủng lắm mới khiến người ta tự kết liễu đời mình như vậy. Ngoài ra cũng có nhiều bệnh hoang tưởng trong xã hội. Mới đây nhất tôi đã tiếp xúc trực tiếp với một thiếu nữ, em nói với tôi rằng: “Có một ác quỷ trong con cứ xúi giục con phải tự đâm mình hay treo cổ. Con sợ hãi quá nên chạy đến đây”. Tôi đã khuyên em niệm Bồ tát Quan Thế Âm khi tiếng nói đó vang lên trong đầu, đó là sự hoang tưởng thôi. Dù đã cố gắng giúp em, nhưng sau khi em rời khỏi Bích Nham, tôi nghe tin em đã tự đâm mình. May mắn là em đã được cứu thoát. Là cha mẹ, là anh chị của các em, chúng ta phải làm gì để giúp con em mình vượt qua cơn bão cảm xúc. Thiết nghĩ rằng đợi cơn bão đến rồi mới tìm phương cứu chữa thì có quá trễ hay không?
 
 Khi tôi thấy quý thầy, quý sư cô trẻ tiếp xúc vui vẻ với các bạn trẻ, làm bạn đồng hành với họ trong sự thực tập cũng như trong công việc, tôi thấy lòng rất vui. Tôi mong Bích Nham có thêm nhiều quý thầy và quý sư cô trẻ về đây tu học.
@@ -56,7 +58,5 @@ Tôi thấy rõ sự có mặt của tôi ở nơi này. Tôi thấy rõ là mì
 
 <div class="verse"><p>“Nước Bích lắng trong, ngàn sông có nước ngàn sông trăng hiện<br/>
 Non Nham tú lệ, mỗi lần nhìn lại mỗi lần mới tinh”</p></div>
-<!-- 
-{% image "article2024/Done-Sr.Hoa Nghiem/Sr.Hoa Nghiem-Princeton_e.jpeg" %} -->
 
 Tôi muốn nói với Sư Ông: “Thầy thương kính của con, con rất hạnh phúc vì mỗi ngày con đã thấy rõ hướng đi và biết nơi mình đang đến. Lòng biết ơn của con đối với Thầy, với chư Tổ, với gia đình tâm linh, đối với cha mẹ, với gia đình huyết thống không bao giờ cạn trong con. Sang năm là Đại tường của Thầy, nhưng con biết rằng Thầy đang rong chơi Trời phương ngoại, Thầy vẫn còn đó mãi trong lòng chúng con”.

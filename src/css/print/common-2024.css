@@ -793,11 +793,34 @@ p.pull-quote:before {
 }
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* ////////////////////////////////////////////////// */
 /* ////////////////////////////////////////////////// */
 /* /////////////  CASE-BASED STYLING  /////////////// */
 /* ////////////////////////////////////////////////// */
 /* ////////////////////////////////////////////////// */
+
+/* merge with succeeding poem/article */
+/* .article-duc-but-tuong-lai-da-co-mat-roi
+{
+    break-after: unset !important;
+} */
+
 
 /* Adjusting title and author */
 
@@ -1048,7 +1071,7 @@ figure#article2024Done-Br-Bat-NhaCTD04521e {
 figure#article2024Done-Sr-Tuyet-NIMG6618ecut {
     display: block;
     float: none;
-    left: -12%;
+    left: -8%;
     column-span: all;
     /* width: 97%; */
     margin-left: auto;
@@ -1058,7 +1081,7 @@ figure#article2024Done-Sr-Tuyet-NIMG6618ecut {
     max-width: none !important;
 }
 
-figure#article2024Done-Sr-Uyen-NghiemArticle-Sr-Uyen-NDSC01094,
+figure#article2024Done-Sr-Uyen-NghiemArticle-Sr-Uyen-NDSC01094e,
 figure#article2024Done-BrPhap-UngBrPhap-Unge {
     display: block;
     float: none;
@@ -1072,6 +1095,7 @@ figure#article2024Done-BrPhap-UngBrPhap-Unge {
     max-width: none !important;
 }
 
+figure#article2024Done-SrHoa-NghiemSrHoa-Nghiem-Princetone,
 figure#article2024Done-Sr-Tuyet-NDSC00153e {
     display: block;
     float: none;
@@ -1085,9 +1109,21 @@ figure#article2024Done-Sr-Tuyet-NDSC00153e {
 }
 
 
+
 figure#article2024Done-Sr-Tuyet-NIMG6618ecut + p {
     margin-top: 0em;
     text-indent: 0em !important;
 }
 
+figure#article2024Done-Sr-Tuyet-NDSC00153e {
+    margin-top: 3em;
+}
 
+.article-theo-dau-chan-xua .verse {
+    column-span: all;
+    margin-left: auto;
+    margin-right: auto;
+    float: none;
+    width: 19em;
+    padding-left: 3em;
+}

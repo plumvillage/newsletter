@@ -43,7 +43,7 @@ Trưởng thành là cả một quá trình mà người làm con hay làm cha m
 
 Trong tu viện, chúng tôi gọi những thầy, những sư cô lớn là sư cha, sư mẹ. Đó là những vị tuổi đạo cao, sống lâu trong chúng, có tình thương và dành sự chăm sóc cho những người nhỏ. Tuy là anh, là chị mà cũng là cha, là mẹ. Rồi có những “sư em”, tuy là em nhưng cũng là những người thầy của mình. Dù cho mới xuất gia, sự thực tập vững chãi và tươi mát của sư em giúp tôi tỉnh ra những lúc đắm chìm trong phiền não. Lúc đó, sư em trở thành một vị thầy dạy tôi dừng lại, trở về thực tập.
 
-{% image "article2024/Done-Sr. Uyen Nghiem/Article - Sr. Uyen N/DSC01094.JPG" %}
+{% image "article2024/Done-Sr. Uyen Nghiem/Article - Sr. Uyen N/DSC01094_e.JPG" %}
 
 Ngoài ra còn có thêm một danh từ nữa, đó là “sư bạn”. Những người bạn đến tu cùng cũng là những người thầy của mình. Khi sống trong tăng thân, ai cũng là bạn của mình. Mỗi người đều dạy cho mình một bài học nào đó. Người nào khiến mình nổi giận, họ là người thầy dạy mình rằng mình chưa đủ kiên nhẫn. Tôi cảm ơn vị thầy ấy đã cho tôi một bài trắc nghiệm về lòng từ và sự kiên nhẫn. Còn người cho tôi sự bao dung, tha thứ, tôi cảm ơn vị đó đã cho tôi hiểu thế nào là tình thương đích thực. Vậy nên trong tăng thân, chúng ta có thể gọi nhau là sư bạn. Mỗi lần gặp huynh đệ, tôi hay chắp tay chào và gọi người đó là “sư bạn”.
 
@@ -55,37 +55,8 @@ Bụt Sakya là đức Bụt của quá khứ, đức Bụt tương lai là Bụ
 
 Thầy trả lời rằng đức Bụt tương lai đã có mặt rồi. Tại vì mình không thật sự có mặt nên mình mới không thấy mà thôi. Đức Bụt của tương lai không phải là một cá nhân dù đó là một cá nhân xuất sắc. Đức Bụt tương lai là một đoàn thể tu học. Chỉ có sức mạnh của cộng đồng mới đủ khả năng, đủ trí tuệ và tình thương để chữa lành cho thế giới. Tất cả chúng ta đều có cơ hội là một phần của cộng đồng đó, cùng đóng góp vào sự nghiệp chung đó.
 
-<!-- {% image "article2024/Done-Sr. Uyen Nghiem/Article - Sr. Uyen N/DSC00153_e.JPG" %} -->
-
 *Sen búp xin tặng người. Một vị Bụt tương lai.*
+<div class="article-end"></div>
 
 {% image "article2024/Done-Sr. Tuyet N/DSC00153_e.JPG" %}
-
-<div class="verse" style="column-span: all;">
-<p>Theo dấu chân xưa<br/>
-(Sư cô Chân Uyển Nghiêm)</p>
-
-<p>Theo dấu chân xưa con tìm về<br/>
-Cội nguồn tâm linh chốn bình yên<br/>
-Giếng nước thơm trong, cây mộc già<br/>
-Rừng thông xanh ngát, khế đơm hoa</p>
-
-<p>Theo dấu chân xưa con dừng lại<br/>
-Vang vọng Tổ Đình tiếng chuông ngân<br/>
-Đất thiêng nuôi dưỡng Thầy thuở bé<br/>
-Hóa thân mầu nhiệm khắp Đông - Tây</p>
-
-<p>Theo dấu chân xưa con mỉm cười<br/>
-Luân hồi của nắng đã thành mưa<br/>
-Khoảnh khắc thiên thu con gặp Thầy<br/>
-Trong từng hơi thở bước an vui</p>
-
-<p>Theo dấu chân xưa con cùng Thầy<br/>
-Gieo hạt từ ái khắp nơi nơi<br/>
-Phương Bối - Pháp Vân - Lộc Uyển Tự<br/>
-Tuổi trẻ thỏa nguyện ước rong chơi</p>
-
-<p>Theo dấu chân xưa sống trọn vẹn<br/>
-Ân tình Thầy Tổ nghĩa Đệ Huynh<br/>
-Chung sức chung tay xây Tịnh Độ<br/>
-Giữ gìn Đất Mẹ mãi đẹp xinh.</p></div>
+<!-- {% image "article2024/Done-Sr. Uyen Nghiem/Article - Sr. Uyen N/DSC00153_e.JPG" %} -->

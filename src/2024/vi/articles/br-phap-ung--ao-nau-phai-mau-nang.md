@@ -47,7 +47,7 @@ Nhân dịp hai thầy trò ngồi tại cốc Ngồi Yên, bất ngờ Sư Ông
 
 Trong 30 năm, Pháp Ứng đã đi qua nhiều thăng trầm. Những lúc trầm, cái phao cứu sinh của Pháp Ứng là niềm tin, là liên hệ thầy trò, và liên hệ tăng thân. Sở dĩ Pháp Ứng được xuất gia là có sự yểm trợ của tổ tiên chứ không phải vì mình tài giỏi. Như Sư Ông thường nói là nhờ phước đức ông bà, mà cũng là phước đức của tổ tiên tâm linh, trong đó có tăng thân.
 
-{% image "article2024/Done-Br.Phap Ung/Br.Phap Ung_e.jpg" %}
+{% image "article2024/Done-Br.Phap Ung/Br.Phap Ung_e.jpg", "", "Gia đình Con Cá sau lễ xuất gia" %}
 
 Nhìn sâu, Pháp Ứng thấy những thăng trầm của mình xuất phát từ vết thương của gia đình huyết thống, chứ không phải ngoại cảnh làm cho mình như vậy. Khi vết thương biểu hiện, mình có những suy nghĩ này, hoang mang kia, nghi ngờ nọ. Mình không có sự vững vàng. Pháp Ứng tập chấp nhận và kiên trì tìm hiểu cách vận hành của tâm mình. Pháp Ứng biết con đường mình đang đi rất xứng đáng, đúng với ước nguyện của mình. Chính niềm tin đó giúp Pháp Ứng tiếp tục bước. Té xuống lại đứng dậy đi tiếp. Bên cạnh đó, Pháp Ứng chăm sóc vết thương của tổ tiên. Vết thương này sâu quá nên nó cứ biểu hiện từng giai đoạn, nó không dừng lại.
 

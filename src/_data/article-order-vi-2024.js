@@ -7,6 +7,7 @@ module.exports = [
     "sr-tuyet-nghiem--ngon-doi-tieu-an",
     "br-phap-ung--ao-nau-phai-mau-nang",
     "sr-uyen-nghiem--duc-but-tuong-lai-da-co-mat-roi",
+    "sr-uyen-nghiem--tho-theo-dau-chan-xua",
     "daffodil--chao-don-binh-minh",
     "sr-tam-duc--giot-nuoc-trong-dong-song-tang-than",
     "br-duc-dinh--khat-thuc-trong-lang-the-nhat",
