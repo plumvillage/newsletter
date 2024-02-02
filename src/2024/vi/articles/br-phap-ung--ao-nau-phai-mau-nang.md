@@ -13,6 +13,9 @@ Trong 30 năm ấy, Pháp Ứng đã trải qua đủ loại lỗi lầm, té xu
 
 Khi Pháp Ứng có ý muốn xuất gia, gia đình vẫn chưa sẵn sàng. Hôm đó Pháp Ứng tủi thân, lên gác nằm khóc. Đang khóc thì bỗng thấy có một vị nét mặt hồng hào, đôn hậu hiện ra, nói: “Con yên tâm đi!”. Nghe vậy, Pháp Ứng thấy lòng lắng xuống… Sau đó không lâu, Pháp Ứng được gặp Sư Ông trong một khóa tu ở Hà Lan. Sư Ông nhìn mặt Pháp Ứng, chắc là “ngáo ngáo” kiểu sinh viên, kiểu gia đình Phật tử, hỏi: “Con muốn làm kỹ sư Phật học không?”. Pháp Ứng nghĩ thầm: “Ủa, kỹ sư Phật học là cái gì? Sư Ông hỏi gì mình không hiểu”. Pháp Ứng ngơ ngơ nhìn Sư Ông, nhưng hạt giống đã được trao truyền, được gửi gắm. *Hạt đậu năm xưa hé miệng cười*.
 
+<!-- manually push h2 -->
+<div style="height: 3.5em"></div>
+
 ## Chăm sóc sinh diệt là hạnh phúc lớn nhất
 
 Hạnh phúc lớn nhất của Pháp Ứng là chí nguyện đi tu của mình được Sư Ông đáp ứng. Ước nguyện đi tu của Pháp Ứng là tìm ra con đường để có thể vượt thoát sinh diệt. Hồi xưa Pháp Ứng nghĩ tu là để về một thế giới khác, “bye bye” sinh diệt.

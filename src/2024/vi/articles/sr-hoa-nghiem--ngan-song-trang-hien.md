@@ -9,7 +9,7 @@ Thầy Pháp Không đã liên lạc với các trường đại học Princeton
 
 Chúng tôi thiền hành trên con đường đầy lá phong vàng đỏ từ thư viện qua trường, nơi ngày xưa Sư Ông đã từng đi qua. Tôi cảm thấy như Sư Ông đang cùng chúng tôi về thăm lại trường xưa. Dừng chân dưới một gốc cây phong, chúng tôi ngồi thành vòng tròn và lắng nghe một đoạn văn trong *Nẻo về của ý*. Sau đó chúng tôi hát bài *Từng lá ngô đồng rơi*, bài dân ca Pháp đã được Sư Ông dịch ra lời Việt. Cơn gió đi qua, thổi bay những chiếc lá vàng trên cây chao liệng trong không gian, đẹp biết bao.
 
-{% image "article2024/Done-Sr.Hoa Nghiem/Sr.Hoa N-Princeton.2.jpeg" %}
+{% image "article2024/Done-Sr.Hoa Nghiem/Sr.Hoa N-Princeton.2_e.jpeg" %}
 
 Địa điểm kế mà chúng tôi đến là căn nhà gỗ Pomona ở trại hè Ockanickon, Medford, New Jersey. Pomona thuộc về YMCA nằm ở tiểu bang New Jersey, là nơi cắm trại cho các thanh thiếu niên. Đó là căn nhà gỗ nằm bên cạnh một cái hồ rộng lớn, nơi mà Sư Ông đã từng ngồi trên một chiếc thuyền con và tự chèo lên phía Bắc của hồ, và ngồi chơi giữa những bông súng cho đến khi chiều xuống. Bây giờ là mùa thu, những chiếc lá vàng bay theo gió rơi trên mặt hồ. Tôi tưởng tượng một vị thầy trẻ đang ngồi trầm tư và tưởng nhớ về quê hương, về Phương Bối và về niềm đau chiến tranh trên quê hương mình mà thấy thương. 
 
@@ -25,6 +25,8 @@ Tôi bỗng nhớ lại bài thơ *Đề Thiền Duyệt thất* mà Sư Ông đ
 Ngày hôm sau chúng tôi tiếp tục đi đến Chủng viện Thần Học (Union Theological Seminary) trực thuộc trường đại học Columbia ở New York và thăm viếng nơi Sư Ông đã từng sống khi ở đó. Chúng tôi bắt đầu thiền hành từ căn nhà số 306 West ở đường 109, nơi Sư Ông từng cư trú trước khi về lại Việt Nam năm 1963, đến trường đại học Columbia. Thành phố New York luôn tấp nập người qua lại. Đi ngang qua gian hàng bán trái cây, tôi tưởng tượng ngày xưa năm 1962, Sư Ông đã từng đi mua rau quả hay bánh mì trên những con phố này một mình khi người bạn thân thiết Steve không có đó. Những lúc ấy chắc là Sư Ông cô đơn lắm. Nghĩ đến đây mà thấy thương Sư Ông. 
 
 Thời đó, người tu Phật giáo hầu như không có. Tôi nghĩ đến thời gian Sư Ông phải đối diện với những xung đột trong nội tâm và cảm giác cô đơn trong môi trường mới này. Người tu sĩ trẻ đó còn mang nỗi niềm về cuộc chiến tranh khốc liệt đang xảy ra trên quê hương mình. Nghĩ đến đây tôi thấy mắt mình cay cay vì thương người tu trẻ, thầy mình, đã mang một gánh nặng như thế trên vai. Tôi không muốn mọi người thấy mình khóc nên vội lau nước mắt. Nhưng tôi nhớ Sư Ông đã từng nói với tôi rằng: “Muốn khóc thì cứ khóc, đừng đè nén. Khóc không có gì là xấu hổ. Có ý thức là mình đang khóc là được rồi”. Ý thức mình đang khóc thì nước mắt sẽ tự nhiên ngừng chảy. Mặt trời ý thức mà rọi lên thì ánh sáng sẽ tràn về, tôi không cần đè nén cơn cảm xúc xuống. Ý thức mình đang khóc thì làm sao khóc được nhỉ?
+
+<div class="removeTopMarginInFollowingElem"></div>
 
 {% image "article2024/Done-Sr.Hoa Nghiem/TNH-directory-page-half-768x1201.jpg" %}
 

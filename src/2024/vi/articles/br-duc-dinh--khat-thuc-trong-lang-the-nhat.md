@@ -16,6 +16,8 @@ Sáng thứ bảy, 13.01.2024, hai nhóm xuất sĩ mang bình bát đi thiền 
 
 Khi các huynh đệ cùng đi với nhau trong tĩnh lặng, tôi cảm thấy tất cả chúng tôi cùng thuộc về một cơ thể, một trái tim. Tôi cảm được sự gắn bó và có cùng chung một niềm hạnh phúc với huynh đệ. Nhóm khất thực của chúng tôi sắp xếp hai hàng đi song song với nhau và cất bình bát trong túi bọc khi đi trên một đoạn đường dài, lúc gần đến nhà cư sĩ, chúng tôi đổi lại đi hàng một, tay nâng bình bát. Cứ như trong một vũ điệu, chúng tôi hòa vào một dòng chảy. Khi vị đầu tiên dừng lại, tất cả các thầy đều dừng lại một lượt, lấy bình bát ra cùng một lượt. Tôi có thể cảm được quý thầy đi phía sau sẵn sàng hay chưa nhờ lắng nghe sự yên lặng rất bình an của cả đoàn.
 
+<div style="height: 3em;"></div>
+
 <!-- Dao Hanh receiving -->
 {% image "article2024/Done-Br.Đức Định/Rains retreat 23-24_35.jpg" %}
 

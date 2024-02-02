@@ -20,7 +20,7 @@ author: Phỏng vấn gia đình Daffodil
 
 {% image "article2024/Done-Daffodil family/044_110723.jpg" %}
 
-**BBT:** Những nhân duyên nào đã đưa các sư em đến với con đường xuất gia? Các sư em có nhớ khoảnh khắc mà mình nhận ra rằng “Đây rồi, đây chính là con đường mà mình đã tìm kiếm bấy lâu!”?
+**BBT: Những nhân duyên nào đã đưa các sư em đến với con đường xuất gia? Các sư em có nhớ khoảnh khắc mà mình nhận ra rằng “Đây rồi, đây chính là con đường mà mình đã tìm kiếm bấy lâu!”?**
 
 **Sư chú Chân Nhất Nguyên:** Con biết đến Sư Ông và bắt đầu thiền tập khoảng một năm rưỡi trước khi con đến Làng Mai lần đầu. Khi ấy, con đã thấy có nhiều lợi lạc và tìm được bình an trong thân. Trong quyển sách *You are here* (tạm dịch *Bạn đang có mặt đây: Khám phá phép lạ trong hiện tại*), Sư Ông giải thích về giáo lý tương tức. Đối với con, đó là điều tuyệt vời nhất mà con từng được nghe. Đây chính là hai dấu hiệu cho biết con đã tìm được con đường sáng đẹp cho cuộc đời mình.
 
@@ -30,6 +30,8 @@ Trước đây con chưa bao giờ cảm thấy mình có một con đường s�
 
 {% image "article2024/Done-Daffodil family/Br.Nhat Thanh_e.jpg" %}
 
+<div class="removeTopMarginInFollowingElem"></div>
+
 **Sư chú Chân Nhất Thanh:** Vào năm 2019, 2020 con sống và thực tập ở Thiền đường Hơi Thở Nhẹ khoảng chín tháng. Sau đó con trải qua hai năm tại một trung tâm thiền theo truyền thống Tây Tạng tên là Vườn Thiền Samyé ở Bỉ. Năm 2022, con đến xóm Thượng, Làng Mai làm tình nguyện viên cho khóa tu hai mươi mốt ngày — kỷ niệm 40 năm Làng Mai, và ở lại đây cho đến nay. Con thương giáo pháp, thương pháp môn và đạo hạnh của Sư Ông nhưng ý định trở thành một người xuất gia vẫn chưa rõ ràng trong con. Sau khi tham dự lớp học dành cho những người có tâm nguyện xuất gia và được bạn bè khuyến khích, con nghĩ con có thể làm được. Là một người có khuynh hướng căng thẳng và có nhiều khó khăn khi phải cam kết một điều gì, lúc đầu con không thoải mái lắm với cam kết xuất gia trọn đời. Nhưng sau khi nói chuyện thêm với quý thầy con thấy an tâm hơn.
 
 {% image "article2024/Done-Daffodil family/Br.Nhất Xuân_e2.jpg" %}
@@ -38,21 +40,17 @@ Trước đây con chưa bao giờ cảm thấy mình có một con đường s�
 
 Trong thời gian tập sự, con tự nhủ: “Mình có được chấp nhận xuất gia hay không, điều đó không thành vấn đề. Trước sau gì mình cũng muốn trở thành thầy tu”. Ý chí muốn đi trên con đường xuất gia càng làm cho cam kết của con vững vàng thêm. Đó là một khoảnh khắc rất đẹp.
 
+<div class="removeTopMarginInFollowingElem"></div>
+
 {% image "article2024/Done-Daffodil family/051_05_Nov_2023_e_crop.jpg" %}
 
 **Sư cô Chân Đôn Hạnh** *(Trước khi theo truyền thống Làng Mai, sư cô đã từng là một vị xuất sĩ theo truyền thống thiền Tào Động, Nhật Bản)*:
 
-Năm 20 tuổi, con trải qua một giai đoạn rất khó khăn trong đời. Con đã tìm đến một trung tâm thiền Tào động Nhật Bản tại Madrid, thành phố con đang sống, với ước muốn tìm được một cách nào đó để lấy lại sự quân bình trong nội tâm. Con nhớ rất rõ ràng cảm giác an lạc có được trong lần thiền tọa đầu tiên. Khi đó dù chưa biết gì về đạo Bụt hay thiền tập, con đã có cảm giác cuối cùng mình cũng tìm ra được một phương pháp hữu ích.
+Năm 20 tuổi, con trải qua một giai đoạn rất khó khăn trong đời. Con đã tìm đến một trung tâm thiền Tào động Nhật Bản tại Madrid, thành phố con đang sống, với ước muốn tìm được một cách nào đó để lấy lại sự quân bình trong nội tâm. Con nhớ rất rõ ràng cảm giác an lạc có được trong lần thiền tọa đầu tiên. Khi đó dù chưa biết gì về đạo Bụt hay thiền tập, con đã có cảm giác cuối cùng mình cũng tìm ra được một phương pháp hữu ích. Con tiếp tục thực tập một cách kiên trì, ngày nào cũng đến thiền đường, và tham gia các khóa tu hàng tháng. Dần dần con đã có thể thiết lập lại mối quan hệ mật thiết với chính mình và tìm lại được an lạc trong nội tâm.
 
-Con tiếp tục thực tập một cách kiên trì, ngày nào cũng đến thiền đường, và tham gia các khóa tu hàng tháng. Dần dần con đã có thể thiết lập lại mối quan hệ mật thiết với chính mình và tìm lại được an lạc trong nội tâm.
+Con yêu sự thực tập, và chí nguyện xuất gia đã đến thật tự nhiên. Con đã tìm được phương thuốc hiệu quả cho chính mình và vì vậy ước nguyện sâu sắc nhất của con là đem hết cuộc đời mình để tiếp tục tu tập và chia sẻ các pháp môn cho những người đang gặp khó khăn trong cuộc đời của họ. Con rất biết ơn các vị thầy ở Madrid, ở Pháp và tăng thân của con đã nuôi dưỡng hạt giống xuất gia và yểm trợ con trên con đường thực tập.
 
-Con yêu sự thực tập, và chí nguyện xuất gia đã đến thật tự nhiên. Con đã tìm được phương thuốc hiệu quả cho chính mình và vì vậy ước nguyện sâu sắc nhất của con là đem hết cuộc đời mình để tiếp tục tu tập và chia sẻ các pháp môn cho những người đang gặp khó khăn trong cuộc đời của họ.
-
-Con rất biết ơn các vị thầy ở Madrid, ở Pháp và tăng thân của con đã nuôi dưỡng hạt giống xuất gia và yểm trợ con trên con đường thực tập.
-
-<div class="divider"></div>
-
-**BBT:** Vì sao sư cô lại chọn theo truyền thống Làng Mai?
+**BBT: Vì sao sư cô lại chọn theo truyền thống Làng Mai?**
 
 **Sư cô Chân Đôn Hạnh:** Giáo pháp của Sư Ông, qua những quyển sách và các bài pháp thoại, đã đồng hành với con và đánh động con từ khi con còn là một thiếu niên. Những lời dạy của Sư Ông rất rõ ràng, đơn giản, tuyệt vời và vô cùng sâu sắc với nhiều pháp môn cụ thể có thể đáp ứng các nhu cầu thực sự của thời đại chúng ta.
 
@@ -62,17 +60,19 @@ Vì hai lý do này mà con quyết định nương tựa truyền thống Làng
 
 {% image "article2024/Done-Daffodil family/Sr.Đăng Hạnh_e.jpg" %}
 
+<div class="removeTopMarginInFollowingElem"></div>
+
 **Sư cô Chân Đăng Hạnh:** Đã từ lâu con biết rất rõ sự tu tập sẽ là một điều thiết yếu của đời mình. Khi còn sống ở New York, con quyết định mỗi năm sẽ đến tu viện Bích Nham vài hôm vào dịp sinh nhật của mình. Con đã đọc quyển *Bước tới thảnh thơi*, thậm chí cả quyển *Giới bản khất sĩ tân tu* nữa. Ý tưởng xuất gia thật hấp dẫn, nhưng khi đó nó chỉ là một lý tưởng nằm trong trí tưởng tượng của con mà thôi.
 
 Năm đó, sau sinh nhật của con tại Bích Nham, con ngồi trong thiền đường lớn. Thấy tâm mình thật tĩnh lặng, con tự nhủ “Đây là lúc mình có thể đặt câu hỏi từ đáy lòng mình”. Con mời Sư Ông (trong con) cùng ngồi với con, rồi hỏi: “Bạch Sư Ông, con có một vòng luẩn quẩn vui vui. Dù cho con chọn làm cư sĩ hay xuất sĩ thì con vẫn phải tu. Vậy thì con nên chọn cái nào ạ?” (Cho đến giờ phút đó, trong con vẫn còn những nghi ngại nho nhỏ như là “không biết mình có thể buông bỏ nhạc, váy áo, và các thứ đồ đạc của mình không?”; “Nếu mình vẫn còn muốn đi du lịch bất cứ khi nào mình nổi hứng thì sao?”; “Không có tóc không biết nhìn mình có ổn không?”) Khi đó có một giọng nói vang vang trả lời con: “Con đang chú tâm vào những nghi ngại vặt vãnh chứ không chú tâm vào đại nguyện của con”. Câu trả lời của Sư Ông quá rõ ràng làm con bật khóc. Nhưng trong lòng thấy nhẹ nhõm, con thưa: “Dạ, bạch Sư Ông”. Ngay lập tức con đi tìm một sư cô lớn để hỏi cách xuất gia.
 
 Trong lễ xuất gia, khi chúng con ngồi chờ để được gọi lên trình diện trước Tam bảo, con tự nhủ: “Giờ mình hãy buông hết những nghi ngại để *phát túc siêu phương*”. Con biết mình đã mong chờ giây phút này quá lâu rồi, cho đến nỗi con nghĩ nếu con có qua đời ngay ngày hôm đó, con cũng hạnh phúc. Bởi vì con đã cố gắng hết khả năng của mình rồi. Tất cả những điều khác nằm ngoài khả năng của con. Giờ thì không còn có giọng nói thì thầm ở trong đầu “Ồ, nhưng mà…” nữa. Thật nhẹ nhõm làm sao!
 
-{% image "article2024/Done-Daffodil family/Br.Nhat Luong_e2.jpg" %}
-
 **Sư chú Chân Nhất Lương:** Làm thế nào con có mặt ở Làng Mai là một câu hỏi thú vị, giống như một cái hộp chứa đầy những điều bất ngờ vậy. Hai mươi năm về trước, khi còn ở tuổi thiếu niên, con đã muốn xuất gia rồi. Đầu tiên con đọc sách của một vị thiền sư Trung Hoa ở Vạn Phật Thánh Thành (the City of Ten Thousand Buddhas), California. Con rất ấn tượng khi đọc sách của ngài.
 
 Nhưng vì không xin được visa để sang Mỹ, con đến một tu viện ở Malaysia. Đó là một trải nghiệm khá khó khăn bởi vì văn hóa ở đó khác xa với văn hóa của con, hơn nữa đạo Bụt ở đó rất là truyền thống, nặng về nghi lễ và hình thức. Con hơi thất vọng vì thấy mình không hoà nhập được nên cuối cùng con đã trở về nhà.
+
+{% image "article2024/Done-Daffodil family/Br.Nhat Luong_e2.jpg" %}
 
 Sau đó con đến một tu viện trên núi ở Hồng Kông và ngụ ở đó ba tháng. Rất là tuyệt vời nhưng con cũng không dừng lại ở đó. Vào năm 2012, con tham gia truyền thống hành thiền trong rừng của Thái Lan (Thai Forest tradition), và cuối cùng đã xuất gia ở đó được bốn tháng. Thế nhưng một lần nữa, con lại không hòa nhập được văn hóa và sự thực tập ở đây đối với con có vẻ quá khuôn khổ. Cho đến lúc con bị mất ngủ triền miên và trở nên trầm cảm, con quyết định phải rời khỏi nơi đó.
 
@@ -97,9 +97,7 @@ Con thường liên lạc với các vị xuất sĩ qua một số việc như 
 
 **Sư chú Chân Nhất Vũ:** Con đã thực tập, và thậm chí còn dạy chánh niệm trong một thời gian dài, cho những bệnh nhân đau nhức mãn tính trong các bệnh viện và cho nhân viên trong các công ty. Làm việc đơn thân độc mã, không lâu sau con bị đuối sức vì người ta có quá nhiều khổ đau. Đó là lý do tại sao con nghĩ đến việc xuất gia tu học cùng với tăng thân, trải nghiệm và cắm rễ trong tăng thân để hiểu, để thương, và để làm lớn thêm niềm vui và hạnh phúc trong con. Khi đó con mới giúp người có hiệu quả hơn.
 
-<div class="divider"></div>
-
-**BBT:** Sống tập thể trong tăng thân là một thử thách cho khá nhiều người, nhất là người Tây phương. Xin các sư em chia sẻ trải nghiệm của mình trong thời gian sống với tăng thân Làng Mai, đặc biệt là khi phải sống chung phòng với nhiều người khác.
+**BBT: Sống tập thể trong tăng thân là một thử thách cho khá nhiều người, nhất là người Tây phương. Xin các sư em chia sẻ trải nghiệm của mình trong thời gian sống với tăng thân Làng Mai, đặc biệt là khi phải sống chung phòng với nhiều người khác.**
 
 **Sư chú Chân Nhất Vân:** Từ năm mười tuổi, con đã sống tại trường nội trú và chỉ về thăm nhà vào cuối tuần. Con đã sống trong các cư xá có từ ba mươi đến một trăm học sinh. Mặc đồng phục, cắt tóc ngắn, hành vi phải mực thước, các nghi thức và cuộc sống tập thể rất quen thuộc đối với con. Nhờ sống tập thể mà con có được những tình bạn lâu bền, học được thế nào là tình huynh đệ. Vì vậy khi vào sống trong đại chúng Làng Mai con thấy thật sự như trở về nhà và rất hạnh phúc.
 
@@ -123,9 +121,7 @@ Một trong những khó khăn khi sống trong đoàn thể là con không bi�
 
 **Sư chú Chân Nhất Vũ:** Sau hai mươi năm sống độc thân, con phải thú thật là năm đầu tiên sống trong phòng tập thể có bảy người còn *hơn cả thử thách*. Tiếng ồn, nhịp điệu của cuộc sống hàng ngày, cảm giác không có một nơi riêng tư để nương tựa — con phải học làm quen với tất cả những điều mới mẻ này, và buông bỏ tất cả những điều trước đây mình đã quen thuộc. Một thực tập rất tốt cho cái tâm cá nhân chủ nghĩa của con. Về mặt tích cực thì chia sẻ đồ dùng và nương tựa tăng thân làm con thấy khỏe và vui.
 
-<div class="divider"></div>
-
-**BBT:** Gia đình và bạn bè đã đến dự lễ xuất gia của các sư em. Khi tiếp xúc với gia đình, các sư em có nhận thấy điều gì thay đổi nơi mình không?
+**BBT: Gia đình và bạn bè đã đến dự lễ xuất gia của các sư em. Khi tiếp xúc với gia đình, các sư em có nhận thấy điều gì thay đổi nơi mình không?**
 
 **Sư chú Chân Nhất Xuân:** Khi con hai mươi hai tuổi thì anh trai con hai mươi lăm tuổi. Hai anh em ở chung phòng và khá gần gũi nhau, nhưng không phải lúc nào cũng thuận thảo. Trong vài năm trở lại đây, thực tập pháp môn Làng Mai giúp con không còn đòi hỏi anh con nữa. Thí dụ như muốn anh phải như thế này hay thế kia. Những đòi hỏi đó làm con khổ. Khi không còn đòi hỏi nữa thì quan hệ của hai anh em vui vẻ dễ chịu. Con không muốn chờ đến mười năm sau mới có thể thưởng thức trọn vẹn sự có mặt của anh trai mình.
 
@@ -145,4 +141,4 @@ Có lẽ hai cha con sẽ không bao giờ nói chuyện với nhau theo kiểu 
 
 {% image "article2024/Done-Daffodil family/200_110723_e2.jpg" %}
 
-**BBT:** Cảm ơn những lời chia sẻ rất chân thành của các sư em. Xin chúc các sư em luôn có nhiều niềm vui trên con đường sáng đẹp này!
+**BBT: Cảm ơn những lời chia sẻ rất chân thành của các sư em. Xin chúc các sư em luôn có nhiều niềm vui trên con đường sáng đẹp này!**

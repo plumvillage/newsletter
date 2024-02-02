@@ -59,4 +59,3 @@ Thầy trả lời rằng đức Bụt tương lai đã có mặt rồi. Tại v
 <div class="article-end"></div>
 
 {% image "article2024/Done-Sr. Tuyet N/DSC00153_e.JPG" %}
-<!-- {% image "article2024/Done-Sr. Uyen Nghiem/Article - Sr. Uyen N/DSC00153_e.JPG" %} -->

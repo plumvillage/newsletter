@@ -15,4 +15,11 @@ module.exports = [
     "sr-tu-nghiem--poem-entering-the-field",
     "sr-hien-hanh--the-calling",
     "br-thien-chi--blossoming-trees",
+    "br-phap-dung--my-journey-with-thay",
+    "br-phap-huu--music-a-dharma-door",
+    "br-phap-luu--growing-a-beautiful-multifold-sangha-at-deer-park",
+    "sr-lac-hanh--i-walk-for-you",
+    "sr-linh-di--land-of-the-ancient-olice-trees",
+    "sr-tam-muoi--the-profound-silence-of-dharma-mountain",
+    "sr-tri-nghiem--parliament-of-world-religions",
 ]

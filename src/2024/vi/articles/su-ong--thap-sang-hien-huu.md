@@ -84,3 +84,7 @@ Khi chúng ta thực tập chánh niệm, nhìn vầng thái dương trong khi t
 Khi ta có thể cảm được đất Mẹ ở trong ta, ta là đất Mẹ, khi đó ta không còn sợ cái chết nữa, bởi vì đất Mẹ không bao giờ chết. Ta có thể sẽ được sinh ra trở lại dưới một hình thức khác hay hơn, đẹp hơn. Giống như một con sóng vậy. Một con sóng biến mất và xuất hiện trở lại. Làm sao con sóng có thể chết được? Đó là tuệ giác phát sinh khi mình có liên hệ tốt với đất Mẹ. Tôi không nghĩ chỉ các triết gia mới có thể cảm được những điều như vậy. Ai trong chúng ta cũng có thể thấy được mối liên hệ đó.
 
 **Jo Confino:** Cám ơn Thầy rất nhiều vì đã dành thời gian quý báu cho cuộc phỏng vấn này.
+
+<div class="article-end">
+
+{% image "article2024/Done-interview-with-thay/En_i am in love with mother earth_e.jpg" %}

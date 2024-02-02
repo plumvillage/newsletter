@@ -792,7 +792,10 @@ p.pull-quote:before {
     color: #939393;
 }
 
-
+.removeTopMarginInFollowingElem + *
+ {
+    margin-top: 0em !important;
+}
 
 
 
@@ -827,6 +830,7 @@ p.pull-quote:before {
 h1#resilience-community-and-spirituality {
     font-size: 31pt;
 }
+h1#the-profound-silence-of-dharma-mountain, 
 h1#transforming-resentment-into-compassion {
     font-size: 28pt;
 }
@@ -851,6 +855,7 @@ h1#transforming-resentment-into-compassion {
 .article-ngon-djoi-tieu-an h2.author {
     margin-bottom: 4mm;
 }
+.article-music-a-dharma-door h2.author,
 .article-chiec-ao-nhat-binh h2.author {
     margin-top: -16pt;
 }
@@ -1095,6 +1100,7 @@ figure#article2024Done-BrPhap-UngBrPhap-Unge {
     max-width: none !important;
 }
 
+figure#article2024Done-interview-with-thayEni-am-in-love-with-mother-earthe,
 figure#article2024Done-sr-linh-di20231006-Battir-Terracee,
 figure#article2024Done-sr-linh-di20231006-Deep-Relaxation,
 figure#article2024Done-sr-linh-di4b0fc9b1-47ca-49f3-8d3c-8395efe91e73e,
@@ -1112,6 +1118,10 @@ figure#article2024Done-Sr-Tuyet-NDSC00153e {
     position: relative;
     max-width: none !important;
 }
+figure#article2024Done-interview-with-thayEni-am-in-love-with-mother-earthe {
+    width: 64%;
+    margin-bottom: 0em;
+}
 figure#article2024Done-sr-linh-di20231006-Battir-Terracee {
     width: 60%;
     margin-bottom: 0em;
@@ -1120,9 +1130,13 @@ figure#article2024Done-sr-linh-di4b0fc9b1-47ca-49f3-8d3c-8395efe91e73e {
     width: 78%;
     margin-bottom: 0em;
 }
-
+figure#article2024Done-SrHoa-NghiemSrHoa-Nghiem-Princetone {
+    width: 100%;
+    margin-bottom: 0em;
+}
 figure#article2024Done-sr-thuan-nghiemIMG3889 {
-    width: 90%;
+    width: 100%;
+    margin-bottom: 0em;
 }
 
 
@@ -1173,4 +1187,20 @@ figure#calligraphyarticle-titles-2-and-dividers5-maskedDividers1-1
 
 .PAGE-OF-article2024Done-BrDJuc-DJinhRains-retreat-23-249 .last-article-element::after {
     display: none;
+}
+
+html:lang(vi) figure#article2024Done-Br-Minh-HyMG9118 {
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+html:lang(en) figure#article2024Done-Br-Minh-HyMG9118 {
+    display: inline;
+    float: left;
+    margin-right: 0.9em;
+    padding-top: 1.3em;
+    margin-left: -3.5em;
+    margin-bottom: 0.6em;
+    margin-top: 0em;
+    width: 70%;
 }

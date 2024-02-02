@@ -8,8 +8,9 @@ so I can wake up<br/>
 and the door of my heart<br/>
 could be left open,<br/>
 the door of compassion.”<br/><cite>Excerpt from Thay’s poem <i>“Please Call Me By My True Names”</i></cite></p></div>
+<!-- *(to read when feeling sad)* -->
 
-*(to read when feeling sad)*
+{% image "article2024/Done-Br. Minh Hy/_MG_9118.JPG" %}
 
 The door of compassion is the door of our hearts. We can open or close that door to any person. We have the right to love or to be angry or sad. When we love, we have more space inside ourselves; whereas when we are angry, we have less space. To be angry or sad also gives us a unique space to be in; however, at times it may seem cramped, confined. Sometimes we want to run far far away to escape that confinement. Sometimes we want to burst into a fit of laughter to shatter that confinement, to empty out the depths of our hearts.
 

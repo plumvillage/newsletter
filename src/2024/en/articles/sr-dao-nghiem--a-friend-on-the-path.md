@@ -12,6 +12,8 @@ I sit in the early morning and just let my hand write what is there without thin
  - Our practice is to focus on arriving at freedom. We just need to practice one method: to put our mind at ease. Everything we do has the mark of ease. Whatever you undertake for your spiritual life should have the mark of freedom and ease.
  - Our place of refuge is our capacity to feel joy in being alive, our capacity to accept to live anywhere and still to be happy. The most solid place of refuge for us is our own person. We take refuge in the Buddha in ourselves. This means we take refuge in our own stability, ease, freedom, peace, and joy.
 
+<div class="removeTopMarginInFollowingElem"></div>
+
 {% image "article2024/sr-dao-nghiem/cup of tea_e.jpg" %}
 
 I write highlights, the lows of my day, my thoughts and feelings, or something that inspired me, insights from books I read, people I am grateful for, difficult relationships I need to work through, my fears, dreams, things I love. Sometimes it comes as a drawing or poem. Here is a poem I wrote this past November:
