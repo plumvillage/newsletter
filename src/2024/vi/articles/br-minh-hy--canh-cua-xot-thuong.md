@@ -12,7 +12,9 @@ Cánh cửa xót thương là cánh cửa của lòng mình. Chúng ta có quy�
 
 Cái nóng của miền Trung, nếu không quen sẽ rất khó chịu. Phải ở đó đủ lâu, phải biết ăn cay, ăn mặn thì mình mới có thể quen được cái nóng oi bức ấy. Có khi trời nóng quá, ngồi đâu cũng thấy nóng. Trong nhà hay ngoài vườn cũng thấy nóng, ban ngày đã nóng mà ban đêm cũng nóng. Ban đêm ta mở toang hết các cửa và mong rằng có một cơn gió mát thổi vào nhà để xua đi cái nóng. Thỉnh thoảng có một cơn gió nhẹ đi vào và ta thưởng thức trọn vẹn sự mát mẻ ấy. Đó là một giây phút hạnh phúc. 
 
-Cánh cửa xót thương là “cánh cửa đó” mà cánh cửa giận cũng là “cánh cửa đó”, đóng hay mở là tùy vào mình. Nếu muốn học thương yêu thì mình phải để cho cánh cửa lòng bỏ ngỏ. Dù trong lòng mình, nhà mình còn nóng bức, bực bội nhưng nếu cửa lòng mình để ngỏ thì thế nào cũng có một vài ngọn gió mát đi vào, làm mình dễ chịu. Ngọn gió ấy là những cái hay, cái đẹp nho nhỏ của người đó, cứ để nó tự nhiên đi vào lòng mình. Ta chấp nhận và tận hưởng những cái đẹp ấy. 
+Cánh cửa xót thương là “cánh cửa đó” mà cánh cửa giận cũng là “cánh cửa đó”, đóng hay mở là tùy vào mình. Nếu muốn học thương yêu thì mình phải để cho cánh cửa lòng bỏ ngỏ. Dù trong lòng mình, nhà mình còn nóng bức, bực bội nhưng nếu cửa lòng mình để ngỏ thì thế nào cũng có một vài ngọn gió mát đi vào, làm mình dễ chịu. Ngọn gió ấy là những cái hay, cái đẹp nho nhỏ của người đó, cứ để nó tự nhiên đi vào lòng mình. Ta chấp nhận và tận hưởng những cái đẹp ấy.
+
+<div class="removeTopMarginInFollowingElem"></div>
 
 {% image "article2024/Done-Br. Minh Hy/_MG_9118.JPG" %}
 

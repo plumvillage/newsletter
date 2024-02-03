@@ -14,8 +14,10 @@ Ngày ấy, sau một chuyến đi chơi xa. Về nhà, tôi cảm nhận ấm �
 
 Chung trà đã cạn, mình đứng dậy nhìn ra xa, ôi nước… Thấy biết như vậy, vì quê mình mùa ni làm bạn với thiên tai. Hững hờ với tiết trời bên ngoài. Mưa tạo duyên cho mình ở trong nhà để khám phá, để học hỏi. Tại vì mỗi khi trời nắng đẹp, mình thích thú ra vườn, dòm cây nọ, ngó cây kia, trồng cây nớ,… Xa xa nghe tiếng điện thoại reo. À chị X… “Nước lụt sao rồi em?”. Mình chụp cái hình gửi cho chị và gửi vào vũ trụ sự vô lo của mình. Rồi lại tiếp tục vài thứ còn đang dang dở.
 
-{% image "article2024/Done-Sr. Hien Hanh/Mùa lụt - Huế_e.jpg" %}
+<div class="removeTopMarginInFollowingElem"></div>
+
 {% image "article2024/Done-Sr. Hien Hanh/Mùa lụt ở Huế-2_e.jpg" %}
+<!-- {% image "article2024/Done-Sr. Hien Hanh/Mùa lụt - Huế_e.jpg" %} -->
 
 Xế chiều thì nước ùa lên sân nhà. Khi đó mình hơi lo lắng chút xíu. Có vài thứ cần kê lên, một mình thì làm sao? Nếu bị ngập hư thì lấy gì xài. Ngóng ra đường thì thấy cậu bạn đang chèo ghe đi chơi. Mình í ới nhờ cậu ta trợ giúp. Hai đứa kê đồ lên cao hơn chút rồi tủm tỉm cười. Cậu ta là đứa bạn một thời thả diều, chơi ô quan với mình. Nay có gia đình ở xa, mỗi tuần đều ghé về chăm mẹ già. Hơn hai mươi năm gặp lại, đứa nào cũng vui vui và tự thấu hiểu nỗi gian khó của quê hương.
 
@@ -30,8 +32,6 @@ Loay hoay tới khuya, giờ nằm ở đâu chút xíu đây! Chỉ còn cái b
 Đứng dậy định khiêng thì thấy chú rắn nằm trong góc giường nhìn lên. Ôi rắn, phản xạ tức thời… con vật mình sợ nhất. Dù đang đi trên đường thấy nó chết mình cũng bỏ chạy. Bây giờ nó nằm đó làm gì đây!? Phút chốc đi qua, mình bình tĩnh lại. Mình nhìn nó và thấy nó cũng đang sợ bị nước cuốn trôi. Nhưng nếu lỡ đụng, nó cắn thì sao? Nhớ trong kinh có đoạn Bụt mời chú rắn đi chỗ khác để quý thầy nghỉ ngơi. Mình cũng bắt chước Bụt thì thầm to nhỏ với chú rắn. Nó uốn éo rồi cuộn tròn thân hình một cách khéo léo và nằm êm ấm hơn. Chú ta có vẻ không nghe mình nói gì cả. Chẳng lẽ làm bạn với chú rắn này ư?
 
 Mình không tới gần mà cũng không xua đuổi. Mình tìm một góc khác ngồi uống trà.
-
-{% image "article2024/Done-Sr. Hien Hanh/Sr. Hien Hanh 2_e.jpg" %}
 
 Nhìn đằng kia là một đàn kiến đang bám vào cái chổi. Góc nọ mấy con châu chấu đang lờ đờ, bị nước dập dìm.Và chú rắn đây nữa. “Giờ phút linh thiêng gió lặng chim ngừng”! Mình ta với ta. Văng vẳng lời dạy của Thầy đi lên trong tim: *“… Con là con ếch bơi trong hồ thu mà cũng là con rắn nước cần nuôi thân bằng thân ếch nhái, con là con sâu con kiến mà cũng là con chim đang đi tìm con kiến con sâu …”* Lòng thật bình yên, con thẩm thấu tuệ giác của Thầy “mình là một với muôn loài”. Cảm nhận hơi thở thật nhẹ và sâu. Thầy và mạ đang có trong con.
 
@@ -52,3 +52,7 @@ Thầy và mạ cùng hiện khởi trong tim con. Thầy và mạ là một, �
 Giáng sinh năm nay tiết trời khá lạnh. Mình vẫn thắp nến thưởng trà và gói ghém niềm biết ơn vào trang vở. Thiếu quà, thiếu bánh gửi đến người thương mà lòng bình an là vậy. Bởi trong con và người con thương đang có Thầy. Đồng hành, thấu hiểu và cảm thông. Mình có trong nhau tự thủa nào.
 
 *Quê nhà, tháng 12 năm 2023.*
+
+<div class="article-end"></div>
+
+{% image "article2024/Done-Sr. Hien Hanh/Sr. Hien Hanh 2_e.jpg" %}

@@ -217,8 +217,11 @@ let workInProgress = 0
 // we first generate all raw PDFs. onFinished() adds the downsample jobs to this queue and then proceeds execution with more threads (because the downsample is not as memory-hungry)
 let workQueue = [
 
-    () => generatePDF("http://localhost:8080/2024/en/a4/", `./docs/2024/en-a4`, onFinshed),
-    () => generatePDF("http://localhost:8080/2024/en/a4-bleed/", `./docs/2024/en-a4-bleed`, onFinshed),
+    // () => generatePDF("http://localhost:8080/2024/en/a4/", `./docs/2024/en-a4`, onFinshed),
+    // () => generatePDF("http://localhost:8080/2024/en/a4-bleed/", `./docs/2024/vi-a4-bleed`, onFinshed),
+
+    () => generatePDF("http://localhost:8080/2024/vi/a4/", `./docs/2024/en-a4`, onFinshed),
+    () => generatePDF("http://localhost:8080/2024/vi/a4-bleed/", `./docs/2024/vi-a4-bleed`, onFinshed),
     
     
     // () => generatePDF("http://localhost:8080/2023/en/a4/", `./docs/2023/en-a4`, onFinshed),

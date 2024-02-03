@@ -1,4 +1,5 @@
 module.exports = [
+    "bbt--muon-thu-ngan-dam-mot-nha",
     // Muôn thu ngàn dặm một nhà (Tường thuật về lễ Đại tường)	
     // "lang-mai-nam-qua",
     "su-ong--thap-sang-hien-huu",
@@ -15,8 +16,8 @@ module.exports = [
     "sr-linh-di--vung-dat-cua-nhung-cay-o-liu-co-thu",
     "br-minh-hy--canh-cua-xot-thuong",
     "sr-hien-hanh--tieng-goi",
-    "sr-main-huong--tro-ve-nguon-coi",
     "chum-tho-dat-to",
+    "sr-main-huong--tro-ve-nguon-coi",
     "sr-bao-nghiem--tho",
 
     // PART 2

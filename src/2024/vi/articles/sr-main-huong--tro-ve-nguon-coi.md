@@ -51,6 +51,8 @@ Nhờ nghe những lời hướng dẫn bằng tiếng Việt, chúng tôi có t
 
 Nhiều người trong chúng tôi là một phần của thế hệ sau chiến tranh, chúng tôi chỉ được tiếp xúc với tiếng Việt trong gia đình. Thường thường ngôn ngữ của cha mẹ có chứa đựng chất liệu của khổ đau và bạo động. Nhưng ở Làng Mai, chúng tôi được tiếp nhận ngôn ngữ với rất nhiều chất liệu bình an và thương yêu. Thật khó nói thành lời tấm lòng bao dung, độ lượng, tình thương và sự ân cần mà quý sư cô dành cho chúng tôi. Trong tiếng Việt, chữ “thương” thể hiện một tình thương sâu sắc và vô điều kiện – đó chính là điều chúng tôi cảm nhận được trong suốt tuần lễ của khóa tu.
 
-{% image "article2024/Done-Coming home to our roots/PXL_20230608_053312985_e.jpg" %}
-
 Chúng tôi mong rằng khóa tu như thế này sẽ được tiếp tục tổ chức và là nơi những người Việt xa xứ như chúng tôi được trở về ngôi nhà đích thực của mình.
+
+<div class="article-end"><div>
+
+{% image "article2024/Done-Coming home to our roots/PXL_20230608_053312985_e.jpg" %}

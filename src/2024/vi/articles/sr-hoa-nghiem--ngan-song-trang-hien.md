@@ -9,6 +9,9 @@ Thầy Pháp Không đã liên lạc với các trường đại học Princeton
 
 Chúng tôi thiền hành trên con đường đầy lá phong vàng đỏ từ thư viện qua trường, nơi ngày xưa Sư Ông đã từng đi qua. Tôi cảm thấy như Sư Ông đang cùng chúng tôi về thăm lại trường xưa. Dừng chân dưới một gốc cây phong, chúng tôi ngồi thành vòng tròn và lắng nghe một đoạn văn trong *Nẻo về của ý*. Sau đó chúng tôi hát bài *Từng lá ngô đồng rơi*, bài dân ca Pháp đã được Sư Ông dịch ra lời Việt. Cơn gió đi qua, thổi bay những chiếc lá vàng trên cây chao liệng trong không gian, đẹp biết bao.
 
+<!-- cannot, because it will move the image down to the 1. column -->
+<!-- <div class="removeTopMarginInFollowingElem"></div> -->
+
 {% image "article2024/Done-Sr.Hoa Nghiem/Sr.Hoa N-Princeton.2_e.jpeg" %}
 
 Địa điểm kế mà chúng tôi đến là căn nhà gỗ Pomona ở trại hè Ockanickon, Medford, New Jersey. Pomona thuộc về YMCA nằm ở tiểu bang New Jersey, là nơi cắm trại cho các thanh thiếu niên. Đó là căn nhà gỗ nằm bên cạnh một cái hồ rộng lớn, nơi mà Sư Ông đã từng ngồi trên một chiếc thuyền con và tự chèo lên phía Bắc của hồ, và ngồi chơi giữa những bông súng cho đến khi chiều xuống. Bây giờ là mùa thu, những chiếc lá vàng bay theo gió rơi trên mặt hồ. Tôi tưởng tượng một vị thầy trẻ đang ngồi trầm tư và tưởng nhớ về quê hương, về Phương Bối và về niềm đau chiến tranh trên quê hương mình mà thấy thương. 

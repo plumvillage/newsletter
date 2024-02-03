@@ -64,6 +64,8 @@ Khi đi tu, Pháp Ứng cũng muốn giúp làm vơi bớt phần nào những k
 
 Mùa thu năm 1994, Sư Ông dạy về kinh Tuổi trẻ và Hạnh phúc (kinh Tam Di Đề). Cuối khóa, Sư Ông đề nghị mỗi người làm một bài thơ, bài hát để trình kiến giải của mình. Tự nhiên Pháp Ứng được “biếu” một bài, không biết từ đâu nữa! Pháp Ứng trình cho Sư Ông và đại chúng. Sư Ông chấm điểm nữa chứ! Sau khi hát xong, thầy Pháp Đăng và Pháp Ứng phải đi khóa tu bên Đức. Khi về, Pháp Ứng nghe kể lại là mình cũng được 7 điểm (*cười*).
 
+<div class="removeTopMarginInFollowingElem"></div>
+
 {% image "article2024/Done-Br.Phap Ung/_DSC7759_e.JPG" %}
 
 <div class="verse"><p>Áo nâu phai màu nắng<br/>
@@ -92,7 +94,11 @@ Phẩm chất nơi Sư Ông mà Pháp Ứng muốn tiếp nối nhất là tinh 
 
 Bây giờ Sư Ông không còn trong hình tướng quen thuộc để trực tiếp hướng dẫn chúng ta nữa, cho nên bản thân mỗi người cần quay về nuôi dưỡng, chăm sóc mình để làm nền tảng. Chúng ta có chung nền tảng đó, giúp tạo nên sức mạnh. Giống như mình thở cùng một hơi thở, mình đi cùng một nhịp. Như vậy là mình có Bụt, có Tổ, có Sư Ông với mình.
 
-{% image "article2024/Done-Br.Phap Ung/Thay and Br. Phap Ung at Omega Institute in New York - 1996 PHOTO Simon Chaput.jpg", "", "At the Omega Institute in New York, 1996.<br/>Photo courtesy by Simon Chaput." %}
+<div class="removeTopMarginInFollowingElem"></div>
+
+{% image "article2024/Done-Br.Phap Ung/Thay and Br. Phap Ung at Omega Institute in New York - 1996 PHOTO Simon Chaput.jpg", "", "Tại Viện Omega, New York, 1996.<br/>Nguồn: Simon Chaput" %}
+
+<!-- {% image "article2024/Done-Br.Phap Ung/Thay and Br. Phap Ung at Omega Institute in New York - 1996 PHOTO Simon Chaput.jpg", "", "At the Omega Institute in New York, 1996.<br/>Photo courtesy by Simon Chaput." %} -->
 
 Điều quan trọng nữa là làm thế nào để mỗi người cảm thấy thoải mái, được là chính mình trong tăng thân. Nhu yếu đó rất thiết thực. Được là mình trong tinh thần mỗi người cần thời gian để phát triển, để hiểu, để lớn lên, cũng như cần thể hiện, cần được yểm trợ, cần được chấp nhận. Đó là những cái cần. Nhưng tự thân chúng ta cũng cần mở rộng lòng ra cho nhau, tạo chất keo kết nối trong tăng thân đa văn hóa, đa truyền thống này.
 

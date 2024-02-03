@@ -68,3 +68,7 @@ Với thiền sinh đến dự khóa tu, chỉ cần con có mặt đó trong nh
 
 <p class="signoff"><span class="signoff-lvl-1">Con của Sư Ông và Tăng thân,</span><br/>
 <span class="signoff-lvl-2">Chân Trăng Tâm Đức</span></p>
+
+<div class="article-end"></div>
+
+{% image "LTLM47-2024 cover NH Teens/LTLM47-2024_July2023_sararemington_0013_edited_cropped.jpg" %}

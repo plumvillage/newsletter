@@ -3,7 +3,7 @@ title: Chùm thơ
 author: Sư cô Chân Bảo Nghiêm
 ---
 
-<div class="verse"><p><b>Nắng Xuân</b></p>
+<div class="verse" style="padding-left: 4em"><p><b>Nắng Xuân</b></p>
 
 <p>Thông reo gọi nắng xuống chơi<br/>
 Bên vườn hoa cải vàng tươi đón mời<br/>
@@ -24,6 +24,8 @@ Tập tành từ bi sống nhẹ nhàng<br/>
 Tỉnh ngộ đã nghe lời Thầy dạy<br/>
 Bây giờ an trú ở ngay đây<br/>
 Tinh cần tỉnh thức theo hơi thở<br/>
-Chánh niệm tươi vui ta với mây.</p>
-<!--<cite>Sister Chân Trăng Chánh Niệm</cite>-->
-</div>
+Chánh niệm tươi vui ta với mây.</p></div>
+
+<div class="article-end"></div>
+
+{% image "article2024/Done-Sr.Bảo N/IMG_3353.JPG" %}

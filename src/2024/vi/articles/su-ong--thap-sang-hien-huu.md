@@ -87,4 +87,4 @@ Khi ta có thể cảm được đất Mẹ ở trong ta, ta là đất Mẹ, kh
 
 <div class="article-end">
 
-{% image "article2024/Done-interview-with-thay/En_i am in love with mother earth_e.jpg" %}
+{% image "article2024/Done-interview-with-thay/Vn_con ve miong tua noi dat me.jpg" %}

@@ -64,3 +64,7 @@ When you practice mindfulness, and when you look at the sun during your walking 
 You walk in such a way that you see that your relationship with the earth is so deep and that the earth is in you. This is not something very difficult. It’s much less difficult than philosophy. If you can walk like that the relationship between you and Mother Earth will change drastically. Maybe you can feel that Mother Earth is in you. You are Mother Earth. Then you are no longer afraid of dying, because the Earth is not dying. You might be reproduced in a better form, in a more beautiful form. It’s like a wave. A wave appears and disappears and appears again. Why should a wave be able to die? So, that kind of insight can come when you have a good relationship. I don’t think that you need to be a philosopher in order to feel that way. Every one of us can see the connection. 
 
 ***Jo Confino:*** Dear Thay, thank you so much for your time. We really, really appreciate it.
+
+<div class="article-end">
+
+{% image "article2024/Done-interview-with-thay/En_i am in love with mother earth_e.jpg" %}

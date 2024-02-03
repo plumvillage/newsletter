@@ -28,3 +28,7 @@ Tuổi trẻ thỏa nguyện ước rong chơi</p>
 Ân tình Thầy Tổ nghĩa Đệ Huynh<br/>
 Chung sức chung tay xây Tịnh Độ<br/>
 Giữ gìn Đất Mẹ mãi đẹp xinh.</p></div>
+
+<div class="article-end"></div>
+
+{% image "article2024/Done-Sr. Uyen Nghiem/Poem-Sr. Uyen N/DSC03235 07.37.22_edit3.jpg" %}
