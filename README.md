@@ -70,6 +70,8 @@ VS Code allows for regex replace submatch, e.g.: ([a-zA-Z])" > $1”
 ## Terminal Foo
 /media/data/dev/newsletter/src/media/originals/article2024
 find * | grep -i "Done" | grep -E -i "jpg|jpeg|png" | grep -v "/._"
+find -iname "._*" -delete
+find -iname ".DS_Store" -delete
 
 ## unused Images
 

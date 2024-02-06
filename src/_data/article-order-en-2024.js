@@ -1,25 +1,35 @@
 module.exports = [
+    // "My life is my message" - Honoring our Teacher Thay
     // "a-year-in-review",
     "su-ong--love-is-the-answer",
-    "panel--resilience-community-spirituality",
-    "br-duc-hien--a-spiritual-family-without-borders",
-    "br-dinh-thanh--transforming-resentment-into-compassion",
-    "sr-tam-duc--a-drop-of-water-in-the-sangha-river",
-    "joost-vriens--my-path-to-wake-up-schools",
-    "sr-main-huong--coming-home-to-our-roots",
+    // PUng
+    // Sr Hoa
+    "br-phap-dung--my-journey-with-thay",
+    "sr-tri-nghiem--parliament-of-world-religions",
+    // Sr Uyen N
+    // Alms
+    // Sr Thuan N
+    "sr-linh-di--land-of-the-ancient-olice-trees",
     "br-minh-hy--the-door-of-compassion",
     "sr-dao-nghiem--a-friend-on-the-path",
-    "br-hai-thuong--i-have-arrived-i-am-home",
-    "interview-with-the-daffodil-family",
+    "sr-main-huong--coming-home-to-our-roots",
+    "sr-tam-duc--a-drop-of-water-in-the-sangha-river",
+    "br-phap-luu--growing-a-beautiful-multifold-sangha-at-deer-park",
     "sr-lam-hy--running-another-way-of-stopping",
-    "sr-tu-nghiem--poem-entering-the-field",
+    "br-phap-huu--music-a-dharma-door",
+    "sr-tam-muoi--the-profound-silence-of-dharma-mountain",
+    "br-hai-thuong--i-have-arrived-i-am-home",
+    "panel--resilience-community-spirituality",
+    "joost-vriens--my-path-to-wake-up-schools",
+    // duc niem
+    "interview-with-the-daffodil-family",
     "sr-hien-hanh--the-calling",
     "br-thien-chi--blossoming-trees",
-    "br-phap-dung--my-journey-with-thay",
-    "br-phap-huu--music-a-dharma-door",
-    "br-phap-luu--growing-a-beautiful-multifold-sangha-at-deer-park",
     "sr-lac-hanh--i-walk-for-you",
-    "sr-linh-di--land-of-the-ancient-olice-trees",
-    "sr-tam-muoi--the-profound-silence-of-dharma-mountain",
-    "sr-tri-nghiem--parliament-of-world-religions",
+    "br-duc-hien--a-spiritual-family-without-borders",
+    "sr-hien-tam--am-i-tofu",
+    "br-dinh-thanh--transforming-resentment-into-compassion",
+    // Laurent/Flowers
+    "sr-tu-nghiem--poem-entering-the-field",
+    // barriers and bridges
 ]

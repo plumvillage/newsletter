@@ -14,6 +14,10 @@ That day, after coming home from a faraway trip, I felt such warmth and spacious
 
 The tea was finished. I stood up and looked off into the distance. Oh, water... It was a familiar sight as my hometown is used to flooding during this season. I didn’t pay much attention to the weather. The rain created the conditions for me to stay inside to explore, to learn; otherwise, whenever it was sunny, I would happily go to the garden, tending the bushes, trees or planting saplings. From a distance, I heard the sound of the telephone ringing. It was a friend of mine asking about the floods. I took a picture and sent it to her, and also sent my sense of not-worrying to the universe. Then, I returned to a few unfinished tasks.
 
+<div class="removeTopMarginInFollowingElem"></div>
+
+{% image "article2024/Done-Sr. Hien Hanh/Mùa lụt ở Huế-2_e.jpg" %}
+
 Toward the end of the day, the water came up into the front yard. I started to worry a little bit. There were a few things I needed to prop up, but how could I do it by myself? They would be ruined by the water. Looking outside, I saw an old friend leisurely rowing a small boat around. I called out to ask for his help. The two of us carried a few things up to a higher place and smiled to ourselves. He was a childhood friend who used to fly kites and play Mancala board games with me. Now he had a family of his own, residing afar, but he would come home every weekend to take care of his elderly mother. It had been over 20 years; it was a joy seeing one another again. We all implicitly understood the difficulty of our shared hometown.
 
 In my hometown, every time someone called for help, somehow everyone would respond. I had been away for a long time; now coming back in the form of a monastic, the interactions with the neighbors became different. Nevertheless, the neighborly love would still be ever close and authentic whenever any one of us needed help.
@@ -51,3 +55,7 @@ the torch in the night when I am lost.”</p></div>
 The candlelight was still flickering. The cup of tea was slowly emptying. I deeply understood the countless causes and conditions that supported every step I took. Joining my palms, I sent Mother Earth the most fragrant flowers and the sweetest fruits (of my practice) to everyone. The love of Thay, my mother, and friends was forever pure and fresh.
 
 The weather is quite cold this Christmas season. I light a candle, enjoy some tea and wrap my gratitude onto the pages of this journal. There are no gifts or sweets to send to my beloved, but my heart is at peace. Thay is already in me and the people I love through serving together, understanding and empathizing with one another. We have been a part of each other since beginningless time.
+
+<div class="article-end"></div>
+
+{% image "article2024/Done-Sr. Hien Hanh/Sr. Hien Hanh 2_e.jpg" %}

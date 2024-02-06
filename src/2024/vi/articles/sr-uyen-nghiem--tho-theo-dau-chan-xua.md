@@ -4,7 +4,7 @@ author: Sư cô Chân Uyển Nghiêm
 ---
 
 <div class="verse" style="column-span: all;">
-<p><p>Theo dấu chân xưa con tìm về<br/>
+<p>Theo dấu chân xưa con tìm về<br/>
 Cội nguồn tâm linh chốn bình yên<br/>
 Giếng nước thơm trong, cây mộc già<br/>
 Rừng thông xanh ngát, khế đơm hoa</p>

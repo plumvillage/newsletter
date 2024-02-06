@@ -51,6 +51,8 @@ To hear some of the teachings in Vietnamese added an additional layer to the pra
 
 For many of us who were of the post-war generation, we were only ever exposed to Vietnamese at home. Often, this language transmitted much suffering and violence to us. But here in Plum Village, we got to hear the language used with so much peace and love. It’s so hard to put into words the sense of full embrace, generosity, love and care the sisters gave to us. In Vietnamese, we say *thương* which describes a very deep, unconditional love—and that was what we felt throughout the whole week. 
 
-{% image "article2024/Done-Coming home to our roots/PXL_20230608_053312985_e.jpg" %}
-
 Our hope is that this retreat can continue and be a space where the Asian and Vietnamese diaspora can return to and feel at home.
+
+<div class="article-end"></div>
+
+{% image "article2024/Done-Coming home to our roots/PXL_20230608_053312985_e.jpg" %}

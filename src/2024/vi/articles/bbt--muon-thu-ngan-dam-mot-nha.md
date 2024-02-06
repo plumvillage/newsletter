@@ -43,6 +43,13 @@ Cảm ơn Thầy đã dìu dắt chúng con không mệt mỏi, yêu thương ch
 
 <div class="page-break"></div>
 
+{% image "article2024/Done-Memorial-Ceremony/Hue/Before the Ceremony/VN 24_Day 1_3.jpg", "noFloat" %}
+{% image "article2024/Done-Memorial-Ceremony/Hue/Before the Ceremony/VN 24_Day 1_12.jpg", "noFloat" %}
+{% image "article2024/Done-Memorial-Ceremony/Hue/Before the Ceremony/_DSC5219.jpg", "noFloat" %}
+{% image "article2024/Done-Memorial-Ceremony/Hue/Before the Ceremony/_DSC6356.jpg", "noFloat" %}
+
+<div style="height: 6em"></div>
+
 ## Mơ xưa đoàn tụ trời quê ấm lòng
 
 Thầy kính thương,
@@ -55,6 +62,8 @@ Ni xá Diệu Trạm mấy hôm nay đông vui lắm, con nghĩ Thầy thấy đ
 
 Chúng con chấp tác trong sự trở về. Trở về với cái gì mộc mạc, gần gũi, thân thương nhất, có bếp củi, có mùi khói, tập sách, có cành mận, cành lê, cành đào, có liếp tre, chum nước, có huynh đệ quây quần bên bếp lửa hồng, cùng thưởng trà và kể chuyện cho nhau nghe. Cành đào hồng, cành lê sáng lên giữa thiền đường. Những lọ hoa mận trắng xinh bắt đầu được chưng lên bàn Bụt, bàn Thầy, bàn Tổ, đại chúng đã rất hạnh phúc và thưởng thức trong từng buổi sáng công phu. Từng góc nhỏ trong thiền đường, đến thư viện, phòng khách, phòng chung, nhà trà, thư quán, nhà rạp, trước sân phòng khách, cổng vào,… góc nhỏ nào ở đây chúng con cũng muốn có sức sống, có tinh thần thực tập, thể hiện được nét giản đơn và thiền vị trong không gian này.
 
+<div style="height: 3em"></div>
+
 Con thấy góc nào huynh đệ ngồi cũng đều có sự có mặt của Thầy ở đó “Je suis là pour toi”, “Đã về đã tới”, “Thở đi con”, “Happiness is the way”, “Vô sự”, “Together we are one”,… ngồi xuống và an tịnh, chúng con có thể tiếp xúc rất sâu sắc với Thầy. Chúng con ý thức rằng chúng con đang làm chung với Thầy, bằng đôi tay của Thầy, nên chúng con cũng cẩn trọng hơn, thưởng thức hơn, hòa thuận và biết buông bỏ hơn Thầy ạ. Bóng dáng Thầy mãi mãi là tiếng chuông chánh niệm vang lên trong cách hành xử, cách nói năng, trong cách làm việc của chúng con.
 
 Mấy hôm nay các sư anh, sư chị, sư em từ xa trở về, cùng chấp tác, cùng ngồi ăn cơm, thưởng trà quanh bếp củi, thưởng thức không khí ấm áp tình gia đình, chúng con xúc động lắm. Không phải là tang lễ, không phải tưởng niệm ngày Thầy ngưng biểu hiện, mà như ăn mừng sự biểu hiện rất mới, rất mầu nhiệm của Thầy, ở khắp nơi, trong từng người đệ tử, trong từng khóm hoa ngọn cỏ, trong từng nhóm làm việc, trong từng thửa rau được trồng xuống như tấm y xanh chúng con dâng lên đất Mẹ, hay trong từng nét bút thư pháp đây kia quanh ni xá.
@@ -65,13 +74,41 @@ Mấy hôm nay các sư anh, sư chị, sư em từ xa trở về, cùng chấp 
 
 Thầy thương kính,
 
-Chúng con đang hướng về lễ Đại tường của Thầy mỗi ngày trong từng giây phút tiếp xúc với sự sống. Lễ Đại tường trong chúng con chính là dấu ấn đậm nét của tình huynh đệ. Chúng con rất hạnh phúc khi gặp lại những thành viên trong gia đình xuất gia đến từ nhiều trung tâm khác nhau. Anh chị em chơi với nhau thật trong sáng và hồn nhiên để lắng nghe sự chia sẻ của từng người, về cách mà các anh chị em chấp nhận, bao dung, thương yêu nhau và truyền thông với nhau trong gia đình tâm linh. Mỗi thành viên trong tăng thân hiến tặng cho nhau từng nụ sen búp trong lúc chào hỏi, hiến tặng nhau một nụ cười, một bước chân chánh niệm, một đôi dép được xếp rất đẹp, một sự dừng lại khi tiếng chuông được thỉnh lên, hiến tặng nhau sự có mặt tĩnh lặng trong mỗi thời khóa thiền hành, làm việc, ăn cơm, hoặc ngồi bên bếp lửa thưởng trà.
+Chúng con đang hướng về lễ Đại tường của Thầy mỗi ngày trong từng giây phút tiếp xúc với sự sống. Lễ Đại tường trong chúng con chính là dấu ấn đậm nét của tình huynh đệ. Chúng con rất hạnh phúc khi gặp lại những thành viên trong gia đình xuất gia đến từ nhiều trung tâm khác nhau. Anh chị em chơi với nhau thật trong sáng và hồn nhiên để lắng nghe sự chia sẻ của từng người, về cách mà các anh chị em chấp nhận, bao dung, thương yêu nhau và truyền thông với nhau trong gia đình tâm linh.
 
-Phiên chợ quê chào đón tăng thân xuất sĩ khắp các trung tâm trở về Tổ đình Từ Hiếu và Ni xá Diệu Trạm đã diễn ra rất ấm áp. Nhiều món ăn quê hương được trang trí rất đẹp. Thầy ơi, chúng con ý thức rất rõ là Thầy đang có mặt với chúng con ở đây, như những lần Thầy đã có mặt trong Hội chợ xuân ở xóm Mới, Hội hoa mai ở xóm Hạ hay Hội hoa thủy tiên ở xóm Thượng. Chúng con đi cùng Thầy, thưởng thức sự sống cùng Thầy, thưởng thức tình Thầy trò, tình huynh đệ cùng Thầy. Trong phiên chợ quê, có một quầy hàng bé bé, xinh xinh trưng bày những viên ngói cũ dỡ ra từ mái thất Lắng Nghe. Viên ngói nào cũng mang chút rong rêu, sương gió, thời gian, vốn đã là một bức tranh rất thơ, các sư em vẽ tranh và viết thư pháp lên đó tạo nên một bức tranh trong bức tranh, rất thiền, rất yêu. Vậy là tấm ngói cũ đã trở nên rất mới trong tay chúng con, có bóng dáng Thầy, có năng lượng Thầy trong đó.
+Mỗi thành viên trong tăng thân hiến tặng cho nhau từng nụ sen búp trong lúc chào hỏi, hiến tặng nhau một nụ cười, một bước chân chánh niệm, một đôi dép được xếp rất đẹp, một sự dừng lại khi tiếng chuông được thỉnh lên, hiến tặng nhau sự có mặt tĩnh lặng trong mỗi thời khóa thiền hành, làm việc, ăn cơm, hoặc ngồi bên bếp lửa thưởng trà.
+
+<div style="height: 3em"></div>
+
+{% image "article2024/Done-Memorial-Ceremony/Hue/Before the Ceremony/_DSC3872_e.jpg", "noFloat" %}
+{% image "article2024/Done-Memorial-Ceremony/Hue/Before the Ceremony/_DSC6818.jpg", "noFloat" %}
+{% image "article2024/Done-Memorial-Ceremony/Hue/Before the Ceremony/_DSC6286.jpg", "noFloat" %}
+{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/Tiep nhan gia tai 32.jpg", "noFloat" %}
+
+<div style="height: 3em"></div>
+
+Phiên chợ quê chào đón tăng thân xuất sĩ khắp các trung tâm trở về Tổ đình Từ Hiếu và Ni xá Diệu Trạm đã diễn ra rất ấm áp. Nhiều món ăn quê hương được trang trí rất đẹp. Thầy ơi, chúng con ý thức rất rõ là Thầy đang có mặt với chúng con ở đây, như những lần Thầy đã có mặt trong Hội chợ xuân ở xóm Mới, Hội hoa mai ở xóm Hạ hay Hội hoa thủy tiên ở xóm Thượng. Chúng con đi cùng Thầy, thưởng thức sự sống cùng Thầy, thưởng thức tình Thầy trò, tình huynh đệ cùng Thầy.
+
+Trong phiên chợ quê, có một quầy hàng bé bé, xinh xinh trưng bày những viên ngói cũ dỡ ra từ mái thất Lắng Nghe. Viên ngói nào cũng mang chút rong rêu, sương gió, thời gian, vốn đã là một bức tranh rất thơ, các sư em vẽ tranh và viết thư pháp lên đó tạo nên một bức tranh trong bức tranh, rất thiền, rất yêu. Vậy là tấm ngói cũ đã trở nên rất mới trong tay chúng con, có bóng dáng Thầy, có năng lượng Thầy trong đó.
 
 Sáng sớm ngày 23.01.2024, lễ xuất gia cho 11 thành viên gia đình xuất gia Cây Bàng đã diễn ra. Đây có lẽ là lễ xuất gia có nhiều xuất sĩ hộ niệm nhất tại Làng Mai từ trước đến nay. Thầy vui lắm khi thầy có thêm các sư cháu phải không Thầy? Các sư cháu cũng chính là các sư con của Thầy, chỉ vì Thầy có trong tất cả chúng con. Dòng chảy của Tăng thân vẫn luân lưu, tiếp tục. Lý tưởng này vẫn còn được tiếp nối trong trái tim và nhiệt huyết của người trẻ đó Thầy ạ.
 
 Trong những ngày này, chúng con rất xúc động khi chư Tôn đức quang lâm sách tấn cho chúng con trên con đường thực tập. Sáng nay, Hòa thượng Thích Giác Quang (Trú trì chùa Bảo Lâm), Sư bà Thích Nữ Như Minh (Trú trì chùa Pháp Hỷ, Tây Linh) đã ban cho chúng con những dòng pháp bảo quý giá. Trong lời nói của quý Ngài tỏa ra ánh sáng của hoa trái thực tập giúp chúng con lớn lên niềm tin, giúp cho ngọn lửa bồ đề tâm sáng hơn trong chúng con, giúp cho chúng con biết ơn con đường mình đang bước đi. Người tu là một chiến binh tâm linh, lấy sự thực tập chánh niệm làm cốt lõi. Chúng con ý thức rằng khi chúng con thực tập có hạnh phúc, thì hạnh phúc ấy có thể đưa tới sự chấp nhận những yếu kém của nhau và sự nương tựa vào tập thể.
+
+<div style="column-span: all; height: 1.5em; width: 100%;s"></div>
+
+{% image "article2024/Done-Memorial-Ceremony/Hue/Before the Ceremony/_DSC5565.jpg", "noFloat" %}
+{% image "article2024/Done-Memorial-Ceremony/Hue/Before the Ceremony/_DSC7206.jpg", "noFloat" %}
+
+<div style="column-span: all; height: 0.5em; width: 100%;s"></div>
+
+{% image "article2024/Done-Memorial-Ceremony/Hue/Before the Ceremony/_DSC5433_e.jpg", "noFloat" %}
+
+<div class="page-break"></div>
+
+{% image "article2024/Done-Memorial-Ceremony/Hue/Before the Ceremony/_DSC4445_e.jpg", "noFloat" %}
+
+<div class="removeTopMarginInFollowingElem"></div>
 
 ## Tiếp nhận gia tài
 
@@ -94,6 +131,8 @@ Những viên ngọc quý trong gia tài của Thầy như thiền ngồi, thi�
 > Con đã đứng thật lâu trước bức thư pháp “Thở đi con, thật sâu, thật chậm, không sao đâu”. Con như nghe tiếng Sư Ông bên cạnh, được ủi an, được che chở khi trở về từ những va chạm và thương tổn của cuộc đời. Những người trẻ - như con - luôn mang trên mình rất nhiều kỳ vọng của gia đình, xã hội và cả của chính bản thân mình. Điều đó đôi lần khiến chúng con mỏi mệt, bế tắc, khiến chúng con mãi loay hoay mà quên đi rằng mình có quyền dừng lại…
 
 (Trích thư gửi Thầy của một bạn thiền sinh trẻ đến dự lễ Đại tường.)
+
+<div class="page-break"></div>
 
 ## Nước đi ra biển lại mưa về nguồn
 
@@ -120,3 +159,21 @@ Thầy thanh thản ẩn tàng như lẽ tự nhiên của nhịp điệu sự s
 Bài kinh *Hải đảo tự thân* được nghe sáng hôm nay lại một lần nữa khiến chúng con xúc động và biết ơn lòng từ bi của Thầy.
 
 > “…Quý vị phải thực tập làm hải đảo tự thân, biết nương tựa nơi chính mình mà đừng nương tựa vào một kẻ nào khác, phải thực tập nương tựa vào hải đảo chánh pháp, biết nương tựa nơi chánh pháp chứ đừng nương tựa vào một hải đảo nào khác hay một ai khác…”
+
+<div class="article-end"></div>
+
+{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/Le dai tuong 1 copy.jpg", "noFloat" %}
+
+<!-- page break -->
+
+{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/Le dai tuong 4 copy.jpg", "noFloat hueMemorial" %}
+{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/Le dai tuong 11.1 copy.jpg", "noFloat hueMemorial" %}
+{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/Le dai tuong 25.jpg", "noFloat hueMemorial" %}
+{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/Le dai tuong 30.1.jpg", "noFloat hueMemorial" %}
+{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/_DSC7059.jpg", "noFloat hueMemorial" %}
+
+{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/VN 24_Lễ Đại Tường_019.jpg", "noFloat hueMemorial" %}
+{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/Le dai tuong 15 copy.jpg", "noFloat hueMemorial" %}
+{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/Le dai tuong 19.jpg", "noFloat hueMemorial" %}
+{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/Le dai tuong 16.jpg", "noFloat hueMemorial" %}
+{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/May trang thong dong 38.jpg", "noFloat hueMemorial" %}

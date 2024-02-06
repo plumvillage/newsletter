@@ -398,6 +398,7 @@ h1.calligraphyTitle figure img {
     max-height: 32mm;
 }
 
+
 h2 { /* section in article */
     font-size: 12pt;
     font-weight: bold;
@@ -889,12 +890,29 @@ h1#transforming-resentment-into-compassion {
     margin-top: -32pt;
     padding-right: 7em;
 }
+.article-ngan-song-trang-hien h2.author {
+    margin-top: -15pt;
+}
+.article-tro-ve-nguon-coi h2.author {
+    margin-top: 18pt;
+}
+.article-chao-djon-binh-minh h2.author {
+    margin-top: -18pt;
+    margin-left: 3.5em;
+}
+.article-theo-dau-chan-xua h2.author {
+    margin-top: -6pt;
+}
 
+/* adjusting calligraphies size */
 
-
+h1#tro-ve-nguon-coi,
+h1#tro-ve-nguon-coi img,
 #calligraphy2024article-titlessr-hien-hanh-the-calling, #calligraphy2024article-titlessr-hien-hanh-the-calling img {
     max-height: 44mm !important;
 }
+
+.calligraphy2024article-titlessr-uyen-nghiem-tho-theo-dau-chan-xua, #calligraphy2024article-titlessr-uyen-nghiem-tho-theo-dau-chan-xua img,
 #calligraphy2024article-titlesbr-thien-chi-blossoming-trees, #calligraphy2024article-titlesbr-thien-chi-blossoming-trees img {
     max-height: 36mm !important;
 }
@@ -908,6 +926,7 @@ h1#transforming-resentment-into-compassion {
 #calligraphy2024article-titlessr-hien-hanh-tieng-goi, #calligraphy2024article-titlessr-hien-hanh-tieng-goi img {
     max-height: 50mm !important;
 }
+
 
 
 
@@ -1100,6 +1119,14 @@ figure#article2024Done-BrPhap-UngBrPhap-Unge {
     max-width: none !important;
 }
 
+
+
+
+/* column-span images */
+
+figure#article2024Done-Memorial-CeremonyHueCeremonyLe-dai-tuong-1-copy,
+figure#article2024Done-Memorial-CeremonyHueBefore-the-CeremonyDSC4445e,
+figure#article2024Done-Memorial-CeremonyHueBefore-the-CeremonyDSC5433e,
 figure#article2024Done-Memorial-Ceremony67SuOng2ndYearMemorial220124crop,
 figure#article2024Done-SrBao-NIMG3353,
 figure#article2024ScannedDrawings0705-Ky-to-dje-nhie,
@@ -1172,17 +1199,24 @@ figure#article2024ScannedDrawings0705-Ky-to-dje-nhie img {
     height: 172mm;
     margin-top: 39mm;
 }
-
-/* figure#article2024Done-Memorial-Ceremony67SuOng2ndYearMemorial220124 {
-    width: 119.5%;
-    left: -11%;
-    margin-top: 0em;
+figure#article2024Done-Memorial-CeremonyHueBefore-the-CeremonyDSC5565 {
+    margin-top: 0;
 }
-figure#article2024Done-Memorial-Ceremony67SuOng2ndYearMemorial220124 img {
-    object-fit: cover;
-    height: 100mm;
-    margin-top: 5mm;
-} */
+figure#article2024Done-Memorial-CeremonyHueBefore-the-CeremonyDSC5433e {
+    width: 85%;
+    margin-top: 0em;
+    margin-bottom: 0em;
+}
+figure#article2024Done-Memorial-CeremonyHueBefore-the-CeremonyDSC4445e {
+    width: 85%;
+    margin-top: 0em;
+    margin-bottom: 1.5em;
+}
+figure#article2024Done-Memorial-CeremonyHueCeremonyLe-dai-tuong-1-copy {
+    width: 84%;
+    margin-top: 1.5em;
+    margin-bottom: 0em;
+}
 
 
 
@@ -1256,6 +1290,7 @@ figure#calligraphyarticle-titles-2-and-dividers5-maskedDividers1-1
     margin-right: auto;
 }
 
+.PAGE-OF-article2024Done-Memorial-CeremonyHueCeremonyLe-dai-tuong-4-copy .last-article-element::after,
 .PAGE-OF-article2024ScannedDrawings0705-Ky-to-dje-nhie .last-article-element::after,
 .PAGE-OF-article2024Done-BrDJuc-DJinhRains-retreat-23-249 .last-article-element::after {
     display: none;
@@ -1284,4 +1319,18 @@ html:lang(en) figure#article2024Done-Br-Minh-HyMG9118 {
 .article-theo-dau-chan-xua p {
     font-size: 110%;
     line-height: 130%;
+}
+
+figure.hueMemorial img {
+    object-fit: cover;
+    height: 51mm;
+}
+figure.hueMemorial {
+    margin-bottom: 0;
+}
+
+/* remove page footer from: */
+#page-3 {
+    background-color: red !important;
+    /* display: none !important; */
 }

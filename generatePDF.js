@@ -220,8 +220,8 @@ let workQueue = [
     // () => generatePDF("http://localhost:8080/2024/en/a4/", `./docs/2024/en-a4`, onFinshed),
     // () => generatePDF("http://localhost:8080/2024/en/a4-bleed/", `./docs/2024/vi-a4-bleed`, onFinshed),
 
-    () => generatePDF("http://localhost:8080/2024/vi/a4/", `./docs/2024/en-a4`, onFinshed),
-    () => generatePDF("http://localhost:8080/2024/vi/a4-bleed/", `./docs/2024/vi-a4-bleed`, onFinshed),
+    () => generatePDF("http://localhost:8080/2024/vi/a4/", `./docs/2024/vi-a4`, onFinshed),
+    // () => generatePDF("http://localhost:8080/2024/vi/a4-bleed/", `./docs/2024/vi-a4-bleed`, onFinshed),
     
     
     // () => generatePDF("http://localhost:8080/2023/en/a4/", `./docs/2023/en-a4`, onFinshed),
@@ -264,8 +264,8 @@ var onFinshed = function(file, fileWithoutDate) {
     // ln target linkname
     execCMD(`ln -sf ${parsed.base} ${fileWithoutDate}`)
     
-    // workQueue.push(() => downsample(file, fileWithoutDate, 250, "screen", continueWork))
-    // workQueue.push(() => downsample(file, fileWithoutDate, 300, "prepress", continueWork))
+    workQueue.push(() => downsample(file, fileWithoutDate, 250, "screen", continueWork))
+    workQueue.push(() => downsample(file, fileWithoutDate, 300, "prepress", continueWork))
     workQueue.push(() => downsample(file, fileWithoutDate, 500, "prepress", (generatedFile) => {
         continueWork()
     }))

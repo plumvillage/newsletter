@@ -1,6 +1,5 @@
 module.exports = [
     "bbt--muon-thu-ngan-dam-mot-nha",
-    // Muôn thu ngàn dặm một nhà (Tường thuật về lễ Đại tường)	
     // "lang-mai-nam-qua",
     "su-ong--thap-sang-hien-huu",
     "sr-hoa-nghiem--ngan-song-trang-hien",
@@ -19,13 +18,17 @@ module.exports = [
     "chum-tho-dat-to",
     "sr-main-huong--tro-ve-nguon-coi",
     "sr-bao-nghiem--tho",
+    "scck--xuan-yeu-thuong-ngap-tran-nam-thang",
 
     // PART 2
-    "cau-tra-loi-la-tinh-thuong",
-    "sr-bo-de--bong-dang-thay",
-    "br-hai-thuong--trot-thuong",
-    "br-hai-thuong--nguoi-da-ve-da-toi",
-    "br-hai-thuong--nguoi-di-hai-thuoc-dau-non",
-    "tien-nguyen--co-nhung-ngay-uom-nang",
-    "sr-chua-xua--loc-uyen-mua-an-vui",
+    // "cau-tra-loi-la-tinh-thuong",
+    // "sr-bo-de--bong-dang-thay",
+    // "br-hai-thuong--trot-thuong",
+    // "br-hai-thuong--nguoi-da-ve-da-toi",
+    // "br-hai-thuong--nguoi-di-hai-thuoc-dau-non",
+    // "tien-nguyen--co-nhung-ngay-uom-nang",
+    // "sr-chua-xua--loc-uyen-mua-an-vui",
+
+    "sr-dinh-nghiem--cuoc-song",
+    "br-tuong-tuc--con-tu-la-con-thay-nhau",
 ]

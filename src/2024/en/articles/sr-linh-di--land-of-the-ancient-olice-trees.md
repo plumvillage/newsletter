@@ -11,6 +11,8 @@ author: Sister Chân Trăng Linh Dị
 
 We, four of your monastic children, are in the Holy Land as the war erupted four days ago. We are safe. We have water, food, shelter, and dear sangha friends. Yet a mere 50 kilometres away, there is no more water, food, or safe haven. We know children are dying. Day and night we hear the missile interceptors and feel the vibration of the ground as missiles land. I close my eyes every time and pray fervently, “May there be peace and compassion in the hearts of all.”
 
+{% image "article2024/Done-sr-linh-di/4b0fc9b1-47ca-49f3-8d3c-8395efe91e73_e.JPG" %}
+
 Life feels like a sand painting that has just been turned upside down and we do not know how the next moment will manifest.
 
 I am also afraid, dear Thay. I do not know if I will see my mum and dad again. Lying there in the dark, my breath deep and even, I see you, standing amidst the village ruins and urging the villagers to rebuild again and again. I see the sangha touching the Earth in a sea of golden sanghati robes. And I hear my grandmother, who brought seven children out of a war zone, smiling and whispering: “You will be alright, my child. You have my strength.”
@@ -18,6 +20,8 @@ I am also afraid, dear Thay. I do not know if I will see my mum and dad again. L
 We came to the Holy Land to understand life here, to help bring people together, to breathe, walk, and listen to each other in peace.
 
 There was the day when we walked in Wadi Khana, an oasis of ancestral olive groves. Issa Souf, a Palestinian peace activist who is paralyzed after having been shot, shared with us that this lush valley was once open for grazing goats and cultivating olives. In the past few years, illegal settlements sprung up on its hills and Palestinians no longer had the rights to cultivate olives there.
+
+{% image "article2024/Done-sr-linh-di/779e467a-03dc-49ed-bac4-977a4b0495d1.jpg" %}
 
 It was a Jewish holiday that day and many settler families picnicked by the stream. Young fathers held babies in one arm and toted machine guns in the other. We looked at each other. I breathed peacefully and kept my gaze open and friendly. This was their vision of happiness and my taking sides would only strengthen seeds of discrimination and separation.
 
@@ -55,6 +59,8 @@ I was surprised how the Plum Village daily practices such as listening with open
 
 Harmony often asked of us to refrain from saying or doing certain things, and it wasn’t easy.
 
+{% image "article2024/Done-sr-linh-di/2023.10.06 Deep Relaxation.jpg" %}
+
 Like the night we first tried to drive into the West Bank: the navigation system tried to reroute us, the main checkpoint was closed, the internet signal was fading in and out, and we couldn’t read the signs in Hebrew. It also became apparent that some of us resorted to information and technology to solve problems, while others preferred speaking to people.
 
 We knew it wasn’t a moment for “being right”, but for focussing collectively, so we stopped giving diverse suggestions. Instead, we sat quietly to breathe and remain aware of the surroundings and listened to the needs of the driver so we could support, rather than overwhelm. And bless our elder sister who set an example for all of us -- she remained silent the entire time!
@@ -83,3 +89,7 @@ Dear respected Thay, thank you for cultivating a community of understanding, har
 
 <p class="signoff"><span class="signoff-lvl-1">With gratitude,</span><br/>
 <span class="signoff-lvl-2">Your disciple - Trăng Linh Dị</span></p>
+
+<div class="article-end"></span>
+
+{% image "article2024/Done-sr-linh-di/2023.10.06 Battir Terrace_e.jpeg" %}

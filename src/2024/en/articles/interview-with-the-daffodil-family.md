@@ -20,13 +20,11 @@ author: Interview with the Daffodil Family
 
 ***Newsletter Team:*** Could you share with us how you came to realise “This is it! This is the path that I have been looking for.”
 
-***Br. Nhat Nguyen*** *(True Source of Oneness):* When I found Thay and started to meditate — that was one and a half years before I first came to Plum Village — I quickly enjoyed the benefits of meditation, finding calm in my body. In the book You Are Here, Thay explains Interbeing, and I immediately felt it was the most beautiful thing I’ve ever heard. Those two made me feel I found my path in life, a big bright path for me!
-
 {% image "article2024/Done-Daffodil family/044_110723.jpg" %}
 
-Before, I had never felt like having a clear path. I often acted out of fear and stress, trying to survive in the world. But this path was just there for me to walk very calmly and joyfully. The feeling was very much one of letting go of fear. Deciding to become a monastic felt very light and freeing.
+***Br. Nhat Nguyen*** *(True Source of Oneness):* When I found Thay and started to meditate — that was one and a half years before I first came to Plum Village — I quickly enjoyed the benefits of meditation, finding calm in my body. In the book You Are Here, Thay explains Interbeing, and I immediately felt it was the most beautiful thing I’ve ever heard. Those two made me feel I found my path in life, a big bright path for me!
 
-{% image "article2024/Done-Daffodil family/137_110723_e.jpg" %}
+Before, I had never felt like having a clear path. I often acted out of fear and stress, trying to survive in the world. But this path was just there for me to walk very calmly and joyfully. The feeling was very much one of letting go of fear. Deciding to become a monastic felt very light and freeing.
 
 ***Br. Nhat Moc*** *(True Tree of Oneness):* To make a long story short; I read many of Thays books and I felt I wanted to become a monk, even though I had never been to Plum Village. I thought, even if Plum Village is only half as good as I think it is from reading the books, it’s still the place I want to become a monk in. So on the first day of being in Plum Village, I said, I want to become a monk here. This is the place.
 
@@ -34,13 +32,17 @@ Before, I had never felt like having a clear path. I often acted out of fear and
 
 {% image "article2024/Done-Daffodil family/Br.Nhat Thanh_e.jpg" %}
 
+<div class="removeTopMarginInFollowingElem"></div>
+
 ***Br. Nhat Thanh*** *(True Clarity of Oneness):* In 2019/2020, I was a long-term at Healing Spring Monastery for 9 months. Following that, I became a resident at a Tibetan meditation centre in Belgium for two years (Les Jardins de méditation de Samyé). I came to Plum Village to volunteer for the 40th anniversary of Plum Village retreat , and have been staying at Upper Hamlet since then. I was in love with the Dharma and with Thay’s teachings and presence, but becoming a monastic was not obvious to me yet. After attending the class for those with an aspiration to ordain, and receiving encouragement from friends, I thought I could do it. Given my history of anxiety/fear and difficulty making commitments, I was at first a bit uneasy with the lifetime monastic commitment. However, after sharing more with some brothers, I felt more at ease.
 
-{% image "article2024/Done-Daffodil family/Br.Nhất Xuân_e.jpg" %}
+{% image "article2024/Done-Daffodil family/Br.Nhất Xuân_e2.jpg" %}
 
 ***Br. Nhat Xuan*** *(True Spring of Oneness):* One and a half years ago, I practised in Plum Village as a long-term. Knowing Thay’s teachings, I had already let go of many different things, e.g. relationships that were not conducive to my well-being. I was only 20 years old at the time, and so saying I wanted to become a monk was quite a statement. It was also important for me that it be accepted by my family. When they came to visit me for my birthday in April, I allowed them to arrive first, then after one week I sat down with my mom to share that I wanted to become a monk. She was very happy saying, “Wow, this suits you so well.” The same was true for my older brother. He looked at me and hugged me, saying “wow, wonderful.” This was a big support, knowing that the people I love the most can support and encourage me.
 
 While an aspirant, I told myself, “Regardless of whether I get accepted or not, I want to become a monk.” Knowing th'at I want to continue on the path strengthened my commitment. This was a beautiful moment.
+
+<div class="removeTopMarginInFollowingElem"></div>
 
 {% image "article2024/Done-Daffodil family/051_05_Nov_2023_e_crop.jpg" %}
 
@@ -62,6 +64,8 @@ For these two reasons, I decided to take refuge in the PlumVillage tradition and
 
 {% image "article2024/Done-Daffodil family/Sr.Đăng Hạnh_e.jpg" %}
 
+<div class="removeTopMarginInFollowingElem"></div>
+
 ***Sr. Dang Hanh*** *(True Radiant Action):* I knew clearly for a long time that the practice was going to be a central part of my life. When I was living in New York, I decided that every year I wanted to spend the days around my birthday in Blue Cliff Monastery. I had already read Stepping into Freedom, and even Freedom Wherever We Go. I was attracted to the idea of becoming a nun, but it was still very much an ideal.
 
 After one of my birthdays at Blue Cliff, I remember sitting in the big meditation hall. I reached a place of deep calm and thought, “This is the moment when I can ask a clear question.” I invited Thay to sit with me and I asked, “Dear Thay, I have a happy dilemma. No matter what I choose, the practice will be there, as lay or monastic. But which one shall I choose?” Up until that point I had all these little doubts, e.g. Would I be able to let go of my music, my skirts, and belongings? What if I wanted to travel whenever I want? Would I be ok looking bald? Then there was this booming voice that said, “Darling, you’re focusing on the little doubts and not the great aspiration.” Thay was so clear that I immediately started crying. Relieved, I answered, “Yes, Thay.” Straight away I went to Sister Gioi Nghiem to ask her how to become a nun.
@@ -78,7 +82,6 @@ I then tried a monastery in Hong Kong in the mountains outside the city, where I
 
 I took ten years to reevaluate, but even though I opened my mind to things besides Buddhism, the desire to ordain never disappeared. I have since made much more progress and relate to myself in a different way. When Thay passed away — without knowing it — I started crying in meditation, and I asked myself, “Why is this happening, who died?” Then I found out Thay had passed away. I eventually came to Plum Village for a retreat, thinking this could be a good place to ordain.
 
-<!-- {% image "article2024/Done-Daffodil family/055_05_Nov_2023_e.jpg" %} -->
 {% image "article2024/Done-Daffodil family/Sr.Diệu Hạnh_e.jpg" %}
 
 ***Sr. Dieu Hanh*** *(True Wondrous Action):* Seven years ago, I was lucky enough to discover Maison de L’Inspir, and often visited to practise. I also came to Plum Village, especially in the summer and for the Rains Retreat. I don’t exactly know when the wish to ordain came up. I had the strong feeling inside of me that this is really a path that I want to follow, because it helped me so much.
@@ -88,6 +91,8 @@ I only saw Thay once in his physical form on my very first retreat. I’ve learn
 Unfortunately my parents are not supportive of me ordaining, and I know it is going to be difficult for them. I practise being patient. After listening deeply to myself it became clear that I would regret not having at least tried to be a nun. I was very happy at the ordination. It felt like a relief.
 
 {% image "article2024/Done-Daffodil family/Br.Nhất Vân_e.jpg" %}
+
+<div class="removeTopMarginInFollowingElem"></div>
 
 ***Br. Nhat Van*** *(True Cloud of Oneness):* Eleven years ago I had a strong event in my life that awakened me to spirituality. I attended my first spiritual retreat in Portugal. I was really impressed by the peaceful and loving environment, and how much compassion and understanding the monks had to face all the challenges of daily life. I stayed connected to monastics in different projects, like volunteering to teach basic English to children, giving support in a kind of ecovillage, helping in a vegan restaurant at an event, and attending yoga and meditation sessions. I felt a strong spiritual calling. There were signs during my life that pointed to monastic life, showing me that this is a right choice. When I found Thay, I felt a lot of peace and the practice gave me a lot of joy and stability. I came knowing that I would enter monastic life, it was a step of trust. I’m very happy to be here.
 
