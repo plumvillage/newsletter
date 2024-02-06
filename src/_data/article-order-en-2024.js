@@ -7,7 +7,7 @@ module.exports = [
     "br-phap-dung--my-journey-with-thay",
     "sr-tri-nghiem--parliament-of-world-religions",
     // Sr Uyen N
-    // Alms
+    "br-duc-dinh--a-day-of-alms",
     // Sr Thuan N
     "sr-linh-di--land-of-the-ancient-olice-trees",
     "br-minh-hy--the-door-of-compassion",

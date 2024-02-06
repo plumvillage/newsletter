@@ -797,9 +797,9 @@ p.pull-quote:before {
     margin-top: 0em !important;
 }
 
-
-
-
+.removeIndentInFollowingElem + * {
+    text-indent: 0 !important;
+}
 
 
 
@@ -859,9 +859,11 @@ h1#transforming-resentment-into-compassion {
 .article-chiec-ao-nhat-binh h2.author {
     margin-top: -16pt;
 }
-.article-canh-cua-xot-thuong h2.author,
+.article-canh-cua-xot-thuong h2.author {
+    margin-top: -17pt !important;
+}
 .article-tieng-goi h2.author {
-    margin-top: -12pt !important;
+    margin-top: -9pt !important;
 }
 .article-trot-thuong h2.author {
     margin-top: -27pt !important;
@@ -894,7 +896,7 @@ h1#transforming-resentment-into-compassion {
     margin-top: -15pt;
 }
 .article-tro-ve-nguon-coi h2.author {
-    margin-top: 18pt;
+    margin-top: 3pt;
 }
 .article-chao-djon-binh-minh h2.author {
     margin-top: -18pt;
@@ -903,33 +905,55 @@ h1#transforming-resentment-into-compassion {
 .article-theo-dau-chan-xua h2.author {
     margin-top: -6pt;
 }
-
-/* adjusting calligraphies size */
-
-h1#tro-ve-nguon-coi,
-h1#tro-ve-nguon-coi img,
-#calligraphy2024article-titlessr-hien-hanh-the-calling, #calligraphy2024article-titlessr-hien-hanh-the-calling img {
-    max-height: 44mm !important;
+.article-a-day-of-alms h2.author {
+    margin-top: -17pt;
+}
+.article-lang-mai-nam-qua h2.author {
+    margin-top: -10pt;
+    margin-left: 20mm;
 }
 
+/* default is 32mm */
+
+#calligraphy2024article-titlesbr-duc-dinh-a-day-of-alms, #calligraphy2024article-titlesbr-duc-dinh-a-day-of-alms img,
+#calligraphy2024article-titlesbr-hai-thuong-trot-thuong,
+#calligraphy2024article-titlesbr-hai-thuong-trot-thuong img,
+#calligraphy2024article-titlessr-hien-hanh-tieng-goi, #calligraphy2024article-titlessr-hien-hanh-tieng-goi img,
+#calligraphy2024article-titlessu-ong-love-is-the-answer, #calligraphy2024article-titlessu-ong-love-is-the-answer img,
+h1#tro-ve-nguon-coi,
+h1#tro-ve-nguon-coi img,
+#calligraphy2024article-titlessr-hien-hanh-the-calling, #calligraphy2024article-titlessr-hien-hanh-the-calling img,
 .calligraphy2024article-titlessr-uyen-nghiem-tho-theo-dau-chan-xua, #calligraphy2024article-titlessr-uyen-nghiem-tho-theo-dau-chan-xua img,
 #calligraphy2024article-titlesbr-thien-chi-blossoming-trees, #calligraphy2024article-titlesbr-thien-chi-blossoming-trees img {
     max-height: 36mm !important;
 }
 
-#calligraphy2024article-titlessu-ong-love-is-the-answer, #calligraphy2024article-titlessu-ong-love-is-the-answer img {
-    max-height: 39mm !important;
+/* this one is copied from last year, which was scanned bigger, thus needs to be downsized */
+#calligraphy2024article-titlesbbt-lang-mai-nam-qua-2024, #calligraphy2024article-titlesbbt-lang-mai-nam-qua-2024 img {
+    max-height: 26mm !important;
 }
 
+
+
+
+
+/* adjusting calligraphies size */
+/* h1#tro-ve-nguon-coi,
+h1#tro-ve-nguon-coi img,
+#calligraphy2024article-titlessr-hien-hanh-the-calling, #calligraphy2024article-titlessr-hien-hanh-the-calling img {
+    max-height: 44mm !important;
+} */
+/* #calligraphy2024article-titlessu-ong-love-is-the-answer, #calligraphy2024article-titlessu-ong-love-is-the-answer img {
+    max-height: 39mm !important;
+}
 #calligraphy2024article-titlesbr-hai-thuong-trot-thuong,
 #calligraphy2024article-titlesbr-hai-thuong-trot-thuong img,
 #calligraphy2024article-titlessr-hien-hanh-tieng-goi, #calligraphy2024article-titlessr-hien-hanh-tieng-goi img {
     max-height: 50mm !important;
 }
-
-
-
-
+#calligraphy2024article-titlesbr-duc-dinh-a-day-of-alms, #calligraphy2024article-titlesbr-duc-dinh-a-day-of-alms img {
+    max-height: 47mm !important;
+} */
 
 
 

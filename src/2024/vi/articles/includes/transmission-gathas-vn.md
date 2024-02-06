@@ -5,7 +5,9 @@
 <!-- beware: 2 empty spaces at line-end mark break -->
 
 <!-- https://langmai.org/tang-kinh-cac/ke-truyen-dang/ke-truyen-dang-trong-khoa-tu-xuat-si-vung-mot-niem-tin-2023/ -->
-## Khoá tu xuất sĩ diễn ra từ ngày 15 đến 23.02 tại Chùa Pháp Vân, xóm Thượng, Làng Mai Pháp
+<!-- ## Khoá tu xuất sĩ diễn ra từ ngày 15 đến 23.02 tại Chùa Pháp Vân, xóm Thượng, Làng Mai Pháp -->
+
+## Kệ truyền đăng trong khóa tu xuất sĩ "Vững một niềm tin" (15-23.02) tại, Làng Mai Pháp:
 
 > **Thầy Thích Chân Trời Nội Tâm**  
 > *(Thế danh: Phạm Văn Tài)*
@@ -76,14 +78,14 @@
 > **Chân Hỷ Tạng**  
 > *(Thế danh: Faye Nhi Nguyen)*
 > > By seeing the nature of affinities planted since beginningless time  
-> > The authentic fruit of insight reveals itself as a storehouse of joy  
+> > The authentic fruit of insight reveals itself as a **storehouse of joy**  
 > > Walking this ancient path suddenly we realize that there was never a time when we were not wonderful together  
 > > Sunflowers waving in the gentle breeze quietly reveal the wondrous Dharma Body
 
 > **Chân Minh Hải**  
 > *(Thế danh: Daya Heather Jepsen)*
-> > The Ocean of Wisdom is our ancient and true inheritance  
-> > The bright eyes of the Awakened One contemplate the nature if all things and see no coming and no going  
+> > The **Ocean** of Wisdom is our ancient and true inheritance  
+> > The **bright** eyes of the Awakened One contemplate the nature if all things and see no coming and no going  
 > > On her path pf return, she carries the peaceful light of the moon  
 > > As a gracious offering to each living being
 
@@ -94,108 +96,120 @@
 
 ## Đại giới đàn “Trừng Quang” đã diễn ra từ ngày 10-14/2/2023 tại Tu viện Vườn Ươm – Làng Mai Thái Lan
 
+## Kệ truyền đăng trong năm 2023
+
+Trong năm 2023, tăng thân đã chào đón 27 vị giáo thọ mới, cả xuất sĩ và cư sĩ. Dưới đây là tổng hợp những bài kệ truyền đăng được trao trong năm qua:
+
+Kệ truyền đăng trong đại giới đàn "Trừng Quang" (10-14.02) tại tu viện Vườn Ươm, Thái Lan:
+
 > **Thầy Thích Chân Phương Cần**  
-> *(Nguyễn Thế Lộc;  Pháp danh: Nhuận Thọ)*
+> *(Nguyễn Thế Lộc; Pháp danh: Nhuận Thọ)*
 > > **Chân** pháp mở bày muôn vạn lối  
 > > Đường vào **phương** ngoại chẳng ngoài tâm  
 > > Công phu **cần** mẫn trong nhật dụng  
 > > Gương trí soi tròn nghĩa uyên thâm
 
 > **Thầy Thích Chân Trời Kỳ Ngộ**  
-> *(Phạm Hùng;  Pháp danh: Tâm Đức Khang)*
+> *(Phạm Hùng; Pháp danh: Tâm Đức Khang)*
 > > Muôn dặm không mây muôn dặm **trời**  
 > > Nhân duyên **kỳ ngộ** bước thảnh thơi  
 > > Ở đây gặp gỡ bao tri kỷ  
 > > Mở hội tăng thân cứu độ người
 
 > **Thầy Thích Chân Trời Lĩnh Nam**  
-> *(Lê Dũng;  Pháp danh: Tâm Đại Niệm)*
+> *(Lê Dũng; Pháp danh: Tâm Đại Niệm)*
 > > **Chân trời Lĩnh Nam** đất xưa  
 > > Tổ tiên xây dựng truyền thừa mai sau  
 > > Bước chân cẩn trọng cho nhau  
 > > Mỉm cười tương kính làm giàu tương lai
 
 > **Thầy Thích Chân Trời Bình An**  
-> *(Trần Công Danh;  Pháp danh: Tâm Từ Thủy)*
+> *(Trần Công Danh; Pháp danh: Tâm Từ Thủy)*
 > > Pháp thân tỏa sáng rạng **chân trời**  
 > > **Bình** minh rực rỡ ánh hồng tươi  
 > > **An** nhiên từng bước là dừng lại  
 > > Mắt biếc hồn thơ rộn tiếng cười
 
 > **Thầy Thích Chân Trời Linh Cảm**  
-> *(Lai Thanh Vũ;  Pháp danh: Tâm Khuyến Thiện)*
+> *(Lai Thanh Vũ; Pháp danh: Tâm Khuyến Thiện)*
 > > **Chân** xuân thắp sáng cả **trời** xuân  
 > > Ứng hiện tâm **linh** đẹp tuyệt trần  
 > > Có nhau nhiệm mầu trong tương **cảm**  
 > > Cử xướng tăng thân thực pháp thân
 
 > **Thầy Thích Chân Trời Nguyện Ước**  
-> *(Nguyễn Bá Nhật;  
->  Pháp danh: Tâm Nhuận Minh)*
+> *(Nguyễn Bá Nhật; Pháp danh: Tâm Nhuận Minh)*
 > > **Chân** tâm soi tỏ **trời** cao rộng  
 > > **Nguyện** **ước** năm xưa vững một lòng  
 > > Tăng đi từng bước xây mầm tuệ  
 > > Nghĩa trả ơn đền vẹn núi sông
-
+  
 > **Thầy Thích Chân Trời Đâu Suất**  
-> *(Đặng Ngọc Hồng Quyết;  
->  Pháp danh: Tâm Minh Đăng)*
+> *(Đặng Ngọc Hồng Quyết; Pháp danh: Tâm Minh Đăng)*
 > > Mắt thương nhìn thấu cõi trần  
 > > Từ **Trời Đâu Suất** hiện thân giữa đời  
 > > Bồ đề chiếu rạng muôn nơi  
 > > Mở bày phương tiện độ người trầm luân
 
 > **Thầy Thích Chân Trời Tương Lai**  
-> *(Phạm Quang Hà;  
->  Pháp danh: Tâm Đức Tĩnh)*
+> *(Phạm Quang Hà; Pháp danh: Tâm Đức Tĩnh)*
 > > Khung **trời** hiện tại đã về tới  
 > > Ôm cả **tương lai** sáng nếp nhà  
 > > Tình xưa gửi gắm từng huynh đệ  
 > > Ơn nghĩa truyền trao vẫn đậm đà
 
-> **Sư cô Thích nữ Chân Đán Nghiêm**
+> **Sư cô Thích nữ Chân Đán Nghiêm**  
+> *(Phan Thị Minh Tuyền; Pháp danh: Tâm Quảng Bích)*  
 > > Một trời xuân **đán** bình an   
 > > Uy **nghiêm** vọng tiếng thâm ơn nghìn trùng   
 > > Lối về có thủy có chung  
 > > Từ bi chiếu rạng khắp cùng thế gian
 
-> **Sư cô Thích nữ Chân Nhẫn Nghiêm**
+> **Sư cô Thích nữ Chân Nhẫn Nghiêm**  
+> *(Nguyễn Thị Bích Lê; Pháp danh: Tâm Nguyên Tịnh)*  
 > > **Chân** tâm một nẻo đi về  
 > > Hành trang ẩn **nhẫn** xá hề gian truân   
 > > **Nghiêm** phong hoạt thái chuyên cần  
 > > Quê hương lối cũ bước chân vững vàng
 
-> **Sư cô Thích nữ Chân Thiện Nghiêm**
+> **Sư cô Thích nữ Chân Thiện Nghiêm**  
+> *(Văn Thị Kiều Oanh; Pháp danh: Tâm Chơn Khai)*  
 > > **Thiện** nghiệp gieo trồng cõi lạc bang  
 > > **Nghiêm** giới trì đức tuệ vững vàng  
 > > Dong thuyền bát nhã ra khơi vớt  
 > > Cỡi gió về mây giữ an ban.
 
-> **Sư cô Thích nữ Chân Đế Nghiêm**
-> > Xuất lưu pháp bảo từ **chân** **đế**  
+> **Sư cô Thích nữ Chân Đế Nghiêm**  
+> *(Vũ Thị Minh Đức ; Pháp danh: Tâm Diệu Chuyên)*  
+> > Xuất lưu pháp bảo từ **chân đế**  
 > > Một dạ giữ **nghiêm** phép chỉ trì  
 > > Mỗi khi trời đất lên tiếng gọi  
 > > Hoa lòng thơm ngát giọt từ bi
 
-> **Sư cô Thích nữ Chân Dương Nghiêm**
+> **Sư cô Thích nữ Chân Dương Nghiêm**  
+> *(Phạm Thị Hồng; Pháp danh: Tâm Phương Minh)*  
 > > **Chân** thân vốn hoàn hảo  
 > > Rạng ngời ánh **dương** quang  
 > > Một lòng thường **nghiêm** cẩn  
 > > Lan toả pháp An ban
 
-> **Sư cô Thích nữ Chân Công Nghiêm**
+> **Sư cô Thích nữ Chân Công Nghiêm**  
+> *(Hoàng Lê Kim Loan; Pháp danh: Tâm Nhật Kim)*  
 > > Đức sáng nằm ngay **công** tu luyện  
 > > Nghiệp lành vun tưới tướng uy **nghiêm**  
 > > Thông điệp từ bi về mọi nẻo  
 > > Tha hồ thỏa chí chốn an nhiên
 
-> **Sư cô Chân Trăng Đông Hải**
+> **Sư cô Chân Trăng Đông Hải**  
+> *(Tsui Miu Ling; Pháp danh: Tâm Quán Ân)*  
 > > **Trăng** toả sáng bầu trời **Đông Hải**  
 > > Biển trần gian phản ánh não phiền  
 > > Đem tay tế độ bao người khổ  
 > > Sóng bước bên Ngài Quán Thế Âm
 
-> **Sư cô Chân Trăng Nga Mi**
+> **Sư cô Chân Trăng Nga Mi**  
+> *(Chew Yee Lee; Pháp danh:  
+> Noble Fulfillment of the Heart)*  
 > > **Trăng** không tròn không khuyết  
 > > Núi **Nga Mi** lưu danh  
 > > Phổ Hiền mười hạnh nguyện  
@@ -205,7 +219,3 @@
 {% image "article2023/Lang-mai-nam-qua/truyen-dang-an-cu-2022/122_Lamp.Transmission.2022_img_8217_e.jpg" %}
 
 <div class="page-break"></div>
-
-<div class="full-page-background-img-bleed">
-    {% image "Lang Mai Nam Qua A4 Final No Text/16 - Lamps_P2.jpg" %}
-</div>

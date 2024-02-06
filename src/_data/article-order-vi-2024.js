@@ -1,6 +1,6 @@
 module.exports = [
+    "bbt--lang-mai-nam-qua-2024",
     "bbt--muon-thu-ngan-dam-mot-nha",
-    // "lang-mai-nam-qua",
     "su-ong--thap-sang-hien-huu",
     "sr-hoa-nghiem--ngan-song-trang-hien",
     "br-bat-nha--chiec-au-nhat-binh",
