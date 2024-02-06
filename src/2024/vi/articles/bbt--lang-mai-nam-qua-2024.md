@@ -15,27 +15,74 @@ Với sự chứng minh của chư Tôn đức, Đại giới đàn đã truyề
 
 Cũng trong dịp này, đại chúng cùng nhau ăn mừng tu viện Vườn Ươm tròn 10 tuổi và làm lễ đặt đá để xây dựng thiền đường mới, thiền đường Trời Phương Ngoại.
 
+{% image "article2024/Done-Review of the Year/Great Ordination Ceremony/_DSC2314.JPG" %}
+
+<div class="page-break"></div>
+
+{% image "article2024/Done-Review of the Year/Great Ordination Ceremony/08.JPG", "noFloat transmissionCeremony" %}
+{% image "article2024/Done-Review of the Year/Great Ordination Ceremony/10.JPG", "noFloat transmissionCeremony" %}
+{% image "article2024/Done-Review of the Year/Great Ordination Ceremony/4.JPG", "noFloat transmissionCeremony" %}
+{% image "article2024/Done-Review of the Year/Great Ordination Ceremony/_DSC3145.JPG", "noFloat transmissionCeremony" %}
+
+{% image "article2024/Done-Review of the Year/Great Ordination Ceremony/_DSC2469.JPG", "noFloat transmissionCeremony" %}
+{% image "article2024/Done-Review of the Year/Great Ordination Ceremony/22.JPG", "noFloat transmissionCeremony" %}
+{% image "article2024/Done-Review of the Year/Great Ordination Ceremony/_DSC2432.JPG", "noFloat transmissionCeremony" %}
+{% image "article2024/Done-Review of the Year/Great Ordination Ceremony/_DSC3312.JPG", "noFloat transmissionCeremony" %}
+
+<div class="page-break"></div>
+
 ## Vững một niềm tin – Khóa tu xuất sĩ *(15 – 23.02.2023)*
 
 Mỗi năm vào dịp đầu xuân, đại chúng ba xóm Làng Mai Pháp lại cùng nhau sum họp về chùa Pháp Vân, nơi mảnh đất Thệ Nhật thiêng liêng để có mặt cho nhau trong khoá tu xuất sĩ. Quý thầy, quý sư cô từ Viện Phật học Ứng dụng châu Âu (Đức), tu viện Suối Tuệ và Thiền đường Hơi Thở Nhẹ (Paris) cũng về tham dự khóa tu.
 
 Năm nay, với chủ đề "Vững một niềm tin", khóa tu xuất sĩ diễn ra trong chín ngày đã nuôi dưỡng thêm tình huynh đệ, tiếp thêm năng lượng để các anh chị em trong gia đình áo nâu vững bước trên con đường tu học và phụng sự. Cũng trong khóa tu này, thầy Pháp Ấn, sư cô Chân Không và sư cô Chân Đức đã thay mặt tăng thân để phó pháp truyền đăng cho tám vị tân giáo thọ.
 
+<div style="column-span: all; height: 1.0em; width: 100%;"></div>
+
+<div class="removeTopMarginInFollowingElem"></div>
+
+{% image "article2024/Done-Review of the Year/Monastic retreat/monastic-retreat 1.JPG", "noFloat lmnq3" %}
+{% image "article2024/Done-Review of the Year/Monastic retreat/monastic retreat 2.JPG", "noFloat lmnq3" %}
+{% image "article2024/Done-Review of the Year/Monastic retreat/monastic retreat 3.JPG", "noFloat lmnq3" %}
+{% image "article2024/Done-Review of the Year/Monastic retreat/DSC_1172.JPG", "noFloat lmnq3" %}
+
+<div style="column-span: all; height: 1.5em; width: 100%;"></div>
+
 ## Tiếng hát mùa xuân
 
 Sau ba năm bị gián đoạn vì đại dịch, hơn bốn trăm thiền sinh từ các nước như Pháp, Bỉ, Thụy Sĩ, Canada... lại có cơ hội về Làng tu tập trong khóa tu dành cho cộng đồng nói tiếng Pháp, từ ngày 07 -- 14.4. Cỏ cây, hoa lá cùng nắng ấm mùa xuân cũng hòa chung niềm vui xum vầy của đại gia đình Pháp ngữ. Niềm vui tiếp nối niềm vui khi tăng thân tổ chức mừng Ngày Tiếp nối lần thứ 85 của Sư cô Chân Không và chào đón thêm 18 thành viên mới của Dòng tu Tiếp Hiện.
+
+{% image "article2024/Done-Review of the Year/Francophone retreat/IMG_9618_.jpg", "noFloat lmnq3" %}
+
+<div style="height: 9mm"></div>
+
+{% image "article2024/Done-Review of the Year/Francophone retreat/IMG_9732_.jpg", "noFloat lmnq3" %}
+<!-- {% image "article2024/Done-Review of the Year/Francophone retreat/IMG_9872_.jpg" %} -->
+{% image "article2024/Done-Review of the Year/Francophone retreat/SCCK and sisters 3.jpg", "noFloat lmnq3" %}
 
 ## Thong dong vạn nẻo đường
 
 Tiếp nối hạnh nguyện hoằng hóa của Sư Ông đem đạo Bụt ứng dụng đến "bầy ong siêng năng" đã bắt đầu lên đường với những chuyến hoằng pháp tại châu Âu (Anh, Ireland, Pháp, Đức, Bỉ, Hà Lan, Thụy Điển, Đan Mạch, CH Séc, Áo, Tây Ban Nha...); Châu Mỹ (Mỹ, Canada, Mexico, Colombia, Equador, Argentina, Brazil, Chile); và châu Á (Ấn Độ, Đài Loan).
 
-## Làng Mai tại Hội nghị Thượng đỉnh Phật giáo toàn cầu
+<div style="height: 5mm"></div>
 
-Sáng ngày, 20-4, Hội nghị Thượng đỉnh Phật giáo Toàn cầu năm 2023 do Liên minh Phật giáo Thế giới (IBC) tổ chức đã khai mạc trọng thể tại New Delhi, Ấn Độ với sự tham dự của hơn 700 đại biểu, trong đó có 170 đại biểu đến từ 30 quốc gia và vùng lãnh thổ. Hội nghị diễn ra trong hai ngày 20 và 21.4 với chủ đề "Ứng xử với những thách thức đương đại từ triết học đến thực tiễn". Phái đoàn Làng Mai có thầy Pháp Khởi, thầy Nguyên Lực, sư cô Biện Nghiêm và sư cô Trăng Lộc Uyển đã tham dự Hội nghị. Sự kiện diễn ra cùng với thời điểm quý thầy, quý sư cô đang có chuyến hoằng pháp tại Ấn Độ.
+{% image "article2024/Done-Review of the Year/Monastic on Tour/20230423_172317 Best_e.jpg", "noFloat lmnq4", "Freiburg, Đức" %}
+{% image "article2024/Done-Review of the Year/Monastic on Tour/52903635294_54be3d0f22_o.jpg", "noFloat lmnq4", "Toronto, Canada" %}
+{% image "article2024/Done-Review of the Year/Monastic on Tour/IMG_3602.jpg", "noFloat lmnq4", "Vương quốc Anh" %}
+{% image "article2024/Done-Review of the Year/Monastic on Tour/Mexico-Day-of-Mindfulness-in-Mexico-city.jpg", "noFloat lmnq4-2", "Mexico" %}
+
+{% image "article2024/Done-Review of the Year/Monastic on Tour/Mexico-Public-talk-in-National-institute-of-psychiatrist.jpg", "noFloat lmnq4", "Mexico" %}
+{% image "article2024/Done-Review of the Year/Monastic on Tour/Wake up tour 2023.jpg", "noFloat lmnq4", "WakeUp Tour, Hà Lan" %}
+{% image "article2024/Done-Review of the Year/Monastic on Tour/Wake up tour 2 2023.JPG", "noFloat lmnq4", "Thụy Điển" %}
+{% image "article2024/Done-Review of the Year/Monastic on Tour/9ee37f7c-830f-4a3f-ae2d-bca7bdf6943a.JPG", "noFloat lmnq4-2", "Brazil" %}
+
+<div class="page-break"></div>
 
 ## Trung tâm Chánh niệm vì Sức khỏe Cộng đồng Thích Nhất Hạnh tại Harvard
 
 Ngày 26.04.2023, Trường Y tế Cộng đồng T.H. Chan thuộc Đại học Harvard (Harvard T.H. Chan School of Public Health) đã chính thức khai trương Trung tâm chánh niệm vì sức khỏe cộng đồng Thích Nhất Hạnh *(Thich Nhat Hanh Center for Mindfulness in Public Health)*. Hơn ba mươi xuất sĩ của Làng Mai, trong đó có thầy Pháp Ấn và sư cô Chân Không, đã có mặt cho sự kiện quan trọng này.
+
+CREDIT Rob Walsh
 
 Trung tâm được thành lập với 25 triệu đô la Mỹ do một mạnh thường quân ẩn danh hiến tặng, đây là một trong những khoản tài trợ lớn nhất từ trước đến nay cho trường. Sứ mệnh của trung tâm là giúp cho mọi người trên thế giới sống có mục đích, chan hòa và vui tươi thông qua việc thực tập chánh niệm; thúc đẩy các nghiên cứu trên cơ sở thực chứng nhằm cải thiện sức khỏe thể chất và tinh thần thông qua chánh niệm; giáo dục và phổ biến cho mọi người về chánh niệm. Hai lĩnh vực chính của trung tâm là nghiên cứu về dinh dưỡng và môi trường sống.
 
@@ -46,6 +93,24 @@ Giáo sư Cheung cho biết: "Trong những năm qua, tôi rất quan tâm đế
 Trung tâm Chánh niệm Thích Nhất Hạnh ra mắt với một hội nghị chuyên đề kéo dài một ngày vào ngày 26.4 với sự tham gia của rất nhiều các nhà khoa học nhằm chia sẻ những nghiên cứu, khám phá khoa học về mối liên hệ giữa chánh niệm với sức khỏe thân tâm. Thầy Pháp Ấn, thầy Pháp Lưu và sư cô Hiến Nghiêm đã đại diện tăng thân chia sẻ trong Hội nghị. Ngoài ra, còn có một buổi vấn đáp do thầy Pháp Dung, thầy Pháp Linh và sư cô Lăng Nghiêm chủ tọa.
 
 Theo thông cáo của Đại học Havard, tính tới đầu năm 2023 đã có gần 25.000 công trình nghiên cứu về chánh niệm được xuất bản trên các tạp chí có bình duyệt của chuyên gia trong giới, bao gồm nhiều khía cạnh khác nhau. Tuy nhiên lĩnh vực này vẫn còn khá mới mẻ, và các nhà nghiên cứu của Trung tâm Chánh niệm Thích Nhất Hạnh sẽ tiếp tục tìm kiếm những công cụ khoa học để đánh giá tác động can thiệp của chánh niệm với sức khỏe và hạnh phúc con người.
+
+{% image "article2024/Done-Review of the Year/TNH Center/TNH center.3.jpg" %}
+{% image "article2024/Done-Review of the Year/TNH Center/TNH center.8.jpg", "noFloat" %}
+{% image "article2024/Done-Review of the Year/TNH Center/TNH center.4.jpg" %}
+{% image "article2024/Done-Review of the Year/TNH Center/52853650470_77ba29e58e_o_e.jpg" %}
+{% image "article2024/Done-Review of the Year/TNH Center/52851181247_a8de2db46f_o.jpg", "noFloat" %}
+
+{% image "article2024/Done-Review of the Year/TNH Center/52853757348_924fe21036_o.jpg" %}
+{% image "article2024/Done-Review of the Year/TNH Center/TNH center.2.jpg", "noFloat" %}
+
+{% image "article2024/Done-Review of the Year/TNH Center/52856213396_7da665de4e_o.jpg" %}
+
+
+<div class="page-break"></div>
+
+## Làng Mai tại Hội nghị Thượng đỉnh Phật giáo toàn cầu
+
+Sáng ngày, 20-4, Hội nghị Thượng đỉnh Phật giáo Toàn cầu năm 2023 do Liên minh Phật giáo Thế giới (IBC) tổ chức đã khai mạc trọng thể tại New Delhi, Ấn Độ với sự tham dự của hơn 700 đại biểu, trong đó có 170 đại biểu đến từ 30 quốc gia và vùng lãnh thổ. Hội nghị diễn ra trong hai ngày 20 và 21.4 với chủ đề "Ứng xử với những thách thức đương đại từ triết học đến thực tiễn". Phái đoàn Làng Mai có thầy Pháp Khởi, thầy Nguyên Lực, sư cô Biện Nghiêm và sư cô Trăng Lộc Uyển đã tham dự Hội nghị. Sự kiện diễn ra cùng với thời điểm quý thầy, quý sư cô đang có chuyến hoằng pháp tại Ấn Độ.
 
 ## Gieo mãi hạt yêu thương
 
@@ -498,7 +563,7 @@ Trong năm 2023, tăng thân đã chào đón thêm 31 thành viên mới:
  - **Cây Toyon** (ngày 24.09 tại tu viện Lộc Uyển, Mỹ) gồm các sư chú: *Chân Nhất Lâm, Chân Nhất Thiên, Chân Nhất Điền, Chân Nhất Sơn;* và các sư cô: *Chân Ân Hạnh, Chân Thuần Hạnh.*
  - **Cây Thủy tiên** – **Daffodil** (ngày 05.11 tại chùa Pháp Vân, Pháp) gồm các sư chú: *Chân Nhất Vân, Chân Nhất Vũ, Chân Nhất Thanh, Chân Nhất Lương, Chân Nhất Nguyên, Chân Nhất Mộc, Chân Nhất Xuân;* và các sư cô: *Chân Đôn Hạnh, Chân Diệu Hạnh, Chân Đăng Hạnh.*
  - **Cây Chuông Vàng** (ngày 17.12 tại tu viện Vườn Ươm, Thái Lan) gồm các sư cô: *Chân Cung Hạnh, Chân Chuyên Hạnh, Chân Cẩn Hạnh, Chân Chuẩn Hạnh, Chân Chỉnh Hạnh, Chân Chỉ Hạnh, Chân Chí Hạnh, Chân Cư Hạnh, Chân Chánh Hạnh, Chân Chiêu Hạnh, Chân Chung Hạnh, Chân Cần Hạnh, Chân Cát Hạnh.*
- 
+
 <div class="removeIndentInFollowingElem"></div>
 
 Đầu năm 2024, vào dịp lễ Đại tường của Sư Ông, tăng thân chào đón thêm 11 thành viên của gia đình xuất gia:

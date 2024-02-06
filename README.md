@@ -66,6 +66,7 @@ VS Code allows for regex replace submatch, e.g.: ([a-zA-Z])" > $1”
   -  "([\p{Letter}]) >  “$1
   - ”. > .”
   - \*\*(.*)\*\* > ## $1
+  - file:///media/data/dev/newsletter/src/media/originals/(.*) > {% image "$1" %}
 
 ## Terminal Foo
 /media/data/dev/newsletter/src/media/originals/article2024

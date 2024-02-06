@@ -1147,7 +1147,8 @@ figure#article2024Done-BrPhap-UngBrPhap-Unge {
 
 
 /* column-span images */
-
+figure#article2024Done-Review-of-the-YearTNH-Center528562133967da665de4eo,
+figure#article2024Done-Review-of-the-YearGreat-Ordination-CeremonyDSC2314,
 figure#article2024Done-Memorial-CeremonyHueCeremonyLe-dai-tuong-1-copy,
 figure#article2024Done-Memorial-CeremonyHueBefore-the-CeremonyDSC4445e,
 figure#article2024Done-Memorial-CeremonyHueBefore-the-CeremonyDSC5433e,
@@ -1184,6 +1185,11 @@ figure#LTLM47-2024-cover-NH-TeensLTLM47-2024July2023sararemington0013editedcropp
 figure#article2024Done-interview-with-thayVncon-ve-miong-tua-noi-dat-me {
     width: 95%;
     margin-top: 2em;
+    margin-bottom: 0em;
+}
+figure#article2024Done-Review-of-the-YearTNH-Center528562133967da665de4eo {
+    width: 100%;
+    /* margin-top: 2em; */
     margin-bottom: 0em;
 }
 figure#article2024Done-interview-with-thayEni-am-in-love-with-mother-earthe {
@@ -1349,12 +1355,44 @@ figure.hueMemorial img {
     object-fit: cover;
     height: 51mm;
 }
+figure.transmissionCeremony img {
+    object-fit: cover;
+    height: 63mm;
+}
+figure.lmnq3 img {
+    object-fit: cover;
+    height: 48mm;
+}
+figure.lmnq4 img {
+    object-fit: cover;
+    height: 47mm;
+}
+figure.lmnq4-2,
+figure.lmnq4 {
+    margin-top: 0.3em;
+}
+figure#article2024Done-Review-of-the-YearMonastic-on-Tour9ee37f7c-830f-4a3f-ae2d-bca7bdf6943a img {
+    object-fit: cover;
+    height: 109mm;
+}
+
+figure#article2024Done-Review-of-the-YearMonastic-on-Tour9ee37f7c-830f-4a3f-ae2d-bca7bdf6943a,
+figure.lmnq4,
+figure.lmnq3,
+figure.transmissionCeremony,
 figure.hueMemorial {
     margin-bottom: 0;
 }
 
-/* remove page footer from: */
-#page-3 {
-    background-color: red !important;
-    /* display: none !important; */
+figure.lmnq5 {
+    display: block;
+    float: none;
+    /* left: -12%; */
+    column-span: all;
+    /* default */
+    width: 25%;
+    /* margin-left: auto; */
+    /* margin-right: auto; */
+    /* position: relative; */
+    max-width: none !important;
 }

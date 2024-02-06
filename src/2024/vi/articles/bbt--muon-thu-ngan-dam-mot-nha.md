@@ -95,7 +95,7 @@ Sáng sớm ngày 23.01.2024, lễ xuất gia cho 11 thành viên gia đình xu�
 
 Trong những ngày này, chúng con rất xúc động khi chư Tôn đức quang lâm sách tấn cho chúng con trên con đường thực tập. Sáng nay, Hòa thượng Thích Giác Quang (Trú trì chùa Bảo Lâm), Sư bà Thích Nữ Như Minh (Trú trì chùa Pháp Hỷ, Tây Linh) đã ban cho chúng con những dòng pháp bảo quý giá. Trong lời nói của quý Ngài tỏa ra ánh sáng của hoa trái thực tập giúp chúng con lớn lên niềm tin, giúp cho ngọn lửa bồ đề tâm sáng hơn trong chúng con, giúp cho chúng con biết ơn con đường mình đang bước đi. Người tu là một chiến binh tâm linh, lấy sự thực tập chánh niệm làm cốt lõi. Chúng con ý thức rằng khi chúng con thực tập có hạnh phúc, thì hạnh phúc ấy có thể đưa tới sự chấp nhận những yếu kém của nhau và sự nương tựa vào tập thể.
 
-<div style="column-span: all; height: 1.5em; width: 100%;s"></div>
+<div style="column-span: all; height: 1.5em; width: 100%;"></div>
 
 {% image "article2024/Done-Memorial-Ceremony/Hue/Before the Ceremony/_DSC5565.jpg", "noFloat" %}
 {% image "article2024/Done-Memorial-Ceremony/Hue/Before the Ceremony/_DSC7206.jpg", "noFloat" %}
