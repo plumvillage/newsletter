@@ -71,7 +71,7 @@ bằng một nụ cười tự tấm lòng.</p></div>
 
 ## Đi khất thực là một pháp môn
 
-Trong chúng tôi, có một vài người tự hỏi “Có phải chúng ta tổ chức một sự kiện chỉ có tính cách biểu tượng mà thôi?”, hay “Chúng ta có nuôi dưỡng ý tưởng muốn làm những gì Đức Bụt đã làm, trong khi trên thực tế, chúng ta đã có quá đủ thức ăn và tiện nghi trong tu viện hay không?”.
+Trong chúng tôi, có một vài người tự hỏi “Có phải chúng ta tổ chức một sự kiện chỉ có tính cách biểu tượng mà thôi?”, hay “Chúng ta có nuôi dưỡng ý tưởng muốn làm những gì Bụt đã làm, trong khi trên thực tế, chúng ta đã có quá đủ thức ăn và tiện nghi trong tu viện hay không?”.
 
 Tôi đã tìm ra một câu trả lời khi quan sát những gì xảy ra vào ngày khất thực qua cách tổ chức và sự thực tập của mọi người. Tôi thấy những hạt giống thiện lành trong từng cá nhân và trong đoàn thể đang được tưới tẩm. Chúng tôi thực tập hài hòa trong quan điểm, lắng nghe nhau, có mặt và hành động trong chánh niệm, tưới tẩm những hạt giống rộng lượng, biết ơn, khiêm tốn, hạnh nguyện, quyết tâm và hiểu biết — thậm chí bằng cách đặt những câu hỏi như trên. Trong ngày hôm đó, chúng tôi cũng quán chiếu về mối quan hệ giữa mình với thức ăn và cảm thọ nơi tự thân.
 
