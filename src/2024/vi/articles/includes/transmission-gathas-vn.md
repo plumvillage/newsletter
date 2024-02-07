@@ -1,4 +1,4 @@
-<p class="noIndent">Dưới đây là tổng hợp những bài kệ truyền đăng được trao trong năm qua:</p>
+
 
 <figure id="pageMarkerForGathas"></figure>
 
@@ -6,101 +6,15 @@
 
 <!-- https://langmai.org/tang-kinh-cac/ke-truyen-dang/ke-truyen-dang-trong-khoa-tu-xuat-si-vung-mot-niem-tin-2023/ -->
 <!-- ## Khoá tu xuất sĩ diễn ra từ ngày 15 đến 23.02 tại Chùa Pháp Vân, xóm Thượng, Làng Mai Pháp -->
-
-## Kệ truyền đăng trong khóa tu xuất sĩ "Vững một niềm tin" (15-23.02) tại, Làng Mai Pháp:
-
-> **Thầy Thích Chân Trời Nội Tâm**  
-> *(Thế danh: Phạm Văn Tài)*
-> > **Trời nội** điển, ngày pho thủ tự  
-> > Nhập tánh không, đêm quán **tâm** kinh  
-> > Ơn thầy tổ nguyền xin tiếp nối  
-> > Một lên đường, sông núi chứng minh
-
-> **Sư Cô Thích nữ Chân Trăng Hoa Tiên**  
-> *(Thế danh: Nguyễn Thị Quế Trâm)*
-> > Gót sen thiền tập cùng **Trăng**  
-> > **Hoa** tâm nở rộ thoát vòng thị phi  
-> > Dáng **Tiên** hiện nét uy nghi  
-> > Lắng nghe nhẫn hạnh từ bi cứu đời
-
-> **Sư cô Thích nữ Chân Trợ Nghiêm**  
-> *(Thế danh: Hoàng Thị Minh Nguyệt)*
-> > **Chân** tâm vắng duyên **trợ**  
-> > **Nghiêm** từ chẳng đến đi  
-> > Như Lai bậc như thị  
-> > Chánh Niệm vượt thị phi
-
-> **Sư cô Thích nữ Chân Trăng Quê Hương**  
-> *(Thế danh: Nguyễn Thị Kim Thạnh)*
-> > **Chân Trăng** là **Quê Hương**  
-> > Chiếc lá vốn bản môn  
-> > Pháp nhiệm ấy con đường  
-> > Lắng nghe hiểu và thương
-
-> **Sư cô Thích nữ Chân Trăng Mới Lên**  
-> *(Thế danh: Yuliana Wijaya)*
-> > Out of darkness **the moon** has just **risen**  
-> > Its guiding light illuminates our steps.  
-> > In this pure land of mindfulness and joy  
-> > I offer my service to all beings.
-
-> **Sư Cô Thích nữ Chân Trăng Thong Dong**  
-> *(Thế danh: Bùi Hồng Thu Quý)*
-> > **Trăng** xưa lập nguyện đại bi  
-> > Sao cho muôn loại tổng trì vô sanh  
-> > **Thong Dong** cùng chúng đồng hành  
-> > Ân đền nghĩa đáp dạ thành khắc ghi
-
-> **Sư cô Thích nữ Chân Trăng Lý Tưởng**  
-> *(Thế danh: Châu Thị Thu Sương)*
-> > Hé nụ cười chân thật, tuyệt vời  
-> > **Trăng** sao chiếu sáng khắp muôn nơi  
-> > Long lanh ánh mắt ngời **lý tưởng**  
-> > Sưởi ấm tình người giữa trùng khơi
-
-> **Sư cô Thích nữ Chân Trăng Chí Thành**  
-> *(Thế danh: Lê Thị Tư)*
-> > Vén mây **trăng** lộ diện  
-> > Tu tập dạ **chí thành**  
-> > Công phu không xao lãng  
-> > Sen nở cõi Trời Tây
-
-> **Thầy Thích Chân Trời Bình Minh**  
-> *(Thế danh: Trương Văn Sen)*
-> > Tâm tạo **trời bình minh**  
-> > Toả sáng khắp mười phương  
-> > Xuyên suốt qua ba cõi  
-> > Hiện tại là quê hương  
-> > Đức căn dày muôn kiếp  
-> > Thành quả bậc trượng phu  
-> > Được hương gió lan toả
-
-> **Chân Hỷ Tạng**  
-> *(Thế danh: Faye Nhi Nguyen)*
-> > By seeing the nature of affinities planted since beginningless time  
-> > The authentic fruit of insight reveals itself as a **storehouse of joy**  
-> > Walking this ancient path suddenly we realize that there was never a time when we were not wonderful together  
-> > Sunflowers waving in the gentle breeze quietly reveal the wondrous Dharma Body
-
-> **Chân Minh Hải**  
-> *(Thế danh: Daya Heather Jepsen)*
-> > The **Ocean** of Wisdom is our ancient and true inheritance  
-> > The **bright** eyes of the Awakened One contemplate the nature if all things and see no coming and no going  
-> > On her path pf return, she carries the peaceful light of the moon  
-> > As a gracious offering to each living being
-
-
-
-
 <!-- https://langmai.org/tang-kinh-cac/ke-truyen-dang/ke-truyen-dang-trong-dai-gioi-dan-trung-quang-tu-10-1422023/ -->
 
-## Đại giới đàn “Trừng Quang” đã diễn ra từ ngày 10-14/2/2023 tại Tu viện Vườn Ươm – Làng Mai Thái Lan
+# Kệ truyền đăng trong năm 2023
 
-## Kệ truyền đăng trong năm 2023
+<div class="removeTopMarginInFollowingElem" style="height: 6mm; column-span: all;"></div>
 
 Trong năm 2023, tăng thân đã chào đón 27 vị giáo thọ mới, cả xuất sĩ và cư sĩ. Dưới đây là tổng hợp những bài kệ truyền đăng được trao trong năm qua:
 
-Kệ truyền đăng trong đại giới đàn "Trừng Quang" (10-14.02) tại tu viện Vườn Ươm, Thái Lan:
+## Kệ truyền đăng trong đại giới đàn "Trừng Quang" (10-14.02) tại tu viện Vườn Ươm, Thái Lan:
 
 > **Thầy Thích Chân Phương Cần**  
 > *(Nguyễn Thế Lộc; Pháp danh: Nhuận Thọ)*
@@ -136,6 +50,8 @@ Kệ truyền đăng trong đại giới đàn "Trừng Quang" (10-14.02) tại 
 > > Ứng hiện tâm **linh** đẹp tuyệt trần  
 > > Có nhau nhiệm mầu trong tương **cảm**  
 > > Cử xướng tăng thân thực pháp thân
+
+{% image "article2024/Done-Review of the Year/Lamp transmission/Br. Phuong Can.JPG" %}
 
 > **Thầy Thích Chân Trời Nguyện Ước**  
 > *(Nguyễn Bá Nhật; Pháp danh: Tâm Nhuận Minh)*
@@ -215,7 +131,103 @@ Kệ truyền đăng trong đại giới đàn "Trừng Quang" (10-14.02) tại 
 > > Phổ Hiền mười hạnh nguyện  
 > > Làm lợi lạc chúng sanh
 
+## Kệ truyền đăng trong khóa tu xuất sĩ "Vững một niềm tin" (15-23.02) tại, Làng Mai Pháp:
 
-{% image "article2023/Lang-mai-nam-qua/truyen-dang-an-cu-2022/122_Lamp.Transmission.2022_img_8217_e.jpg" %}
+> **Thầy Thích Chân Trời Nội Tâm**  
+> *(Thế danh: Phạm Văn Tài)*
+> > **Trời nội** điển, ngày pho thủ tự  
+> > Nhập tánh không, đêm quán **tâm** kinh  
+> > Ơn thầy tổ nguyền xin tiếp nối  
+> > Một lên đường, sông núi chứng minh
 
-<div class="page-break"></div>
+> **Sư Cô Thích nữ Chân Trăng Hoa Tiên**  
+> *(Thế danh: Nguyễn Thị Quế Trâm)*
+> > Gót sen thiền tập cùng **Trăng**  
+> > **Hoa** tâm nở rộ thoát vòng thị phi  
+> > Dáng **Tiên** hiện nét uy nghi  
+> > Lắng nghe nhẫn hạnh từ bi cứu đời
+
+> **Sư cô Thích nữ Chân Trợ Nghiêm**  
+> *(Thế danh: Hoàng Thị Minh Nguyệt)*
+> > **Chân** tâm vắng duyên **trợ**  
+> > **Nghiêm** từ chẳng đến đi  
+> > Như Lai bậc như thị  
+> > Chánh Niệm vượt thị phi
+
+> **Sư cô Thích nữ Chân Trăng Quê Hương**  
+> *(Thế danh: Nguyễn Thị Kim Thạnh)*
+> > **Chân Trăng** là **Quê Hương**  
+> > Chiếc lá vốn bản môn  
+> > Pháp nhiệm ấy con đường  
+> > Lắng nghe hiểu và thương
+
+> **Sư cô Thích nữ Chân Trăng Mới Lên**  
+> *(Thế danh: Yuliana Wijaya)*
+> > Out of darkness **the moon** has just **risen**  
+> > Its guiding light illuminates our steps.  
+> > In this pure land of mindfulness and joy  
+> > I offer my service to all beings.
+
+> **Sư Cô Thích nữ Chân Trăng Thong Dong**  
+> *(Thế danh: Bùi Hồng Thu Quý)*
+> > **Trăng** xưa lập nguyện đại bi  
+> > Sao cho muôn loại tổng trì vô sanh  
+> > **Thong Dong** cùng chúng đồng hành  
+> > Ân đền nghĩa đáp dạ thành khắc ghi
+
+{% image "article2024/Done-Review of the Year/Lamp transmission/Sr. Nhan Nghiem.JPG", "noFloat lampT" %}
+{% image "article2024/Done-Review of the Year/Lamp transmission/Sr. Dan Nghiem.JPG", "noFloat lampT" %}
+<!-- {% image "article2024/Done-Review of the Year/Lamp transmission/Sr. Thien Nghiem.JPG", "noFloat lampT" %} -->
+{% image "article2024/Done-Review of the Year/Lamp transmission/Br. Noi Tam.JPG", "noFloat lampT" %}
+{% image "article2024/Done-Review of the Year/Lamp transmission/Lamp transmission 19.03 46.JPG", "noFloat lampT" %}
+
+{% image "article2024/Done-Review of the Year/Lamp transmission/Br. T Nguyen Uoc.JPG", "noFloat lampT" %}
+{% image "article2024/Done-Review of the Year/Lamp transmission/Br. T Ky Ngo.JPG", "noFloat lampT" %}
+{% image "article2024/Done-Review of the Year/Lamp transmission/Sr. Tro Nghiem.JPG", "noFloat lampT" %}
+{% image "article2024/Done-Review of the Year/Lamp transmission/Sr. Que Huong.JPG", "noFloat lampT" %}
+
+
+> **Sư cô Thích nữ Chân Trăng Lý Tưởng**  
+> *(Thế danh: Châu Thị Thu Sương)*
+> > Hé nụ cười chân thật, tuyệt vời  
+> > **Trăng** sao chiếu sáng khắp muôn nơi  
+> > Long lanh ánh mắt ngời **lý tưởng**  
+> > Sưởi ấm tình người giữa trùng khơi
+
+> **Sư cô Thích nữ Chân Trăng Chí Thành**  
+> *(Thế danh: Lê Thị Tư)*
+> > Vén mây **trăng** lộ diện  
+> > Tu tập dạ **chí thành**  
+> > Công phu không xao lãng  
+> > Sen nở cõi Trời Tây
+
+## Kệ truyền đăng ngày 11/4/2023 tại Bringelly, Úc, thầy Pháp Hải thay mặt tăng thân truyền đăng cho:
+
+> **Thầy Thích Chân Trời Bình Minh**  
+> *(Thế danh: Trương Văn Sen)*
+> > Tâm tạo **trời bình minh**  
+> > Toả sáng khắp mười phương  
+> > Xuyên suốt qua ba cõi  
+> > Hiện tại là quê hương  
+> > Đức căn dày muôn kiếp  
+> > Thành quả bậc trượng phu  
+> > Được hương gió lan toả
+
+> **Chân Hỷ Tạng**  
+> *(Thế danh: Faye Nhi Nguyen)*
+> > By seeing the nature of affinities planted since beginningless time  
+> > The authentic fruit of insight reveals itself as a **storehouse of joy**  
+> > Walking this ancient path suddenly we realize that there was never a time when we were not wonderful together  
+> > Sunflowers waving in the gentle breeze quietly reveal the wondrous Dharma Body
+
+> **Chân Minh Hải**  
+> *(Thế danh: Daya Heather Jepsen)*
+> > The **Ocean** of Wisdom is our ancient and true inheritance  
+> > The **bright** eyes of the Awakened One contemplate the nature if all things and see no coming and no going  
+> > On her path pf return, she carries the peaceful light of the moon  
+> > As a gracious offering to each living being
+
+{% image "article2024/Done-Review of the Year/Lamp transmission/Sr Ly Tuong.JPG", "noFloat lampT" %}
+{% image "article2024/Done-Review of the Year/Lamp transmission/Tuyen-Dang-T-Binh-Minh-1024x683.jpg", "noFloat" %}
+{% image "article2024/Done-Review of the Year/Lamp transmission/Truyen-Dang.-Daya-Heather-Jepsen-1024x682.jpg", "noFloat" %}
+{% image "article2024/Done-Review of the Year/Lamp transmission/Truyen-Dang-Faye-Nhi-Nguyen-1024x682.jpg", "noFloat" %}

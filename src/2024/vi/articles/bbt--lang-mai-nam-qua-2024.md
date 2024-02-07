@@ -234,9 +234,21 @@ Kể từ năm 2022, quý thầy xóm Thượng cùng các bạn trong Nông tr�
 
 Sáng ngày 19 tháng 10, tứ chúng Làng Mai đã vân tập về thiền đường Nước Tĩnh, chùa Pháp Vân, xóm Thượng để làm lễ đối thú An cư kiết đông. Số người an cư tại đạo tràng Mai Thôn trong mùa an cư kiết đông năm nay là *225 vị* (141 xuất sĩ -- 48 tỳ kheo, 78 tỳ kheo ni, 9 sadi, 6 sadi ni; và 84 cận sự nam và nữ). Trong mùa an cư này, đại chúng được nghe lại những bài giảng của Sư Ông về những đóng góp của đạo Bụt cho một nền đạo đức học toàn cầu. Chương trình ngày thứ Năm dành cho xuất sĩ thật đặc biệt, với nhiều lớp học theo các chủ đề đa dạng: đạo đức học so sánh, tâm lý học Phật giáo, văn hóa xuất sĩ... Điều này đem lại một sinh khí mới, đầy cảm hứng cho các xuất sĩ trong mùa an cư năm nay.
 
+{% image "article2024/Done-Review of the Year/Rains retreat/013.Varsavasana_2023-24_011724.jpg", "noFloat" %}
+{% image "article2024/Done-Review of the Year/Rains retreat/037.Varsavasana_2023-24_011724.jpg", "noFloat lmnqRainsSCCK" %}
+{% image "article2024/Done-Review of the Year/Rains retreat/030.Varsavasana_2023-24_011724.jpg", "noFloat" %}
+
+{% image "article2024/Done-Review of the Year/Rains retreat/041.Varsavasana_2023-24_011724.jpg", "noFloat" %}
+
+<div class="page-break"></div>
+
+{% image "article2024/Done-Review of the Year/ZASP/ZASP_logo.jpg", "noFloat zasp" %}
+
+<div class="removeTopMarginInFollowingElem"></div>
+
 ## Chương trình tu học trực tuyến "Thiền và Nghệ thuật bảo hộ hành tinh" *(15.10 – 3.12.2023)*
 
-Với năng lượng tu tập hùng hậu của mùa an cư, tăng thân xuất sĩ còn đồng thời yểm trợ cho chương trình tu học trực tuyến kéo dài bảy tuần với chủ đề "Thiền và Nghệ thuật bảo hộ hành tinh" ("Zen and the Art of Saving the Planet", gọi tắt là ZASP), mở đầu vào ngày 15.10 và kết thúc vào ngày 3.12. Đây là lần đầu tiên tăng thân có được một chương trình tu học trực tuyến được xây dựng công phu từ hình thức cho đến nội dung như vậy. Khoảng 1600 thiền sinh đến từ hơn 50 quốc gia đã tham gia khóa học bảy tuần này. Chương trình được xây dựng trong vòng một năm, từ năm 2022, và bắt đầu đưa vào thử nghiệm vào tháng Hai và tháng Năm năm 2023. Để biết thêm về ý nghĩa của chương trình tu học này, xin đọc bài viết "....." của thầy Trời Đức Niệm trong số báo này.
+Với năng lượng tu tập hùng hậu của mùa an cư, tăng thân xuất sĩ còn đồng thời yểm trợ cho chương trình tu học trực tuyến kéo dài bảy tuần với chủ đề "Thiền và Nghệ thuật bảo hộ hành tinh" ("Zen and the Art of Saving the Planet", gọi tắt là ZASP), mở đầu vào ngày 15.10 và kết thúc vào ngày 3.12. Đây là lần đầu tiên tăng thân có được một chương trình tu học trực tuyến được xây dựng công phu từ hình thức cho đến nội dung như vậy. Khoảng 1600 thiền sinh đến từ hơn 50 quốc gia đã tham gia khóa học bảy tuần này. Chương trình được xây dựng trong vòng một năm, từ năm 2022, và bắt đầu đưa vào thử nghiệm vào tháng Hai và tháng Năm năm 2023. Để biết thêm về ý nghĩa của chương trình tu học này, xin đọc bài viết "Thiền và nghệ thuật bảo hộ hành tinh" của thầy Trời Đức Niệm trong số báo này.
 
 ## Lời thỉnh cầu cùng ngồi yên yểm trợ hòa bình thế giới
 
@@ -610,6 +622,8 @@ Sunflowers waving in the gentle breeze quietly reveal the wondrous Dharma Body -
 
 {% renderFile "src/2024/vi/articles/includes/transmission-gathas-vn.md" %}
 
+<div class="page-break"></div>
+
 ## Năm lễ xuất gia
 
 <div class="removeIndentInFollowingElem"></div>
@@ -625,3 +639,11 @@ Trong năm 2023, tăng thân đã chào đón thêm 31 thành viên mới:
 Đầu năm 2024, vào dịp lễ Đại tường của Sư Ông, tăng thân chào đón thêm 11 thành viên của gia đình xuất gia:
 
  - **Cây Bàng** (ngày 23.01 tại Ni xá Diệu Trạm, Huế) gồm các sư chú: *Chân Nhất Trú, Chân Nhất Âm, Chân Nhất Lạc, Chân Nhất Giới;* và các sư cô: *Chân Mật Hạnh, Chân An Hạnh, Chân Hiếu Hạnh, Chân Lập Hạnh, Chân Quán Hạnh, Chân Đoan Hạnh, Chân Khánh Hạnh.*
+
+<div class="article-end"></div>
+
+ {% image "article2024/Done-Review of the Year/Novice ordination/Chuong vang family 2.jpg", "noFloat" %}
+{% image "article2024/Done-Review of the Year/Novice ordination/Daffodil ordination 2.jpg", "noFloat" %}
+{% image "article2024/Done-Review of the Year/Novice ordination/Indian almond tree family 2.jpg", "noFloat" %}
+{% image "article2024/Done-Review of the Year/Novice ordination/Longan ordination 1.JPG", "noFloat" %}
+{% image "article2024/Done-Review of the Year/Novice ordination/Toyon family 2.jpg", "noFloat" %}

@@ -1147,6 +1147,7 @@ figure#article2024Done-BrPhap-UngBrPhap-Unge {
 
 
 /* column-span images */
+figure.zasp,
 figure#article2024Done-Review-of-the-YearTNH-Center528562133967da665de4eo,
 figure#article2024Done-Review-of-the-YearGreat-Ordination-CeremonyDSC2314,
 figure#article2024Done-Memorial-CeremonyHueCeremonyLe-dai-tuong-1-copy,
@@ -1402,9 +1403,17 @@ figure.lmnqHFarmFirst img {
     object-fit: cover;
     height: 87.8mm;
 }
+figure.lmnqRainsSCCK img {
+    object-fit: cover;
+    height: 80.58mm;
+}
 figure.lmnqHFarmBig img {
     object-fit: cover;
     height: 78mm;
+}
+figure.lampT img {
+    object-fit: cover;
+    height: 57mm;
 }
 figure.lmnq7,
 figure.lmnq4-2,
@@ -1416,6 +1425,7 @@ figure#article2024Done-Review-of-the-YearMonastic-on-Tour9ee37f7c-830f-4a3f-ae2d
     height: 109mm;
 }
 
+figure.lampT,
 figure.lmnqHFarmBig,
 figure.lmnqEducators,
 figure.lmnqWakeUp,
