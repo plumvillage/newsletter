@@ -154,11 +154,10 @@ Một phần của Thầy ở lại cùng chúng con nơi thế giới hiện t�
 <div class="verse"><p>Giọt nước thành dòng sông thanh thản người về chơi biển lớn<br/>
 Bước chân nên cõi tịnh thảnh thơi ta lên dạo đồi cao</p></div>
 
-Thầy thanh thản ẩn tàng như lẽ tự nhiên của nhịp điệu sự sống, như mây bay, hoa nở, như sương sớm tan đi khi ánh mặt trời chiếu rọi. Đơn giản vì Thầy biết rằng không cần phải lo lắng cho chúng con nữa. Thầy là một vị thầy đầy lòng từ bi và cũng đầy tuệ giác. Những năm tháng còn bên cạnh, Thầy luôn nhắc nhở, chỉ dẫn chúng con trở về nương tựa nơi hải đảo tự thân, nơi vị thầy của chính mình. Để giờ đây, khi nghĩ về Thầy, chúng con có thương, có nhớ nhưng không bơ vơ, lạc lõng. Dù thực tập còn yếu kém, chúng con đã bước đi được trên đôi chân của chính mình.
-
 Bài kinh *Hải đảo tự thân* được nghe sáng hôm nay lại một lần nữa khiến chúng con xúc động và biết ơn lòng từ bi của Thầy.
-
 > “…Quý vị phải thực tập làm hải đảo tự thân, biết nương tựa nơi chính mình mà đừng nương tựa vào một kẻ nào khác, phải thực tập nương tựa vào hải đảo chánh pháp, biết nương tựa nơi chánh pháp chứ đừng nương tựa vào một hải đảo nào khác hay một ai khác…”
+
+Thầy thanh thản ẩn tàng như lẽ tự nhiên của nhịp điệu sự sống, như mây bay, hoa nở, như sương sớm tan đi khi ánh mặt trời chiếu rọi. Đơn giản vì Thầy biết rằng không cần phải lo lắng cho chúng con nữa. Thầy là một vị thầy đầy lòng từ bi và cũng đầy tuệ giác. Những năm tháng còn bên cạnh, Thầy luôn nhắc nhở, chỉ dẫn chúng con trở về nương tựa nơi hải đảo tự thân, nơi vị thầy của chính mình. Để giờ đây, khi nghĩ về Thầy, chúng con có thương, có nhớ nhưng không bơ vơ, lạc lõng. Dù thực tập còn yếu kém, chúng con đã bước đi được trên đôi chân của chính mình.
 
 <div class="article-end"></div>
 
