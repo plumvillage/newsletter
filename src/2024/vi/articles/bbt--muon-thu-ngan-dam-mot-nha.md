@@ -34,7 +34,7 @@ Giờ đây khi bước trên con đường Thầy đã mở ra, chúng con xin 
 
 Thầy không còn đó trong hình hài quen thuộc, nhưng chúng con được an ủi khi ý thức rằng Thầy vẫn ở bên chúng con trong tiếng lá xạc xào, trong sự tĩnh lặng của thiền định, trong những nụ cười, những giây phút im lặng suy tư và trong cuộc sống của tăng thân - một kiệt tác của Thầy. Thầy dạy chúng con rằng cuộc đời là vô thường, nhưng tình thương và sự hiểu biết là di sản có thể tồn tại từ thế hệ này qua thế hệ khác.
 
-Cảm ơn Thầy đã dìu dắt chúng con không mệt mỏi, yêu thương chúng con với lòng từ bi không bờ bến và dạy cho chúng con những bài học vô giá. Chúng con xin nguyện đem những lời dạy của Thầy làm ngọn đuốc soi đường để đi tới, giúp cho những chất liệu tinh túy của truyền thống Làng Mai tiếp tục được thăng hoa và chạm tới trái tim của nhiều người.
+Cảm ơn Thầy đã dìu dắt chúng con không mệt mỏi, yêu thương chúng con với lòng từ bi không bờ bến và dạy cho chúng con những bài học vô giá. Chúng con xin nguyện đem những lời dạy của Thầy làm ngọn đuốc soi đường để đi tới, giúp cho những tinh túy của truyền thống Làng Mai tiếp tục được thăng hoa và chạm tới trái tim của nhiều người.
 
 <p class="signoff"><span class="signoff-lvl-1">Với lòng kính thương và biết ơn sâu sắc,</span><br/>
 <span class="signoff-lvl-2">Chúng con, đệ tử của Thầy.</span></p>
