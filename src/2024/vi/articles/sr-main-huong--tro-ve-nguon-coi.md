@@ -9,7 +9,7 @@ author: Main Hương, Hồng Anh và Janny
 
 ## Một khóa tu thật khác biệt!
 
-Khi đến Làng Mai tu tập, trong niềm vui gặp gỡ các bạn thiền sinh đến từ khắp nơi trên thế giới, chúng tôi thường mong muốn được kết nối với những người bạn có cùng cội nguồn văn hóa. Trong những khóa tu khác mà chúng tôi từng tham gia, rất nhiều người trong chúng tôi thường có cảm giác không gian ở đó giống hệt như môi trường mà chúng tôi đã sinh sống và lớn lên, chỉ là những nhóm thiểu số ở trường học hay công sở, nhìn quanh may ra tìm được vài ba người bạn có cùng nguồn gốc văn hóa.
+Khi đến Làng Mai tu tập, trong niềm vui gặp gỡ các bạn thiền sinh đến từ khắp nơi trên thế giới, chúng tôi thường mong muốn được kết nối với những người bạn có cùng cội nguồn văn hóa. Trong những khóa tu khác mà chúng tôi từng tham gia, rất nhiều người trong chúng tôi thường có cảm giác không gian ở đó giống hệt như môi trường mà chúng tôi đã sinh sống và lớn lên, nơi mà chúng tôi chỉ là những nhóm thiểu số. Ở trường học hay công sở, nhìn quanh may ra tìm được vài ba người bạn có cùng nguồn gốc văn hóa.
 
 Tháng sáu vừa qua, khóa tu *Tìm về ngôi nhà đích thực* lần đầu tiên được tổ chức tại Làng Mai dành riêng cho những người trẻ Việt Nam và châu Á lớn lên ở nước ngoài. Chúng tôi chưa bao giờ gặp nhiều người trẻ gốc châu Á cùng tham dự một khóa tu ở Làng như vậy. Khi xung quanh đều là những người đã từng lớn lên với những khó khăn và thử thách vì bị mất kết nối với văn hóa Việt Nam và những kinh nghiệm sống của cha mẹ, chúng tôi cảm nhận một năng lượng thật khó tả. Có một niềm cảm thông sâu sắc mà không cần phải nói thành lời. 
 
@@ -35,7 +35,7 @@ Nhờ được tới với nhau và chia sẻ những kinh nghiệm thực tập
 
 {% image "article2024/Done-Coming home to our roots/Thay underneath Oak tree.jpg" %}
 
-Khi cùng ngồi ăn trưa dưới gốc cây sồi, sư cô Định Nghiêm chia sẻ với chúng tôi rằng Sư Ông đã từng giảng một vài bài pháp thoại đầu tiên ngay tại nơi đây. Những người cùng thế hệ cha mẹ chúng tôi đến Làng Mai từ những năm 1980, chỉ vài năm sau khi chiến tranh kết thúc, đã ngồi xung quanh Sư Ông để nghe pháp. Hồi đó, hầu hết những người Việt Nam tị nạn và những người sống xa quê hương đều tìm về Làng Mai, nơi mà họ có thể tìm thấy một chỗ nương tựa về tâm linh cũng như văn hóa. Họ cũng đã góp phần giúp Sư Ông, quý thầy và quý sư cô xây dựng Làng Mai trở thành như ngày hôm nay.
+Khi cùng ngồi ăn trưa dưới gốc cây sồi, sư cô Định Nghiêm chia sẻ với chúng tôi rằng Sư Ông đã từng giảng một vài bài pháp thoại đầu tiên ngay tại nơi đây. Những người cùng thế hệ cha mẹ chúng tôi đến Làng Mai từ những năm 1980, chỉ vài năm sau khi chiến tranh kết thúc, đã ngồi xung quanh Sư Ông để nghe pháp. Hồi đó, rất nhiều người Việt Nam tị nạn và những người sống xa quê hương đều tìm về Làng Mai, nơi mà họ có thể tìm thấy một chỗ nương tựa về tâm linh cũng như văn hóa. Họ cũng đã góp phần giúp Sư Ông, quý thầy và quý sư cô xây dựng Làng Mai trở thành như ngày hôm nay.
 
 Trong môi trường thiện lành và nuôi dưỡng này, cha mẹ chúng tôi có cơ hội chuyển hóa những vết thương của họ, cũng như cho thế hệ con cháu như chúng tôi được trở về tiếp xúc với cội nguồn dân tộc. Đám trẻ con chúng tôi được học hát và học nói tiếng Việt, được thưởng thức món ăn Việt, và mọi người đến với nhau để cùng cảm nhận rằng mình thuộc về nơi này, *tổ ấm ở ngoài tổ ấm*. 
 
