@@ -3,13 +3,13 @@ title: Giải tỏa hận thù, khơi suối yêu thương
 author: Sư cô Chân Thuận Nghiêm
 ---
 
-<div class="editors-preface"><p>Phái đoàn Làng Mai gồm sư cô Thuận Nghiêm, sư cô Trăng Linh Dị, thầy Trời Phạm Hạnh và thầy Trời Ruộng Pháp đã có chuyến hoằng pháp tại Israel và Palestine từ ngày 17.9 đến 9.10.2023. Chiến tranh bùng nổ ngay trong lúc phái đoàn đang hoằng pháp tại đây. BBT đã có cơ hội phỏng vấn sư cô Thuận Nghiêm về chuyến đi này. Dưới đây là những chia sẻ được trích từ buổi phỏng vấn.</p>
-
 <p>Chúng ta thường nghe nói về Trung Đông nhưng thật sự ít khi hình dung ra Trung Đông là như thế nào. Đó là một vùng đất chủ yếu là sa mạc và tôn giáo chính là Hồi giáo, ngôn ngữ chính là tiếng Ả Rập, ngoại trừ Israel sử dụng tiếng Hebrew. Trong thế chiến thứ nhất, nước Anh chiếm đóng một vùng đất có tên là Palestine, nơi một thiểu số người Do Thái và một số đông người Ả Rập sinh sống cùng với một số các dân tộc thiểu số khác. Năm 1917, căng thẳng bắt đầu xảy ra khi nước Anh được cộng đồng quốc tế giao cho thành lập một “tổ quốc” cho người Do Thái tại Palestine.</p>
 
 <p>Từ khi chiến tranh thế giới thứ hai nổ ra, nạn diệt chủng buộc những người Do Thái đang ở châu Âu quay lại Palestine. Các nỗ lực thành lập hai nhà nước Do Thái và Ả Rập tại Palestine của Liên Hiệp Quốc được người Do Thái chấp nhận nhưng người Palestine và các nước Ả Rập láng giềng phản đối. Do đó, người Do Thái đơn phương thành lập nước Israel vào năm 1948. Ngay sau đó, năm nước Ả Rập láng giềng đã khai chiến với nước Israel mới ra đời. Từ sau ngày đó, giao tranh giữa các chiến binh Do Thái và Ả Rập xảy ra liên miên. Hàng trăm ngàn người Palestine đã phải tháo chạy khỏi Palestine. Những người còn ở lại thì sống trong nhiều vùng khác nhau ở Israel và được gọi nôm na là Palestine.</p>
 
 <p>Cho đến ngày nay, Palestine vẫn chưa được toàn thế giới công nhận là một quốc gia và phải sống phụ thuộc vào Israel. Vì không phải là một quốc gia nên họ không có bất kỳ một quyền lợi nào trên trường quốc tế, và chỉ là một quan sát viên trong Liên Hợp Quốc.</p></div>
+
+<div class="editors-preface"><p>Phái đoàn Làng Mai gồm sư cô Thuận Nghiêm, sư cô Trăng Linh Dị, thầy Trời Phạm Hạnh và thầy Trời Ruộng Pháp đã có chuyến hoằng pháp tại Israel và Palestine từ ngày 17.9 đến 9.10.2023. Chiến tranh bùng nổ ngay trong lúc phái đoàn đang hoằng pháp tại đây. BBT đã có cơ hội phỏng vấn sư cô Thuận Nghiêm về chuyến đi này. Dưới đây là những chia sẻ được trích từ buổi phỏng vấn.</p>
 
 {% image "article2024/Done-sr-thuan-nghiem/IMG_3889.jpg" %}
 
@@ -32,7 +32,7 @@ Hơn một trăm người tham dự cả ngày quán niệm. Có một số ngư
 
 ## Hoằng pháp ở Palestine
 
-Quý thầy, quý sư cô thuê xe để lái qua Palestine và phải đi qua nhiều checkpoint. Ai cũng cảm nhận sự nghi kỵ, đề phòng, và bất an của những người lính trẻ Israel.
+Quý thầy, quý sư cô thuê xe để lái qua Palestine và phải đi qua nhiều checkpoint (trạm kiểm soát). Ai cũng cảm nhận sự nghi kỵ, đề phòng, và bất an của những người lính trẻ Israel.
 
 Tại đây, mọi việc đều do quý thầy, quý sư cô điều động, hướng dẫn người địa phương tổ chức. Vì không có tăng thân địa phương, chỉ có một vài người trẻ và một gia đình với hai thiếu niên đã từng đến Làng Mai tu tập nên việc tổ chức khá bề bộn và bất trắc.
 
@@ -56,13 +56,13 @@ Ngày 7 tháng 10 dự định là ngày quán niệm cuối cùng cho người 
 
 Sáng ngày hôm đó, khi đang lái xe đến địa điểm tổ chức ngày quán niệm ở Palestine, đột nhiên có tiếng nổ lớn trên trời. Quý sư cô không biết chuyện gì đang diễn ra cũng như tiếng nổ xuất phát từ đâu. Lúc đó, những người xung quanh chỉ lên trời thì thấy những mảnh tên lửa đang rơi lả tả trên không trung. Tên lửa được bắn vào Israel từ Dải Gaza, một nơi thuộc về chính quyền Palestine nhưng do Israel kiểm soát không phận và đường biển. Khi đó ai cũng hiểu rằng chiến tranh đã nổ ra.
 
-Người Palestine rất phấn khích và căng thẳng vì biết rằng Israel sẽ trả thù nhưng không ai có thể tiên đoán được mức độ hủy diệt và tàn sát như thế giới đã chứng kiến hai tháng vừa qua.
+Người Palestine rất khích động và căng thẳng vì biết rằng Israel sẽ trả thù nhưng không ai có thể tiên đoán được mức độ hủy diệt và tàn sát như thế giới đã chứng kiến hai tháng vừa qua.
 
 Tăng thân Israel biết quý thầy và quý sư cô vẫn chưa bay về Làng được vì các chuyến bay đều bị hủy, họ liên tục gọi đến xin những buổi sinh hoạt trực tuyến để họ có cơ hội thực tập, làm dịu xuống những lo lắng, sợ hãi, khủng hoảng và thù hận đang đi lên trong lòng. Mỗi ngày, khi phải nghe những tiếng súng, tiếng bom, hay thấy cảnh giết chóc, bắt cóc con tin diễn ra, họ vô cùng khổ sở.
 
 Trong những ngày ở đó, tiếng bom đạn vang rền suốt cả ngày lẫn đêm. Hai bên đánh nhau ác liệt nhất là vào ban đêm. Những giây phút đó, những bộ phận trong thân thể như tim, gan, phổi,… đều căng thẳng và mong manh lắm. Trong hoàn cảnh như vậy, quý thầy và quý sư cô cố gắng duy trì sự thực tập của mình. Phải nắm lấy hơi thở, thực tập miên mật, đặt sự chú tâm vào những cử động của thân thể để có đủ năng lượng bình an hiến tặng cho những người xung quanh.
 
-Quý thầy và quý sư cô làm hết những gì trong khả năng để giúp họ lắng dịu những bồn chồn, thù hận, tuyệt vọng trong lòng. Những người Palestine sống tại Israel bị hạn chế đi lại, chỉ được ra khỏi nhà trong bán kính 1km đến hiệu thuốc hoặc chợ. Họ đè nén trong lòng rất nhiều cảm xúc như sự căm thù và sợ hãi.
+Quý thầy và quý sư cô làm hết khả năng để giúp tăng thân lắng dịu những bồn chồn, thù hận, tuyệt vọng trong lòng. Những người Palestine sống tại Israel bị hạn chế đi lại, chỉ được ra khỏi nhà trong bán kính 1km đến hiệu thuốc hoặc chợ. Họ đè nén trong lòng rất nhiều cảm xúc như sự căm thù và sợ hãi.
 
 <!-- {% image "article2024/Done-sr-thuan-nghiem/IMG_3963.jpg" %} -->
 <!-- {% image "article2024/Done-sr-thuan-nghiem/IMG_4068.jpg" %} -->
@@ -74,7 +74,7 @@ Khi sống với sự thù hận như vậy, ta không thể nào có bình an �
 
 Ở Israel có rất nhiều tăng thân địa phương cũng như rất nhiều vị giáo thọ kì cựu. Có những vị đã biết Thầy và thực tập từ năm 1997, khi Thầy có chuyến hoằng pháp ở đây. Những vị đó đã giúp Thầy tổ chức khóa tu. Cho đến bây giờ họ vẫn tiếp tục thực tập. Còn ở Palestine hầu như chưa có gì hết.
 
-Trong tương lai, quý thầy, quý sư cô sẽ có nhiều cơ hội mang giáo pháp, mang sự thực tập chánh niệm đến chia sẻ với những người dân nơi đây, giúp họ có được bình an trong đời sống hằng ngày. Nếu họ thực tập hay, sự tỉnh thức lan tỏa ra cả cộng đồng thì có thể một ngày nào đó, người dân Palestine có thể làm được những điều họ mong muốn, như thành lập được quốc gia của mình mà không cần phải dùng đến bạo lực để đạt được mục tiêu đó.
+Trong tương lai, quý thầy, quý sư cô sẽ có nhiều cơ hội mang giáo pháp, mang sự thực tập chánh niệm đến chia sẻ với những người dân nơi đây, giúp họ có được bình an trong đời sống hằng ngày. Nếu họ thực tập có hiệu quả, sự tỉnh thức lan tỏa ra cả cộng đồng thì có thể một ngày nào đó, người dân Palestine có thể làm được những điều họ mong muốn, như thành lập được quốc gia của mình mà không cần phải dùng đến bạo lực để đạt được mục tiêu đó.
 
 <div class="article-end"></div>
 
