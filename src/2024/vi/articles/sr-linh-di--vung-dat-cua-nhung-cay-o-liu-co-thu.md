@@ -11,9 +11,9 @@ Chúng con, bốn người con xuất sĩ của Thầy, đang ở miền Đất 
 
 {% image "article2024/Done-sr-linh-di/4b0fc9b1-47ca-49f3-8d3c-8395efe91e73_e.JPG" %}
 
-Cuộc sống giống như một bức tranh cát đã lật ngược lại, và chúng ta không thể biết cảnh tượng tiếp theo sẽ diễn ra như thế nào.
+Cuộc sống giống như một bức tranh cát bị lật ngược lại, và chúng ta không thể biết cảnh tượng tiếp theo sẽ diễn ra như thế nào.
 
-Thầy kính thương, con đã rất sợ hãi. Con không biết liệu mình có thể gặp lại cha và mẹ nữa hay không. Nằm trong bóng tối, hơi thở sâu và đều đặn, con nhìn thấy Thầy, đang đứng trước những ngôi làng bị phá hủy và đang hối thúc những người dân xây dựng lại làng xóm hết lần này đến lần khác. Con nhìn thấy tăng thân đang thực tập sám pháp địa xúc, cả một biển y vàng phủ phục dưới đất. Và con nhìn thấy bà nội của con, người đã đưa bảy đứa con mình ra khỏi vùng chiến tranh, mỉm cười và thì thầm: “Các con sẽ bình an thôi. Các con đều có sức mạnh của bà”.
+Thầy kính thương, con đã rất sợ hãi. Con không biết liệu mình có thể gặp lại cha và mẹ nữa hay không. Nằm trong bóng tối, hơi thở sâu và đều đặn, con nhìn thấy Thầy đang đứng trước những ngôi làng bị phá hủy và đang khích lệ những người dân xây dựng lại làng xóm hết lần này đến lần khác. Con nhìn thấy tăng thân đang thực tập sám pháp địa xúc, cả một biển y vàng phủ phục dưới đất. Và con nhìn thấy bà nội của con, người đã đưa bảy đứa con mình ra khỏi vùng chiến tranh, mỉm cười và thì thầm: “Các con sẽ bình an thôi. Các con đều có sức mạnh của bà”.
 
 Chúng con đến miền Đất Thánh này để hiểu, để kết nối mọi người lại trong từng hơi thở, từng bước chân, và để lắng nghe nhau trong sự bình an.
 
@@ -39,7 +39,7 @@ Chúng con gặp rất nhiều người với những hoàn cảnh khác nhau, n
 
 Ôi, em bé đáng thương! Chắc em đã phải chịu đựng những cơn đói và phải tranh giành đồ ăn trong suốt tuổi thơ của em. Suốt cuộc đời mình, con chưa bao giờ bị bỏ đói. Biết rằng có rất nhiều em bé khác ở khắp nơi vẫn phải chịu đói khát và sợ hãi, con càng có thêm động lực cho chí nguyện sống một đời sống giản dị.
 
-Khi chúng con gặp linh mục Công giáo Sami Awad, cũng đồng thời là nhà hoạt động hòa bình, linh mục chia sẻ rằng suốt những năm ông làm việc cùng những nhà hoạt động hòa bình khác, ông nhận ra rằng nhiều người không tạo ra những điều kiện để có hòa bình, mà là để cảm thấy an toàn — nghĩa là sự nghiệp hoạt động hòa bình của họ bị chi phối bởi nỗi sợ hãi.
+Khi chúng con gặp Linh mục Công giáo Sami Awad, cũng đồng thời là nhà hoạt động hòa bình, Linh mục chia sẻ rằng suốt những năm ông làm việc cùng những nhà hoạt động hòa bình khác, ông nhận ra rằng nhiều người không tạo ra những điều kiện để có hòa bình, mà là để cảm thấy an toàn — nghĩa là sự nghiệp hoạt động hòa bình của họ bị chi phối bởi nỗi sợ hãi.
 
 Những người lớn đến tham gia khóa tu hay ngày quán niệm thường khéo léo che giấu nỗi sợ hãi của họ. Mặc dầu vậy, chúng con vẫn có thể nhận thấy sự bối rối của vài người khi “chỗ ngồi an toàn” của họ bị người khác ngồi vào; một số khác không cảm thấy bình an khi thực tập thiền buông thư; vài người khác rất dễ giật mình khi nghe tiếng động bất ngờ …
 
