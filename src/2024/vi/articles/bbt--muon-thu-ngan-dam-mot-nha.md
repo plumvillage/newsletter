@@ -87,7 +87,7 @@ Mỗi thành viên trong tăng thân hiến tặng cho nhau từng nụ sen búp
 
 <div style="height: 3em"></div>
 
-Phiên chợ quê chào đón tăng thân xuất sĩ khắp các trung tâm trở về Tổ đình Từ Hiếu và Ni xá Diệu Trạm đã diễn ra rất ấm áp. Nhiều món ăn quê hương được trang trí rất đẹp. Thầy ơi, chúng con ý thức rất rõ là Thầy đang có mặt với chúng con ở đây, như những lần Thầy đã có mặt trong Hội chợ xuân ở xóm Mới, Hội hoa mai ở xóm Hạ hay Hội hoa thủy tiên ở xóm Thượng. Chúng con đi cùng Thầy, thưởng thức sự sống cùng Thầy, thưởng thức tình Thầy trò, tình huynh đệ cùng Thầy.
+Phiên chợ quê chào đón tăng thân xuất sĩ khắp các trung tâm trở về Tổ đình Từ Hiếu và Ni xá Diệu Trạm đã diễn ra rất ấm áp. Nhiều món ăn quê hương được trang trí rất đẹp. Thầy ơi, chúng con ý thức rất rõ là Thầy đang có mặt với chúng con ở đây, như những lần Thầy đã có mặt trong Hội chợ xuân ở xóm Mới, Hội hoa mai ở xóm Hạ hay Hội hoa thủy tiên ở xóm Thượng. Chúng con đi cùng Thầy, thưởng thức sự sống cùng Thầy, thưởng thức tình thầy trò, tình huynh đệ cùng Thầy.
 
 Trong phiên chợ quê, có một quầy hàng bé bé, xinh xinh trưng bày những viên ngói cũ dỡ ra từ mái thất Lắng Nghe. Viên ngói nào cũng mang chút rong rêu, sương gió, thời gian, vốn đã là một bức tranh rất thơ, các sư em vẽ tranh và viết thư pháp lên đó tạo nên một bức tranh trong bức tranh, rất thiền, rất yêu. Vậy là tấm ngói cũ đã trở nên rất mới trong tay chúng con, có bóng dáng Thầy, có năng lượng Thầy trong đó.
 
