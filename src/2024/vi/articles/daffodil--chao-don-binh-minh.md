@@ -1,6 +1,6 @@
 ---
 title: Chào đón bình minh
-author: Phỏng vấn gia đình Daffodil
+author: Phỏng vấn gia đình Hoa Thủy Tiên
 ---
 
 <!-- https://plumvillage.org/articles/daffodil-family-ordination-ceremony-2023
@@ -74,7 +74,7 @@ Nhưng vì không xin được visa để sang Mỹ, con đến một tu viện 
 
 {% image "article2024/Done-Daffodil family/Br.Nhat Luong_e2.jpg" %}
 
-Sau đó con đến một tu viện trên núi ở Hồng Kông và ngụ ở đó ba tháng. Rất là tuyệt vời nhưng con cũng không dừng lại ở đó. Vào năm 2012, con tham gia truyền thống hành thiền trong rừng của Thái Lan (Thai Forest tradition), và cuối cùng đã xuất gia ở đó được bốn tháng. Thế nhưng một lần nữa, con lại không hòa nhập được văn hóa và sự thực tập ở đây đối với con có vẻ quá khuôn khổ. Cho đến lúc con bị mất ngủ triền miên và trở nên trầm cảm, con quyết định phải rời khỏi nơi đó.
+Sau đó, con đến một tu viện trên núi ở Hồng Kông và ngụ ở nơi này ba tháng. Rất là tuyệt vời nhưng con cũng không dừng lại ở đó. Vào năm 2012, con tham gia truyền thống hành thiền trong rừng của Thái Lan (Thai Forest tradition), và cuối cùng đã xuất gia được bốn tháng. Thế nhưng một lần nữa, con lại không hòa nhập được văn hóa và sự thực tập ở đây đối với con có vẻ quá khuôn khổ. Cho đến lúc con bị mất ngủ triền miên, trở nên trầm cảm và con quyết định phải rời đi.
 
 Con đã dành ra mười năm sau đó để suy xét lại tình hình của mình. Nhưng dù con có mở lòng ra để trải nghiệm cả những thực tập bên ngoài đạo Bụt, ước nguyện xuất gia vẫn chưa bao giờ phai nhạt trong con. Từ đó đến nay con đã có những bước tiến khá xa và mối liên hệ với tự thân đã rất khác xưa. Con không biết tin khi Sư Ông viên tịch, nhưng không hiểu sao hôm đó con khóc khi đang ngồi thiền. Con tự hỏi: “Tại sao mình khóc? Chẳng lẽ có ai mất hay sao?”. Sau đó con được tin là Sư Ông đã viên tịch. Cuối cùng con đến Làng Mai dự một khóa tu và nghĩ rằng có lẽ đây là một nơi thích hợp để sống đời xuất sĩ.
 
@@ -109,7 +109,7 @@ Con thường liên lạc với các vị xuất sĩ qua một số việc như 
 
 **Sư cô Chân Đôn Hạnh:** Sống chung với nhiều người đối với con là một thực tập rất quan trọng bởi vì nhờ đó con có thể mở lòng, hiểu được nhu cầu của người khác và học cách yểm trợ lẫn nhau. Con cũng học được cách lắng nghe và tôn trọng những giới hạn của chính mình. Những ngày hè bận rộn, con rất thích vào rừng mắc võng để thư giãn và làm mình tươi mới lại.
 
-**Sư cô Chân Đăng Hạnh:** Từ năm mười một tuổi, con đã có phòng riêng. Sống một mình một cõi là cách để con phòng thủ bởi vì thường thường con hay nhìn quanh để đoán xem người khác có đang phán xét mình hay không. Sống trong tăng thân là một sự thực tập miên mật giúp con chuyển hóa nỗi lo lắng đó. Con đang được bao bọc bởi những người dễ thương trong một môi trường cũng dễ thương.
+**Sư cô Chân Đăng Hạnh:** Từ năm mười một tuổi, con đã có phòng riêng. Sống một mình một cõi là cách để con phòng thủ, bởi vì thường thường con hay nhìn quanh để đoán xem người khác có đang phán xét mình hay không. Sống trong tăng thân là một sự thực tập miên mật giúp con chuyển hóa nỗi lo lắng đó. Con đang được bao bọc bởi những người dễ thương trong một môi trường cũng dễ thương.
 
 {% image "article2024/Done-Daffodil family/Br.Nhat Nguyen_e.jpg" %}
 
@@ -117,7 +117,7 @@ Con thường liên lạc với các vị xuất sĩ qua một số việc như 
 
 Một trong những khó khăn khi sống trong đoàn thể là con không biết cách ứng xử sao cho phù hợp. Chào, hay không chào? Người kia có muốn nghe mình chia sẻ về niềm vui của mình không nhỉ? Sống tập thể là cách hay nhất để con hiểu chính mình, mình là ai, mình nên hành xử ra sao. Khi đi ngủ, con thích nghĩ về những người sống cùng phòng và gửi tình thương đến cho họ. Điều này làm cho con thấy rất hạnh phúc.
 
-**Sư cô Chân Diệu Hạnh:** Con thấy rất rõ ràng là sống trong đoàn thể và nhất là cùng phòng với người khác yểm trợ sự thực tập của con và con rất vui. Một môi trường bình an và chánh niệm giúp mình tu dễ hơn nhiều. Dĩ nhiên là con cần thời gian để làm quen với mọi người. Con luôn thích được kết nối với nhiều người mới nhưng con cũng cảm thấy hơi căng một chút vì không biết phải hành xử thế nào cho phải, e làm phiền người khác. Nhưng con cũng thấy mình có khuynh hướng thích nghi với môi trường đẹp này một cách nhanh chóng, đôi khi lại lo lắng thái quá về những khó khăn lặt vặt. Khi đó con tự nhắc mình về những điều kiện thuận lợi mình đang có. Nếu con không có hạnh phúc khi ở đây thì con có thể sống ở đâu được nữa?
+**Sư cô Chân Diệu Hạnh:** Con thấy rất rõ ràng là sống trong đoàn thể và nhất là cùng phòng với người khác yểm trợ sự thực tập của con và con rất vui. Một môi trường bình an và chánh niệm giúp mình tu dễ hơn nhiều. Dĩ nhiên là con cần thời gian để làm quen với mọi người. Con luôn thích được kết nối với nhiều người mới, nhưng con cũng cảm thấy hơi căng một chút vì không biết phải hành xử thế nào cho phải, e làm phiền người khác. Nhưng con cũng thấy mình có khuynh hướng thích nghi với môi trường đẹp này một cách nhanh chóng, đôi khi lại lo lắng thái quá về những khó khăn lặt vặt. Khi đó con tự nhắc mình về những điều kiện thuận lợi mình đang có. Nếu con không có hạnh phúc khi ở đây thì con có thể sống ở đâu được nữa?
 
 **Sư chú Chân Nhất Vũ:** Sau hai mươi năm sống độc thân, con phải thú thật là năm đầu tiên sống trong phòng tập thể có bảy người còn *hơn cả thử thách*. Tiếng ồn, nhịp điệu của cuộc sống hàng ngày, cảm giác không có một nơi riêng tư để nương tựa — con phải học làm quen với tất cả những điều mới mẻ này, và buông bỏ tất cả những điều trước đây mình đã quen thuộc. Một thực tập rất tốt cho cái tâm cá nhân chủ nghĩa của con. Về mặt tích cực thì chia sẻ đồ dùng và nương tựa tăng thân làm con thấy khỏe và vui.
 
