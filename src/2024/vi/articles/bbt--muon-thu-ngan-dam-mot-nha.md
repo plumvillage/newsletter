@@ -19,7 +19,7 @@ Là đệ tử của Thầy, chúng con thấy mình rất may mắn được đ
 
 Chúng con học được từ tấm gương ngời sáng của Thầy rằng ngay cả khi đối mặt với nghịch cảnh và khó khăn, ngọn lửa của chí nguyện vẫn có thể bùng cháy rực rỡ, không hề suy giảm.
 
-Cuộc đời Thầy chính là thông điệp mà Thầy muốn gửi đến mọi người: ôm lấy cả bùn lẫn sen của cuộc đời, với tấm lòng bền bỉ, kiên cường, nỗ lực không mỏi mệt vì hòa bình. Trong những thời kỳ đen tối nhất, Thầy vẫn đứng vững như một ngọn hải đăng hy vọng, chứng minh cho mọi người rằng sự bình an của mỗi cá nhân chính là nền tảng cho hòa bình của nhân loại.
+Cuộc đời Thầy chính là thông điệp mà Thầy muốn gửi đến mọi người: ôm lấy cả bùn lẫn sen của cuộc đời với tấm lòng bền bỉ, kiên cường, nỗ lực không mỏi mệt vì hòa bình. Trong những thời kỳ đen tối nhất, Thầy vẫn đứng vững như một ngọn hải đăng hy vọng, chứng minh cho mọi người rằng sự bình an của mỗi cá nhân chính là nền tảng cho hòa bình của nhân loại.
 
 {% image "article2024/Done-Memorial-Ceremony/40_Su_Ong_2nd_Year_Memorial_220124.jpg", "noFloat" %}
 {% image "article2024/Done-Memorial-Ceremony/10_Su_Ong_2nd_Year_Memorial_220124.jpg", "noFloat" %}
