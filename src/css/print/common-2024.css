@@ -1355,9 +1355,12 @@ figure.hueMemorial img {
     object-fit: cover;
     height: 51mm;
 }
-figure.transmissionCeremony img {
+figure.lmnq1 img {
     object-fit: cover;
-    height: 63mm;
+    height: 59mm;
+}
+figure.lmnq1top {
+    padding-top: 13mm;
 }
 figure.lmnq3 img {
     object-fit: cover;
@@ -1367,6 +1370,43 @@ figure.lmnq4 img {
     object-fit: cover;
     height: 47mm;
 }
+figure.lmnq6 img {
+    object-fit: cover;
+    height: 56mm;
+}
+figure.lmnq7 img {
+    object-fit: cover;
+    height: 66mm;
+}
+figure.lmnqSummer img {
+    object-fit: cover;
+    height: 88mm;
+}
+figure.lmnqWakeUp img {
+    object-fit: cover;
+    height: 54mm;
+}
+figure.lmnqWakeUpSlim img {
+    object-fit: cover;
+    height: 34.7mm;
+}
+figure.lmnqEducators img {
+    object-fit: cover;
+    height: 51mm;
+}
+figure.lmnqHFarm img {
+    object-fit: cover;
+    height: 47mm;
+}
+figure.lmnqHFarmFirst img {
+    object-fit: cover;
+    height: 87.8mm;
+}
+figure.lmnqHFarmBig img {
+    object-fit: cover;
+    height: 78mm;
+}
+figure.lmnq7,
 figure.lmnq4-2,
 figure.lmnq4 {
     margin-top: 0.3em;
@@ -1376,6 +1416,10 @@ figure#article2024Done-Review-of-the-YearMonastic-on-Tour9ee37f7c-830f-4a3f-ae2d
     height: 109mm;
 }
 
+figure.lmnqHFarmBig,
+figure.lmnqEducators,
+figure.lmnqWakeUp,
+figure.lmnqSummer,
 figure#article2024Done-Review-of-the-YearMonastic-on-Tour9ee37f7c-830f-4a3f-ae2d-bca7bdf6943a,
 figure.lmnq4,
 figure.lmnq3,
