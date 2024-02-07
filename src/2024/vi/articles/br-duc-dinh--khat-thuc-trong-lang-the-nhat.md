@@ -1,5 +1,5 @@
 ---
-title: Khất thực trong làng Thệ Nhật
+title: Khất thực trong làng Thénac
 author: Thầy Chân Trời Đức Định
 ---
 <!-- title: Bình bát của Như -->
@@ -12,7 +12,7 @@ Vào đầu mùa an cư kết đông 2023 — 2024, tôi đề nghị ý tưởn
 
 ## Một cơ thể, một trái tim
 
-Sáng thứ bảy, 13.01.2024, hai nhóm xuất sĩ mang bình bát đi thiền hành tới Thénac, ngang qua những cánh đồng miền quê nước Pháp. Quang cảnh bên đường, từng hàng cây ngọn cỏ đều trắng tinh vì phủ đầy sương giá. Khi đến nhà của các bạn cư sĩ hàng xóm, sau khi được cúng dường, quý thầy tụng bài “Cát tường” để hộ niệm cho thí chủ, đoạn xá chào cảm ơn, rồi tiếp tục bước thiền hành.
+Sáng thứ bảy, 13.01.2024, hai nhóm xuất sĩ mang bình bát đi thiền hành tới Thénac, ngang qua những cánh đồng miền quê nước Pháp. Quang cảnh bên đường, từng hàng cây ngọn cỏ đều trắng tinh vì phủ đầy sương giá. Khi đến nhà của các bạn cư sĩ hàng xóm, sau khi được cúng dường, quý thầy tụng bài *Cát tường* để hộ niệm cho thí chủ, đoạn xá chào cảm ơn, rồi tiếp tục bước thiền hành.
 
 Khi các huynh đệ cùng đi với nhau trong tĩnh lặng, tôi cảm thấy tất cả chúng tôi cùng thuộc về một cơ thể, một trái tim. Tôi cảm được sự gắn bó và có cùng chung một niềm hạnh phúc với huynh đệ. Nhóm khất thực của chúng tôi sắp xếp hai hàng đi song song với nhau và cất bình bát trong túi bọc khi đi trên một đoạn đường dài, lúc gần đến nhà cư sĩ, chúng tôi đổi lại đi hàng một, tay nâng bình bát. Cứ như trong một vũ điệu, chúng tôi hòa vào một dòng chảy. Khi vị đầu tiên dừng lại, tất cả các thầy đều dừng lại một lượt, lấy bình bát ra cùng một lượt. Tôi có thể cảm được quý thầy đi phía sau sẵn sàng hay chưa nhờ lắng nghe sự yên lặng rất bình an của cả đoàn.
 
@@ -25,11 +25,11 @@ Khi các huynh đệ cùng đi với nhau trong tĩnh lặng, tôi cảm thấy 
 
 Khi quý thầy trở về xóm Thượng thì các bạn thiền sinh cùng tham dự an cư, thiền sinh dài hạn và các cư sĩ sống ở vùng lân cận đang chấp tác một cách vui vẻ. Người thì giúp trang hoàng thiền đường, người khác nấu nướng trong bếp hoặc giúp dọn dẹp xóm. Chốc chốc lại có các bạn cư sĩ từ nhà tới, mang theo một món ngon nào đó.
 
-Đến giờ ăn trưa, đại chúng bắt đầu đi theo thứ tự để khất thực. Quý thầy đi đầu, theo thứ tự hạ lạp, và được các vị thiền sinh cúng dường thức ăn vào bình bát. Trong khi tiếp nhận thức ăn, tôi có một chút hồi hộp nhưng rất vui khi thấy các bạn rất hết lòng tiếp thức ăn cho quý thầy.
+Đến giờ ăn trưa, đại chúng bắt đầu đi theo thứ tự để khất thực. Quý thầy đi đầu, theo thứ tự hạ lạp, và được các vị thiền sinh cúng dường thức ăn vào bình bát. Trong khi tiếp nhận thức ăn, tôi có một chút hồi hộp nhưng rất vui khi thấy các bạn rất hết lòng sớt bát cho quý thầy.
 
-Sau đó các bạn thiền sinh cũng được tiếp thức ăn. Rồi tất cả cùng đi vào thiền đường để dùng cơm trong im lặng, cùng chia sẻ với nhau các loại trái cây khô, hạt, và những thức ăn khác mà quý thầy đã nhận được từ buổi khất thực ban sáng trong làng Thénac.
+Sau đó các bạn thiền sinh cũng được nhận thức ăn vào bát. Rồi tất cả cùng đi vào thiền đường để dùng cơm trong im lặng, cùng chia sẻ với nhau các loại trái cây khô, hạt, và những thức ăn khác mà quý thầy đã nhận được từ buổi khất thực ban sáng trong làng Thénac.
 
-Tôi còn nhớ một hôm trước ngày khất thực, khi đi bộ ngang nhà của một bạn cư sĩ, nhìn qua cửa sổ thấy bạn đang nấu nướng, tôi thoáng nghĩ có lẽ bạn ấy đang chuẩn bị cho buổi cúng dường ngày mai, lòng thấy cảm động và biết ơn. Chắc là ngay lúc ấy có nhiều vị cư sĩ khác cũng đang háo hức chuẩn bị thức ăn cúng dường cho quý thầy.
+Tôi còn nhớ một hôm trước ngày khất thực, khi đi bộ ngang nhà của một bạn cư sĩ, nhìn qua cửa sổ thấy bạn đang nấu nướng, tôi thoáng nghĩ có lẽ bạn ấy đang chuẩn bị cho buổi cúng dường ngày mai, lòng thấy cảm động và biết ơn. Chắc là ngay lúc ấy có nhiều vị cư sĩ khác cũng đang chuẩn bị thức ăn cúng dường cho quý thầy.
 
 Toàn bộ sự kiện là một cơ hội để cho quý thầy nhận diện và kết nối với các vị thiền sinh cư sĩ, những người đã chuyển nhà đến sống gần tu viện. Hàng ngày, kể cả các ngày quán niệm, thường thì quý thầy không nhận ra các vị cư sĩ này là ai, nhất là khi họ không nói cùng một thứ tiếng và không cùng pháp đàm trong một nhóm với quý thầy.
 
@@ -48,7 +48,7 @@ Lúc đi khất thực ngoài làng, tại ngôi nhà đầu tiên, tôi đã nh
 
 Là một thầy tu, tôi có thể cống hiến sự thực tập hết lòng của mình, học hỏi để hiểu và sống những gì mình học, kể cả tình thương lớn mà Bụt Tổ đã trao truyền cho tôi. Khi nhận thức cúng dường, tôi được nhắc nhở rằng mình cần hết lòng dấn thân để thực hiện những điều mà tôi mong mỏi nhất cho bản thân và cho cuộc đời.
 
-Khi một vị thiền sinh cúng dường tăng thân, hoặc đóng góp tiền rau đậu để dự một khóa tu từ số lương ít ỏi mà họ kiếm được, thì họ cũng sẽ được nhắc nhở một điều tương tự: đó là ước nguyện sâu sắc nhất của họ. Đây là một điều thật sự rất tuyệt vời giúp tôi nhìn thấy, cảm nhận, được đánh động và mỉm cười trước mối liên hệ tương dung, tương quan của vạn vật.
+Khi một vị thiền sinh cúng dường tăng thân, hoặc đóng góp tiền rau đậu để dự một khóa tu từ số lương ít ỏi mà họ kiếm được, thì họ cũng sẽ được nhắc nhở về ước nguyện sâu sắc nhất của họ. Đây là một điều thật sự rất tuyệt vời giúp tôi nhìn thấy, cảm nhận, được đánh động và mỉm cười trước mối liên hệ tương dung, tương quan của vạn vật.
 
 <div class="verse"><p>Bình bát của Như Lai<br/>
 Nay được nâng trên tay<br/>
