@@ -3,7 +3,7 @@ title: Áo nâu phai màu nắng
 author: Thầy Chân Pháp Ứng
 ---
 
-<div class="editors-preface"><p>Ngày 11.12.2023, gia đình xuất gia Con Cá tròn 30 tuổi. Sau 30 năm, số “cá” trưởng thành còn lại hai phần ba, nghĩa là từ sáu vị còn lại bốn vị, hiện giờ đều là quý thầy, quý sư cô lớn của Làng Mai. Thầy Pháp Ứng là một trong bốn “con cá” còn lại, bên cạnh sư cô Thoại Nghiêm, sư cô Định Nghiêm và sư cô Tuệ Nghiêm. Dưới đây là những chia sẻ của thầy Pháp Ứng trong buổi ngồi chơi với BBT nhân dịp này.</p></div>
+<div class="editors-preface"><p>Ngày 11.12.2023, gia đình xuất gia Con Cá tròn 30 tuổi. Sau 30 năm, số “cá” trưởng thành còn lại hai phần ba, nghĩa là từ sáu vị còn lại bốn vị, hiện giờ đều là những trụ cột của Làng Mai. Thầy Pháp Ứng là một trong bốn “con cá” còn lại, bên cạnh sư cô Thoại Nghiêm, sư cô Định Nghiêm và sư cô Tuệ Nghiêm. Dưới đây là những chia sẻ của thầy Pháp Ứng trong buổi ngồi chơi với BBT nhân dịp này.</p></div>
 
 ## Hạt đậu năm xưa hé miệng cười
 
@@ -32,7 +32,7 @@ Trong những năm kề cận Sư Ông để học hỏi và tu tập, Pháp Ứ
 
 Tính của Pháp Ứng là ít muốn va chạm. Thôi, mọi chuyện hòa cho nó khỏe. Nếu cần xông pha thì mình cũng xông pha, nhưng Pháp Ứng ẩn nhiều hơn là xông pha.
 
-Lần đó Sư Ông dùng cây gậy trong bối cảnh xây dựng tăng thân ở Việt Nam. Pháp Ứng ở Việt Nam, bên này địa cầu, Sư Ông ở bên kia. Sư Ông nói qua điện thoại (thường rất ít khi Sư Ông nói chuyện điện thoại). Sư Ông “quất” một câu! Lúc đó, Pháp Ứng tủi thân vô cùng. Nhưng sau này Pháp Ứng rất biết ơn. Sư Ông muốn cho Pháp Ứng lớn lên, nắm lấy vận mệnh, làm những gì cần làm. Sư Ông cho một gậy giúp Pháp Ứng xông pha, mạnh mẽ, tiến lên nắm chủ quyền trong tay, có tự do, chứ không phải lúc nào mình cũng hòa kiểu đi theo người khác.
+Lần đó Sư Ông dùng cây gậy trong bối cảnh xây dựng tăng thân ở Việt Nam. Pháp Ứng ở Việt Nam, bên này địa cầu, Sư Ông ở bên kia. Sư Ông nói qua điện thoại (thường rất ít khi Sư Ông nói chuyện điện thoại). Sư Ông “quất” một câu! Lúc đó, Pháp Ứng tủi thân vô cùng. Nhưng sau này Pháp Ứng rất biết ơn. Sư Ông muốn cho Pháp Ứng lớn lên, nắm lấy vận mệnh, làm những gì cần làm. Sư Ông cho một gậy giúp Pháp Ứng xông pha, mạnh mẽ, tiến lên nắm chủ quyền trong tay, có tự do, chứ không phải lúc nào mình cũng hòa, kiểu đi theo người khác.
 
 ## Kiên nhẫn là dấu ấn của tình thương
 
