@@ -3,13 +3,13 @@ title: Giải tỏa hận thù, khơi suối yêu thương
 author: Sư cô Chân Thuận Nghiêm
 ---
 
-<p>Chúng ta thường nghe nói về Trung Đông nhưng thật sự ít khi hình dung ra Trung Đông là như thế nào. Đó là một vùng đất chủ yếu là sa mạc và tôn giáo chính là Hồi giáo, ngôn ngữ chính là tiếng Ả Rập, ngoại trừ Israel sử dụng tiếng Hebrew. Trong thế chiến thứ nhất, nước Anh chiếm đóng một vùng đất có tên là Palestine, nơi một thiểu số người Do Thái và một số đông người Ả Rập sinh sống cùng với một số các dân tộc thiểu số khác. Năm 1917, căng thẳng bắt đầu xảy ra khi nước Anh được cộng đồng quốc tế giao cho thành lập một “tổ quốc” cho người Do Thái tại Palestine.</p>
+<div class="editors-preface"><p>Chúng ta thường nghe nói về Trung Đông nhưng thật sự ít khi hình dung ra Trung Đông là như thế nào. Đó là một vùng đất chủ yếu là sa mạc và tôn giáo chính là Hồi giáo, ngôn ngữ chính là tiếng Ả Rập, ngoại trừ Israel sử dụng tiếng Hebrew. Trong thế chiến thứ nhất, nước Anh chiếm đóng một vùng đất có tên là Palestine, nơi một thiểu số người Do Thái và một số đông người Ả Rập sinh sống cùng với một số các dân tộc thiểu số khác. Năm 1917, căng thẳng bắt đầu xảy ra khi nước Anh được cộng đồng quốc tế giao cho thành lập một “tổ quốc” cho người Do Thái tại Palestine.</p>
 
 <p>Từ khi chiến tranh thế giới thứ hai nổ ra, nạn diệt chủng buộc những người Do Thái đang ở châu Âu quay lại Palestine. Các nỗ lực thành lập hai nhà nước Do Thái và Ả Rập tại Palestine của Liên Hiệp Quốc được người Do Thái chấp nhận nhưng người Palestine và các nước Ả Rập láng giềng phản đối. Do đó, người Do Thái đơn phương thành lập nước Israel vào năm 1948. Ngay sau đó, năm nước Ả Rập láng giềng đã khai chiến với nước Israel mới ra đời. Từ sau ngày đó, giao tranh giữa các chiến binh Do Thái và Ả Rập xảy ra liên miên. Hàng trăm ngàn người Palestine đã phải tháo chạy khỏi Palestine. Những người còn ở lại thì sống trong nhiều vùng khác nhau ở Israel và được gọi nôm na là Palestine.</p>
 
-<p>Cho đến ngày nay, Palestine vẫn chưa được toàn thế giới công nhận là một quốc gia và phải sống phụ thuộc vào Israel. Vì không phải là một quốc gia nên họ không có bất kỳ một quyền lợi nào trên trường quốc tế, và chỉ là một quan sát viên trong Liên Hợp Quốc.</p></div>
+<p>Cho đến ngày nay, Palestine vẫn chưa được toàn thế giới công nhận là một quốc gia và phải sống phụ thuộc vào Israel. Vì không phải là một quốc gia nên họ không có bất kỳ một quyền lợi nào trên trường quốc tế, và chỉ là một quan sát viên trong Liên Hợp Quốc.</p>
 
-<div class="editors-preface"><p>Phái đoàn Làng Mai gồm sư cô Thuận Nghiêm, sư cô Trăng Linh Dị, thầy Trời Phạm Hạnh và thầy Trời Ruộng Pháp đã có chuyến hoằng pháp tại Israel và Palestine từ ngày 17.9 đến 9.10.2023. Chiến tranh bùng nổ ngay trong lúc phái đoàn đang hoằng pháp tại đây. BBT đã có cơ hội phỏng vấn sư cô Thuận Nghiêm về chuyến đi này. Dưới đây là những chia sẻ được trích từ buổi phỏng vấn.</p>
+<p>Phái đoàn Làng Mai gồm sư cô Thuận Nghiêm, sư cô Trăng Linh Dị, thầy Trời Phạm Hạnh và thầy Trời Ruộng Pháp đã có chuyến hoằng pháp tại Israel và Palestine từ ngày 17.9 đến 9.10.2023. Chiến tranh bùng nổ ngay trong lúc phái đoàn đang hoằng pháp tại đây. BBT đã có cơ hội phỏng vấn sư cô Thuận Nghiêm về chuyến đi này. Dưới đây là những chia sẻ được trích từ buổi phỏng vấn.</p></div>
 
 {% image "article2024/Done-sr-thuan-nghiem/IMG_3889.jpg" %}
 

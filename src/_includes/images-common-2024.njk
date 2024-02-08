@@ -83,6 +83,10 @@ figure#article2024{{ item[0] }} {
     {# negative >bottom< works if the element is not the last in the text flow #}
     {# bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + {{ item[2] }}) * -1); #}
 
+    padding-left: 4mm;
+    padding-right: 4mm;
+    padding-bottom: 4mm;
+
     bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + {{ item[1] }} + {{ item[2] }}) * -1);
 
     {# bottom: calc( (var(--pagedjs-bleed-bottom) + {{ item[2] }} ) * -1); #}
