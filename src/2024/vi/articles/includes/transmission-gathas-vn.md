@@ -219,8 +219,8 @@ Trong năm 2023, tăng thân đã chào đón 27 vị giáo thọ mới, cả xu
 
 > **Chân Minh Hải**  
 > *(Thế danh: Daya Heather Jepsen)*
-> > The **ocean** of wisdom is our ancient and true inheritance  
-> > The **bright** eyes of the Awakened One contemplate the nature if all things and see no coming and no going  
+> > The **ocean** of **wisdom** is our ancient and true inheritance  
+> > The bright eyes of the Awakened One contemplate the nature if all things and see no coming and no going  
 > > On her path of return, she carries the peaceful light of the moon  
 > > As a gracious offering to each living being.
 
