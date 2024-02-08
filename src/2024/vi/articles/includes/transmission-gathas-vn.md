@@ -151,7 +151,7 @@ Trong năm 2023, tăng thân đã chào đón 27 vị giáo thọ mới, cả xu
 
 > **Sư cô Thích nữ Chân Trăng Quê Hương**  
 > *(Thế danh: Nguyễn Thị Kim Thạnh)*
-> > Chân **Trăng** là **Quê Hương**  
+> > Chân **trăng** là **quê hương**  
 > > Chiếc lá vốn bản môn  
 > > Pháp nhiệm ấy con đường  
 > > Lắng nghe hiểu và thương
@@ -165,16 +165,16 @@ Trong năm 2023, tăng thân đã chào đón 27 vị giáo thọ mới, cả xu
 
 > **Sư Cô Thích nữ Chân Trăng Hoa Tiên**  
 > *(Thế danh: Nguyễn Thị Quế Trâm)*
-> > Gót sen thiền tập cùng **Trăng**  
+> > Gót sen thiền tập cùng **trăng**  
 > > **Hoa** tâm nở rộ thoát vòng thị phi  
-> > Dáng **Tiên** hiện nét uy nghi  
+> > Dáng **tiên** hiện nét uy nghi  
 > > Lắng nghe nhẫn hạnh từ bi cứu đời
 
 > **Sư Cô Thích nữ Chân Trăng Thong Dong**  
 > *(Thế danh: Bùi Hồng Thu Quý)*
 > > **Trăng** xưa lập nguyện đại bi  
 > > Sao cho muôn loại tổng trì vô sanh  
-> > **Thong Dong** cùng chúng đồng hành  
+> > **Thong dong** cùng chúng đồng hành  
 > > Ân đền nghĩa đáp dạ thành khắc ghi
 
 > **Sư cô Thích nữ Chân Trăng Chí Thành**  
@@ -205,7 +205,7 @@ Trong năm 2023, tăng thân đã chào đón 27 vị giáo thọ mới, cả xu
 > > Long lanh ánh mắt ngời **lý tưởng**  
 > > Sưởi ấm tình người giữa trùng khơi
 
-## Kệ truyền đăng ngày 11.4.2023 tại Bringelly, Úc (do thầy Pháp Hải và sư cô Lương Nghiêm thay mặt tăng thân truyền đăng):
+## Kệ truyền đăng ngày 11.4.2023 tại Bringelly, Úc *(do thầy Pháp Hải và sư cô Lương Nghiêm thay mặt tăng thân truyền đăng)*:
 
 > **Thầy Thích Chân Trời Bình Minh**  
 > *(Thế danh: Trương Văn Sen)*
@@ -219,7 +219,7 @@ Trong năm 2023, tăng thân đã chào đón 27 vị giáo thọ mới, cả xu
 
 > **Chân Minh Hải**  
 > *(Thế danh: Daya Heather Jepsen)*
-> > The **Ocean** of Wisdom is our ancient and true inheritance  
+> > The **ocean** of wisdom is our ancient and true inheritance  
 > > The **bright** eyes of the Awakened One contemplate the nature if all things and see no coming and no going  
 > > On her path of return, she carries the peaceful light of the moon  
 > > As a gracious offering to each living being.
