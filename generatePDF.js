@@ -266,6 +266,9 @@ var onFinshed = function(file, fileWithoutDate) {
     
     workQueue.push(() => downsample(file, fileWithoutDate, 250, "screen", continueWork))
     workQueue.push(() => downsample(file, fileWithoutDate, 300, "prepress", continueWork))
+    workQueue.push(() => downsample(file, fileWithoutDate, 350, "screen", continueWork))
+    workQueue.push(() => downsample(file, fileWithoutDate, 400, "screen", continueWork))
+    workQueue.push(() => downsample(file, fileWithoutDate, 450, "screen", continueWork))
     workQueue.push(() => downsample(file, fileWithoutDate, 500, "prepress", (generatedFile) => {
         continueWork()
     }))

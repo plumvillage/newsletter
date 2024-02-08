@@ -61,9 +61,9 @@ html:lang(vi) .pagedjs_right_page .pagedjs_margin-bottom-right {
     {# >fixed< positioned elements are placed by pagedjs on >every< pagedjs_pagebox #}
     position: absolute;
     z-index: -1;
-    width: calc(var(--pagedjs-pagebox-width) + (var(--bleed)) * 2 - 10mm);
+    width: calc(var(--pagedjs-pagebox-width) + (var(--bleed)) * 2 - 0mm);
     {# width: calc(var(--pagedjs-pagebox-width)); #}
-    left: calc((var(--pagedjs-margin-left) + var(--bleed))*-1 + 5mm);
+    left: calc((var(--pagedjs-margin-left) + var(--bleed))*-1 + 0mm);
     {# left: calc((var(--bleed)) * -1); #}
     {# left: 0mm; #}
     overflow: visible;
@@ -87,7 +87,7 @@ figure#article2024{{ item[0] }} {
     padding-right: 1mm;
     padding-bottom: 1mm; #}
 
-    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + {{ item[1] }} + {{ item[2] }}) * -1 + 5mm);
+    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + {{ item[1] }} + {{ item[2] }}) * -1 + 0mm);
 
     {# bottom: calc( (var(--pagedjs-bleed-bottom) + {{ item[2] }} ) * -1); #}
     {# bottom: calc( (var(--bleed) + {{ item[2] }} ) * -1); #}
