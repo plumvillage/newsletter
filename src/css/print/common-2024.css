@@ -459,6 +459,10 @@ html:lang(vi) article p {
     text-align: justify;
     text-align-last: left;
 }
+/* if the paragraph is a fragment */
+html:lang(vi) article p[data-split-to] {
+    text-align-last: justify;
+}
 html:lang(en) article p {
     text-align: left;
     /* text-align: justify; */
@@ -1475,4 +1479,9 @@ figure.lmnq5 {
     /* margin-right: auto; */
     /* position: relative; */
     max-width: none !important;
+}
+
+/* toc */
+div[data-page-number="3"] .pagedjs_margin-bottom {
+    display: none;
 }

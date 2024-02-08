@@ -3,6 +3,8 @@ title: Làng Mai năm qua
 author: Ban biên tập
 ---
 
+<div class="removeIndentInFollowingElem removeTopMarginInFollowingElem"></div>
+
 *(Tường thuật những hoạt động chính tại Làng Mai Pháp trong năm 2023)*
 
 ## Đại Giới Đàn Trừng Quang *(10 – 14.2.2023)*
@@ -81,8 +83,6 @@ Tiếp nối hạnh nguyện hoằng hóa của Sư Ông đem đạo Bụt ứng
 
 Ngày 26.4.2023, Trường Y tế Cộng đồng T.H. Chan thuộc Đại học Harvard (Harvard T.H. Chan School of Public Health) đã chính thức khai trương Trung tâm chánh niệm vì sức khỏe cộng đồng Thích Nhất Hạnh *(Thich Nhat Hanh Center for Mindfulness in Public Health)*. Hơn ba mươi xuất sĩ của Làng Mai, trong đó có thầy Pháp Ấn và sư cô Chân Không, đã có mặt cho sự kiện quan trọng này.
 
-<!-- CREDIT Rob Walsh -->
-
 Trung tâm được thành lập với 25 triệu đô la Mỹ do một nhà hảo tâm ẩn danh hiến tặng, đây là một trong những khoản tài trợ lớn nhất từ trước đến nay cho trường. Sứ mệnh của trung tâm là giúp cho mọi người trên thế giới sống có mục đích, chan hòa và vui tươi thông qua việc thực tập chánh niệm; thúc đẩy các nghiên cứu trên cơ sở thực chứng nhằm cải thiện sức khỏe thể chất và tinh thần thông qua chánh niệm; giáo dục và phổ biến cho mọi người về chánh niệm. Hai lĩnh vực chính của trung tâm là nghiên cứu về dinh dưỡng và môi trường sống.
 
 Giáo sư Lilian Cheung, giám đốc nghiên cứu và thực hành chánh niệm tại Khoa Dinh dưỡng của Trường Y tế Cộng đồng T.H. Chan, đã gặp Sư Ông Làng Mai vào năm 1997 tại một khóa tu chánh niệm và sau đó bà đã cùng viết chung với Sư Ông một cuốn sách có tựa đề _Savor: Mindful Eating, Mindful Life_(tạm dịch Thưởng thức: Ăn trong chánh niệm, Sống trong tỉnh thức).
@@ -98,7 +98,7 @@ Theo thông cáo của Đại học Havard, tính tới đầu năm 2023 đã c�
 {% image "article2024/Done-Review of the Year/TNH Center/TNH center.3.jpg", "noFloat lmnq6" %}
 {% image "article2024/Done-Review of the Year/TNH Center/TNH center.8.jpg", "noFloat lmnq6", "Tiến sĩ Lilian Cheung" %}
 {% image "article2024/Done-Review of the Year/TNH Center/TNH center.4.jpg", "noFloat lmnq6" %}
-{% image "article2024/Done-Review of the Year/TNH Center/52853757348_bcebb40f07_6k.jpg", "noFloat lmnq6" %}
+{% image "article2024/Done-Review of the Year/TNH Center/52853757348_bcebb40f07_6k.jpg", "noFloat lmnq6", 'All photos courtesy of Robert M Walsh<br/><a href="https://www.flickr.com/photos/robertmwalsh/">flickr.com/photos/robertmwalsh/</a>' %}
 
 {% image "article2024/Done-Review of the Year/TNH Center/52851181247_26caed8566_6k.jpg", "noFloat lmnq6" %}
 {% image "article2024/Done-Review of the Year/TNH Center/TNH center.5.jpg", "noFloat lmnq6", "Tiến sĩ Jon Kabat-Zinn" %}
