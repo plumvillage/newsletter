@@ -4,7 +4,7 @@ author: Thầy Chân Trời Đức Định
 ---
 <!-- title: Bình bát của Như -->
 
-*Thầy Trời Đức Định là người Pháp, xuất gia năm 2016, tại Làng Mai, Pháp, trong gia đình cây Mai Vàng. Hiện thầy đang sống và thực tập tại trung tâm Suối Tuệ, Paris. Bài viết được BBT chuyển ngữ từ tiếng Anh.*
+<div class="editors-preface"><p>Thầy Trời Đức Định là người Pháp, xuất gia năm 2016, tại Làng Mai, Pháp, trong gia đình cây Mai Vàng. Hiện thầy đang sống và thực tập tại trung tâm Suối Tuệ, Paris. Bài viết được BBT chuyển ngữ từ tiếng Anh.</p></div>
 
 ## Duyên đã chín muồi
 
