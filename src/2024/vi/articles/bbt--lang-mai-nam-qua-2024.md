@@ -271,16 +271,16 @@ Trong bối cảnh xung đột ngày càng leo thang ở Trung Đông, ngày 19.
 <div class="removeIndentInFollowingElem"></div>
 
 Trong năm 2023, tăng thân đã chào đón thêm 31 thành viên mới:
- - **Cây Nhãn – Longan** (ngày 18.05 tại tu viện Vườn Ươm, Thái Lan) gồm các sư chú: *Chân Nhất Giác, Chân Nhất Ngữ.*
+ - **Cây Nhãn – Longan** (ngày 18.5 tại tu viện Vườn Ươm, Thái Lan) gồm các sư chú: *Chân Nhất Giác, Chân Nhất Ngữ.*
  - **Cây Toyon** (ngày 24.09 tại tu viện Lộc Uyển, Mỹ) gồm các sư chú: *Chân Nhất Lâm, Chân Nhất Thiên, Chân Nhất Điền, Chân Nhất Sơn;* và các sư cô: *Chân Ân Hạnh, Chân Thuần Hạnh.*
- - **Cây Thủy tiên** – **Daffodil** (ngày 05.11 tại chùa Pháp Vân, Pháp) gồm các sư chú: *Chân Nhất Vân, Chân Nhất Vũ, Chân Nhất Thanh, Chân Nhất Lương, Chân Nhất Nguyên, Chân Nhất Mộc, Chân Nhất Xuân;* và các sư cô: *Chân Đôn Hạnh, Chân Diệu Hạnh, Chân Đăng Hạnh.*
+ - **Cây Thủy tiên** – **Daffodil** (ngày 5.11 tại chùa Pháp Vân, Pháp) gồm các sư chú: *Chân Nhất Vân, Chân Nhất Vũ, Chân Nhất Thanh, Chân Nhất Lương, Chân Nhất Nguyên, Chân Nhất Mộc, Chân Nhất Xuân;* và các sư cô: *Chân Đôn Hạnh, Chân Diệu Hạnh, Chân Đăng Hạnh.*
  - **Cây Chuông Vàng** (ngày 17.12 tại tu viện Vườn Ươm, Thái Lan) gồm các sư cô: *Chân Cung Hạnh, Chân Chuyên Hạnh, Chân Cẩn Hạnh, Chân Chuẩn Hạnh, Chân Chỉnh Hạnh, Chân Chỉ Hạnh, Chân Chí Hạnh, Chân Cư Hạnh, Chân Chánh Hạnh, Chân Chiêu Hạnh, Chân Chung Hạnh, Chân Cần Hạnh, Chân Cát Hạnh.*
 
 <div class="removeIndentInFollowingElem"></div>
 
 Đầu năm 2024, vào dịp lễ Đại tường của Sư Ông, tăng thân chào đón thêm 11 thành viên của gia đình xuất gia:
 
- - **Cây Bàng** (ngày 23.01 tại Ni xá Diệu Trạm, Huế) gồm các sư chú: *Chân Nhất Trú, Chân Nhất Âm, Chân Nhất Lạc, Chân Nhất Giới;* và các sư cô: *Chân Mật Hạnh, Chân An Hạnh, Chân Hiếu Hạnh, Chân Lập Hạnh, Chân Quán Hạnh, Chân Đoan Hạnh, Chân Khánh Hạnh.*<div class="article-end"></div>
+ - **Cây Bàng** (ngày 23.1 tại Ni xá Diệu Trạm, Huế) gồm các sư chú: *Chân Nhất Trú, Chân Nhất Âm, Chân Nhất Lạc, Chân Nhất Giới;* và các sư cô: *Chân Mật Hạnh, Chân An Hạnh, Chân Hiếu Hạnh, Chân Lập Hạnh, Chân Quán Hạnh, Chân Đoan Hạnh, Chân Khánh Hạnh.*<div class="article-end"></div>
 
 {% image "article2024/Done-Review of the Year/Novice ordination/Longan ordination 1.JPG", "noFloat lmnqNovices" %}
 {% image "article2024/Done-Review of the Year/Novice ordination/Toyon family 2.jpg", "noFloat lmnqNovices" %}
