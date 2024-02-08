@@ -40,7 +40,7 @@ html:lang(vi) .pagedjs_right_page .pagedjs_margin-bottom-right {
 ["IMG_6618_e.jpg",
     "130mm", "0mm", 0, 15],
 ["Done-Review-of-the-YearTNH-Center528562133967da665de4eo",
-    "120mm", "0mm", 0, 0],
+    "110mm", "0mm", 0, 0],
 ["Done-Review-of-the-YearRains-retreat041Varsavasana2023-24011724",
     "110mm", "0mm", 0, 30],
 ["Done-interview-with-thayIMG9672",
@@ -61,9 +61,9 @@ html:lang(vi) .pagedjs_right_page .pagedjs_margin-bottom-right {
     {# >fixed< positioned elements are placed by pagedjs on >every< pagedjs_pagebox #}
     position: absolute;
     z-index: -1;
-    width: calc(var(--pagedjs-pagebox-width) + (var(--bleed)) * 2);
+    width: calc(var(--pagedjs-pagebox-width) + (var(--bleed)) * 2 - 10mm);
     {# width: calc(var(--pagedjs-pagebox-width)); #}
-    left: calc((var(--pagedjs-margin-left) + var(--bleed))*-1);
+    left: calc((var(--pagedjs-margin-left) + var(--bleed))*-1 + 5mm);
     {# left: calc((var(--bleed)) * -1); #}
     {# left: 0mm; #}
     overflow: visible;
@@ -83,11 +83,11 @@ figure#article2024{{ item[0] }} {
     {# negative >bottom< works if the element is not the last in the text flow #}
     {# bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + {{ item[2] }}) * -1); #}
 
-    padding-left: 4mm;
-    padding-right: 4mm;
-    padding-bottom: 4mm;
+    {# padding-left: 1mm;
+    padding-right: 1mm;
+    padding-bottom: 1mm; #}
 
-    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + {{ item[1] }} + {{ item[2] }}) * -1);
+    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + {{ item[1] }} + {{ item[2] }}) * -1 + 5mm);
 
     {# bottom: calc( (var(--pagedjs-bleed-bottom) + {{ item[2] }} ) * -1); #}
     {# bottom: calc( (var(--bleed) + {{ item[2] }} ) * -1); #}

@@ -5,15 +5,15 @@ author: Sư cô Chân Trăng Linh Dị
 
 <div class="editors-preface"><p>Sư cô Trăng Linh Dị, người Úc gốc Hoa, xuất gia trong gia đình Cây Trắc Bá tháng 7/2014 tại Làng Mai – Pháp. Sư cô hiện đang cùng tăng thân tu tập và phụng sự tại xóm Hạ, Làng Mai. Bài viết được BBT dịch từ nguyên bản tiếng Anh.</p></div>
 
-Thầy kính thương,
+<div class="removeIndentInFollowingElem"></div>
 
-Hôm nay là ngày tiếp nối của Thầy.
+Thầy kính thương,<br/>Hôm nay là ngày tiếp nối của Thầy.
 
 Chúng con, bốn người con xuất sĩ của Thầy, đang ở miền Đất Thánh, và chiến tranh giữa Israel và Palestine đã bùng nổ bốn ngày trước đây. Chúng con vẫn bình an. Chúng con có nước, có đồ ăn, có nơi trú ẩn và có những người bạn dễ thương của tăng thân. Nhưng cách đây chỉ năm mươi cây số thôi, người dân ở đó không có nước, không có thức ăn, và không có nơi trú ẩn an toàn. Những đứa trẻ đang chết dần chết mòn. Cả ngày lẫn đêm chúng con đều nghe thấy tiếng rít của tên lửa, chúng con cảm thấy đất rung chuyển khi tên lửa nổ. Những lúc đó con nhắm mắt lại và thành tâm cầu nguyện — cầu cho sự bình an và từ bi đến được với trái tim mọi người.
 
-{% image "article2024/Done-sr-linh-di/4b0fc9b1-47ca-49f3-8d3c-8395efe91e73_e.JPG" %}
-
 Cuộc sống giống như một bức tranh cát bị lật ngược lại, và chúng ta không thể biết cảnh tượng tiếp theo sẽ diễn ra như thế nào.
+
+{% image "article2024/Done-sr-linh-di/4b0fc9b1-47ca-49f3-8d3c-8395efe91e73_e.JPG" %}
 
 Thầy kính thương, con đã rất sợ hãi. Con không biết liệu mình có thể gặp lại cha và mẹ nữa hay không. Nằm trong bóng tối, hơi thở sâu và đều đặn, con nhìn thấy Thầy đang đứng trước những ngôi làng bị phá hủy và đang khích lệ những người dân xây dựng lại làng xóm hết lần này đến lần khác. Con nhìn thấy tăng thân đang thực tập sám pháp địa xúc, cả một biển y vàng phủ phục dưới đất. Và con nhìn thấy bà nội của con, người đã đưa bảy đứa con mình ra khỏi vùng chiến tranh, mỉm cười và thì thầm: “Các con sẽ bình an thôi. Các con đều có sức mạnh của bà”.
 

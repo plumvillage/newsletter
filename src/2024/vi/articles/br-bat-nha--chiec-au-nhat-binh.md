@@ -33,8 +33,8 @@ Con mỉm cười với bản thân trên tấm gương mầu nhiệm đó, th�
 
 <!-- <div class="removeTopMarginInFollowingElem"></div> -->
 
-{% image "article2024/Done-Br. Bat Nha/_DSC5640.jpg" %}
 <!-- {% image "article2024/Done-Br. Bat Nha/Br. T Bat Nha_cut.jpg" %} -->
+{% image "article2024/Done-Br. Bat Nha/_DSC5640.jpg" %}
 
 ## Con đã “gặp được” Thầy
 
