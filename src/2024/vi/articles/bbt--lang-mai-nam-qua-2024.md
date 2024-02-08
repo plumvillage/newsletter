@@ -114,7 +114,7 @@ Sáng ngày 20.4, Hội nghị Thượng đỉnh Phật giáo Toàn cầu năm 2
 
 Kết hợp với sự kiện thành lập Trung tâm Chánh niệm Thích Nhất Hạnh tại Harvard, Sư cô Chân Không đã có một số hoạt động hoằng pháp tại ba tu viện của Làng Mai tại Mỹ.
 
-*Tại tu viện Bích Nham*, Sư cô đã hướng dẫn một ngày quán niệm cho tăng thân tứ chúng vào ngày 16.4, và cho một bài pháp thoại công cộng với chủ đề "Từ bi trong Hành động" (Compassion in Action) do Hội Chủng viện Thần học Hoa Kỳ (Union Theological Seminary) cùng quý thầy, quý sư cô tu viện Bích Nham tổ chức vào ngày 18.4. Ngay sau đó, Sư cô hướng dẫn khóa tu Tiếp hiện, từ ngày 19-23.4.2023, với chủ đề "Nghệ thuật thương yêu" (The Art of Compassion).
+*Tại tu viện Bích Nham*, Sư cô đã hướng dẫn một ngày quán niệm cho tăng thân tứ chúng vào ngày 16.4, và cho một bài pháp thoại công cộng với chủ đề "Từ bi trong Hành động" (Compassion in Action) do Hội Chủng viện Thần học Hoa Kỳ (Union Theological Seminary) cùng quý thầy, quý sư cô tu viện Bích Nham tổ chức vào ngày 18.4. Ngay sau đó, Sư cô hướng dẫn khóa tu Tiếp hiện, từ ngày 19 đến ngày 23.4.2023, với chủ đề "Nghệ thuật thương yêu" (The Art of Compassion).
 
 {% image "article2024/Done-Review of the Year/Screenshot from 2024-02-07 10-49-06.jpg" %}
 
