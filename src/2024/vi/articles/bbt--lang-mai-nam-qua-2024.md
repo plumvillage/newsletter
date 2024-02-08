@@ -284,7 +284,6 @@ Trong năm 2023, tăng thân đã chào đón thêm 31 thành viên mới:
 
  - **Cây Bàng** (ngày 23.01 tại Ni xá Diệu Trạm, Huế) gồm các sư chú: *Chân Nhất Trú, Chân Nhất Âm, Chân Nhất Lạc, Chân Nhất Giới;* và các sư cô: *Chân Mật Hạnh, Chân An Hạnh, Chân Hiếu Hạnh, Chân Lập Hạnh, Chân Quán Hạnh, Chân Đoan Hạnh, Chân Khánh Hạnh.*<div class="article-end"></div>
 
-
 {% image "article2024/Done-Review of the Year/Novice ordination/Longan ordination 1.JPG", "noFloat lmnqNovices" %}
 {% image "article2024/Done-Review of the Year/Novice ordination/Toyon family 2.jpg", "noFloat lmnqNovices" %}
 {% image "article2024/Done-Review of the Year/Novice ordination/Daffodil ordination 2.jpg", "noFloat lmnqNovices" %}
