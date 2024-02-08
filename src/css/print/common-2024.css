@@ -1147,6 +1147,7 @@ figure#article2024Done-BrPhap-UngBrPhap-Unge {
 
 
 /* column-span images */
+figure#article2024Done-Review-of-the-YearNovice-ordinationChuong-vang-family-2,
 figure.zasp,
 figure#article2024Done-Review-of-the-YearTNH-Center528562133967da665de4eo,
 figure#article2024Done-Review-of-the-YearGreat-Ordination-CeremonyDSC2314,
@@ -1248,7 +1249,14 @@ figure#article2024Done-Memorial-CeremonyHueCeremonyLe-dai-tuong-1-copy {
     margin-top: 1.5em;
     margin-bottom: 0em;
 }
-
+figure#article2024Done-Review-of-the-YearNovice-ordinationChuong-vang-family-2 {
+    width: 100%;
+    margin-bottom: 0;
+}
+figure#article2024Done-Review-of-the-YearNovice-ordinationChuong-vang-family-2 img {
+    object-fit: cover;
+    height: 68mm;
+}
 
 
 
@@ -1413,7 +1421,19 @@ figure.lmnqHFarmBig img {
 }
 figure.lampT img {
     object-fit: cover;
-    height: 57mm;
+    height: 50mm;
+}
+figure.lmnqNovices img {
+    object-fit: cover;
+    height: 47mm;
+}
+figure.lmnqLampSymbolic {
+    padding-left: 6%;
+    padding-right: 6%;
+}
+figure.lmnqLampSymbolic img {
+    object-fit: cover;
+    height: 87mm;
 }
 figure.lmnq7,
 figure.lmnq4-2,
@@ -1425,6 +1445,12 @@ figure#article2024Done-Review-of-the-YearMonastic-on-Tour9ee37f7c-830f-4a3f-ae2d
     height: 109mm;
 }
 
+.PAGE-OF-pageMarkerForGathas2024 blockquote {
+    margin-top: 8pt !important;
+    margin-bottom: 11pt!important;
+}
+
+figure.lmnqNovices,
 figure.lampT,
 figure.lmnqHFarmBig,
 figure.lmnqEducators,

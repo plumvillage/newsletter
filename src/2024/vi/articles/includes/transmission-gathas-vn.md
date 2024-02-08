@@ -51,7 +51,7 @@ Trong năm 2023, tăng thân đã chào đón 27 vị giáo thọ mới, cả xu
 > > Có nhau nhiệm mầu trong tương **cảm**  
 > > Cử xướng tăng thân thực pháp thân
 
-{% image "article2024/Done-Review of the Year/Lamp transmission/Br. Phuong Can.JPG" %}
+{% image "article2024/Done-Review of the Year/Lamp transmission/Lamp Transmissions_UH_10.06.22 _195.jpg", "noFloat lmnqLampSymbolic" %}
 
 > **Thầy Thích Chân Trời Nguyện Ước**  
 > *(Nguyễn Bá Nhật; Pháp danh: Tâm Nhuận Minh)*
@@ -87,6 +87,8 @@ Trong năm 2023, tăng thân đã chào đón 27 vị giáo thọ mới, cả xu
 > > Hành trang ẩn **nhẫn** xá hề gian truân   
 > > **Nghiêm** phong hoạt thái chuyên cần  
 > > Quê hương lối cũ bước chân vững vàng
+
+<figure id="pageMarkerForGathas2024"></figure>
 
 > **Sư cô Thích nữ Chân Thiện Nghiêm**  
 > *(Văn Thị Kiều Oanh; Pháp danh: Tâm Chơn Khai)*  
@@ -140,19 +142,19 @@ Trong năm 2023, tăng thân đã chào đón 27 vị giáo thọ mới, cả xu
 > > Ơn thầy tổ nguyền xin tiếp nối  
 > > Một lên đường, sông núi chứng minh
 
-> **Sư Cô Thích nữ Chân Trăng Hoa Tiên**  
-> *(Thế danh: Nguyễn Thị Quế Trâm)*
-> > Gót sen thiền tập cùng **Trăng**  
-> > **Hoa** tâm nở rộ thoát vòng thị phi  
-> > Dáng **Tiên** hiện nét uy nghi  
-> > Lắng nghe nhẫn hạnh từ bi cứu đời
-
 > **Sư cô Thích nữ Chân Trợ Nghiêm**  
 > *(Thế danh: Hoàng Thị Minh Nguyệt)*
 > > **Chân** tâm vắng duyên **trợ**  
 > > **Nghiêm** từ chẳng đến đi  
 > > Như Lai bậc như thị  
 > > Chánh Niệm vượt thị phi
+
+> **Sư Cô Thích nữ Chân Trăng Hoa Tiên**  
+> *(Thế danh: Nguyễn Thị Quế Trâm)*
+> > Gót sen thiền tập cùng **Trăng**  
+> > **Hoa** tâm nở rộ thoát vòng thị phi  
+> > Dáng **Tiên** hiện nét uy nghi  
+> > Lắng nghe nhẫn hạnh từ bi cứu đời
 
 > **Sư cô Thích nữ Chân Trăng Quê Hương**  
 > *(Thế danh: Nguyễn Thị Kim Thạnh)*
@@ -175,16 +177,25 @@ Trong năm 2023, tăng thân đã chào đón 27 vị giáo thọ mới, cả xu
 > > **Thong Dong** cùng chúng đồng hành  
 > > Ân đền nghĩa đáp dạ thành khắc ghi
 
+> **Sư cô Thích nữ Chân Trăng Chí Thành**  
+> *(Thế danh: Lê Thị Tư)*
+> > Vén mây **trăng** lộ diện  
+> > Tu tập dạ **chí thành**  
+> > Công phu không xao lãng  
+> > Sen nở cõi Trời Tây
+
 {% image "article2024/Done-Review of the Year/Lamp transmission/Sr. Nhan Nghiem.JPG", "noFloat lampT" %}
 {% image "article2024/Done-Review of the Year/Lamp transmission/Sr. Dan Nghiem.JPG", "noFloat lampT" %}
-<!-- {% image "article2024/Done-Review of the Year/Lamp transmission/Sr. Thien Nghiem.JPG", "noFloat lampT" %} -->
+{% image "article2024/Done-Review of the Year/Lamp transmission/Sr. Thien Nghiem.JPG", "noFloat lampT" %}
 {% image "article2024/Done-Review of the Year/Lamp transmission/Br. Noi Tam.JPG", "noFloat lampT" %}
 {% image "article2024/Done-Review of the Year/Lamp transmission/Lamp transmission 19.03 46.JPG", "noFloat lampT" %}
 
+{% image "article2024/Done-Review of the Year/Lamp transmission/Br. Phuong Can.JPG", "noFloat lampT" %}
 {% image "article2024/Done-Review of the Year/Lamp transmission/Br. T Nguyen Uoc.JPG", "noFloat lampT" %}
 {% image "article2024/Done-Review of the Year/Lamp transmission/Br. T Ky Ngo.JPG", "noFloat lampT" %}
 {% image "article2024/Done-Review of the Year/Lamp transmission/Sr. Tro Nghiem.JPG", "noFloat lampT" %}
 {% image "article2024/Done-Review of the Year/Lamp transmission/Sr. Que Huong.JPG", "noFloat lampT" %}
+
 
 
 > **Sư cô Thích nữ Chân Trăng Lý Tưởng**  
@@ -193,13 +204,6 @@ Trong năm 2023, tăng thân đã chào đón 27 vị giáo thọ mới, cả xu
 > > **Trăng** sao chiếu sáng khắp muôn nơi  
 > > Long lanh ánh mắt ngời **lý tưởng**  
 > > Sưởi ấm tình người giữa trùng khơi
-
-> **Sư cô Thích nữ Chân Trăng Chí Thành**  
-> *(Thế danh: Lê Thị Tư)*
-> > Vén mây **trăng** lộ diện  
-> > Tu tập dạ **chí thành**  
-> > Công phu không xao lãng  
-> > Sen nở cõi Trời Tây
 
 ## Kệ truyền đăng ngày 11/4/2023 tại Bringelly, Úc, thầy Pháp Hải thay mặt tăng thân truyền đăng cho:
 
@@ -213,13 +217,6 @@ Trong năm 2023, tăng thân đã chào đón 27 vị giáo thọ mới, cả xu
 > > Thành quả bậc trượng phu  
 > > Được hương gió lan toả
 
-> **Chân Hỷ Tạng**  
-> *(Thế danh: Faye Nhi Nguyen)*
-> > By seeing the nature of affinities planted since beginningless time  
-> > The authentic fruit of insight reveals itself as a **storehouse of joy**  
-> > Walking this ancient path suddenly we realize that there was never a time when we were not wonderful together  
-> > Sunflowers waving in the gentle breeze quietly reveal the wondrous Dharma Body
-
 > **Chân Minh Hải**  
 > *(Thế danh: Daya Heather Jepsen)*
 > > The **Ocean** of Wisdom is our ancient and true inheritance  
@@ -227,7 +224,14 @@ Trong năm 2023, tăng thân đã chào đón 27 vị giáo thọ mới, cả xu
 > > On her path pf return, she carries the peaceful light of the moon  
 > > As a gracious offering to each living being
 
-{% image "article2024/Done-Review of the Year/Lamp transmission/Sr Ly Tuong.JPG", "noFloat lampT" %}
+> **Chân Hỷ Tạng**  
+> *(Thế danh: Faye Nhi Nguyen)*
+> > By seeing the nature of affinities planted since beginningless time  
+> > The authentic fruit of insight reveals itself as a **storehouse of joy**  
+> > Walking this ancient path suddenly we realize that there was never a time when we were not wonderful together  
+> > Sunflowers waving in the gentle breeze quietly reveal the wondrous Dharma Body
+
+{% image "article2024/Done-Review of the Year/Lamp transmission/Sr Ly Tuong.JPG", "noFloat" %}
 {% image "article2024/Done-Review of the Year/Lamp transmission/Tuyen-Dang-T-Binh-Minh-1024x683.jpg", "noFloat" %}
 {% image "article2024/Done-Review of the Year/Lamp transmission/Truyen-Dang.-Daya-Heather-Jepsen-1024x682.jpg", "noFloat" %}
 {% image "article2024/Done-Review of the Year/Lamp transmission/Truyen-Dang-Faye-Nhi-Nguyen-1024x682.jpg", "noFloat" %}
