@@ -1,6 +1,6 @@
 ---
 title: Còn tu là còn thấy nhau
-author: Thầy Chân Trời Tương Tức
+author: Sư chú Chân Trời Tương Tức
 ---
 
 <div class="verse" style="column-span: all;">
