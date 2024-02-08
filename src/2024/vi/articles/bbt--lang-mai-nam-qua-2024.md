@@ -11,7 +11,7 @@ author: Ban biên tập
 
 Trong không khí ấm áp của mùa xuân nơi núi rừng Khao Yai, các giới tử từ các trung tâm của Làng Mai đã có cơ hội trở về cùng một nơi để thọ giới Khất sĩ nam và Khất sĩ nữ trong Đại giới đàn Trừng Quang được tổ chức tại tu viện Vườn Ươm, Thái Lan, sau một thời gian dài bị ảnh hưởng bởi đại dịch Covid.
 
-Đại giới đàn năm nay đã cung thỉnh được chư Tôn đức từ Việt Nam vào Hội đồng truyền giới như *quý Hòa thượng:* Thích Giác Quang -- Trú trì chùa Bảo Lâm (Huế), Thích Minh Nghĩa -- Viện chủ Tu viện Toàn Giác (Đồng Nai), Thích Bảo Nghiêm -- Trú trì chùa Bằng A (Hà Nội), Thích Nguyên Minh -- Trú trì chùa Kim Sơn (Nha Trang), Thích Bửu Chánh -- Trú trì Thiền viện Phước Sơn (Đồng Nai), Thích Tâm Đức – Thiền viện Vạn Hạnh (Tp. Hồ Chí Minh), Thích Minh Thành -- Tịnh xá Trung Tâm (Tp. Hồ Chí Minh); *quý Thượng tọa:* Thích Tiến Đạt -- Trú trì chùa Đại Từ Ân (Hà Nội), Thích Tâm Thuần -- Trú trì Thiền viện Trúc Lâm Sùng Phúc (Hà Nội), Thích Giác Không -- Trú trì chùa Phước Long (Cam Ranh), Thích Trí Chơn -- Trú trì chùa Khánh An (Tp. Hồ Chí Minh), Thích Thanh Huân -- Trú trì chùa Pháp Vân (Hà Nội); *và quý Sư bà:* Thích nữ Tịnh Nguyện -- Ni trưởng Trú trì chùa Phước Hải (Tp. Hồ Chí Minh), Thích nữ Lưu Phong -- Ni trưởng Trú trì chùa Kiều Đàm (Tp. Hồ Chí Minh), Thích nữ Chân Như Minh -- Ni trưởng Trú trì chùa Pháp Hỷ (Huế), Thích nữ Chân Như Ngọc -- Ni trưởng Trú trì chùa Bồ Đề (Tp. Hồ Chí Minh), Thích nữ Chân Như Huy -- Ni trưởng Trú trì chùa Long Ẩn (Huế), Thích nữ Chân Từ Nhu -- Ni trưởng Trú trì chùa Từ Đức (Huế), Thích nữ Hương Nhũ – Trú trì chùa Thiên Quang (Bình Dương)...
+Đại giới đàn năm nay đã cung thỉnh được chư Tôn đức từ Việt Nam vào Hội đồng truyền giới như *quý Hòa thượng:* Thích Giác Quang - Trú trì chùa Bảo Lâm (Huế), Thích Minh Nghĩa - Viện chủ Tu viện Toàn Giác (Đồng Nai), Thích Bảo Nghiêm - Trú trì chùa Bằng A (Hà Nội), Thích Nguyên Minh - Trú trì chùa Kim Sơn (Nha Trang), Thích Bửu Chánh - Trú trì Thiền viện Phước Sơn (Đồng Nai), Thích Tâm Đức – Thiền viện Vạn Hạnh (Tp. Hồ Chí Minh), Thích Minh Thành - Tịnh xá Trung Tâm (Tp. Hồ Chí Minh); *quý Thượng tọa:* Thích Tiến Đạt - Trú trì chùa Đại Từ Ân (Hà Nội), Thích Tâm Thuần - Trú trì Thiền viện Trúc Lâm Sùng Phúc (Hà Nội), Thích Giác Không - Trú trì chùa Phước Long (Cam Ranh), Thích Trí Chơn - Trú trì chùa Khánh An (Tp. Hồ Chí Minh), Thích Thanh Huân - Trú trì chùa Pháp Vân (Hà Nội); *và quý Sư bà:* Thích nữ Tịnh Nguyện - Ni trưởng Trú trì chùa Phước Hải (Tp. Hồ Chí Minh), Thích nữ Lưu Phong - Ni trưởng Trú trì chùa Kiều Đàm (Tp. Hồ Chí Minh), Thích nữ Chân Như Minh - Ni trưởng Trú trì chùa Pháp Hỷ (Huế), Thích nữ Chân Như Ngọc - Ni trưởng Trú trì chùa Bồ Đề (Tp. Hồ Chí Minh), Thích nữ Chân Như Huy - Ni trưởng Trú trì chùa Long Ẩn (Huế), Thích nữ Chân Từ Nhu - Ni trưởng Trú trì chùa Từ Đức (Huế), Thích nữ Hương Nhũ – Trú trì chùa Thiên Quang (Bình Dương)...
 
 Với sự chứng minh của chư Tôn đức, Đại giới đàn đã truyền giới cho 19 vị khất sĩ nam và 38 vị khất sĩ nữ. Sau lễ truyền giới, tăng thân cũng đã làm lễ phó pháp truyền đăng cho 16 vị tân giáo thọ. Ngọn đèn tuệ giác của chư Bụt, chư Tổ vẫn đang tiếp tục được gìn giữ và thắp sáng.
 
@@ -35,7 +35,7 @@ Cũng trong dịp này, đại chúng cùng nhau ăn mừng tu viện Vườn Ư
 
 ## Vững một niềm tin – Khóa tu xuất sĩ<br/>*(15 – 23.2.2023)*
 
-Mỗi năm vào dịp đầu xuân, đại chúng ba xóm Làng Mai Pháp lại cùng nhau sum họp về chùa Pháp Vân, nơi mảnh đất Thénac (Thệ Nhật) thiêng liêng để có mặt cho nhau trong khóa tu xuất sĩ. Quý thầy, quý sư cô từ Viện Phật học Ứng dụng châu Âu (Đức), tu viện Suối Tuệ và Thiền đường Hơi Thở Nhẹ (Paris) cũng về tham dự khóa tu.
+Mỗi năm vào dịp đầu xuân, đại chúng ba xóm Làng Mai Pháp lại cùng nhau sum họp về chùa Pháp Vân, nơi mảnh đất Thénac (Thệ Nhật) thiêng liêng để có mặt cho nhau trong khóa tu xuất sĩ. Quý thầy, quý sư cô từ Viện Phật học Ứng dụng châu Âu (Đức), Tu viện Suối Tuệ và Thiền đường Hơi Thở Nhẹ (Paris) cũng về tham dự khóa tu.
 
 Năm nay, với chủ đề "Vững một niềm tin", khóa tu xuất sĩ diễn ra trong chín ngày đã nuôi dưỡng thêm tình huynh đệ, tiếp thêm năng lượng để các anh chị em trong gia đình áo nâu vững bước trên con đường tu học và phụng sự. Cũng trong khóa tu này, thầy Pháp Ấn, sư cô Chân Không và sư cô Chân Đức đã thay mặt tăng thân để phó pháp truyền đăng cho tám vị tân giáo thọ.
 
@@ -52,7 +52,7 @@ Năm nay, với chủ đề "Vững một niềm tin", khóa tu xuất sĩ diễ
 
 ## Tiếng hát mùa xuân
 
-Sau ba năm bị gián đoạn vì đại dịch, hơn bốn trăm thiền sinh từ các nước như Pháp, Bỉ, Thụy Sĩ, Canada... lại có cơ hội về Làng tu tập trong khóa tu dành cho cộng đồng nói tiếng Pháp, từ ngày 7 đến ngày 14.4. Cỏ cây, hoa lá cùng nắng ấm mùa xuân cũng hòa chung niềm vui sum vầy của đại gia đình Pháp ngữ. Niềm vui tiếp nối niềm vui khi tăng thân tổ chức mừng Ngày Tiếp nối lần thứ 85 của Sư cô Chân Không và chào đón thêm 18 thành viên mới của Dòng tu Tiếp Hiện.
+Sau ba năm bị gián đoạn vì đại dịch, hơn bốn trăm thiền sinh từ các nước như Pháp, Bỉ, Thụy Sĩ, Canada,... lại có cơ hội về Làng tu tập trong khóa tu dành cho cộng đồng nói tiếng Pháp, từ ngày 7 đến ngày 14.4. Cỏ cây, hoa lá cùng nắng ấm mùa xuân cũng hòa chung niềm vui sum vầy của đại gia đình Pháp ngữ. Niềm vui tiếp nối niềm vui khi tăng thân tổ chức mừng Ngày Tiếp nối lần thứ 85 của Ni trưởng Chân Không và chào đón thêm 18 thành viên mới của Dòng tu Tiếp Hiện.
 
 {% image "article2024/Done-Review of the Year/Francophone retreat/IMG_9618_.jpg", "noFloat lmnq3" %}
 
@@ -85,20 +85,20 @@ Ngày 26.4.2023, Trường Y tế Cộng đồng T.H. Chan thuộc Đại học 
 
 Trung tâm được thành lập với 25 triệu đô la Mỹ do một nhà hảo tâm ẩn danh hiến tặng, đây là một trong những khoản tài trợ lớn nhất từ trước đến nay cho trường. Sứ mệnh của trung tâm là giúp cho mọi người trên thế giới sống có mục đích, chan hòa và vui tươi thông qua việc thực tập chánh niệm; thúc đẩy các nghiên cứu trên cơ sở thực chứng nhằm cải thiện sức khỏe thể chất và tinh thần thông qua chánh niệm; giáo dục và phổ biến cho mọi người về chánh niệm. Hai lĩnh vực chính của trung tâm là nghiên cứu về dinh dưỡng và môi trường sống.
 
-Giáo sư Lilian Cheung, giám đốc nghiên cứu và thực hành chánh niệm tại Khoa Dinh dưỡng của Trường Y tế Cộng đồng T.H. Chan, đã gặp Sư Ông Làng Mai vào năm 1997 tại một khóa tu chánh niệm và sau đó bà đã cùng viết chung với Sư Ông một cuốn sách có tựa đề _Savor: Mindful Eating, Mindful Life_(tạm dịch Thưởng thức: Ăn trong chánh niệm, Sống trong tỉnh thức).
+Giáo sư Lilian Cheung, giám đốc nghiên cứu và thực hành chánh niệm tại Khoa Dinh dưỡng của Trường Y tế Cộng đồng T.H. Chan, đã gặp Sư Ông Làng Mai vào năm 1997 tại một khóa tu chánh niệm và sau đó bà đã cùng viết chung với Sư Ông một cuốn sách có tựa đề _Savor: Mindful Eating, Mindful Life_ (tạm dịch Thưởng thức: Ăn trong chánh niệm, Sống trong tỉnh thức).
 
 {% image "article2024/Done-Review of the Year/TNH Center/52856213396_7da665de4e_o.jpg" %}
 
 Giáo sư Cheung cho biết: "Trong những năm qua, tôi rất quan tâm đến việc tìm phương thức áp dụng chánh niệm vào lĩnh vực y khoa, tìm cách ngăn ngừa bệnh tật và thúc đẩy an lạc ở quy mô đại chúng. Đó chính là điều mà Trung tâm sẽ thực hiện".
 
-Trung tâm Chánh niệm Thích Nhất Hạnh ra mắt với một hội nghị chuyên đề kéo dài trọn một ngày 26.4 với sự tham gia của rất nhiều nhà khoa học nhằm chia sẻ những nghiên cứu, khám phá khoa học về mối liên hệ giữa chánh niệm với sức khỏe thân tâm. Thầy Pháp Ấn, thầy Pháp Lưu và sư cô Hiến Nghiêm đã đại diện tăng thân chia sẻ trong Hội nghị. Ngoài ra, còn có một buổi vấn đáp do thầy Pháp Dung, thầy Pháp Linh và sư cô Lăng Nghiêm chủ tọa.
+Trung tâm Chánh niệm Thích Nhất Hạnh ra mắt với một hội nghị chuyên đề kéo dài trọn một ngày 26.4, với sự tham gia của rất nhiều nhà khoa học nhằm chia sẻ những nghiên cứu, khám phá khoa học về mối liên hệ giữa chánh niệm với sức khỏe thân tâm. Thầy Pháp Ấn, thầy Pháp Lưu và sư cô Hiến Nghiêm đã đại diện tăng thân chia sẻ trong Hội nghị. Ngoài ra, còn có một buổi vấn đáp do thầy Pháp Dung, thầy Pháp Linh và sư cô Lăng Nghiêm chủ tọa.
 
 Theo thông cáo của Đại học Havard, tính tới đầu năm 2023 đã có gần 25.000 công trình nghiên cứu về chánh niệm được xuất bản trên nhiều tạp chí chuyên ngành khác nhau. Tuy nhiên lĩnh vực này vẫn còn khá mới mẻ, và các nhà nghiên cứu của Trung tâm Chánh niệm Thích Nhất Hạnh sẽ tiếp tục tìm kiếm những công cụ khoa học để đánh giá tác động của chánh niệm tới sức khỏe và hạnh phúc con người.
 
 {% image "article2024/Done-Review of the Year/TNH Center/TNH center.3.jpg", "noFloat lmnq6" %}
 {% image "article2024/Done-Review of the Year/TNH Center/TNH center.8.jpg", "noFloat lmnq6", "Tiến sĩ Lilian Cheung" %}
 {% image "article2024/Done-Review of the Year/TNH Center/TNH center.4.jpg", "noFloat lmnq6" %}
-{% image "article2024/Done-Review of the Year/TNH Center/52853757348_bcebb40f07_6k.jpg", "noFloat lmnq6", 'All photos courtesy of Robert M Walsh<br/><a href="https://www.flickr.com/photos/robertmwalsh/">flickr.com/photos/robertmwalsh/</a>' %}
+{% image "article2024/Done-Review of the Year/TNH Center/52853757348_bcebb40f07_6k.jpg", "noFloat lmnq6", 'Nguồn hình ảnh: Robert M Walsh<br/><a href="https://www.flickr.com/photos/robertmwalsh/">flickr.com/photos/robertmwalsh/</a>' %}
 
 {% image "article2024/Done-Review of the Year/TNH Center/52851181247_26caed8566_6k.jpg", "noFloat lmnq6" %}
 {% image "article2024/Done-Review of the Year/TNH Center/TNH center.5.jpg", "noFloat lmnq6", "Tiến sĩ Jon Kabat-Zinn" %}
@@ -126,7 +126,7 @@ Ngày Quán Niệm Dana có chương trình bao gồm những phần thực tậ
 
 Tờ Việt Báo đã viết: "Ngày quán niệm của tăng đoàn Lộc Uyển đã đem lại niềm an lạc lớn lao không chỉ cho những người tham gia, mà còn cho cả không gian, cây cỏ, muôn loài chung quanh. Bầy ngỗng trời ở hồ nước bên cạnh cũng lên tiếng, giống như để chào đón tăng đoàn cùng những người tham dự. Lâu lắm rồi, ở Mile Square Park mới có một sự kiện cộng đồng với một không khí bình an như vậy".
 
-{% image "article2024/Done-Review of the Year/SCCK-Photo- Văn Lan-Người Việt.jpg", "noFloat", "Nguồn: Văn Lan- báo Người Việt" %}
+{% image "article2024/Done-Review of the Year/SCCK-Photo- Văn Lan-Người Việt.jpg", "noFloat", "Nguồn: Văn Lan - báo Người Việt" %}
 {% image "article2024/Done-Review of the Year/Ngày quán niệm Dana - Credit Việt Báo.jpg", "noFloat lmnq7", "Nguồn: Việt Báo" %}
 {% image "article2024/Done-Review of the Year/Khat thuc - Nguon Viet Bao.jpg", "noFloat lmnq7", "Nguồn: Việt Báo" %}
 
