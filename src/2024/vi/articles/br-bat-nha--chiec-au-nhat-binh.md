@@ -29,14 +29,12 @@ Có lần con có khó khăn với một huynh đệ vì một vài hiểu lầm
 
 Ấy vậy mà mỗi khi gặp người đó, con lại biểu lộ ra những hành xử và sắc mặt chưa đẹp của mình. Con liền vào nhà vệ sinh, nhìn khuôn mặt của mình trên tấm gương phản chiếu. Con thấy rõ được khuôn mặt của mình lúc đang giận hay đang khó chịu, quả thật chẳng ưa nhìn chút nào. Vậy mà huynh đệ đó đã chịu đựng cách hành xử và sắc mặt ấy của con trong ba, bốn ngày đó. Bỗng chốc con thấy mình nhẹ nhàng.
 
-<!-- 
-{% image "article2024/Done-Br. Bat Nha/CTD04445.jpg" %} -->
-
 Con mỉm cười với bản thân trên tấm gương mầu nhiệm đó, thầm nghĩ: “Chào bạn, xin lỗi vì đã để sắc diện này làm ảnh hưởng đến chính bạn và chính những người bạn thương”. Sau đó con lên lạy Bụt, lạy Thầy, con thỏ thẻ với Thầy: “Con sẽ ngồi có mặt với sư anh của con và nhất định sẽ làm mới lại truyền thông với sư anh trong hôm nay”. Sau mấy ngày không nói chuyện, con mời sư anh ngồi chơi cùng con. Nhìn thấy sư anh vừa mới chấp tác xong, mồ hôi nhễ nhại, tự nhiên con càng thấy thương hơn. Ngồi lắng nghe và cùng nhau chia sẻ ra, sợi dây truyền thông giữa con và sư anh đã được nối lại. Lắm lúc, con thấy trong huynh đệ có hiểu lầm, có lời qua tiếng lại, cọ xát với nhau thì mình lại càng có cơ hội hiểu nhau nhiều hơn và mình sẽ làm tốt hơn trong những lần tới. Nhờ đó mà con có câu chuyện dễ thương và giản dị này để kể cho Thầy.
 
-<div class="removeTopMarginInFollowingElem"></div>
+<!-- <div class="removeTopMarginInFollowingElem"></div> -->
 
-{% image "article2024/Done-Br. Bat Nha/Br. T Bat Nha_cut.jpg" %}
+{% image "article2024/Done-Br. Bat Nha/_DSC5640.jpg" %}
+<!-- {% image "article2024/Done-Br. Bat Nha/Br. T Bat Nha_cut.jpg" %} -->
 
 ## Con đã “gặp được” Thầy
 

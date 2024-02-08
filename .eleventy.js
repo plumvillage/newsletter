@@ -8,6 +8,7 @@ articleOrder.vi2024 = require("./src/_data/article-order-vi-2024.js")
 
 const { EleventyRenderPlugin } = require("@11ty/eleventy")
 const fs = require('fs')
+const sizeOf = require('image-size')
 const path = require("path")
 const slugify = require('slugify')
 // const sharp = require("sharp")
@@ -61,7 +62,9 @@ async function imageData(src) {
     // let quality = 80
     // let maxWidth = 1500
     // let quality = 60
-    let maxWidth = 5000
+    // let maxWidth = 5000
+    // let quality = 96
+    let maxWidth = 4000
     let quality = 96
     
     let imgFormat = "jpeg"
@@ -103,8 +106,11 @@ async function imageData(src) {
         // console.log("processing:", src)
 
         if (!fastProcess || !fs.existsSync(destFileSameName)) {
+
+            // only process images with Image() if the maxWidth is exceeded
+            const dimensions = sizeOf(srcFull)
             
-            if (justCopy) {
+            if (justCopy || (dimensions && dimensions.width < maxWidth)) {
                 fs.mkdirSync(outputDir, { recursive: true }, (err) => {
                     if (err) throw err
                 })
@@ -131,6 +137,7 @@ async function imageData(src) {
                     }
                 ]
                 } */
+
                 let metadata = await Image(srcFull, options)
                 // console.log(metadata)
     

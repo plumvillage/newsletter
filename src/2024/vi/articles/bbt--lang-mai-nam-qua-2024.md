@@ -33,7 +33,7 @@ Cũng trong dịp này, đại chúng cùng nhau ăn mừng tu viện Vườn Ư
 
 <div class="page-break"></div>
 
-## Vững một niềm tin – Khóa tu xuất sĩ *(15 – 23.2.2023)*
+## Vững một niềm tin – Khóa tu xuất sĩ<br/>*(15 – 23.2.2023)*
 
 Mỗi năm vào dịp đầu xuân, đại chúng ba xóm Làng Mai Pháp lại cùng nhau sum họp về chùa Pháp Vân, nơi mảnh đất Thénac (Thệ Nhật) thiêng liêng để có mặt cho nhau trong khóa tu xuất sĩ. Quý thầy, quý sư cô từ Viện Phật học Ứng dụng châu Âu (Đức), tu viện Suối Tuệ và Thiền đường Hơi Thở Nhẹ (Paris) cũng về tham dự khóa tu.
 
@@ -137,7 +137,7 @@ Một trong những khóa tu ở Làng được rất nhiều thiền sinh trôn
 {% image "article2024/Done-Review of the Year/cooking retreat/Cooking retreat 2023 38.JPG" %}
 {% image "article2024/Done-Review of the Year/cooking retreat/Cooking retreat 2023 6.JPG" %}
 
-## Khóa tu dành cho doanh nhân Việt *(26.5 – 2.6.2023)*
+## Khóa tu dành cho doanh nhân Việt<br/>*(26.5 – 2.6.2023)*
 
 Trong khi khóa tu nấu ăn diễn ra tại xóm Mới thì tại xóm Thượng có khóa tu dành cho doanh nhân Việt với chủ đề "Có bùn mới có sen". Hơn 50 doanh nhân đến từ Việt Nam đã có một tuần được trải nghiệm nếp sống chánh niệm ở Làng, được học cách sống chậm lại và có mặt nhiều hơn cho chính mình. Đồng thời, họ cũng có thời gian nhìn lại những giá trị sống và động lực thúc đẩy cuộc đời mình cũng như của doanh nghiệp: mình có muốn thực sự trở thành "Số Một" (Number One) hay mình muốn hạnh phúc? Mình có đang là "nạn nhân" cho sự thành công của chính mình? Mình có đang đưa doanh nghiệp đi về hướng thiện lành?
 
@@ -147,11 +147,13 @@ Các doanh nhân còn được học về nghệ thuật ái ngữ và lắng ng
 {% image "article2024/Done-Review of the Year/VietRetreat/vietnamese retreat UH_2023_Nhỉ_68.jpg" %}
 {% image "article2024/Done-Review of the Year/VietRetreat/vietnamese retreat UH_2023_Nhỉ_87.jpg" %}
 
-## Khóa tu "Tìm về ngôi nhà đích thực" *(2 – 9.6.2023)*
+<div class="page-break"></div>
+
+## Khóa tu "Tìm về ngôi nhà đích thực"<br/>*(2 – 9.6.2023)*
 
 Đây là khóa tu lần đầu tiên được tổ chức tại Làng Mai dành riêng cho những người trẻ Việt Nam và châu Á lớn lên ở nước ngoài. Xin đọc bài viết *"Trở về nguồn cội"* của Main Hương, Hồng Anh và Janny trong số báo này để hiểu thêm về cảm nhận của các bạn trẻ khi được trở về và tiếp xúc với gốc rễ của mình.
 
-## Khóa tu "Thương yêu là tự do" *(16 – 23.6.2023)*
+## Khóa tu "Thương yêu là tự do"<br/>*(16 – 23.6.2023)*
 
 Lần đầu tiên tại Làng Mai đã diễn ra một khóa tu kết hợp cả hai hình thức: tham gia trực tiếp tại Làng và tham gia trực tuyến thông qua mạng Internet. Khóa tu này là sáng kiến của cộng đồng tăng thân Trì Địa quốc tế (Earth Holder). 700 thiền sinh đã trực tiếp tham gia khóa tu tại Làng và 800 thiền sinh tham gia trực tuyến từ năm châu lục trên thế giới. Một số tăng thân địa phương tại Đức, Mỹ, Singapore, Chile... đã đến với nhau để cùng tu tập và tham gia các sinh hoạt trực tuyến của khóa tu.
 
@@ -163,7 +165,7 @@ Một trong những điểm nổi bật của khóa tu là Lễ hạ chí – ng
 {% image "article2024/Done-Review of the Year/Earth Retreat/IMG_7942_.jpg", "noFloat" %}
 {% image "article2024/Done-Review of the Year/Earth Retreat/IMG_8033-Enhanced-NR_.jpg", "noFloat" %}
 
-## Công chiếu bộ phim tài liệu "Respire, Souris, Vis" (Thở, Cười và Sống) *(22.6.2023)*
+## Công chiếu bộ phim tài liệu "Respire, Souris, Vis" *(22.6.2023)*
 
 Ngày 22.6, bộ phim tiếng Pháp của đạo diễn Yen Le Van có tựa đề "Respire, Souris, Vis" (Thở, Cười và Sống) với những tư liệu về cuộc đời của Sư Ông, cũng như của một số nhân vật nổi tiếng như Jon Kabat-Zinn, Laurent Debacker, Eline Snel, Mira-Baï Ghatradyal, Jean-Gérard Bloch, đã được công chiếu tại Paris. Bộ phim là một lời mời đối với những ai muốn trở về với chính mình và tìm lại ý nghĩa của cuộc sống: Sống để làm gì? Làm người nghĩa là gì nếu không phải là khả năng vượt qua nỗi sợ hãi trước cái chết, để sống và để yêu thương? Sư cô Chân Không cùng một số quý thầy, quý sư cô đã có mặt trong buổi công chiếu.
 
@@ -195,7 +197,7 @@ Khóa tu mùa hè vừa kết thúc thì mận ở Làng cũng vừa chín. Đi 
 {% image "article2024/Done-Review of the Year/WakeUp/DSC06270.jpg", "noFloat lmnqWakeUp" %}
 {% image "article2024/Done-Review of the Year/WakeUp/PV_2023_132.jpg", "noFloat lmnqWakeUp" %}
 
-## Khóa tu dành cho các thầy cô giáo *(18 – 25.8.2023)*
+## Khóa tu dành cho các thầy cô giáo<br/>*(18 – 25.8.2023)*
 
 Nghỉ ngơi được một tuần sau khóa tu Wake Up, các thầy, các sư cô lại chào đón hơn 300 giáo viên và những người hoạt động trong lĩnh vực giáo dục từ khắp nơi về tu tập. Những bài pháp thoại do sư cô Định Nghiêm, thầy Pháp Lý và sư cô Chân Đức đã giúp cho các thầy cô giáo thấy được tầm quan trọng của sự thực tập chánh niệm đối với tự thân cũng như nuôi dưỡng ước nguyện của mình. Trong bài pháp thoại cuối cùng dành cho thầy cô giáo (27.10.2014), Sư Ông từng căn dặn: "Quý vị có sứ mệnh ươm mầm, và nuôi dưỡng những người trẻ lành mạnh, có khả năng tạo dựng hạnh phúc cho mình và cho xã hội. Sứ mệnh của chúng ta không chỉ là trao truyền kiến thức mà còn là xây dựng con người, xây dựng một xã hội nhân bản để có thể chăm sóc và bảo hộ hành tinh xinh đẹp của chúng ta". Trong khóa tu còn có buổi chia sẻ của các giáo viên có kinh nghiệm trong lĩnh vực đem chánh niệm vào trường học, trong đó có Orlaith O'Sullivan và Richard Brady -- hai điều phối viên của chương trình Wake Up Schools.
 <!-- 
@@ -228,7 +230,7 @@ Kể từ năm 2022, quý thầy xóm Thượng cùng các bạn trong Nông tr�
 {% image "article2024/Done-Review of the Year/Coming home to Mother Earth/Happy Farm.3.jpg", "noFloat lmnqHFarm" %}
 {% image "article2024/Done-Review of the Year/Coming home to Mother Earth/Happy Farm.4.jpg", "noFloat lmnqHFarmBig" %}
 
-## An cư kiết đông 2023 -- 2024 *(19.10.2023 – 16.1.2024)*
+## An cư kiết đông 2023 -- 2024<br/>*(19.10.2023 – 16.1.2024)*
 
 Sáng ngày 19.10, tứ chúng Làng Mai đã vân tập về thiền đường Nước Tĩnh, chùa Pháp Vân, xóm Thượng để làm lễ đối thú An cư kiết đông. Số người an cư tại đạo tràng Mai Thôn trong mùa an cư kiết đông năm nay là *225 vị* (141 xuất sĩ -- 48 tỳ kheo, 78 tỳ kheo ni, 9 sadi, 6 sadi ni; và 84 cận sự nam và nữ). Trong mùa an cư này, đại chúng được nghe lại những bài giảng của Sư Ông về những đóng góp của đạo Bụt cho một nền đạo đức học toàn cầu. Chương trình ngày thứ Năm dành cho xuất sĩ thật đặc biệt, với nhiều lớp học theo các chủ đề đa dạng: đạo đức học so sánh, tâm lý học Phật giáo, văn hóa xuất sĩ... Điều này đem lại một sinh khí mới, đầy cảm hứng cho các xuất sĩ trong mùa an cư năm nay.
 
@@ -244,7 +246,7 @@ Sáng ngày 19.10, tứ chúng Làng Mai đã vân tập về thiền đường
 
 <div class="removeTopMarginInFollowingElem"></div>
 
-## Chương trình tu học trực tuyến "Thiền và Nghệ thuật bảo hộ hành tinh" *(15.10 – 3.12.2023)*
+## Chương trình tu học trực tuyến<br/>"Thiền và Nghệ thuật bảo hộ hành tinh"<br/>*(15.10 – 3.12.2023)*
 
 Với năng lượng tu tập hùng hậu của mùa an cư, tăng thân xuất sĩ còn đồng thời yểm trợ cho chương trình tu học trực tuyến kéo dài bảy tuần với chủ đề "Thiền và Nghệ thuật bảo hộ hành tinh" ("Zen and the Art of Saving the Planet", gọi tắt là ZASP), mở đầu vào ngày 15.10 và kết thúc vào ngày 3.12. Đây là lần đầu tiên tăng thân có được một chương trình tu học trực tuyến được xây dựng công phu từ hình thức cho đến nội dung như vậy. Khoảng 1600 thiền sinh đến từ hơn 50 quốc gia đã tham gia khóa học bảy tuần này. Chương trình được xây dựng trong vòng một năm, từ năm 2022, và bắt đầu đưa vào thử nghiệm vào tháng Hai và tháng Năm năm 2023. Để biết thêm về ý nghĩa của chương trình tu học này, xin đọc bài viết "Thiền và nghệ thuật bảo hộ hành tinh" của thầy Trời Đức Niệm trong số báo này.
 

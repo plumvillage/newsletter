@@ -3,11 +3,11 @@ title: Muôn thu ngàn dặm một nhà
 author: Ban biên tập
 ---
 
-<p class="editors-preface">Tường thuật một vài nét chính về lễ Đại tường của Sư Ông Làng Mai tại Làng Mai Pháp và tại Tổ đình Từ Hiếu, từ ngày 21.01 cho đến 30.01.2024.</p>
+<p class="editors-preface">Tường thuật một vài nét chính về lễ Đại tường của Sư Ông Làng Mai tại Làng Mai Pháp và tại Tổ đình Từ Hiếu.</p>
 
 ## Lời Thầy hóa thiên thu
 
-*(Tứ chúng Làng Mai Pháp ngày 21.01.2024)*
+*(Tứ chúng Làng Mai Pháp)*
 
 Kính bạch Thầy,
 
@@ -78,7 +78,7 @@ Chúng con đang hướng về lễ Đại tường của Thầy mỗi ngày tro
 
 Mỗi thành viên trong tăng thân hiến tặng cho nhau từng nụ sen búp trong lúc chào hỏi, hiến tặng nhau một nụ cười, một bước chân chánh niệm, một đôi dép được xếp rất đẹp, một sự dừng lại khi tiếng chuông được thỉnh lên, hiến tặng nhau sự có mặt tĩnh lặng trong mỗi thời khóa thiền hành, làm việc, ăn cơm, hoặc ngồi bên bếp lửa thưởng trà.
 
-<div style="height: 3em"></div>
+<!-- <div style="height: 3em"></div> -->
 
 {% image "article2024/Done-Memorial-Ceremony/Hue/Before the Ceremony/_DSC3872_e.jpg", "noFloat" %}
 {% image "article2024/Done-Memorial-Ceremony/Hue/Before the Ceremony/_DSC6818.jpg", "noFloat" %}

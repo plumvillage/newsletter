@@ -805,8 +805,9 @@ p.pull-quote:before {
     text-indent: 0 !important;
 }
 
-
-
+.article-lang-mai-nam-qua h2 em {
+    font-weight: normal;
+}
 
 
 
