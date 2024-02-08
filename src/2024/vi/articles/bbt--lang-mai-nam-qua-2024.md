@@ -5,7 +5,7 @@ author: Ban biên tập
 
 *(Tường thuật những hoạt động chính tại Làng Mai Pháp trong năm 2023)*
 
-## Đại Giới Đàn Trừng Quang *(10 – 14.02.2023)*
+## Đại Giới Đàn Trừng Quang *(10 – 14.2.2023)*
 
 Trong không khí ấm áp của mùa xuân nơi núi rừng Khao Yai, các giới tử từ các trung tâm của Làng Mai đã có cơ hội trở về cùng một nơi để thọ giới Khất sĩ nam và Khất sĩ nữ trong Đại giới đàn Trừng Quang được tổ chức tại tu viện Vườn Ươm, Thái Lan, sau một thời gian dài bị ảnh hưởng bởi đại dịch Covid.
 
@@ -31,7 +31,7 @@ Cũng trong dịp này, đại chúng cùng nhau ăn mừng tu viện Vườn Ư
 
 <div class="page-break"></div>
 
-## Vững một niềm tin – Khóa tu xuất sĩ *(15 – 23.02.2023)*
+## Vững một niềm tin – Khóa tu xuất sĩ *(15 – 23.2.2023)*
 
 Mỗi năm vào dịp đầu xuân, đại chúng ba xóm Làng Mai Pháp lại cùng nhau sum họp về chùa Pháp Vân, nơi mảnh đất Thénac (Thệ Nhật) thiêng liêng để có mặt cho nhau trong khóa tu xuất sĩ. Quý thầy, quý sư cô từ Viện Phật học Ứng dụng châu Âu (Đức), tu viện Suối Tuệ và Thiền đường Hơi Thở Nhẹ (Paris) cũng về tham dự khóa tu.
 
@@ -79,7 +79,7 @@ Tiếp nối hạnh nguyện hoằng hóa của Sư Ông đem đạo Bụt ứng
 
 ## Trung tâm Chánh niệm vì Sức khỏe Cộng đồng Thích Nhất Hạnh tại Harvard
 
-Ngày 26.04.2023, Trường Y tế Cộng đồng T.H. Chan thuộc Đại học Harvard (Harvard T.H. Chan School of Public Health) đã chính thức khai trương Trung tâm chánh niệm vì sức khỏe cộng đồng Thích Nhất Hạnh *(Thich Nhat Hanh Center for Mindfulness in Public Health)*. Hơn ba mươi xuất sĩ của Làng Mai, trong đó có thầy Pháp Ấn và sư cô Chân Không, đã có mặt cho sự kiện quan trọng này.
+Ngày 26.4.2023, Trường Y tế Cộng đồng T.H. Chan thuộc Đại học Harvard (Harvard T.H. Chan School of Public Health) đã chính thức khai trương Trung tâm chánh niệm vì sức khỏe cộng đồng Thích Nhất Hạnh *(Thich Nhat Hanh Center for Mindfulness in Public Health)*. Hơn ba mươi xuất sĩ của Làng Mai, trong đó có thầy Pháp Ấn và sư cô Chân Không, đã có mặt cho sự kiện quan trọng này.
 
 <!-- CREDIT Rob Walsh -->
 
@@ -106,7 +106,7 @@ Theo thông cáo của Đại học Havard, tính tới đầu năm 2023 đã c�
 
 ## Làng Mai tại Hội nghị Thượng đỉnh Phật giáo toàn cầu
 
-Sáng ngày, 20-4, Hội nghị Thượng đỉnh Phật giáo Toàn cầu năm 2023 do Liên minh Phật giáo Thế giới (IBC) tổ chức đã khai mạc trọng thể tại New Delhi, Ấn Độ với sự tham dự của hơn 700 đại biểu, trong đó có 170 đại biểu đến từ 30 quốc gia và vùng lãnh thổ. Hội nghị diễn ra trong hai ngày 20 và 21.4 với chủ đề "Ứng xử với những thách thức đương đại từ triết học đến thực tiễn". Phái đoàn Làng Mai có thầy Pháp Khởi, thầy Nguyên Lực, sư cô Biện Nghiêm và sư cô Trăng Lộc Uyển đã tham dự Hội nghị. Sự kiện diễn ra cùng với thời điểm quý thầy, quý sư cô đang có chuyến hoằng pháp tại Ấn Độ.
+Sáng ngày 20.4, Hội nghị Thượng đỉnh Phật giáo Toàn cầu năm 2023 do Liên minh Phật giáo Thế giới (IBC) tổ chức đã khai mạc trọng thể tại New Delhi, Ấn Độ với sự tham dự của hơn 700 đại biểu, trong đó có 170 đại biểu đến từ 30 quốc gia và vùng lãnh thổ. Hội nghị diễn ra trong hai ngày 20 và 21.4 với chủ đề "Ứng xử với những thách thức đương đại từ triết học đến thực tiễn". Phái đoàn Làng Mai có thầy Pháp Khởi, thầy Nguyên Lực, sư cô Biện Nghiêm và sư cô Trăng Lộc Uyển đã tham dự Hội nghị. Sự kiện diễn ra cùng với thời điểm quý thầy, quý sư cô đang có chuyến hoằng pháp tại Ấn Độ.
 
 <div class="page-break"></div>
 
@@ -114,13 +114,13 @@ Sáng ngày, 20-4, Hội nghị Thượng đỉnh Phật giáo Toàn cầu năm 
 
 Kết hợp với sự kiện thành lập Trung tâm Chánh niệm Thích Nhất Hạnh tại Harvard, Sư cô Chân Không đã có một số hoạt động hoằng pháp tại ba tu viện của Làng Mai tại Mỹ.
 
-*Tại tu viện Bích Nham*, Sư cô đã hướng dẫn một ngày quán niệm cho tăng thân tứ chúng vào ngày 16.4, và cho một bài pháp thoại công cộng với chủ đề "Từ bi trong Hành động" (Compassion in Action) do Hội Chủng viện Thần học Hoa Kỳ (Union Theological Seminary) cùng quý thầy, quý sư cô tu viện Bích Nham tổ chức vào ngày 18.4. Ngay sau đó, Sư cô hướng dẫn khóa tu Tiếp hiện, từ ngày 19-23.04.2023, với chủ đề "Nghệ thuật thương yêu" (The Art of Compassion).
+*Tại tu viện Bích Nham*, Sư cô đã hướng dẫn một ngày quán niệm cho tăng thân tứ chúng vào ngày 16.4, và cho một bài pháp thoại công cộng với chủ đề "Từ bi trong Hành động" (Compassion in Action) do Hội Chủng viện Thần học Hoa Kỳ (Union Theological Seminary) cùng quý thầy, quý sư cô tu viện Bích Nham tổ chức vào ngày 18.4. Ngay sau đó, Sư cô hướng dẫn khóa tu Tiếp hiện, từ ngày 19-23.4.2023, với chủ đề "Nghệ thuật thương yêu" (The Art of Compassion).
 
 {% image "article2024/Done-Review of the Year/Screenshot from 2024-02-07 10-49-06.jpg" %}
 
 *Tại tu viện Mộc Lan*, một khóa tu năm ngày đã diễn ra từ ngày 3.5 đến ngày 7.5 với chủ đề "Tình thương đích thực" (Learning True Love). Khóa tu này còn có chương trình dành cho trẻ em và thiếu niên.
 
-*Tại tu viện Lộc Uyển*, Sư cô đã tham gia hướng dẫn một ngày quán niệm vào ngày 14.5. Ngoài ra, còn có một ngày quán niệm đặc biệt, được gọi là ngày quán niệm Dana, được tổ chức vào sáng Chủ Nhật ngày 21.05, tại công viên Mile Square Fountain Valley, quận Cam. Có khoảng 600 người đã đến tham gia ngày thực tập Chánh niệm đặc biệt này. Nhiều người trong số đó không phải là người gốc Việt. Do vậy, ngôn ngữ chính được sử dụng trong ngày quán niệm là tiếng Anh, có thông dịch sang tiếng Việt trong phần pháp thoại.
+*Tại tu viện Lộc Uyển*, Sư cô đã tham gia hướng dẫn một ngày quán niệm vào ngày 14.5. Ngoài ra, còn có một ngày quán niệm đặc biệt, được gọi là ngày quán niệm Dana, được tổ chức vào sáng Chủ Nhật ngày 21.5, tại công viên Mile Square Fountain Valley, quận Cam. Có khoảng 600 người đã đến tham gia ngày thực tập Chánh niệm đặc biệt này. Nhiều người trong số đó không phải là người gốc Việt. Do vậy, ngôn ngữ chính được sử dụng trong ngày quán niệm là tiếng Anh, có thông dịch sang tiếng Việt trong phần pháp thoại.
 
 Ngày Quán Niệm Dana có chương trình bao gồm những phần thực tập căn bản nhất theo truyền thống Làng Mai: nghe chuông, quán niệm hơi thở, thiền hành, thiền buông thư... Đặc biệt, có thêm nghi thức tăng đoàn đi khất thực, để những người tham gia có thể thực tập hạnh cúng dường, bố thí. Ngày quán niệm Dana cũng là dịp tăng thân gây quỹ cho công trình xây dựng tăng xá của tu viện Lộc Uyển.
 
@@ -130,9 +130,9 @@ Tờ Việt Báo đã viết: "Ngày quán niệm của tăng đoàn Lộc Uyể
 {% image "article2024/Done-Review of the Year/Ngày quán niệm Dana - Credit Việt Báo.jpg", "noFloat lmnq7", "Nguồn: Việt Báo" %}
 {% image "article2024/Done-Review of the Year/Khat thuc - Nguon Viet Bao.jpg", "noFloat lmnq7", "Nguồn: Việt Báo" %}
 
-## Khóa tu nấu ăn tại xóm Mới *(từ 26.05 – 02.06.2023)*
+## Khóa tu nấu ăn tại xóm Mới *(26.5 – 2.6.2023)*
 
-Một trong những khóa tu ở Làng được rất nhiều thiền sinh trông đợi, đó là khóa tu Nấu ăn thường được tổ chức tại xóm Mới. Năm nay, với chủ đề "Giây phút nấu ăn -- Giây phút hạnh phúc" (Cooking moment, Happy moment), khóa tu đã thu hút hơn 200 thiền sinh về tham dự. Các bạn thiền sinh được học cách nấu những món ăn ngon, học cách chế tác niềm vui trong khi làm bếp và cả những sự thực tập cần thiết để tạo nên một đời sống lành mạnh, hạnh phúc cho bản thân. Sư Ông từng dạy:"Khi ta biết nấu ăn trong chánh niệm, nhà bếp sẽ trở thành ra thiền đường. Lúc ấy, an vui và hạnh phúc sẽ tỏa chiếu trong ta và xung quanh ta. Được nấu cơm nuôi sống tăng thân hay gia đình, đó là một hạnh phúc".
+Một trong những khóa tu ở Làng được rất nhiều thiền sinh trông đợi là khóa tu Nấu ăn, thường được tổ chức tại xóm Mới. Năm nay, với chủ đề "Giây phút nấu ăn -- Giây phút hạnh phúc" (Cooking moment, Happy moment), khóa tu đã thu hút hơn 200 thiền sinh về tham dự. Các bạn thiền sinh được học cách nấu những món ăn ngon và lành, học cách chế tác niềm vui trong khi làm bếp và cả những sự thực tập cần thiết để tạo nên một đời sống lành mạnh, hạnh phúc cho bản thân. Khi ta biết nấu ăn trong chánh niệm, nhà bếp sẽ trở thành ra thiền đường. Lúc ấy, an vui và hạnh phúc sẽ tỏa chiếu trong ta và xung quanh ta. Được nấu cơm nuôi sống tăng thân hay gia đình, đó là một hạnh phúc.
 
 {% image "article2024/Done-Review of the Year/cooking retreat/Cooking retreat 2023 38.JPG" %}
 {% image "article2024/Done-Review of the Year/cooking retreat/Cooking retreat 2023 6.JPG" %}
@@ -141,7 +141,7 @@ Một trong những khóa tu ở Làng được rất nhiều thiền sinh trôn
 
 Trong khi khóa tu nấu ăn diễn ra tại xóm Mới thì tại xóm Thượng có khóa tu dành cho doanh nhân Việt với chủ đề "Có bùn mới có sen". Hơn 50 doanh nhân đến từ Việt Nam đã có một tuần được trải nghiệm nếp sống chánh niệm ở Làng, được học cách sống chậm lại và có mặt nhiều hơn cho chính mình. Đồng thời, họ cũng có thời gian nhìn lại những giá trị sống và động lực thúc đẩy cuộc đời mình cũng như của doanh nghiệp: mình có muốn thực sự trở thành "Số Một" (Number One) hay mình muốn hạnh phúc? Mình có đang là "nạn nhân" cho sự thành công của chính mình? Mình có đang đưa doanh nghiệp đi về hướng thiện lành?
 
-Các doanh nhân còn được học về nghệ thuật ái ngữ và lắng nghe, nghệ thuật làm mới do Sư cô Chân Không hướng dẫn để có thể áp dụng trong gia đình cũng như trong doanh nghiệp của mình. Sau khóa tu, có hơn 20 vị đã tiếp nhận Năm giới quý báu để tiếp tục nuôi dưỡng đời sống tâm linh của mình.
+Các doanh nhân còn được học về nghệ thuật ái ngữ và lắng nghe, nghệ thuật làm mới do Sư cô Chân Không hướng dẫn để có thể áp dụng trong gia đình cũng như trong doanh nghiệp. Sau khóa tu, có hơn 20 vị đã tiếp nhận Năm giới quý báu để tiếp tục nuôi dưỡng đời sống tâm linh của mình.
 
 {% image "article2024/Done-Review of the Year/VietRetreat/DSC06951.JPG" %}
 {% image "article2024/Done-Review of the Year/VietRetreat/vietnamese retreat UH_2023_Nhỉ_68.jpg" %}
@@ -153,7 +153,7 @@ Các doanh nhân còn được học về nghệ thuật ái ngữ và lắng ng
 
 ## Khóa tu "Thương yêu là tự do" *(16 – 23.6.2023)*
 
-Lần đầu tiên tại Làng Mai đã diễn ra một khóa tu kết hợp cả hai hình thức: tham gia trực tiếp tại Làng và tham gia trực tuyến thông qua mạng internet. Khóa tu này là sáng kiến của cộng đồng tăng thân Trì Địa quốc tế (Earth Holder). 700 thiền sinh đã trực tiếp tham gia khóa tu tại Làng và 800 thiền sinh tham gia trực tuyến từ năm châu lục trên thế giới. Một số tăng thân địa phương tại Đức, Mỹ, Singapore, Chile... đã đến với nhau để cùng tu tập và tham gia các sinh hoạt trực tuyến của khóa tu.
+Lần đầu tiên tại Làng Mai đã diễn ra một khóa tu kết hợp cả hai hình thức: tham gia trực tiếp tại Làng và tham gia trực tuyến thông qua mạng Internet. Khóa tu này là sáng kiến của cộng đồng tăng thân Trì Địa quốc tế (Earth Holder). 700 thiền sinh đã trực tiếp tham gia khóa tu tại Làng và 800 thiền sinh tham gia trực tuyến từ năm châu lục trên thế giới. Một số tăng thân địa phương tại Đức, Mỹ, Singapore, Chile... đã đến với nhau để cùng tu tập và tham gia các sinh hoạt trực tuyến của khóa tu.
 
 Thật cảm động khi nhìn thấy hình ảnh hơn một ngàn người từ các quốc gia khác nhau trên hành tinh cùng nhau thắp lên ánh sáng tỉnh thức và nhìn sâu vào liên hệ giữa mình với thiên nhiên, với đất Mẹ. Càng nhìn được bằng tuệ giác tương tức, ta càng thức tỉnh, có đủ sức mạnh và tình thương để bảo hộ đất Mẹ. Tâm thương yêu càng rộng lớn, ta càng có nhiều tự do.
 
@@ -165,13 +165,11 @@ Một trong những điểm nổi bật của khóa tu là Lễ hạ chí – ng
 
 ## Công chiếu bộ phim tài liệu "Respire, Souris, Vis" (Thở, Cười và Sống) *(22.6.2023)*
 
-Ngày 22.6, bộ phim tiếng Pháp của đạo diễn Yen Le Van có tựa đề "Respire, Souris, Vis" (Thở, Cười và Sống) với những tư liệu về cuộc đời của Sư Ông, cũng như của một số nhân vật nổi tiếng như Jon Kabat-Zinn, Laurent Debacker, Eline Snel, Mira-Baï Ghatradyal, Jean-Gérard Bloch,
-
-đã được công chiếu tại Paris. Bộ phim là một lời mời đối với những ai muốn trở về với chính mình và tìm lại ý nghĩa của cuộc sống: Sống để làm gì? Làm người nghĩa là gì nếu không phải là khả năng vượt qua nỗi sợ hãi trước cái chết, để sống và để yêu thương? Sư cô Chân Không cùng một số quý thầy, quý sư cô đã có mặt trong buổi công chiếu.
+Ngày 22.6, bộ phim tiếng Pháp của đạo diễn Yen Le Van có tựa đề "Respire, Souris, Vis" (Thở, Cười và Sống) với những tư liệu về cuộc đời của Sư Ông, cũng như của một số nhân vật nổi tiếng như Jon Kabat-Zinn, Laurent Debacker, Eline Snel, Mira-Baï Ghatradyal, Jean-Gérard Bloch, đã được công chiếu tại Paris. Bộ phim là một lời mời đối với những ai muốn trở về với chính mình và tìm lại ý nghĩa của cuộc sống: Sống để làm gì? Làm người nghĩa là gì nếu không phải là khả năng vượt qua nỗi sợ hãi trước cái chết, để sống và để yêu thương? Sư cô Chân Không cùng một số quý thầy, quý sư cô đã có mặt trong buổi công chiếu.
 
 ## Khóa tu mùa Hè *(9 – 29.7.2023)*
 
-Khóa tu mùa Hè là khóa tu đông vui nhất trong năm vì có cả trẻ em và thiếu niên về Làng tu tập cùng cha mẹ. Làng đã trở thành điểm hẹn của nhiều gia đình trong dịp hè. Năm nay, hơn 2000 người từ khắp nơi trên thế giới, trong đó có 170 thiếu niên và 480 thiếu nhi, đã về Làng tu tập trong ba tuần của mùa hè. Nhờ có 120 tình nguyện viên, trong đó có nhiều đồng bào từ Việt Nam qua, nên khóa tu diễn ra khá suôn sẻ và vui tươi.
+Khóa tu mùa Hè là khóa tu đông vui nhất trong năm vì có cả trẻ em và thiếu niên về Làng tu tập cùng cha mẹ. Làng đã trở thành điểm hẹn của nhiều gia đình trong dịp hè. Năm nay, tổng cộng có hơn 2000 người từ khắp nơi trên thế giới, trong đó có 170 thiếu niên và 480 thiếu nhi, đã về Làng tu tập trong ba tuần của mùa hè. Nhờ có 120 tình nguyện viên, trong đó có nhiều đồng bào từ Việt Nam qua, nên khóa tu diễn ra khá suôn sẻ và vui tươi.
 
 {% image "article2024/Done-Review of the Year/Summer retreat/PV_2023_69.jpg", "noFloat" %}
 {% image "article2024/Done-Review of the Year/Summer retreat/ancestors-festival-deco.jpg", "noFloat" %}
@@ -185,7 +183,7 @@ Khóa tu mùa Hè là khóa tu đông vui nhất trong năm vì có cả trẻ e
 
 ## Khóa tu Wake Up "Thương yêu trong Hành động" *(4 – 11.8.2023)*
 
-Khóa tu mùa hè vừa kết thúc thì mận ở Làng cũng vừa chín. Đi dạo quanh xóm, bạn sẽ cảm nhận được mùi mận chín ngọt thơm lừng trong nắng ấm. Hơn 600 bạn trẻ từ 18 -- 35 tuổi, đến từ hơn 30 quốc gia, đã về Làng trong dịp này để tham dự khóa tu "Thương yêu trong hành động" ("Love in Action"). Một bạn trẻ đến từ Tây Ban Nha chia sẻ: "Năng lượng tập thể của khóa tu rất hùng tráng, thật đáng kinh ngạc. Tôi rất xúc động khi nghe những chia sẻ rất thật lòng của các bạn thiền sinh cũng như của quý thầy, quý sư cô. Thật tuyệt vời biết bao khi được đến với nhau như thế này và chia sẻ những nỗi sợ hãi sâu sắc nhất, nỗi đau buồn, khát vọng và cả niềm vui chung với nhau". Cuối khóa hơn, hơn 200 bạn trẻ đã tiếp nhận Năm Giới, coi đây như một chiếc la bàn để giúp các bạn đi về hướng bình an và hạnh phúc chân thật.
+Khóa tu mùa hè vừa kết thúc thì mận ở Làng cũng vừa chín. Đi dạo quanh xóm, bạn sẽ cảm nhận được mùi mận chín ngọt thơm lừng trong nắng ấm. Hơn 600 bạn trẻ từ 18 -- 35 tuổi, đến từ hơn 30 quốc gia, đã về Làng trong dịp này để tham dự khóa tu "Love in Action" (Thương yêu trong hành động). Một bạn trẻ đến từ Tây Ban Nha chia sẻ: "Năng lượng tập thể của khóa tu rất hùng tráng, thật đáng kinh ngạc. Tôi rất xúc động khi nghe những chia sẻ rất thật lòng của các bạn thiền sinh cũng như của quý thầy, quý sư cô. Thật tuyệt vời biết bao khi được đến với nhau như thế này và chia sẻ những nỗi sợ hãi sâu sắc nhất, nỗi đau buồn, khát vọng và cả niềm vui chung với nhau". Cuối khóa hơn, hơn 200 bạn trẻ đã tiếp nhận Năm Giới, coi đây như kim chỉ nam giúp các bạn đi về hướng bình an và hạnh phúc chân thật.
 
 {% image "article2024/Done-Review of the Year/WakeUp/10-1.jpg", "noFloat lmnqWakeUp" %}
 {% image "article2024/Done-Review of the Year/WakeUp/DSC05858_sel_e.JPG", "noFloat lmnqWakeUp" %}
@@ -232,7 +230,7 @@ Kể từ năm 2022, quý thầy xóm Thượng cùng các bạn trong Nông tr�
 
 ## An cư kiết đông 2023 -- 2024 *(19.10.2023 – 16.1.2024)*
 
-Sáng ngày 19 tháng 10, tứ chúng Làng Mai đã vân tập về thiền đường Nước Tĩnh, chùa Pháp Vân, xóm Thượng để làm lễ đối thú An cư kiết đông. Số người an cư tại đạo tràng Mai Thôn trong mùa an cư kiết đông năm nay là *225 vị* (141 xuất sĩ -- 48 tỳ kheo, 78 tỳ kheo ni, 9 sadi, 6 sadi ni; và 84 cận sự nam và nữ). Trong mùa an cư này, đại chúng được nghe lại những bài giảng của Sư Ông về những đóng góp của đạo Bụt cho một nền đạo đức học toàn cầu. Chương trình ngày thứ Năm dành cho xuất sĩ thật đặc biệt, với nhiều lớp học theo các chủ đề đa dạng: đạo đức học so sánh, tâm lý học Phật giáo, văn hóa xuất sĩ... Điều này đem lại một sinh khí mới, đầy cảm hứng cho các xuất sĩ trong mùa an cư năm nay.
+Sáng ngày 19.10, tứ chúng Làng Mai đã vân tập về thiền đường Nước Tĩnh, chùa Pháp Vân, xóm Thượng để làm lễ đối thú An cư kiết đông. Số người an cư tại đạo tràng Mai Thôn trong mùa an cư kiết đông năm nay là *225 vị* (141 xuất sĩ -- 48 tỳ kheo, 78 tỳ kheo ni, 9 sadi, 6 sadi ni; và 84 cận sự nam và nữ). Trong mùa an cư này, đại chúng được nghe lại những bài giảng của Sư Ông về những đóng góp của đạo Bụt cho một nền đạo đức học toàn cầu. Chương trình ngày thứ Năm dành cho xuất sĩ thật đặc biệt, với nhiều lớp học theo các chủ đề đa dạng: đạo đức học so sánh, tâm lý học Phật giáo, văn hóa xuất sĩ... Điều này đem lại một sinh khí mới, đầy cảm hứng cho các xuất sĩ trong mùa an cư năm nay.
 
 {% image "article2024/Done-Review of the Year/Rains retreat/013.Varsavasana_2023-24_011724.jpg", "noFloat" %}
 {% image "article2024/Done-Review of the Year/Rains retreat/037.Varsavasana_2023-24_011724.jpg", "noFloat lmnqRainsSCCK" %}
