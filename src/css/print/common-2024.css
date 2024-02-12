@@ -851,6 +851,7 @@ h1#transforming-resentment-into-compassion {
     margin-top: -21pt;
     padding-left: 2em;
 }
+.article-co-nhung-ngay-uom-nang h2.author,
 .article-a-friend-on-the-path h2.author {
     margin-top: -12pt;
 }
@@ -907,6 +908,7 @@ h1#transforming-resentment-into-compassion {
     margin-top: -18pt;
     margin-left: 3.5em;
 }
+.article-muon-thu-ngan-dam-mot-nha h2.author,
 .article-theo-dau-chan-xua h2.author {
     margin-top: -6pt;
 }
@@ -916,6 +918,9 @@ h1#transforming-resentment-into-compassion {
 .article-lang-mai-nam-qua h2.author {
     margin-top: -10pt;
     margin-left: 20mm;
+}
+.article-bong-dang-thay h2.author {
+    margin-top: -8pt;
 }
 
 /* default is 32mm */
@@ -938,27 +943,6 @@ h1#tro-ve-nguon-coi img,
     max-height: 26mm !important;
 }
 
-
-
-
-
-/* adjusting calligraphies size */
-/* h1#tro-ve-nguon-coi,
-h1#tro-ve-nguon-coi img,
-#calligraphy2024article-titlessr-hien-hanh-the-calling, #calligraphy2024article-titlessr-hien-hanh-the-calling img {
-    max-height: 44mm !important;
-} */
-/* #calligraphy2024article-titlessu-ong-love-is-the-answer, #calligraphy2024article-titlessu-ong-love-is-the-answer img {
-    max-height: 39mm !important;
-}
-#calligraphy2024article-titlesbr-hai-thuong-trot-thuong,
-#calligraphy2024article-titlesbr-hai-thuong-trot-thuong img,
-#calligraphy2024article-titlessr-hien-hanh-tieng-goi, #calligraphy2024article-titlessr-hien-hanh-tieng-goi img {
-    max-height: 50mm !important;
-}
-#calligraphy2024article-titlesbr-duc-dinh-a-day-of-alms, #calligraphy2024article-titlesbr-duc-dinh-a-day-of-alms img {
-    max-height: 47mm !important;
-} */
 
 
 

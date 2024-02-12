@@ -55,15 +55,11 @@ async function imageData(src) {
     let fastProcess = true
     let justCopy = false
     
-    // ~2600px width = 300 PPI
-    // ~4340px width = 500 PPI
+    // ~2600px width/A4 = 300 PPI
+    // ~4340px width/A4 = 500 PPI
 
-    // let maxWidth = 700
-    // let quality = 80
     let maxWidth = 1500
     let quality = 60
-    // let maxWidth = 5000
-    // let quality = 96
     // let maxWidth = 4000
     // let quality = 96
     

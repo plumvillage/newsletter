@@ -20,15 +20,19 @@ module.exports = [
     "sr-bao-nghiem--tho",
     
     // PART 2
-    // "cau-tra-loi-la-tinh-thuong",
-    // "sr-bo-de--bong-dang-thay",
-    // "br-hai-thuong--trot-thuong",
-    // "br-hai-thuong--nguoi-da-ve-da-toi",
-    // "br-hai-thuong--nguoi-di-hai-thuoc-dau-non",
-    // "tien-nguyen--co-nhung-ngay-uom-nang",
-    // "sr-chua-xua--loc-uyen-mua-an-vui",
+    "cau-tra-loi-la-tinh-thuong",
+    "sr-bo-de--bong-dang-thay",
+    "br-hai-thuong--trot-thuong",
+    "br-hai-thuong--nguoi-da-ve-da-toi",
+    "br-hai-thuong--nguoi-di-hai-thuoc-dau-non",
+    "tien-nguyen--co-nhung-ngay-uom-nang",
+    "sr-chua-xua--loc-uyen-mua-an-vui",
     
-    // "scck--xuan-yeu-thuong-ngap-tran-nam-thang",
-    // "sr-dinh-nghiem--cuoc-song",
-    // "br-tuong-tuc--con-tu-la-con-thay-nhau",
+    "scck--xuan-yeu-thuong-ngap-tran-nam-thang",
+    "sr-dinh-nghiem--cuoc-song",
+    "br-tuong-tuc--con-tu-la-con-thay-nhau",
+
+    // Calligraphies for:
+    // quet la
+    // thien tri thuc
 ]

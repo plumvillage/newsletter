@@ -176,7 +176,7 @@ async function generatePDF(url, outputFile, onFinished = () => {}, customPdfOpti
     // justCopy -> breaks! (ProtocolError)
     // [5000, q96] -> out: 769MiB
 
-    // https://github.com/puppeteer/puppeteer/blob/main/docs/api.md#pagecreatepdfstreamoptions
+    // https://pptr.dev/api/puppeteer.pdfoptions
     let usePDFstream = true
     let pdfOptions = {
         preferCSSPageSize: true,
@@ -220,7 +220,8 @@ let workQueue = [
     // () => generatePDF("http://localhost:8080/2024/en/a4/", `./docs/2024/en-a4`, onFinshed),
     // () => generatePDF("http://localhost:8080/2024/en/a4-bleed/", `./docs/2024/vi-a4-bleed`, onFinshed),
     
-    () => generatePDF("http://localhost:8080/2024/vi/a4/", `./docs/2024/vi-a4`, onFinshed),
+    // () => generatePDF("http://localhost:8080/2024/vi/a4/", `./docs/2024/vi-a4`, onFinshed),
+    () => generatePDF("http://localhost:8080/2024/en/articles-print-preview/br-duc-dinh--a-day-of-alms/", `./docs/2024/br-duc-dinh--a-day-of-alms`, onFinshed),
     // () => generatePDF("http://localhost:8080/2024/vi/a4-bleed/", `./docs/2024/vi-a4-bleed`, onFinshed),
     
     

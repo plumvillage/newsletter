@@ -61,9 +61,9 @@ html:lang(vi) .pagedjs_right_page .pagedjs_margin-bottom-right {
     {# >fixed< positioned elements are placed by pagedjs on >every< pagedjs_pagebox #}
     position: absolute;
     z-index: -1;
-    width: calc(var(--pagedjs-pagebox-width) + (var(--bleed)) * 2 - 0mm);
+    width: calc(var(--pagedjs-pagebox-width) + (var(--bleed)) * 2);
     {# width: calc(var(--pagedjs-pagebox-width)); #}
-    left: calc((var(--pagedjs-margin-left) + var(--bleed))*-1 + 0mm);
+    left: calc((var(--pagedjs-margin-left) + var(--bleed))*-1);
     {# left: calc((var(--bleed)) * -1); #}
     {# left: 0mm; #}
     overflow: visible;
@@ -80,18 +80,8 @@ html:lang(vi) .pagedjs_right_page .pagedjs_margin-bottom-right {
 figure#article2024{{ item[0] }} {
     {# cannot do it with >top< because I do not know the image height #}
 
-    {# negative >bottom< works if the element is not the last in the text flow #}
-    {# bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + {{ item[2] }}) * -1); #}
-
-    {# padding-left: 1mm;
-    padding-right: 1mm;
-    padding-bottom: 1mm; #}
-
+    {# Chrome PDF output does NOT include this image in A4 without bleed if it extend beyond the page at the bottom. It CAN extend over the left and right page border, but not the bottom. #}
     bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + {{ item[1] }} + {{ item[2] }}) * -1 + 0mm);
-
-    {# bottom: calc( (var(--pagedjs-bleed-bottom) + {{ item[2] }} ) * -1); #}
-    {# bottom: calc( (var(--bleed) + {{ item[2] }} ) * -1); #}
-    {# bottom: -5mm; #}
 
     {%- if not (item[3] == 0 and item[4] == 0) %}
         mask-image: linear-gradient(to bottom,
