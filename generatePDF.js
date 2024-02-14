@@ -186,7 +186,7 @@ async function generatePDF(url, outputFile, onFinished = () => {}, customPdfOpti
         printBackground: true,
         path: outputFile
     }
-
+    
     for (let key in customPdfOptions)
         pdfOptions[key] = customPdfOptions[key]
     if (pdfOptions.format || pdfOptions.width || pdfOptions.height)

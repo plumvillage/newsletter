@@ -1183,6 +1183,7 @@ figure#article2024Done-Review-of-the-YearTNH-Center528562133967da665de4eo {
     /* margin-top: 2em; */
     margin-bottom: 0em;
 }
+figure#article2024Done-Coming-home-to-our-rootsPXL20230608053312985e,
 figure#article2024Done-interview-with-thayEni-am-in-love-with-mother-earthe {
     width: 64%;
     margin-bottom: 0em;
@@ -1192,7 +1193,7 @@ figure#article2024Done-sr-linh-di20231006-Battir-Terracee {
     margin-bottom: 0em;
 }
 figure#article2024Done-Sr-Hien-HanhSr-Hien-Hanh-2e {
-    width: 66%;
+    width: 77%;
     margin-bottom: 0em;
 }
 figure#article2024Done-sr-linh-di4b0fc9b1-47ca-49f3-8d3c-8395efe91e73e {
@@ -1200,7 +1201,6 @@ figure#article2024Done-sr-linh-di4b0fc9b1-47ca-49f3-8d3c-8395efe91e73e {
     margin-bottom: 0em;
 }
 figure#article2024Done-Memorial-Ceremony67SuOng2ndYearMemorial220124crop,
-figure#article2024Done-Coming-home-to-our-rootsPXL20230608053312985e,
 figure#article2024Done-SrHoa-NghiemSrHoa-Nghiem-Princetone {
     width: 100%;
     margin-bottom: 0em;
@@ -1469,4 +1469,14 @@ figure.lmnq5 {
 /* toc */
 div[data-page-number="3"] .pagedjs_margin-bottom {
     display: none;
+}
+
+/* the inner covers themselves did not account for the inside margins, so I add them manually  */
+figure#LTLM47-2024-Inner-Covers-A4-Left {
+    position: absolute;
+    left: -5mm;
+}
+figure#LTLM47-2024-Inner-Covers-A4-Right {
+    position: absolute;
+    right: -5mm;
 }
