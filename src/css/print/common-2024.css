@@ -817,6 +817,29 @@ p.pull-quote:before {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* ////////////////////////////////////////////////// */
 /* ////////////////////////////////////////////////// */
 /* /////////////  CASE-BASED STYLING  /////////////// */
@@ -988,13 +1011,6 @@ h1#tro-ve-nguon-coi img,
 
 
 
-
-
-figure#article2024br-duc-hienIMG0754e {
-    padding-left: 10%;
-    padding-right: 10%;
-}
-
 figure#article2024Done-Daffodil-familyBrNhat-Xuane2,
 figure#article2024Done-Daffodil-family137110723e,
 figure#article2024Done-Daffodil-familySrDieu-Hanhe,
@@ -1033,8 +1049,8 @@ figure#article2024Done-interview-with-thayTNH-spain2014-2 {
     float: none;
     column-span: all;
     width: 71%;
-    margin-top: 2em;
-    margin-bottom: 2em;
+    margin-top: 1.2em;
+    margin-bottom: 1.4em;
     margin-left: auto;
     margin-right: auto;
 }
@@ -1049,6 +1065,7 @@ figure#article2024Done-interview-with-thayTNH-spain2014-2 + p {
     text-shadow: 0.3pt 0.4pt 0px white;
 }
 
+#article2024sr-tam-muoiSr-Tam-Muoie,
 #article2024Done-Resillence-Community-SpitualityHa-Vinh-Tho34,
 #article2024Done-Resillence-Community-SpitualityRehena34,
 #article2024Done-Resillence-Community-SpitualitySatish-Kumar34 {
@@ -1059,6 +1076,11 @@ figure#article2024Done-interview-with-thayTNH-spain2014-2 + p {
     margin-bottom: 2.3em;
     /* margin-top: 0em; */
     width: 35%;
+}
+
+#article2024sr-tam-muoiSr-Tam-Muoie {
+    margin-top: 0em;
+    margin-bottom: 0em;
 }
 
 html:lang(vi) #article2024Done-Resillence-Community-SpitualityRehena34,
@@ -1099,10 +1121,6 @@ figure#article2024Done-Br-Bat-NhaCTD04445 {
     width: 45%;
 }
 
-figure#article2024Done-Br-Bat-NhaCTD04521e {
-    padding-left: 6%;
-    padding-right: 6%;
-}
 
 /* full-paper-width */
 figure#article2024Done-Sr-Tuyet-NIMG6618ecut {
@@ -1322,6 +1340,19 @@ figure#calligraphyarticle-titles-2-and-dividers5-maskedDividers1-1
 .PAGE-OF-article2024ScannedDrawings0705-Ky-to-dje-nhie .last-article-element::after,
 .PAGE-OF-article2024Done-BrDJuc-DJinhRains-retreat-23-249 .last-article-element::after {
     display: none;
+}
+
+
+
+
+figure#article2024br-duc-hienIMG0754e {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+figure#article2024sr-tam-muoiIMG20230901075344e,
+figure#article2024Done-Br-Bat-NhaCTD04521e {
+    padding-left: 6%;
+    padding-right: 6%;
 }
 
 figure#article2024Done-Memorial-Ceremony40SuOng2ndYearMemorial220124,
