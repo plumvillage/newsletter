@@ -43,6 +43,9 @@ Later, our sharing circle was silently journaling, together under the pines, res
 
 A hornet buzzed and steered its way right through our circle, curious to see a group of humans so still. But no one reacted, such was the quiet and concentration.
 
+{% image "article2024/sr-tam-muoi/5a25a1_1ded41a589244e17b2252654284801be~mv2.webp" %}
+{% image "article2024/sr-tam-muoi/1686998748957.webp" %}
+
 ## Wednesday
 
 “Lazy day” in silence with no scheduled activities. I hiked alone and scrambled up to a ledge on the peak. While drinking tea, flocks of alpine swifts accelerated up the mountainside and whooshed past my head, perhaps in surprise to find me up there, before they dived down the other side for another mosquito feast. I leisurely ate my picnic under the darkening sky, and returned home just before the rain crashed down.

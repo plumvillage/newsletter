@@ -1,10 +1,10 @@
 module.exports = [
-    // "My life is my message" - Honoring our Teacher Thay
     "bbt--a-year-in-review-2024",
+    "memorial-letters",
     "su-ong--love-is-the-answer",
     // PUng
     // Sr Hoa
-    "br-phap-dung--my-journey-with-thay",
+    "br-phap-dung--lessons-from-my-teacher",
     "sr-tri-nghiem--parliament-of-world-religions",
     // Sr Uyen N
     "br-duc-dinh--a-day-of-alms",

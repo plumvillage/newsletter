@@ -7,7 +7,7 @@ author: Ban biên tập
 
 *(Tường thuật những hoạt động chính tại Làng Mai Pháp trong năm 2023)*
 
-## \.\.\.Đại Giới Đàn Trừng Quang *(10 – 14.2.2023)*
+## Đại Giới Đàn Trừng Quang *(10 – 14.2.2023)*
 
 Trong không khí ấm áp của mùa xuân nơi núi rừng Khao Yai, các giới tử từ các trung tâm của Làng Mai đã có cơ hội trở về cùng một nơi để thọ giới Khất sĩ nam và Khất sĩ nữ trong Đại giới đàn Trừng Quang được tổ chức tại tu viện Vườn Ươm, Thái Lan, sau một thời gian dài bị ảnh hưởng bởi đại dịch Covid.
 

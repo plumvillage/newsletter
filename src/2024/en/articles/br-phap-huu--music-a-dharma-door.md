@@ -5,6 +5,11 @@ author: Brother Chân Pháp Hữu
 
 <p class="editors-preface">In 2023, Plum Village monastics went on their first music tour across North America, titled “The Way Out Is In: A Musical Meditation.” It offered a unique blend of contemplative music, poetry and short, inspiring teachings. The tour started on 21 April in Baltimore, went on to Washington D.C. and Boston, and ended with a concert in Toronto, Canada on 1 May. The following is a summary of an interview the Newsletter Team conducted with Br Phap Huu on 2 January 2024.</p>
 
+<!-- Photos: -->
+<!-- https://plumvillage.app.box.com/folder/230360291376 -->
+<!-- https://www.flickr.com/photos/robertmwalsh/albums/72177720308031730/with/52871228620 -->
+<!-- https://plumvillage.app.box.com/folder/165581180184 -->
+
 ## Flexibility and Openness
 
 When we started, we had a vague idea to weave music into the reading of Thay’s poetry about the story of a river, very much in the same way we had done for various music and meditation offerings in Plum Village retreats. However, Sr True Dedication and I — the two MCs — realized that 90% of the audience wouldn’t understand the poem because it’s quite deep. We’d have to explain it. It worked in our retreats because the audience — retreatants and monastics — were already familiar with the Plum Village metaphor of “going as a river.” But on tour, people might come to the event because they heard about it from their friends. We felt that the poetry of Thay wouldn’t really land with them.
@@ -50,6 +55,8 @@ We gave our last concert at the University of Toronto, where one-fourth of the a
 ## Where is the album?
 
 Many people asked us, “Where’s the album? I want to hear this. I want this on Spotify. I want this on Apple Music. I want to be listening to this song as I drive to work, or when I have an emotional moment. I want this music for me to take refuge in.” Normally, bands need to have an album first for people to know about them, because when people like the music, then they will want to hear it live. Some couldn’t believe that we didn’t have an album. A couple felt so inspired and asked, “How can this be beyond luck? How can it reach beyond the Plum Village circle? What do we need?” After some reflections with brother Phap Linh, we realized what we were missing was a producer. We have the talent, but we needed someone to thread everything together. This became one of the beautiful fruits of the tour: a birth of a new album, called “A Cloud Never Dies,” which we will release in the spring of 2024.
+
+{% image "article2024/Br. Phap Huu/52871228620_09d1dfb39b_6k_e.jpg" %}
 
 The new album has Jack Peñate, who is an amazing artist himself, became the chosen producer. During the three-week recording process, some of us regularly sat together, lit incense, drank tea and shared about our deepest aspirations. Being in the spirit of Thay’s embrace in the Toad’s Skin Hut, everything felt energized by Thay’s Dharma. It was a beautiful atmosphere. We wanted the music to take people on a journey, holding a space for them to pray, to grieve, to feel whatever is in them, but also a space for them to cultivate hope and to inspire action. It was our deep intention for the music to be an act of service in itself.
 

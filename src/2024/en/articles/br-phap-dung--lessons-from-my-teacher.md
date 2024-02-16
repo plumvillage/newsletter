@@ -1,5 +1,5 @@
 ---
-title: My Journey with Thay
+title: Lessons From My Teacher
 author: Brother Chân Pháp Dung
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: A Year in Review
-# author: Ban biên tập
+author: Editorial Team
 ---
 
 <div class="removeIndentInFollowingElem removeTopMarginInFollowingElem"></div>
@@ -262,7 +262,7 @@ Trong bối cảnh xung đột ngày càng leo thang ở Trung Đông, ngày 19.
 
 <div class="page-break"></div>
 
-{% renderFile "src/2024/vi/articles/includes/transmission-gathas-vn.md" %}
+{% renderFile "src/2024/en/articles/includes/transmission-gathas.md" %}
 
 <div class="page-break"></div>
 
