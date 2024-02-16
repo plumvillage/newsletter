@@ -17,7 +17,7 @@ Trong năm 2023, tăng thân đã chào đón 27 vị giáo thọ mới, cả xu
 ## Kệ truyền đăng trong đại giới đàn Trừng Quang (10-14.2) tại tu viện Vườn Ươm, Thái Lan:
 
 > **Thầy Thích Chân Phương Cần**  
-> *(Nguyễn Thế Lộc; Pháp danh: Nhuận Thọ)*
+> *(Nguyễn Xuân Lộc; Pháp danh: Nhuận Thọ)*
 > > Chân pháp mở bày muôn vạn lối  
 > > Đường vào **phương** ngoại chẳng ngoài tâm  
 > > Công phu **cần** mẫn trong nhật dụng  
@@ -220,7 +220,7 @@ Trong năm 2023, tăng thân đã chào đón 27 vị giáo thọ mới, cả xu
 > **Chân Minh Hải**  
 > *(Thế danh: Daya Heather Jepsen)*
 > > The **ocean** of **wisdom** is our ancient and true inheritance  
-> > The bright eyes of the Awakened One contemplate the nature if all things and see no coming and no going  
+> > The bright eyes of the Awakened One contemplate the nature of all things and see no coming and no going  
 > > On her path of return, she carries the peaceful light of the moon  
 > > As a gracious offering to each living being.
 

@@ -13,7 +13,7 @@ As we silently walked together in procession, I could feel that we were one body
 
 <div class="removeTopMarginInFollowingElem"></div>
 
-{% image "article2024/Done-Br.Đức Định/Rains retreat 23-24_35.jpg" %}
+{% image "article2024/Done-Br.Đức Định/Rains retreat 23-24_16.jpg" %}
 
 When we came back to Upper Hamlet, the rest of the sangha, composed of the three-month retreatants, long-term residents and local sangha members, were absorbed in a joyful service meditation to prepare the Hamlet: some were setting up the meditation hall for the whole sangha to have lunch together after the alms round, while others volunteered to cook for the rest of the residents. There was also another group cooking at the nearby sangha organic shop. Some neighboring friends even brought delicious home-made food. The day before, as I took a walk in Thénac, I passed by the home of several practitioners, and saw them cooking through the window. I thought they might be preparing something for tomorrow’s alms offering. I was moved with gratitude, thinking there might be many more of our friends preparing food at that moment for the community with a generous heart.
 
@@ -85,7 +85,7 @@ Thank you, dear beloved Sangha, for being my spiritual family, and for making po
 
 {% image "article2024/Done-Br.Đức Định/Rains retreat 23-24_9.jpg", "noFloat" %}
 {% image "article2024/Done-Br.Đức Định/Rains retreat 23-24_22.jpg", "noFloat" %}
-{% image "article2024/Done-Br.Đức Định/Rains retreat 23-24_16.jpg", "noFloat" %}
+{% image "article2024/Done-Br.Đức Định/Rains retreat 23-24_35.jpg", "noFloat" %}
 {% image "article2024/Done-Br.Đức Định/Rains retreat 23-24_20.jpg", "noFloat" %}
 {% image "article2024/Done-Br.Đức Định/Rains retreat 23-24_29.jpg", "noFloat" %}
 {% image "article2024/Done-Br.Đức Định/Rains retreat 23-24_45.jpg", "noFloat" %}

@@ -16,12 +16,10 @@ Vào đầu mùa an cư kết đông 2023 — 2024, tôi đề nghị ý tưởn
 
 Sáng thứ bảy, 13.01.2024, hai nhóm xuất sĩ mang bình bát đi thiền hành tới Thénac, ngang qua những cánh đồng miền quê nước Pháp. Quang cảnh bên đường, từng hàng cây ngọn cỏ đều trắng tinh vì phủ đầy sương giá. Khi đến nhà của các bạn cư sĩ hàng xóm, sau khi được cúng dường, quý thầy tụng bài *Cát tường* để hộ niệm cho thí chủ, đoạn xá chào cảm ơn, rồi tiếp tục bước thiền hành.
 
+<div class="removeTopMarginInFollowingElem"></div>
+{% image "article2024/Done-Br.Đức Định/Rains retreat 23-24_16.jpg" %}
+
 Khi các huynh đệ cùng đi với nhau trong tĩnh lặng, tôi cảm thấy tất cả chúng tôi cùng thuộc về một cơ thể, một trái tim. Tôi cảm được sự gắn bó và có cùng chung một niềm hạnh phúc với huynh đệ. Nhóm khất thực của chúng tôi sắp xếp hai hàng đi song song với nhau và cất bình bát trong túi bọc khi đi trên một đoạn đường dài, lúc gần đến nhà cư sĩ, chúng tôi đổi lại đi hàng một, tay nâng bình bát. Cứ như trong một vũ điệu, chúng tôi hòa vào một dòng chảy. Khi vị đầu tiên dừng lại, tất cả các thầy đều dừng lại một lượt, lấy bình bát ra cùng một lượt. Tôi có thể cảm được quý thầy đi phía sau sẵn sàng hay chưa nhờ lắng nghe sự yên lặng rất bình an của cả đoàn.
-
-<div style="height: 3em;"></div>
-
-<!-- Dao Hanh receiving -->
-{% image "article2024/Done-Br.Đức Định/Rains retreat 23-24_35.jpg" %}
 
 ## Tưới tẩm hạt giống rộng lượng và biết ơn
 
@@ -101,7 +99,7 @@ Cảm ơn tăng thân, gia đình tâm linh yêu quý, đã tạo ra vô vàn kh
 
 {% image "article2024/Done-Br.Đức Định/Rains retreat 23-24_9.jpg", "noFloat" %}
 {% image "article2024/Done-Br.Đức Định/Rains retreat 23-24_22.jpg", "noFloat" %}
-{% image "article2024/Done-Br.Đức Định/Rains retreat 23-24_16.jpg", "noFloat" %}
+{% image "article2024/Done-Br.Đức Định/Rains retreat 23-24_35.jpg", "noFloat" %}
 {% image "article2024/Done-Br.Đức Định/Rains retreat 23-24_20.jpg", "noFloat" %}
 {% image "article2024/Done-Br.Đức Định/Rains retreat 23-24_29.jpg", "noFloat" %}
 {% image "article2024/Done-Br.Đức Định/Rains retreat 23-24_45.jpg", "noFloat" %}
