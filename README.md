@@ -56,8 +56,8 @@ done
 VS Code allows for regex replace submatch, e.g.: ([a-zA-Z])" > $1”
   - Sr > Sr.
   - Br > Br.
-  - '  ' > ' ' (replace double spaces)
-  - – > ' – '
+  -    >   (replace double spaces)
+  - – >  – 
   - ... > …
   - \... > …
   - ' > ’
