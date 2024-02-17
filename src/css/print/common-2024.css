@@ -226,6 +226,9 @@ ul.toc li {
     margin-bottom: 10pt;
     page-break-inside: avoid;
 }
+html:lang(en) ul.toc li {
+    margin-bottom: 16pt;
+}
 
 html:lang(vi) ul.toc li {
     margin-bottom: 5pt;
@@ -943,6 +946,7 @@ h1#transforming-resentment-into-compassion {
     margin-top: -10pt;
     margin-left: 20mm;
 }
+.article-flowers-of-peace h2.author,
 .article-bong-dang-thay h2.author {
     margin-top: -8pt;
 }
@@ -1519,6 +1523,15 @@ h1#honoring-our-teacher-thay-2-year-memorial-ceremony {
     padding-right: 12%;
 }
 
+#li-honoring-our-teacher-thay-2-year-memorial-ceremony .toc-title {
+    width: 56mm;
+}
+
+#li-i-have-arrived-i-am-home .toc-author {
+    width: 70mm;
+}
+
+
 .columnBreakAfter {
     margin-bottom: 3em;
 }
@@ -1526,3 +1539,5 @@ h1#honoring-our-teacher-thay-2-year-memorial-ceremony {
 .PAGE-OF-article2024Done-Memorial-Ceremony67SuOng2ndYearMemorial220124crop article {
     margin-top: 45.5mm !important;
 }
+
+

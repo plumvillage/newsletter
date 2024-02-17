@@ -39,8 +39,8 @@ In fact, we brothers and sisters “functioned as one body” in the class. When
 
 Despite my ability to learn only a fraction of what was taught, after three months of using diligence to make up for not being a smart learner, along with the guidance from Sister Chan Duc and encouragement from fellow monastic classmates, I was able to gather a few Pali words for my pocket and memorize a segment of the Four Recollections chant:
 
-<p class="verse">“Itipi so bhagavā arahaṁ sammā-sambuddho,<br/>
-Vijjā-caraṇa-sampanno sugato lokavidū,…”</p>
+> Itipi so bhagavā arahaṁ sammā-sambuddho,  
+> Vijjā-caraṇa-sampanno sugato lokavidū,…
 
 ## Every hour in class is a source of joy
 
@@ -66,7 +66,7 @@ For me, the sangha is the Net of Indra with each person as a multifaceted jewel 
 
 I have never experienced war. I was not there with Thay in the early days of Plum Village. I was not even there with Thay on the teaching tours. Nevertheless, there are times when I feel profoundly connected to Thay.
 
-<p class="verse">“The one who bows and the one who is bowed to<br/>
+<div class="verse"><p>“The one who bows and the one who is bowed to<br/>
 are both, by nature, empty.<br/>
 Therefore the communication between them<br/>
 is inexpressibly perfect.”</p></div>

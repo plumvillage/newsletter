@@ -7,7 +7,7 @@ author: Tiên Nguyễn
 
 Dear sister,
 
-Last time you asked me what I thought about the sisters, but I didn’t have a chance to answer; so, I’ll do it in this letter. :-)
+Last time you asked me what I thought about the sisters, but I didn’t have a chance to answer; so, I’ll do it in this letter. ☺
 
 The limitations of language can complicate things. I don’t know how to say it adequately – too succinct is unsatisfactory, but too long-winded does not achieve anything. Nevertheless, in a world beyond language, we already have each other in this moment. Everything feels gentle like a beautiful dream.
 
@@ -17,7 +17,7 @@ The young friends reminded me of my early twenties. Regrettably, I was not as in
 
 I’m beginning to see the connections in me spreading out and connecting with everything around. The blocks of logic have slowly disintegrated. The disjointed confusions in me at times naturally reconnect like a swollen river flowing over the parched land, smoothing out the crusty earth. I’ve also stopped rejecting the imperfect loves that do not meet my expectations. It was at this place of acceptance that I felt the presence of the sisters around me. These miracles I’ve experienced are continuations of the things the sisters have helped me see, and also of the lovely things that have come into my life.
 
-*There is no need to keep people near me. No matter where they go in the world, they will always be in my heart.*
+There is no need to keep people near me. No matter where they go in the world, they will always be in my heart.
 
 People often say that I am smart and I also see it in myself. Yet, I didn’t want to study anything when I was at the monastery. The sisters sweetly spoiled me. They cooked delicious food for me, allowed me to sleep wherever I preferred, let me make mistakes and be silly, allowed me to love and always welcomed this mischievous little child who did not yet know how to flow along.
 

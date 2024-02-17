@@ -1,6 +1,6 @@
 ---
 title: I have arrived, I am home
-author: Brother Chân Trời Hải Thượng (1990—2023)
+author: Br. Chân Trời Hải Thượng (1990—2023)
 ---
 
 <p class="editors-preface">Brother Chân Trời Hải Thượng was born in 1990 and passed away in 2023 at the age of 33. He was ordained as a novice at Plum Village Thailand in 2014 in the Red Oak family and received the Great Precepts to become a bhikshu in the great ordination ceremony, “I have arrived, I am home” in 2019. After several years of practice and service to the sangha in Thailand, he volunteered to move to the European Institute of Applied Buddhism (EIAB) in Germany to help continue Thay’s dream of building sanghas. It was here that Brother Troi Hai Thuong unexpectedly passed away on the morning of October, 2023.<br/>

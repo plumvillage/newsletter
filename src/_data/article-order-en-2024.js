@@ -1,6 +1,6 @@
 module.exports = [
-    "bbt--a-year-in-review-2024",
     "memorial-letters",
+    "bbt--a-year-in-review-2024",
     "su-ong--love-is-the-answer",
     "br-phap-ung--sun-bleached-brown-robe",
     "sr-hoa-nghiem--a-thousand-rivers-of-moonlight",
@@ -32,7 +32,8 @@ module.exports = [
     "laurent-bernays--flowers-of-peace",
     "sr-tu-nghiem--poem-entering-the-field",
     // not in order yet ...
-    "br-bat-nha--my-novice-robe"
+    "br-bat-nha--my-novice-robe",
+    "sr-bo-de--the-presence-of-thay",
+    "tien-nguyen--the-sunny-days",
     // barriers and bridges
-    // Calligraphies. Flowers of Peace
 ]
