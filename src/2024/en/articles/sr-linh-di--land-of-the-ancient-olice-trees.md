@@ -41,7 +41,7 @@ We met many people from all backgrounds who understandably did not feel safe. On
 
 Oh dear child. How you must have endured hunger and struggled for food throughout your young life! I have never experienced a single day of hunger in my whole life! Yet, knowing that children like you are in hunger and fear everywhere, I am even more determined to live and share a simple life.
 
-When we met the Catholic priest and peace activist Sami Awad, he shared that through his years of working with peace activists, he realized many were not creating conditions of peace, but of security --- that their peace activism was driven by fear.
+When we met the Catholic priest and peace activist Sami Awad, he shared that through his years of working with peace activists, he realized many were not creating conditions of peace, but of security – that their peace activism was driven by fear.
 
 The adults who came to our retreats and Mindfulness Days hid their fear better. Nonetheless, we saw that some were very troubled when their “safe sitting spot” was taken by another; some could not feel at ease in deep relaxation while others were easily startled at sudden sounds…
 
@@ -63,7 +63,7 @@ Harmony often asked of us to refrain from saying or doing certain things, and it
 
 Like the night we first tried to drive into the West Bank: the navigation system tried to reroute us, the main checkpoint was closed, the internet signal was fading in and out, and we couldn’t read the signs in Hebrew. It also became apparent that some of us resorted to information and technology to solve problems, while others preferred speaking to people.
 
-We knew it wasn’t a moment for “being right”, but for focussing collectively, so we stopped giving diverse suggestions. Instead, we sat quietly to breathe and remain aware of the surroundings and listened to the needs of the driver so we could support, rather than overwhelm. And bless our elder sister who set an example for all of us -- she remained silent the entire time!
+We knew it wasn’t a moment for “being right”, but for focussing collectively, so we stopped giving diverse suggestions. Instead, we sat quietly to breathe and remain aware of the surroundings and listened to the needs of the driver so we could support, rather than overwhelm. And bless our elder sister who set an example for all of us – she remained silent the entire time!
 
 <div class="divider"></div>
 
@@ -88,7 +88,7 @@ Yes. I understood.
 Dear respected Thay, thank you for cultivating a community of understanding, harmony, peace, and compassion. You have seen the immense suffering everywhere on the land. You have given us practices to keep our hearts open and face suffering with courage.
 
 <p class="signoff"><span class="signoff-lvl-1">With gratitude,</span><br/>
-<span class="signoff-lvl-2">Your disciple - Trăng Linh Dị</span></p>
+<span class="signoff-lvl-2">Your disciple – Trăng Linh Dị</span></p>
 
 <div class="article-end"></span>
 

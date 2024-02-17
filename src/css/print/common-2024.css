@@ -311,8 +311,12 @@ ul.toc #li-early-years-of-plum-village {
 a {
     text-decoration: none;
 }
-article a, #table-of-contents a {
+#table-of-contents a {
     color: #000;
+}
+article a {
+    text-decoration: underline solid hsl(204deg 9.1% 80.51%);
+    color: var(--color-sky-dark);
 }
 .pagedjs_footnote_area a {
     color: var(--color-footnote) !important;
