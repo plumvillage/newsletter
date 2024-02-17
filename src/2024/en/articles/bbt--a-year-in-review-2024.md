@@ -188,17 +188,17 @@ Over 600 young people aged 18 – 35, representing more than 30 regions, gathere
 {% image "article2024/Done-Review of the Year/WakeUp/DSC06270.jpg", "noFloat lmnqWakeUp" %}
 {% image "article2024/Done-Review of the Year/WakeUp/PV_2023_132.jpg", "noFloat lmnqWakeUp" %}
 
-## Plum Village at the 2023 Parliament of the World’s Religions<br/>*(14 – 18 August 2023)*
+## Plum Village at the 2023 Parliament of the World’s Religions *(14 – 18 August 2023)*
 
-In August 2023, Sister Luc Nghiem from Plum Village, France, and Sister Tri Nghiem from Magnolia Grove Monastery in Mississippi, US, were invited to take part in the 9th International Meeting of the Parliament of the World’s Religions which took place in Chicago, USA. The conference was attended by over 8,200 delegates from more than 95 countries. To learn more about the event, please <a href="#plum-village-goes-to-the-2023-parliament-of-the-worlds-religions">read Sister Tri Nghiem’s article</a> in this issue of the newsletter.
+In August 2023, Sister Luc Nghiem from Plum Village, France, and Sister Tri Nghiem from Magnolia Grove Monastery in Mississippi, US, were invited to take part in the 9<sup>th</sup> International Meeting of the Parliament of the World’s Religions which took place in Chicago, USA. The conference was attended by over 8,200 delegates from more than 95 countries. To learn more about the event, please <a href="#plum-village-goes-to-the-2023-parliament-of-the-worlds-religions">read Sister Tri Nghiem’s article</a> in this issue of the newsletter.
 
-## Educators’ Retreat<br/>*(18 – 25 August 2023)*
+## Educators’ Retreat *(18 – 25 August 2023)*
 
 Amid the sweet fragrance of ripening plums, over 300 educators from Europe and afar gathered in late August to rest, renew, and connect within and with each other. Apart from the Dharma talks offered by Sr. Dinh Nghiem, Br. Phap Ly and Sr. Chan Duc, there was also a panel of teachers sharing about the three pillars of Wake Up Schools, sangha-building and the importance of beginning with the teachers themselves. Joost Vriens, one of the four panelists, wrote <a href="#my-path-to-wake-up-schools">an inspiring article</a> in this issue of the newsletter on his journey with Wake Up Schools and his experience in this retreat.
 
 At the end of the retreat, a number of lay friends stayed back to help the brothers and sisters harvest the plums for drying and making jam, a specialty everyone can enjoy at breakfast when staying at Plum Village.
 
-<div style="height: 7.4mm"></div>
+<div style="height: 0.171em"></div>
 
 {% image "article2024/Done-Review of the Year/Educators retreat/006_08202023.jpg", "noFloat lmnqEducators" %}
 {% image "article2024/Done-Review of the Year/Educators retreat/Sr.Dinh N-educator retreat.jpg", "noFloat lmnqEducators" %}
@@ -215,7 +215,9 @@ Since 2022, the Upper Hamlet brothers together with friends from Happy Farm have
 
 <p class="noIndent">Here is a reflection from a retreatant:</p>
 
-> “For the last two weeks, we have been exploring forests and fields and lakes, eating delicious vegan food, spending time with genuinely kind and thoughtful people, reading, listening, farming, singing, meditating, and consciously trying to live mindfully. It may sound like a very abrupt change of pace from normal life, but somehow the community energy helped make the transition. A friend described Plum Village as like a liver or kidney for society, quietly filtering away the toxins. That’s exactly how it feels. A lifelong health condition cleared up after the first 4 days. I’m a little calmer, a little more forgiving towards myself and others, and I’ve laughed a lot. I don’t expect this state of mind to last forever, but I hope I will remember how it felt, and be nudged towards a better way of living.”
+> *“For the last two weeks, we have been exploring forests and fields and lakes, eating delicious vegan food, spending time with genuinely kind and thoughtful people, reading, listening, farming, singing, meditating, and consciously trying to live mindfully. It may sound like a very abrupt change of pace from normal life, but somehow the community energy helped make the transition. A friend described Plum Village as like a liver or kidney for society, quietly filtering away the toxins. That’s exactly how it feels. A lifelong health condition cleared up after the first 4 days. I’m a little calmer, a little more forgiving towards myself and others, and I’ve laughed a lot. I don’t expect this state of mind to last forever, but I hope I will remember how it felt, and be nudged towards a better way of living.”*
+
+<div style="height: 0.12em"></div>
 
 {% image "article2024/Done-Review of the Year/Coming home to Mother Earth/IMG_1092.jpg", "noFloat lmnqHFarm" %}
 {% image "article2024/Done-Review of the Year/Coming home to Mother Earth/Happy Farm.2.jpg", "noFloat lmnqHFarmBig" %}
@@ -225,7 +227,7 @@ Since 2022, the Upper Hamlet brothers together with friends from Happy Farm have
 {% image "article2024/Done-Review of the Year/Coming home to Mother Earth/Happy Farm.3.jpg", "noFloat lmnqHFarm" %}
 {% image "article2024/Done-Review of the Year/Coming home to Mother Earth/Happy Farm.4.jpg", "noFloat lmnqHFarmBig" %}
 
-## 2023 – 2024 Rains Retreat: Now We Have a Path<br/>*(19 October 2023 – 16 January 2024)*
+## 2023–2024 Rains Retreat:<br/>Now We Have a Path *(19 Oct 2023 – 16 Jan 2024)*
 
 On the morning of 19 October 2023, the manifold Sangha of Plum Village gathered at the Still Water Meditation Hall of the Dharma Cloud Temple (Upper Hamlet) to conduct the Ceremony of Refuge for the annual Rains Retreat. There were 225 people (141 monastics – 48 Bhikshus, 78 Bhikshunis, 9 male novices, 6 female novices – and 84 lay practitioners) committed to practicing at Plum Village for 90 days. During the retreat, the sangha listened to weekly Dharma talks by Thay from Winter 2008-09 and June 2009 on the contributions of Buddhism to global ethics. The monastic day on Thursdays was a special opportunity for the brothers and sisters to attend classes on engaging topics to further nourish their monastic aspiration. Sister Trang Bo De wrote an endearing article in this issue of the newsletter about her impression of these monastic days.
 

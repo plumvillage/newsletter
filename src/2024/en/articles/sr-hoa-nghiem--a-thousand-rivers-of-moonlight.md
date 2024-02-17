@@ -7,29 +7,22 @@ This autumn, two guests from Vietnam, Mr. Thanh and Mr. Huy, came to visit Blue 
 
 Brother Phap Khong contacted Princeton and Columbia Universities to organize a visit by the film crew and some monastics to the historical sites where Thay had lived. The first location we visited was Princeton University, where Thay had studied. Dr. Brian Shetler gave us a guided tour of the Princeton library, which houses many of Thay’s Master’s theses, and pointed out Brown Hall, where Thay resided.
 
+{% image "article2024/Done-Sr.Hoa Nghiem/Sr.Hoa N-Princeton.2_e.jpeg" %}
+
 We did walking meditation on the path from the library to the campus where Thay had walked in the past. On that day, it was strewn with gold and red leaves. As we walked, I felt as if Thay were revisiting his former school with us. Pausing under a maple tree, we sat in a circle and listened to a passage from *Fragrant Palm Leaves.* Afterward, we sang *Falling Autumn Leaves*, a French folk song rewritten by Thay with Vietnamese lyrics. The wind blew, scattering golden leaves from the swaying branches, creating such a beautiful and memorable scene.
 
 Our next destination was the Pomona wood cabin at Ockanickon Summer Camp in Medford, New Jersey. Pomona belongs to the YMCA and serves as a camp for children and adolescents. This was the wood cabin next to the large lake where Thay had sat on a small boat, paddling north on the lake and playing among the water lilies until evening. As it was now autumn, yellow leaves were falling from the trees onto the surface of the lake. I imagined Thay as a young monk sitting contemplatively, reminiscing about his native country, Vietnam, the pain of war there, and Fragrant Palm Leaves (a monastery Thay founded in 1957). I recalled reading Thay’s memoir, *Fragrant Palm Leaves,* and how my eyes had teared up at the two verses written as a farewell to Thay by Ly, a social activist. Even now, reading them again, my emotions well up:
 
-> *“On the day you return, if the sky is torn asunder,*
-
+> *“On the day you return, if the sky is torn asunder,*  
 > *look for me in the depths of your heart.”*
-
-> *(From Fragrant Palm Leaves - Thich Nhat Hanh)*
 
 We sat inside the wood cabin by the wood-burning stove. Mr. Tho (a lay practitioner and close friend of Blue Cliff Monastery) collected leaves and dry wood for the fire. The dry leaves ignited, filling the room with warmth. It was in this very cabin that Thay had written a short book in Vietnamese titled “A Rose for Your Pocket.” Later, a musician took a part of the prose and put it to music. Inspired by the surroundings, Sister Noi Nghiem requested to sing this song in memory of Thay. Everyone joined in, as most everyone knows this song by heart. Suddenly, I remembered the poem, “The Joyful Meditation Hut” that Thay had written for Venerable Thanh Tu when Thay was still at Fragrant Palm Leaves Monastery. This poem was later set to music by Sister Quy Nghiem. In this quiet moment, it felt as if Thay were sitting with us in this room. Suddenly, I wanted to sing to offer homage to Thay and to those present.
 
-*“Clouds softly pillow the mountain peak.*
-
-*The breeze is fragrant with tea blossoms.*
-
-*…*
-
-*My confidence intact,*
-
-*I bid farewell with a peaceful heart.”*
-
-*(Call Me by My True Names: The Collected Poems - Thich Nhat Hanh)*
+<div class="verse"><p>“Clouds softly pillow the mountain peak.<br/>
+The breeze is fragrant with tea blossoms.<br/>
+…<br/>
+My confidence intact,<br/>
+I bid farewell with a peaceful heart.”<br/><cite>from <i>“Please Call Me By My True Names”</i></cite></p></div>
 
 Singing up to this point, I suddenly felt my throat constrict, and was unable to continue. Thay has indeed gone far away; perhaps, the faith he entrusted to us was, “Continue the path that Thay has traveled, don’t give up, my child…” I whispered in my heart, “Yes, I will never give up, Thay!”
 
@@ -37,11 +30,15 @@ The next day, we continued our visit to Union Theological Seminary, which is aff
 
 During that time, there were almost no Buddhist monks where Thay lived. I thought about this period during which Thay had to confront internal conflicts and feelings of loneliness in this new environment. That young monk also carried the sorrows and intensity of the war happening in his homeland. Thinking about this, my eyes welled up with tears for the young monk, my teacher, who carried such a heavy burden on his shoulders. I didn’t want people to see me cry, so I quickly wiped away my tears. But, I remembered Thay telling me, “If you want to cry, just cry, don’t suppress it. There’s nothing shameful about crying. Being aware that you are crying is enough.” Being aware that we are crying, the tears will naturally stop flowing. When the sun of awareness shines, light will flood in, and we don’t need to suppress our emotions. Being aware that I am crying, how can I continue crying?
 
+{% image "article2024/Done-Sr.Hoa Nghiem/TNH-directory-page-half-768x1201.jpg", "removeTopMargin" %}
+
 In the past, Thay came here alone. When leaving New York to return to Vietnam, did he ever think that there would be a time when he would come back, not alone, but with a whole sangha? At that time, Thay probably didn’t expect that he would later establish a monastery in the New York area, on the East Coast of the United States, where he was once an unknown young monk. Today, Thay has thousands of American disciples, monastic and lay. The continuation of Thay’s legacy is truly unimaginable.
 
 We visited the library of Columbia University, exploring Butler Library on the eleventh floor. Thay mentioned this library in *Fragrant Palm Leaves. *It was here that Thay opened a book and found that two people had borrowed it before, on dates decades apart. Thay happened to be the third person. He wrote, “I am standing here, meeting them in space but not in time.” Thinking about this, I suddenly felt moved; I too was meeting Thay, a young monk opening a book here, in the space of my own consciousness.
 
 Caro Bratnober, the public services librarian at the University, gave us a guided tour during the visit, stating that everything in the library was essentially the same as before, with few changes, except that they had changed the call numbers on the book covers to correspond with numbers in the computer system. Looking at the bookshelves, my heart marveled! Time had passed, but the space remained as before. Many generations of scholars had walked past these bookshelves, including my teacher.
+
+{% image "article2024/Done-Sr.Hoa Nghiem/Sr Hoa Nghiem 2_e.jpg" %}
 
 Caro then took Brother Phap Khong and me to Burke Library, another library on the upper floor, where students could study and conduct research. They led us to a small secluded room displaying pictures and materials about the founders of the school and the professors who had taught here. I was surprised to see a picture of Thay in a glass case alongside other renowned professors of the university. Thay looked very young, around 36 years old. They displayed his Master’s thesis with his research topic entitled, *The Problem of Knowledge in the Philosophy of Vijñānavāda*. I felt a sense of pride and admiration for my teacher. A young monk could eloquently present the epistemology of Buddhist philosophy, a relatively challenging doctrine, in the Western academic environment where Buddhism was still quite unfamiliar at that time.
 
@@ -73,10 +70,13 @@ I clearly see the reason for my presence and my practice here. I clearly see tha
 
 Tonight, the moon is so bright outside the window of my room, it reminds me of the year I sat with Thay on a bench watching the moon. Thay told me: “Only when we are free, can we see the bright moon…” Did Thay want to tell me that only when I am not busy with family or social matters, only when my heart is not filled with desires, wishes, and sorrows, only then will I be able to truly be in touch with the bright moon? As Thay’s parallel verses in the Great Togetherness Meditation Hall of Blue Cliff Monastery says:
 
-*The blue water is clear. In the water of a thousand rivers, the moon appears.*
-
-*The mountain cliff is beautiful. Every time you look at it, it is brand new.*
+<div class="verse"><p>“The blue water is clear. In the water of a thousand rivers, the moon appears.<br/>
+The mountain cliff is beautiful. Every time you look at it, it is brand new.”</p></div>
 
 I would like to say to Thay: “Dear respected Thay, I am very happy because every day I see our direction clearly and know where I am going. The gratitude I have for my teacher, for the Patriarchs, for my spiritual family, for my parents, and for my blood family will never run dry. In 2024, we commemorate the two years of your passing; but right now, I know that you are roaming freely, and that you will still be forever in our hearts.”
 
 November 30, 2023
+
+<div class="article-end"></div>
+
+{% image "article2024/Done-Sr.Hoa Nghiem/Sr.Hoa Nghiem-Princeton_e.jpeg" %}

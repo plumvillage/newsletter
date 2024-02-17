@@ -44,6 +44,5 @@ Con giật mình tỉnh dậy, nước mắt giàn giụa. Con khóc vì thấy 
 
 Con biết rằng con rất may mắn được sinh làm người, được hạnh ngộ Tam Bảo và được làm đệ tử của Thầy. Con thấy rằng, mọi nhân duyên mầu nhiệm biểu hiện và pháp môn của Thầy đã được truyền trao và tiếp lửa cho con để con có thể trở nên một “chú tiểu” trong lòng Tăng thân. Con biết ơn Thầy, biết ơn Tăng thân và tất cả nhân duyên trong cuộc đời cho con được biểu hiện.
 
-
 <p class="signoff"><span class="signoff-lvl-1">Con, Sư chú Chân Trời Bát Nhã,</span><br/>
 <span class="signoff-lvl-2">Chùa Từ Đức, ngày 12 tháng 12 năm 2023</span></p>

@@ -15,6 +15,8 @@ I would like to extend my gratitude to the Tree family team for working with me 
 
 “The flowers of peace bloom in beauty” is engraved on the Great Bell. It has now manifested as this three-hectare meadow and resonates like the poem throughout the entire cosmos. Like the wind joins the songs of the Great Bell, so does this field of flowers join Thay’s poem. These two were my commitments as a Bodhisattva: to cultivate the Earth and cultivate loving speech through song, cultivating the flowers in the Earth and in my soul.
 
+{% image "article2024/Laurent/PV_2023_36_e.jpg", "removeTopMargin" %}
+
 This poem is my mantra when I cultivate the urban gardens in the poor neighborhoods of my city, and is spread among visitors in schools, hospitals or retirement homes like an invisible wave, or as a silent song of presence, when children and parents come to sit on the benches.
 
 During my stay in Lower Hamlet, I took advantage of the opportunity to deepen the practice with song I’ve been engaged in for 25 years, to rediscover the evergreen old source of Western songs, to rediscover the natural modes of ancient or Pyrenean songs, and little by little to hear again with a new, deeper, finer listening.
@@ -34,6 +36,8 @@ I enter into deep listening<br/>
 to the song of the world.”</p></div>
 
 Each step brings me into this song of the world, which changes in every moment, and has no beginning or end, and I can then return to my true home, attentive to all beings, be it the food processor in the kitchen, a bush full of birds, the chainsaw, the sound of flowing water, or a crowd. Everything becomes the voice of the Buddha, the sound of the rising tide, or sometimes even a sudden silence as after the Lion’s Roar.
+
+{% image "article2024/Laurent/DSC05382_e.JPG" %}
 
 ## The tree of praise
 

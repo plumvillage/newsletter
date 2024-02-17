@@ -11,6 +11,8 @@ Autumn is almost ending, and though winter has not yet arrived, there is already
 
 Beautiful moments in the early morning, relaxing and free steps in meditation, pleasant weather with the backdrop of the blue sky… A few leaves fall gently in the breeze, while morning dew drops embellish this serene space. My heart embraces them all with much peace.
 
+{% image "article2024/Done-Br. Bat Nha/CTD04521_e.jpg" %}
+
 The time that I live in the heart of the sangha as a 23-year-old novice, full of ideals and aspirations, is indeed precious. It is precious because we all share a mindful lifestyle and the same ideals. Everyday, I am able to collect and store little joys and simple happy moments.
 
 Dear Thay, I feel so lucky because there are many novice monks (śrāmaṇera) and novice nuns (śrāmaṇerikā) at the temple. We are always side-by-side working, attending activities and creating our “childhood” together. I never forget the reminder our elder brothers and sisters have given us: “Novicehood is the most beautiful and powerful time, please treasure it when you still have it in your hands.” I was very happy and joyful to hear those encouraging words. My love and appreciation for these precious moments grow bigger as I live and practice as a novice in the sangha.
@@ -22,6 +24,8 @@ Dear Thay, I feel fortunate to be your disciple. I love my novice brown robe. I 
 A significant memory I hold dear is receiving the novice robe from the sangha after my ordination. Every time I fasten the eight buttons on my robe, I send my gratitude to the Buddha, the Patriarchs, Thay, the sangha, my blood family, all vegetation, minerals and the cosmos. Each button reminds me to generate gratitude for one element. I practice this daily to water the seed of gratitude within me, and to appreciate what is available to me. So that, when faced with difficulties, I will remember the beautiful and precious wealth I possess.
 
 Through the novice brown robe, I can get in touch with the Buddha, the Patriarchs, Thay, and my spiritual family. Many times, I think, “If I share my thoughts, people will probably laugh at me.” I am often not sure whether to practice the gatha of wearing the robe, or continue with what I have been practicing with the eight buttons. Then suddenly, I realized that as long as I wear my robe with a clear awareness of being in touch with my spiritual family through the robe, that is practicing mindfulness in itself. My heart blooms like a flower, and that flower manifests on my lips everyday.
+
+{% image "article2024/Done-Br. Bat Nha/_DSC5640.jpg" %}
 
 ## Looking at each other in great siblinghood
 
@@ -41,5 +45,5 @@ I woke up startled, tears streaming down my face. I cried because I felt overwhe
 
 I know that I am very fortunate to be born as a human, to encounter the Three Jewels, and to be a disciple of Thay. I see that all the miraculous conditions and teachings of Thay have been transmitted to me, igniting the flame within me so that I can become a “little novice” in the embrace of the sangha. I am grateful to you, dear Thay, I am grateful to the sangha, and to all conditions that have come together for me to manifest.
 
-Your disciple,
-Brother Chân Trời Bát Nhã
+<p class="signoff"><span class="signoff-lvl-1">Your disciple,</span><br/>
+<span class="signoff-lvl-2">Br. Chân Trời Bát Nhã</span></p>

@@ -591,9 +591,7 @@ html:lang(vi) .verse {
 .verse p {
     text-indent: 0pt;
 }
-.noIndent {
-    text-indent: 0 !important;
-}
+
 
 /* 21st century */
 /* https://en.wikipedia.org/wiki/Ordinal_indicator */
@@ -803,11 +801,13 @@ p.pull-quote:before {
     color: #939393;
 }
 
+.removeTopMargin,
 .removeTopMarginInFollowingElem + *
  {
     margin-top: 0em !important;
 }
 
+.noIndent,
 .removeIndentInFollowingElem + * {
     text-indent: 0 !important;
 }
@@ -1174,7 +1174,7 @@ figure#article2024Done-Memorial-Ceremony67SuOng2ndYearMemorial220124crop,
 figure#article2024Done-SrBao-NIMG3353,
 figure#article2024ScannedDrawings0705-Ky-to-dje-nhie,
 figure#article2024Done-Coming-home-to-our-rootsPXL20230608053312985e,
-figure#article2024Done-Sr-Hien-HanhSr-Hien-Hanh-2e,
+html:lang(vi) figure#article2024Done-Sr-Hien-HanhSr-Hien-Hanh-2e,
 figure#article2024Done-interview-with-thayVncon-ve-miong-tua-noi-dat-me,
 figure#LTLM47-2024-cover-NH-TeensLTLM47-2024July2023sararemington0013editedcropped,
 figure#article2024Done-interview-with-thayEni-am-in-love-with-mother-earthe,
@@ -1219,7 +1219,7 @@ figure#article2024Done-sr-linh-di20231006-Battir-Terracee {
     width: 60%;
     margin-bottom: 0em;
 }
-figure#article2024Done-Sr-Hien-HanhSr-Hien-Hanh-2e {
+html:lang(vi) figure#article2024Done-Sr-Hien-HanhSr-Hien-Hanh-2e {
     width: 77%;
     margin-bottom: 0em;
 }
@@ -1274,6 +1274,17 @@ figure#article2024Done-Review-of-the-YearNovice-ordinationChuong-vang-family-2 i
     height: 68mm;
 }
 
+html:lang(en) figure#article2024Done-Sr-Hien-HanhSr-Hien-Hanh-2e img {
+    object-fit: cover;
+    height: 55mm;
+}
+html:lang(en) figure#article2024Done-Sr-Hien-HanhSr-Hien-Hanh-2e {
+    float: none !important
+}
+
+
+
+
 
 
 #chum-tho-djat-to + h2.author {
@@ -1306,8 +1317,11 @@ figure#article2024Done-Sr-Tuyet-NIMG6618ecut + p {
     text-indent: 0em !important;
 }
 
-figure#article2024Done-Sr-Tuyet-NDSC00153e {
+html:lang(vi) figure#article2024Done-Sr-Tuyet-NDSC00153e {
     margin-top: 3em;
+}
+html:lang(en) figure#article2024Done-Sr-Tuyet-NDSC00153e {
+    width: 75%;
 }
 
 .article-theo-dau-chan-xua .verse {
@@ -1358,6 +1372,7 @@ figure#article2024br-duc-hienIMG0754e {
     padding-left: 10%;
     padding-right: 10%;
 }
+figure#article2024Sr-Lam-Hyimage123923953-3-e,
 figure#article2024sr-tam-muoiIMG20230901075344e,
 figure#article2024Done-Br-Bat-NhaCTD04521e {
     padding-left: 6%;

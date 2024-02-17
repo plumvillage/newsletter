@@ -9,6 +9,8 @@ author: Sister Chân Uyển Nghiêm
 
 Talking about love, I cannot help thinking about Thay. Usually, whenever the monastic brothers and sisters, including myself, talk about Thay or the sangha, we tend to become emotional and shed tears easily. I began attending Thay when he was preparing for a UK tour. I was very new, and my practice was not strong enough to have a good sense of Thay’s needs. During that time, Thay was residing at the Hermitage to rest and work.
 
+{% image "article2024/Done-Sr. Uyen Nghiem/Article - Sr. Uyen N/DSC_0236_e.JPG" %}
+
 The morning Thay departed for the UK, Sister Chan Khong was the driver. Before leaving, Thay called me into the library to assist him with a few things. After that, we went around to make sure all the lights were off, doors were locked and gas valves were turned off,… When we felt that everything was done, we got into the car and were ready to go.
 
 On the way to the airport, Thay said to me: “My child, tell me: Have you had joy in your practice lately? How are the brothers and sister getting along?” So, I started telling Thay one thing after another, and we had a good time laughing together. Halfway to the airport, suddenly Thay asked: “Did you bring Thay’s shoulder bag?” Startled, I replied: “Dear Thay, no.”
@@ -35,6 +37,8 @@ I cried for myself because regardless of my years of practice, I was still not a
 
 That was the first time I understood that maturity in the practice meant having the ability to deeply understand myself and others, and take care of my emotions, perceptions and mental formations. Only then could my practice be called mature. It is very possible that a 50 or 60-year-old person can still behave like a child and hurt the people around them.
 
+{% image "article2024/Done-Sr. Uyen Nghiem/Article - Sr. Uyen N/DSC01094_e.JPG" %}
+
 Maturation is a process that everyone – children, parents, grandparents alike – has to learn. Nobody is perfect, and it is only through training that we can improve day by day.
 
 ## Dharma friends
@@ -45,8 +49,6 @@ There is another term, called “sư bạn” (Dharma friend). Anyone who comes 
 
 *“A lotus for you, a Buddha to be.”*
 
-**
-
 All of us have the capacity to love and understand, as well as the capacity to offer our compassion. We all know that in everyone, there is Buddha nature. In our current time, people often talk about “self-love.” To me, self-love does not mean pampering ourselves with nice clothes, a fancy house, or a beautiful car, but rather the ability to come back and take good care of ourselves. From this foundation of loving ourselves, we will be able to extend our love to others.
 
 ## The future Buddha is already here
@@ -54,3 +56,7 @@ All of us have the capacity to love and understand, as well as the capacity to o
 Shakyamuni Buddha is the Buddha of the past, Maitreya is the Buddha of the future, symbolizing “compassion.” People used to ask Thay “When will Maitreya Buddha manifest to help alleviate the suffering of the world?” The state of societies today reflects the increasing violence and anger in people; social injustice seems to escalate daily.
 
 Thay replied that the future Buddha is already here. Because we are not truly present, we are not able to recognize them. The future Buddha is not an individual, even though that individual may be extraordinary. The future Buddha takes the form of a community of practice. Only a collective power has the sufficient capability, wisdom and compassion to heal the world. All of us are members of that community. Together, we contribute to that collective endeavor.
+
+<div class="article-end"></div>
+
+{% image "article2024/Done-Sr. Tuyet N/DSC00153_e.JPG" %}
