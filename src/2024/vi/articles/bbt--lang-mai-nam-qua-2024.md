@@ -214,9 +214,9 @@ Sau khi khóa tu kết thúc, một số thiền sinh tình nguyện ở lại t
 {% image "article2024/Done-Review of the Year/Educators retreat/062_08242023.jpg", "noFloat lmnqEducators" %}
 {% image "article2024/Done-Review of the Year/Educators retreat/068_08242023.jpg", "noFloat lmnqEducators" %}
 
-## Khóa tu “Trở về nương tựa Đất Mẹ”
+## Khóa tu “Trở về nương tựa đất Mẹ”
 
-Kể từ năm 2022, quý thầy xóm Thượng cùng các bạn trong Nông trại Hạnh Phúc (Happy Farm) đã tổ chức các khóa tu “Trở về nương tựa Đất Mẹ”, mỗi khóa tu kéo hài hai tuần. Mục đích của khóa tu là giúp cho mọi người trở về kết nối sâu sắc với thiên nhiên, với Đất Mẹ để được nuôi dưỡng và trị liệu. Trong năm nay, khóa tu được tổ chức hai lần vào tháng 5 (5-19.5) và vào tháng 9 (15-29.9). Dưới đây là phản hồi từ một thiền sinh:
+Kể từ năm 2022, quý thầy xóm Thượng cùng các bạn trong Nông trại Hạnh Phúc (Happy Farm) đã tổ chức các khóa tu “Trở về nương tựa đất Mẹ”, mỗi khóa tu kéo hài hai tuần. Mục đích của khóa tu là giúp cho mọi người trở về kết nối sâu sắc với thiên nhiên, với đất Mẹ để được nuôi dưỡng và trị liệu. Trong năm nay, khóa tu được tổ chức hai lần vào tháng 5 (5-19.5) và vào tháng 9 (15-29.9). Dưới đây là phản hồi từ một thiền sinh:
 
 *“Trong hai tuần qua, chúng tôi được khám phá ruộng đồng, rừng cây, ăn những món ăn thuần chay ngon miệng, được tiếp xúc với những người thực sự tốt bụng và chu đáo, đọc sách, lắng nghe, làm nông, ca hát, thiền định và sống chánh niệm một cách có ý thức. Nghe có vẻ giống như một sự thay đổi nhịp độ rất đột ngột so với nếp sống bình thường, nhưng bằng cách nào đó, năng lượng tu tập của cộng đồng nơi đây đã giúp tôi thay đổi bản thân. Một người bạn miêu tả Làng Mai giống như lá gan hay quả thận của xã hội, lặng lẽ lọc đi những độc tố. Đó chính xác là cảm giác của tôi sau khóa tu. Tình trạng sức khỏe của tôi được cải thiện sau bốn ngày đầu tiên. Tôi thấy mình bình tĩnh hơn, dễ tha thứ hơn cho bản thân và người khác, và tôi đã cười rất nhiều. Tôi không mong đợi trạng thái tâm trí này sẽ kéo dài mãi mãi, nhưng tôi hy vọng mình sẽ nhớ cảm giác đó và có động lực để hướng tới một nếp sống an lành hơn.”*
 
