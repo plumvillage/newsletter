@@ -1,6 +1,6 @@
 module.exports = [
-    "memorial-letters",
     "bbt--a-year-in-review-2024",
+    "memorial-letters",
     "su-ong--love-is-the-answer",
     "br-phap-ung--sun-bleached-brown-robe",
     "sr-hoa-nghiem--a-thousand-rivers-of-moonlight",
@@ -17,6 +17,7 @@ module.exports = [
     "br-phap-luu--growing-a-beautiful-multifold-sangha-at-deer-park",
     "sr-lam-hy--running-another-way-of-stopping",
     "br-phap-huu--music-a-dharma-door",
+    "sr-bo-de--the-presence-of-thay",
     "sr-tam-muoi--the-profound-silence-of-dharma-mountain",
     "br-hai-thuong--i-have-arrived-i-am-home",
     "panel--resilience-community-spirituality",
@@ -29,11 +30,10 @@ module.exports = [
     "br-duc-hien--a-spiritual-family-without-borders",
     "sr-hien-tam--am-i-tofu",
     "br-dinh-thanh--transforming-resentment-into-compassion",
+    "br-bat-nha--my-novice-robe",
     "laurent-bernays--flowers-of-peace",
+    "tien-nguyen--the-sunny-days",
     "sr-tu-nghiem--poem-entering-the-field",
     // not in order yet ...
-    "br-bat-nha--my-novice-robe",
-    "sr-bo-de--the-presence-of-thay",
-    "tien-nguyen--the-sunny-days",
     // barriers and bridges
 ]

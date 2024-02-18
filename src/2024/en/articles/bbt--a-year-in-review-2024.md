@@ -71,11 +71,11 @@ In continuing Thay’s aspiration to share the practice of Engaged Buddhism worl
 {% image "article2024/Done-Review of the Year/Monastic on Tour/Wake up tour 2 2023.JPG", "noFloat lmnq4", "WakeUp Tour, Sweden" %}
 {% image "article2024/Done-Review of the Year/Monastic on Tour/9ee37f7c-830f-4a3f-ae2d-bca7bdf6943a.JPG", "noFloat lmnq4-2", "Brazil" %}
 
-## Plum Village at the First Global Buddhist Summit<br/>*(20 – 21 April 2023)*
+## Plum Village at the First Global Buddhist Summit *(20 – 21 April 2023)*
 
 On 20 April, the International Buddhist Confederation launched the first Global Buddhist Summit in New Delhi, India, with the theme *Responses to Contemporary Challenges: Philosophy to Praxis*. The conference received over 700 delegates, of which approximately 170 were from 31 foreign countries. Representatives from Plum Village included Brother Phap Khoi, Brother Nguyen Luc, Sister Bien Nghiem, and Sister Trang Loc Uyen. This event coincided with their mindfulness tour in India.
 
-<div class="page-break"></div>
+<!-- <div class="page-break"></div> -->
 
 ## Thich Nhat Hanh Center for Mindfulness in Public Health opened in Harvard University
 
@@ -92,16 +92,16 @@ The inauguration day also included a 1-day symposium with featured presentations
 Despite the nearly 25,000 peer-reviewed publications on mindfulness as of 2023, this field of research is relatively nascent. There is a general consensus on the need for new scientific means to evaluate the impact of mindful living on health and wellbeing.
 
 {% image "article2024/Done-Review of the Year/TNH Center/TNH center.3.jpg", "noFloat lmnq6" %}
-{% image "article2024/Done-Review of the Year/TNH Center/TNH center.8.jpg", "noFloat lmnq6", "Tiến sĩ Lilian Cheung" %}
+{% image "article2024/Done-Review of the Year/TNH Center/TNH center.8.jpg", "noFloat lmnq6", "Dr. Lilian Cheung" %}
 {% image "article2024/Done-Review of the Year/TNH Center/TNH center.4.jpg", "noFloat lmnq6" %}
-{% image "article2024/Done-Review of the Year/TNH Center/52853757348_bcebb40f07_6k.jpg", "noFloat lmnq6", 'Nguồn hình ảnh: Robert M Walsh<br/><a href="https://www.flickr.com/photos/robertmwalsh/">flickr.com/photos/robertmwalsh/</a>' %}
+{% image "article2024/Done-Review of the Year/TNH Center/52853757348_bcebb40f07_6k.jpg", "noFloat lmnq6", 'Photo Courtesy: Robert M Walsh<br/><a href="https://www.flickr.com/photos/robertmwalsh/">flickr.com/photos/robertmwalsh/</a>' %}
 
 {% image "article2024/Done-Review of the Year/TNH Center/52851181247_26caed8566_6k.jpg", "noFloat lmnq6" %}
-{% image "article2024/Done-Review of the Year/TNH Center/TNH center.5.jpg", "noFloat lmnq6", "Tiến sĩ Jon Kabat-Zinn" %}
+{% image "article2024/Done-Review of the Year/TNH Center/TNH center.5.jpg", "noFloat lmnq6", "Dr. Jon Kabat-Zinn" %}
 {% image "article2024/Done-Review of the Year/TNH Center/TNH center.2.jpg", "noFloat lmnq6" %}
 
 
-<div class="page-break"></div>
+<!-- <div class="page-break"></div> -->
 
 ## Sister Chan Khong visited the USA<br/>*(April – May 2023)*
 
@@ -109,7 +109,10 @@ In combination with attending the inaugural ceremony of the Thich Nhat Hanh Cent
 
 At Blue Cliff Monastery, New York, Sister Chan Khong offered a Dharma talk on the Day of Mindfulness on 16 April. With the support of the Union Theological Seminary and Blue Cliff Monastery, Sister Chan Khong also gave a public talk, entitled *Compassion in Action*, in New York City on 18 April. The following day, Sister Chan Khong joined the Blue Cliff sangha in a 5-day retreat for members of the Order of Interbeing with the theme *The Art of Compassion* from 19 to 23 April 2023.
 
-{% image "article2024/Done-Review of the Year/Screenshot from 2024-02-07 10-49-06.jpg" %}
+{% image "article2024/Done-Review of the Year/Screenshot from 2024-02-07 10-49-06.jpg", "noFloat", "Sr. Chan Khong at the Union Theological Seminary" %}
+{% image "article2024/Done-Review of the Year/SCCK-Photo- Văn Lan-Người Việt.jpg", "noFloat", "Photo Courtesy: Văn Lan - Người Việt News" %}
+{% image "article2024/Done-Review of the Year/Ngày quán niệm Dana - Credit Việt Báo.jpg", "noFloat lmnq7", "Photo Courtesy: Việt Báo News" %}
+{% image "article2024/Done-Review of the Year/Khat thuc - Nguon Viet Bao.jpg", "noFloat lmnq7", "Photo Courtesy: Việt Báo News" %}
 
 At Magnolia Grove Monastery, Sister Chan Khong joined the sangha for a retreat, themed *Learning True Love*, from 3 to 7 May 2023. This retreat also featured separate mindfulness practice programs for children and teens. Amid the splendor of spring blossoms, the manifold Sangha celebrated Vesak (Buddha’s birthday) on the last day of the retreat.
 
@@ -121,9 +124,7 @@ Everyone participated in the core practices of Plum Village, such as listening t
 
 The local newspaper, Viet Bao, commented that “the Day of Mindfulness by Deer Park Monastery has inspired great happiness not only for the people attending but also for the atmosphere, plants, and animals in the surroundings. A gaggle of geese at the nearby pond also honked as though greeting and welcoming the community. It has been a long time since Mile Square Park had a public event as peaceful as this.”
 
-{% image "article2024/Done-Review of the Year/SCCK-Photo- Văn Lan-Người Việt.jpg", "noFloat", "Nguồn: Văn Lan - báo Người Việt" %}
-{% image "article2024/Done-Review of the Year/Ngày quán niệm Dana - Credit Việt Báo.jpg", "noFloat lmnq7", "Nguồn: Việt Báo" %}
-{% image "article2024/Done-Review of the Year/Khat thuc - Nguon Viet Bao.jpg", "noFloat lmnq7", "Nguồn: Việt Báo" %}
+<div style="height: 42mm"></div>
 
 ## Cooking Retreat: Cooking Moment, Happy Moment *(26 May – 2 June 2023)*
 
@@ -137,8 +138,8 @@ One of the most anticipated retreats at Plum Village is the cooking retreat host
 Concomitant with the cooking retreat at New Hamlet was the retreat for over 50 Vietnamese business people in Upper Hamlet with the theme, “No Mud, No Lotus.” These entrepreneurs experienced seven days of mindful living, learning how to slow down and be more present for themselves. In this peaceful and supportive atmosphere, the participants were encouraged to reflect on the value of life, as well as the driving forces of their lives and their businesses: Do you truly want to be #1 or do you want to be happy? Are you a victim of your own success? Is your business heading in a wholesome direction? The entrepreneurs also learned and practiced the art of loving speech and deep listening. Sister Chan Khong offered a session on Beginning Anew for reconciling communication in their families and workplaces. On the last day of the retreat, 20 people received the Five Mindfulness Trainings to help them continue to nourish their spiritual lives.
 
 {% image "article2024/Done-Review of the Year/VietRetreat/DSC06951.JPG" %}
-{% image "article2024/Done-Review of the Year/VietRetreat/vietnamese retreat UH_2023_Nhỉ_68.jpg" %}
 {% image "article2024/Done-Review of the Year/VietRetreat/vietnamese retreat UH_2023_Nhỉ_87.jpg" %}
+{% image "article2024/Done-Review of the Year/VietRetreat/vietnamese retreat UH_2023_Nhỉ_68.jpg" %}
 
 <div class="page-break"></div>
 
@@ -243,7 +244,7 @@ On the morning of 19 October 2023, the manifold Sangha of Plum Village gathered 
 
 <div class="removeTopMarginInFollowingElem"></div>
 
-## Online course: Zen and the Art of Saving the Planet (ZASP)<br/>*(15 October – 03 December 2023)*
+## Online course: Zen and the Art of Saving the Planet (ZASP)<br/>*(15 October – 3 December 2023)*
 
 In addition to participating in the Rains Retreat, a group of monastics also took part in this 7-week in-depth online learning journey to nurture insight, compassion, community, and mindful action in service of the Earth. The course was curated in 2022 by a group of monastics and the support of lay practitioners. It was then piloted in early 2023 and later launched publicly in October. With a global audience with approximately 1,600 participants from about 50 countries on six continents, this was the first online course of its extent and content. To know more about the experience of the course, please read the article by Brother Troi Duc Niem in this newsletter.
 
@@ -271,7 +272,7 @@ To read the full letter, please visit <a href="https://plumvillage.org/articles/
 
 <div class="removeIndentInFollowingElem"></div>
 
-This year, the sangha welcomed 31 new monastic members::
+This year, the sangha welcomed 31 new monastic members:
  - **Longan Tree** (24 September at Deer Park Monastery, USA) comprised of 4 brothers: *Chân Nhất Lâm, Chân Nhất Thiên, Chân Nhất Điền, Chân Nhất Sơn; *and 2 sisters:* Chân Ân Hạnh and Chân Thuần Hạnh.*
  - **Daffodil Tree** (5 November at Dharma Cloud Temple, Upper Hamlet, France) comprised of 7 brothers: *Chân Nhất Vân, Chân Nhất Vũ, Chân Nhất Thanh, Chân Nhất Lương, Chân Nhất Nguyên, Brother Chân Nhất Mộc, Brother Chân Nhất Xuân; *and 3 sisters:* Chân Đôn Hạnh, Chân Diệu Hạnh, Chân Đăng Hạnh.*
  - **Golden Trumpet Tree** (17 December at Thai Plum Village Practice Center) comprised 13 sisters: *Chân Cung Hạnh, Chân Chuyên Hạnh, Chân Cẩn Hạnh, Chân Chuẩn Hạnh, Chân Chỉnh Hạnh, Chân Chỉ Hạnh, Chân Chí Hạnh, Chân Cư Hạnh, Chân Chánh Hạnh, Chân Chiêu Hạnh, Chân Chung Hạnh, Chân Cần Hạnh, Chân Cát Hạnh.*

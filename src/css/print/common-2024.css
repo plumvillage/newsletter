@@ -1163,11 +1163,12 @@ figure#article2024Done-BrPhap-UngBrPhap-Unge {
 
 
 /* column-span images */
+figure#article2024Done-Memorial-CeremonyHueBefore-the-CeremonyVN-24Day-18,
 figure#article2024Done-Review-of-the-YearNovice-ordinationChuong-vang-family-2,
 figure.zasp,
 figure#article2024Done-Review-of-the-YearTNH-Center528562133967da665de4eo,
 figure#article2024Done-Review-of-the-YearGreat-Ordination-CeremonyDSC2314,
-figure#article2024Done-Memorial-CeremonyHueCeremonyLe-dai-tuong-1-copy,
+html:lang(vi) figure#article2024Done-Memorial-CeremonyHueCeremonyLe-dai-tuong-1-copy,
 figure#article2024Done-Memorial-CeremonyHueBefore-the-CeremonyDSC4445e,
 figure#article2024Done-Memorial-CeremonyHueBefore-the-CeremonyDSC5433e,
 figure#article2024Done-Memorial-Ceremony67SuOng2ndYearMemorial220124crop,
@@ -1210,6 +1211,17 @@ figure#article2024Done-Review-of-the-YearTNH-Center528562133967da665de4eo {
     /* margin-top: 2em; */
     margin-bottom: 0em;
 }
+html:lang(en) figure#article2024Done-Review-of-the-YearGreat-Ordination-CeremonyDSC2314 {
+    width: 100%;
+    margin-top: 6em;
+    margin-bottom: 0em;
+}
+figure#article2024Done-Memorial-CeremonyHueBefore-the-CeremonyVN-24Day-18 {
+    width: 100%;
+    margin-top: 0em;
+    margin-bottom: 1.5em;
+}
+
 figure#article2024Done-Coming-home-to-our-rootsPXL20230608053312985e,
 figure#article2024Done-interview-with-thayEni-am-in-love-with-mother-earthe {
     width: 57%;
@@ -1247,6 +1259,11 @@ figure#article2024ScannedDrawings0705-Ky-to-dje-nhie img {
     height: 172mm;
     margin-top: 39mm;
 }
+figure.memorialEN img {
+    object-fit: cover;
+    height: 48mm;
+    /* margin-top: 39mm; */
+}
 figure#article2024Done-Memorial-CeremonyHueBefore-the-CeremonyDSC5565 {
     margin-top: 0;
 }
@@ -1260,7 +1277,7 @@ figure#article2024Done-Memorial-CeremonyHueBefore-the-CeremonyDSC4445e {
     margin-top: 0em;
     margin-bottom: 1.5em;
 }
-figure#article2024Done-Memorial-CeremonyHueCeremonyLe-dai-tuong-1-copy {
+html:lang(vi) figure#article2024Done-Memorial-CeremonyHueCeremonyLe-dai-tuong-1-copy {
     width: 84%;
     margin-top: 1.5em;
     margin-bottom: 0em;
@@ -1404,10 +1421,27 @@ html:lang(en) figure#article2024Done-Br-Minh-HyMG9118 {
     line-height: 130%;
 }
 
-figure.hueMemorial img {
+.hueMemorial figure img {
     object-fit: cover;
     height: 51mm;
 }
+
+.hueMemorialEN {
+    column-span: all;
+}
+.hueMemorialEN figure {
+    display: inline-block;
+    width: 85mm;
+}
+.hueMemorialEN figure:nth-child(2n+1) {
+    margin-right: 5mm;
+}
+.hueMemorialEN figure img {
+    object-fit: cover;
+    height: 51mm;
+}
+
+
 figure.lmnq1 img {
     object-fit: cover;
     height: 59mm;
@@ -1430,6 +1464,10 @@ figure.lmnq6 img {
 figure.lmnq7 img {
     object-fit: cover;
     height: 66mm;
+}
+html:lang(en) figure.lmnq7 img {
+    object-fit: cover;
+    height: 63mm;
 }
 figure.lmnqSummer img {
     object-fit: cover;
@@ -1458,6 +1496,10 @@ figure.lmnqHFarmFirst img {
 figure.lmnqRainsSCCK img {
     object-fit: cover;
     height: 80.58mm;
+}
+html:lang(en) figure.lmnqRainsSCCK img {
+    object-fit: cover;
+    height: 95.4mm;
 }
 figure.lmnqHFarmBig img {
     object-fit: cover;
@@ -1555,8 +1597,9 @@ h1#honoring-our-teacher-thay-2-year-memorial-ceremony {
     margin-bottom: 3em;
 }
 
-.PAGE-OF-article2024Done-Memorial-Ceremony67SuOng2ndYearMemorial220124crop article {
+html:lang(vi) .PAGE-OF-article2024Done-Memorial-Ceremony67SuOng2ndYearMemorial220124crop article {
+    margin-top: 36.5mm !important;
+}
+html:lang(en) .PAGE-OF-article2024Done-Memorial-Ceremony67SuOng2ndYearMemorial220124crop article {
     margin-top: 45.5mm !important;
 }
-
-

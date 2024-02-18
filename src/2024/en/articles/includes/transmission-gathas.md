@@ -16,35 +16,36 @@ In 2023, the sangha happily welcomed 27 new Dharma teachers, both lay and monast
 
 ## Transmission gathas in the Trung Quang Great Precept Transmission Ceremony<br/>*(10 – 14.2.2023, in Thai Plum Village)*
 
-> **Thầy Thích Chân Phương Cần**  
-> *(Lay name: Nguyễn Xuân Lộc; Dharma name: Nhuận Thọ)*
+> **Brother Thích Chân Phương Cần**  
+> *(Lay name: Nguyễn Xuân Lộc;  
+> Dharma name: Nhuận Thọ)*
 > > Chân pháp mở bày muôn vạn lối  
 > > Đường vào **phương** ngoại chẳng ngoài tâm  
 > > Công phu **cần** mẫn trong nhật dụng  
 > > Gương trí soi tròn nghĩa uyên thâm.
 
-> **Thầy Thích Chân Trời Kỳ Ngộ**  
+> **Brother Thích Chân Trời Kỳ Ngộ**  
 > *(Phạm Hùng; Tâm Đức Khang)*
 > > Muôn dặm không mây muôn dặm **trời**  
 > > Nhân duyên **kỳ ngộ** bước thảnh thơi  
 > > Ở đây gặp gỡ bao tri kỷ  
 > > Mở hội tăng thân cứu độ người.
 
-> **Thầy Thích Chân Trời Lĩnh Nam**  
+> **Brother Thích Chân Trời Lĩnh Nam**  
 > *(Lê Dũng; Tâm Đại Niệm)*
 > > Chân **trời Lĩnh Nam** đất xưa  
 > > Tổ tiên xây dựng truyền thừa mai sau  
 > > Bước chân cẩn trọng cho nhau  
 > > Mỉm cười tương kính làm giàu tương lai.
 
-> **Thầy Thích Chân Trời Bình An**  
+> **Brother Thích Chân Trời Bình An**  
 > *(Trần Công Danh; Tâm Từ Thủy)*
 > > Pháp thân tỏa sáng rạng chân **trời**  
 > > **Bình** minh rực rỡ ánh hồng tươi  
 > > **An** nhiên từng bước là dừng lại  
 > > Mắt biếc hồn thơ rộn tiếng cười.
 
-> **Thầy Thích Chân Trời Linh Cảm**  
+> **Brother Thích Chân Trời Linh Cảm**  
 > *(Lai Thanh Vũ; Tâm Khuyến Thiện)*
 > > Chân xuân thắp sáng cả **trời** xuân  
 > > Ứng hiện tâm **linh** đẹp tuyệt trần  
@@ -53,35 +54,35 @@ In 2023, the sangha happily welcomed 27 new Dharma teachers, both lay and monast
 
 {% image "article2024/Done-Review of the Year/Lamp transmission/Lamp Transmissions_UH_10.06.22 _195.jpg", "noFloat lmnqLampSymbolic" %}
 
-> **Thầy Thích Chân Trời Nguyện Ước**  
+> **Brother Thích Chân Trời Nguyện Ước**  
 > *(Nguyễn Bá Nhật; Tâm Nhuận Minh)*
 > > Chân tâm soi tỏ **trời** cao rộng  
 > > **Nguyện** **ước** năm xưa vững một lòng  
 > > Tăng đi từng bước xây mầm tuệ  
 > > Nghĩa trả ơn đền vẹn núi sông.
   
-> **Thầy Thích Chân Trời Đâu Suất**  
+> **Brother Thích Chân Trời Đâu Suất**  
 > *(Đặng Ngọc Hồng Quyết; Tâm Minh Đăng)*
 > > Mắt thương nhìn thấu cõi trần  
 > > Từ **Trời Đâu Suất** hiện thân giữa đời  
 > > Bồ đề chiếu rạng muôn nơi  
 > > Mở bày phương tiện độ người trầm luân.
 
-> **Thầy Thích Chân Trời Tương Lai**  
+> **Brother Thích Chân Trời Tương Lai**  
 > *(Phạm Quang Hà; Tâm Đức Tĩnh)*
 > > Khung **trời** hiện tại đã về tới  
 > > Ôm cả **tương lai** sáng nếp nhà  
 > > Tình xưa gửi gắm từng huynh đệ  
 > > Ơn nghĩa truyền trao vẫn đậm đà.
 
-> **Sư cô Thích nữ Chân Đán Nghiêm**  
+> **Sister Thích nữ Chân Đán Nghiêm**  
 > *(Phan Thị Minh Tuyền; Tâm Quảng Bích)*  
 > > Một trời xuân **đán** bình an   
 > > Uy **nghiêm** vọng tiếng thâm ơn nghìn trùng   
 > > Lối về có thủy có chung  
 > > Từ bi chiếu rạng khắp cùng thế gian.
 
-> **Sư cô Thích nữ Chân Nhẫn Nghiêm**  
+> **Sister Thích nữ Chân Nhẫn Nghiêm**  
 > *(Lay name: Nguyễn Thị Bích Lê;  
 > Dharma name: Tâm Nguyên Tịnh)*  
 > > Chân tâm một nẻo đi về  
@@ -91,35 +92,35 @@ In 2023, the sangha happily welcomed 27 new Dharma teachers, both lay and monast
 
 <figure id="pageMarkerForGathas2024"></figure>
 
-> **Sư cô Thích nữ Chân Thiện Nghiêm**  
+> **Sister Thích nữ Chân Thiện Nghiêm**  
 > *(Văn Thị Kiều Oanh; Tâm Chơn Khai)*  
 > > **Thiện** nghiệp gieo trồng cõi lạc bang  
 > > **Nghiêm** giới trì đức tuệ vững vàng  
 > > Dong thuyền bát nhã ra khơi vớt  
 > > Cỡi gió về mây giữ an ban.
 
-> **Sư cô Thích nữ Chân Đế Nghiêm**  
+> **Sister Thích nữ Chân Đế Nghiêm**  
 > *(Vũ Thị Minh Đức ; Tâm Diệu Chuyên)*  
 > > Xuất lưu pháp bảo từ chân **đế**  
 > > Một dạ giữ **nghiêm** phép chỉ trì  
 > > Mỗi khi trời đất lên tiếng gọi  
 > > Hoa lòng thơm ngát giọt từ bi.
 
-> **Sư cô Thích nữ Chân Dương Nghiêm**  
+> **Sister Thích nữ Chân Dương Nghiêm**  
 > *(Phạm Thị Hồng; Tâm Phương Minh)*  
 > > Chân thân vốn hoàn hảo  
 > > Rạng ngời ánh **dương** quang  
 > > Một lòng thường **nghiêm** cẩn  
 > > Lan tỏa pháp An ban.
 
-> **Sư cô Thích nữ Chân Công Nghiêm**  
+> **Sister Thích nữ Chân Công Nghiêm**  
 > *(Hoàng Lê Kim Loan; Tâm Nhật Kim)*  
 > > Đức sáng nằm ngay **công** tu luyện  
 > > Nghiệp lành vun tưới tướng uy **nghiêm**  
 > > Thông điệp từ bi về mọi nẻo  
 > > Tha hồ thỏa chí chốn an nhiên.
 
-> **Sư cô Chân Trăng Nga Mi**  
+> **Sister Chân Trăng Nga Mi**  
 > *(Chew Yee Lee;  
 > Noble Fulfillment of the Heart)*  
 > > **Trăng** không tròn không khuyết  
@@ -127,7 +128,7 @@ In 2023, the sangha happily welcomed 27 new Dharma teachers, both lay and monast
 > > Phổ Hiền mười hạnh nguyện  
 > > Làm lợi lạc chúng sanh
 
-> **Sư cô Chân Trăng Đông Hải**  
+> **Sister Chân Trăng Đông Hải**  
 > *(Tsui Miu Ling; Tâm Quán Ân)*  
 > > **Trăng** tỏa sáng bầu trời **Đông Hải**  
 > > Biển trần gian phản ánh não phiền  
@@ -136,28 +137,28 @@ In 2023, the sangha happily welcomed 27 new Dharma teachers, both lay and monast
 
 ## Transmission gathas in the monastic retreat “Unshakable Faith” *(15 – 23.2.2023, France)*
 
-> **Thầy Thích Chân Trời Nội Tâm**  
+> **Brother Thích Chân Trời Nội Tâm**  
 > *(Phạm Văn Tài)*
 > > **Trời nội** điển, ngày pho thủ tự  
 > > Nhập tánh không, đêm quán **tâm** kinh  
 > > Ơn thầy tổ nguyền xin tiếp nối  
 > > Một lên đường, sông núi chứng minh
 
-> **Sư cô Thích nữ Chân Trợ Nghiêm**  
+> **Sister Thích nữ Chân Trợ Nghiêm**  
 > *(Hoàng Thị Minh Nguyệt)*
 > > Chân tâm vắng duyên **trợ**  
 > > **Nghiêm** từ chẳng đến đi  
 > > Như Lai bậc như thị  
 > > Chánh Niệm vượt thị phi
 
-> **Sư cô Thích nữ Chân Trăng Quê Hương**  
+> **Sister Thích nữ Chân Trăng Quê Hương**  
 > *(Nguyễn Thị Kim Thạnh)*
 > > Chân **trăng** là **quê hương**  
 > > Chiếc lá vốn bản môn  
 > > Pháp nhiệm ấy con đường  
 > > Lắng nghe hiểu và thương
 
-> **Sư cô Thích nữ Chân Trăng Mới Lên**  
+> **Sister Thích nữ Chân Trăng Mới Lên**  
 > *(Yuliana Wijaya)*
 > > Out of darkness **the moon** has just **risen**  
 > > Its guiding light illuminates our steps.  
@@ -178,7 +179,7 @@ In 2023, the sangha happily welcomed 27 new Dharma teachers, both lay and monast
 > > **Thong dong** cùng chúng đồng hành  
 > > Ân đền nghĩa đáp dạ thành khắc ghi
 
-> **Sư cô Thích nữ Chân Trăng Chí Thành**  
+> **Sister Thích nữ Chân Trăng Chí Thành**  
 > *(Lê Thị Tư)*
 > > Vén mây **trăng** lộ diện  
 > > Tu tập dạ **chí thành**  
@@ -187,19 +188,23 @@ In 2023, the sangha happily welcomed 27 new Dharma teachers, both lay and monast
 
 {% image "article2024/Done-Review of the Year/Lamp transmission/Sr. Nhan Nghiem.JPG", "noFloat lampT" %}
 {% image "article2024/Done-Review of the Year/Lamp transmission/Sr. Dan Nghiem.JPG", "noFloat lampT" %}
-{% image "article2024/Done-Review of the Year/Lamp transmission/Sr. Thien Nghiem.JPG", "noFloat lampT" %}
+<!-- {% image "article2024/Done-Review of the Year/Lamp transmission/Sr. Thien Nghiem.JPG", "noFloat lampT" %} -->
 {% image "article2024/Done-Review of the Year/Lamp transmission/Br. Noi Tam.JPG", "noFloat lampT" %}
-{% image "article2024/Done-Review of the Year/Lamp transmission/Lamp transmission 19.03 46.JPG", "noFloat lampT" %}
+<!-- {% image "article2024/Done-Review of the Year/Lamp transmission/Lamp transmission 19.03 46.JPG", "noFloat lampT" %} -->
+{% image "article2024/Done-Review of the Year/Lamp transmission/Sr. T Nga Mi.JPG", "noFloat lampT" %}
+{% image "article2024/Done-Review of the Year/Lamp transmission/Sr. T Dong Hai.JPG", "noFloat lampT" %}
 
 {% image "article2024/Done-Review of the Year/Lamp transmission/Br. Phuong Can.JPG", "noFloat lampT" %}
 {% image "article2024/Done-Review of the Year/Lamp transmission/Br. T Nguyen Uoc.JPG", "noFloat lampT" %}
 {% image "article2024/Done-Review of the Year/Lamp transmission/Br. T Ky Ngo.JPG", "noFloat lampT" %}
 {% image "article2024/Done-Review of the Year/Lamp transmission/Sr. Tro Nghiem.JPG", "noFloat lampT" %}
-{% image "article2024/Done-Review of the Year/Lamp transmission/Sr. Que Huong.JPG", "noFloat lampT" %}
+<!-- {% image "article2024/Done-Review of the Year/Lamp transmission/Sr. Que Huong.JPG", "noFloat lampT" %} -->
+{% image "article2024/Done-Review of the Year/Lamp transmission/Sr. Moi Len.JPG", "noFloat lampT" %}
 
 
 
-> **Sư cô Thích nữ Chân Trăng Lý Tưởng**  
+
+> **Sister Thích nữ Chân Trăng Lý Tưởng**  
 > *(Châu Thị Thu Sương)*
 > > Hé nụ cười chân thật, tuyệt vời  
 > > **Trăng** sao chiếu sáng khắp muôn nơi  
@@ -208,7 +213,7 @@ In 2023, the sangha happily welcomed 27 new Dharma teachers, both lay and monast
 
 ## Transmission gathas from Mountain Spring Monastery *(11.4.2023, Bringelly, Australia)*
 
-> **Thầy Thích Chân Trời Bình Minh**  
+> **Brother Thích Chân Trời Bình Minh**  
 > *(Trương Văn Sen)*
 > > Cultivating the **peaceful sky of the mind**,  
 > > the ten directions are illuminated beautifully.  

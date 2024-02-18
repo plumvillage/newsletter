@@ -3,7 +3,7 @@ title: "Honoring our Teacher Thay: 2-Year Memorial Ceremony"
 author: Thay’s Disciples
 ---
 
-<p class="editors-preface">The following is a letter to Thay from his disciples in Plum Village, France, written January 22, 2024.</p>
+<p class="editors-preface">The following is a letter to Thay from his disciples in Plum Village, France.</p>
 
 ## Your Life Is Your Message
 
@@ -40,12 +40,10 @@ Thank you, dear Thay, for your unwavering guidance, your endless compassion, and
 
 <div class="page-break"></div>
 
-<!-- <div class="removeTopMarginInFollowingElem removeIndentInFollowingElem" style="height: 6mm; column-span: all;"></div> -->
+<!-- "Ocean of Smiles" -->
+{% image "article2024/Done-Memorial-Ceremony/Hue/Before the Ceremony/VN 24_Day 1_8.jpg", "noFloat" %}
 
-{% image "article2024/Done-Memorial-Ceremony/Hue/Before the Ceremony/VN 24_Day 1_3.jpg", "noFloat" %}
-{% image "article2024/Done-Memorial-Ceremony/Hue/Before the Ceremony/VN 24_Day 1_12.jpg", "noFloat" %}
-{% image "article2024/Done-Memorial-Ceremony/Hue/Before the Ceremony/_DSC5219.jpg", "noFloat" %}
-{% image "article2024/Done-Memorial-Ceremony/Hue/Before the Ceremony/_DSC6356.jpg", "noFloat columnBreakAfter" %}
+<!-- <div class="removeTopMarginInFollowingElem removeIndentInFollowingElem" style="height: 6mm; column-span: all;"></div> -->
 
 <p class="editors-preface">The following is a letter to Thay from his international monastic disciples gathered in the Từ Hiếu Root Temple for Thay’s 2-Year Memorial.</p>
 
@@ -74,29 +72,49 @@ You have said that, “Time is stilled in eternity, where love and the beloved a
 <span class="signoff-lvl-2">Your students</span>
 </p>
 
-{% image "article2024/Done-Memorial-Ceremony/Hue/Before the Ceremony/_DSC3872_e.jpg", "noFloat" %}
-{% image "article2024/Done-Memorial-Ceremony/Hue/Before the Ceremony/_DSC6818.jpg", "noFloat" %}
-{% image "article2024/Done-Memorial-Ceremony/Hue/Before the Ceremony/_DSC6286.jpg", "noFloat" %}
-<!-- {% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/Tiep nhan gia tai 32.jpg", "noFloat" %} -->
-
-<!-- <div style="height: 3em"></div> -->
-
-<div class="page-break"></div>
-
-<div class="editors-preface"><p>On January 29, more than 400 monastics from all Plum Village centers, alongside venerable monks and nuns of Hue and lay practitioners from over 30 countries gathered in Tu Hieu Root Temple to honor Thay. This grand memorial ceremony recognized Thay as the Fifth Patriarch of Tu Hieu and the founder of the Plum Village tradition.</p>
+{% image "article2024/Done-Memorial-Ceremony/Hue/Before the Ceremony/Br.Phap Luu-walking.jpg", "noFloat memorialEN" %}
+{% image "article2024/Done-Memorial-Ceremony/Hue/Before the Ceremony/_DSC3872_e.jpg", "noFloat memorialEN" %}
+{% image "article2024/Done-Memorial-Ceremony/Hue/Before the Ceremony/_DSC4015.jpg", "noFloat memorialEN" %}
+{% image "article2024/Done-Memorial-Ceremony/Hue/Before the Ceremony/_DSC6356.jpg", "noFloat memorialEN" %}
+{% image "article2024/Done-Memorial-Ceremony/Hue/Before the Ceremony/_DSC6818.jpg", "noFloat memorialEN" %}
+{% image "article2024/Done-Memorial-Ceremony/Hue/Before the Ceremony/_DSC4445_e.jpg", "noFloat memorialEN" %}
 
 
-<div style="column-span: all; height: 1.5em; width: 100%;"></div>
+<!-- <div class="page-break"></div> -->
 
-{% image "article2024/Done-Memorial-Ceremony/Hue/Before the Ceremony/_DSC5565.jpg", "noFloat" %}
-{% image "article2024/Done-Memorial-Ceremony/Hue/Before the Ceremony/_DSC7206.jpg", "noFloat" %}
+## Thay’s 2-Year Memorial Ceremony
 
-<div style="column-span: all; height: 0.5em; width: 100%;s"></div>
+<p style="column-span: all; margin-top: 8pt;">On January 29, more than 400 monastics from all Plum Village centers, alongside venerable monks and nuns of Hue and lay practitioners from over 30 countries gathered in Tu Hieu Root Temple to honor Thay. This grand memorial ceremony recognized Thay as the Fifth Patriarch of Tu Hieu and the founder of the Plum Village tradition.</p>
 
-{% image "article2024/Done-Memorial-Ceremony/Hue/Before the Ceremony/_DSC5433_e.jpg", "noFloat" %}
+<div class="article-end"></div>
 
-<div class="page-break"></div>
+<!-- <div class="removeTopMarginInFollowingElem"></div> 
+-->
 
-{% image "article2024/Done-Memorial-Ceremony/Hue/Before the Ceremony/_DSC4445_e.jpg", "noFloat" %}
+<!-- I changed the flow here. It goes left to right, then down, not in columns. -->
+<div class="hueMemorialEN">
 
-<div class="removeTopMarginInFollowingElem"></div>
+{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/Le dai tuong 1 copy.jpg", "noFloat hueMemorialEN" %}
+{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/_DSC6672.jpg", "noFloat hueMemorialEN" %}
+{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/_DSC7059.jpg", "noFloat hueMemorialEN" %}
+{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/Le dai tuong 11.1 copy.jpg", "noFloat hueMemorialEN" %}
+{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/Le dai tuong 30.1.jpg", "noFloat hueMemorialEN" %}
+
+{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/Le dai tuong 4 copy.jpg", "noFloat hueMemorialEN" %}
+{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/Le dai tuong 15 copy.jpg", "noFloat hueMemorialEN" %}
+{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/Le dai tuong 19.jpg", "noFloat hueMemorialEN" %}
+{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/Le dai tuong 16.jpg", "noFloat hueMemorialEN" %}
+
+
+{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/May trang thong dong 38.jpg", "noFloat hueMemorialEN" %}
+{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/_DSC7084.jpg", "noFloat hueMemorialEN" %}
+{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/_DSC6713.jpg", "noFloat hueMemorialEN" %}
+{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/VN 24_Lễ Đại Tường_015.jpg", "noFloat hueMemorialEN" %}
+
+
+{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/VN 24_Lễ Đại Tường_021.jpg", "noFloat hueMemorialEN" %}
+{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/VN 24_Lễ Đại Tường_023.jpg", "noFloat hueMemorialEN" %}
+{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/VN 24_Lễ Đại Tường_014.jpg", "noFloat hueMemorialEN" %}
+{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/VN 24_Lễ Đại Tường_24.jpg", "noFloat hueMemorialEN" %}
+
+</div>
