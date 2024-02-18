@@ -114,15 +114,15 @@ Sáng ngày 20.4, Hội nghị Thượng đỉnh Phật giáo Toàn cầu năm 2
 
 Kết hợp với sự kiện thành lập Trung tâm Chánh niệm Thích Nhất Hạnh tại Harvard, Sư cô Chân Không đã có một số hoạt động hoằng pháp tại ba tu viện của Làng Mai tại Mỹ.
 
-*Tại tu viện Bích Nham*, Sư cô đã hướng dẫn một ngày quán niệm cho tăng thân tứ chúng vào ngày 16.4, và cho một bài pháp thoại công cộng với chủ đề “Từ bi trong Hành động” (Compassion in Action) do Hội Chủng viện Thần học Hoa Kỳ (Union Theological Seminary) cùng quý thầy, quý sư cô tu viện Bích Nham tổ chức vào ngày 18.4. Ngay sau đó, Sư cô hướng dẫn khóa tu Tiếp hiện, từ ngày 19 đến ngày 23.4.2023, với chủ đề “Nghệ thuật thương yêu” (The Art of Compassion).
+*Tại tu viện Bích Nham*, Sư cô đã hướng dẫn một ngày quán niệm cho tăng thân tứ chúng vào ngày 16.4, và cho một bài pháp thoại công cộng với chủ đề “Từ bi trong hành động” (Compassion in Action) do Hội Chủng viện Thần học Hoa Kỳ (Union Theological Seminary) cùng quý thầy, quý sư cô tu viện Bích Nham tổ chức vào ngày 18.4. Ngay sau đó, Sư cô hướng dẫn khóa tu Tiếp hiện, từ ngày 19 đến ngày 23.4.2023, với chủ đề “Nghệ thuật thương yêu” (The Art of Compassion).
 
 {% image "article2024/Done-Review of the Year/Screenshot from 2024-02-07 10-49-06.jpg" %}
 
 *Tại tu viện Mộc Lan*, một khóa tu năm ngày đã diễn ra từ ngày 3.5 đến ngày 7.5 với chủ đề “Tình thương đích thực” (Learning True Love). Khóa tu này còn có chương trình dành cho trẻ em và thiếu niên.
 
-*Tại tu viện Lộc Uyển*, Sư cô đã tham gia hướng dẫn một ngày quán niệm vào ngày 14.5. Ngoài ra, còn có một ngày quán niệm đặc biệt, được gọi là ngày quán niệm Dana, được tổ chức vào sáng Chủ Nhật ngày 21.5, tại công viên Mile Square Fountain Valley, quận Cam. Có khoảng 600 người đã đến tham gia ngày thực tập Chánh niệm đặc biệt này. Nhiều người trong số đó không phải là người gốc Việt. Do vậy, ngôn ngữ chính được sử dụng trong ngày quán niệm là tiếng Anh, có thông dịch sang tiếng Việt trong phần pháp thoại.
+*Tại tu viện Lộc Uyển*, Sư cô đã tham gia hướng dẫn một ngày quán niệm vào ngày 14.5. Ngoài ra, còn có một ngày quán niệm đặc biệt, được gọi là ngày quán niệm Dana, được tổ chức vào sáng Chủ nhật ngày 21.5, tại công viên Mile Square Fountain Valley, quận Cam. Có khoảng 600 người đã đến tham gia ngày thực tập chánh niệm đặc biệt này. Nhiều người trong số đó không phải là người gốc Việt. Do vậy, ngôn ngữ chính được sử dụng trong ngày quán niệm là tiếng Anh, có thông dịch sang tiếng Việt trong phần pháp thoại.
 
-Ngày Quán Niệm Dana có chương trình bao gồm những phần thực tập căn bản nhất theo truyền thống Làng Mai: nghe chuông, quán niệm hơi thở, thiền hành, thiền buông thư… Đặc biệt, có thêm nghi thức tăng đoàn đi khất thực, để những người tham gia có thể thực tập hạnh cúng dường, bố thí. Ngày quán niệm Dana cũng là dịp tăng thân gây quỹ cho công trình xây dựng tăng xá của tu viện Lộc Uyển.
+Ngày Quán niệm Dana có chương trình bao gồm những phần thực tập căn bản nhất theo truyền thống Làng Mai: nghe chuông, quán niệm hơi thở, thiền hành, thiền buông thư… Đặc biệt, có thêm nghi thức tăng đoàn đi khất thực, để những người tham gia có thể thực tập hạnh cúng dường, bố thí. Ngày quán niệm Dana cũng là dịp tăng thân gây quỹ cho công trình xây dựng tăng xá của tu viện Lộc Uyển.
 
 Tờ Việt Báo đã viết: “Ngày quán niệm của tăng đoàn Lộc Uyển đã đem lại niềm an lạc lớn lao không chỉ cho những người tham gia, mà còn cho cả không gian, cây cỏ, muôn loài chung quanh. Bầy ngỗng trời ở hồ nước bên cạnh cũng lên tiếng, giống như để chào đón tăng đoàn cùng những người tham dự. Lâu lắm rồi, ở Mile Square Park mới có một sự kiện cộng đồng với một không khí bình an như vậy”.
 
