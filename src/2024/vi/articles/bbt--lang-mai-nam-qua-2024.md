@@ -159,7 +159,7 @@ Lần đầu tiên tại Làng Mai đã diễn ra một khóa tu kết hợp c�
 
 Thật cảm động khi nhìn thấy hình ảnh hơn một ngàn người từ các quốc gia khác nhau trên hành tinh cùng nhau thắp lên ánh sáng tỉnh thức và nhìn sâu vào liên hệ giữa mình với thiên nhiên, với đất Mẹ. Càng nhìn được bằng tuệ giác tương tức, ta càng thức tỉnh, có đủ sức mạnh và tình thương để bảo hộ đất Mẹ. Tâm thương yêu càng rộng lớn, ta càng có nhiều tự do.
 
-Một trong những điểm nổi bật của khóa tu là Lễ hạ chí – ngày lễ đón mừng ngày giữa mùa hè hay ngày có mặt trời chiếu sáng dài nhất và đêm tối ngắn nhất trong năm – với sự tham gia của đại diện nhiều truyền thống tôn giáo, trong đó có những thổ dân từ Amazon, Mexico và Châu Phi.
+Một trong những điểm nổi bật của khóa tu là Lễ hạ chí – lễ đón mừng ngày ngày có mặt trời chiếu sáng dài nhất và đêm ngắn nhất trong năm – với sự tham gia của đại diện nhiều truyền thống tôn giáo, trong đó có những thổ dân từ Amazon, Mexico và Châu Phi.
 
 {% image "article2024/Done-Review of the Year/Earth Retreat/IMG_7925_.jpg", "noFloat" %}
 {% image "article2024/Done-Review of the Year/Earth Retreat/IMG_7942_.jpg", "noFloat" %}
