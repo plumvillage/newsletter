@@ -13,7 +13,7 @@ Coming to Plum Village, besides enjoying meeting friends from around the world, 
 
 Last June, the retreat *Finding Our True Home* was the first retreat specifically for young Vietnamese and Asians from the diaspora. We have never seen so many young Asian friends together at aPlum Village retreat before. Attending the retreat surrounded by those who shared similar upbringing and challenges of being disconnected from our Vietnamese culture and our parents’ experiences was incredibly empowering. There was such a deep understanding without needing to exchange many words. 
 
-In her Dharma talk, sister Lang Nghiem shared about the four elements of true love and reminded us that Thay taught us that love is understanding. “True love is limitless, so is understanding and vice versa.” We felt that during this retreat we all touched a deep love that was hard to put into words: unconditional love from the monastic sisters, love for our parents and our ancestors, love for our roots that we had long thought were buried, love for our cultural practices, and love for ourselves.
+In her Dharma talk, Sister Lang Nghiem shared about the four elements of true love and reminded us that Thay taught us that love is understanding. “True love is limitless, so is understanding and vice versa.” We felt that during this retreat we all touched a deep love that was hard to put into words: unconditional love from the monastic sisters, love for our parents and our ancestors, love for our roots that we had long thought were buried, love for our cultural practices, and love for ourselves.
 
 <div class="removeTopMarginInFollowingElem"></div>
 

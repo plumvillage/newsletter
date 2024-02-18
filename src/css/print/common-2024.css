@@ -1159,7 +1159,9 @@ figure#article2024Done-BrPhap-UngBrPhap-Unge {
     max-width: none !important;
 }
 
-
+html:lang(en) figure#article2024Done-BrPhap-UngBrPhap-Unge {
+    width: 83%;
+}
 
 
 /* column-span images */
@@ -1376,6 +1378,7 @@ figure#calligraphyarticle-titles-2-and-dividers5-maskedDividers1-1
     margin-right: auto;
 }
 
+.PAGE-OF-article2024Done-Memorial-CeremonyHueCeremonyLe-dai-tuong-19 .last-article-element::after,
 .PAGE-OF-article2024Done-Memorial-CeremonyHueCeremonyLe-dai-tuong-4-copy .last-article-element::after,
 .PAGE-OF-article2024ScannedDrawings0705-Ky-to-dje-nhie .last-article-element::after,
 .PAGE-OF-article2024Done-BrDJuc-DJinhRains-retreat-23-249 .last-article-element::after {
@@ -1384,11 +1387,12 @@ figure#calligraphyarticle-titles-2-and-dividers5-maskedDividers1-1
 
 
 
-
 figure#article2024br-duc-hienIMG0754e {
     padding-left: 10%;
     padding-right: 10%;
 }
+/* figure#article2024Done-BrPhap-UngDSC7759e,
+figure#article2024Done-BrPhap-UngThay-and-Br-Phap-Ung-at-Omega-Institute-in-New-York-1996-PHOTO-Simon-Chaput, */
 figure#article2024Sr-Lam-Hyimage123923953-3-e,
 figure#article2024sr-tam-muoiIMG20230901075344e,
 figure#article2024Done-Br-Bat-NhaCTD04521e {
@@ -1432,6 +1436,10 @@ html:lang(en) figure#article2024Done-Br-Minh-HyMG9118 {
 .hueMemorialEN figure {
     display: inline-block;
     width: 85mm;
+    margin-bottom: 0em;
+}
+.hueMemorialEN figure.p2end {
+    width: 100%;
 }
 .hueMemorialEN figure:nth-child(2n+1) {
     margin-right: 5mm;
@@ -1439,6 +1447,9 @@ html:lang(en) figure#article2024Done-Br-Minh-HyMG9118 {
 .hueMemorialEN figure img {
     object-fit: cover;
     height: 51mm;
+}
+.hueMemorialEN figure.p2 img {
+    height: 45mm;
 }
 
 

@@ -3,7 +3,7 @@ title: Sun-Bleached Brown Robes
 author: Brother Chân Pháp Ứng
 ---
 
-<p class="editors-preface">On 11 December 2023, the monastics of the Fish ordination family turned 30 years old. After 30 years, the number of “fish” has reduced to two-thirds, from six individuals down to four. Now, they are elder brothers and sisters of Plum Village. Brother Phap Ung is one of the remaining four “fish”, alongside sister Thoai Nghiem, sister Dinh Nghiem and sister Tue Nghiem. On this occasion, the editorial team had a chance to drink tea with brother Phap Ung at Thay’s hut in Upper Hamlet. This article was born from that exchange.</p>
+<p class="editors-preface">On 11 December 2023, the monastics of the Fish ordination family turned 30 years old. After 30 years, the number of “fish” has reduced to two-thirds, from six individuals down to four. Now, they are elder brothers and sisters of Plum Village. Brother Phap Ung is one of the remaining four “fish”, alongside Sister Thoai Nghiem, Sister Dinh Nghiem and Sister Tue Nghiem. On this occasion, the editorial team had a chance to drink tea with Brother Phap Ung at Thay’s hut in Upper Hamlet. This article was born from that exchange.</p>
 
 ## An ancient seed deep in the Earth just smiles
 
@@ -12,6 +12,10 @@ After 30 years of being guided by Thay and nourished by the sangha, I feel like 
 During those years, I have made all kinds of mistakes, learned to get up from a fall, and incurred many scrapes and scratches, so to speak. Perhaps, it is because of these experiences that I feel like the fruits and flowers are beginning to take form; the buds are now just beginning to open. I am beginning to recognize and have faith in the teacher within myself. This is incredibly precious to me. In truth, however, it is not anything new. It is the feeling of being able to return to myself, like returning to the source in order to continue forward. Maybe it is the essence transmitted by the ancestors that is now beginning to blossom in me. It is like a continuation.
 
 When I had the aspiration to become a monastic, my family was not ready to receive the news. I felt sorry for myself and cried alone in my bed. While crying, I suddenly saw a figure with a glowing complexion who kindly said, “Rest assured, my child!” It calmed me down… Not long after that, I met Thay at a retreat in the Netherlands. Thay looked at me – maybe because I looked naive like a young student or a scout of a Buddhist youth group – and asked, “Do you want to be an engineer of Buddhism?” I thought to myself, “Huh? What’s an engineer of Buddhism? I don’t understand.” I looked confusedly at Thay, but the seed had been transmitted. *A seed that has lain deeply in the Earth for many years just smiles.*<span class="note">Adopted from the poem “Cuckoo Telephone” in <i>Call Me By My True Names</i> by Thich Nhat Hanh, 2022.</span>
+
+{% image "article2024/Done-Br.Phap Ung/Br.Phap Ung_e.jpg", "", "Fish Family after Ordination Ceremony" %}
+
+{% image "article2024/Done-Br.Phap Ung/Thay and Br. Phap Ung at Omega Institute in New York - 1996 PHOTO Simon Chaput.jpg", "", "Omega Institue, New York, 1996.<br/>Photo Courtesy: Simon Chaput" %}
 
 ## Taking care of birth and death is the greatest happiness
 
@@ -27,7 +31,7 @@ During the years serving and learning from Thay, I received many “Zen sticks.�
 
 It was not until 1996 that Upper Hamlet and New Hamlet had an abbot and abbess, respectively. Before that, each Hamlet only had a head of the sangha, service coordinator, etc. Perhaps Thay wanted to train me when I was just a novice and then a young bhikshu, because he nominated me into the council of elders, consisting of “venerables,” like Br. Giac Thanh, Br. Doji, Br. Sariputra and Br. Nguyen Hai. I don’t know how I was eventually “put” into the position as head of practice.
 
-One time, at the end of formal lunch, Thay said, “Let’s have Dharma sharing this afternoon!” Being head of the sangha, I “cleverly” said, “Dear Thay, let us look it over. Let us discuss it.” The whole sangha was startled, wondering “who was this audacious young monastic?” A lay friend sitting next to me, named Tinh Thuy, who later became sister Quy Nghiem, whispered, “How could you?!”
+One time, at the end of formal lunch, Thay said, “Let’s have Dharma sharing this afternoon!” Being head of the sangha, I “cleverly” said, “Dear Thay, let us look it over. Let us discuss it.” The whole sangha was startled, wondering “who was this audacious young monastic?” A lay friend sitting next to me, named Tinh Thuy, who later became Sister Quy Nghiem, whispered, “How could you?!”
 
 Later, I slowly got it. But at that time when I answered Thay, I didn’t understand what I had done wrong. I was taught that the bhikshu council was a democracy; so I applied it right away. When Thay heard my response, he didn’t say anything; he only breathed.
 
@@ -76,6 +80,8 @@ After I was ordained, I experienced a great suffering that I was unable to put i
 The essence of Thay that I want to continue most is the spirit of non-fear. That quality is very much needed in this time of our lives, of humanity and of the Earth. A spirit of peace, non-fear and courage will help us to have more faith. This is the faith that we can feel in our bones; it can ignite the fire in our hearts and invigorate us, helping us to take care of our suffering rather than hoping for a better future. This quality of non-fear, embodying the essence of compassion, can help us to face violence, destruction and chaos.
 
 Thay is no longer in the familiar form to guide us directly; therefore, a foundation for each one of us must be to come back to take care of and nourish ourselves. From this shared foundation, we can draw our strength. By breathing the same breath and walking the same rhythm, we have the Buddha, the Patriarchs, and Thay with us.
+
+{% image "article2024/Done-Br.Phap Ung/_DSC7759_e.JPG", "removeTopMargin" %}
 
 Another important element is to do what we can so that everyone feels comfortable to be themselves living in the community. That is a very practical necessity. To be able to be oneself means that each person has time to develop, to understand the nature of things, to grow up, as well as to be supported and accepted. However, we also need to open our hearts to each other as the glue connecting this sangha of diverse cultures and traditions.
 
