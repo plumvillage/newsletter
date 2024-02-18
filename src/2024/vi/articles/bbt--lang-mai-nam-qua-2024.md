@@ -183,7 +183,7 @@ Khóa tu mùa Hè là khóa tu đông vui nhất trong năm vì có cả trẻ e
 {% image "article2024/Done-Review of the Year/Summer retreat/WhatsApp-Image-2023-07-31-at-14.51.31.jpeg", "noFloat" %}
 {% image "article2024/Done-Review of the Year/Summer retreat/WhatsApp-Image-2023-07-31-at-14.35.54.jpeg", "noFloat lmnqSummer" %}
 
-## Khóa tu Wake Up “Thương yêu trong Hành động” *(4 – 11.8.2023)*
+## Khóa tu Wake Up “Thương yêu trong hành động” *(4 – 11.8.2023)*
 
 Khóa tu mùa hè vừa kết thúc thì mận ở Làng cũng vừa chín. Đi dạo quanh xóm, bạn sẽ cảm nhận được mùi mận chín ngọt thơm lừng trong nắng ấm. Hơn 600 bạn trẻ từ 18 — 35 tuổi, đến từ hơn 30 quốc gia, đã về Làng trong dịp này để tham dự khóa tu “Love in Action” (Thương yêu trong hành động). Một bạn trẻ đến từ Tây Ban Nha chia sẻ: “Năng lượng tập thể của khóa tu rất hùng tráng, thật đáng kinh ngạc. Tôi rất xúc động khi nghe những chia sẻ rất thật lòng của các bạn thiền sinh cũng như của quý thầy, quý sư cô. Thật tuyệt vời biết bao khi được đến với nhau như thế này và chia sẻ những nỗi sợ hãi sâu sắc nhất, nỗi đau buồn, khát vọng và cả niềm vui chung với nhau”. Cuối khóa hơn, hơn 200 bạn trẻ đã tiếp nhận Năm Giới, coi đây như kim chỉ nam giúp các bạn đi về hướng bình an và hạnh phúc chân thật.
 
