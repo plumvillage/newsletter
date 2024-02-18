@@ -7,6 +7,9 @@ author: Brother Chân Pháp Dung
 
 As a young man growing up in the U.S., I rejected everything that was Vietnamese. I did not know at the time that it was a kind of internalized racism. I wanted to belong and to be like the people around me. I remember feeling ashamed of the lunch I brought to school because it smelled “weird.” Even though I loved it so much, I would find a corner far away from everyone to eat it.
 
+{% image "article2024/Br-Phap-Dung/_DSC6442.jpg" %}
+{% image "article2024/Br-Phap-Dung/vlcsnap-2024-02-18-16h55m45s171.jpg" %}
+
 I didn’t know many other Vietnamese people. Then, when I was studying architecture in university, I won a scholarship to go to Vietnam to study “Vietnamese architecture”! I thought to myself, “I better get to know some Vietnamese people.”
 
 That was in 1995 and Thay was in California leading a retreat. That’s how I first met Thay. It was a retreat for Vietnamese people in the US, and Thay focused on healing intergenerational conflict and trauma as Thay would often do at retreats for Vietnamese people abroad. So many of us had grown up in the West and felt alienated from our parents’ generation. Thay did his best to help us understand and reconcile with each other.
