@@ -9,11 +9,11 @@
     {% image ["LTLM47-2024 Inner Covers A4 Left.jpg"] | join %}
 </div>
 
+{%- if locale == "en" %}
 <div class="full-page-image">
     {% image ["calligraphy2024/ParallelVerses/7 Upright Diamond for A4 Red Border/Parallel Verses 2024 on A4 ", locale ,".webp"] | join %}
 </div>
-
-{# <div class="empty-page"></div> #}
+{%- endif %}
 
 {% set onlyIncludeArticlesListedInTheOrder = true %}
 
@@ -40,9 +40,12 @@
     </ul>
 </div>
 
-{# <div class="empty-page"></div> #}
-
-
+{%- if locale == "vi" %}
+<div class="empty-page"></div>
+<div class="full-page-image">
+    {% image ["calligraphy2024/ParallelVerses/7 Upright Diamond for A4 Red Border/Parallel Verses 2024 on A4 ", locale ,".webp"] | join %}
+</div>
+{%- endif %}
 
 {%- for article in articles -%}
     {%- if not onlyIncludeArticlesListedInTheOrder or article.existsInArticleOrder -%}

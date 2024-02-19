@@ -1279,6 +1279,11 @@ figure#article2024Done-Memorial-CeremonyHueBefore-the-CeremonyDSC4445e {
     margin-top: 0em;
     margin-bottom: 1.5em;
 }
+html:lang(en) figure#article2024Done-Memorial-CeremonyHueBefore-the-CeremonyDSC4445e {
+    width: 95%;
+    margin-top: 3em;
+    margin-bottom: 1.5em;
+}
 html:lang(vi) figure#article2024Done-Memorial-CeremonyHueCeremonyLe-dai-tuong-1-copy {
     width: 84%;
     margin-top: 1.5em;
@@ -1436,7 +1441,9 @@ html:lang(en) figure#article2024Done-Br-Minh-HyMG9118 {
 .hueMemorialEN figure {
     display: inline-block;
     width: 85mm;
+    /* height: 57mm; */
     margin-bottom: 0em;
+    margin-top: 6pt;
 }
 .hueMemorialEN figure.p2end {
     width: 100%;
@@ -1446,10 +1453,10 @@ html:lang(en) figure#article2024Done-Br-Minh-HyMG9118 {
 }
 .hueMemorialEN figure img {
     object-fit: cover;
-    height: 51mm;
+    height: 54mm;
 }
 .hueMemorialEN figure.p2 img {
-    height: 45mm;
+    height: 46.5mm;
 }
 
 
