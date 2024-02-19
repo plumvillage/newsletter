@@ -817,21 +817,6 @@ p.pull-quote:before {
     font-weight: normal;
 }
 
-.article-entering-the-field h2.author {
-    margin-bottom: 14mm;
-}
-.article-entering-the-field .verse {
-    font-size: 127%;
-    line-height: 135%;
-    font-family: "Gentium Plus";
-    padding-left: 13mm;
-}
-.article-entering-the-field > p  {
-    width: 64mm;
-    padding-left: 8mm;
-}
-
-
 
 
 
@@ -1186,6 +1171,8 @@ html:lang(en) figure#article2024Done-BrPhap-UngBrPhap-Unge {
 
 
 /* column-span images */
+figure#article2024Done-Sr-Bo-De4181814764144045512472292033593610773920883n,
+figure#article2024Sr-Lam-Hy012,
 figure#article2024br-dinh-thanhTransforming-Resentment-Br-Dinh-Thanh,
 figure#article2024Done-Br-Phap-LuuIMG6801e,
 figure#article2024Done-Br-Phap-LuuDSC02105e,
@@ -1242,6 +1229,12 @@ figure#article2024Done-Review-of-the-YearTNH-Center528562133967da665de4eo {
     /* margin-top: 2em; */
     margin-bottom: 0em;
 }
+figure#article2024Sr-Lam-Hy012 {
+    width: 119%;
+    left: -19mm;
+    margin-top: 1.5em;
+    margin-bottom: 0em;
+}
 html:lang(en) figure#article2024Done-Review-of-the-YearGreat-Ordination-CeremonyDSC2314 {
     width: 100%;
     margin-top: 6em;
@@ -1270,6 +1263,7 @@ figure#article2024Done-sr-linh-di4b0fc9b1-47ca-49f3-8d3c-8395efe91e73e {
     width: 65%;
     margin-bottom: 0em;
 }
+figure#article2024Done-Sr-Bo-De4181814764144045512472292033593610773920883n,
 figure#article2024Done-Br-Phap-LuuIMG6801e
 {
     width: 70%;
@@ -1388,6 +1382,7 @@ figure#article2024br-duc-hienIMG0754e {
     padding-left: 10%;
     padding-right: 10%;
 }
+figure#article2024Done-Sr-Bo-DeDSC7412,
 figure#article2024Done-Sr-Tam-DucCooking-retreat-2023-8e,
 figure#article2024Done-Sr-Tam-DucPV202345e,
 figure#article2024Sr-Lam-Hyimage123923953-3-e,
@@ -1691,4 +1686,29 @@ html:lang(vi) .PAGE-OF-article2024Done-Memorial-Ceremony67SuOng2ndYearMemorial22
 }
 html:lang(en) .PAGE-OF-article2024Done-Memorial-Ceremony67SuOng2ndYearMemorial220124crop article {
     margin-top: 45.5mm !important;
+}
+
+
+.article-entering-the-field h2.author {
+    margin-bottom: 14mm;
+}
+.article-entering-the-field .verse {
+    font-size: 127%;
+    line-height: 135%;
+    font-family: "Gentium Plus";
+    padding-left: 13mm;
+}
+.article-entering-the-field > p  {
+    width: 64mm;
+    padding-left: 8mm;
+}
+
+#SrBoDe-ImgLabel {
+    position: absolute;
+    right: 17mm;
+    font-size: 80%;
+    /* width: 70mm; */
+    color: rgb(220, 220, 220);
+    bottom: -138mm;
+    text-shadow: 0.3pt 0.4pt 0px rgb(0, 0, 0);
 }

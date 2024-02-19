@@ -3,9 +3,12 @@ title: The Presence of Thay
 author: Sister Chân Trăng Bồ Đề
 ---
 
+
 <p class="editors-preface">Sister Trăng Bồ Đề is of Vietnamese origin, ordained in 2016 in the Kanikonna Tree ordination family in Plum Village, Thailand. She has been residing, practicing and serving in New Hamlet, Plum Village, France, since 2016. She is great at playing with children, as well as having fun in teaching Vietnamese to her non-Vietnamese monastic siblings.</p>
 
-<p class="verse">Under the illuminating blue sky<br/>
+{% image "article2024/Done-Sr-Bo-De/_DSC7412.jpg", "removeTopMargin" %}
+
+<p class="pull-quote" style="font-size: 155%;">Under the illuminating blue sky<br/>
 I suddenly feel<br/>
 The presence of Thay…</p>
 
@@ -29,8 +32,7 @@ And the sunshine is falling like the rain.<br/>
 
 I remember, during grade school, my friends and I would long for the school bell to ring so that we could immediately close our books and pour into the canteen to buy snacks and sweets. The two morning classes on the monastic Day of Mindfulness brought me back to the elementary school days when I learned to befriend the written words, blackboards and white chalk. For the sake of the younger monastics, the elders converted the classic schedule of morning Dharma talk and afternoon Dharma sharing sessions into classes on various topics throughout this Rains Retreat. There was a class on how the mind and brain affect our lives by Sr. Hoi Nghiem, a class on Buddhist psychology by Sr. Tue Nghiem, a class on comparative ethics by Sr. Hien Nghiem, and a handful of other classes. These classes had succeeded in sparking enthusiasm among monastics, kindling a unique vivacity for this memorable Rains Retreat 2023-2024.
 
-{% image "article2024/Done-Sr-Bo-De/IMG_7165_e.JPG" %}
-{% image "article2024/Done-Sr-Bo-De/418181476_414404551247229_2033593610773920883_n.jpg" %}
+{% image "article2024/Done-Sr-Bo-De/IMG_2992_e.jpg" %}
 
 ## 10 parts studying to 1 part understanding
 
@@ -57,6 +59,10 @@ Beyond the words shared, I could see the everlasting fire of enthusiasm Thay had
 
 ## The Net of Indra
 
+{% image "article2024/Done-Sr-Bo-De/IMG_7162_e.JPG" %}
+
+<div id="SrBoDe-ImgLabel">Br. Thien Khai, Sr. Soi Sang, Sr. Mai Thon, Sr. Khanh Thien, Sr. Cat Thuong, Sr. Tai Nghiem, Sr. Bo De, Br. Dai Dong</div>
+
 Learning to look with the eyes of non-self, the presence of Thay permeates the sangha: on the walking path lined with pine trees, on the Buddha hill, and at the Sitting Still Hut; however, the place where I can see the presence of Thay most vividly is perhaps in the hearts of my elder brothers and sisters. If someone said that “Thay is conservative, always wanting to preserve the essence and beauty of Buddhism,” I would agree. At the same time, if someone said that “Thay likes to experiment, always willing to try something new,” I would also not hesitate to agree.
 
 Each disciple interacted with Thay at different times and stages of Thay’s life, not to mention Thay’s forms, feelings, perceptions, mental formations, and consciousness also continually changed like everything else in the flow of life. I think no one could confidently assert that they had 100% understood Thay, because Thay was an ever-changing manifestation that could not be grasped. Perhaps, the thing that we preserve is the image of Thay in our consciousness. It is neither real nor unreal.
@@ -81,7 +87,7 @@ The presence of Thay in me is like the bright moon amid the dark night sky. Even
 <div class="verse"><p>“I hold my face in my two hands.<br/>
 No, I am not crying.<br/>
 I hold my face in my two hands<br/>
-to keep the loneliness warm---<br/>
+to keep the loneliness warm–<br/>
 two hands protecting,<br/>
 two hands nourishing,<br/>
 two hands preventing<br/>
@@ -89,3 +95,7 @@ my soul from leaving me<br/>
 in anger.”<br/><cite>From the poem “For warmth,” see <i>Call Me By My True Names</i> by Thich Nhat Hanh</cite></p></div>
 
 The great poet, Nguyen Du, once wrote, “The body may have transcended, but its essence remains” *(Thác là thể phách, còn là tinh anh)*. Thay is an incense that has burned to its end, but its fragrance will permeate the air for eternity.
+
+<div class="article-end"></div>
+
+{% image "article2024/Done-Sr-Bo-De/418181476_414404551247229_2033593610773920883_n.jpg" %}

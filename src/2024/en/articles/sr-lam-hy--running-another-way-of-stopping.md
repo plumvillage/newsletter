@@ -19,6 +19,12 @@ Running as a physical exercise has always been a part of my life in a very ordin
 
 Something I still like to explore and discover through the practice of mindfulness is how to find a way of being more and more aware while running, how to enjoy the action in itself more, rather than looking forward to feeling spacious after the run. One step in this direction is to deliberately run slower than I naturally would. Most runners start off running too fast. Running slower, I observe the sole of my foot touching the ground and being aware of this little flying phase while running. It helps me be more curious about how this movement is really happening and not to be too attached to the distance that I run, but to run with the attitude “nothing to do and nowhere to go.”
 
-A quite extraordinary example of a woman of faith living a very sporty, active life is a Christian nun, Sr. Madonna Budder, also known as the “iron nun.”<span class="note" href="http://www.triathloninspires.com/iron-nun-madonna-budder">triathloninspires.com/iron-nun-madonna-budder/</span> She started running for fun when she was 48 years old. Over time, she got more and more involved in different kinds of races and triathlons. Trying to find a way to also live in accordance with her vows, she was seeking counsel from her bishop, who said “Sister, I wish some of my priests would do what you’re doing.” She is now 92 and has run more than 340 triathlons.
+A quite extraordinary example of a woman of faith living a very sporty, active life is a Christian nun, Sr. Madonna Budder, also known as the “iron nun.” She started running for fun when she was 48 years old. Over time, she got more and more involved in different kinds of races and triathlons. Trying to find a way to also live in accordance with her vows, she was seeking counsel from her bishop, who said “Sister, I wish some of my priests would do what you’re doing.” She is now 92 and has run more than 340 triathlons.
+
+<!-- <span class="note" href="http://www.triathloninspires.com/iron-nun-madonna-budder">triathloninspires.com/iron-nun-madonna-budder/</span> -->
 
 Though it is helpful to live an active life from early on and to build a habit of exercising, we can also simply enjoy ordinary running and moving. I run mainly because it helps me to stop: stop being lost in thoughts, stop negative ways of thinking and to come back to being in touch with life through all my senses.
+
+<div class="article-end"></div>
+
+{% image "article2024/Sr. Lâm Hỷ/012.jpg" %}
