@@ -894,7 +894,7 @@ h1#transforming-resentment-into-compassion {
 }
 .article-music-a-dharma-door h2.author,
 .article-chiec-ao-nhat-binh h2.author {
-    margin-top: -16pt;
+    margin-top: -22pt;
 }
 .article-canh-cua-xot-thuong h2.author {
     margin-top: -17pt !important;
@@ -1175,6 +1175,8 @@ html:lang(en) figure#article2024Done-BrPhap-UngBrPhap-Unge {
 
 
 /* column-span images */
+figure#article2024Done-Br-Phap-LuuIMG6801e,
+figure#article2024Done-Br-Phap-LuuDSC02105e,
 figure#article2024sr-tam-muoibelle-vue-ouestJPGe,
 figure#article2024sr-dao-nghiemcup-of-teae,
 figure#article2024Done-Memorial-CeremonyHueBefore-the-CeremonyVN-24Day-18,
@@ -1256,10 +1258,12 @@ figure#article2024Done-sr-linh-di4b0fc9b1-47ca-49f3-8d3c-8395efe91e73e {
     width: 65%;
     margin-bottom: 0em;
 }
-/* html:lang(en) figure#article2024Done-sr-linh-di4b0fc9b1-47ca-49f3-8d3c-8395efe91e73e {
-    width: 50%;
+figure#article2024Done-Br-Phap-LuuIMG6801e
+{
+    width: 70%;
     margin-bottom: 0em;
-} */
+}
+
 figure#article2024Done-Memorial-Ceremony67SuOng2ndYearMemorial220124crop,
 figure#article2024Done-SrHoa-NghiemSrHoa-Nghiem-Princetone {
     width: 100%;
@@ -1279,6 +1283,14 @@ figure#article2024ScannedDrawings0705-Ky-to-dje-nhie img {
     object-fit: cover;
     height: 172mm;
     margin-top: 39mm;
+}
+figure#article2024Done-Br-Phap-LuuDSC02105e {
+    width: 96%;
+    margin-bottom: 0em;
+}
+figure#article2024Done-Br-Phap-LuuDSC02105e img {
+    object-fit: cover;
+    height: 91mm;
 }
 figure.memorialEN img {
     object-fit: cover;
@@ -1324,12 +1336,12 @@ html:lang(en) figure#article2024Done-sr-thuan-nghiemIMG-0378 img {
 }
 
 figure#article2024sr-dao-nghiemcup-of-teae img {
-    width: 60%;
+    width: 61%;
     margin-bottom: 0;
 }
 figure#article2024sr-dao-nghiemcup-of-teae img {
     object-fit: cover;
-    height: 93mm;
+    height: 92mm;
     width: 141mm;
     object-position: center bottom;
 }

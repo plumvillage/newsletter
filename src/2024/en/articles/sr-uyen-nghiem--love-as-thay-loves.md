@@ -59,4 +59,4 @@ Thay replied that the future Buddha is already here. Because we are not truly pr
 
 <div class="article-end"></div>
 
-{% image "article2024/Done-Sr. Tuyet N/DSC00153_e.JPG" %}
+{% image "article2024/Done-Br-Phap-Luu/DSC02105_e.JPG" %}

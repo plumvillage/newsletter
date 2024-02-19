@@ -7,6 +7,8 @@ Rock-climbing. Deeply sharing the Dharma in the heart of the mountain. Breathing
 
 I’ve been reflecting on how we can realize collective awakening – I mean really, *truly* do it. Thay set out this great task for us, and we *are* doing it every day: by showing up for walking meditation, for sitting meditation, by opening our hearts to shine light on each other, by eating together. These are small but powerful gestures. Each day, each session I show up for, my individual self – this concept that still surfaces in moments of pride – is diminished, and the harmonious whole of the Sangha shines brighter. Every day at Deer Park we see this manifest. And each of us becomes more whole as a result. Feeling the energy of the Sangha, I feel grateful that we do not choose to reinforce divisions but rather see how we can immerse ourselves in the collective body and energy of the Sangha, like a drop of water in the Pacific. There is great joy in this.
 
+{% image "article2024/Done-Br-Phap-Luu/DSC00185_e.JPG", "removeTopMargin" %}
+
 Surrounding us in the hidden mountain are bushes of chamise, black sage, and ceanothus. Laurel sumac does not tolerate frost, and early European American farmers looked to it as an indicator of where they could grow citrus. Indigenous peoples used chamise as kindling, as it splinters easily and burns green thanks to the aromatic oils in its resin. Black sage, a type of mint, makes a flavorful infusion. Each plant species has its beauty and lives in harmony according to its own particular properties. This is our Sangha.
 
 Looking at myself, I see that I have particular qualities: I can write, give Dharma talks, sing and play and write songs. I love taking long walks, and spending time in nature. And while many of my monastic siblings also enjoy these things as well, there are many who are more skillful than I am at each. For collective awakening to become a living reality, an authentic experience, I need to celebrate the joy of these qualities in myself and in others, without discrimination. I praise my brother's new song. I rejoice in my sister's powerful Dharma talk. I smile knowingly when I see my brother sitting in meditation on a boulder behind Solidity Hamlet. Together we rejoice in and see the beauty of each person’s practice, and its flowers and fruits.
@@ -19,6 +21,8 @@ Thầy Minh Niệm and Stephen, a long-term lay friend, are becoming bread-makin
 
 Tonks and B, also longterms here, are exploring an alternative career: community. They help lead our mindful backpacking trips, and are essential now to the yearly teen camp. What does it mean to be a couple, growing on the spiritual path, in a monastery? They are providing themselves with a doctorate in Right Living. Without community there is no future for our planet, and more and more young people like them are realizing this.
 
+<!-- {% image "article2024/Done-Br-Phap-Luu/IMG_6801_e.jpg", "removeTopMargin" %} -->
+
 The Toyon Family is an embodiment of this realization. They are solidly Midwestern, hailing from the prairies of central Canada, the music studios of Nashville, Tennessee, and the school hallways of Rust Belt Ohio. One from Toronto, and one from East L.A., with Vietnamese and Egyptian parents, respectively. One was raised in a Hindu community. Just like in the 50s and 60s in Vietnam, young people are coming to the practice to find community, and to community to discover the practice. Clearly, political change is not enough: we need to trace the arc of transformation in the world with our own lives.
 
 <div class="verse"><p>How wondrous is the robe of freedom!<br/>
@@ -29,3 +33,7 @@ and wear it lifetime after lifetime.</p></div>
 Aaron, formerly Thầy Pháp Mãn, lives here, and has been gently guiding the lay friends during the Rains Retreat. On Lazy Day Mondays he can be found hanging out – literally *hanging on* to the cliff of the waterfall! –  on climbing ropes. I come out with him bringing tea and enjoy the morning in the shade of a mountain, putting on climbing shoes and hitching the rope to my harness to start the climb. *Breathing in, I reach for the tiny crack in the rock wall. Breathing out, the rock and I are not two. In, crack in rock. Out, rock and I are inseparable*.
 
 Here we are, at the cusp of a great flowering of Buddhism in America, and the Plum Village Tradition is sending down deep, diverse roots. As I walk on the red ground of the valley, moving through the fragrant chaparral, I remember Thay's words: “The ancestors have already prepared everything.” With each mindful step, their will becomes manifest.
+
+<div class="article-end"></div>
+
+{% image "article2024/Done-Br-Phap-Luu/IMG_6801_e.jpg" %}

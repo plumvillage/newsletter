@@ -44,7 +44,7 @@ html:lang(vi) .pagedjs_right_page .pagedjs_margin-bottom-right {
 ["article2024Done-Review-of-the-YearRains-retreat041Varsavasana2023-24011724",
     "110mm", "0mm", 12, 12],
 ["article2024Br-Phap-Huu52871476692fe404a712do2",
-    "130mm", "0mm", 0, 30],
+    "125mm", "0mm", 0, 30],
 ["article2024Done-interview-with-thayIMG9672",
     "50mm", "0mm", 0, 40],
 ["LTLM47-2024-cover-NH-TeensLTLM47-2024July2023sararemington0013editedcroppedoverflowLight",
@@ -86,7 +86,7 @@ figure#{{ item[0] }} {
     {# cannot do it with >top< because I do not know the image height #}
 
     {# Chrome PDF output does NOT include this image in A4 without bleed if it extend beyond the page at the bottom. It CAN extend over the left and right page border, but not the bottom. #}
-    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + {{ item[1] }} + {{ item[2] }}) * -1 + 3mm);
+    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + {{ item[1] }} + {{ item[2] }}) * -1 + 5mm);
 
     {%- if not (item[3] == 0 and item[4] == 0) %}
         mask-image: linear-gradient(to bottom,
