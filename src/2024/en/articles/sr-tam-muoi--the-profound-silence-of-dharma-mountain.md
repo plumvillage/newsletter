@@ -17,19 +17,17 @@ The schedule was different to a Plum Village retreat. Every day we were all comm
 
 After the reading, we would each be free to continue to meditate while sitting, standing or practicing very slow walking meditation at the back of the hall. This element of choice was crucial in the retreat along with the transitioning between positions. What do I need in this moment? To embrace my restlessness and continue to sit like a mountain? Or to silently stand and feel the torrent of bodily sensations cascading through my limbs? Or to walk so slowly, inching along without a sound, catlike, up and down behind the seated practitioners? Arriving, from foot to foot, massaging the earth, stopping, no thinking.
 
+{% image "article2024/sr-tam-muoi/IMG_20230901_075344_e.jpg" %}
+
 I was quite nervous, could our friends - all Plum Village practitioners - and my monastic sisters accept this different way of practicing? Patience, I reminded myself; embracing my anxiety. Wait and see…
 
 ## Monday
 
 I could feel the settling in around me, the joy was palpable and our concentration was deepening. The 16 Exercises of the Discourse on the Full Awareness of Breathing was our guide for the week. We each had a copy on our meditation mat as a road map in case we lost our way; the one and only Dharma talk/orientation on the first morning was about practicing with this discourse. The Buddha invited us to dive deeply into our bodily sensations and to observe our breath and body with curiosity and wonder.
 
-{% image "article2024/sr-tam-muoi/IMG_20230901_075344_e.jpg" %}
-
 In the hall there was a growing sense of having a lot of time and the space to just be. As the sun rose, we watched the changing display of light and color across the mountains. We enjoy. We hear the blackcaps sing “chuk, chuk, chuk” and nuthatches “ouiee, ouiee, ouiee”, greeting a new day.
 
 At the close of the midmorning session, a huge thunderstorm broke overhead. We all spontaneously lay down, allowing the driving rain, the wind, the thunder to resonate through our silent bodies. We surrendered to the Earth, to the rock beneath our backs. As suddenly, the storm passed. Torrents were spurting from the mountainside, trees were dripping… silence. A rainbow was stretching from mountain to mountain.
-
-{% image "article2024/sr-tam-muoi/IMG-20230913-WA0001_e.jpg" %}
 
 The inner silence was growing, we were truly arriving. I felt gratitude and relief as my monastic sisters shared their enthusiasm and support. In the first of three dharma sharing circles the retreatants expressed their gratitude for this new opportunity to deepen their practice, even though it was challenging at times.
 
@@ -37,14 +35,14 @@ The inner silence was growing, we were truly arriving. I felt gratitude and reli
 
 Joy was with us and around us. Master Linji reminds us that we are already enough. We gazed through the wide windows looking out over the valley, but today they were blank and resembled huge, grey computer screens. A thick mountain mist enveloped us. Nothingness. Not knowing. Time stood still but slowly the landscape mysteriously revealed itself. Alpine swifts dived carelessly into the pooling mists of the valleys below and soared back up and out again into the clearing sky, flashing white as they turned. The purple of rain-washed heather vibrated against the acid yellow of lichen and silver grey rock.
 
+{% image "article2024/sr-tam-muoi/IMG-20230913-WA0001_e.jpg", "noFloat" %}
+{% image "article2024/sr-tam-muoi/IMG_20230922_105816.jpg", "noFloat" %}
+
 Falling in love again and again with our beautiful planet; here, it is easy to gladden the mind.<span class="note">A reference to the 10<sup>th</sup> exercise of the Discourse on the Full Awareness of Breathing.</span> Breath became a friend ever present in my body. Walking slowly up and down in the meditation hall, my feet felt huge and soft, like I was padding with a lion's paws, with nowhere to go. “We are already what we want to become.”
 
 Later, our sharing circle was silently journaling, together under the pines, responding to questions: “What, where and how do you feel in your body? What is alive in your senses? What resistances are present? What cows (attachments) would you like to let go of? What conditions for joy do I already have?”
 
 A hornet buzzed and steered its way right through our circle, curious to see a group of humans so still. But no one reacted, such was the quiet and concentration.
-
-{% image "article2024/sr-tam-muoi/5a25a1_1ded41a589244e17b2252654284801be~mv2.webp" %}
-{% image "article2024/sr-tam-muoi/1686998748957.webp" %}
 
 ## Wednesday
 
@@ -72,3 +70,7 @@ As the end of the retreat approached, we were invited to gently ease out of our 
 ## Saturday
 
 Before our last sitting meditation session, we listened once more to Thay's encouraging words: “Sitting meditation is an act of civilization… It is priceless. You simply sit there, not doing anything. You are happy to be aware that you are sitting on a very beautiful planet, revolving in a galaxy of stars. You are sitting in the lap of the Earth and over your head there are trillions of stars. If you can sit and see that, what else do you need to sit for. You are in touch with the universe, and your happiness is immense.”
+
+<div class="article-end"></div>
+
+{% image "article2024/sr-tam-muoi/belle vue ouest_JPG_e.jpg" %}

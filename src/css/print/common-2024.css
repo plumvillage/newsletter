@@ -955,6 +955,12 @@ h1#transforming-resentment-into-compassion {
 .article-bong-dang-thay h2.author {
     margin-top: -8pt;
 }
+.article-chum-tho h2 {
+    margin-bottom: 12mm !important;
+}
+#chum-tho-djat-to + h2.author {
+    margin-bottom: 13mm !important;
+}
 
 /* default is 32mm */
 #calligraphy2024article-titlessr-dinh-nghiem-cong-phu-quet-la,
@@ -1071,6 +1077,8 @@ figure#article2024Done-interview-with-thayTNH-spain2014-2 + p {
     margin-top: 0em;
 }
 
+
+.PAGE-OF-LTLM47-2024-cover-NH-TeensLTLM47-2024July2023sararemington0013editedcroppedoverflowLight p,
 .article-theo-dau-chan-xua p,
 .PAGE-OF-article2024Done-interview-with-thayIMG9672 p {
     text-shadow: 0.3pt 0.4pt 0px white;
@@ -1167,6 +1175,7 @@ html:lang(en) figure#article2024Done-BrPhap-UngBrPhap-Unge {
 
 
 /* column-span images */
+figure#article2024sr-tam-muoibelle-vue-ouestJPGe,
 figure#article2024sr-dao-nghiemcup-of-teae,
 figure#article2024Done-Memorial-CeremonyHueBefore-the-CeremonyVN-24Day-18,
 figure#article2024Done-Review-of-the-YearNovice-ordinationChuong-vang-family-2,
@@ -1206,11 +1215,14 @@ figure#LTLM47-2024-cover-NH-TeensLTLM47-2024July2023sararemington0013editedcropp
     margin-top: 2em;
     margin-bottom: 0em;
 }
+
+
 figure#article2024Done-interview-with-thayVncon-ve-miong-tua-noi-dat-me {
     width: 95%;
     margin-top: 2em;
     margin-bottom: 0em;
 }
+figure#article2024sr-tam-muoibelle-vue-ouestJPGe,
 figure#article2024Done-Review-of-the-YearTNH-Center528562133967da665de4eo {
     width: 100%;
     /* margin-top: 2em; */
@@ -1311,7 +1323,6 @@ html:lang(en) figure#article2024Done-sr-thuan-nghiemIMG-0378 img {
     object-position: center bottom;
 }
 
-
 figure#article2024sr-dao-nghiemcup-of-teae img {
     width: 60%;
     margin-bottom: 0;
@@ -1322,7 +1333,6 @@ figure#article2024sr-dao-nghiemcup-of-teae img {
     width: 141mm;
     object-position: center bottom;
 }
-
 
 html:lang(en) figure#article2024Done-Sr-Hien-HanhSr-Hien-Hanh-2e img {
     object-fit: cover;
@@ -1344,9 +1354,35 @@ html:lang(en) figure#article2024Done-sr-thuan-nghiemIMG3889 {
 
 
 
-#chum-tho-djat-to + h2.author {
-    margin-bottom: 13mm !important;
+figure#article2024br-duc-hienIMG0754e {
+    padding-left: 10%;
+    padding-right: 10%;
 }
+figure#article2024Done-Sr-Tam-DucCooking-retreat-2023-8e,
+figure#article2024Done-Sr-Tam-DucPV202345e,
+figure#article2024Sr-Lam-Hyimage123923953-3-e,
+figure#article2024sr-tam-muoiIMG20230901075344e,
+figure#article2024Done-Br-Bat-NhaCTD04521e {
+    padding-left: 6%;
+    padding-right: 6%;
+}
+
+figure#article2024Done-Memorial-Ceremony40SuOng2ndYearMemorial220124,
+figure#article2024Done-Memorial-Ceremony10SuOng2ndYearMemorial220124,
+figure#article2024Done-Memorial-Ceremony06SuOng2ndYearMemorial220124,
+figure#article2024Done-Memorial-Ceremony21SuOng2ndYearMemorial220124,
+html:lang(vi) figure#article2024Done-Br-Minh-HyMG9118 {
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+
+
+
+
+
+
+
 
 figure#article2024Done-SrBao-NIMG3353 {
     width: 115%;
@@ -1355,9 +1391,6 @@ figure#article2024Done-SrBao-NIMG3353 {
     left: -7%
 }
 
-.article-chum-tho h2 {
-    margin-bottom: 12mm !important;
-}
 
 
 
@@ -1421,28 +1454,6 @@ figure#calligraphyarticle-titles-2-and-dividers5-maskedDividers1-1
 }
 
 
-
-figure#article2024br-duc-hienIMG0754e {
-    padding-left: 10%;
-    padding-right: 10%;
-}
-/* figure#article2024Done-BrPhap-UngDSC7759e,
-figure#article2024Done-BrPhap-UngThay-and-Br-Phap-Ung-at-Omega-Institute-in-New-York-1996-PHOTO-Simon-Chaput, */
-figure#article2024Sr-Lam-Hyimage123923953-3-e,
-figure#article2024sr-tam-muoiIMG20230901075344e,
-figure#article2024Done-Br-Bat-NhaCTD04521e {
-    padding-left: 6%;
-    padding-right: 6%;
-}
-
-figure#article2024Done-Memorial-Ceremony40SuOng2ndYearMemorial220124,
-figure#article2024Done-Memorial-Ceremony10SuOng2ndYearMemorial220124,
-figure#article2024Done-Memorial-Ceremony06SuOng2ndYearMemorial220124,
-figure#article2024Done-Memorial-Ceremony21SuOng2ndYearMemorial220124,
-html:lang(vi) figure#article2024Done-Br-Minh-HyMG9118 {
-    padding-left: 5%;
-    padding-right: 5%;
-}
 
 html:lang(en) figure#article2024Done-Br-Minh-HyMG9118 {
     display: inline;

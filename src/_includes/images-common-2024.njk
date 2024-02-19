@@ -27,26 +27,28 @@ html:lang(vi) .pagedjs_right_page .pagedjs_margin-bottom-right {
 {# sometimes, if the top-offset is too big (>15mm for v0.2; >7mm for v0.4), the fade will not display in the pdf. I do not know why #}
 {# those images must not be placed as the last element of the article.  #}
 {% set items = [
-["Done-Daffodil-family044110723",
+["article2024Done-Daffodil-family044110723",
     "125mm", "0mm", 5, 30],
-["Done-Daffodil-family200110723e2",
+["article2024Done-Daffodil-family200110723e2",
     "145mm", "0mm", 0, 18],
-["Done-Sr-Tam-DucIMG2900e",
+["article2024Done-Sr-Tam-DucIMG2900e",
     "100mm", "0mm", 0, 25],
-["Done-BrDJuc-DJinhRains-retreat-23-245e",
+["article2024Done-BrDJuc-DJinhRains-retreat-23-245e",
     "130mm", "0mm", 10, 55],
-["Done-Sr-Uyen-NghiemPoem-Sr-Uyen-NDSC03235-073722edit3",
+["article2024Done-Sr-Uyen-NghiemPoem-Sr-Uyen-NDSC03235-073722edit3",
     "30mm", "0mm", 0, 0],
-["IMG_6618_e.jpg",
+["article2024IMG_6618_e.jpg",
     "130mm", "0mm", 0, 15],
-["Done-Review-of-the-YearTNH-Center528562133967da665de4eo",
+["article2024Done-Review-of-the-YearTNH-Center528562133967da665de4eo",
     "110mm", "0mm", 0, 0],
-["Done-Review-of-the-YearRains-retreat041Varsavasana2023-24011724",
+["article2024Done-Review-of-the-YearRains-retreat041Varsavasana2023-24011724",
     "110mm", "0mm", 12, 12],
-["Br-Phap-Huu52871476692fe404a712do2",
+["article2024Br-Phap-Huu52871476692fe404a712do2",
     "130mm", "0mm", 0, 30],
-["Done-interview-with-thayIMG9672",
-    "50mm", "0mm", 0, 40]
+["article2024Done-interview-with-thayIMG9672",
+    "50mm", "0mm", 0, 40],
+["LTLM47-2024-cover-NH-TeensLTLM47-2024July2023sararemington0013editedcroppedoverflowLight",
+    "40mm", "0mm", 0, 20]
 ]
 %}
 
@@ -56,7 +58,7 @@ html:lang(vi) .pagedjs_right_page .pagedjs_margin-bottom-right {
 {% block content %}{% endblock %}
 
 {# commas are added automatically by nunjucks #}
-{% idMap "figure#article2024", items %}
+{% idMap "figure#", items %}
 {
     margin: 0;
     max-width: none !important;
@@ -72,7 +74,7 @@ html:lang(vi) .pagedjs_right_page .pagedjs_margin-bottom-right {
     overflow: visible;
 }
 
-{% idMap ".PAGE-OF-article2024", items, " .pagedjs_margin-bottom" %}
+{% idMap ".PAGE-OF-", items, " .pagedjs_margin-bottom" %}
 {
     display: none !important;
     content: none !important;
@@ -80,7 +82,7 @@ html:lang(vi) .pagedjs_right_page .pagedjs_margin-bottom-right {
 
 
 {% for item in items %}
-figure#article2024{{ item[0] }} {
+figure#{{ item[0] }} {
     {# cannot do it with >top< because I do not know the image height #}
 
     {# Chrome PDF output does NOT include this image in A4 without bleed if it extend beyond the page at the bottom. It CAN extend over the left and right page border, but not the bottom. #}
@@ -95,20 +97,20 @@ figure#article2024{{ item[0] }} {
         );
     {%- endif %}
 }
-figure#article2024{{ item[0] }} img {
+figure#{{ item[0] }} img {
     {# BUGALERT: this border has to be set to IMG, not its parent figure, otherwise pagedjs v0.4 will break the page because of it #}
     /* this is removing an artefact in the pdf, which would otherwise display a thin line of the image above the white mask */
     border-top: 2px solid white;
 }
 
 
-.PAGE-OF-article2024{{ item[0] }} .pagedjs_page_content {
+.PAGE-OF-{{ item[0] }} .pagedjs_page_content {
     height: calc(100% - var(--pagedjs-footnotes-height) - {{ item[1] }}) !important;
     {# height: calc(100% + var(--pagedjs-footnotes-height) + var(--pagedjs-margin-bottom)) !important; #}
 }
 
 {# I had first factored out the static rules to apply to all elements, which did not work. I suspect because pagedjs somehow merges the static and dynamic rules (data-following) #}
-figure#article2024{{ item[0] }} figcaption {
+figure#{{ item[0] }} figcaption {
     position: absolute;
     right: 17mm;
     width: 70mm;
@@ -129,7 +131,7 @@ figure#article2024{{ item[0] }} figcaption {
 }
 
 {# this is a text duplicate lying below the original. #}
-figure#article2024{{ item[0] }} figcaption:after {
+figure#{{ item[0] }} figcaption:after {
     content: attr(text-for-outline);
     position: absolute;
     -webkit-text-stroke: 0.08em rgba(0,0,0,0.8);
