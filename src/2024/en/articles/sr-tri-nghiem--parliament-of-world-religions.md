@@ -3,7 +3,7 @@ title: Plum Village goes to the 2023 Parliament of the World’s Religions
 author: Sister Chân Trì Nghiêm
 ---
 
-<div class="editors-preface"><p>In August 2023, Sr. Luc Nghiem from Plum Village, France, and Sr. Tri Nghiem from Magnolia Grove Monastery in Mississippi, USA, were invited to take part in the 9th International Meeting of the Parliament of the World’s Religions (PWR) which took place in Chicago, USA.</p>
+<div class="editors-preface"><p>In August 2023, Sr. Luc Nghiem from Plum Village, France, and Sr. Tri Nghiem from Magnolia Grove Monastery in Mississippi, USA, were invited to take part in the 9<sup>th</sup> International Meeting of the Parliament of the World’s Religions (PWR) which took place in Chicago, USA.</p>
 
 <p>Sr. Tri Nghiem shares about the experience and what it meant to her.</p></div>
 
@@ -33,7 +33,7 @@ Our contributions to the general Parliament included offering the practice of �
 
 ## Who did we meet?
 
-Being a part of the Elijah Interfaith gathering meant that we were able to meet and converse with some of the most  influential figures in the Interfaith world today, most notably, **Karma Lekshe Tsomo**, an American Tibetan Budddhist nun, co-founder of the [*Sakyadhita International Association of Buddhist Women*](https://en.wikipedia.org/wiki/Sakyadhita_International_Association_of_Buddhist_Women) and the founding director of the [*Jamyang Foundation*](https://en.wikipedia.org/wiki/Jamyang_Foundation), which supports the education and livelihood of Buddhist women and girls in the Himalayan region, the Chittagong Hill Tracts of Bangladesh, and elsewhere; **Norman Fischer**, Soto Zen priest and former co-abbot of San Francisco Zen Center and founder of [*Everyday Zen Foundation*](https://everydayzen.org/about/norman-fischer/); **Her Holiness Sri Amma Karunamayi**, a much loved and highly revered Hindu spiritual leader with millions of devotees who consider her a fully enlightened manifestation of Vishnu, and who has created countless humanitarian, educational, food, health and housing projects for the poor and disinherited in south India.
+Being a part of the Elijah Interfaith gathering meant that we were able to meet and converse with some of the most  influential figures in the Interfaith world today, most notably, Karma Lekshe Tsomo, an American Tibetan Budddhist nun, co-founder of the Sakyadhita International Association of Buddhist Women and the founding director of the Jamyang Foundation, which supports the education and livelihood of Buddhist women and girls in the Himalayan region, the Chittagong Hill Tracts of Bangladesh, and elsewhere; Norman Fischer, Soto Zen priest and former co-abbot of San Francisco Zen Center and founder of Everyday Zen Foundation; Her Holiness Sri Amma Karunamayi, a much loved and highly revered Hindu spiritual leader with millions of devotees who consider her a fully enlightened manifestation of Vishnu, and who has created countless humanitarian, educational, food, health and housing projects for the poor and disinherited in south India.
 
 {% image "article2024/Sr Tri Nghiem/003.jpg", "", "Sr. Tri Nghiem and Her Holiness Sri Amma Karunamayi" %}
 

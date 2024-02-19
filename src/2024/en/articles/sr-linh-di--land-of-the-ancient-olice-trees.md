@@ -5,13 +5,9 @@ author: Sister Chân Trăng Linh Dị
 
 *2023 October 11, Neve Shalom, Wahat Salam*
 
-<p class="noIndent">Dear respected Thay,</p>
-
-<p class="noIndent">It is your continuation day today.</p>
+<p class="noIndent">Dear respected Thay,<br/>It is your continuation day today.</p>
 
 We, four of your monastic children, are in the Holy Land as the war erupted four days ago. We are safe. We have water, food, shelter, and dear sangha friends. Yet a mere 50 kilometres away, there is no more water, food, or safe haven. We know children are dying. Day and night we hear the missile interceptors and feel the vibration of the ground as missiles land. I close my eyes every time and pray fervently, “May there be peace and compassion in the hearts of all.”
-
-{% image "article2024/Done-sr-linh-di/4b0fc9b1-47ca-49f3-8d3c-8395efe91e73_e.JPG" %}
 
 Life feels like a sand painting that has just been turned upside down and we do not know how the next moment will manifest.
 
@@ -19,9 +15,9 @@ I am also afraid, dear Thay. I do not know if I will see my mum and dad again. L
 
 We came to the Holy Land to understand life here, to help bring people together, to breathe, walk, and listen to each other in peace.
 
-There was the day when we walked in Wadi Khana, an oasis of ancestral olive groves. Issa Souf, a Palestinian peace activist who is paralyzed after having been shot, shared with us that this lush valley was once open for grazing goats and cultivating olives. In the past few years, illegal settlements sprung up on its hills and Palestinians no longer had the rights to cultivate olives there.
-
 {% image "article2024/Done-sr-linh-di/779e467a-03dc-49ed-bac4-977a4b0495d1.jpg" %}
+
+There was the day when we walked in Wadi Khana, an oasis of ancestral olive groves. Issa Souf, a Palestinian peace activist who is paralyzed after having been shot, shared with us that this lush valley was once open for grazing goats and cultivating olives. In the past few years, illegal settlements sprung up on its hills and Palestinians no longer had the rights to cultivate olives there.
 
 It was a Jewish holiday that day and many settler families picnicked by the stream. Young fathers held babies in one arm and toted machine guns in the other. We looked at each other. I breathed peacefully and kept my gaze open and friendly. This was their vision of happiness and my taking sides would only strengthen seeds of discrimination and separation.
 
@@ -51,15 +47,14 @@ We simply sang, “I’ve got peace like a river, I’ve got peace like a river�
 
 We simply ate in mindfulness, giving thanks to the miracle of being nourished. Giving thanks to sangha friends who sheltered and fed us even when they themselves did not know if there would be food as the war continued.
 
-<div class="divider"></div>
+{% image "article2024/Done-sr-linh-di/2023.10.06 Deep Relaxation.jpg", "removeTopMargin" %}
+<!-- <div class="divider"></div> -->
 
 Wherever we went, people remembered the harmony of our group above anything else we shared with them.
 
 I was surprised how the Plum Village daily practices such as listening with openness, speaking without blaming, checking our own perceptions, taking time to understand, and letting go have permeated our beings. Though the four of us joked that on any given day, only three of us were solid; we certainly benefited from the fruit of those practices.
 
 Harmony often asked of us to refrain from saying or doing certain things, and it wasn’t easy.
-
-{% image "article2024/Done-sr-linh-di/2023.10.06 Deep Relaxation.jpg" %}
 
 Like the night we first tried to drive into the West Bank: the navigation system tried to reroute us, the main checkpoint was closed, the internet signal was fading in and out, and we couldn’t read the signs in Hebrew. It also became apparent that some of us resorted to information and technology to solve problems, while others preferred speaking to people.
 
@@ -73,7 +68,8 @@ One day in the middle of a retreat, our elder sister asked me, “Su em (younger
 
 Seeing that message, my elder sister laughed and gently said to me, “Su em, it is not very kind or respectful to speak to the brothers like that. We are collaborators and we should always ask each other for their ideas rather than tell or demand. If we are mindful of these small things, we will not let tension build up during the tour.” I bowed in gratitude and typed out another message, “Dear brothers, apparently it is not very respectful to just tell you what to chant … so … are you ok to chant ‘May the Day be Well’ tomorrow? ☺”
 
-<div class="divider"></div>
+<!-- <div class="divider"></div> -->
+{% image "article2024/Done-sr-linh-di/2023.10.06 Battir Terrace_e.jpeg" %}
 
 Harmony is born from understanding.
 
@@ -92,4 +88,4 @@ Dear respected Thay, thank you for cultivating a community of understanding, har
 
 <div class="article-end"></span>
 
-{% image "article2024/Done-sr-linh-di/2023.10.06 Battir Terrace_e.jpeg" %}
+{% image "article2024/Done-sr-linh-di/4b0fc9b1-47ca-49f3-8d3c-8395efe91e73_e.JPG" %}

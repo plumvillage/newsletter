@@ -22,8 +22,6 @@ Your journey was not just your own. It became our journey too. Through your eyes
 {% image "article2024/Done-Memorial-Ceremony/06_Su_Ong_2nd_Year_Memorial_220124.jpg", "noFloat" %}
 {% image "article2024/Done-Memorial-Ceremony/21_Su_Ong_2nd_Year_Memorial_220124.jpg", "noFloat" %}
 
-<!-- <div class="removeTopMarginInFollowingElem removeIndentInFollowingElem" style="height: 26mm; column-span: all;"></div> -->
-
 As we continue to walk the path you have laid before us, we feel a deep commitment to be a continuation of your legacy. Your guidance lives on in each of us, your students, as we endeavor to embody in our thoughts, words, and actions, the Dharma doors you have transmitted to us. We aspire to be mindful, to cultivate peace and understanding in our hearts, and to extend that peace to the world.
 
 Your absence is felt deeply, yet we find solace in knowing that you are still with us, in the rustle of the leaves, in the stillness of meditation, in the smiles we share, in the silent moments of reflection and in this living community; your masterpiece. You taught us that life is impermanent, but love and understanding are a legacy that endures from generation to generation.
@@ -35,6 +33,8 @@ Thank you, dear Thay, for your unwavering guidance, your endless compassion, and
 <span class="signoff-lvl-2">We your students</span>
 </p>
 
+<div class="article-end"></div>
+
 
 {% image "article2024/Done-Memorial-Ceremony/67_Su_Ong_2nd_Year_Memorial_220124_crop.jpg" %}
 
@@ -42,8 +42,6 @@ Thank you, dear Thay, for your unwavering guidance, your endless compassion, and
 
 <!-- "Ocean of Smiles" -->
 {% image "article2024/Done-Memorial-Ceremony/Hue/Before the Ceremony/VN 24_Day 1_8.jpg", "noFloat" %}
-
-<!-- <div class="removeTopMarginInFollowingElem removeIndentInFollowingElem" style="height: 6mm; column-span: all;"></div> -->
 
 <p class="editors-preface">The following is a letter to Thay from his international monastic disciples gathered in the Từ Hiếu Root Temple for Thay’s 2-Year Memorial.</p>
 
@@ -72,6 +70,8 @@ You have said that, “Time is stilled in eternity, where love and the beloved a
 <span class="signoff-lvl-2">Your students</span>
 </p>
 
+<div class="article-end"></div>
+
 {% image "article2024/Done-Memorial-Ceremony/Hue/Before the Ceremony/Br.Phap Luu-walking.jpg", "noFloat memorialEN" %}
 {% image "article2024/Done-Memorial-Ceremony/Hue/Before the Ceremony/_DSC3872_e.jpg", "noFloat memorialEN" %}
 {% image "article2024/Done-Memorial-Ceremony/Hue/Before the Ceremony/_DSC4015.jpg", "noFloat memorialEN" %}
@@ -79,16 +79,10 @@ You have said that, “Time is stilled in eternity, where love and the beloved a
 {% image "article2024/Done-Memorial-Ceremony/Hue/Before the Ceremony/_DSC6818.jpg", "noFloat memorialEN" %}
 {% image "article2024/Done-Memorial-Ceremony/Hue/Before the Ceremony/_DSC4445_e.jpg", "noFloat memorialEN" %}
 
-
-<!-- <div class="page-break"></div> -->
-
 ## Thay’s 2-Year Memorial Ceremony
 
 <p style="column-span: all; margin-top: 8pt; padding-bottom: 3mm;">On January 29, more than 400 monastics from all Plum Village centers, alongside venerable monks and nuns of Hue and lay practitioners from over 30 countries gathered in Tu Hieu Root Temple to honor Thay. This grand memorial ceremony recognized Thay as the Fifth Patriarch of Tu Hieu and the founder of the Plum Village tradition.<span class="last-article-element"></span></p>
 
-
-<!-- <div class="removeTopMarginInFollowingElem"></div> 
--->
 
 <!-- I changed the flow here. It goes left to right, then down, not in columns. -->
 <!-- I added empty characters (invisible) so that the figures all take up the same amount of space an arrange beautifully -->
@@ -105,7 +99,6 @@ You have said that, “Time is stilled in eternity, where love and the beloved a
 
 {% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/Le dai tuong 15 copy.jpg", "noFloat" %}
 {% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/_DSC6713.jpg", "noFloat" %}
-<!-- {% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/VN 24_Lễ Đại Tường_021.jpg", "noFloat" %} -->
 </div>
 
 <div class="page-break"></div>

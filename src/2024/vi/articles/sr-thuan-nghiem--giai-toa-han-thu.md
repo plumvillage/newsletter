@@ -64,10 +64,6 @@ Trong những ngày ở đó, tiếng bom đạn vang rền suốt cả ngày l�
 
 Quý thầy và quý sư cô làm hết khả năng để giúp tăng thân lắng dịu những bồn chồn, thù hận, tuyệt vọng trong lòng. Những người Palestine sống tại Israel bị hạn chế đi lại, chỉ được ra khỏi nhà trong bán kính 1km đến hiệu thuốc hoặc chợ. Họ đè nén trong lòng rất nhiều cảm xúc như sự căm thù và sợ hãi.
 
-<!-- {% image "article2024/Done-sr-thuan-nghiem/IMG_3963.jpg" %} -->
-<!-- {% image "article2024/Done-sr-thuan-nghiem/IMG_4068.jpg" %} -->
-<!-- {% image "article2024/Done-sr-thuan-nghiem/05b00c36-3b6d-46e8-8284-b90f48830d2d.JPG" %} -->
-
 Có một bạn trẻ người Palestine đã từng đến Làng tham dự khóa tu Wake Up chia sẻ rằng: “Tổ tiên, ông bà, cha mẹ con đã từng bao đời sống trên mảnh đất này nhưng đến thế hệ con lại phải sống trong lo sợ, có thể bị giết bất cứ lúc nào, không biết bản thân có thể sống đến ngày mai hay không. Sự thù hận dâng tràn trong lòng con”.
 
 Khi sống với sự thù hận như vậy, ta không thể nào có bình an được. Khi đến vùng đất này quý thầy và quý sư cô đều thao thức muốn đem giáo pháp, đặc biệt là giáo lý tương tức chia sẻ với người dân để giúp họ thay đổi tình trạng, giải tỏa hận thù. Nếu mình thấy được mình là người kia và người kia là mình thì mình sẽ không giết nhau và có thể sống được với nhau trong an bình. Những người dân ở đây rất khao khát giáo pháp. Họ rất mừng là quý thầy và quý sư cô đã đến được nơi này. Phái đoàn đã có được ba tuần lễ yên bình để hoằng pháp trước khi chiến tranh nổ ra.

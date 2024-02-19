@@ -887,7 +887,7 @@ h1#transforming-resentment-into-compassion {
     margin-top: -12pt;
 }
 .article-coming-home-to-our-roots h2.author {
-    margin-top: -22pt;
+    margin-top: -13pt;
 }
 .article-ngon-djoi-tieu-an h2.author {
     margin-bottom: 4mm;
@@ -922,8 +922,8 @@ h1#transforming-resentment-into-compassion {
     margin-top: -10pt;
 }
 .article-the-door-of-compassion h2.author {
-    margin-top: -14pt;
-    padding-right: 2.5em;
+    margin-top: -9pt;
+    padding-right: 3.5em;
 }
 .article-the-calling h2.author {
     margin-top: -32pt;
@@ -1167,6 +1167,7 @@ html:lang(en) figure#article2024Done-BrPhap-UngBrPhap-Unge {
 
 
 /* column-span images */
+figure#article2024sr-dao-nghiemcup-of-teae,
 figure#article2024Done-Memorial-CeremonyHueBefore-the-CeremonyVN-24Day-18,
 figure#article2024Done-Review-of-the-YearNovice-ordinationChuong-vang-family-2,
 figure.zasp,
@@ -1183,8 +1184,8 @@ html:lang(vi) figure#article2024Done-Sr-Hien-HanhSr-Hien-Hanh-2e,
 figure#article2024Done-interview-with-thayVncon-ve-miong-tua-noi-dat-me,
 figure#LTLM47-2024-cover-NH-TeensLTLM47-2024July2023sararemington0013editedcropped,
 figure#article2024Done-interview-with-thayEni-am-in-love-with-mother-earthe,
-figure#article2024Done-sr-linh-di20231006-Battir-Terracee,
-figure#article2024Done-sr-linh-di20231006-Deep-Relaxation,
+html:lang(vi) figure#article2024Done-sr-linh-di20231006-Battir-Terracee,
+html:lang(vi) figure#article2024Done-sr-linh-di20231006-Deep-Relaxation,
 figure#article2024Done-sr-linh-di4b0fc9b1-47ca-49f3-8d3c-8395efe91e73e,
 figure#article2024Done-sr-thuan-nghiemIMG3889,
 figure#article2024Done-SrHoa-NghiemSrHoa-Nghiem-Princetone,
@@ -1231,7 +1232,7 @@ figure#article2024Done-interview-with-thayEni-am-in-love-with-mother-earthe {
     width: 57%;
     margin-bottom: 0em;
 }
-figure#article2024Done-sr-linh-di20231006-Battir-Terracee {
+html:lang(vi) figure#article2024Done-sr-linh-di20231006-Battir-Terracee {
     width: 60%;
     margin-bottom: 0em;
 }
@@ -1243,6 +1244,10 @@ figure#article2024Done-sr-linh-di4b0fc9b1-47ca-49f3-8d3c-8395efe91e73e {
     width: 65%;
     margin-bottom: 0em;
 }
+/* html:lang(en) figure#article2024Done-sr-linh-di4b0fc9b1-47ca-49f3-8d3c-8395efe91e73e {
+    width: 50%;
+    margin-bottom: 0em;
+} */
 figure#article2024Done-Memorial-Ceremony67SuOng2ndYearMemorial220124crop,
 figure#article2024Done-SrHoa-NghiemSrHoa-Nghiem-Princetone {
     width: 100%;
@@ -1265,8 +1270,7 @@ figure#article2024ScannedDrawings0705-Ky-to-dje-nhie img {
 }
 figure.memorialEN img {
     object-fit: cover;
-    height: 48mm;
-    /* margin-top: 39mm; */
+    height: 51mm;
 }
 figure#article2024Done-Memorial-CeremonyHueBefore-the-CeremonyDSC5565 {
     margin-top: 0;
@@ -1299,6 +1303,26 @@ figure#article2024Done-Review-of-the-YearNovice-ordinationChuong-vang-family-2 i
     object-fit: cover;
     height: 68mm;
 }
+/* crop top (sky) away */
+html:lang(en) figure#article2024Done-sr-thuan-nghiemIMG-0378 img {
+    object-fit: cover;
+    height: 60mm;
+    width: 85mm;
+    object-position: center bottom;
+}
+
+
+figure#article2024sr-dao-nghiemcup-of-teae img {
+    width: 60%;
+    margin-bottom: 0;
+}
+figure#article2024sr-dao-nghiemcup-of-teae img {
+    object-fit: cover;
+    height: 93mm;
+    width: 141mm;
+    object-position: center bottom;
+}
+
 
 html:lang(en) figure#article2024Done-Sr-Hien-HanhSr-Hien-Hanh-2e img {
     object-fit: cover;
@@ -1307,7 +1331,14 @@ html:lang(en) figure#article2024Done-Sr-Hien-HanhSr-Hien-Hanh-2e img {
 html:lang(en) figure#article2024Done-Sr-Hien-HanhSr-Hien-Hanh-2e {
     float: none !important
 }
-
+html:lang(vi) figure#article2024Done-sr-thuan-nghiemIMG3889 {
+    width: 100%;
+    margin-bottom: 0em;
+}
+html:lang(en) figure#article2024Done-sr-thuan-nghiemIMG3889 {
+    width: 78%;
+    margin-bottom: 0em;
+}
 
 
 
@@ -1328,10 +1359,7 @@ figure#article2024Done-SrBao-NIMG3353 {
     margin-bottom: 12mm !important;
 }
 
-figure#article2024Done-sr-thuan-nghiemIMG3889 {
-    width: 100%;
-    margin-bottom: 0em;
-}
+
 
 
 

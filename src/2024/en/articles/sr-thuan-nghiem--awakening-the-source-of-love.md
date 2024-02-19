@@ -15,6 +15,8 @@ Before the first Dharma talk, the monastic brothers and sisters offered the Namo
 
 Everyone expressed their longing for peace and a sense of safety in their daily lives. In response, the brothers and sisters shared about concrete practices to cultivate peace within oneself, as well as understanding the interconnectedness between one another, all living species and the environment. Although the retreat was short, we witnessed a lot of transformation among the retreatants. They had tasted the essence of the Dharma. If a person practices wholeheartedly, the Dharma has the ability to help heal and soothe the burning pains of the heart.
 
+{% image "article2024/Done-sr-thuan-nghiem/IMG_3889.jpg" %}
+
 ## Day of Mindfulness in Neve Shalom
 
 Over a hundred people attended this Day of Mindfulness, several of whom were Palestinians. Everyone put their hearts into practicing walking meditation, eating meditation and deep relaxation. The event ended after a session of Questions & Answers with many practical questions. Many Palestinians shared that they deeply yearned for events like this in their regions so they could learn how to generate peace in every breath and every step.
@@ -24,6 +26,10 @@ Over a hundred people attended this Day of Mindfulness, several of whom were Pal
 The brothers and sisters drove a rented van from Israel to Palestine, crossing many checkpoints. At each stop, everyone in the van could sense the wariness and unease of the young Israeli soldiers who checked our documents. Since we did not have local sanghas in Palestine, except for a few young people who had attended retreats at Plum Village, there was much confusion and many mishaps in the logistical planning. Upon arrival, the brothers and sisters stepped in to help guide and coordinate the organizers.
 
 There were about 30 Palestinian women who came to the Day of Mindfulness. They were very curious and surprised to find out that the sisters were not married or had children like them. They seemed to carry so much anxiety and unrest in their bodies that no matter how much the sisters tried, they could not help the women to relax. Through a few deep inquiries by the sisters, the women slowly set aside their reservations and opened up about their difficulties and suffering. They shared that no one wanted to listen to each other in this society; everyone only wanted to speak their thoughts, making communication within their families very difficult. Yet, after a few minutes of listening to the bell, they were able to practice deep listening and became much calmer. They allowed the sisters to finish sharing without interrupting as before. After two hours of practicing together, all the women suddenly stood up and walked out to cook for their families, leaving the two sisters quite surprised.
+
+{% image "article2024/Done-sr-thuan-nghiem/IMG-0378.JPG", "removeTopMargin" %}
+
+{% image "article2024/Done-sr-thuan-nghiem/df51ccf0-41cc-422d-9cf2-2e292cf4c906_e.JPG", "removeTopMargin" %}
 
 The sangha groups from Palestine and Israel hosted two events for people from both sides to attend. Those who attended from Palestine were mainly social activists in various areas, such as the environment, non-violence, etc. All together, there were several dozen Palestians at these two events. Everyone was interested in practicing breathing meditation, walking meditation, and eating meditation. We hosted Dharma sharing in the afternoon for everyone to have a chance to listen to each other. The friends from Palestine shared that the utmost thing they wished for was peace, but it was so difficult – like a dream beyond their reach.
 

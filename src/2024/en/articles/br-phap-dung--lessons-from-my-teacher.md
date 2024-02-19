@@ -37,4 +37,6 @@ When we walk together in the Root Temple, we only need to dwell in our steps and
 
 {% image "article2024/Done-Memorial-Ceremony/Hue/Before the Ceremony/_DSC4445_e.jpg" %}
 
+<!-- {% image "article2024/Br-Phap-Dung/_DSC6442.jpg" %} -->
+
 <!-- see als Sr Uyen N: L1004967.jpg: walk around half-moon pond -->
