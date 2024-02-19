@@ -817,8 +817,19 @@ p.pull-quote:before {
     font-weight: normal;
 }
 
-
-
+.article-entering-the-field h2.author {
+    margin-bottom: 14mm;
+}
+.article-entering-the-field .verse {
+    font-size: 127%;
+    line-height: 135%;
+    font-family: "Gentium Plus";
+    padding-left: 13mm;
+}
+.article-entering-the-field > p  {
+    width: 64mm;
+    padding-left: 8mm;
+}
 
 
 
@@ -1175,6 +1186,7 @@ html:lang(en) figure#article2024Done-BrPhap-UngBrPhap-Unge {
 
 
 /* column-span images */
+figure#article2024br-dinh-thanhTransforming-Resentment-Br-Dinh-Thanh,
 figure#article2024Done-Br-Phap-LuuIMG6801e,
 figure#article2024Done-Br-Phap-LuuDSC02105e,
 figure#article2024sr-tam-muoibelle-vue-ouestJPGe,
@@ -1361,6 +1373,12 @@ html:lang(en) figure#article2024Done-sr-thuan-nghiemIMG3889 {
     width: 78%;
     margin-bottom: 0em;
 }
+figure#article2024br-dinh-thanhTransforming-Resentment-Br-Dinh-Thanh {
+    width: 80%;
+}
+
+
+
 
 
 

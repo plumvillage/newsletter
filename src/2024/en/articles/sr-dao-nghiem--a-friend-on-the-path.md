@@ -32,10 +32,6 @@ Sadness</p>
 
 When I ruminate on some thoughts or something that touches me and causes me discomfort, pain, journaling allows me to get “outside” of my head, helps my mind not to dwell on it and turn it over and over again. It helps me to process the joys and sorrows I experience, to learn valuable lessons from my experiences, and when I read what I wrote, months or weeks later, I can see the regular pattern of my mind, practice with it and thus understand my mind better. It is an outlet to release heavy emotions like anger, frustration, or sadness. Putting these feelings on paper frees me from having them linger in my mind.
 
-<!-- {% image "article2024/sr-dao-nghiem/fire within.webp" %} -->
-<!-- {% image "article2024/sr-dao-nghiem/flower.webp" %} -->
-<!-- {% image "article2024/sr-dao-nghiem/hope.webp" %} -->
-
 I regularly look back at what I wrote, whether it was last year or many years ago. It has been a help in my understanding of my pain. Reflecting on what I have written gives me a greater sense of clarity and insight. I have found this to be very powerful. Through this self-reflection, I can reflect on my thoughts, desires, intentions, and actions, and then take appropriate steps based on that reflection.
 
 For example, reading something I wrote last spring, brought back to mind the insight that I had then and the power of walking meditation with the sangha. I was having a difficult time caught in a situation of doubt. This is what I shared with my friend the next morning:
@@ -50,5 +46,6 @@ It helps me to focus on the present moment. Being present without worrying about
 
 With my friend’s unconditional compassion and presence, my return to the many conditions of happiness that I have in the present moment is natural.
 
-<!-- <div class="article-end"></div> -->
+<div class="article-end"></div>
 
+{% image "article2024/sr-dao-nghiem/Sr. Dao N with Daffodil sisters_e.jpg" %}

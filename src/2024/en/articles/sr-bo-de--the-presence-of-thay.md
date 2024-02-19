@@ -29,6 +29,9 @@ And the sunshine is falling like the rain.<br/>
 
 I remember, during grade school, my friends and I would long for the school bell to ring so that we could immediately close our books and pour into the canteen to buy snacks and sweets. The two morning classes on the monastic Day of Mindfulness brought me back to the elementary school days when I learned to befriend the written words, blackboards and white chalk. For the sake of the younger monastics, the elders converted the classic schedule of morning Dharma talk and afternoon Dharma sharing sessions into classes on various topics throughout this Rains Retreat. There was a class on how the mind and brain affect our lives by Sr. Hoi Nghiem, a class on Buddhist psychology by Sr. Tue Nghiem, a class on comparative ethics by Sr. Hien Nghiem, and a handful of other classes. These classes had succeeded in sparking enthusiasm among monastics, kindling a unique vivacity for this memorable Rains Retreat 2023-2024.
 
+{% image "article2024/Done-Sr-Bo-De/IMG_7165_e.JPG" %}
+{% image "article2024/Done-Sr-Bo-De/418181476_414404551247229_2033593610773920883_n.jpg" %}
+
 ## 10 parts studying to 1 part understanding
 
 The enthusiasm of the Dharma teachers leading the classes seemed to be endless. Right after leading a class on an in-depth understanding of the precepts, Sister Chan Duc immediately went to the next class to teach Pali to a smaller group. Sister Chan Duc taught us the Pali version of some of the familiar sutras, such as the Discourse on Turning the Wheel of the Dharma, Discourse on Knowing the Better Way to Live Alone, and Discourse on the Full Awareness of Breathing with immense patience and inclusivity.
