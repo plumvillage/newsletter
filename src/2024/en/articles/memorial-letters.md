@@ -91,6 +91,7 @@ You have said that, “Time is stilled in eternity, where love and the beloved a
 -->
 
 <!-- I changed the flow here. It goes left to right, then down, not in columns. -->
+<!-- I added empty characters (invisible) so that the figures all take up the same amount of space an arrange beautifully -->
 <div class="hueMemorialEN">
 
 {% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/Le dai tuong 1 copy.jpg", "noFloat", "‎" %}

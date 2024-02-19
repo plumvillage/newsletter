@@ -18,3 +18,6 @@ Xa xôi cách trở trăm đường<br/>
 Còn tu còn thấy tỏ tường trong nhau<br/>
 Bây giờ cho đến ngàn sau<br/>
 Cùng chung nhịp bước qua cầu bình an.</p></div>
+
+{% image "article2024/Done-Br. Tuong Tuc/399796255_313295418126751_8334081940523573211_n.jpg" %}
+{% image "article2024/Done-Br. Tuong Tuc/370186431_271736955615931_7437894567308404210_n.jpg" %}
