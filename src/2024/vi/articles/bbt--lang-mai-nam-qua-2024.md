@@ -172,7 +172,7 @@ Ngày 22.6, bộ phim tiếng Pháp của đạo diễn Yen Le Van có tựa đ�
 
 ## Khóa tu mùa Hè *(9 – 29.7.2023)*
 
-Khóa tu mùa Hè là khóa tu đông vui nhất trong năm vì có cả trẻ em và thiếu niên về Làng tu tập cùng cha mẹ. Làng đã trở thành điểm hẹn của nhiều gia đình trong dịp hè. Năm nay, tổng cộng có hơn 2000 người từ khắp nơi trên thế giới, trong đó có 170 thiếu niên và 480 thiếu nhi, đã về Làng tu tập trong ba tuần của mùa hè. Nhờ có 120 tình nguyện viên, trong đó có nhiều đồng bào từ Việt Nam qua, nên khóa tu diễn ra khá suôn sẻ và vui tươi.
+Khóa tu mùa Hè là khóa tu đông vui nhất trong năm vì có cả trẻ em và thiếu niên về Làng tu tập cùng cha mẹ. Làng đã trở thành điểm hẹn của nhiều gia đình trong dịp hè. Năm nay, tổng cộng có hơn 2000 người từ khắp nơi trên thế giới, trong đó có 170 thiếu niên và 480 thiếu nhi, đã về Làng tu tập trong ba tuần của mùa hè. Nhờ có sự yểm trợ của 120 tình nguyện viên, trong đó có nhiều đồng bào từ Việt Nam qua, nên khóa tu diễn ra khá suôn sẻ và vui tươi.
 
 {% image "article2024/Done-Review of the Year/Summer retreat/PV_2023_69.jpg", "noFloat" %}
 {% image "article2024/Done-Review of the Year/Summer retreat/ancestors-festival-deco.jpg", "noFloat" %}
@@ -245,9 +245,9 @@ Sáng ngày 19.10, tứ chúng Làng Mai đã vân tập về thiền đường
 
 <div class="removeTopMarginInFollowingElem"></div>
 
-## Chương trình tu học trực tuyến<br/>“Thiền và Nghệ thuật bảo hộ hành tinh”<br/>*(15.10 – 3.12.2023)*
+## Chương trình tu học trực tuyến<br/>“Thiền và nghệ thuật bảo hộ hành tinh”<br/>*(15.10 – 3.12.2023)*
 
-Với năng lượng tu tập hùng hậu của mùa an cư, tăng thân xuất sĩ còn đồng thời yểm trợ cho chương trình tu học trực tuyến kéo dài bảy tuần với chủ đề “Thiền và Nghệ thuật bảo hộ hành tinh” (“Zen and the Art of Saving the Planet”, gọi tắt là ZASP), mở đầu vào ngày 15.10 và kết thúc vào ngày 3.12. Đây là lần đầu tiên tăng thân có được một chương trình tu học trực tuyến được xây dựng công phu từ hình thức cho đến nội dung như vậy. Khoảng 1600 thiền sinh đến từ hơn 50 quốc gia đã tham gia khóa học bảy tuần này. Chương trình được xây dựng trong vòng một năm, từ năm 2022, và bắt đầu đưa vào thử nghiệm vào tháng Hai và tháng Năm năm 2023. Để biết thêm về ý nghĩa của chương trình tu học này, xin đọc bài viết “Thiền và nghệ thuật bảo hộ hành tinh” của thầy Trời Đức Niệm trong số báo này.
+Với năng lượng tu tập hùng hậu của mùa an cư, tăng thân xuất sĩ còn đồng thời yểm trợ cho chương trình tu học trực tuyến kéo dài bảy tuần với chủ đề “Thiền và nghệ thuật bảo hộ hành tinh” (“Zen and the Art of Saving the Planet”, gọi tắt là ZASP), mở đầu vào ngày 15.10 và kết thúc vào ngày 3.12. Đây là lần đầu tiên tăng thân có được một chương trình tu học trực tuyến được xây dựng công phu từ hình thức cho đến nội dung như vậy. Khoảng 1600 thiền sinh đến từ hơn 50 quốc gia đã tham gia khóa học bảy tuần này. Chương trình được xây dựng trong vòng một năm, từ năm 2022, và bắt đầu đưa vào thử nghiệm vào tháng Hai và tháng Năm năm 2023. Để biết thêm về ý nghĩa của chương trình tu học này, xin đọc bài viết “Thiền và nghệ thuật bảo hộ hành tinh” của thầy Trời Đức Niệm trong số báo này.
 
 ## Lời thỉnh cầu cùng ngồi yên yểm trợ hòa bình thế giới
 
