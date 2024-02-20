@@ -1,9 +1,9 @@
 ---
 title: Greeting the Dawn
-author: Interview with the Daffodil Family
+author: Interview with the Daffodil ordination family
 ---
 
-<p class="editors-preface">On 5 November 2023, ten young people shed their hair to become novice monks and nuns in the Daffodil family in Plum Village France. The Newsletter Team had a chance to interview them after their ordination to learn of their journeys, transformations, challenges, and aspirations.</p>
+<p class="editors-preface">On 5 November 2023, ten young people shed their hair to become novice monks and nuns in the Daffodil ordination family in Plum Village France. The newsletter team had a chance to interview them after their ordination to learn of their journeys, transformations, challenges, and aspirations.</p>
 
 <!-- https://plumvillage.org/articles/daffodil-family-ordination-ceremony-2023
     Sister Chân Đôn Hạnh – Sister True Kind Action
