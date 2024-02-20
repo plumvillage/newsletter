@@ -59,7 +59,7 @@ At long last, 400 Francophone friends from France, Switzerland, Belgium, and Can
 
 In continuing Thay’s aspiration to share the practice of Engaged Buddhism worldwide, groups of brothers and sisters travelled on four continents: Europe (UK, Ireland, France, Germany, Belgium, Netherlands, Sweden, Denmark, Czech Republic, Austria, Spain…); North America (Mexico, US, Canada); South America (Colombia, Ecuador, Argentina, Brazil, Chile); and Asia (India, Taiwan).
 
-<div style="height: 5.7mm"></div>
+<div style="height: 5.77mm"></div>
 
 {% image "article2024/Done-Review of the Year/Monastic on Tour/20230423_172317 Best_e.jpg", "noFloat lmnq4", "Freiburg, Germany" %}
 {% image "article2024/Done-Review of the Year/Monastic on Tour/52903635294_54be3d0f22_o.jpg", "noFloat lmnq4", "Toronto, Canada" %}

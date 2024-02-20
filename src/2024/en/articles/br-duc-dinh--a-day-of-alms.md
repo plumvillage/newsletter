@@ -43,6 +43,8 @@ I vow to practice with all my heart,<br/>
 seeing giver, gift, and receiver are one.<br/>
 <cite>Gatha from <i>Stepping Into Freedom</i></cite</p></div>
 
+<div class="removeIndentInFollowingElem"></div>
+
 I wasn’t as ease receiving food from my friend, as I saw each of us as separated. But as I receive, I am not only myself, receiving — I am much more. He as he offers, he is not only himself. Consider the butterfly and the flower. Should we take one out, the other wouldn’t exist anymore. They have come to manifest depending on each other, and if they are to evolve, they will evolve together. They are not superior or inferior, neither are they equal.
 
 My lay brother and I, we inter-are and there is this wonderful relationship happening that is one of connection, gratitude and generosity. There is the whole world in us as we interact today. I don’t need to feel awkward about myself, I can enjoy the experience.
@@ -59,7 +61,11 @@ Then I can fully receive the alms<br/>
 And bless the person who offers it<br/>
 With a true smile</p></div>
 
-A number of us asked ourselves “Is this only a symbolic act we are organizing?” “Do we cultivate the idea we are doing like the Buddha while in fact we have more than enough food and comfort in the monastery?”
+<div class="removeIndentInFollowingElem"></div>
+
+A number of us asked ourselves:  
+“Is this only a symbolic act we are organizing?”  
+“Do we cultivate the idea we are doing like the Buddha while in fact we have more than enough food and comfort in the monastery?”
 
 I found one element of response in observing how we went about organizing and practicing on that day. I saw we were watering wholesome seeds, individually and collectively. For example by asking these very questions, or as we put our care into harmonizing our views, listening to each other, being and acting in mindfulness, watering seeds of generosity, gratitude, humility, aspiration, determination, and understanding.
 
@@ -69,10 +75,15 @@ We organized this in order to enjoy it deeply, and I think we did.
 
 On this day of alms, we could also be mindful of our relationship to food, our own feelings, and take the opportunity to reflect upon our true needs as a practitioner, and our true needs as a community that shares the practice internationally through numerous means.
 
-> Living simply  
+<p class="pull-quote">Living simply,<br/>
+in body and also in mind,<br/>
+is a deep wish of mine,<br/>
+a means to living deeply.</p>
+
+<!-- > Living simply  
 > In body and also in mind  
 > Is a deep wish of mine  
-> A means to living deeply
+> A means to living deeply -->
 
 Thank you, dear beloved Sangha, for being my spiritual family, and for making possible countless wonderful moments such as this day. We can celebrate our happiness and commitment to walking the path together.
 

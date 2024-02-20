@@ -35,6 +35,5 @@ module.exports = [
     "tien-nguyen--the-sunny-days",
     "sr-tu-nghiem--poem-entering-the-field",
     "test",
-    // not in order yet ...
     // barriers and bridges
 ]

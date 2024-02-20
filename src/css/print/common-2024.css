@@ -1381,14 +1381,13 @@ html:lang(en) figure#article2024Done-Sr-Hien-HanhSr-Hien-Hanh-2e {
     height: 55mm;
 } */
 
-.hueMemorial figure img,
+.hueMemorial img,
 .hueMemorialEN img,
 figure.lmnq1 img,
 figure.lmnq3 img,
 figure.lmnq4 img,
 figure.lmnq6 img,
 figure.lmnq7 img,
-html:lang(en) figure.lmnq7 img,
 figure.lmnqSummer img,
 figure.lmnqWakeUp img,
 figure.lmnqWakeUpSlim img,
@@ -1552,7 +1551,7 @@ html:lang(en) figure#article2024Done-Br-Minh-HyMG9118 {
     line-height: 130%;
 }
 
-.hueMemorial figure {
+figure.hueMemorial {
     height: 51mm;
 }
 figure.hueMemorialEN {
@@ -1573,10 +1572,16 @@ figure.hueMemorialEN.p2end {
 }
 
 
-figure.lmnq1top {
-    padding-top: 13mm;
+/* those will all crop on the sides left and right */
+figure.lmnqRainsSCCK img,
+figure.lmnq1 img {
+    width: auto;
+    height: 100%;
 }
-
+/* lmnq1 top */
+.PAGE-OF-article2024Done-Review-of-the-YearGreat-Ordination-Ceremony08 article {
+    margin-top: 13mm !important;
+}
 figure.lmnq1 {
     height: 59mm;
 }
@@ -1588,11 +1593,10 @@ figure.lmnq4 {
 }
 figure.lmnq6 {
     height: 56mm;
+    margin-top: 1.6em;
+    margin-bottom: 0;
 }
 figure.lmnq7 {
-    height: 66mm;
-}
-html:lang(en) figure.lmnq7 {
     height: 63mm;
 }
 figure.lmnqSummer {
@@ -1631,10 +1635,21 @@ figure.lmnqNovices {
 figure.lmnqLampSymbolic {
     height: 87mm;
 }
-figure.lmnq7,
+/* I only define this height in order for the figcaption not to increase the figure */
+figure#article2024Done-Review-of-the-YearScreenshot-from-2024-02-07-10-49-06,
+figure#article2024Done-Review-of-the-YearSCCK-Photo-Van-Lan-Nguoi-Viet {
+    height: 55mm;
+}
+figure#article2024Done-Review-of-the-YearScreenshot-from-2024-02-07-10-49-06,
+figure#article2024Done-Review-of-the-YearSCCK-Photo-Van-Lan-Nguoi-Viet,
+figure.lmnq7 {
+    margin-top: 1.6em;
+    margin-bottom: 0;
+}
 figure.lmnq4-2,
 figure.lmnq4 {
     margin-top: 1.25em;
+    margin-bottom: 0;
 }
 figure#article2024Done-Review-of-the-YearMonastic-on-Tour9ee37f7c-830f-4a3f-ae2d-bca7bdf6943a img {
     width: auto !important;

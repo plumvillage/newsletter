@@ -5,6 +5,8 @@ author: Sister Chân Trăng Tâm Đức
 
 {% image "article2024/Done-Sr. Tam Duc/_MG_0514_e.JPG" %}
 
+<div class="removeTopMarginInFollowingElem"></div>
+
 ## The monastic retreat: What a joy!
 
 It was the first time I got to see many brothers and sisters from other practice centers in Europe. We studied, practiced, played, and worked together in different groups: rotation teams, games teams, soccer teams, groups by rooms, and Dharma sharing families. The retreat had yet to begin but in our hearts we already felt the joy and happiness of coming together.

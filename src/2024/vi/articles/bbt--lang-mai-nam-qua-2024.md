@@ -65,7 +65,7 @@ Sau ba năm bị gián đoạn vì đại dịch, hơn bốn trăm thiền sinh 
 
 Tiếp nối hạnh nguyện hoằng hóa của Sư Ông đem đạo Bụt ứng dụng đến muôn nơi, “bầy ong siêng năng” đã bắt đầu lên đường với những chuyến hoằng pháp tại châu Âu (Anh, Ireland, Pháp, Đức, Bỉ, Hà Lan, Thụy Điển, Đan Mạch, CH Séc, Áo, Tây Ban Nha…); Châu Mỹ (Mỹ, Canada, Mexico, Colombia, Ecuador, Argentina, Brazil, Chile); và châu Á (Ấn Độ, Đài Loan).
 
-<div style="height: 5mm"></div>
+<div style="height: 5.77mm"></div>
 
 {% image "article2024/Done-Review of the Year/Monastic on Tour/20230423_172317 Best_e.jpg", "noFloat lmnq4", "Freiburg, Đức" %}
 {% image "article2024/Done-Review of the Year/Monastic on Tour/52903635294_54be3d0f22_o.jpg", "noFloat lmnq4", "Toronto, Canada" %}
@@ -110,13 +110,16 @@ Sáng ngày 20.4, Hội nghị Thượng đỉnh Phật giáo Toàn cầu năm 2
 
 <div class="page-break"></div>
 
+{% image "article2024/Done-Review of the Year/Screenshot from 2024-02-07 10-49-06.jpg", "noFloat", "Union Theological Seminary" %}
+{% image "article2024/Done-Review of the Year/SCCK-Photo- Văn Lan-Người Việt.jpg", "noFloat", "Nguồn: Văn Lan - báo Người Việt" %}
+{% image "article2024/Done-Review of the Year/Ngày quán niệm Dana - Credit Việt Báo.jpg", "noFloat lmnq7", "Nguồn: Việt Báo" %}
+{% image "article2024/Done-Review of the Year/Khat thuc - Nguon Viet Bao.jpg", "noFloat lmnq7" %}
+
 ## Gieo mãi hạt yêu thương
 
 Kết hợp với sự kiện thành lập Trung tâm Chánh niệm Thích Nhất Hạnh tại Harvard, Sư cô Chân Không đã có một số hoạt động hoằng pháp tại ba tu viện của Làng Mai tại Mỹ.
 
 *Tại tu viện Bích Nham*, Sư cô đã hướng dẫn một ngày quán niệm cho tăng thân tứ chúng vào ngày 16.4, và cho một bài pháp thoại công cộng với chủ đề “Từ bi trong hành động” (Compassion in Action) do Hội Chủng viện Thần học Hoa Kỳ (Union Theological Seminary) cùng quý thầy, quý sư cô tu viện Bích Nham tổ chức vào ngày 18.4. Ngay sau đó, Sư cô hướng dẫn khóa tu Tiếp hiện, từ ngày 19 đến ngày 23.4.2023, với chủ đề “Nghệ thuật thương yêu” (The Art of Compassion).
-
-{% image "article2024/Done-Review of the Year/Screenshot from 2024-02-07 10-49-06.jpg" %}
 
 *Tại tu viện Mộc Lan*, một khóa tu năm ngày đã diễn ra từ ngày 3.5 đến ngày 7.5 với chủ đề “Tình thương đích thực” (Learning True Love). Khóa tu này còn có chương trình dành cho trẻ em và thiếu niên.
 
@@ -126,9 +129,7 @@ Ngày Quán niệm Dana có chương trình bao gồm những phần thực tậ
 
 Tờ Việt Báo đã viết: “Ngày quán niệm của tăng đoàn Lộc Uyển đã đem lại niềm an lạc lớn lao không chỉ cho những người tham gia, mà còn cho cả không gian, cây cỏ, muôn loài chung quanh. Bầy ngỗng trời ở hồ nước bên cạnh cũng lên tiếng, giống như để chào đón tăng đoàn cùng những người tham dự. Lâu lắm rồi, ở Mile Square Park mới có một sự kiện cộng đồng với một không khí bình an như vậy”.
 
-{% image "article2024/Done-Review of the Year/SCCK-Photo- Văn Lan-Người Việt.jpg", "noFloat", "Nguồn: Văn Lan - báo Người Việt" %}
-{% image "article2024/Done-Review of the Year/Ngày quán niệm Dana - Credit Việt Báo.jpg", "noFloat lmnq7", "Nguồn: Việt Báo" %}
-{% image "article2024/Done-Review of the Year/Khat thuc - Nguon Viet Bao.jpg", "noFloat lmnq7", "Nguồn: Việt Báo" %}
+
 
 ## Khóa tu nấu ăn tại xóm Mới *(26.5 – 2.6.2023)*
 
@@ -203,7 +204,7 @@ Nghỉ ngơi được một tuần sau khóa tu Wake Up, các thầy, các sư c
 
 Sau khi khóa tu kết thúc, một số thiền sinh tình nguyện ở lại thêm để phụ các thầy, các sư cô hái mận. Sau khi thu hoạch, mận sẽ được sấy khô hoặc làm mứt để dành. Nếu có dịp tới Làng, bạn sẽ được thưởng thức mứt mận vào mỗi bữa sáng. Đó là một món đặc sản mộc mạc mà thiền sinh nào sau khi tham dự khóa tu cũng muốn mang về làm quà.
 
-<div style="height: 7.4mm"></div>
+<div style="height: 2.3mm"></div>
 
 {% image "article2024/Done-Review of the Year/Educators retreat/006_08202023.jpg", "noFloat lmnqEducators" %}
 {% image "article2024/Done-Review of the Year/Educators retreat/Sr.Dinh N-educator retreat.jpg", "noFloat lmnqEducators" %}

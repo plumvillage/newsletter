@@ -53,7 +53,20 @@ When I became a monk, I also wanted to help ease the suffering of the world. How
 
 In the autumn of 1994, Thay taught the Discourse on Youth and Happiness. At the end of the Autumn Retreat, Thay suggested everyone write a song or poem to present their insight. Thay was even going to grade our insight poems. Out of nowhere, I was “gifted” a song! After singing it before Thay and the sangha, I went with Br. Phap Dang to a retreat in Germany. When I came back, I heard that Thay gave my song 7 out of 10 points.
 
-<div class="verse"><p>Sun-bleached brown robes<br/>
+<p class="pull-quote" style="font-size: 155%;">Sun-bleached brown robes,<br/>
+coming home to the Buddha,<br/>
+footsteps imprint on leaves.<br/>
+Fragrance of the homeland<br/>
+wafts faintly.<br/>
+You are here<br/>
+to nourish me<br/>
+and I live to support you.<br/>
+Each small step<br/>
+together move the Earth and sky.<br/>
+Whether with or against the flow,<br/>
+all nourish the entire village.</p>
+
+<!-- <div class="verse"><p>Sun-bleached brown robes<br/>
 Coming home to the Buddha<br/>
 Footsteps imprint on leaves<br/>
 Fragrance of the homeland wafts faintly<br/>
@@ -63,7 +76,7 @@ And I live to support you<br/>
 Each small step<br/>
 Together move the Earth and sky<br/>
 Whether with or against the flow<br/>
-All nourish the entire Village.</p></div>
+All nourish the entire Village.</p></div> -->
 
 ## “Thay is behind you”
 
