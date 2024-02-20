@@ -42,13 +42,10 @@ Thay talks about taking care of anger. What is the impact if I respond with this
 
 The journey to love outside is also the journey inside. Suppose there is a person whose views are the most diametrically opposed to mine. That person is still a human being, who is connected to me, whose life has shaped their suffering and experience, who is trying to do things in a way that they believe is the right way. I like to see and separate an action from an individual, because we all have anger, and also the capacity to love and to be compassionate. The important thing is, what do I do every day to increase my compassion and joy, to open my heart to everyone? I think to love is to be in service. If compassion is overflowing, if it comes with the right intention, there is no compassion fatigue.
 
-{% image "article2024/Done-Resillence, Community, Spituality/IMG_7922_.jpg" %}
-{% image "article2024/Done-Resillence, Community, Spituality/IMG_7925_.jpg" %}
-{% image "article2024/Done-Resillence, Community, Spituality/IMG_7811_.jpg" %}
-{% image "article2024/Done-Resillence, Community, Spituality/IMG_7899_.jpg" %}
-
 ***Sr. Lang Nghiem:*** Thank you for explaining how you practice with anger. When we act from a place of love, rather than anger, we in fact process the anger; when we acknowledge it, when we don’t suppress it, it becomes the source of our love and compassion.  
 Tho, what sustains you, and what keeps you from engagement fatigue?
+
+{% image "article2024/Done-Resillence, Community, Spituality/Climate retreat_2023_207.jpg", "removeTopMargin" %}
 
 ***Tho Ha Vinh:*** The Four Noble Truths can be our starting point. The root cause of suffering is separation. Thay has emphasized inter-being as the core of his teaching.
 
@@ -61,6 +58,10 @@ It’s easy to blame economic or political systems. However these systems are bu
 ***Sr. Lang Nghiem:*** Some activists have doubts about the role of spirituality in systems change. Where do you see the intersection between personal transformation and systems change?
 
 ***Satish Kumar:*** At Schumacher College we say that inner transformation and outer transformation are two sides of the same coin. You cannot have outer transformation, systems change, political change, economic change or social justice without inner transformation, namely cultivating qualities like compassion, love, kindness, generosity and understanding.
+
+<!-- {% image "article2024/Done-Resillence, Community, Spituality/IMG_6811-2.JPG" %} -->
+<!-- {% image "article2024/Done-Resillence, Community, Spituality/IMG_7899_.jpg" %} -->
+<!-- {% image "article2024/Done-Resillence, Community, Spituality/001_08232023.jpg" %} -->
 
 There’s no duality. When we cultivate that cosmic mind, we start to think of the whole cosmos as my country, the whole Earth as my home. ‘Eco’ means home. Humans are as much nature as trees, mountains and forests. Before I’m a Buddhist, Christian, or any other religion, love is my religion. When you have that kind of understanding, you can bring social justice, build equity, and work for economic justice. There’s no separation between me and the world. Therefore, changing the world and changing myself are two aspects of one single reality.
 
@@ -80,7 +81,7 @@ Systems change has three main dimensions. One is, we need a new narrative that i
 
 The third aspect is to change the system from within. This is what the Happy School project in Vietnam is trying to do, to transform the educational system from within.
 
-***Sr. Lang Nghiem:*** Before parting, could all of you offer us some words to fill our hearts with hope?
+***Sr. Lang Nghiem:*** Could all of you offer us some words to fill our hearts with hope?
 
 ***Tho Ha Vinh:*** My own three sources of happiness and well-being are to live in harmony with myself, with the people around me, and nature. It starts with giving myself enough time to practice mindfulness, compassion, and trying to live a life that is the manifestation of my deepest values and highest aspirations. That’s the first pillar.
 
@@ -93,5 +94,7 @@ And thirdly, living in harmony with nature, taking enough time to be in nature, 
 I try to be very aware of the intention behind my actions, because if I do an action with a mindset of acting without expecting to get a benefit for me, then I’m in service, because my action already has the spirit of unconditionality that I want to see in the world. That gives me active hope and joy.
 
 When I am feeling despair, I go for a walk in nature. Sometimes I just lie on the ground and say, “Oh, just hold me.” Feeling the connection with something larger than you are, puts so many things in perspective. Life continues, whether I’m here to reap the benefit of what I have done or not. In the Zulu tradition, when people die, they say ‘we kneel,’ because someone else can climb on our shoulders. When I transition on, when we all transition on, we’ve laid some foundation for someone else to stand on and continue the work, that gives me hope- there is a continuation.
+
+{% image "article2024/Done-Resillence, Community, Spituality/IMG_2714_e.jpg" %}
 
 ***Satish Kumar:*** I became an activist at age 18 by joining the Gandhian movement and Vinoba Bhave. Now I’m 86 years old, and I want to remain an activist until the last breath of my life. To be an activist, you have to be an optimist. Pessimism does not lead to activism. Whether the world changes or not is not in my control, but action is in my control—I act out of love, out of compassion, out of kindness, and out of my responsibility. So, I’m an optimist. I have active hope. I act every day in the service of humanity, of Planet Earth, and this for my own fulfillment and joy, because they’re all interconnected.
