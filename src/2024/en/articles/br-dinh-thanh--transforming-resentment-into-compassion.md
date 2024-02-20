@@ -1,5 +1,5 @@
 ﻿---
-title: Transforming Resentment Into Compassion
+title: Transforming Resentment into Compassion
 author: Brother Chân Trời Định Thành
 ---
 
