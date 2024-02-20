@@ -52,7 +52,7 @@ Năm nay, với chủ đề “Vững một niềm tin”, khóa tu xuất sĩ d
 
 ## Tiếng hát mùa xuân
 
-Sau ba năm bị gián đoạn vì đại dịch, hơn bốn trăm thiền sinh từ các nước như Pháp, Bỉ, Thụy Sĩ, Canada,… lại có cơ hội về Làng tu tập trong khóa tu dành cho cộng đồng nói tiếng Pháp, từ ngày 7 đến ngày 14.4. Cỏ cây, hoa lá cùng nắng ấm mùa xuân cũng hòa chung niềm vui sum vầy của đại gia đình Pháp ngữ. Niềm vui tiếp nối niềm vui khi tăng thân tổ chức mừng Ngày Tiếp nối lần thứ 85 của Ni trưởng Chân Không và chào đón thêm 18 thành viên mới của Dòng tu Tiếp Hiện.
+Sau ba năm bị gián đoạn vì đại dịch, hơn bốn trăm thiền sinh từ các nước như Pháp, Bỉ, Thụy Sĩ, Canada,… lại có cơ hội về Làng tu tập trong khóa tu dành cho cộng đồng nói tiếng Pháp, từ ngày 7 đến ngày 14.4. Cỏ cây, hoa lá cùng nắng ấm mùa xuân cũng hòa chung niềm vui sum vầy của đại gia đình Pháp ngữ. Niềm vui tiếp nối niềm vui khi tăng thân tổ chức mừng Ngày Tiếp nối lần thứ 85 của Ni trưởng Chân Không và chào đón thêm 18 thành viên mới của Dòng tu Tiếp hiện.
 
 {% image "article2024/Done-Review of the Year/Francophone retreat/IMG_9618_.jpg", "noFloat lmnq3" %}
 
@@ -81,11 +81,11 @@ Tiếp nối hạnh nguyện hoằng hóa của Sư Ông đem đạo Bụt ứng
 
 ## Trung tâm Chánh niệm vì Sức khỏe Cộng đồng Thích Nhất Hạnh tại Harvard
 
-Ngày 26.4.2023, Trường Y tế Cộng đồng T.H. Chan thuộc Đại học Harvard (Harvard T.H. Chan School of Public Health) đã chính thức khai trương Trung tâm chánh niệm vì sức khỏe cộng đồng Thích Nhất Hạnh *(Thich Nhat Hanh Center for Mindfulness in Public Health)*. Hơn ba mươi xuất sĩ của Làng Mai, trong đó có thầy Pháp Ấn và sư cô Chân Không, đã có mặt cho sự kiện quan trọng này.
+Ngày 26.4.2023, Trường Y tế Cộng đồng T.H. Chan thuộc Đại học Harvard (Harvard T.H. Chan School of Public Health) đã chính thức khai trương Trung tâm Chánh niệm vì Sức khỏe Cộng đồng Thích Nhất Hạnh *(Thich Nhat Hanh Center for Mindfulness in Public Health)*. Hơn ba mươi xuất sĩ của Làng Mai, trong đó có thầy Pháp Ấn và sư cô Chân Không, đã có mặt cho sự kiện quan trọng này.
 
 Trung tâm được thành lập với 25 triệu đô la Mỹ do một nhà hảo tâm ẩn danh hiến tặng, đây là một trong những khoản tài trợ lớn nhất từ trước đến nay cho trường. Sứ mệnh của trung tâm là giúp cho mọi người trên thế giới sống có mục đích, chan hòa và vui tươi thông qua việc thực tập chánh niệm; thúc đẩy các nghiên cứu trên cơ sở thực chứng nhằm cải thiện sức khỏe thể chất và tinh thần thông qua chánh niệm; giáo dục và phổ biến cho mọi người về chánh niệm. Hai lĩnh vực chính của trung tâm là nghiên cứu về dinh dưỡng và môi trường sống.
 
-Giáo sư Lilian Cheung, giám đốc nghiên cứu và thực hành chánh niệm tại Khoa Dinh dưỡng của Trường Y tế Cộng đồng T.H. Chan, đã gặp Sư Ông Làng Mai vào năm 1997 tại một khóa tu chánh niệm và sau đó bà đã cùng viết chung với Sư Ông một cuốn sách có tựa đề *Savor: Mindful Eating, Mindful Life* (tạm dịch: *Thưởng thức: Ăn trong chánh niệm, Sống trong tỉnh thức*).
+Giáo sư Lilian Cheung, giám đốc nghiên cứu và thực hành chánh niệm tại Khoa Dinh dưỡng của Trường Y tế Cộng đồng T.H. Chan, đã gặp Sư Ông Làng Mai vào năm 1997 tại một khóa tu chánh niệm và sau đó bà đã cùng viết chung với Sư Ông một cuốn sách có tựa đề *Savor: Mindful Eating, Mindful Life* (tạm dịch: *Thưởng thức: Ăn trong Chánh niệm, Sống trong Tỉnh thức*).
 
 {% image "article2024/Done-Review of the Year/TNH Center/52856213396_7da665de4e_o.jpg" %}
 
@@ -273,7 +273,7 @@ Trong bối cảnh xung đột ngày càng leo thang ở Trung Đông, ngày 19.
 
 Trong năm 2023, tăng thân xuất sĩ đã chào đón thêm 31 thành viên mới:
  - **Cây Nhãn** (ngày 18.5 tại tu viện Vườn Ươm, Thái Lan) gồm các sư chú: *Chân Nhất Giác, Chân Nhất Ngữ.*
- - **Cây Toyon** (ngày 24.09 tại tu viện Lộc Uyển, Mỹ) gồm các sư chú: *Chân Nhất Lâm, Chân Nhất Thiên, Chân Nhất Điền, Chân Nhất Sơn;* và các sư cô: *Chân Ân Hạnh, Chân Thuần Hạnh.*
+ - **Cây Toyon** (ngày 24.9 tại tu viện Lộc Uyển, Mỹ) gồm các sư chú: *Chân Nhất Lâm, Chân Nhất Thiên, Chân Nhất Điền, Chân Nhất Sơn;* và các sư cô: *Chân Ân Hạnh, Chân Thuần Hạnh.*
  - **Cây Thủy tiên** (ngày 5.11 tại chùa Pháp Vân, Pháp) gồm các sư chú: *Chân Nhất Vân, Chân Nhất Vũ, Chân Nhất Thanh, Chân Nhất Lương, Chân Nhất Nguyên, Chân Nhất Mộc, Chân Nhất Xuân;* và các sư cô: *Chân Đôn Hạnh, Chân Diệu Hạnh, Chân Đăng Hạnh.*
  - **Cây Chuông Vàng** (ngày 17.12 tại tu viện Vườn Ươm, Thái Lan) gồm các sư cô: *Chân Cung Hạnh, Chân Chuyên Hạnh, Chân Cẩn Hạnh, Chân Chuẩn Hạnh, Chân Chỉnh Hạnh, Chân Chỉ Hạnh, Chân Chí Hạnh, Chân Cư Hạnh, Chân Chánh Hạnh, Chân Chiêu Hạnh, Chân Chung Hạnh, Chân Cần Hạnh, Chân Cát Hạnh.*
 
