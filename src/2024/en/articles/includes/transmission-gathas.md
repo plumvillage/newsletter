@@ -83,8 +83,7 @@ In 2023, the sangha happily welcomed 27 new Dharma teachers, both lay and monast
 > > Từ bi chiếu rạng khắp cùng thế gian.
 
 > **Sister Thích nữ Chân Nhẫn Nghiêm**  
-> *(Lay name: Nguyễn Thị Bích Lê;  
-> Dharma name: Tâm Nguyên Tịnh)*  
+> *(Lay name: Nguyễn Thị Bích Lê; Tâm Nguyên Tịnh)*  
 > > Chân tâm một nẻo đi về  
 > > Hành trang ẩn **nhẫn** xá hề gian truân   
 > > **Nghiêm** phong hoạt thái chuyên cần  
@@ -100,7 +99,7 @@ In 2023, the sangha happily welcomed 27 new Dharma teachers, both lay and monast
 > > Cỡi gió về mây giữ an ban.
 
 > **Sister Thích nữ Chân Đế Nghiêm**  
-> *(Vũ Thị Minh Đức ; Tâm Diệu Chuyên)*  
+> *(Vũ Thị Minh Đức; Tâm Diệu Chuyên)*  
 > > Xuất lưu pháp bảo từ chân **đế**  
 > > Một dạ giữ **nghiêm** phép chỉ trì  
 > > Mỗi khi trời đất lên tiếng gọi  
@@ -205,8 +204,7 @@ In 2023, the sangha happily welcomed 27 new Dharma teachers, both lay and monast
 
 
 > **Sister Thích nữ Chân Trăng Lý Tưởng**  
-> *(Lay name: Châu Thị Thu Sương;  
-> Dharma name: Tâm Tuệ Như)*
+> *(Lay name: Châu Thị Thu Sương; Tâm Tuệ Như)*
 > > Hé nụ cười chân thật, tuyệt vời  
 > > **Trăng** sao chiếu sáng khắp muôn nơi  
 > > Long lanh ánh mắt ngời **lý tưởng**  
