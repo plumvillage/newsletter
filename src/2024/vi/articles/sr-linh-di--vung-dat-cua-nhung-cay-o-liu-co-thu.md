@@ -3,7 +3,7 @@ title: Vùng đất của những cây ô liu cổ thụ
 author: Sư cô Chân Trăng Linh Dị
 ---
 
-<div class="editors-preface"><p>Sư cô Trăng Linh Dị, người Úc gốc Hoa, xuất gia trong gia đình Cây Trắc Bá tháng 7/2014 tại Làng Mai – Pháp. Sư cô hiện đang cùng tăng thân tu tập và phụng sự tại xóm Hạ, Làng Mai. Bài viết được BBT dịch từ nguyên bản tiếng Anh.</p></div>
+<div class="editors-preface"><p>Sư cô Trăng Linh Dị, người Úc gốc Hoa, xuất gia trong gia đình Cây Trắc Bá tháng Bảy năm 2014 tại Làng Mai – Pháp. Sư cô hiện đang cùng tăng thân tu tập và phụng sự tại xóm Hạ, Làng Mai. Bài viết được BBT dịch từ nguyên bản tiếng Anh.</p></div>
 
 <div class="removeIndentInFollowingElem"></div>
 
