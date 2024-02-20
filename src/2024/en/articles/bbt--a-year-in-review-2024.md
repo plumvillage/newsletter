@@ -73,7 +73,7 @@ In continuing Thay’s aspiration to share the practice of Engaged Buddhism worl
 
 ## Plum Village at the First Global Buddhist Summit *(20 – 21 April 2023)*
 
-On 20 April, the International Buddhist Confederation launched the first Global Buddhist Summit in New Delhi, India, with the theme *Responses to Contemporary Challenges: Philosophy to Praxis*. The conference received over 700 delegates, of which approximately 170 were from 31 foreign countries. Representatives from Plum Village included Brother Phap Khoi, Brother Nguyen Luc, Sister Bien Nghiem, and Sister Trang Loc Uyen. This event coincided with their mindfulness tour in India.
+On 20 April, the International Buddhist Confederation launched the first Global Buddhist Summit in New Delhi, India, with the theme *Responses to Contemporary Challenges: Philosophy to Praxis*. The conference received over 700 delegates, of which approximately 170 were from 31 countries. Representatives from Plum Village included Brother Phap Khoi, Brother Nguyen Luc, Sister Bien Nghiem, and Sister Trang Loc Uyen. This event coincided with their mindfulness tour in India.
 
 <!-- <div class="page-break"></div> -->
 
