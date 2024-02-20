@@ -3,17 +3,17 @@ title: "Honoring our Teacher Thay: 2-Year Memorial Ceremony"
 author: Thay’s Disciples
 ---
 
-<p class="editors-preface">The following is a letter to Thay from his disciples in Plum Village, France.</p>
+<p class="editors-preface">The following is a letter to Thay from his disciples at Plum Village, France.</p>
 
-## Your Life Is Your Message
+## Your Life is Your Message
 
 Dear Beloved Thay,
 
-As we sit in the gentle embrace of our worldwide Plum Village Sangha, penning this letter to you, our heart is filled with a profound sense of gratitude and reverence. It has been two years since your physical presence returned to Mother Earth, yet your presence and spirit continues to illuminate the path for us, your students and followers.
+As we sit in the gentle embrace of our worldwide Plum Village Sangha, penning this letter to you, our heart is filled with a profound sense of gratitude and reverence. It has been two years since your physical presence returned to Mother Earth, yet your presence and spirit continue to illuminate the path for us, your students and followers.
 
 As students, we had the honor and privilege of walking beside you, absorbing the depth of your wisdom and the boundless compassion that you embodied. Your teachings were not just lessons; they were living experiences that infused our daily life and interactions. Your presence was a sanctuary of peace, a testament to the power of mindfulness and loving-kindness.
 
-You taught us, through your own luminous example, that even in the face of adversity and hardship, the flame of aspiration can burn brightly, undiminished. Your life was your message, embracing the mud and lotus of life, pieced together from the cloth of resilience and an unwavering commitment to peace. In the darkest of times, you remained a beacon of hope, demonstrating that inner peace is the foundation for the peace of humanity.
+You taught us, through your own luminous example that even in the face of adversity and hardship, the flame of aspiration can burn brightly, undiminished. Your life was your message, embracing the mud and lotus of life, pieced together from the cloth of resilience and an unwavering commitment to peace. In the darkest of times, you remained a beacon of hope, demonstrating that inner peace is the foundation for the peace of humanity.
 
 Your journey was not just your own. It became our journey too. Through your eyes, we learned to see the world with compassion and understanding. You showed us the interbeing of all life, reminding us that we are not separate but deeply connected to each other and to the Earth. Your teachings on mindfulness, on cherishing every moment, on living fully and lovingly, are gifts of immeasurable value.
 
@@ -24,7 +24,7 @@ Your journey was not just your own. It became our journey too. Through your eyes
 
 As we continue to walk the path you have laid before us, we feel a deep commitment to be a continuation of your legacy. Your guidance lives on in each of us, your students, as we endeavor to embody in our thoughts, words, and actions, the Dharma doors you have transmitted to us. We aspire to be mindful, to cultivate peace and understanding in our hearts, and to extend that peace to the world.
 
-Your absence is felt deeply, yet we find solace in knowing that you are still with us, in the rustle of the leaves, in the stillness of meditation, in the smiles we share, in the silent moments of reflection and in this living community; your masterpiece. You taught us that life is impermanent, but love and understanding are a legacy that endures from generation to generation.
+Your absence is felt deeply, yet we find solace in knowing that you are still with us, in the rustle of the leaves, in the stillness of meditation, in the smiles we share, in the silent moments of reflection and in this living community, your masterpiece. You taught us that life is impermanent, but love and understanding are a legacy that endures from generation to generation.
 
 Thank you, dear Thay, for your unwavering guidance, your endless compassion, and the invaluable lessons that continue to guide us. We vow to carry forward the torch of your teachings, ensuring that the essence of Plum Village continues to flourish and touch the hearts of many.
 
