@@ -16,6 +16,7 @@ module.exports = [
     "sr-tam-muoi--the-profound-silence-of-dharma-mountain",
     "sr-tam-duc--a-drop-of-water-in-the-sangha-river",
     "br-phap-luu--growing-a-beautiful-multifold-sangha-at-deer-park",
+    "sr-tu-nghiem--poem-entering-the-field",
     "sr-lam-hy--running-another-way-of-stopping",
     "br-phap-huu--music-a-dharma-door",
     "sr-bo-de--the-presence-of-thay",
@@ -33,7 +34,6 @@ module.exports = [
     "br-bat-nha--my-novice-robe",
     "laurent-bernays--flowers-of-peace",
     "tien-nguyen--the-sunny-days",
-    "sr-tu-nghiem--poem-entering-the-field",
     "test",
     // barriers and bridges
 ]

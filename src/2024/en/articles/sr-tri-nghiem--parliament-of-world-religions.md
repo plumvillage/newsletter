@@ -25,21 +25,17 @@ The connection between Plum Village and the PWR began in 1993 when Thay, along w
 
 Sr. Luc Nghiem and I were invited to the Parliament by the Elijah Interfaith Institute<a class="note" href="https://elijah-interfaith.org/">The Elijah Interfaith Institute was founded in 1997 by Rabbi Dr. Alon Goshen-Gottstein, one of the world’s leading figures in interreligious dialogue today.</a>, an international association of faith leaders and scholars, founded in 1997, dedicated to furthering interfaith dialogue and friendship, as well as climate, environmental and social justice initiatives. Our diverse group consisted of more than twenty leaders and scholars, including highly esteemed representatives from Judaism, Christianity, Buddhism, Islam and the religions of India. We took part in daily workshops and plenary sessions and discussed the role of spiritual teachers and leaders today, and the challenges they face in accomplishing their missions. We met with this group every morning, and in the afternoon, we were free to attend general sessions offered by the Parliament<a class="note" href="https://parliamentofreligions.org/parliament/2023-chicago-2/">The 2023 themes centered on the defense of freedom and human rights.</a>. We were honored to bring the teachings of Thay and the Plum Village practices into this group and were delighted to witness how well they were received.
 
-{% image "article2024/Sr Tri Nghiem/000.jpg", "", "The group of guests<br/>invited by the Elijah Interfaith Institute" %}
-
 Our contributions to the general Parliament included offering the practice of “Beginning Anew with the Earth” led by Sr. Tri Nghiem as part of the *Climate Repentance Ceremony*<a class="note" href="https://www.youtube.com/watch?v=tcfpaSXGz-Y">youtube.com/watch?v=tcfpaSXGz-Y</a> in full plenum, and another plenary session, the *Friendship Across Faiths Initiative,* where Sr. Luc Nghiem spoke of the love we need to have in our hearts for dialogue to be possible, sharing examples and experiences of interfaith friendship from her peace pilgrimage to war-torn Ukraine in spring 2022.
-
-{% image "article2024/Sr Tri Nghiem/002.jpg", "", "Sr. Tri Nghiem delivers the Beginning Anew with the Earth" %}
 
 ## Who did we meet?
 
 Being a part of the Elijah Interfaith gathering meant that we were able to meet and converse with some of the most  influential figures in the Interfaith world today, most notably, Karma Lekshe Tsomo, an American Tibetan Budddhist nun, co-founder of the Sakyadhita International Association of Buddhist Women and the founding director of the Jamyang Foundation, which supports the education and livelihood of Buddhist women and girls in the Himalayan region, the Chittagong Hill Tracts of Bangladesh, and elsewhere; Norman Fischer, Soto Zen priest and former co-abbot of San Francisco Zen Center and founder of Everyday Zen Foundation; Her Holiness Sri Amma Karunamayi, a much loved and highly revered Hindu spiritual leader with millions of devotees who consider her a fully enlightened manifestation of Vishnu, and who has created countless humanitarian, educational, food, health and housing projects for the poor and disinherited in south India.
 
-{% image "article2024/Sr Tri Nghiem/003.jpg", "", "Sr. Tri Nghiem and Her Holiness Sri Amma Karunamayi" %}
-
-{% image "article2024/Sr Tri Nghiem/004.jpg", "", "Some members of the Elijah Interfaith panel in plenum" %}
+{% image "article2024/Sr Tri Nghiem/002.jpg", "", "Sr. Tri Nghiem: Beginning Anew with the Earth" %}
 
 Other distinguished guests we met included Maureen Goodman, programme co-ordinator at the International Centre of the Brahma Kumaris in London, England; Marcia Hermansen, Professor and Director of Islamic World Studies, at Loyola University Chicago, USA; Bishop Philipp Huggins of the Anglican Church of Australia, Melbourne; Antje Jackelen, former Archbishop of Sweden; Feisal Abdul Rauf, an Egyptian-American Sufi imam, author, and activist who served as Imam of Masjid al-Farah, a mosque in New York City for 26 years from 1983 to 2009; Jinwol Lee, Zen Master in the Jogye Order of Korean Buddhism; the incumbent Archbishop of the Ukrainian Orthodox Church in western Ukraine and, of course, Rabbi Dr Alon Goshen-Gottstein, the founder and director of the Elijah Interfaith Institute – the person who invited us all to the PWR and continues to bring luminaries together from all over the world. As you can see, it was a very culturally and spiritually diverse group.
+
+{% image "article2024/Sr Tri Nghiem/000.jpg", "", "The group of guests invited by the Elijah Interfaith Institute" %}
 
 It was so inspiring to witness the mutual respect, love and friendship between the different members of the group. No one was trying to assert their way as the best way, no one was trying to be “number one.” There was just mutual respect, trust and admiration for the accomplishments of others, as well as a desire to learn from each other.
 
@@ -51,6 +47,8 @@ Thay spoke repeatedly about the need for a collective awakening in order to save
 
 What I witnessed in Chicago was religious tolerance, the cultivating of siblinghood and dialogue across faiths, the celebration of diversity, and the mutual respect for each other’s beliefs and practices. What I learnt to see were the similarities amongst us rather than the differences. Yes, we may all look different – have different skin colour, speak different languages, come from different cultures, follow different spiritual teachers and practices – but at the root, we are all seeking the same: ways to heal ourselves and the planet, to liberate ourselves and others from suffering and to cultivate awareness, love, freedom and compassion.
 
+{% image "article2024/Sr Tri Nghiem/003.jpg", "", "Sr. Tri Nghiem and Her Holiness Sri Amma Karunamayi" %}
+
 ## Other personal highlights from the week
 
  - Taking part in the *Climate Repentance Ceremony* offered by our Elijah Interfaith group helped me realize that repentance is a necessary part of any healing process, including our relationship with the Earth. It is an essential practice to help us get in touch with our grief and the guilt we feel about the destruction we have caused and continue to cause. In short, it is the practice of recognizing and embracing our suffering relating to the Earth, our mother, the first step towards healing and transformation. Bringing up to consciousness our grief, regrets and other unpleasant feelings and forgiving ourselves for our shortcomings and past actions can free us and help us move towards right action, allowing us to search for sustainable and equitable solutions to the climate and environmental challenges we are facing.
@@ -60,8 +58,12 @@ What I witnessed in Chicago was religious tolerance, the cultivating of siblingh
  - Watching the premiere of a documentary film, *With This Light* about a Catholic nun in Honduras, Sister Maria Rosa Leggol, known as the “Mother Teresa of Central America” for her work providing education, housing, healthcare, love and hope for young girls in Honduras. Sr. Maria Rosa is a beacon of hope, faith and joy in a world of poverty that is so often lacking in these things. She is an inspiring role model of how a woman with faith, joy and determination can achieve anything. Nothing is impossible when we have a path, and when we have love in our hearts.
  - Seeing so many sessions on the program relating to women’s rights, cultural and ethnic minorities and indigenous rights and voices, earth and climate justice, and initiatives about transforming gender-based biases<span class="note">Truth and Reconciliation Applied to Gender Healing in Religious Communities</span> in Christian and other communities renewed my faith in religious and spiritual communities’ capacity to respond to pressing social, environmental and gender issues and address the rapid societal changes we are witnessing. It was refreshing and inspiring to see the amount of attention paid to these issues, and revealed what religious institutions are willing to explore, and how they are searching for partners in their work.
 
+{% image "article2024/Sr Tri Nghiem/004.jpg", "noFloat", "Some members of the Elijah Interfaith panel in plenum" %}
+
 ## Sangha is everywhere
 
 I came away from the Parliament with the feeling that I had made friends across cultural and spiritual boundaries, ‘Spiritual Friends without Borders,’ like the organization ‘Doctors without Borders,’ working together for a common cause. I realized that my friends on the path are not only Buddhist or mindfulness practitioners, but they are *all* spiritual practitioners. And there are so many of them. Together we can make a difference in the world. My notion of ‘sangha’ and ‘beloved community’ has expanded in ways I didn’t know it needed to.
 
 The language that unifies us is that of love. Love and compassion is our common message, our common cry. Only love can heal us. Only love can save the Earth. For us to grow our love, we need to heal ourselves and help others heal. We need to cultivate peace in our hearts. We have a lot of unlearning to do to allow our true Buddha nature to shine but together it is possible.
+
+<div class="article-end"></div>

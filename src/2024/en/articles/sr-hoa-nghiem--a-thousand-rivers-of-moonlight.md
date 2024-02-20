@@ -13,13 +13,8 @@ We did walking meditation on the path from the library to the campus where Thay 
 
 Our next destination was the Pomona wood cabin at Ockanickon Summer Camp in Medford, New Jersey. Pomona belongs to the YMCA and serves as a camp for children and adolescents. This was the wood cabin next to the large lake where Thay had sat on a small boat, paddling north on the lake and playing among the water lilies until evening. As it was now autumn, yellow leaves were falling from the trees onto the surface of the lake. I imagined Thay as a young monk sitting contemplatively, reminiscing about his native country, Vietnam, the pain of war there, and Fragrant Palm Leaves (a monastery Thay founded in 1957). I recalled reading Thay’s memoir, *Fragrant Palm Leaves,* and how my eyes had teared up at the two verses written as a farewell to Thay by Ly, a social activist. Even now, reading them again, my emotions well up:
 
-<!-- > *“On the day you return, if the sky is torn asunder,*  
-> *look for me in the depths of your heart.”* -->
-
-<p class="pull-quote">On the day you return,<br/>
-if the sky is torn asunder,<br/>
-look for me<br/>
-in the depths of your heart.</p>
+> *“On the day you return, if the sky is torn asunder,*  
+> *look for me in the depths of your heart.”*
 
 We sat inside the wood cabin by the wood-burning stove. Mr. Tho (a lay practitioner and close friend of Blue Cliff Monastery) collected leaves and dry wood for the fire. The dry leaves ignited, filling the room with warmth. It was in this very cabin that Thay had written a short book in Vietnamese titled “A Rose for Your Pocket.” Later, a musician took a part of the prose and put it to music. Inspired by the surroundings, Sister Noi Nghiem requested to sing this song in memory of Thay. Everyone joined in, as most everyone knows this song by heart. Suddenly, I remembered the poem, “The Joyful Meditation Hut” that Thay had written for Venerable Thanh Tu when Thay was still at Fragrant Palm Leaves Monastery. This poem was later set to music by Sister Quy Nghiem. In this quiet moment, it felt as if Thay were sitting with us in this room. Suddenly, I wanted to sing to offer homage to Thay and to those present.
 
@@ -75,8 +70,16 @@ I clearly see the reason for my presence and my practice here. I clearly see tha
 
 Tonight, the moon is so bright outside the window of my room, it reminds me of the year I sat with Thay on a bench watching the moon. Thay told me: “Only when we are free, can we see the bright moon…” Did Thay want to tell me that only when I am not busy with family or social matters, only when my heart is not filled with desires, wishes, and sorrows, only then will I be able to truly be in touch with the bright moon? As Thay’s parallel verses in the Great Togetherness Meditation Hall of Blue Cliff Monastery says:
 
-<div class="verse"><p>“The blue water is clear. In the water of a thousand rivers, the moon appears.<br/>
-The mountain cliff is beautiful. Every time you look at it, it is brand new.”</p></div>
+<div class="pull-quote" style="font-size: 155%;"><p>The blue water is clear.<br/>
+In the water of a thousand rivers,<br/>
+the moon appears.</p>
+
+<p>The mountain cliff is beautiful.<br/>
+Every time you look at it,<br/>
+it is brand new.</p></div>
+
+<!-- <div class="verse"><p>“The blue water is clear. In the water of a thousand rivers, the moon appears.<br/>
+The mountain cliff is beautiful. Every time you look at it, it is brand new.”</p></div> -->
 
 I would like to say to Thay: “Dear respected Thay, I am very happy because every day I see our direction clearly and know where I am going. The gratitude I have for my teacher, for the Patriarchs, for my spiritual family, for my parents, and for my blood family will never run dry. In 2024, we commemorate the two years of your passing; but right now, I know that you are roaming freely, and that you will still be forever in our hearts.”
 

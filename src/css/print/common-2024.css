@@ -30,6 +30,11 @@ figure > div {
     width: 100%;
     height: 100%;
 }
+article figure {
+    /* this is for the figcaption not to break */
+    page-break-inside: avoid;
+}
+
 article figure > div {
     /* allows me to crop */
     overflow: hidden;
@@ -787,7 +792,8 @@ article ul li::before {
     margin: 0mm !important;
 }
 
-p.pull-quote {
+/* <div> with <p>'s inside, or simple <p> */
+.pull-quote {
     font-family: "Cormorant Garamond";
     font-size: 170%;
     margin-top: 0.25em;
@@ -798,8 +804,11 @@ p.pull-quote {
     line-height: 130%;
     font-weight: 400;
     font-style: italic;
+    page-break-inside: avoid;
 }
-p.pull-quote:before {
+
+.pull-quote > p:first-child::before,
+p.pull-quote::before {
     content: '“';
     font-size: 300%;
     font-weight: 100;
@@ -808,6 +817,10 @@ p.pull-quote:before {
     left: -0.13em;
     color: #939393;
 }
+.pull-quote p + p {
+    /* text-indent: 0em; */
+}
+
 
 .removeTopMargin,
 .removeTopMarginInFollowingElem + *
@@ -1089,9 +1102,10 @@ figure#article2024Done-interview-with-thayTNH-spain2014-2 + p {
 }
 
 #article2024sr-tam-muoiSr-Tam-Muoie,
-#article2024Done-Resillence-Community-SpitualityHa-Vinh-Tho34,
-#article2024Done-Resillence-Community-SpitualityRehena34,
-#article2024Done-Resillence-Community-SpitualitySatish-Kumar34 {
+#article2024Done-Resillence-Community-SpitualitySister-Lang-Nghiem-819x1024,
+#article2024Done-Resillence-Community-SpitualityRehenae,
+#article2024Done-Resillence-Community-SpitualitySatish-Kumare,
+#article2024Done-Resillence-Community-SpitualityDrHa-Vinh-Thoe {
     display: inline;
     float: left;
     margin-right: 0.9em;
@@ -1100,6 +1114,14 @@ figure#article2024Done-interview-with-thayTNH-spain2014-2 + p {
     /* margin-top: 0em; */
     width: 35%;
 }
+#article2024Done-Resillence-Community-SpitualityDrHa-Vinh-Thoe {
+    margin-bottom: 0.1em;
+}
+
+.article-resilience-community-and-spirituality .editors-preface::after {
+    /* padding-top: 4.3mm; */
+}
+
 
 #article2024sr-tam-muoiSr-Tam-Muoie {
     margin-top: 0em;
@@ -1179,6 +1201,8 @@ html:lang(en) figure#article2024Done-BrPhap-UngBrPhap-Unge {
 
 
 /* column-span images */
+figure#article2024Done-Br-Phap-LuuIMG6621e,
+figure#article2024Sr-Tri-Nghiem000,
 figure#article2024Done-Sr-Bo-De4181814764144045512472292033593610773920883n,
 figure#article2024Sr-Lam-Hy012,
 figure#article2024br-dinh-thanhTransforming-Resentment-Br-Dinh-Thanh,
@@ -1225,7 +1249,10 @@ figure#LTLM47-2024-cover-NH-TeensLTLM47-2024July2023sararemington0013editedcropp
     margin-bottom: 0em;
 }
 
-
+figure#article2024Sr-Tri-Nghiem000 {
+    width: 90%;
+    margin-bottom: 0em;
+}
 figure#article2024Done-interview-with-thayVncon-ve-miong-tua-noi-dat-me {
     width: 95%;
     margin-top: 2em;
@@ -1236,6 +1263,11 @@ figure#article2024Done-Review-of-the-YearTNH-Center528562133967da665de4eo {
     width: 100%;
     /* margin-top: 2em; */
     margin-bottom: 0em;
+}
+figure#article2024Done-Br-Phap-LuuIMG6621e {
+    width: 100%;
+    /* margin-top: 2em; */
+    /* margin-bottom: 0em; */
 }
 figure#article2024Sr-Lam-Hy012 {
     width: 119%;
@@ -1271,13 +1303,13 @@ figure#article2024Done-sr-linh-di4b0fc9b1-47ca-49f3-8d3c-8395efe91e73e {
     width: 65%;
     margin-bottom: 0em;
 }
-figure#article2024Done-Sr-Bo-De4181814764144045512472292033593610773920883n,
-figure#article2024Done-Br-Phap-LuuIMG6801e
-{
+figure#article2024Done-Sr-Bo-De4181814764144045512472292033593610773920883n {
     width: 70%;
+    margin-top: 2em;
     margin-bottom: 0em;
 }
 
+figure#article2024Done-Br-Phap-LuuIMG6801e,
 figure#article2024Done-Memorial-Ceremony67SuOng2ndYearMemorial220124crop,
 figure#article2024Done-SrHoa-NghiemSrHoa-Nghiem-Princetone {
     width: 100%;
@@ -1431,7 +1463,7 @@ figure.myImgTest {
 
 
 
-
+figure#article2024Sr-Tri-Nghiem002,
 figure#article2024br-duc-hienIMG0754e {
     padding-left: 10%;
     padding-right: 10%;
@@ -1561,14 +1593,15 @@ figure.hueMemorialEN {
     margin-top: 6mm;
 }
 figure.hueMemorialEN.p2 {
-    height: 48.5mm;
+    /* height: 48.5mm; */
+    height: 46mm;
 }
-/* normally I would use column-span: all, but for some reason, it does not break the previous images correctly */
 figure.hueMemorialEN.p2end {
-    /* column-span: all; */
-    width: 175.5mm;
+    column-span: all;
+    width: 100%;
     max-width: none;
-    margin-top: 10mm;
+    margin-top: 2mm;
+    height: 55mm;
 }
 
 
@@ -1754,12 +1787,3 @@ html:lang(en) .PAGE-OF-article2024Done-Memorial-Ceremony67SuOng2ndYearMemorial22
     padding-left: 8mm;
 }
 
-#SrBoDe-ImgLabel {
-    position: absolute;
-    right: 17mm;
-    font-size: 80%;
-    /* width: 70mm; */
-    color: rgb(220, 220, 220);
-    bottom: -138mm;
-    text-shadow: 0.3pt 0.4pt 0px rgb(0, 0, 0);
-}

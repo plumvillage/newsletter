@@ -61,8 +61,6 @@ Beyond the words shared, I could see the everlasting fire of enthusiasm Thay had
 
 {% image "article2024/Done-Sr-Bo-De/IMG_7162_e.JPG" %}
 
-<div id="SrBoDe-ImgLabel">Br. Thien Khai, Sr. Soi Sang, Sr. Mai Thon, Sr. Khanh Thien, Sr. Cat Thuong, Sr. Tai Nghiem, Sr. Bo De, Br. Dai Dong</div>
-
 Learning to look with the eyes of non-self, the presence of Thay permeates the sangha: on the walking path lined with pine trees, on the Buddha hill, and at the Sitting Still Hut; however, the place where I can see the presence of Thay most vividly is perhaps in the hearts of my elder brothers and sisters. If someone said that “Thay is conservative, always wanting to preserve the essence and beauty of Buddhism,” I would agree. At the same time, if someone said that “Thay likes to experiment, always willing to try something new,” I would also not hesitate to agree.
 
 Each disciple interacted with Thay at different times and stages of Thay’s life, not to mention Thay’s forms, feelings, perceptions, mental formations, and consciousness also continually changed like everything else in the flow of life. I think no one could confidently assert that they had 100% understood Thay, because Thay was an ever-changing manifestation that could not be grasped. Perhaps, the thing that we preserve is the image of Thay in our consciousness. It is neither real nor unreal.
