@@ -1,5 +1,5 @@
 ﻿---
-title: Love Is the Answer
+title: Love is the Answer
 author: An Interview with Thay
 ---
 
