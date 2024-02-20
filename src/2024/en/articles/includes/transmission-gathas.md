@@ -83,7 +83,7 @@ In 2023, the sangha happily welcomed 27 new Dharma teachers, both lay and monast
 > > Từ bi chiếu rạng khắp cùng thế gian.
 
 > **Sister Thích nữ Chân Nhẫn Nghiêm**  
-> *(Lay name: Nguyễn Thị Bích Lê; Tâm Nguyên Tịnh)*  
+> *(Nguyễn Thị Bích Lê; Tâm Nguyên Tịnh)*  
 > > Chân tâm một nẻo đi về  
 > > Hành trang ẩn **nhẫn** xá hề gian truân   
 > > **Nghiêm** phong hoạt thái chuyên cần  
@@ -204,13 +204,13 @@ In 2023, the sangha happily welcomed 27 new Dharma teachers, both lay and monast
 
 
 > **Sister Thích nữ Chân Trăng Lý Tưởng**  
-> *(Lay name: Châu Thị Thu Sương; Tâm Tuệ Như)*
+> *(Châu Thị Thu Sương; Tâm Tuệ Như)*
 > > Hé nụ cười chân thật, tuyệt vời  
 > > **Trăng** sao chiếu sáng khắp muôn nơi  
 > > Long lanh ánh mắt ngời **lý tưởng**  
 > > Sưởi ấm tình người giữa trùng khơi
 
-## Transmission gathas from Mountain Spring Monastery *(11.4.2023, Bringelly, Australia)*
+## Transmission gathas from Mountain Spring Monastery *(11 April 2023, Bringelly, Australia)*
 
 > **Brother Thích Chân Trời Bình Minh**  
 > *(Trương Văn Sen; Tâm Đức Lượng)*
