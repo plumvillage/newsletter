@@ -1,5 +1,5 @@
 ﻿---
-title: My Path To Wake Up Schools
+title: My Path to Wake Up Schools
 author: Joost Vriens
 ---
 
