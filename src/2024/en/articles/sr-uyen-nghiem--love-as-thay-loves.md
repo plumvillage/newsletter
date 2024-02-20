@@ -1,5 +1,5 @@
 ---
-title: Love As Thay Loves
+title: Love as Thay Loves
 author: Sister Chân Uyển Nghiêm
 ---
 
