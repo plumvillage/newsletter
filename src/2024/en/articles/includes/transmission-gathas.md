@@ -14,7 +14,7 @@
 
 In 2023, the sangha happily welcomed 27 new Dharma teachers, both lay and monastic students of Thay. Below are their transmission gathas:
 
-## Transmission gathas in the Trung Quang Great Precept Transmission Ceremony<br/>*(10 – 14 Feb 2023, in Thai Plum Village)*
+## Transmission gathas in the Trung Quang Great Precept Transmission Ceremony<br/>*(10 – 14 February 2023, in Thai Plum Village)*
 
 > **Brother Thích Chân Phương Cần**  
 > *(Lay name: Nguyễn Xuân Lộc)  
