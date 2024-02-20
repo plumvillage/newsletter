@@ -3,13 +3,13 @@ title: My Path to Wake Up Schools
 author: Joost Vriens
 ---
 
+{% image "article2024/joost/Image 19-02-24 at 21.56_e.jpg", "removeTopMargin" %}
+
 <p class="editors-preface">Joost Vriens (Dharma name is Attentive Mountain of the Heart)  lives in Eindhoven, Netherlands, and is a father of two grown up children and takes care of his mother. He was a teacher at a secondary vocational school for 40 years. He supports Wake Up Schools and is a co-founder of a Dutch online Education Sangha. He also writes a weekly blog for the NIVOZ about the connection between mindfulness and being a teacher.</p>
 
 ## When reality hits
 
 When I took my first steps into the classroom in 1982, I was a 22-year-old teacher of religion, idealistic, full of expectations and driven. But the reality was not heaven, but a learning environment. The school system I stepped into was in essence a delivery system. I talk, you listen. I know, you accept. There was such a strong conditioning that the students, even as adults or adolescents, were afraid to share, give, or express themselves.
-
-{% image "article2024/joost/Image 19-02-24 at 21.56_e.jpg" %}
 
 My school was a vocational secondary school with students aged 17-23. They were going to work with disabled people, in childcare, youth care or education. It is a very transformational period, because they have to learn how to apply their knowledge, to grow from knowing to being. They are faced with an important question, “What kind of professional helper of others do I want to become?” So it is a very personal journey.
 
@@ -31,10 +31,10 @@ During that period, there was an even stronger bell of mindfulness. Sjef became 
 
 I joined a small Plum Village Sangha in Eindhoven. I looked at the facilitators and I noticed that they chose themes from the practice of Plum Village that they themselves were working with. To teach is also to work on yourself. Then I had enough courage to step forward and became a facilitator myself. That was a form of coming home to myself. After a while, I noticed that I became freer and  more grounded in my work as a teacher/coach. During those sangha meetings I found my own voice. The lesson I learnt was *‘In the sharing is the learning.’*
 
+As I deepened my practice in the sangha, I noticed that if I was not open and vulnerable during Dharma sharing, the Dharma sharing was quiet and superficial. If I was open, accepted the pain and my not-knowing, the sharing was rich and deep. A similar understanding of the school system grew in me. The students could not be vulnerable because the teachers and the system were not. During that time I also started to see that my students were submerged in a mindset of ‘I am not good enough.’ I became curious about the internal processes of the students, how they were struggling with themselves, society, and the wounds they had. I then started to share my own growth process with them.
+
 {% image "article2024/joost/013_08202023.jpg" %}
 {% image "article2024/joost/014.jpg" %}
-
-As I deepened my practice in the sangha, I noticed that if I was not open and vulnerable during Dharma sharing, the Dharma sharing was quiet and superficial. If I was open, accepted the pain and my not-knowing, the sharing was rich and deep. A similar understanding of the school system grew in me. The students could not be vulnerable because the teachers and the system were not. During that time I also started to see that my students were submerged in a mindset of ‘I am not good enough.’ I became curious about the internal processes of the students, how they were struggling with themselves, society, and the wounds they had. I then started to share my own growth process with them.
 
 ## An inter-generational buddy system
 
@@ -73,3 +73,7 @@ When I was at the Educators’ retreat in Plum Village in August 2023, I was a p
 Exchange and connection are what the education field and the Wake Up Schools community need most at this moment. My wish is that when teachers come to a retreat, we help the teachers to arrive at their own insight. The retreat can be more than just coming to receive teachings and practices. To do this, we would need facilitators that are able to inspire and create a safe and open ground so that teachers can ask deep questions, express their needs, their experience, and come to their own insights into how they can help each other. We could start with deep listening sessions, energized by questions like: what kind of teacher do you want to become? We could also choose to focus on one challenging situation that one might face within the typical ‘education’ system. We would collectively identify and understand what is needed there to help the situation. This can be a practice in vulnerability (which is difficult at school) and in offering and accepting support from a colleague-practitioner. Then the next step in the retreat would be connecting these needs and insights with an applied mindfulness practice. We can also create a support system for each other that will continue outside of the retreat. This way, Sangha and practice become a  learning circle.
 
 The image that keeps coming up in me is the teahouse in Upper Hamlet, where many conversations happened during the program breaks. I saw the light of connection there, the space to talk about visions and systems (of different types) and then people shared about themselves. My question would be, how would one manifest that light of energy and wakefulness into space, words and forms?
+
+<div class="article-end"></div>
+
+{% image "article2024/joost/DSC05250_e.JPG" %}
