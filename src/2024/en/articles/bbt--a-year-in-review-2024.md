@@ -77,13 +77,13 @@ On 20 April, the International Buddhist Confederation launched the first Global 
 
 <!-- <div class="page-break"></div> -->
 
-## Thich Nhat Hanh Center for Mindfulness in Public Health opened in Harvard University
+## Thich Nhat Hanh Center for Mindfulness in Public Health opened at Harvard University
 
-On April 26, the Thich Nhat Hanh Center for Mindfulness in Public Health opened at Harvard University. The inauguration was attended by over 30 monastic delegates of the Plum Village International Community of Engaged Buddhism. The center was made possible by an anonymous donation of $25 million, one of the largest donations in the history of the university.
+On April 26, the Thich Nhat Hanh Center for Mindfulness in Public Health opened at Harvard University. The inauguration was attended by over 30 monastics of the Plum Village International Community of Engaged Buddhism. The center was made possible by an anonymous donation of $25 million, one of the largest donations in the history of the university.
 
 The mission of the center is to “pursue evidence-based approaches to improving health and wellbeing through mindfulness by undertaking rigorous, scientific inquiry; and provide mindfulness education and training for the Harvard community and beyond.” An interplay between academic research and public engagement at its heart’s core, the center endeavors to improve public health and inspire global action.
 
-Professor Lilian Cheung, director of Mindfulness Research and Practice in the Department of Nutrition of the Harvard T.H. Chan School of Public Health, met Thay in 1997 at a mindfulness retreat and later co-authored with Thay the book, called *Savor: Mindful Eating, Mindful Life*. Professor Cheung shared: “Over the years, I became deeply interested in learning how the practice of mindfulness could be applied to the discipline of public health, which seeks to prevent disease and promote well-being at population scale. That is exactly what this Center will do.”
+Dr. Lilian Cheung, director of Mindfulness Research and Practice in the Department of Nutrition of the Harvard T.H. Chan School of Public Health, met Thay in 1997 at a mindfulness retreat and later co-authored with Thay the book, called *Savor: Mindful Eating, Mindful Life*. Dr. Cheung shared: “Over the years, I became deeply interested in learning how the practice of mindfulness could be applied to the discipline of public health, which seeks to prevent disease and promote well-being at population scale. That is exactly what this Center will do.”
 
 {% image "article2024/Done-Review of the Year/TNH Center/52856213396_7da665de4e_o.jpg" %}
 
@@ -118,9 +118,9 @@ At Magnolia Grove Monastery, Sister Chan Khong joined the sangha for a retreat, 
 
 At Deer Park Monastery, the manifold Sangha welcomed the presence of Sister Chan Khong with a special Day of Mindfulness on Mother’s Day, 14 May, where the sangha transmitted the 14 Mindfulness Trainings to a new group of longtime practitioners; thus, welcoming them into the ever-growing international community of Order of Interbeing.
 
-Additionally, Sister Chan Khong also joined approximately 60 monastics in a unique full-day event, called Dāna Day of Mindfulness, on 21 May at the Mile Square Park in the city of Fountain Valley, California. The event was in English with Vietnamese translation for the nearly 600 people present, many of whom did not speak Vietnamese.
+Additionally, Sister Chan Khong also joined approximately 60 monastics in a unique event, called Dāna Day of Mindfulness, on 21 May at the Mile Square Park in the city of Fountain Valley, California. The event was in English with Vietnamese translation for the nearly 600 people present, many of whom did not speak Vietnamese.
 
-Everyone participated in the core practices of Plum Village, such as listening to the bell, awareness of breathing, walking meditation, and total relaxation. The program also included alms round for everyone to have a chance to get in touch with their seed of generosity. This was also an opportunity for the Deer Park monastics to fundraise for the expansion of the monk’s residence to accommodate the growing number of monks at the monastery.
+Everyone participated in the Plum Village core practices, such as listening to the bell, awareness of breathing, walking meditation, and total relaxation. The program also included alms round for everyone to have a chance to get in touch with their seed of generosity. This was also an opportunity for the Deer Park monastics to fundraise for the expansion of the monk’s residence to accommodate the growing number of monks at the monastery.
 
 The local newspaper, Viet Bao, commented that “the Day of Mindfulness by Deer Park Monastery has inspired great happiness not only for the people attending but also for the atmosphere, plants, and animals in the surroundings. A gaggle of geese at the nearby pond also honked as though greeting and welcoming the community. It has been a long time since Mile Square Park had a public event as peaceful as this.”
 
@@ -135,7 +135,7 @@ One of the most anticipated retreats at Plum Village is the cooking retreat host
 
 ## Business Retreat: No Mud, No Lotus<br/>*(26 May – 2 June 2023)*
 
-Concomitant with the cooking retreat at New Hamlet was the retreat for over 50 Vietnamese business people in Upper Hamlet with the theme, “No Mud, No Lotus.” These entrepreneurs experienced seven days of mindful living, learning how to slow down and be more present for themselves. In this peaceful and supportive atmosphere, the participants were encouraged to reflect on the value of life, as well as the driving forces of their lives and their businesses: Do you truly want to be #1 or do you want to be happy? Are you a victim of your own success? Is your business heading in a wholesome direction? The entrepreneurs also learned and practiced the art of loving speech and deep listening. Sister Chan Khong offered a session on Beginning Anew for reconciling communication in their families and workplaces. On the last day of the retreat, 20 people received the Five Mindfulness Trainings to help them continue to nourish their spiritual lives.
+Concomitant with the cooking retreat at New Hamlet was the retreat for over 50 Vietnamese business people in Upper Hamlet, themed *No Mud, No Lotus*. These entrepreneurs experienced seven days of mindful living, learning how to slow down and be more present for themselves. In this peaceful and supportive atmosphere, the participants were encouraged to reflect on the value of life, as well as the driving forces of their lives and their businesses: Do you truly want to be #1 or do you want to be happy? Are you a victim of your own success? Is your business heading in a wholesome direction? The entrepreneurs also learned and practiced the art of loving speech and deep listening. Sister Chan Khong offered a session on Beginning Anew for reconciling communication in their families and workplaces. On the last day of the retreat, 20 people received the Five Mindfulness Trainings to help them continue to nourish their spiritual lives.
 
 {% image "article2024/Done-Review of the Year/VietRetreat/DSC06951.JPG" %}
 {% image "article2024/Done-Review of the Year/VietRetreat/vietnamese retreat UH_2023_Nhỉ_87.jpg" %}
@@ -143,7 +143,7 @@ Concomitant with the cooking retreat at New Hamlet was the retreat for over 50 V
 
 <div class="page-break"></div>
 
-## Retreat for Young Asian Diaspora:<br/>“Coming Home to Our Roots”<br/>*(2 – 9 June 2023)*
+## Retreat for Young Asian Diaspora:<br/>Coming Home to Our Roots<br/>*(2 – 9 June 2023)*
 
 A first of its kind at Plum Village in Lower Hamlet, this retreat provided a space of reconnection to ancestral roots for many young Asians growing up and living in the West. These up-and-coming young individuals explored reflections by themselves and with each other: Where is our true home? Is it a particular place with particular people within a particular culture? What if we had to leave our “home”? Or grew up in a culture vastly different from that of our parents? Please <a href="#coming-home-to-our-roots">read the article, “Coming Home to Our Roots,”</a> in this newsletter written by three international Wake Up sangha core members to understand more about how it felt for them to get in touch with their ancestral roots.
 
@@ -151,7 +151,7 @@ A first of its kind at Plum Village in Lower Hamlet, this retreat provided a spa
 
 An expression of togetherness and solidarity across traditions and continents, the Earth Retreat was the first hybrid retreat offered at Plum Village with 700 retreatants joined in-person and 800 friends participated online from around the world. A co-creation of the international Earth Holder communities, the retreat was inspirational for countless people from different corners of the planet practicing together mindful living and sharing the aspiration to protect Mother Earth.
 
-One of the highlights of the retreat was the inter-spirituality summer solstice celebration where indigenous leaders from the Amazon, Mexico and Africa led the community in a deep, serene and joyous ceremony around a big bonfire under the bright stars in Upper Hamlet, rousing feelings of deep connection with all humans, Mother Earth and the cosmos.
+One of the highlights of the retreat was the inter-spirituality summer solstice celebration where indigenous leaders from the Amazon, Mexico and Africa led the community in a deep, serene and joyous ceremony around a big bonfire under the bright stars in Upper Hamlet, awakening feelings of deep connection with all humans, Mother Earth and the cosmos.
 
 {% image "article2024/Done-Review of the Year/Earth Retreat/IMG_7925_.jpg", "noFloat" %}
 {% image "article2024/Done-Review of the Year/Earth Retreat/IMG_7942_.jpg", "noFloat" %}
@@ -163,7 +163,7 @@ On 22 June, the French documentary film, “Respire, Souris, Vis” (Breathe, Sm
 
 ## Summer Retreat *(9 – 29 July 2023)*
 
-For three weeks, Plum Village received over 2,000 lay practitioners of which were 170 teens and 480 children for the annual Summer Retreat. The largest gathering of the year, this retreat has become a rendezvous for many parents and children to practice together, cultivating awareness, understanding and compassion. We are deeply grateful to all our spiritual friends, especially more than 120 volunteers, who helped make the Summer Opening possible.
+For three weeks, Plum Village received over 2,000 lay practitioners of which were 170 teens and 480 children for the annual Summer Retreat. The largest gathering of the year, this retreat has become a rendezvous for many parents and children to practice together, cultivating awareness, understanding and compassion. We are deeply grateful to all our spiritual friends, especially more than 120 volunteers, helped make the Summer Opening possible.
 
 {% image "article2024/Done-Review of the Year/Summer retreat/PV_2023_69.jpg", "noFloat" %}
 {% image "article2024/Done-Review of the Year/Summer retreat/ancestors-festival-deco.jpg", "noFloat" %}
@@ -175,9 +175,9 @@ For three weeks, Plum Village received over 2,000 lay practitioners of which wer
 {% image "article2024/Done-Review of the Year/Summer retreat/WhatsApp-Image-2023-07-31-at-14.51.31.jpeg", "noFloat" %}
 {% image "article2024/Done-Review of the Year/Summer retreat/WhatsApp-Image-2023-07-31-at-14.35.54.jpeg", "noFloat lmnqSummer" %}
 
-## Wake Up retreat: “Love in Action”<br/>*(4 – 11 August 2023)*
+## Wake Up retreat: Love in Action<br/>*(4 – 11 August 2023)*
 
-Over 600 young people aged 18 – 35, representing more than 30 regions, gathered for the Love in Action retreat. A friend from Spain shared: “The collective energy is astounding and very powerful. It touches my heart deeply to listen to both the retreatants as well as the monks, nuns and volunteers share their suffering so vulnerably. I can really see how alike we are in our experience of being human. How healing it is to come together like this and share our deepest fears, our grief, our aspirations and also our joy.” The retreat ended with more than 200 friends making the commitment to practice the Five Mindfulness Trainings – a compass to navigate an era that is at once immensely uncertain and filled with potential. As Thay had urged: “It is possible to reclaim our sovereignty from the systems of our creation.”
+Over 600 young people aged 18 – 35, representing more than 30 regions, gathered for the *Love in Action* retreat. A friend from Spain shared: “The collective energy is astounding and very powerful. It touches my heart deeply to listen to both the retreatants as well as the monks, nuns and volunteers share their suffering so vulnerably. I can really see how alike we are in our experience of being human. How healing it is to come together like this and share our deepest fears, our grief, our aspirations and also our joy.” The retreat ended with more than 200 friends making the commitment to practice the Five Mindfulness Trainings – a compass to navigate an era that is at once immensely uncertain and filled with potential. As Thay had urged: “It is possible to reclaim our sovereignty from the systems of our creation.”
 
 {% image "article2024/Done-Review of the Year/WakeUp/10-1.jpg", "noFloat lmnqWakeUp" %}
 {% image "article2024/Done-Review of the Year/WakeUp/DSC05858_sel_e.JPG", "noFloat lmnqWakeUp" %}
@@ -191,11 +191,11 @@ Over 600 young people aged 18 – 35, representing more than 30 regions, gathere
 
 ## Plum Village at the 2023 Parliament of the World’s Religions *(14 – 18 August 2023)*
 
-In August 2023, Sister Luc Nghiem from Plum Village, France, and Sister Tri Nghiem from Magnolia Grove Monastery in Mississippi, US, were invited to take part in the 9<sup>th</sup> International Meeting of the Parliament of the World’s Religions which took place in Chicago, USA. The conference was attended by over 8,200 delegates from more than 95 countries. To learn more about the event, please <a href="#plum-village-goes-to-the-2023-parliament-of-the-worlds-religions">read Sister Tri Nghiem’s article</a> in this issue of the newsletter.
+In August 2023, Sister Luc Nghiem from Plum Village, France, and Sister Tri Nghiem from Magnolia Grove Monastery in Mississippi, USA, were invited to take part in the 9<sup>th</sup> International Meeting of the Parliament of the World’s Religions which took place in Chicago, USA. The conference was attended by over 8,200 delegates from more than 95 countries. To learn more about the event, please <a href="#plum-village-goes-to-the-2023-parliament-of-the-worlds-religions">read Sister Tri Nghiem’s article</a> in this issue of the newsletter.
 
 ## Educators’ Retreat *(18 – 25 August 2023)*
 
-Amid the sweet fragrance of ripening plums, over 300 educators from Europe and afar gathered in late August to rest, renew, and connect within and with each other. Apart from the Dharma talks offered by Sr. Dinh Nghiem, Br. Phap Ly and Sr. Chan Duc, there was also a panel of teachers sharing about the three pillars of Wake Up Schools, sangha-building and the importance of beginning with the teachers themselves. Joost Vriens, one of the four panelists, wrote <a href="#my-path-to-wake-up-schools">an inspiring article</a> in this issue of the newsletter on his journey with Wake Up Schools and his experience in this retreat.
+Amid the sweet fragrance of ripening plums, over 300 educators from Europe and afar gathered in late August to rest, renew, and connect within and with each other. Apart from the Dharma talks offered by Sr. Dinh Nghiem, Br. Phap Ly and Sr. Chan Duc, there was also a panel of teachers sharing about the three pillars of Wake Up Schools, sangha-building and the importance of beginning with the teachers themselves. Joost Vriens, one of the four panelists, wrote <a href="#my-path-to-wake-up-schools">an inspiring article</a> in this issue of the newsletter about his journey with Wake Up Schools and his experience in this retreat.
 
 At the end of the retreat, a number of lay friends stayed back to help the brothers and sisters harvest the plums for drying and making jam, a specialty everyone can enjoy at breakfast when staying at Plum Village.
 
@@ -210,9 +210,9 @@ At the end of the retreat, a number of lay friends stayed back to help the broth
 {% image "article2024/Done-Review of the Year/Educators retreat/062_08242023.jpg", "noFloat lmnqEducators" %}
 {% image "article2024/Done-Review of the Year/Educators retreat/068_08242023.jpg", "noFloat lmnqEducators" %}
 
-## Happy Farm Retreats: Coming Home to Mother Earth<br/>*(5 – 19 May 2023; and 15 – 29 September 2023)*
+## Happy Farm Retreats: Coming Home to Mother Earth<br/>*(5 – 19 May 2023 and 15 – 29 September 2023)*
 
-Since 2022, the Upper Hamlet brothers together with friends from Happy Farm have offered two-week immersive retreats designed to bring the participants intimately in-contact with nature. The retreat was offered twice this year.
+Since 2022, the Upper Hamlet brothers together with friends from Happy Farm have offered two-week immersive retreats designed to bring the participants intimately in contact with nature. The retreat was offered twice this year.
 
 <p class="noIndent">Here is a reflection from a retreatant:</p>
 
