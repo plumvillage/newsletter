@@ -39,7 +39,10 @@ let firstRun = true
 async function imageShortcode(src, optClasses = "", imgLabel = "") {
     let result = await imageData(src)
     
-    let html = `<figure id="${result.autoId}" class="${optClasses}"><img src="${result.srcAttribute}" decoding="async">${imgLabel != "" ? `<figcaption>${imgLabel}</figcaption>` : ""}</figure>`
+    // Previous. Changed in order to crop images with overflow hidden. Needed to add another container to allow figcaption to stay visible
+    // let html = `<figure id="${result.autoId}" class="${optClasses}"><img src="${result.srcAttribute}" decoding="async">${imgLabel != "" ? `<figcaption>${imgLabel}</figcaption>` : ""}</figure>`
+
+    let html = `<figure id="${result.autoId}" class="${optClasses}"><div><img src="${result.srcAttribute}" decoding="async"></div>${imgLabel != "" ? `<figcaption>${imgLabel}</figcaption>` : ""}</figure>`
     
     // img loading="lazy" is buggy! stops chrome from running pagedjs
     return html
@@ -62,6 +65,8 @@ async function imageData(src) {
     let quality = 60
     // let maxWidth = 1500
     // let quality = 60
+    // let maxWidth = 5000
+    // let quality = 96
     // let maxWidth = 4000
     // let quality = 96
     

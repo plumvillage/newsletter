@@ -84,38 +84,25 @@ You have said that, “Time is stilled in eternity, where love and the beloved a
 <p style="column-span: all; margin-top: 8pt; padding-bottom: 3mm;">On January 29, more than 400 monastics from all Plum Village centers, alongside venerable monks and nuns of Hue and lay practitioners from over 30 countries gathered in Tu Hieu Root Temple to honor Thay. This grand memorial ceremony recognized Thay as the Fifth Patriarch of Tu Hieu and the founder of the Plum Village tradition.<span class="last-article-element"></span></p>
 
 
-<!-- I changed the flow here. It goes left to right, then down, not in columns. -->
-<!-- I added empty characters (invisible) so that the figures all take up the same amount of space an arrange beautifully -->
-<div class="hueMemorialEN">
+{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/Le dai tuong 1 copy.jpg", "noFloat hueMemorialEN removeTopMargin" %}
+{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/VN 24_Lễ Đại Tường_015.jpg", "noFloat hueMemorialEN", "Ceremony to purify the Deep Listening Hut" %}
+{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/_DSC6672.jpg", "noFloat hueMemorialEN" %}
+{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/Le dai tuong 15 copy.jpg", "noFloat hueMemorialEN" %}
 
-{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/Le dai tuong 1 copy.jpg", "noFloat", "‎" %}
-{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/Le dai tuong 4 copy.jpg", "noFloat", "‎" %}
-
-{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/VN 24_Lễ Đại Tường_015.jpg", "noFloat", "Ceremony to purify the Deep Listening Hut" %}
-{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/VN 24_Lễ Đại Tường_014.jpg", "noFloat", "‎" %}
-
-{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/_DSC6672.jpg", "noFloat", "‎" %}
-{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/VN 24_Lễ Đại Tường_019.jpg", "noFloat", "‎" %}
-
-{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/Le dai tuong 15 copy.jpg", "noFloat" %}
-{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/_DSC6713.jpg", "noFloat" %}
-</div>
+{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/Le dai tuong 4 copy.jpg", "noFloat hueMemorialEN" %}
+{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/VN 24_Lễ Đại Tường_014.jpg", "noFloat hueMemorialEN" %}
+{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/VN 24_Lễ Đại Tường_019.jpg", "noFloat hueMemorialEN" %}
+{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/_DSC6713.jpg", "noFloat hueMemorialEN" %}
 
 <div class="page-break"></div>
 
-<div class="hueMemorialEN">
-{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/Le dai tuong 19.jpg", "noFloat p2", "‎" %}
-{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/Le dai tuong 30.1.jpg", "noFloat p2", "‎" %}
+{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/Le dai tuong 19.jpg", "noFloat hueMemorialEN p2" %}
+{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/VN 24_Lễ Đại Tường_023.jpg", "noFloat hueMemorialEN p2", "Inviting Thay’s relics to the Deep Listening Hut" %}
+{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/_DSC7059.jpg", "noFloat hueMemorialEN p2", "Br. Phap An leading the procession to the Ancestral Hall" %}
+{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/_DSC7084.jpg", "noFloat hueMemorialEN p2", "Br. Phap Hai carrying Thay’s Sanghati; Br. Phap Luu carrying Thay’s Alms Bowl" %}
+{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/May trang thong dong 38.jpg", "noFloat hueMemorialEN p2 p2end", "Visiting Thay’s Memorial Monument at the Eternal Park, Hue" %}
 
-{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/VN 24_Lễ Đại Tường_023.jpg", "noFloat p2", "Inviting Thay’s relics to the Deep Listening Hut" %}
-{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/VN 24_Lễ Đại Tường_24.jpg", "noFloat p2", "‎" %}
-
-{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/_DSC7059.jpg", "noFloat p2", "Br. Phap An leading the procession to the Ancestral Hall", "‎" %}
-{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/Le dai tuong 16.jpg", "noFloat p2", "‎" %}
-
-{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/_DSC7084.jpg", "noFloat p2", "Br. Phap Hai carrying Thay’s Sanghati; Br. Phap Luu carrying Thay’s Alms Bowl" %}
-{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/DSC7134.jpeg", "noFloat p2", "Asking permission of ancestral teachers to allow Thay to rest alongside them in the Ancestral Hall" %}
-
-
-{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/May trang thong dong 38.jpg", "noFloat p2 p2end", "Visiting Thay’s Memorial Monument at the Eternal Park, Hue" %}
-</div>
+{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/Le dai tuong 30.1.jpg", "noFloat hueMemorialEN p2" %}
+{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/VN 24_Lễ Đại Tường_24.jpg", "noFloat hueMemorialEN p2" %}
+{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/Le dai tuong 16.jpg", "noFloat hueMemorialEN p2" %}
+{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/DSC7134.jpeg", "noFloat hueMemorialEN p2", "Asking permission of ancestral teachers to allow Thay to rest alongside them in the Ancestral Hall" %}

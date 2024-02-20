@@ -26,6 +26,14 @@ body {
 figure {
     margin: 0;
 }
+figure > div {
+    width: 100%;
+    height: 100%;
+}
+article figure > div {
+    /* allows me to crop */
+    overflow: hidden;
+}
 
 .pagedjs_sheet {
     overflow: hidden;
@@ -1282,24 +1290,18 @@ figure#article2024Done-Memorial-Ceremony67SuOng2ndYearMemorial220124crop {
 
 figure#article2024ScannedDrawings0705-Ky-to-dje-nhie {
     width: 119.5%;
-    left: -11%;
-    margin-top: 0em;
-}
-figure#article2024ScannedDrawings0705-Ky-to-dje-nhie img {
-    object-fit: cover;
+    right: 10mm;
+    top: 39mm;
     height: 172mm;
-    margin-top: 39mm;
 }
 figure#article2024Done-Br-Phap-LuuDSC02105e {
     width: 96%;
     margin-bottom: 0em;
 }
-figure#article2024Done-Br-Phap-LuuDSC02105e img {
-    object-fit: cover;
+figure#article2024Done-Br-Phap-LuuDSC02105e {
     height: 91mm;
 }
-figure.memorialEN img {
-    object-fit: cover;
+figure.memorialEN {
     height: 51mm;
 }
 figure#article2024Done-Memorial-CeremonyHueBefore-the-CeremonyDSC5565 {
@@ -1329,8 +1331,7 @@ figure#article2024Done-Review-of-the-YearNovice-ordinationChuong-vang-family-2 {
     width: 100%;
     margin-bottom: 0;
 }
-figure#article2024Done-Review-of-the-YearNovice-ordinationChuong-vang-family-2 img {
-    object-fit: cover;
+figure#article2024Done-Review-of-the-YearNovice-ordinationChuong-vang-family-2 {
     height: 68mm;
 }
 /* crop top (sky) away */
@@ -1341,21 +1342,12 @@ html:lang(en) figure#article2024Done-sr-thuan-nghiemIMG-0378 img {
     object-position: center bottom;
 }
 
-figure#article2024sr-dao-nghiemcup-of-teae img {
-    width: 61%;
+figure#article2024sr-dao-nghiemcup-of-teae {
+    width: 139mm;
+    height: 93mm;
     margin-bottom: 0;
 }
-figure#article2024sr-dao-nghiemcup-of-teae img {
-    object-fit: cover;
-    height: 92mm;
-    width: 141mm;
-    object-position: center bottom;
-}
 
-html:lang(en) figure#article2024Done-Sr-Hien-HanhSr-Hien-Hanh-2e img {
-    object-fit: cover;
-    height: 55mm;
-}
 html:lang(en) figure#article2024Done-Sr-Hien-HanhSr-Hien-Hanh-2e {
     float: none !important
 }
@@ -1374,6 +1366,69 @@ figure#article2024br-dinh-thanhTransforming-Resentment-Br-Dinh-Thanh {
 
 
 
+html:lang(en) figure#article2024Done-Sr-Hien-HanhSr-Hien-Hanh-2e {
+    height: 55mm;
+}
+
+
+/* Previously, we cropped photos using object-fit: cover; However, Chrome's PDF renderes converts those images to PNGs (from JPG), leading to gigantic files, and also full memory, crashing Puppeteer. Therefore, I use instead a parent-div that has overflow: hidden, and a oversize-centered child img inside. Note that I need the figcaption to keep overflow visible, thus the need for the extra div. */
+/* https://github.com/puppeteer/puppeteer/issues/458 */
+/* https://stackoverflow.com/questions/38327827/how-to-center-a-child-element-in-css-even-if-it-is-larger-than-the-parent */
+
+/* before: */
+/* html:lang(en) figure#article2024Done-Sr-Hien-HanhSr-Hien-Hanh-2e img {
+    object-fit: cover;
+    height: 55mm;
+} */
+
+.hueMemorial figure img,
+.hueMemorialEN img,
+figure.lmnq1 img,
+figure.lmnq3 img,
+figure.lmnq4 img,
+figure.lmnq6 img,
+figure.lmnq7 img,
+html:lang(en) figure.lmnq7 img,
+figure.lmnqSummer img,
+figure.lmnqWakeUp img,
+figure.lmnqWakeUpSlim img,
+figure.lmnqEducators img,
+figure.lmnqHFarm img,
+figure.lmnqHFarmFirst img,
+figure.lmnqRainsSCCK img,
+html:lang(en) figure.lmnqRainsSCCK img,
+figure.lmnqHFarmBig img,
+figure.lampT img,
+figure.lmnqNovices img,
+figure.lmnqLampSymbolic img,
+figure#article2024Done-Review-of-the-YearNovice-ordinationChuong-vang-family-2 img,
+figure#article2024Done-Review-of-the-YearMonastic-on-Tour9ee37f7c-830f-4a3f-ae2d-bca7bdf6943a img,
+figure#article2024ScannedDrawings0705-Ky-to-dje-nhie img,
+figure.memorialEN img,
+figure#article2024Done-Br-Phap-LuuDSC02105e img,
+figure#article2024sr-dao-nghiemcup-of-teae img,
+html:lang(en) figure#article2024Done-Sr-Hien-HanhSr-Hien-Hanh-2e img,
+figure.myImgTest img
+{
+    max-height: none !important;
+    position: relative;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+figure#article2024sr-dao-nghiemcup-of-teae img {
+    top: 43%;
+}
+
+
+figure.myImgTest {
+    column-span: all;
+    float: none;
+    width: 100mm;
+    height: 40mm;
+    background-color: red;
+}
 
 
 
@@ -1382,6 +1437,7 @@ figure#article2024br-duc-hienIMG0754e {
     padding-left: 10%;
     padding-right: 10%;
 }
+figure.lmnqLampSymbolic,
 figure#article2024Done-Sr-Bo-DeDSC7412,
 figure#article2024Done-Sr-Tam-DucCooking-retreat-2023-8e,
 figure#article2024Done-Sr-Tam-DucPV202345e,
@@ -1496,122 +1552,102 @@ html:lang(en) figure#article2024Done-Br-Minh-HyMG9118 {
     line-height: 130%;
 }
 
-.hueMemorial figure img {
-    object-fit: cover;
+.hueMemorial figure {
     height: 51mm;
 }
-
-.hueMemorialEN {
-    column-span: all;
-}
-.hueMemorialEN figure {
-    display: inline-block;
+figure.hueMemorialEN {
     width: 85mm;
-    /* height: 57mm; */
+    height: 55.5mm;
     margin-bottom: 0em;
-    margin-top: 6pt;
+    margin-top: 6mm;
 }
-.hueMemorialEN figure.p2end {
-    width: 100%;
+figure.hueMemorialEN.p2 {
+    height: 48.5mm;
 }
-.hueMemorialEN figure:nth-child(2n+1) {
-    margin-right: 5mm;
-}
-.hueMemorialEN figure img {
-    object-fit: cover;
-    height: 54mm;
-}
-.hueMemorialEN figure.p2 img {
-    height: 46.5mm;
+/* normally I would use column-span: all, but for some reason, it does not break the previous images correctly */
+figure.hueMemorialEN.p2end {
+    /* column-span: all; */
+    width: 175.5mm;
+    max-width: none;
+    margin-top: 10mm;
 }
 
 
-figure.lmnq1 img {
-    object-fit: cover;
-    height: 59mm;
-}
 figure.lmnq1top {
     padding-top: 13mm;
 }
-figure.lmnq3 img {
-    object-fit: cover;
+
+figure.lmnq1 {
+    height: 59mm;
+}
+figure.lmnq3 {
     height: 48mm;
 }
-figure.lmnq4 img {
-    object-fit: cover;
+figure.lmnq4 {
     height: 47mm;
 }
-figure.lmnq6 img {
-    object-fit: cover;
+figure.lmnq6 {
     height: 56mm;
 }
-figure.lmnq7 img {
-    object-fit: cover;
+figure.lmnq7 {
     height: 66mm;
 }
-html:lang(en) figure.lmnq7 img {
-    object-fit: cover;
+html:lang(en) figure.lmnq7 {
     height: 63mm;
 }
-figure.lmnqSummer img {
-    object-fit: cover;
+figure.lmnqSummer {
     height: 88mm;
 }
-figure.lmnqWakeUp img {
-    object-fit: cover;
+figure.lmnqWakeUp {
     height: 54mm;
 }
-figure.lmnqWakeUpSlim img {
-    object-fit: cover;
+figure.lmnqWakeUpSlim {
     height: 34.7mm;
 }
-figure.lmnqEducators img {
-    object-fit: cover;
+figure.lmnqEducators {
     height: 51mm;
 }
-figure.lmnqHFarm img {
-    object-fit: cover;
+figure.lmnqHFarm {
     height: 47mm;
 }
-figure.lmnqHFarmFirst img {
-    object-fit: cover;
+figure.lmnqHFarmFirst {
     height: 87.8mm;
 }
-figure.lmnqRainsSCCK img {
-    object-fit: cover;
+figure.lmnqRainsSCCK {
     height: 80.58mm;
 }
-html:lang(en) figure.lmnqRainsSCCK img {
-    object-fit: cover;
+html:lang(en) figure.lmnqRainsSCCK {
     height: 95.4mm;
 }
-figure.lmnqHFarmBig img {
-    object-fit: cover;
+figure.lmnqHFarmBig {
     height: 78mm;
 }
-figure.lampT img {
-    object-fit: cover;
+figure.lampT {
     height: 50mm;
 }
-figure.lmnqNovices img {
-    object-fit: cover;
+figure.lmnqNovices {
     height: 47mm;
 }
 figure.lmnqLampSymbolic {
-    padding-left: 6%;
-    padding-right: 6%;
-}
-figure.lmnqLampSymbolic img {
-    object-fit: cover;
     height: 87mm;
 }
 figure.lmnq7,
 figure.lmnq4-2,
 figure.lmnq4 {
-    margin-top: 0.3em;
+    margin-top: 1.25em;
 }
 figure#article2024Done-Review-of-the-YearMonastic-on-Tour9ee37f7c-830f-4a3f-ae2d-bca7bdf6943a img {
-    object-fit: cover;
+    width: auto !important;
+    height: 100%;
+}
+
+
+figure#article2024Done-Review-of-the-YearMonastic-on-Tour20230423172317-Beste {
+    margin-top: 0em;
+}
+
+
+figure#article2024Done-Review-of-the-YearMonastic-on-Tour9ee37f7c-830f-4a3f-ae2d-bca7bdf6943a {
     height: 109mm;
 }
 
