@@ -8,13 +8,13 @@ author: Thầy Chân Trời Đức Định
 
 ## Duyên đã chín muồi
 
-Vài năm trước, trong một lần quý thầy, quý sư cô cùng đi bộ tại Thénac, một làng nhỏ nơi xóm Thượng, Làng Mai tọa lạc, mọi người tác ý là một ngày nào đó sẽ đến khất thực nơi nhà những bạn bè quen biết, cũng là các hàng xóm cư sĩ ở đây.
+Vài năm trước, trong một lần quý thầy, quý sư cô cùng đi bộ tại Thénac (Thệ Nhật), một làng nhỏ nơi xóm Thượng, Làng Mai tọa lạc, mọi người tác ý là một ngày nào đó sẽ đến khất thực nơi nhà những bạn bè quen biết, cũng là các hàng xóm cư sĩ ở đây.
 
 Vào đầu mùa an cư kết đông 2023 — 2024, tôi đề nghị ý tưởng này với quý thầy. Nếu được như thế, chúng tôi có thể kết thúc mùa an cư một cách rất ý nghĩa. Tôi khá ngạc nhiên khi thấy quý thầy chấp nhận đề nghị này một cách thật dễ dàng và vui vẻ. Không lâu sau đó, một ban tổ chức rất nhiệt tình gồm ba thầy và năm cư sĩ đã thành hình. Suốt thời gian tổ chức sự kiện này, chúng tôi đã gặp nhiều thuận duyên và rất ít khó khăn. Có vẻ như điều kiện đã chín muồi nên mọi việc diễn ra trôi chảy. Cá nhân tôi rất ngạc nhiên thấy một sự kiện liên quan tới nhiều người đến thế mà lại diễn ra một cách thật hòa điệu.
 
 ## Một cơ thể, một trái tim
 
-Sáng thứ bảy, 13.01.2024, hai nhóm xuất sĩ mang bình bát đi thiền hành tới Thénac, ngang qua những cánh đồng miền quê nước Pháp. Quang cảnh bên đường, từng hàng cây ngọn cỏ đều trắng tinh vì phủ đầy sương giá. Khi đến nhà của các bạn cư sĩ hàng xóm, sau khi được cúng dường, quý thầy tụng bài *Cát tường* để hộ niệm cho thí chủ, đoạn xá chào cảm ơn, rồi tiếp tục bước thiền hành.
+Sáng thứ bảy, 13.1.2024, hai nhóm xuất sĩ mang bình bát đi thiền hành tới Thénac, ngang qua những cánh đồng miền quê nước Pháp. Quang cảnh bên đường, từng hàng cây ngọn cỏ đều trắng tinh vì phủ đầy sương giá. Khi đến nhà của các bạn cư sĩ hàng xóm, sau khi được cúng dường, quý thầy tụng bài *Cát tường* để hộ niệm cho thí chủ, đoạn xá chào cảm ơn, rồi tiếp tục bước thiền hành.
 
 <div class="removeTopMarginInFollowingElem"></div>
 {% image "article2024/Done-Br.Đức Định/Rains retreat 23-24_16.jpg" %}
