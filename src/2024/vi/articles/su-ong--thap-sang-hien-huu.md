@@ -3,7 +3,7 @@ title: Thắp sáng hiện hữu
 author: Sư Ông Làng Mai
 ---
 
-<div class="editors-preface"><p>Đây là đoạn trích từ cuộc phỏng vấn do Jo Confino thực hiện với Thầy tại thất Da Cóc, Sơn Hạ vào năm 2012. Lúc ấy Jo là phóng viên của báo The Guardian, Vương quốc Anh. Bản ghi âm cuộc phỏng vấn đã bị thất lạc một thời gian và gần đây đã tìm lại được. Quý vị có thể nghe toàn bộ cuộc phỏng vấn trên Plum Village Podcast “The Way Out is In” số 41, phát thanh vào ngày 21 tháng 3 năm 2023.</p></div>
+<div class="editors-preface"><p>Đây là đoạn trích từ cuộc phỏng vấn do Jo Confino thực hiện với Thầy tại thất Da Cóc, Sơn Hạ vào năm 2012. Lúc ấy Jo là phóng viên của báo The Guardian, Vương quốc Anh. Bản ghi âm cuộc phỏng vấn đã bị thất lạc một thời gian và gần đây đã tìm lại được. Quý vị có thể nghe toàn bộ cuộc phỏng vấn bằng tiếng Anh trên Plum Village Podcast “The Way Out is In” số 41, phát thanh vào ngày 21 tháng 3 năm 2023.</p></div>
 
 {% image "article2024/Done-interview-with-thay/TNH - spain2014 (2).jpg" %}
 
