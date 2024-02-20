@@ -143,42 +143,42 @@ Trong năm 2023, tăng thân đã chào đón 27 vị giáo thọ mới, cả xu
 > > Một lên đường, sông núi chứng minh
 
 > **Sư cô Thích nữ Chân Trợ Nghiêm**  
-> *(Hoàng Thị Minh Nguyệt; Tâm Liên Du)*
+> *(Hoàng Thị Minh Nguyệt; Pháp danh: Tâm Liên Du)*
 > > Chân tâm vắng duyên **trợ**  
 > > **Nghiêm** từ chẳng đến đi  
 > > Như Lai bậc như thị  
 > > Chánh Niệm vượt thị phi
 
 > **Sư cô Thích nữ Chân Trăng Quê Hương**  
-> *(Nguyễn Thị Kim Thạnh; Tâm Nguyện Hòa)*
+> *(Nguyễn Thị Kim Thạnh; Pháp danh: Tâm Nguyện Hòa)*
 > > Chân **trăng** là **quê hương**  
 > > Chiếc lá vốn bản môn  
 > > Pháp nhiệm ấy con đường  
 > > Lắng nghe hiểu và thương
 
 > **Sư cô Thích nữ Chân Trăng Mới Lên**  
-> *(Yuliana Wijaya; Tâm Hướng Quang)*
+> *(Yuliana Wijaya; Pháp danh: Tâm Hướng Quang)*
 > > Out of darkness **the moon** has just **risen**  
 > > Its guiding light illuminates our steps.  
 > > In this pure land of mindfulness and joy  
 > > I offer my service to all beings.
 
 > **Sư Cô Thích nữ Chân Trăng Hoa Tiên**  
-> *(Nguyễn Thị Quế Trâm; Tâm Huệ Anh)*
+> *(Nguyễn Thị Quế Trâm; Pháp danh: Tâm Huệ Anh)*
 > > Gót sen thiền tập cùng **trăng**  
 > > **Hoa** tâm nở rộ thoát vòng thị phi  
 > > Dáng **tiên** hiện nét uy nghi  
 > > Lắng nghe nhẫn hạnh từ bi cứu đời
 
 > **Sư Cô Thích nữ Chân Trăng Thong Dong**  
-> *(Bùi Hồng Thu Quý; Tâm Diệu Vinh)*
+> *(Bùi Hồng Thu Quý; Pháp danh: Tâm Diệu Vinh)*
 > > **Trăng** xưa lập nguyện đại bi  
 > > Sao cho muôn loại tổng trì vô sanh  
 > > **Thong dong** cùng chúng đồng hành  
 > > Ân đền nghĩa đáp dạ thành khắc ghi
 
 > **Sư cô Thích nữ Chân Trăng Chí Thành**  
-> *(Lê Thị Tư; Tâm Hạnh Niệm)*
+> *(Lê Thị Tư; Pháp danh: Tâm Hạnh Niệm)*
 > > Vén mây **trăng** lộ diện  
 > > Tu tập dạ **chí thành**  
 > > Công phu không xao lãng  
@@ -208,7 +208,7 @@ Trong năm 2023, tăng thân đã chào đón 27 vị giáo thọ mới, cả xu
 ## Kệ truyền đăng ngày 11.4.2023 tại Bringelly, Úc *(do thầy Pháp Hải và sư cô Lương Nghiêm thay mặt tăng thân truyền đăng)*:
 
 > **Thầy Thích Chân Trời Bình Minh**  
-> *(Trương Văn Sen; Tâm Đức Lượng)*
+> *(Trương Văn Sen; Pháp danh: Tâm Đức Lượng)*
 > > Tâm tạo **trời bình minh**  
 > > Tỏa sáng khắp mười phương  
 > > Xuyên suốt qua ba cõi  
@@ -219,14 +219,14 @@ Trong năm 2023, tăng thân đã chào đón 27 vị giáo thọ mới, cả xu
 
 > **Chân Minh Hải**  
 > *(Daya Heather Jepsen;  
-> Peaceful Courage of the Heart)*
+> Pháp danh: Peaceful Courage of the Heart)*
 > > The **ocean** of **wisdom** is our ancient and true inheritance  
 > > The bright eyes of the Awakened One contemplate the nature of all things and see no coming and no going  
 > > On her path of return, she carries the peaceful light of the moon  
 > > As a gracious offering to each living being.
 
 > **Chân Hỷ Tạng**  
-> *(Faye Nhi Nguyen; Tâm Hướng Dương)*
+> *(Faye Nhi Nguyen; Pháp danh: Tâm Hướng Dương)*
 > > By seeing the nature of affinities planted since beginningless time  
 > > The authentic fruit of insight reveals itself as a **storehouse of joy**  
 > > Walking this ancient path suddenly we realize that there was never a time when we were not wonderful together  
