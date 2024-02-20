@@ -133,7 +133,7 @@ Trong năm 2023, tăng thân đã chào đón 27 vị giáo thọ mới, cả xu
 > > Đem tay tế độ bao người khổ  
 > > Sóng bước bên Ngài Quán Thế Âm.
 
-## Kệ truyền đăng trong khóa tu xuất sĩ "Vững một niềm tin" (15-23.02) tại, Làng Mai Pháp:
+## Kệ truyền đăng trong khóa tu xuất sĩ "Vững một niềm tin" (15-23.02) tại Làng Mai Pháp:
 
 > **Thầy Thích Chân Trời Nội Tâm**  
 > *(Thế danh: Phạm Văn Tài; Pháp danh: Tâm Phúc Lộc)*
