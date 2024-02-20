@@ -98,7 +98,7 @@ Trong năm 2023, tăng thân đã chào đón 27 vị giáo thọ mới, cả xu
 > > Cỡi gió về mây giữ an ban.
 
 > **Sư cô Thích nữ Chân Đế Nghiêm**  
-> *(Vũ Thị Minh Đức ; Pháp danh: Tâm Diệu Chuyên)*  
+> *(Vũ Thị Minh Đức; Pháp danh: Tâm Diệu Chuyên)*  
 > > Xuất lưu pháp bảo từ chân **đế**  
 > > Một dạ giữ **nghiêm** phép chỉ trì  
 > > Mỗi khi trời đất lên tiếng gọi  
