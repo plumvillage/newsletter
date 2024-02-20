@@ -1,5 +1,5 @@
 ﻿---
-title: A Spiritual Family Without Borders
+title: A Spiritual Family without Borders
 author: Brother Chân Trời Đức Hiền
 ---
 
