@@ -3,7 +3,7 @@ title: Sun-Bleached Brown Robes
 author: Brother Chân Pháp Ứng
 ---
 
-<p class="editors-preface">On 11 December 2023, the monastics of the Fish ordination family turned 30 years old. After 30 years, the number of “fish” has reduced to two-thirds, from six individuals down to four. Now, they are elder brothers and sisters of Plum Village. Brother Phap Ung is one of the remaining four “fish”, alongside Sister Thoai Nghiem, Sister Dinh Nghiem and Sister Tue Nghiem. On this occasion, the editorial team had a chance to drink tea with Brother Phap Ung at Thay’s hut in Upper Hamlet. This article was born from that exchange.</p>
+<p class="editors-preface">On 11 December 2023, the monastics of the Fish ordination family turned 30 years old. After 30 years, the number of “fish” has reduced to two-thirds, from six individuals down to four. Now, they are elder brothers and sisters of Plum Village. Brother Phap Ung is one of the remaining four “fish,” alongside Sister Thoai Nghiem, Sister Dinh Nghiem and Sister Tue Nghiem. On this occasion, the editorial team had a chance to drink tea with Brother Phap Ung at Thay’s hut in Upper Hamlet. This article was born from that exchange.</p>
 
 ## An ancient seed deep in the Earth just smiles
 
@@ -29,15 +29,15 @@ During the years serving and learning from Thay, I received many “Zen sticks.�
 
 ## Patience is the mark of true love
 
-It was not until 1996 that Upper Hamlet and New Hamlet had an abbot and abbess, respectively. Before that, each Hamlet only had a head of the sangha, service coordinator, etc. Perhaps Thay wanted to train me when I was just a novice and then a young bhikshu, because he nominated me into the council of elders, consisting of “venerables,” like Br. Giac Thanh, Br. Doji, Br. Sariputra and Br. Nguyen Hai. I don’t know how I was eventually “put” into the position as head of practice.
+It was not until 1996 that Upper Hamlet and New Hamlet had an abbot and abbess, respectively. Before that, each Hamlet only had a head of the sangha, service coordinator, etc. Perhaps Thay wanted to train me when I was just a novice and then a young bhikshu, because he nominated me into the council of elders, consisting of “venerables,” like Brother Giac Thanh, Brother Doji, Brother Sariputra and Brother Nguyen Hai. I don’t know how I was eventually “put” into the position as head of practice.
 
 One time, at the end of formal lunch, Thay said, “Let’s have Dharma sharing this afternoon!” Being head of the sangha, I “cleverly” said, “Dear Thay, let us look it over. Let us discuss it.” The whole sangha was startled, wondering “who was this audacious young monastic?” A lay friend sitting next to me, named Tinh Thuy, who later became Sister Quy Nghiem, whispered, “How could you?!”
 
 Later, I slowly got it. But at that time when I answered Thay, I didn’t understand what I had done wrong. I was taught that the bhikshu council was a democracy; so I applied it right away. When Thay heard my response, he didn’t say anything; he only breathed.
 
-Thinking about it now, I feel deep sympathy for Thay. Thay kept quiet about it for who knows how many years. He was very patient. Perhaps, Thay thought, this young one is slow and needs time to ripen somewhat before Thay can say anything.
+Thinking about it now, I feel deep sympathy for Thay. Thay kept quiet about it for who knows how many years. He was very patient. Perhaps, Thay thought, this young one was slow and needed time to ripen somewhat before Thay could say anything.
 
-Once, we were in the Sitting Still Hut of Upper Hamlet. Thay whispered into my ear, I think it was my left ear, “My child, Plum Village is a combination of two key factors: seniority and democracy.” That went straight to my heart. Yet I wondered why Thay said that, because I had already completely forgotten about the formal lunch incident. Then I remembered; there was a reason.
+Once, we were in the Sitting Still Hut of Upper Hamlet. Thay whispered into my ear, I think it was my left ear, “My child, Plum Village is a combination of two key factors: seniority and democracy.” That went straight to my heart. Yet, I wondered why Thay said that, because I had already completely forgotten about the formal lunch incident. Then I remembered; there was a reason.
 
 ## The life jacket
 
@@ -45,13 +45,13 @@ I have gone through many ups and downs in the past 30 years. During the low mome
 
 Upon reflection, I saw that the ups and downs I went through came from the ancestral wounds of my blood family, not from external conditions. Those wounds manifested through certain ways of thinking, confusions and doubts. I learned to accept and persevere in exploring how my mind worked. I knew that this path was worthwhile and in-line with my aspirations. Thanks to that faith, I had the strength to keep going. I continued to get up after falling down and took good care of my ancestral wounds. These wounds were so deep that they kept coming back in phases; they wouldn’t subside.
 
-I was lucky to learn that I didn’t have to wait until the wounds completely healed to be happy. I could be happy in the process of taking care of my wounds. I didn’t need to look for external conditions to find the way out, solace or healing. With my faith as a foundation, I practiced to take care, understand and accept the wounds. This faith helped me feel that I was not alone. My relationship with Thay, the sangha, and my blood and spiritual roots helped me stand firm through the storms. I applied what I learned to continue moving forward. On the one hand, I practiced nourishing joy; on the other, I practiced healing.
+I was lucky to learn that I didn’t have to wait until the wounds completely healed to be happy. I could be happy in the process of taking care of my wounds. I didn’t need to look for external conditions to find the way out, solace or healing. With my faith as a foundation, I practiced to take care, understand and accept the wounds. This faith helped me feel that I was not alone. My relationship with Thay, the sangha, and my blood and spiritual roots helped me stand firm through the storms. I applied what I learned to continue moving forward. On the one hand, I practiced nourishing joy; on the other hand, I practiced healing.
 
 When I became a monk, I also wanted to help ease the suffering of the world. However, even in the effort of helping our blood families, we need the help of the community. We cannot achieve much as a “lone warrior.” *One Buddha is not enough*.
 
 ## Presenting the insight gatha
 
-In the autumn of 1994, Thay taught the Discourse on Youth and Happiness. At the end of the Autumn Retreat, Thay suggested everyone write a song or poem to present their insight. Thay was even going to grade our insight poems. Out of nowhere, I was “gifted” a song! After singing it before Thay and the sangha, I went with Br. Phap Dang to a retreat in Germany. When I came back, I heard that Thay gave my song 7 out of 10 points.
+In the autumn of 1994, Thay taught the Discourse on Youth and Happiness. At the end of the Autumn Retreat, Thay suggested that everyone write a song or poem to present their insight. Thay was even going to grade our insight poems. Out of nowhere, I was “gifted” a song! After singing it before Thay and the sangha, I went with Brother Phap Dang to a retreat in Germany. When I came back, I heard that Thay gave my song 7 out of 10 points.
 
 <p class="pull-quote" style="font-size: 155%;">Sun-bleached brown robes,<br/>
 coming home to the Buddha,<br/>
@@ -80,9 +80,9 @@ All nourish the entire Village.</p></div> -->
 
 ## “Thay is behind you”
 
-While walking in the forest with Thay one day, he said “This is heaven, my child!” Arriving at a narrow path, Thay said “You go ahead.” But I didn’t dare. Thay said again, “Go on.” I had to obey. I could feel that Thay was sending me the message that he would always have my back. Thay also wrote a calligraphy “Thay is behind you.” (Thầy ở sau lưng con).
+While walking in the forest with Thay one day, he said “This is heaven, my child!” Arriving at a narrow path, Thay said “You go ahead.” But I didn’t dare. Thay said again, “Go on.” I had to obey. I could feel that Thay was sending me the message that he would always have my back. Thay also wrote a calligraphy “Thay is behind you” (Thầy ở sau lưng con).
 
-Many of my monastic siblings did not have the chance to meet Thay; but if they are lucky, they are somehow able to feel that Thay is always present to support them. Although Thay has passed away, his aspiration is still “May we never have the need to leave the Sangha body. May we never attempt to escape the suffering of the world, may we always being present wherever beings need our help.” (from the chant Protecting and Transforming).
+Many of my monastic siblings did not have the chance to meet Thay; but if they are lucky, they would somehow be able to feel that Thay is always present to support them. Although Thay has passed away, his aspiration is still “May we never have the need to leave the Sangha body. May we never attempt to escape the suffering of the world, may we always being present wherever beings need our help” (from the chant Protecting and Transforming).
 
 Thay’s practice is dwelling happily in the present moment. The present moment is eternal, transcending time and space. Being in touch with the present moment can greatly benefit us. *I have arrived, I am home.* It’s like we have returned to our roots. That is the inheritance, the insight that Thay wants us to have.
 
@@ -98,4 +98,4 @@ Thay is no longer in the familiar form to guide us directly; therefore, a founda
 
 Another important element is to do what we can so that everyone feels comfortable to be themselves living in the community. That is a very practical necessity. To be able to be oneself means that each person has time to develop, to understand the nature of things, to grow up, as well as to be supported and accepted. However, we also need to open our hearts to each other as the glue connecting this sangha of diverse cultures and traditions.
 
-In the gatha that Thay’s teacher (grandfather monk Thanh Quy) gave to him for his lamp transmission, there is the sentence “walking without dispersion and without strife” (hành đương vô niệm diệc vô tranh). “Without dispersion” is very important. Everyone has an idea of right and wrong. However, from a meta-ethical standpoint, we need to be “without dispersion”; that is, to accept the left and the right, the mud and the lotus. We need to develop and water the qualities that are beautiful, but at the same time we also need to accept the things that are not yet beautiful. We take care and embrace the things that are not yet beautiful. We need that essence in a sangha. We also need to practice “without strife” to take care of the three complexes (superiority, inferiority and equality) present in each of us. That is the hallmark of what we need to develop in order (for the sangha) to realize collective awakening: Thay’s dream.
+In the gatha that Thay’s teacher (grandfather monk Thanh Quy) gave to him for his Dharma lamp transmission, there is the sentence “walking without dispersion and without strife” (hành đương vô niệm diệc vô tranh). “Without dispersion” is very important. Everyone has an idea of right and wrong. However, from a meta-ethical standpoint, we need to be “without dispersion”; that is, to accept the left and the right, the mud and the lotus. We need to develop and water the qualities that are beautiful, but, at the same time, we also need to accept the things that are not yet beautiful. We take care and embrace the things that are not yet beautiful. We need that essence in a sangha. We also need to practice “without strife” to take care of the three complexes (superiority, inferiority and equality) present in each of us. That is the hallmark of what we need to develop in order (for the sangha) to realize collective awakening: Thay’s dream.
