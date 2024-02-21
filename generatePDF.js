@@ -272,6 +272,7 @@ var onFinshed = function(file, fileWithoutDate) {
     // ln target linkname
     execCMD(`ln -sf ${parsed.base} ${fileWithoutDate}`)
     
+    workQueue.push(() => downsample(file, fileWithoutDate, 200, "screen", continueWork))
     workQueue.push(() => downsample(file, fileWithoutDate, 250, "screen", continueWork))
     workQueue.push(() => downsample(file, fileWithoutDate, 300, "prepress", continueWork))
     workQueue.push(() => downsample(file, fileWithoutDate, 350, "screen", continueWork))
