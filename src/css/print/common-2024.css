@@ -872,10 +872,12 @@ p.pull-quote::before {
 /* ////////////////////////////////////////////////// */
 
 /* merge with succeeding poem/article */
+.article-my-path-to-wake-up-schools,
 .article-giai-toa-han-thu-khoi-suoi-yeu-thuong
 {
     break-after: unset !important;
 }
+
 
 
 /* Adjusting title and author */
@@ -1050,7 +1052,7 @@ figure#article2024Done-Daffodil-family137110723e,
 figure#article2024Done-Daffodil-familySrDieu-Hanhe,
 figure#article2024Done-Daffodil-familyBrNhat-Vane,
 figure#article2024Done-Daffodil-familyBrNhat-Nguyene,
-figure#article2024Done-Daffodil-familyBrNhat-Thanhe,
+figure#article2024Done-Daffodil-familyBrNhat-Thanh2e,
 figure#article2024Done-Daffodil-family211110723e,
 figure#article2024Done-Daffodil-familyBrNhat-Luonge2,
 figure#article2024Done-Daffodil-family05505Nov2023e,
@@ -1203,6 +1205,8 @@ html:lang(en) figure#article2024Done-BrPhap-UngBrPhap-Unge {
 
 
 /* column-span images */
+figure#article2024br-duc-hienChileIMG2160e,
+figure#article2024br-duc-hienArgentina20230401131012e,
 figure#article2024Done-Br-Phap-LuuIMG6621e,
 figure#article2024Sr-Tri-Nghiem000,
 figure#article2024Done-Sr-Bo-De4181814764144045512472292033593610773920883n,
@@ -1251,6 +1255,7 @@ figure#LTLM47-2024-cover-NH-TeensLTLM47-2024July2023sararemington0013editedcropp
     margin-bottom: 0em;
 }
 
+figure#article2024br-duc-hienChileIMG2160e,
 figure#article2024Sr-Tri-Nghiem000 {
     width: 90%;
     margin-bottom: 0em;
@@ -1266,6 +1271,8 @@ figure#article2024Done-Review-of-the-YearTNH-Center528562133967da665de4eo {
     /* margin-top: 2em; */
     margin-bottom: 0em;
 }
+
+figure#article2024br-duc-hienArgentina20230401131012e,
 figure#article2024Done-Br-Phap-LuuIMG6621e {
     width: 100%;
     /* margin-top: 2em; */
@@ -1420,6 +1427,7 @@ html:lang(en) figure#article2024Done-Sr-Hien-HanhSr-Hien-Hanh-2e {
     height: 55mm;
 } */
 
+figure.chileImg img,
 .hueMemorial img,
 .hueMemorialEN img,
 figure.lmnq1 img,
@@ -1469,14 +1477,21 @@ figure.myImgTest {
 }
 
 
-
-figure#article2024Sr-Tri-Nghiem002,
+figure#article2024br-duc-hienBrazilimage00295e {
+    width: 49%;
+    padding-right: 3%;
+}
 figure#article2024br-duc-hienIMG0754e {
+    width: 51%;
+}
+
+figure#article2024Sr-Tri-Nghiem002 {
     padding-left: 10%;
     padding-right: 10%;
 }
 
 
+figure#article2024br-duc-hienArgentinaIMG3434,
 figure#article2024Done-Resillence-Community-SpitualityIMG6811-2,
 figure.lmnqLampSymbolic,
 figure#article2024Done-Sr-Bo-DeDSC7412,
@@ -1612,6 +1627,10 @@ figure.hueMemorialEN.p2end {
     max-width: none;
     margin-top: 2mm;
     height: 55mm;
+}
+
+figure.chileImg {
+    height: 51mm;
 }
 
 

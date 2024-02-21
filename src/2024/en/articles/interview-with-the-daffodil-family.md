@@ -30,7 +30,7 @@ Before, I had never felt like having a clear path. I often acted out of fear and
 
 ***Newsletter Team:*** We remember you approached one of us, (enthusiastically) “I wanna become a monk, how do I do it.” And we said: “Ok, ok, arrive first.” (laughter)
 
-{% image "article2024/Done-Daffodil family/Br.Nhat Thanh_e.jpg" %}
+{% image "article2024/Done-Daffodil family/Br.Nhat Thanh_2_e.jpg" %}
 
 <div class="removeTopMarginInFollowingElem"></div>
 

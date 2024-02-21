@@ -11,6 +11,9 @@ One big question and Ko-an for me is: How can I and we have deep peace inside wh
 
 In recent years, the wish in my heart to help save the planet has manifested in very concrete and beautiful ways: Plum Village now offers the *Zen and the Art of Saving the Planet (ZASP)* online course and climate retreats on a regular basis (the next ZASP course will start in March 2024).
 
+{% image "article2024/Br-Duc-Niem/ZASP_1x1.jpg", "removeTopMargin" %}
+{% image "article2024/Br-Duc-Niem/sun1_e.jpeg", "removeTopMargin" %}
+
 In this article, I would like to share about my own experience in joining the ZASP course, explore how it has started, and how it has supported people and groups in the climate community. We will hear feedback from ZASP participants and will reflect on the role and contribution of Plum Village in the climate movement and what teachings have been effective in this area. To explore these questions, I interviewed Sister Hien Nghiem (True Dedication) and Jo Confino, who are quoted throughout this article.
 
 ## A New Way of Seeing
@@ -20,9 +23,6 @@ The scientists say it very clearly: We as humanity have only a few more years le
 > “It is my conviction that we cannot change the world if we are not capable of changing our way of thinking, our consciousness. That is why awakening, collective change in our way of thinking and seeing things, is very crucial. And that is why learning to change our way of daily living so that there is more mindfulness, more peace, more love is very urgent and we can do that now, today.”
 
 I got a better sense why changing our way of seeing things is so important in our pursuit of saving the planet. I also notice that we should be careful of thinking in terms of pursuing a goal *(even if the goal is to protect Mother Earth)*. In the welcome video, Sister Hien Nghiem reminds and invites us to approach this course with a spirit of aimlessness (letting go of results/expectations). Right from the beginning, the online retreatants are being exposed to what we sometimes call the deeper teachings of Buddhism. This makes the course very enriching for both long-term practitioners and those who are completely new to the practice. So the question that came up for me was about how this special new course actually manifested.
-
-<!-- force page break -->
-<div class="removeIndentInFollowingElem" style="height: 2em;"></div>
 
 **Q: How was the idea of the *Zen and the Art of Saving the Planet (ZASP)* online course born?**
 
@@ -41,6 +41,9 @@ Another thing I noticed was the high quality of the videos and short teachings b
 **Q: What insights did the curating team have while they were creating the ZASP course?**
 
 ***Sr. Hien Nghiem:*** *I think that our shared insight gave us the courage to offer deep Dharma right away. In the course, already in week two we go into the end of civilization and the Diamond Sutra and so on, because we had a lot of faith in people’s courage to touch the deeper Dharma. Thay was also committed to sharing the deepest teachings on no birth and no death in every retreat and I feel that it’s really important to continue that legacy to offer not simply mindfulness practice just to cope with strong feelings but the deep insights that help us transform the feelings.*
+
+{% image "article2024/Br-Duc-Niem/422002206_712251721012125_3240841367916563777_n_e.jpg", "removeTopMargin" %}
+{% image "article2024/Br-Duc-Niem/moon1e.jpeg", "removeTopMargin" %}
 
 ## Transformative Journey
 
@@ -68,6 +71,8 @@ In my Dharma sharing group of ZASP, the other participants have shared similar t
 
 *And now, Thay and Plum Village is coming along and offering balm to all those wounds and showing that actually the best way to be effective in the world is to slow down, and offering simple practical practices that allows people to embrace their suffering and to find a pathway through. In their rush and their panic to create change, they lose connection to their center and they feel strung out, literally strung out. So the first thing the retreat in Plum Village does is to allow them to spend time together and relax their bodies and minds to the point where they can start to have new insights. They realize how important it is to come back to a place of calm and centeredness, that actually that is where their power and energy lies. A lot of them talk about the importance of regeneration but they have not seen the value of regeneration for themselves. The other thing that Plum Village is doing is creating a sense of community in these practices. So when they’re going to meetings like the COP talks they are arranging times to sit in meditation, times for walking, and that it’s giving them new ways to see the world, new ways to act in the world, and new ways to find togetherness.*
 
+{% image "article2024/Br-Duc-Niem/133f Vulture Peak, India - 2008 - PHOTO Börje Tobiasson.jpg", "", "Vulture Peak, India, 2008, Photo Courtesy by Börje Tobiasson" %}
+
 <div class="removeIndentInFollowingElem" style="height: 1.1em;"></div>
 
 What Jo Confino is sharing resonates with me very much. When they came to the climate retreat at Plum Village, I also sensed that there is so much pressure and stress on the people in the climate community who are on the front line of saving the planet. For the young activists in particular, I feel a great deal of sympathy and admiration for their courage to speak truth to power and to not give up on helping the world to wake up. Seeing their pains and struggles touches my heart of compassion and I am very grateful that we as Plum Village have found concrete ways to support them and other changemakers with ZASP and the climate retreats.
@@ -93,3 +98,7 @@ I have attended two zoom sessions with a group of them while they were at COP. S
 ## Touching peace and acceptance
 
 I still keep the question and Ko-an in my heart about how can we have deep peace inside while not closing our eyes from and being overwhelmed by the suffering of the planet and its many crises. The engagement with the topic and ZASP help me see an answer that is slowly emerging: By taking care of my body, feelings and mind in this present moment, by being aware of the impermanent nature of myself and our civilization, and allowing the suffering in myself and in the world to be embraced by the love and compassion in my heart, I can touch peace and acceptance. Being in touch with the beauty of Mother Earth and hearing the birds still singing nourish my heart. However, if I do not act, I will experience what scientists call cognitive dissonance, a feeling of unease because there is a big gap between what we know and what we do – or as Thay says: *Insight needs to be followed by action.* So only when I am able to contribute something concretely to saving the planet – like by supporting the climate movement by offering the ZASP course or climate retreats – can I be fully at peace, because I know in my heart that we have done our part.
+
+<div class="article-end"></div>
+
+{% image "article2024/Br-Duc-Niem/PV_2023_59.jpg" %}

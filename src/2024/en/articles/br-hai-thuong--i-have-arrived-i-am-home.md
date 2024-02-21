@@ -5,7 +5,7 @@ author: Br. Chân Trời Hải Thượng (1990—2023)
 
 <div class="editors-preface"><p>Brother Chân Trời Hải Thượng was born in 1990 and passed away in 2023 at the age of 33. He was ordained as a novice at Plum Village Thailand in 2014 in the Red Oak family and received the Great Precepts to become a bhikshu in the great ordination ceremony, “I have arrived, I am home” in 2019. After several years of practice and service to the sangha in Thailand, he volunteered to move to the European Institute of Applied Buddhism (EIAB) in Germany to help continue Thay’s dream of building sanghas. It was here that Brother Troi Hai Thuong unexpectedly passed away on the morning of October, 2023.</p>
 
-{% image "article2024/Br Hai Thuong/ENG/012 copy.jpg" %}
+{% image "article2024/Br Hai Thuong/ENG/012 copy_e.jpg" %}
 
 <p>Although Brother Troi Hai Thuong no longer manifests in the physical form, we can still get in touch with him through his writings, reflections of a sensitive spirit that earnestly loves life.<br/>
 The following in a translated excerpt from the <i>Giếng Nước Thơm Trong</i> (Fragrant Well), Newsletter #2 from Plum Village Thailand.</p></div>
@@ -28,13 +28,15 @@ Tam Nguyen, who used to be a novice in a Buddhist traditional temple, explained 
 
 > “The Pure Land is already inherent in the true mind. Amitabha Buddha appears from our true nature, illuminating the three times (past, present, and future) in the ten directions; yet, it does not leave the present moment…”
 
-{% image "article2024/Br Hai Thuong/ENG/DSC_8009_e.jpg" %}
-
 I was happy to see how much Tam Nguyen had grown. He had become calmer, knowing how to come back to himself, and was an avid reader. As he grew up in a countryside temple that only practiced invoking the name of Amitabha Buddha, I was worried that he would have a difficult time adjusting to the Plum Village environment when I first introduced him to it. But now I could see that he was able to harmonize these two streams.
 
 ## Friday
 
-I left my room early to go to sitting meditation so that I could enjoy each step on the path to the echo of the Great Temple Bell still reverberating, accompanied by the chanting. Upon arriving at the meditation hall, I saw somebody already there practicing Touching the Earth. Today many elder brothers have gone out of the monastery, so I felt a little uncomfortable having to sit nearer to the altar during chantings. Being used to living in both a large and a small sangha, I treasured the atmosphere of a powerful chanting each morning calling forth the bright morning light. Each chanting session usually consisted of a chant and a sutra reading. At Plum Village, we are not required to memorize the sutras or precepts, however, they seep into our hearts through the repeated practice of sutra reading and chanting throughout the year. Phrases like “We vow to touch the Pure Land with every step, we promise at every contact, to be in touch with the ultimate dimension” may not require much time mulling over the books to understand partly because they are written in everyday language. If we use the Sino-Vietnamese version, then it would be no different from learning a foreign language because the pronunciation sounds familiar but the meaning is completely different…
+I left my room early to go to sitting meditation so that I could enjoy each step on the path to the echo of the Great Temple Bell still reverberating, accompanied by the chanting. Upon arriving at the meditation hall, I saw somebody already there practicing Touching the Earth. Today many elder brothers have gone out of the monastery, so I felt a little uncomfortable having to sit nearer to the altar during chantings. Being used to living in both a large and a small sangha, I treasured the atmosphere of a powerful chanting each morning calling forth the bright morning light. Each chanting session usually consisted of a chant and a sutra reading.
+
+At Plum Village, we are not required to memorize the sutras or precepts, however, they seep into our hearts through the repeated practice of sutra reading and chanting throughout the year. Phrases like “We vow to touch the Pure Land with every step, we promise at every contact, to be in touch with the ultimate dimension” may not require much time mulling over the books to understand partly because they are written in everyday language. If we use the Sino-Vietnamese version, then it would be no different from learning a foreign language because the pronunciation sounds familiar but the meaning is completely different…
+
+{% image "article2024/Br Hai Thuong/ENG/DSC_8009_e.jpg" %}
 
 This morning, there was only me in my room because all the novices had gone to their language classes. I turned a few pages of a previous edition of the Plum Village newsletter on Brother Tam Nguyen’s study desk to look at the photos. I was drawn by a commentary from Thay on a poem by Bàng Bá Lân. It was just the exact thing I had been looking for:
 
@@ -57,7 +59,7 @@ Wandering around, I coincidentally came across an article by Brother Minh Hy sha
 
 > “The first fruit of the Plum Village practice ‘I have arrived, I am home’ is a little different from the fruit of the traditional practice ‘Stream-enterer.’ With ‘Stream-enterer’ one still has to continue going, whereas with ‘I have arrived, I am home’ one no longer needs to search for anything more. ‘No need to search further (Người chẳng tìm cầu chi nữa)’ – this is a very good phrase; we need to write it down. It would be a pity if we lose it. Whoever has realized this fruit of the practice, looking at them we would know right away; no need for them to say anything.”
 
-The entire parallel verses were as follows:
+<p class="noIndent">The entire parallel verses were as follows:</p>
 
 > Tịnh độ nơi đây thích ý rong chơi người chẳng tìm cầu chi nữa.  
 > Bản môn bây giờ phỉ lòng an trú ta há theo đuổi gì thêm.

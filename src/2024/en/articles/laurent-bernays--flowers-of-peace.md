@@ -33,9 +33,13 @@ I thus listen to the chanting and the bell until the last sound, and to the slig
 
 I then move closer to the bell, wrapping my arms loosely around it like a tree, a few millimeters away, and allow the low harmonics to penetrate my skeleton, my cells, the pores of my skin, soothing me to deep peace. I continue by stepping onto the Earth and reciting the gatha I have composed for myself.
 
-<div class="verse"><p>“With each step,<br/>
+<!-- <div class="verse"><p>“With each step,<br/>
 I enter into deep listening<br/>
-to the song of the world.”</p></div>
+to the song of the world.”</p></div> -->
+
+<p class="pull-quote">With each step,<br/>
+I enter into deep listening<br/>
+to the song of the world.</p></p>
 
 Each step brings me into this song of the world, which changes in every moment, and has no beginning or end, and I can then return to my true home, attentive to all beings, be it the food processor in the kitchen, a bush full of birds, the chainsaw, the sound of flowing water, or a crowd. Everything becomes the voice of the Buddha, the sound of the rising tide, or sometimes even a sudden silence as after the Lion’s Roar.
 
