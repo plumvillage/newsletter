@@ -28,7 +28,7 @@ It’s still night<br/>
 In my heart<br/>
 Sadness</p>
 
-{% image "article2024/sr-dao-nghiem/cup of tea_e.jpg" %}
+{% image "article2024/sr-dao-nghiem/cup of tea_e2.jpg" %}
 
 When I ruminate on some thoughts or something that touches me and causes me discomfort, pain, journaling allows me to get “outside” of my head, helps my mind not to dwell on it and turn it over and over again. It helps me to process the joys and sorrows I experience, to learn valuable lessons from my experiences, and when I read what I wrote, months or weeks later, I can see the regular pattern of my mind, practice with it and thus understand my mind better. It is an outlet to release heavy emotions like anger, frustration, or sadness. Putting these feelings on paper frees me from having them linger in my mind.
 

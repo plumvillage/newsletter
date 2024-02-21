@@ -1215,7 +1215,7 @@ figure#article2024br-dinh-thanhTransforming-Resentment-Br-Dinh-Thanh,
 figure#article2024Done-Br-Phap-LuuIMG6801e,
 figure#article2024Done-Br-Phap-LuuDSC02105e,
 figure#article2024sr-tam-muoibelle-vue-ouestJPGe,
-figure#article2024sr-dao-nghiemcup-of-teae,
+figure#article2024sr-dao-nghiemcup-of-teae2,
 figure#article2024Done-Memorial-CeremonyHueBefore-the-CeremonyVN-24Day-18,
 figure#article2024Done-Review-of-the-YearNovice-ordinationChuong-vang-family-2,
 figure.zasp,
@@ -1388,9 +1388,9 @@ html:lang(en) figure#article2024Done-sr-thuan-nghiemIMG-0378 img {
     object-position: center bottom;
 }
 
-figure#article2024sr-dao-nghiemcup-of-teae {
-    width: 139mm;
-    height: 92mm;
+figure#article2024sr-dao-nghiemcup-of-teae2 {
+    width: 135mm;
+    /* height: 91mm; */
     margin-bottom: 0;
 }
 
@@ -1452,7 +1452,7 @@ figure#article2024Done-Review-of-the-YearMonastic-on-Tour9ee37f7c-830f-4a3f-ae2d
 figure#article2024ScannedDrawings0705-Ky-to-dje-nhie img,
 figure.memorialEN img,
 figure#article2024Done-Br-Phap-LuuDSC02105e img,
-figure#article2024sr-dao-nghiemcup-of-teae img,
+/* figure#article2024sr-dao-nghiemcup-of-teae img, */
 html:lang(en) figure#article2024Done-Sr-Hien-HanhSr-Hien-Hanh-2e img,
 figure.myImgTest img
 {
@@ -1463,9 +1463,9 @@ figure.myImgTest img
     transform: translate(-50%, -50%);
 }
 
-figure#article2024sr-dao-nghiemcup-of-teae img {
+/* figure#article2024sr-dao-nghiemcup-of-teae img {
     top: 43%;
-}
+} */
 
 
 figure.myImgTest {

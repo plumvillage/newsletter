@@ -4,11 +4,11 @@ author: Hà Vĩnh Thọ, Satish Kumar, Rehena Harilall
 ---
 
 <div class="editors-preface"><p>Trong khóa tu về chủ đề giữ gìn đất Mẹ (Earth retreat) vào tháng sáu năm 2023 tại Làng Mai, Pháp, sư cô Lăng Nghiêm đã có buổi trò chuyện với ba nhà hoạt động xã hội và môi trường là bác Satish Kumar, Giáo sư Hà Vĩnh Thọ và Rehena Harilall. Bài chia sẻ dưới đây được trích từ buổi trò chuyện này.</p>
-{% image "article2024/Done-Resillence, Community, Spituality/Satish Kumar_34.png" %}
+{% image "article2024/Done-Resillence, Community, Spituality/Satish Kumar_e.jpg" %}
 <p><b>Bác Satish Kumar</b> là người đồng sáng lập trường Cao đẳng Sinh thái Schumacher tại Devon, Vương quốc Anh. Năm 1962, ông đã thực hiện hành trình đi bộ cho hòa bình dài hơn 8.000 dặm trong hai năm rưỡi, từ New Delhi qua Moscow, Paris, London và Washington D.C. Ông là tác giả cuốn sách “Radical Love” (tạm dịch “Tình thương cấp tiến”) mới xuất bản.</p>
-{% image "article2024/Done-Resillence, Community, Spituality/Rehena_34.png" %}
+{% image "article2024/Done-Resillence, Community, Spituality/Rehena_e.jpg" %}
 <p><b>Rehena Harilall</b> là một vị Tiếp hiện của Làng Mai từ năm 2016. Cô là thành viên của tăng thân Trái tim London (The heart of London) và tăng thân Những sắc màu từ bi (Colors of compassion). Cô rất tích cực trong cả hai phong trào hoạt động vì công bằng chủng tộc và công bằng trong việc ứng phó với biến đổi khí hậu. Cô đã thành lập cộng đồng “Phật tử xuyên truyền thống” (“Buddhists Across Traditions”), một đoàn thể thực tập đạo Bụt do người da màu chủ đạo.</p>
-{% image "article2024/Done-Resillence, Community, Spituality/Ha Vinh Tho_34.png" %}
+{% image "article2024/Done-Resillence, Community, Spituality/Dr.Ha Vinh Tho_e.jpg" %}
 <p><b>Giáo sư Hà Vĩnh Thọ</b> (Chân Đại Tuệ) là một vị giáo thọ của Làng Mai, nhận truyền đăng năm 2001. Ông từng là giám đốc của Trung tâm Tổng chỉ số hạnh phúc quốc gia (GNH-Gross National Happiness) tại Bhutan và cũng là tác giả của tác phẩm “Văn hóa hạnh phúc” (A culture of happiness).</p>
 </div>
 
