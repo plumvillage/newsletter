@@ -3,7 +3,7 @@ title: Land of the Ancient Olive Trees
 author: Sister Chân Trăng Linh Dị
 ---
 
-*2023 October 11, Neve Shalom, Wahat Salam*
+*11 October 2023, Neve Shalom, Wahat Salam*
 
 <p class="noIndent">Dear respected Thay,<br/>It is your continuation day today.</p>
 
@@ -25,13 +25,13 @@ Our group of peace activists and sangha friends walked stably and calmly in the 
 
 We were humbled by the depth of their suffering and strength to persevere. The people of this land are of the same elements as the thousand-year-old olive trees that stand stoic on parched hills and continue to bear fruit.
 
- - “How do we hold the sorrow in our hearts when it feels unbearable?”
- - “How do we express our pain without hurting the ones listening?”
- - “How do I answer my child each night when she asks me if a peace treaty has been signed?”
+“How do we hold the sorrow in our hearts when it feels unbearable?”
+“How do we express our pain without hurting the ones listening?”
+“How do I answer my child each night when she asks me if a peace treaty has been signed?”
 
 We didn’t have answers, but we listened with all our compassion and held the space for each person to speak their heart. We brought “tools” from our life in Plum Village to soothe those aching hearts.
 
-There was the day we went to the Dheisheh refugee camp and met a group of young Palestinian women living there. Most of them had between four to nine children and they were exhausted from taking care of their families. I spread out yoga mats and invited them to lie down for deep relaxation. They giggled and hesitated. Fortunately, we had foreseen this awkward moment and had asked the brothers to not come that day. Nonchalantly, I lied down first to “demonstrate”. They eagerly followed. With continuous guidance and songs, they managed to stay calm and relaxed for half an hour, then sat up with beaming smiles and many thumbs up.
+There was the day we went to the Dheisheh refugee camp and met a group of young Palestinian women living there. Most of them had between four to nine children and they were exhausted from taking care of their families. I spread out yoga mats and invited them to lie down for deep relaxation. They giggled and hesitated. Fortunately, we had foreseen this awkward moment and had asked the brothers to not come that day. Nonchalantly, I lied down first to “demonstrate.” They eagerly followed. With continuous guidance and songs, they managed to stay calm and relaxed for half an hour, then sat up with beaming smiles and many thumbs up.
 
 We met many people from all backgrounds who understandably did not feel safe. One small moment left a strong impression on me. We were in Bethlehem. It was lunchtime and the sisters looked to buy simple falafel schwarmas (sandwiches). Two local boys of around 12 years old were nearby, holding newly bought schwarmas. I pointed to one of their scharwmas, smiled and asked in a friendly voice: “Where is this from?” The boy immediately clutched the schwarma to his chest and quickly stood behind his friend, his eyes glaring with fear.
 
@@ -39,9 +39,9 @@ Oh dear child. How you must have endured hunger and struggled for food throughou
 
 When we met the Catholic priest and peace activist Sami Awad, he shared that through his years of working with peace activists, he realized many were not creating conditions of peace, but of security – that their peace activism was driven by fear.
 
-The adults who came to our retreats and Mindfulness Days hid their fear better. Nonetheless, we saw that some were very troubled when their “safe sitting spot” was taken by another; some could not feel at ease in deep relaxation while others were easily startled at sudden sounds…
+The adults who came to our retreats and Mindfulness Days hid their fear better. Nonetheless, we saw that some were very troubled when their “safe sitting spot” was taken by another; some could not feel at ease in deep relaxation while others were easily startled at sudden sounds.
 
-We simply walked, feeling the weight of our body shifting from side to side, feeling the ground beneath our feet, feeling all the sensations in the body that were not “fear”.
+We simply walked, feeling the weight of our body shifting from side to side, feeling the ground beneath our feet, feeling all the sensations in the body that were not “fear.”
 
 We simply sang, “I’ve got peace like a river, I’ve got peace like a river…” digging deep into the earth to touch its vast embrace, and sang from this solid and inclusive place.
 
@@ -58,7 +58,7 @@ Harmony often asked of us to refrain from saying or doing certain things, and it
 
 Like the night we first tried to drive into the West Bank: the navigation system tried to reroute us, the main checkpoint was closed, the internet signal was fading in and out, and we couldn’t read the signs in Hebrew. It also became apparent that some of us resorted to information and technology to solve problems, while others preferred speaking to people.
 
-We knew it wasn’t a moment for “being right”, but for focussing collectively, so we stopped giving diverse suggestions. Instead, we sat quietly to breathe and remain aware of the surroundings and listened to the needs of the driver so we could support, rather than overwhelm. And bless our elder sister who set an example for all of us – she remained silent the entire time!
+We knew it wasn’t a moment for “being right,” but for focussing collectively, so we stopped giving diverse suggestions. Instead, we sat quietly to breathe and remain aware of the surroundings and listened to the needs of the driver so we could support, rather than overwhelm. And bless our elder sister who set an example for all of us – she remained silent the entire time!
 
 <div class="divider"></div>
 
