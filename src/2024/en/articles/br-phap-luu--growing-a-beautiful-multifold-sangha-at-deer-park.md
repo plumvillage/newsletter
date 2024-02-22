@@ -19,7 +19,7 @@ Recently I’ve been encouraging my father to buy a house near Deer Park, so tha
 
 He loves breakfast; it is the activity he attends without fail: toast, jam, oatmeal, and fresh fruit. Every breakfast he leans toward me and asks, “Can we talk?” And every morning I remind him that we eat breakfast in silence. It's our morning ritual.
 
-Thầy Minh Niệm and Stephen, a long-term lay friend, are becoming bread-making masters, with a *masa madre* fermenting throughout the Rains Retreat regularly folded into fresh dough, kneaded then left to rise. The folded layers are visible when you peel back the baked crust of the baked loaves. Thầy Đạo Phương returned from Italy with extra virgin olive oil; add some of it with salt to the hot bread, et voila! Enough for brotherhood, and happiness.
+Brother Minh Niem and Stephen, a long-term lay friend, are becoming bread-making masters, with a *masa madre* fermenting throughout the Rains Retreat regularly folded into fresh dough, kneaded then left to rise. The folded layers are visible when you peel back the baked crust of the baked loaves. Brother Dao Phuong returned from Italy with extra virgin olive oil; add some of it with salt to the hot bread, et voila! Enough for brotherhood, and happiness.
 
 Tonks and B, also longterms here, are exploring an alternative career: community. They help lead our mindful backpacking trips, and are essential now to the yearly teen camp. What does it mean to be a couple, growing on the spiritual path, in a monastery? They are providing themselves with a doctorate in Right Living. Without community there is no future for our planet, and more and more young people like them are realizing this.
 <!-- {% image "article2024/Done-Br-Phap-Luu/IMG_6801_e.jpg", "removeTopMargin" %} -->
@@ -34,7 +34,7 @@ noFloat" %}
 
 <div class="page-break"></div>
 
-The Toyon Family is an embodiment of this realization. They are solidly Midwestern, hailing from the prairies of central Canada, the music studios of Nashville, Tennessee, and the school hallways of Rust Belt Ohio. One from Toronto, and one from East L.A., with Vietnamese and Egyptian parents, respectively. One was raised in a Hindu community. Just like in the 50s and 60s in Vietnam, young people are coming to the practice to find community, and to community to discover the practice. Clearly, political change is not enough: we need to trace the arc of transformation in the world with our own lives.
+The Toyon Family is an embodiment of this realization. They are solidly Midwestern, hailing from the prairies of central Canada, the music studios of Nashville, Tennessee, and the school hallways of Rust Belt Ohio. One from Toronto, and one from East Los Angeles, with Vietnamese and Egyptian parents, respectively. One was raised in a Hindu community. Just like in the 50s and 60s in Vietnam, young people are coming to the practice to find community, and to community to discover the practice. Clearly, political change is not enough: we need to trace the arc of transformation in the world with our own lives.
 
 <p class="pull-quote" style="font-size: 135%; font-weight: 500;">How wondrous is the robe of freedom!<br/>
 It is the field of all good seeds.<br/>
@@ -46,7 +46,7 @@ It is the field of all good seeds.<br/>
 I bow my head to receive it today,<br/>
 and wear it lifetime after lifetime.</p></div> -->
 
-Aaron, formerly Thầy Pháp Mãn, lives here, and has been gently guiding the lay friends during the Rains Retreat. On Lazy Day Mondays he can be found hanging out – literally *hanging on* to the cliff of the waterfall! –  on climbing ropes. I come out with him bringing tea and enjoy the morning in the shade of a mountain, putting on climbing shoes and hitching the rope to my harness to start the climb. *Breathing in, I reach for the tiny crack in the rock wall. Breathing out, the rock and I are not two. In, crack in rock. Out, rock and I are inseparable*.
+Aaron, formerly Brother Phap Man, lives here, and has been gently guiding the lay friends during the Rains Retreat. On Lazy Day Mondays he can be found hanging out – literally *hanging on* to the cliff of the waterfall! –  on climbing ropes. I come out with him bringing tea and enjoy the morning in the shade of a mountain, putting on climbing shoes and hitching the rope to my harness to start the climb. *Breathing in, I reach for the tiny crack in the rock wall. Breathing out, the rock and I are not two. In, crack in rock. Out, rock and I are inseparable*.
 
 Here we are, at the cusp of a great flowering of Buddhism in America, and the Plum Village Tradition is sending down deep, diverse roots. As I walk on the red ground of the valley, moving through the fragrant chaparral, I remember Thay's words: “The ancestors have already prepared everything.” With each mindful step, their will becomes manifest.
 
