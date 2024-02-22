@@ -7,6 +7,7 @@ module.exports = [
     "br-phap-dung--lessons-from-my-teacher",
     "sr-tri-nghiem--parliament-of-world-religions",
     "sr-uyen-nghiem--love-as-thay-loves",
+    "phi-van-kieu-trinh--barriers-and-bridges",
     "br-minh-hy--the-door-of-compassion",
     "br-duc-dinh--a-day-of-alms",
     "sr-thuan-nghiem--awakening-the-source-of-love",
@@ -34,5 +35,4 @@ module.exports = [
     "br-bat-nha--my-novice-robe",
     "laurent-bernays--flowers-of-peace",
     "tien-nguyen--the-sunny-days",
-    "phi-van-kieu-trinh--barriers-and-bridges",
 ]

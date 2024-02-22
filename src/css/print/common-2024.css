@@ -547,11 +547,14 @@ article cite {
     color: var(--color-bark-dark);
 }
 
+.pull-quote cite,
 .verse cite {
     font-family: "Gentium Book Plus";
     font-weight: normal;
     font-size: 11pt;
+    line-height: 125%;
 }
+.pull-quote cite i,
 .verse cite i {
     font-style: normal;
 }
@@ -1206,6 +1209,7 @@ html:lang(en) figure#article2024Done-BrPhap-UngBrPhap-Unge {
 
 
 /* column-span images */
+figure#article2024Br-Duc-NiemPV202359,
 figure#article2024kieu-trinhDSC09880e,
 figure#article2024Tien-NguyenIMG5897,
 figure#article2024Done-Br-Phap-LuuDSC09921e,
@@ -1400,6 +1404,7 @@ figure#article2024br-duc-hienIMG0754e {
     height: 55mm;
 } */
 
+figure#article2024Br-Duc-NiemPV202359 img,
 figure#article2024kieu-trinhDSC09880e img,
 html:lang(en) figure#article2024Done-sr-thuan-nghiemIMG-0378 img,
 figure.chileImg img,
@@ -1437,6 +1442,13 @@ figure.myImgTest img
     transform: translate(-50%, -50%);
 }
 
+figure#article2024Br-Duc-NiemPV202359 img {
+    top: 15%;
+}
+figure#article2024Br-Duc-NiemPV202359 {
+    height: 58.5mm;
+    margin-bottom: 0;
+}
 
 figure#article2024kieu-trinhDSC09880e {
     height: 51.5mm;
@@ -1548,9 +1560,13 @@ figure#article2024Done-Memorial-Ceremony40SuOng2ndYearMemorial220124,
 figure#article2024Done-Memorial-Ceremony10SuOng2ndYearMemorial220124,
 figure#article2024Done-Memorial-Ceremony06SuOng2ndYearMemorial220124,
 figure#article2024Done-Memorial-Ceremony21SuOng2ndYearMemorial220124,
-html:lang(vi) figure#article2024Done-Br-Minh-HyMG9118 {
+figure#article2024Done-Br-Minh-HyMG9118 {
     padding-left: 5%;
     padding-right: 5%;
+}
+figure#article2024Done-Br-Minh-HyMG9118 {
+    padding-left: 18%;
+    padding-right: 18%;
 }
 
 
@@ -1611,6 +1627,7 @@ figure#calligraphyarticle-titles-2-and-dividers5-maskedDividers1-1
     margin-right: auto;
 }
 
+.PAGE-OF-article2024Done-Br-Minh-HyIMG9469e .last-article-element::after,
 .PAGE-OF-article2024Done-Memorial-CeremonyHueCeremonyLe-dai-tuong-19 .last-article-element::after,
 .PAGE-OF-article2024Done-Memorial-CeremonyHueCeremonyLe-dai-tuong-4-copy .last-article-element::after,
 .PAGE-OF-article2024ScannedDrawings0705-Ky-to-dje-nhie .last-article-element::after,
@@ -1619,7 +1636,7 @@ figure#calligraphyarticle-titles-2-and-dividers5-maskedDividers1-1
 }
 
 
-
+/* 
 html:lang(en) figure#article2024Done-Br-Minh-HyMG9118 {
     display: inline;
     float: left;
@@ -1629,7 +1646,7 @@ html:lang(en) figure#article2024Done-Br-Minh-HyMG9118 {
     margin-bottom: 0.6em;
     margin-top: 0em;
     width: 70%;
-}
+} */
 
 .article-theo-dau-chan-xua p {
     font-size: 110%;

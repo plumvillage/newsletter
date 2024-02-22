@@ -59,8 +59,7 @@ Harmony often asked of us to refrain from saying or doing certain things, and it
 Like the night we first tried to drive into the West Bank: the navigation system tried to reroute us, the main checkpoint was closed, the internet signal was fading in and out, and we couldn’t read the signs in Hebrew. It also became apparent that some of us resorted to information and technology to solve problems, while others preferred speaking to people.
 
 We knew it wasn’t a moment for “being right,” but for focussing collectively, so we stopped giving diverse suggestions. Instead, we sat quietly to breathe and remain aware of the surroundings and listened to the needs of the driver so we could support, rather than overwhelm. And bless our elder sister who set an example for all of us – she remained silent the entire time!
-
-<div class="divider"></div>
+<!-- <div class="divider"></div> -->
 
 Harmony also asked of us respect and humility, in the smallest ways.
 

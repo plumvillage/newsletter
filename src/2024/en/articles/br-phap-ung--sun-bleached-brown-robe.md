@@ -21,7 +21,9 @@ When I had the aspiration to become a monastic, my family was not ready to recei
 
 Thanks to Thay, my greatest happiness of becoming a monastic was fulfilled. My aspiration was to find a path that could transcend birth and death. In the past, my idea of becoming a monastic was to go to another world, as if to say “bye bye” birth and death. However, Thay taught that we do not need to say “bye bye” to birth and death; rather, we only need to take care of our notions of birth and death. We do not need to run away from suffering; do not need to go to another world. If in our daily lives we have happiness, joy, a bit of something to offer to the world, and the ability to generate love and understanding within ourselves, only then will we be able to take care of our suffering and the suffering of the world. Our lives will have a clearer meaning.
 
-I have been able to come home to the island within and be in touch with myself. Through the lens of the historical dimension, I understand that there is birth and death, there is suffering. At the same time, I can also learn to touch the ultimate dimension: the no-birth, no-death nature of life. I feel very fortunate. This may be the merits of my blood and spiritual ancestors from countless past generations.
+I have been able to come home to the island within and be in touch with myself. Through the lens of the historical dimension, I understand that there is birth and death, there is suffering. At the same time, I can also learn to touch the ultimate dimension: the no-birth, no-death nature of life.
+
+I feel very fortunate. This may be the merits of my blood and spiritual ancestors from countless past generations.
 
 ## “Stick of the Zen master”
 

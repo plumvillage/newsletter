@@ -5,7 +5,7 @@ author: Joost Vriens
 
 {% image "article2024/joost/Image 19-02-24 at 21.56_e.jpg", "removeTopMargin" %}
 
-<p class="editors-preface">Joost Vriens (Dharma name is Attentive Mountain of the Heart)  lives in Eindhoven, Netherlands, and is a father of two grown up children and takes care of his mother. He was a teacher at a secondary vocational school for 40 years. He supports Wake Up Schools and is a co-founder of a Dutch online Education Sangha. He also writes a weekly blog for the NIVOZ about the connection between mindfulness and being a teacher.</p>
+<p class="editors-preface">Joost Vriens (Dharma name is Attentive Mountain of the Heart)  lives in Eindhoven, Netherlands. He was a teacher at a secondary vocational school for 40 years. He supports Wake Up Schools and is a co-founder of a Dutch online Education Sangha. He also writes a weekly blog for the NIVOZ about the connection between mindfulness and being a teacher.</p>
 
 ## When reality hits
 

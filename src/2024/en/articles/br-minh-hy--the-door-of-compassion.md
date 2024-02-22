@@ -3,11 +3,18 @@ title: The Door of Compassion
 author: Brother Chân Minh Hy
 ---
 
+<!-- <p class="pull-quote" style="font-size: 150%; font-weight: 500;">Please call me by my true names,<br/>
+so I can wake up<br/>
+and the door of my heart<br/>
+could be left open,<br/>
+the door of compassion.<br/><cite>From Thay’s poem <i>“Please Call Me By My True Names”</i></cite></p> -->
+
 <div class="verse"><p>“Please call me by my true names,<br/>
 so I can wake up<br/>
 and the door of my heart<br/>
 could be left open,<br/>
-the door of compassion.”<br/><cite>From Thay’s poem <i>“Please Call Me By My True Names”</i></cite></p></div>
+the door of compassion.”<br/><cite>Thay’s poem <i>“Please Call Me By My True Names”</i></cite></p></div>
+
 <!-- *(to read when feeling sad)* -->
 
 {% image "article2024/Done-Br. Minh Hy/_MG_9118.JPG" %}
@@ -23,3 +30,10 @@ We tend to only welcome the cool breezes into our houses. We do not like the unp
 That unpleasantness might not come from that person. It might have originated from various unsatisfactory incidents that happened over many days and years. Think about it. Just within today, how many things have happened that we consider unsatisfactory? How many of those things come from that person and how many come from other sources? Upon waking up, there is already something we find unsatisfactory. All the way till when we go to bed at night, we are still not satisfied; there will still be things that cause us to toss and turn in bed, to worry about. Who knows when we will ever be satisfied with that displeasing thing!
 
 If there was a person who came from an even dryer region, the same dry breeze would not bother them much. Therefore, to be pleased or to be displeased is not the issue. It depends on the way we perceive it. If we know how to perceive things with compassion then everything will become pleasant.
+
+<div class="article-end"></div>
+
+<div class="page-break"></div>
+
+{% image "article2024/Done-Br. Minh Hy/IMG_9469_e.jpg" %}
+
