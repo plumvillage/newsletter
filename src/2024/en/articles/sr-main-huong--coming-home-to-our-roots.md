@@ -19,7 +19,7 @@ In her Dharma talk, Sister Lang Nghiem shared about the four elements of true lo
 
 {% image "article2024/Done-Coming home to our roots/WhatsApp Image 2023-12-22 at 17.15.44 (1)_e.jpg", "", "Compassion Family on lazy day after breakfast on Thay’s deck" %}
 
-During this one week that provided us a safe space, everyone practiced wholeheartedly. Every little activity became meaningful and sacred.  During one gathering before our working meditation, a sister invited us to sing the song “Happiness is here and now” and dedicate this song to our parents. She reminded us that our parents might not have yet had the opportunity to “let go of their worries,” and we can offer them our peace and freedom while singing this song. Many friends were moved to tears.
+During this one week that provided us a safe space, everyone practiced wholeheartedly. Every little activity became meaningful and sacred.  During one gathering before our working meditation, a sister invited us to sing the song “Happiness is Here and Now” and dedicate this song to our parents. She reminded us that our parents might not have yet had the opportunity to “let go of their worries,” and we can offer them our peace and freedom while singing this song. Many friends were moved to tears.
 
 The collective energy and quality of practice also felt very special. The sisters shared that as Asians, our ancestors had transmitted the seeds of Buddhist practice for centuries. So even though we had not practiced for many generations it only takes a sprinkle of water and the seeds would spring up like mushrooms. Combined with a strong presence of ‘the beginner’s mind’, the awakened seeds in us and the deep gratitude for having such a special space for our community to come together, created a very unique atmosphere.
 
@@ -41,7 +41,7 @@ In this beautifully loving and nurturing environment, our parents were able to t
 
 {% image "article2024/Done-Coming home to our roots/WhatsApp Image 2023-12-22 at 17.14.36_e.jpg" %}
 
-40 years later, we sat underneath the same oak tree. Thay was still present all around us—when a breeze prompted the leaves to send us a warm welcome or when we walked mindfully through the forest. We felt fortunate to be able to continue this beautiful legacy of Thay and our parents. To see that Plum Village could also be a place where we, like our parents, continued to celebrate our culture and heal the wounds of our ancestors, was so meaningful.
+Forty years later, we sat underneath the same oak tree. Thay was still present all around us—when a breeze prompted the leaves to send us a warm welcome or when we walked mindfully through the forest. We felt fortunate to be able to continue this beautiful legacy of Thay and our parents. To see that Plum Village could also be a place where we, like our parents, continued to celebrate our culture and heal the wounds of our ancestors, was so meaningful.
 
 ## Love and transformation
 
