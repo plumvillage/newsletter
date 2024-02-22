@@ -5,7 +5,7 @@ author: Brother Chân Pháp Dung
 
 <p class="editors-preface">On January 27 in Hue, Brother Phap Dung shared about his first encounter with Thay and his experience returning to Hue for Thay’s 2-year grand memorial.</p>
 
-As a young man growing up in the U.S., I rejected everything that was Vietnamese. I did not know at the time that it was a kind of internalized racism. I wanted to belong and to be like the people around me. I remember feeling ashamed of the lunch I brought to school because it smelled “weird.” Even though I loved it so much, I would find a corner far away from everyone to eat it.
+As a young man growing up in the USA, I rejected everything that was Vietnamese. I did not know at the time that it was a kind of internalized racism. I wanted to belong and to be like the people around me. I remember feeling ashamed of the lunch I brought to school because it smelled “weird.” Even though I loved it so much, I would find a corner far away from everyone to eat it.
 
 I didn’t know many other Vietnamese people. Then, when I was studying architecture in university, I won a scholarship to go to Vietnam to study “Vietnamese architecture”! I thought to myself, “I better get to know some Vietnamese people.”
 
@@ -17,7 +17,7 @@ I remember going home after the retreat and one day, for some reason, I was very
 
 {% image "article2024/Br-Phap-Dung/vlcsnap-2024-02-18-16h55m45s171.jpg", "removeTopMargin" %}
 
-I remember seeing the young monastics at the retreat with Thay, which were so different from the Vietnamese monks that we would often encounter in the US. The elderly monks looked as stiff as rocks. But these young monks and nuns were so joyful and lively.
+I remember seeing the young monastics at the retreat with Thay, who were so different from the Vietnamese monks that we would often encounter in the US. The elderly monks looked as stiff as rocks. But these young monks and nuns were so joyful and lively.
 
 At one of Thay’s talks, it was very solemn on the stage, but behind Thay I could see these two young nuns poking each other. I am pretty sure it was Sister Dinh Nghiem and Sister Tue Nghiem! I was so surprised to see them laughing and having a good time.
 
