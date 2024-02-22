@@ -1205,6 +1205,7 @@ html:lang(en) figure#article2024Done-BrPhap-UngBrPhap-Unge {
 
 
 /* column-span images */
+figure#article2024br-thien-chiNewForestRetreat-PVTwanPeetersMay-2023-103,
 figure#article2024br-duc-hienChileIMG2160e,
 figure#article2024br-duc-hienArgentina20230401131012e,
 figure#article2024Done-Br-Phap-LuuIMG6621e,
@@ -1260,6 +1261,7 @@ figure#article2024Sr-Tri-Nghiem000 {
     width: 90%;
     margin-bottom: 0em;
 }
+figure#article2024br-thien-chiNewForestRetreat-PVTwanPeetersMay-2023-103,
 figure#article2024Done-interview-with-thayVncon-ve-miong-tua-noi-dat-me {
     width: 95%;
     margin-top: 2em;
@@ -1333,6 +1335,86 @@ figure#article2024Done-Memorial-Ceremony67SuOng2ndYearMemorial220124crop {
     margin-top: 4em;
 }
 
+figure#article2024sr-dao-nghiemcup-of-teae2 {
+    width: 135mm;
+    /* height: 91mm; */
+    margin-bottom: 0;
+}
+
+
+html:lang(en) figure#article2024Done-Sr-Hien-HanhSr-Hien-Hanh-2e {
+    float: none !important
+}
+html:lang(vi) figure#article2024Done-sr-thuan-nghiemIMG3889 {
+    width: 100%;
+    margin-bottom: 0em;
+}
+html:lang(en) figure#article2024Done-sr-thuan-nghiemIMG3889 {
+    width: 78%;
+    margin-bottom: 0em;
+}
+figure#article2024br-dinh-thanhTransforming-Resentment-Br-Dinh-Thanh {
+    width: 80%;
+}
+
+figure#article2024br-duc-hienBrazilimage00295e {
+    width: 49%;
+    padding-right: 3%;
+}
+figure#article2024br-duc-hienIMG0754e {
+    width: 51%;
+}
+
+
+
+
+/* Previously, we cropped photos using object-fit: cover; However, Chrome's PDF renderes converts those images to PNGs (from JPG), leading to gigantic files, and also full memory, crashing Puppeteer. Therefore, I use instead a parent-div that has overflow: hidden, and a oversize-centered child img inside. Note that I need the figcaption to keep overflow visible, thus the need for the extra div. */
+/* https://github.com/puppeteer/puppeteer/issues/458 */
+/* https://stackoverflow.com/questions/38327827/how-to-center-a-child-element-in-css-even-if-it-is-larger-than-the-parent */
+
+/* before: */
+/* html:lang(en) figure#article2024Done-Sr-Hien-HanhSr-Hien-Hanh-2e img {
+    object-fit: cover;
+    height: 55mm;
+} */
+
+figure.chileImg img,
+.hueMemorial img,
+.hueMemorialEN img,
+figure.lmnq1 img,
+figure.lmnq3 img,
+figure.lmnq4 img,
+figure.lmnq6 img,
+figure.lmnq7 img,
+figure.lmnqSummer img,
+figure.lmnqWakeUp img,
+figure.lmnqWakeUpSlim img,
+figure.lmnqEducators img,
+figure.lmnqHFarm img,
+figure.lmnqHFarmFirst img,
+figure.lmnqRainsSCCK img,
+html:lang(en) figure.lmnqRainsSCCK img,
+figure.lmnqHFarmBig img,
+figure.lampT img,
+figure.lmnqNovices img,
+figure.lmnqLampSymbolic img,
+figure#article2024Done-Review-of-the-YearNovice-ordinationChuong-vang-family-2 img,
+figure#article2024Done-Review-of-the-YearMonastic-on-Tour9ee37f7c-830f-4a3f-ae2d-bca7bdf6943a img,
+figure#article2024ScannedDrawings0705-Ky-to-dje-nhie img,
+figure.memorialEN img,
+figure#article2024Done-Br-Phap-LuuDSC02105e img,
+html:lang(en) figure#article2024Done-Sr-Hien-HanhSr-Hien-Hanh-2e img,
+figure.myImgTest img
+{
+    max-height: none !important;
+    position: relative;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+
 
 figure#article2024ScannedDrawings0705-Ky-to-dje-nhie {
     width: 119.5%;
@@ -1388,108 +1470,38 @@ html:lang(en) figure#article2024Done-sr-thuan-nghiemIMG-0378 img {
     object-position: center bottom;
 }
 
-figure#article2024sr-dao-nghiemcup-of-teae2 {
-    width: 135mm;
-    /* height: 91mm; */
-    margin-bottom: 0;
+figure.tChiImgs {
+    margin-top: 0;
+    /* height: 62mm; */
 }
-
-html:lang(en) figure#article2024Done-Sr-Hien-HanhSr-Hien-Hanh-2e {
-    float: none !important
-}
-html:lang(vi) figure#article2024Done-sr-thuan-nghiemIMG3889 {
-    width: 100%;
-    margin-bottom: 0em;
-}
-html:lang(en) figure#article2024Done-sr-thuan-nghiemIMG3889 {
-    width: 78%;
-    margin-bottom: 0em;
-}
-figure#article2024br-dinh-thanhTransforming-Resentment-Br-Dinh-Thanh {
-    width: 80%;
-}
-
-
-
 
 html:lang(en) figure#article2024Done-Sr-Hien-HanhSr-Hien-Hanh-2e {
     height: 55mm;
 }
 
-
-/* Previously, we cropped photos using object-fit: cover; However, Chrome's PDF renderes converts those images to PNGs (from JPG), leading to gigantic files, and also full memory, crashing Puppeteer. Therefore, I use instead a parent-div that has overflow: hidden, and a oversize-centered child img inside. Note that I need the figcaption to keep overflow visible, thus the need for the extra div. */
-/* https://github.com/puppeteer/puppeteer/issues/458 */
-/* https://stackoverflow.com/questions/38327827/how-to-center-a-child-element-in-css-even-if-it-is-larger-than-the-parent */
-
-/* before: */
-/* html:lang(en) figure#article2024Done-Sr-Hien-HanhSr-Hien-Hanh-2e img {
-    object-fit: cover;
-    height: 55mm;
-} */
-
-figure.chileImg img,
-.hueMemorial img,
-.hueMemorialEN img,
-figure.lmnq1 img,
-figure.lmnq3 img,
-figure.lmnq4 img,
-figure.lmnq6 img,
-figure.lmnq7 img,
-figure.lmnqSummer img,
-figure.lmnqWakeUp img,
-figure.lmnqWakeUpSlim img,
-figure.lmnqEducators img,
-figure.lmnqHFarm img,
-figure.lmnqHFarmFirst img,
-figure.lmnqRainsSCCK img,
-html:lang(en) figure.lmnqRainsSCCK img,
-figure.lmnqHFarmBig img,
-figure.lampT img,
-figure.lmnqNovices img,
-figure.lmnqLampSymbolic img,
-figure#article2024Done-Review-of-the-YearNovice-ordinationChuong-vang-family-2 img,
-figure#article2024Done-Review-of-the-YearMonastic-on-Tour9ee37f7c-830f-4a3f-ae2d-bca7bdf6943a img,
-figure#article2024ScannedDrawings0705-Ky-to-dje-nhie img,
-figure.memorialEN img,
-figure#article2024Done-Br-Phap-LuuDSC02105e img,
-/* figure#article2024sr-dao-nghiemcup-of-teae img, */
-html:lang(en) figure#article2024Done-Sr-Hien-HanhSr-Hien-Hanh-2e img,
-figure.myImgTest img
-{
-    max-height: none !important;
-    position: relative;
-    left: 50%;
-    top: 50%;
-    transform: translate(-50%, -50%);
+figure#article2024Done-SrBao-NIMG3353 {
+    width: 115%;
+    margin-bottom: 0em;
+    margin-top: 5em;
+    left: -7%
 }
 
-/* figure#article2024sr-dao-nghiemcup-of-teae img {
-    top: 43%;
-} */
-
-
-figure.myImgTest {
-    column-span: all;
-    float: none;
-    width: 100mm;
-    height: 40mm;
-    background-color: red;
+html:lang(vi) figure#article2024Done-Sr-Tuyet-NDSC00153e {
+    margin-top: 3em;
+}
+html:lang(en) figure#article2024Done-Sr-Tuyet-NDSC00153e {
+    width: 75%;
 }
 
 
-figure#article2024br-duc-hienBrazilimage00295e {
-    width: 49%;
-    padding-right: 3%;
-}
-figure#article2024br-duc-hienIMG0754e {
-    width: 51%;
-}
+
+
+
 
 figure#article2024Sr-Tri-Nghiem002 {
     padding-left: 10%;
     padding-right: 10%;
 }
-
 
 figure#article2024br-duc-hienArgentinaIMG3434,
 figure#article2024Done-Resillence-Community-SpitualityIMG6811-2,
@@ -1521,12 +1533,6 @@ html:lang(vi) figure#article2024Done-Br-Minh-HyMG9118 {
 
 
 
-figure#article2024Done-SrBao-NIMG3353 {
-    width: 115%;
-    margin-bottom: 0em;
-    margin-top: 5em;
-    left: -7%
-}
 
 
 
@@ -1541,12 +1547,6 @@ figure#article2024Done-Sr-Tuyet-NIMG6618ecut + p {
     text-indent: 0em !important;
 }
 
-html:lang(vi) figure#article2024Done-Sr-Tuyet-NDSC00153e {
-    margin-top: 3em;
-}
-html:lang(en) figure#article2024Done-Sr-Tuyet-NDSC00153e {
-    width: 75%;
-}
 
 .article-theo-dau-chan-xua .verse {
     column-span: all;
