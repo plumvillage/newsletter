@@ -13,7 +13,7 @@ Coming to Plum Village, besides enjoying meeting friends from around the world, 
 
 Last June, the retreat *Finding Our True Home* was the first retreat specifically for young Vietnamese and Asians from the diaspora. We have never seen so many young Asian friends together at aPlum Village retreat before. Attending the retreat surrounded by those who shared similar upbringing and challenges of being disconnected from our Vietnamese culture and our parents’ experiences was incredibly empowering. There was such a deep understanding without needing to exchange many words. 
 
-In her Dharma talk, Sister Lang Nghiem shared about the four elements of true love and reminded us that Thay taught us that love is understanding. “True love is limitless, so is understanding and vice versa.” We felt that during this retreat we all touched a deep love that was hard to put into words: unconditional love from the monastic sisters, love for our parents and our ancestors, love for our roots that we had long thought were buried, love for our cultural practices, and love for ourselves.
+In her Dharma talk, Sr. Lang Nghiem shared about the four elements of true love and reminded us that Thay taught us that love is understanding. “True love is limitless, so is understanding and vice versa.” We felt that during this retreat we all touched a deep love that was hard to put into words: unconditional love from the monastic sisters, love for our parents and our ancestors, love for our roots that we had long thought were buried, love for our cultural practices, and love for ourselves.
 
 <div class="removeTopMarginInFollowingElem"></div>
 
@@ -45,7 +45,7 @@ Forty years later, we sat underneath the same oak tree. Thay was still present a
 
 ## Love and transformation
 
-Being surrounded by a strong presence of the Vietnamese language in all the activities was deeply touching. It was the first time many of us heard the orientation of a Plum Village retreat in Vietnamese. Sister Thuy Nghiem and Sister Bien Nghiem’s welcoming words in their mother tongue made us feel immediately at home. We really felt that they were sharing from their hearts; and it went straight into our hearts. We had never seen so many people cry during an orientation.
+Being surrounded by a strong presence of the Vietnamese language in all the activities was deeply touching. It was the first time many of us heard the orientation of a Plum Village retreat in Vietnamese. Sr. Thuy Nghiem and Sr. Bien Nghiem’s welcoming words in their mother tongue made us feel immediately at home. We really felt that they were sharing from their hearts; and it went straight into our hearts. We had never seen so many people cry during an orientation.
 
 To hear some of the teachings in Vietnamese added an additional layer to the practice. Particularly, listening to the chanting in Vietnamese was such a powerful and memorable experience. It allowed us to connect with, explore and experience the Vietnamese culture on a deeper level.
 

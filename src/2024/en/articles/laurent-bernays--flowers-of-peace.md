@@ -11,7 +11,7 @@ Dear Thay, Dear Sisters, Dear beloved Sangha,
 
 This letter is to thank you with all my heart for welcoming me to work on renewing the Plum orchard in Lower Hamlet. Today, a marvelous meadow of flowers has appeared on the open hillside from which we can contemplate the sunset, showering us with its colorful cosmos as we walk meditatively through the ever-changing seasons.
 
-I would like to extend my gratitude to the Tree family team for working with me on this collective adventure, and especially to Sister Luc Nghiem for her great commitment, and following through on her deep vision for the hamlet and taking care of Mother Earth.
+I would like to extend my gratitude to the Tree family team for working with me on this collective adventure, and especially to Sr. Luc Nghiem for her great commitment, and following through on her deep vision for the hamlet and taking care of Mother Earth.
 
 “The flowers of peace bloom in beauty” is engraved on the Great Bell. It has now manifested as this three-hectare meadow and resonates like the poem throughout the entire cosmos. Like the wind joins the songs of the Great Bell, so does this field of flowers join Thay’s poem. These two were my commitments as a Bodhisattva: to cultivate the Earth and cultivate loving speech through song, cultivating the flowers in the Earth and in my soul.
 

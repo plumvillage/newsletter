@@ -3,24 +3,24 @@ title: I have arrived, I am home
 author: Br. Chân Trời Hải Thượng (1990—2023)
 ---
 
-<div class="editors-preface"><p>Brother Chân Trời Hải Thượng was born in 1990 and passed away in 2023 at the age of 33. He was ordained as a novice at Plum Village Thailand in 2014 in the Red Oak family and received the Great Precepts to become a bhikshu in the great ordination ceremony, “I have arrived, I am home” in 2019. After several years of practice and service to the sangha in Thailand, he volunteered to move to the European Institute of Applied Buddhism (EIAB) in Germany to help continue Thay’s dream of building sanghas. It was here that Brother Troi Hai Thuong unexpectedly passed away on the morning of October, 2023.</p>
+<div class="editors-preface"><p>Brother Chân Trời Hải Thượng was born in 1990 and passed away in 2023 at the age of 33. He was ordained as a novice at Plum Village Thailand in 2014 in the Red Oak family and received the Great Precepts to become a bhikshu in the great ordination ceremony, “I have arrived, I am home” in 2019. After several years of practice and service to the sangha in Thailand, he volunteered to move to the European Institute of Applied Buddhism (EIAB) in Germany to help continue Thay’s dream of building sanghas. It was here that Br. Troi Hai Thuong unexpectedly passed away on the morning of October, 2023.</p>
 
 {% image "article2024/Br Hai Thuong/ENG/012 copy_e.jpg" %}
 
-<p>Although Brother Troi Hai Thuong no longer manifests in the physical form, we can still get in touch with him through his writings, reflections of a sensitive spirit that earnestly loves life.<br/>
+<p>Although Br. Troi Hai Thuong no longer manifests in the physical form, we can still get in touch with him through his writings, reflections of a sensitive spirit that earnestly loves life.<br/>
 The following in a translated excerpt from the <i>Giếng Nước Thơm Trong</i> (Fragrant Well), Newsletter #2 from Plum Village Thailand.</p></div>
 
 ## Monday
 
 I lay on the green hammock along the corridor right next to the garden at the center of the monks’ residence. The hamlet is usually filled with people, but the lazy days turns it into a deserted place. Everyone was gone so I didn’t need to look for a peaceful space anywhere else. After a long while, a brother passed by seeing me engrossed in reading, he teased, “Are you truly being lazy?” Knowing the brother was only teasing, I just smiled. *Being lazy* is the opposite of *being diligent*. How interesting to think that at the beginning of the week, while everyone out there was preoccupied with getting back to their work to earn a living, we did not have any scheduled sitting meditation, walking meditation, or eating in noble silence.
 
-Brother Kai Li shared that when he first came to Plum Village, he was shocked to learn that there was laziness at a monastery! Wouldn’t people usually strive to encourage each other to be diligent? It wasn’t that there were no such things as lazy monks; but to have a “lazy day” as part of the schedule for an entire monastery was something worthy of mention. At that moment, Thay said very earnestly to Brother Kai Li, “Yes, you should be as lazy as possible.” Later, Brother Kai Li realized it was a very deep practice indeed.
+Brother Kai Li shared that when he first came to Plum Village, he was shocked to learn that there was laziness at a monastery! Wouldn’t people usually strive to encourage each other to be diligent? It wasn’t that there were no such things as lazy monks; but to have a “lazy day” as part of the schedule for an entire monastery was something worthy of mention. At that moment, Thay said very earnestly to Br. Kai Li, “Yes, you should be as lazy as possible.” Later, Br. Kai Li realized it was a very deep practice indeed.
 
 Once in a while, we hear people say, “Don’t just sit there, do something.” This is a common thing because our society is a goal-oriented society. We tend to always want to go toward something and always have a specific goal in our minds. On the contrary, Buddhism teaches us the practice of wishlessness. Practitioners of mindfulness would often say, “Don’t just do something, sit there.” Not doing anything is in fact doing something. This teaching reminds us that we do not need to set a goal to run after because everything is already present in us.
 
 I tend to be more successful in being lazy than when we practice noble silence as a whole sangha, when everyone leaves books, pens, papers, internet, devices alone. To be honest, I usually use Mondays as a rest day, to take a break from “work” or to go on outings, not quite in the spirit of “nowhere to go, nothing to do.” Having attended school and worked, participating in the hustle and bustle of society, I still feel guilty being idle. If there are 15 or 30 minutes to spare, I will try to make the most of the time by finding something to do. On the other hand, Zen masters would spend several hours just for tea meditation, being aware and enjoying each movement. Only after becoming a monastic did I realize the image of a monastic sitting doing nothing was in fact not what it seemed. The “business” of monastics is different from that of people in society.
 
-Evening came and the residents of the hamlet had returned from their hidden corners. A few brothers and novices, in their long robes, were chanting and offering food to Hungry Ghosts in a ceremony. The rapid rhythm of the wooden fish drum harmonizing with the chanting voices was very satisfying to the ears. Tonight, there was a scheduled activity, so Brother Tam Nguyen invited me to go for a walk earlier than usual. After asking around, we ended up with four people for the walk. The reverberating sounds of the bell and wooden fish drum had not yet ended, and the chanting lingered:
+Evening came and the residents of the hamlet had returned from their hidden corners. A few brothers and novices, in their long robes, were chanting and offering food to Hungry Ghosts in a ceremony. The rapid rhythm of the wooden fish drum harmonizing with the chanting voices was very satisfying to the ears. Tonight, there was a scheduled activity, so Br. Tam Nguyen invited me to go for a walk earlier than usual. After asking around, we ended up with four people for the walk. The reverberating sounds of the bell and wooden fish drum had not yet ended, and the chanting lingered:
 
 > “May we be born now in the Pure Land within the heart of a lotus flower. In the moment when the lotus blooms, we touch the reality of no-birth and no-dying.”
 
@@ -38,7 +38,7 @@ At Plum Village, we are not required to memorize the sutras or precepts, however
 
 {% image "article2024/Br Hai Thuong/ENG/DSC_8009_e.jpg" %}
 
-This morning, there was only me in my room because all the novices had gone to their language classes. I turned a few pages of a previous edition of the Plum Village newsletter on Brother Tam Nguyen’s study desk to look at the photos. I was drawn by a commentary from Thay on a poem by Bàng Bá Lân. It was just the exact thing I had been looking for:
+This morning, there was only me in my room because all the novices had gone to their language classes. I turned a few pages of a previous edition of the Plum Village newsletter on Br. Tam Nguyen’s study desk to look at the photos. I was drawn by a commentary from Thay on a poem by Bàng Bá Lân. It was just the exact thing I had been looking for:
 
 > “Who doesn’t need a dream?! According to the practice of Plum Village, we need to find a way to realize our dream today… I myself, I think I can reach my hand out to touch my dream at any moment in my daily life.”
 
@@ -55,7 +55,7 @@ Like the word “happiness,” the phrase “right away” has become so familia
 
 I was planning to reserve Friday evening to find the last few pieces of information for my article. I felt partly pressured, partly relaxed. I went to the online temple, “the Country of the Present Moment,” (langmai.org) to look for Thay’s calligraphy but none seemed satisfactory. There must be good ideas I could pick from the storage of Thay’s Dharma talks; but it was so vast, how was I to locate them?
 
-Wandering around, I coincidentally came across an article by Brother Minh Hy sharing about something Thay taught:
+Wandering around, I coincidentally came across an article by Br. Minh Hy sharing about something Thay taught:
 
 > “The first fruit of the Plum Village practice ‘I have arrived, I am home’ is a little different from the fruit of the traditional practice ‘Stream-enterer.’ With ‘Stream-enterer’ one still has to continue going, whereas with ‘I have arrived, I am home’ one no longer needs to search for anything more. ‘No need to search further (Người chẳng tìm cầu chi nữa)’ – this is a very good phrase; we need to write it down. It would be a pity if we lose it. Whoever has realized this fruit of the practice, looking at them we would know right away; no need for them to say anything.”
 

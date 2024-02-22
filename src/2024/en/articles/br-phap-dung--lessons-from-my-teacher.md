@@ -3,7 +3,7 @@ title: Lessons From My Teacher
 author: Brother Chân Pháp Dung
 ---
 
-<p class="editors-preface">On January 27 in Hue, Brother Phap Dung shared about his first encounter with Thay and his experience returning to Hue for Thay’s 2-year grand memorial.</p>
+<p class="editors-preface">On January 27 in Hue, Br. Phap Dung shared about his first encounter with Thay and his experience returning to Hue for Thay’s 2-year grand memorial.</p>
 
 As a young man growing up in the USA, I rejected everything that was Vietnamese. I did not know at the time that it was a kind of internalized racism. I wanted to belong and to be like the people around me. I remember feeling ashamed of the lunch I brought to school because it smelled “weird.” Even though I loved it so much, I would find a corner far away from everyone to eat it.
 
@@ -19,7 +19,7 @@ I remember going home after the retreat and one day, for some reason, I was very
 
 I remember seeing the young monastics at the retreat with Thay, who were so different from the Vietnamese monks that we would often encounter in the US. The elderly monks looked as stiff as rocks. But these young monks and nuns were so joyful and lively.
 
-At one of Thay’s talks, it was very solemn on the stage, but behind Thay I could see these two young nuns poking each other. I am pretty sure it was Sister Dinh Nghiem and Sister Tue Nghiem! I was so surprised to see them laughing and having a good time.
+At one of Thay’s talks, it was very solemn on the stage, but behind Thay I could see these two young nuns poking each other. I am pretty sure it was Sr. Dinh Nghiem and Sr. Tue Nghiem! I was so surprised to see them laughing and having a good time.
 
 It made me curious about Thay’s community. I was still very suspicious. I didn’t believe that the monks and nuns could be smiley and joyful all the time, so I decided to follow them on their US tour! What I didn’t know was that Thay had noticed me and had asked Br. Phap Niem to observe me!
 

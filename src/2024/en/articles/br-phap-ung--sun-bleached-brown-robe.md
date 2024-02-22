@@ -3,7 +3,7 @@ title: Sun-Bleached Brown Robes
 author: Brother Chân Pháp Ứng
 ---
 
-<p class="editors-preface">On 11 December 2023, the monastics of the Fish ordination family turned 30 years old. After 30 years, the number of “fish” has reduced to two-thirds, from six individuals down to four. Now, they are elder brothers and sisters of Plum Village. Brother Phap Ung is one of the remaining four “fish,” alongside Sister Thoai Nghiem, Sister Dinh Nghiem and Sister Tue Nghiem. On this occasion, the editorial team had a chance to drink tea with Brother Phap Ung at Thay’s hut in Upper Hamlet. This article was born from that exchange.</p>
+<p class="editors-preface">On 11 December 2023, the monastics of the Fish ordination family turned 30 years old. After 30 years, the number of “fish” has reduced to two-thirds, from six individuals down to four. Now, they are elder brothers and sisters of Plum Village. Br. Phap Ung is one of the remaining four “fish,” alongside Sr. Thoai Nghiem, Sr. Dinh Nghiem and Sr. Tue Nghiem. On this occasion, the editorial team had a chance to drink tea with Br. Phap Ung at Thay’s hut in Upper Hamlet. This article was born from that exchange.</p>
 
 ## An ancient seed deep in the Earth just smiles
 
@@ -29,9 +29,9 @@ During the years serving and learning from Thay, I received many “Zen sticks.�
 
 ## Patience is the mark of true love
 
-It was not until 1996 that Upper Hamlet and New Hamlet had an abbot and abbess, respectively. Before that, each Hamlet only had a head of the sangha, service coordinator, etc. Perhaps Thay wanted to train me when I was just a novice and then a young bhikshu, because he nominated me into the council of elders, consisting of “venerables,” like Brother Giac Thanh, Brother Doji, Brother Sariputra and Brother Nguyen Hai. I don’t know how I was eventually “put” into the position as head of practice.
+It was not until 1996 that Upper Hamlet and New Hamlet had an abbot and abbess, respectively. Before that, each Hamlet only had a head of the sangha, service coordinator, etc. Perhaps Thay wanted to train me when I was just a novice and then a young bhikshu, because he nominated me into the council of elders, consisting of “venerables,” like Br. Giac Thanh, Br. Doji, Br. Sariputra and Br. Nguyen Hai. I don’t know how I was eventually “put” into the position as head of practice.
 
-One time, at the end of formal lunch, Thay said, “Let’s have Dharma sharing this afternoon!” Being head of the sangha, I “cleverly” said, “Dear Thay, let us look it over. Let us discuss it.” The whole sangha was startled, wondering “who was this audacious young monastic?” A lay friend sitting next to me, named Tinh Thuy, who later became Sister Quy Nghiem, whispered, “How could you?!”
+One time, at the end of formal lunch, Thay said, “Let’s have Dharma sharing this afternoon!” Being head of the sangha, I “cleverly” said, “Dear Thay, let us look it over. Let us discuss it.” The whole sangha was startled, wondering “who was this audacious young monastic?” A lay friend sitting next to me, named Tinh Thuy, who later became Sr. Quy Nghiem, whispered, “How could you?!”
 
 Later, I slowly got it. But at that time when I answered Thay, I didn’t understand what I had done wrong. I was taught that the bhikshu council was a democracy; so I applied it right away. When Thay heard my response, he didn’t say anything; he only breathed.
 
@@ -51,7 +51,7 @@ When I became a monk, I also wanted to help ease the suffering of the world. How
 
 ## Presenting the insight gatha
 
-In the autumn of 1994, Thay taught the Discourse on Youth and Happiness. At the end of the Autumn Retreat, Thay suggested that everyone write a song or poem to present their insight. Thay was even going to grade our insight poems. Out of nowhere, I was “gifted” a song! After singing it before Thay and the sangha, I went with Brother Phap Dang to a retreat in Germany. When I came back, I heard that Thay gave my song 7 out of 10 points.
+In the autumn of 1994, Thay taught the Discourse on Youth and Happiness. At the end of the Autumn Retreat, Thay suggested that everyone write a song or poem to present their insight. Thay was even going to grade our insight poems. Out of nowhere, I was “gifted” a song! After singing it before Thay and the sangha, I went with Br. Phap Dang to a retreat in Germany. When I came back, I heard that Thay gave my song 7 out of 10 points.
 
 <p class="pull-quote" style="font-size: 155%;">Sun-bleached brown robes,<br/>
 coming home to the Buddha,<br/>

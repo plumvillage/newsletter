@@ -22,13 +22,13 @@ In the teaching on the Seven Factors of Awakening, the Buddha advises us to cult
 
 I enjoyed the first Dharma talks in Chagford and Exeter, England, very much. Thay said, “The Sangha is my continuation,” and I only understood it intellectually. But now I could experience it clearly in the way we held the space, in the way the monastic siblings gave Dharma talks, in the way we introduced and adapted the practices to different places and people. I could also see Thay in the way the lay friends enjoyed being with us.
 
-I loved it when we stopped at gas stations to have coffee together. Sister One Way (Sr. Trang Mot Phuong) was our treasurer and we called her “Sister Generosity” — just for fun. She bought us drinks and sweets, so every gas station was a mini celebration.
+I loved it when we stopped at gas stations to have coffee together. Sr. One Way (Sr. Trang Mot Phuong) was our treasurer and we called her “Sr. Generosity” — just for fun. She bought us drinks and sweets, so every gas station was a mini celebration.
 
-Sister One Way also often offered us a special kind of Oolong tea. A really happy moment. We felt like kings when she poured us the fragrant tea. But I’m still not sure which is more fragrant — the tea or our togetherness?
+Sr. One Way also often offered us a special kind of Oolong tea. A really happy moment. We felt like kings when she poured us the fragrant tea. But I’m still not sure which is more fragrant — the tea or our togetherness?
 
 ## Children in the mud
 
-I remember Sister Tam Moi saying once during our tour, “Do you notice that? It’s like spring lasts a long, long time. We’ve been on the road for several weeks and the trees are still in bloom. That’s because we’re traveling from the south to the north.”
+I remember Sr. Tam Moi saying once during our tour, “Do you notice that? It’s like spring lasts a long, long time. We’ve been on the road for several weeks and the trees are still in bloom. That’s because we’re traveling from the south to the north.”
 
 Let me name just a fraction of the places we visited: ancient beech forests with carpets of bluebells; hills with big boulders on top; meadow of green grass and brown ferns where wild horses graze freely; sacred cathedrals with gardens of pink rhododendrons; national reserves; hidden stone beaches; small art bookstores; world-famous museums and streets; a university where the students showed us a meditation hall filled with poetry books and the on-campus redwood forest, and then invited us to participate in blessing the food before dinner.
 
@@ -38,7 +38,7 @@ As monastics, we could go into the heart of a major cathedral in Durham, England
 
 ## Preparing and letting go
 
-When we were in Belfast, Ireland, Sister Tai Nghiem invited me to talk at the end of a Dharma talk about how I practiced the art of stopping. I was nervous and tried to prepare myself well. Then my sister asked me to speak at the beginning of the talk, instead. A few hours later after all the preparations I did, she said to me: “Now brother, let go of everything you have prepared. The most important thing is that you connect with the people in the hall and speak to them. You don’t need to try to remember what you’ve prepared.” That was a hard lesson, but very important.
+When we were in Belfast, Ireland, Sr. Tai Nghiem invited me to talk at the end of a Dharma talk about how I practiced the art of stopping. I was nervous and tried to prepare myself well. Then my sister asked me to speak at the beginning of the talk, instead. A few hours later after all the preparations I did, she said to me: “Now brother, let go of everything you have prepared. The most important thing is that you connect with the people in the hall and speak to them. You don’t need to try to remember what you’ve prepared.” That was a hard lesson, but very important.
 
 ## Eyebrows, tea and fame
 
@@ -67,7 +67,7 @@ How could I harmonize these opposing energies in me? Sometimes, it felt like a w
 
 My mind is a painter. When anger arises in me, the whole world becomes a place full of injustice. When sadness is there, I see only suffering and despair. When the sun of joy shines, the world is colorful and beautiful.
 
-In Brighton, England, I noticed that I was starting to feel angry toward a brother. I could see the internal knot growing fast because we were together all the time. My ego was upset and was telling me stories about how rude and unfriendly his behavior was. Part of me wanted to listen and agree with it, but there was also a voice telling me, “You’re upset. Do Beginning Anew<span class="note">See Sister Chan Khong, <i>Beginning Anew</i>, Parallax Press.</span> to calm down.”
+In Brighton, England, I noticed that I was starting to feel angry toward a brother. I could see the internal knot growing fast because we were together all the time. My ego was upset and was telling me stories about how rude and unfriendly his behavior was. Part of me wanted to listen and agree with it, but there was also a voice telling me, “You’re upset. Do Beginning Anew<span class="note">See Sr. Chan Khong, <i>Beginning Anew</i>, Parallax Press.</span> to calm down.”
 
 Throughout the tour, we were together all the time. We planned and led events together, ate together, rested and traveled in the same van for five straight weeks! So it would not work for me to take time to reflect on what exactly was happening between me and my brother and contemplate about where it was potentially my fault, etc. In order to continue living together and focus on our events, I had to do beginning anew with him. I followed my intuition, shared my appreciation for him, and expressed my feelings and wish for harmony.
 

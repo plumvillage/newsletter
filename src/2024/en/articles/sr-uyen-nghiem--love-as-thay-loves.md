@@ -11,13 +11,17 @@ Talking about love, I cannot help thinking about Thay. Usually, whenever the mon
 
 {% image "article2024/Done-Sr. Uyen Nghiem/Article - Sr. Uyen N/DSC_0236_e.JPG" %}
 
+<<<<<<< HEAD
 The morning Thay left for the UK, Sister Chan Khong was the driver. Before leaving, Thay called me into the library to assist him with a few things. After that, we went around to make sure all the lights were off, doors were locked and gas valves were turned off,… When we felt that everything was done, we got into the car and were ready to go.
+=======
+The morning Thay departed for the UK, Sr. Chan Khong was the driver. Before leaving, Thay called me into the library to assist him with a few things. After that, we went around to make sure all the lights were off, doors were locked and gas valves were turned off,… When we felt that everything was done, we got into the car and were ready to go.
+>>>>>>> 4d78174 (.)
 
 On the way to the airport, Thay said to me: “My child, tell me: Do you have joy in your practice lately? How are the brothers and sisters getting along?” So, I started telling Thay one thing after another, and we had a good time laughing together. Halfway to the airport, suddenly Thay asked: “Did you bring Thay’s shoulder bag?” Startled, I replied: “Dear Thay, no.”
 
 Thay’s bag had a voice recorder. On Thay’s teaching tours, his talks would sometimes be video recorded, and other times not. Regardless, the recorder was usually brought along so that Thay could record the talks himself. First, it was for documentation purposes; second, Thay knew that it would be the inheritance he would leave behind for future generations. That day, I had so much fun being with Thay, I completely forgot and was unaware of what I needed to prepare for Thay.
 
-The moment I heard Thay’s question, I transitioned from a state of elation to one of regret, self-blame and fear. I was so afraid that I did not even dare to say “sorry” to Thay, especially when Sister Chan Khong remarked that it was too late to return because we would be late for the flight.
+The moment I heard Thay’s question, I transitioned from a state of elation to one of regret, self-blame and fear. I was so afraid that I did not even dare to say “sorry” to Thay, especially when Sr. Chan Khong remarked that it was too late to return because we would be late for the flight.
 
 I was shaking and speechless. Then, from the front seat, Thay extended his hand toward me in the backseat and asked: “Where is your hand?” At that moment, my hands were shaking and stone cold. I put my hand out, and Thay held it in his own. His hand was very soft and warm. He said: “No problem, my child. Perhaps the brother attendant brought a backup. But if he didn’t bring one, it doesn’t matter either.” Hearing that, my heart felt much lighter. I will never forget that moment. I feel that to Thay, recording the Dharma talks was important, but nourishing his disciples’ hearts was even more essential. He did not want me to feel bad or guilty. He always wanted his disciples to have beautiful memories.
 

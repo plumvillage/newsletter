@@ -104,6 +104,9 @@ Adding any of these severely reduces output size (quality loss)
 -dCompatibilityLevel=1.5
 -dFirstPage=29 \
 -dLastPage=29 \
+
+// very slow ...
+-sColorConversionStrategy=CMYK \
 */
 
 let command = `gs \
