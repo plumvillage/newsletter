@@ -34,5 +34,5 @@ module.exports = [
     "br-bat-nha--my-novice-robe",
     "laurent-bernays--flowers-of-peace",
     "tien-nguyen--the-sunny-days",
-    // barriers and bridges
+    "phi-van-kieu-trinh--barriers-and-bridges",
 ]

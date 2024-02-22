@@ -142,6 +142,8 @@ When I announced to my dad that I wanted to become a nun 2 years ago, it was a h
 
 ***Br. Nhat Van:*** My family couldn’t come, but they watched the ceremony online. In the beginning, they were asking, “When are you coming home?” But now I think they understand. I told them that I feel at peace here. They have always accepted my choices. I hope they can come next year and see that it is much better than they can imagine.
 
-{% image "article2024/Done-Daffodil family/200_110723_e2.jpg" %}
-
 ***Br. Nhat Vu:*** My blood family is basically my son. He is well aware of my path since he grew up with me and I raised him according to the 5 Precepts. So he feels me. He can see me blooming in the Sangha, in this new life. He told me last August: “To Love – this is a cool job, Dad!”
+
+<div class="article-end"></div>
+
+{% image "article2024/Done-Daffodil family/200_110723_e2.jpg" %}

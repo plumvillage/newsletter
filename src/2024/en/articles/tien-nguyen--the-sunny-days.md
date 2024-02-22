@@ -7,9 +7,6 @@ author: Tiên Nguyễn
 
 Dear Sister,
 
-<!-- {% image "article2024/Tien Nguyen/image0.jpeg" %} -->
-<!-- {% image "article2024/Tien Nguyen/image0 copy.jpeg" %} -->
-
 Last time you asked me what I thought about the sisters, but I didn’t have a chance to answer; so, I’ll do it in this letter. ☺
 
 The limitations of language can complicate things. I don’t know how to say it adequately – too succinct is unsatisfactory, but too long-winded does not achieve anything. Nevertheless, in a world beyond language, we already have each other in this moment. Everything feels gentle like a beautiful dream.
@@ -18,10 +15,11 @@ Yesterday, I had dinner with several young friends from work. I was glad they di
 
 The young friends reminded me of my early twenties. Regrettably, I was not as innocent then, not earnest enough with life; there were only struggles and doubts. At times, I would be at the height of my success, yet I felt like I was sitting in the abyss. I truly had lost so much (more than I ever imagined). The consequences and impact of suffering were spreading like a storm; they inherently were not worthwhile for this short life.
 
-{% image "article2024/Tien Nguyen/IMG_5897.jpg", "removeTopMargin" %}
-{% image "article2024/Tien Nguyen/Nhap Luu.jpg", "removeTopMargin" %}
+I’m beginning to see the connections in me spreading out and connecting with everything around. The blocks of logic have slowly disintegrated. The disjointed confusions in me at times naturally reconnect like a swollen river flowing over the parched land, smoothing out the crusty earth.
 
-I’m beginning to see the connections in me spreading out and connecting with everything around. The blocks of logic have slowly disintegrated. The disjointed confusions in me at times naturally reconnect like a swollen river flowing over the parched land, smoothing out the crusty earth. I’ve also stopped rejecting the imperfect loves that do not meet my expectations. It was at this place of acceptance that I felt the presence of the sisters around me. These miracles I’ve experienced are continuations of the things the sisters have helped me see, and also of the lovely things that have come into my life.
+{% image "article2024/Tien Nguyen/IMG_5897.jpg" %}
+
+I’ve also stopped rejecting the imperfect loves that do not meet my expectations. It was at this place of acceptance that I felt the presence of the sisters around me. These miracles I’ve experienced are continuations of the things the sisters have helped me see, and also of the lovely things that have come into my life.
 
 There is no need to keep people near me. No matter where they go in the world, they will always be in my heart.
 
@@ -39,4 +37,5 @@ I hope that all may have lasting peace.
 
 <div class="article-end"></div>
 
-{% image "article2024/Tien Nguyen/image12.jpeg" %}
+{% image "article2024/Tien Nguyen/Nhap Luu.jpg" %}
+{% image "article2024/Tien Nguyen/image12.jpeg", "removeTopMargin" %}
