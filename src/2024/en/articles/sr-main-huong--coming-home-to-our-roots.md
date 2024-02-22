@@ -35,7 +35,7 @@ By coming together and sharing these experiences in this space of mutual underst
 
 {% image "article2024/Done-Coming home to our roots/Thay underneath Oak tree.jpg" %}
 
-While having lunch underneath the oak tree in Lower Hamlet, Sr Dinh Nghiem shared with us that Thay gave his first few Dharma talks right here. People of our parents’ generation who came to Plum Village back in the 80s, only a few years after the war in Vietnam had ended, would sit around him to listen to his talks. Back then, mostly Vietnamese refugees and people who lived in exile like Thay came to Plum Village because it was a place where they could seek not only spiritual but also cultural refuge. They helped Thay and the monastics build and shape the Plum Village as we know it today.
+While having lunch underneath the oak tree in Lower Hamlet, Sr. Dinh Nghiem shared with us that Thay gave his first few Dharma talks right here. People of our parents’ generation who came to Plum Village back in the 80s, only a few years after the war in Vietnam had ended, would sit around him to listen to his talks. Back then, mostly Vietnamese refugees and people who lived in exile like Thay came to Plum Village because it was a place where they could seek not only spiritual but also cultural refuge. They helped Thay and the monastics build and shape the Plum Village as we know it today.
 
 In this beautifully loving and nurturing environment, our parents were able to transform their suffering and allow their young children to connect to their roots. During those years, the children could learn how to sing and speak Vietnamese, enjoy homemade Vietnamese food and the community could come together to experience a sense of belonging in this place that was home away from home. 
 
