@@ -1,6 +1,6 @@
 ---
 title: Barriers and Bridges
-author: Phi Van Kieu Trinh
+author: Phi Vân Kiều Trinh
 ---
 
 <div class="verse removeTopMarginInFollowingElem removeIndentInFollowingElem" style="column-span: all; margin-bottom: 1.1em;"><p>I am sitting by a pond full of lotus flowers. This year is already half over, yet the buds of the lotus flowers have still not bloomed. They take their time.<br/>
