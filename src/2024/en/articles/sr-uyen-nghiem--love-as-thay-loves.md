@@ -11,11 +11,7 @@ Talking about love, I cannot help thinking about Thay. Usually, whenever the mon
 
 {% image "article2024/Done-Sr. Uyen Nghiem/Article - Sr. Uyen N/DSC_0236_e.JPG" %}
 
-<<<<<<< HEAD
-The morning Thay left for the UK, Sister Chan Khong was the driver. Before leaving, Thay called me into the library to assist him with a few things. After that, we went around to make sure all the lights were off, doors were locked and gas valves were turned off,… When we felt that everything was done, we got into the car and were ready to go.
-=======
 The morning Thay departed for the UK, Sr. Chan Khong was the driver. Before leaving, Thay called me into the library to assist him with a few things. After that, we went around to make sure all the lights were off, doors were locked and gas valves were turned off,… When we felt that everything was done, we got into the car and were ready to go.
->>>>>>> 4d78174 (.)
 
 On the way to the airport, Thay said to me: “My child, tell me: Do you have joy in your practice lately? How are the brothers and sisters getting along?” So, I started telling Thay one thing after another, and we had a good time laughing together. Halfway to the airport, suddenly Thay asked: “Did you bring Thay’s shoulder bag?” Startled, I replied: “Dear Thay, no.”
 
