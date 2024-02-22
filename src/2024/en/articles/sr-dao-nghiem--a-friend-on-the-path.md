@@ -3,7 +3,7 @@ title: A Friend on the Path
 author: Sister Chân Đào Nghiêm
 ---
 
-For many years I have had a wonderful friend by my side. We meet almost every morning when it is still dark. We share tears, smiles, laughter by candlelight, a cup of warm tea by our side.It is a presence that guides me, supports me and helps me to gain clarity, understanding and a deeper, more meaningful relationship with myself. This friend is my journal.
+For many years I have had a wonderful friend by my side. We meet almost every morning when it is still dark. We share tears, smiles, laughter by candlelight, a cup of warm tea by our side. It is a presence that guides me, supports me and helps me to gain clarity, understanding and a deeper, more meaningful relationship with myself. This friend is my journal.
 
 I sit in the early morning and just let my hand write what is there without thinking about it, writing down thoughts as they flow through my mind. It has been a very healing process over the years. It’s a very personal experience that can take many forms. I have pictures of people I love, my family members who have passed away inside the journal. There are inspiring quotes that nourish me, for example:
 
@@ -34,7 +34,7 @@ When I ruminate on some thoughts or something that touches me and causes me disc
 
 I regularly look back at what I wrote, whether it was last year or many years ago. It has been a help in my understanding of my pain. Reflecting on what I have written gives me a greater sense of clarity and insight. I have found this to be very powerful. Through this self-reflection, I can reflect on my thoughts, desires, intentions, and actions, and then take appropriate steps based on that reflection.
 
-For example, reading something I wrote last spring, brought back to mind the insight that I had then and the power of walking meditation with the sangha. I was having a difficult time caught in a situation of doubt. This is what I shared with my friend the next morning:
+For example, reading something I wrote last Spring, brought back to mind the insight that I had then and the power of walking meditation with the sangha. I was having a difficult time caught in a situation of doubt. This is what I shared with my friend the next morning:
 
 {% image "article2024/sr-dao-nghiem/tree of life_e.jpg", "removeTopMargin" %}
 
