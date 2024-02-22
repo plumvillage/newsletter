@@ -30,7 +30,7 @@ Thank you, dear Thay, for your unwavering guidance, your endless compassion, and
 
 <p class="signoff">
 <span class="signoff-lvl-1">With deepest gratitude and love,</span><br/>
-<span class="signoff-lvl-2">We your students</span>
+<span class="signoff-lvl-2">Your students</span>
 </p>
 
 <div class="article-end"></div>

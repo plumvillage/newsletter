@@ -273,8 +273,8 @@ To read the full letter, please visit <a href="https://plumvillage.org/articles/
 <div class="removeIndentInFollowingElem"></div>
 
 This year, the Sangha welcomed 31 new monastic members into the following ordination families:
- - **Longan Tree** (24 September at Deer Park Monastery, USA) comprised of 4 brothers: *Chân Nhất Lâm, Chân Nhất Thiên, Chân Nhất Điền, Chân Nhất Sơn* and 2 sisters: *Chân Ân Hạnh and Chân Thuần Hạnh.*
- - **Daffodil Tree** (5 November at Dharma Cloud Temple, Upper Hamlet, France) comprised of 7 brothers: *Chân Nhất Vân, Chân Nhất Vũ, Chân Nhất Thanh, Chân Nhất Lương, Chân Nhất Nguyên, Chân Nhất Mộc, Chân Nhất Xuân* and 3 sisters: *Chân Đôn Hạnh, Chân Diệu Hạnh, Chân Đăng Hạnh*.
+ - **Longan Tree** (24 September at Deer Park Monastery, USA) comprised of 4 brothers: *Chân Nhất Lâm, Chân Nhất Thiên, Chân Nhất Điền, Chân Nhất Sơn*; and 2 sisters: *Chân Ân Hạnh and Chân Thuần Hạnh.*
+ - **Daffodil Tree** (5 November at Dharma Cloud Temple, Upper Hamlet, France) comprised of 7 brothers: *Chân Nhất Vân, Chân Nhất Vũ, Chân Nhất Thanh, Chân Nhất Lương, Chân Nhất Nguyên, Chân Nhất Mộc, Chân Nhất Xuân*; and 3 sisters: *Chân Đôn Hạnh, Chân Diệu Hạnh, Chân Đăng Hạnh*.
  - **Golden Trumpet Tree** (17 December at Thai Plum Village Practice Center) comprised 13 sisters: *Chân Cung Hạnh, Chân Chuyên Hạnh, Chân Cẩn Hạnh, Chân Chuẩn Hạnh, Chân Chỉnh Hạnh, Chân Chỉ Hạnh, Chân Chí Hạnh, Chân Cư Hạnh, Chân Chánh Hạnh, Chân Chiêu Hạnh, Chân Chung Hạnh, Chân Cần Hạnh, Chân Cát Hạnh.*
 
 <div class="removeIndentInFollowingElem"></div>
