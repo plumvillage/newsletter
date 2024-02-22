@@ -7,7 +7,7 @@ author: Brother Chân Minh Hy
 so I can wake up<br/>
 and the door of my heart<br/>
 could be left open,<br/>
-the door of compassion.”<br/><cite>Excerpt from Thay’s poem <i>“Please Call Me By My True Names”</i></cite></p></div>
+the door of compassion.”<br/><cite>From Thay’s poem <i>“Please Call Me By My True Names”</i></cite></p></div>
 <!-- *(to read when feeling sad)* -->
 
 {% image "article2024/Done-Br. Minh Hy/_MG_9118.JPG" %}
