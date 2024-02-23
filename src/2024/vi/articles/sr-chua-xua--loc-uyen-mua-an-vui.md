@@ -15,6 +15,8 @@ Sau ngày Lễ Tạ ơn (Thanksgiving), cả nhà thầy Trời Minh Lượng ng
 
 Xuất gia sống trong đại chúng là một điều gì đó không thể diễn tả được bằng lời. Gia đình huyết thống có khi phải đến chùa tận mắt chứng kiến thì mới thấy.
 
+{% image "article2024/Sr. Chua Xua/DSC02084.JPG", "removeTopMargin" %}
+
 Em gái thầy Trời Minh An tên Jenni, sinh viên đại học năm cuối, lần đầu tiên dắt bạn trai về tu viện để “ra mắt” anh hai. Cậu người yêu trẻ ngạc nhiên một cách rất chân thành khi đón nhận sự ấm áp từ tăng thân đông đảo dành cho cậu ấy: “Tôi nghe Jenni kể rằng gia đình cô ấy nhỏ và cô ấy chỉ có một anh trai thôi à!”. Jenni bây giờ có rất nhiều anh chị bởi vì Jenni đã trở thành em gái của tất cả chúng tôi.
 
 ## Món đậu gà của thầy Pháp Hội 
@@ -65,10 +67,14 @@ Vài ngày trước khi Ni trưởng đến có một “làn sóng” Covid b�
 
 Song tất cả những khó khăn thử thách ấy không ngăn được niềm hạnh phúc của đại chúng khi được đón Ni trưởng. Người có Covid thì mang khẩu trang đứng xa thiệt xa, những ai còn khỏe dù đứng gần vẫn mang khẩu trang để bảo vệ cho Ni trưởng. Nghe Ni Trưởng hỏi: “Sư con nào đó? Đeo khẩu trang làm sư cô không thấy mặt, không biết ai hết trơn, thương quá!”. Chỉ cần được nghe tiếng Ni trưởng là ai cũng tươi lên, vui vẻ phấn chấn dù đang bệnh.
 
-Có Ni trưởng về, cả xóm như có thêm nguồn năng lượng hạnh phúc dồi dào. Khóa tu diễn ra tốt đẹp, người người về tu viện, vừa tham dự khóa tu vừa thăm Ni Trưởng, kể cả những ân nhân từ ngày xưa, giờ đã lớn tuổi, đi đứng không dễ dàng nữa vẫn cố gắng về Lộc Uyển. Tăng thân trẻ Việt -- Tiêu Dao -- huy động toàn lực lên giúp quý sư cô. Lộc Uyển tháng Năm vui như hội.
+Có Ni trưởng về, cả xóm như có thêm nguồn năng lượng hạnh phúc dồi dào. Khóa tu diễn ra tốt đẹp, người người về tu viện, vừa tham dự khóa tu vừa thăm Ni Trưởng, kể cả những ân nhân từ ngày xưa, giờ đã lớn tuổi, đi đứng không dễ dàng nữa vẫn cố gắng về Lộc Uyển. Tăng thân trẻ Việt – Tiêu Dao – huy động toàn lực lên giúp quý sư cô. Lộc Uyển tháng Năm vui như hội.
 
 Nhờ chư Bụt chư tổ gia hộ, cuối cùng mọi sự kiện cũng được diễn ra như dự định và thuận lợi mọi đường. Các sư cô cũng mau chóng phục hồi sức khỏe, trở lại tươi mới, được thay phiên nhau làm thị giả và nấu ăn cho Ni trưởng. Đại chúng luyện tập bài múa “Tiếng hát mùa xuân”, tiết mục được dàn dựng rất công phu và công diễn ngay dưới những gốc sồi trước cốc Ni trưởng. Những ai theo chân Ni trưởng trong chuyến hoằng pháp US Tour được chứng kiến giây phút ấy cũng đều hạnh phúc ngất ngây.
 
 Giây phút chia tay Ni trưởng về lại Pháp rất cảm động. Ni trưởng bảo muốn nghe quý thầy hát bài “Hotel California” phiên bản Lộc Uyển trước khi ra phi trường. Thế là chỉ trong tích tắc, ban nhạc Tam Bảo xuất hiện ngay trước cốc Ni trưởng với nhạc trưởng là thầy Pháp Lưu và đầy đủ tất cả quý thầy, quý sư cô vừa đánh guitar vừa hát. Sáu sư em mới xuất gia chưa đầy tháng trong gia đình cây Toyon thì cứ tròn xoe mắt nhìn quý thầy, quý sư cô ngày thường nghiêm trang vậy mà lúc bên Ni trưởng thì hồn nhiên như em bé. Ước mong sao trong những năm tới Ni trưởng sẽ về an cư ba tháng với đại chúng tu viện Lộc Uyển hoặc tham gia chuyến US Tour cùng Làng Mai Mỹ.
 
 Chuyện để kể vẫn còn nhiều lắm, mời bạn về Lộc Uyển uống trà nghe kể chuyện trực tiếp nhé!
+
+<div class="article-end"></div>
+
+{% image "article2024/Sr. Chua Xua/DSC08857.JPG", "noFloat" %}

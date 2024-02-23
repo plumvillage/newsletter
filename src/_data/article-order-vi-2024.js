@@ -23,8 +23,8 @@ module.exports = [
     // PART 2
     "cau-tra-loi-la-tinh-thuong",
     "sr-bo-de--bong-dang-thay",
-    "br-phap-luu--khuc-hat-tang-than",
     "sr-dinh-nghiem--cong-phu-quet-la",
+    "br-phap-luu--khuc-hat-tang-than",
     // PHuu
     "sr-chua-xua--loc-uyen-mua-an-vui",
     // TChi

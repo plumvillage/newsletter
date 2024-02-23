@@ -17,6 +17,8 @@ Em như thấy lại mình của những năm vừa đôi mươi. Chỉ tiếc l
 
 Em đã bắt đầu thấy sự gắn kết bên trong mình lan tỏa ra và gắn kết mọi thứ xung quanh. Những khối logic đã từng rời rạc, hỗn độn trong em, đôi khi chúng tự dưng liền lại như một dòng sông chảy tràn, hàn gắn những vùng đất cằn khô, đã thôi chối từ những tình thương không hoàn hảo… Cũng tại nơi đó em thấy sự hiện diện của quý sư cô rất gần bên mình, những thiết tha nhiệm mầu này đều là sự tiếp nối của những gì mà quý sư cô đã dành tặng cho em, và cả của những điều dễ thương đã đến trong đời …
 
+{% image "article2024/Tien Nguyen/IMG_5897.jpg" %}
+
 Không cần phải giữ người lại bên ta, ta có thể đưa người đến muôn nơi, từ nơi trái tim này…
 
 Mọi người hay nói em thông minh, em cũng thấy vậy… Vậy mà, những ngày ở tu viện, em đã chẳng muốn học cái gì hết, quý sư cô đã chiều hư em rồi.
@@ -32,3 +34,8 @@ Em biết ơn Bụt, Tổ, biết ơn Sư Ông, quý sư cô và những ngườ
 Trời có những ngày ươm nắng rất đẹp, và có những ngày mưa gió sụt sùi, em bây giờ chỉ đơn giản đang làm những gì mà quý sư cô đã làm cho em. Em biết, mình sẽ lại vụng về, sẽ lại lầm lỗi, sẽ có lúc đi qua những ngày bão tố trong đời, sẽ rong ruổi khắp chốn, có lúc sẽ thấy bàn tay mình mọc đầy gai nhọn, chạm vào đâu cũng gây ra vết thương. Những lúc như vậy, em mong mình lại có thể ngồi cùng nhau, cùng nhau ăn một bữa cơm hoặc ăn kem trong yên lặng, hay cười vui vì được nhìn thấy một chú koala trước cửa nhà…
 
 Em mong mọi người luôn được bình an.
+
+<div class="article-end"></div>
+
+{% image "article2024/Tien Nguyen/Nhap Luu.jpg" %}
+{% image "article2024/Tien Nguyen/image12.jpeg", "removeTopMargin" %}

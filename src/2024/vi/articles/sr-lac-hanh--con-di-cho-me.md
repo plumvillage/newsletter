@@ -7,6 +7,8 @@ author: Sư cô Chân Lạc Hạnh
 
 Ở Làng vừa kết thúc ba tháng An cư kiết đông, với chủ đề trọng tâm là đạo đức, cụ thể hơn là những đóng góp của đạo Bụt cho một nền đạo đức toàn cầu. Là một xuất sĩ theo truyền thống Làng Mai, chúng con có những giới luật và uy nghi giúp nuôi dưỡng và giữ gìn nếp sống phạm hạnh. Đối với con, nếp sống ấy không chỉ nuôi dưỡng thân tâm mà còn giữ gìn và bảo hộ được ba nghiệp thân-khẩu-ý trong hiện tại, góp phần chuyển hóa những lầm lỗi, hối tiếc trong quá khứ và đảm bảo cho một tương lai tươi sáng hơn. Nếp sống an lành, nhân ái từ bi, có hiểu có thương vẫn luôn là kim chỉ nam định hướng cho cuộc đời con.
 
+{% image "article2024/sr-lac-hanh/057.Varsavasana_2023-24_011724.jpg" %}
+
 ## Điều gì là đúng đắn?
 
 Đó là câu hỏi mà con phải đối diện nhiều lần trong đời. Có những lúc con thấy mình đứng chênh vênh giữa ngã ba đường, tê liệt khi nhận ra rằng bất kỳ quyết định nào mình đưa ra sẽ đưa mình đến những hướng đi khác nhau và định hình nên số phận cuộc đời mình. Con tự cân nhắc những điểm tích cực và tiêu cực, mường tượng những viễn cảnh có thể xảy ra, đau đầu khi không biết phải làm gì, cứ như vậy tâm trí và trái tim giằng xé lẫn nhau. Con chật vật khi đưa ra những quyết định lớn, cảm tưởng như chắc chắn là có một quyết định khác đúng đắn hơn, mặc dù không phải lúc nào cũng rõ ràng và dễ nắm bắt.
@@ -31,11 +33,15 @@ Trước đó, lòng con luôn mong muốn được đến Làng nhưng điều 
 
 Nhờ Ashtanga Yoga, nhiều lần con được mời đến Hàn Quốc để giảng dạy. Những lần chia sẻ ấy là những trải nghiệm chữa lành sâu sắc. Cùng lúc ấy, những lời dạy của Thầy về phương pháp đối diện với buồn đau, mất mát; chữa lành em bé trong tự thân; chuyển hóa những khổ đau được truyền trao từ ông bà tổ tiên, gia đình và xã hội, con đã dần hàn gắn được những đổ vỡ trong nội tâm. Tuy vậy, con vẫn cảm thấy bế tắc và thường có xu hướng kháng cự khi nghe dạy về tình thương không điều kiện của người mẹ dành cho đứa con của mình, hay là khi thực tập quán chiếu hình ảnh mẹ là em bé năm tuổi, hay là lúc thực tập đi thiền hành cùng với mẹ. Thật lòng, con không thể kết nối được với người mẹ ruột của mình qua những phương pháp thực tập ấy, có lẽ bởi vì trong con không có ký ức gì về mẹ.
 
+{% image "article2024/sr-lac-hanh/_DSC7268.JPG" %}
+
 Với con, vẻ đẹp của sự thực tập chánh niệm miên mật là khi ta thoát khỏi được trí năng và đi thẳng vào được chiều sâu của trái tim để chạm tới sự hiểu biết và chữa lành. Trong một chuyến trở về Hàn Quốc, các bác sĩ cho con biết tình trạng của mẹ phải nằm liệt giường, không thể ăn được thức ăn cứng và phải ăn qua ống thông từ tháng Giêng năm 2017. Năm ấy đã là năm thứ 20 kể từ khi mẹ bị đột quỵ. Con khá bất ngờ về tinh thần kiên cường của mẹ và cũng thường quán chiếu sự sống và tự hỏi điều gì đã giúp mẹ có thể tồn tại như vậy. Năm 2018, con quyết định dứt khoát chuyển đến Seoul, sau khi nhận được lời mời về giảng dạy Ashtanga Yoga vô thời hạn, mặc dù Bruno – người bạn đời của con lúc ấy – sẽ không đi cùng. Đó là một quyết định đau lòng nhưng con biết rằng việc chữa lành là thiết yếu và tự mình phải đối mặt. Cách mà người khác nhìn nhận về con và hình ảnh của con khi có Bruno bên cạnh so với khi phải sống một mình là hoàn toàn khác nhau. Thật kỳ lạ, sự chia ly cũng là cách để cứu vãn mối liên hệ, và giữ cho tình yêu giữa con và Bruno được nguyên vẹn, bởi vì những chuyến đi và về liên tục của con cũng đã bắt đầu ảnh hưởng tới tình cảm của hai người.
 
 ## Điều gì là đúng đắn?
 
 Sống và giảng dạy ở Hàn Quốc là một trong những khó khăn lớn mà con từng đối mặt, nhiều hạt giống ẩn tàng trong tâm thức đã được chạm tới. Nhưng đó cũng là một trong những trải nghiệm đẹp và nuôi dưỡng, vì nhờ đó mà con có cơ hội tiếp xúc được với tình người ấm áp trong văn hóa dân tộc, giúp con xóa bỏ được những mặc cảm bị bỏ rơi và chia cách nằm sâu trong tâm thức.
+
+{% image "article2024/sr-lac-hanh/IMG_2603.JPG" %}
 
 Đại dịch Covid đã làm đảo lộn cuộc sống của con, việc cách ly xã hội và hạn chế di chuyển khiến con đặt lại câu hỏi cho quỹ đạo cuộc đời mình. Do giãn cách xã hội, không thể tới bệnh viện thăm mẹ, con tiếp tục quán chiếu về hướng đi và môi trường sống của mình. Trong thời điểm thế giới tạm dừng các hoạt động tập thể và mọi người tìm cách kết nối với nhau bằng những hoạt động trực tuyến, Làng Mai một lần nữa xuất hiện như vị cứu tinh giúp con tìm về với những khát vọng sâu sắc nhất.
 

@@ -1084,6 +1084,8 @@ figure#article2024Done-Daffodil-familySrDJang-Hanhe {
     width: 47%;
 }
 
+
+.article-khuc-hat-tang-than .editors-preface,
 .article-thap-sang-hien-huu .editors-preface,
 .article-love-is-the-answer .editors-preface {
     column-span: all;
@@ -1092,6 +1094,11 @@ figure#article2024Done-Daffodil-familySrDJang-Hanhe {
     margin-right: auto;
 }
 
+.article-khuc-hat-tang-than .editors-preface {
+    width: 72%;
+}
+
+.article-khuc-hat-tang-than .editors-preface::after,
 .article-thap-sang-hien-huu .editors-preface::after,
 .article-love-is-the-answer .editors-preface::after {
     display: none;
@@ -1229,6 +1236,7 @@ html:lang(en) figure#article2024Done-BrPhap-UngBrPhap-Unge {
 
 
 /* column-span images */
+figure#article2024Sr-Chua-XuaDSC08857,
 figure#article2024Br-Duc-NiemPV202359,
 figure#article2024kieu-trinhDSC09880e,
 figure#article2024Tien-NguyenIMG5897,
@@ -1295,6 +1303,9 @@ figure#article2024Tien-NguyenIMG5897 {
     margin-top: 2em;
     margin-bottom: 0em;
 }
+html:lang(vi) figure#article2024Tien-NguyenIMG5897 {
+    width: 90%;
+}
 
 figure#article2024Done-Daffodil-family200110723e2 {
     width: 100%;
@@ -1321,8 +1332,9 @@ figure#article2024Done-Br-Phap-LuuIMG6621e {
     /* margin-bottom: 0em; */
 }
 
-figure#article2024kieu-trinhDSC09880e {
-
+figure#article2024Sr-Chua-XuaDSC08857 {
+    width: 80%;
+    margin-bottom: 0em;
 }
 
 figure#article2024Sr-Lam-Hy012 {
@@ -1437,6 +1449,8 @@ figure#article2024br-duc-hienIMG0754e {
     height: 55mm;
 } */
 
+figure#article2024Sr-Lam-Hy012 img,
+figure#article2024Sr-Chua-XuaDSC08857 img,
 figure#article2024Br-Duc-NiemPV202359 img,
 figure#article2024kieu-trinhDSC09880e img,
 html:lang(en) figure#article2024Done-sr-thuan-nghiemIMG-0378 img,
@@ -1475,6 +1489,19 @@ figure.myImgTest img
     transform: translate(-50%, -50%);
 }
 
+figure#article2024Sr-Lam-Hy012 {
+    height: 84mm;
+}
+figure#article2024Sr-Lam-Hy012 img {
+    top: 20%;
+}
+
+figure#article2024Sr-Chua-XuaDSC08857 {
+    height: 64.5mm;
+}
+figure#article2024Sr-Chua-XuaDSC08857 img {
+    top: 45%;
+}
 figure#article2024Br-Duc-NiemPV202359 img {
     top: 36%;
 }

@@ -13,6 +13,8 @@ Con quyết định hành động hơn là ngồi chờ cho đến khi điều k
 
 Nhờ kinh nghiệm những lần tập thể dục đã giúp con thoát khỏi trạng thái tâm lý ấy mà con mới có thể thật sự khởi động để bắt đầu chạy, như phương pháp “thay chốt” mà Thầy đã dạy chúng con. Có thể với người khác thì hát ca, chơi nhạc, vẽ tranh, hay làm đồ thủ công sẽ giúp họ mở toang được cánh cửa bao la của tâm thức và không quá đắm chìm trong những lo toan thường nhật.
 
+{% image "article2024/Sr. Lâm Hỷ/image_123923953-3-e.jpg", "removeTopMargin" %}
+
 Con có cảm giác như mình đã khám phá ra một lần nữa tập thể dục, trong đó có bộ môn chạy bộ, là một pháp môn mới mẻ cho mình. Vấn đề không phải là chạy với tốc độ cao, cự ly dài hay là chạy trong thời gian bao lâu. Mà chạy bộ chính là cách dễ nhất giúp con tìm lại được không gian trong lòng mình, và nhìn mọi chuyện với đôi mắt cởi mở, thông hơn thay vì bị che lấp bởi những suy nghĩ luẩn quẩn trong tâm trí. Có thể đó là những khó khăn giữa con và người khác, có khi là lo lắng tưởng tượng, hay là những điều mà con khó chấp nhận và muốn chúng khác đi.
 
 Sau khi chạy bộ, con thấy mình tươi mát hơn, dễ dàng có mặt cho sư chị sư em, lắng nghe và bao dung hơn với những người xung quanh và cả với những giới hạn của bản thân. Dường như trong con, mọi thứ trở nên cân bằng hơn. Nếu như con không vận động thì năng lượng không lưu thông, tâm trí sẽ càng ngày càng hẹp hòi, phán xét và bế tắc. Con cũng thường tự hỏi có phải con đang chạy trốn điều gì không. Nhưng chỉ đơn giản là trong khi chạy bộ, băng mình qua những cánh đồng miền quê, con thấy con được trở về với hình hài và cảm nhận sự sống đang có mặt thật sự. Lợi ích của việc tập thể dục thì không thể bàn cãi. Các môn thể thao vận động điều hòa và ổn định nhịp tim, giúp hơi thở sâu hơn, hỗ trợ cân bằng nội tiết tố,… đây chỉ mới là một số lợi ích. Vận động, đi lại, và chạy là những hoạt động tự nhiên cơ bản của con người.
@@ -26,3 +28,7 @@ Thỉnh thoảng, con vẫn muốn khám phá và tìm hiểu phương pháp áp
 Một tấm gương khá đặc biệt về người phụ nữ có đức tin, có nếp sống rất năng động và là một nữ tu Kitô giáo, bà là Xơ Madonna Budder, nổi tiếng với biệt danh “Iron Nun” (Nữ tu sĩ thép). Bà bắt đầu đến với môn thể thao chạy bộ để giải trí ở tuổi 48. Theo thời gian, bà tham gia nhiều hơn vào những giải chạy và các môn phối hợp khác. Cố gắng sống đúng với lý tưởng phụng sự và đam mê của mình, bà đã xin lời khuyên từ một vị giám mục. Vị ấy trả lời: “Thưa Xơ, tôi mong các vị linh mục của tôi cũng sẽ làm được những gì mà Xơ đang làm”. Hiện tại, bà 92 tuổi và đã chinh phục được hơn 340 cuộc thi ba môn phối hợp.
 
 Nếu chúng ta có nếp sống năng động ngay từ khi còn nhỏ và tập cho mình thói quen thể dục thì rất hữu ích. Tuy nhiên, chỉ đơn giản tận hưởng việc chạy bộ và vận động đơn thuần cũng đã mang lại rất nhiều niềm vui rồi. Con chạy bộ thường xuyên, vì nó giúp con dừng lại: dừng lại để không đánh mất mình trong những suy nghĩ miên man, dừng lại những tư duy tiêu cực và trở về tiếp xúc với những mầu nhiệm của hiện tại bằng tất cả mọi giác quan của mình.
+
+<div class="article-end"></div>
+
+{% image "article2024/Sr. Lâm Hỷ/012.jpg" %}
