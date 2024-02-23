@@ -3,13 +3,13 @@ title: The Profound Silence of Dharma Mountain
 author: Sister Chân Trăng Tam Muội
 ---
 
-<div class="editors-preface"><p>{% image "article2024/sr-tam-muoi/Sr Tam Muoi_e.jpg" %}Sr. Tam Muoi helped organise a 7-day silent retreat at Dharma Mountain, a small mindfulness practice center located in the Cevennes mountains in the south-east of France. The following are excerpts from her journal.</p></div>
+<div class="editors-preface"><p>{% image "article2024/sr-tam-muoi/Sr Tam Muoi_e.jpg" %}Sister Tam Muoi helped organise a 7-day silent retreat at Dharma Mountain, a small mindfulness practice center located in the Cevennes mountains in the south-east of France. The following are excerpts from her journal.</p></div>
 
 ## Sunday
 
-The first day of silence. At first, I was too busy to notice. Offering the first and only dharma talk, facilitating a sharing circle, organizing the texts for the meditations, my “busyness” continued. Even so, while sitting in meditation this morning, when a deep silence filled our spectacular meditation hall (a yurt perched high on the rocks), as I watched the clouds playing hide and seek in the valleys below, there was a letting go and tears fell. Tears of gratitude that this wonderful practice center exists, Dharma Mountain, hidden high in the wild mountains of the Cevennes, aswell as gratitude for the support of so many who have enabled this retreat to happen.
+The first day of silence. At first, I was too busy to notice. Offering the first and only dharma talk, facilitating a sharing circle, organizing the texts for the meditations, my “busyness” continued. Even so, while sitting in meditation this morning, when a deep silence filled our spectacular meditation hall (a yurt perched high on the rocks), as I watched the clouds playing hide and seek in the valleys below, there was a letting go and tears fell. Tears of gratitude that this wonderful practice center exists, Dharma Mountain, hidden high in the wild mountains of the Cevennes, as well as gratitude for the support of so many who have enabled this retreat to happen.
 
-Throughout my monastic life I have kept this dream warm of one day facilitating a silent retreat that would be as nourishing for the monastics as for the retreatants. It felt risky because we do not offer silent retreats at Plum Village. I felt I would be venturing off the beaten track. However, my monastic sisters encouraged me and showed their trust. Sr. Dao Nghiem and Sr. Hien Duc were motivated to help organize and to support in addition to the 27 French retreatants who signed up with enthusiasm to invite more silence into their lives.
+Throughout my monastic life, I have kept this dream warm of one day facilitating a silent retreat that would be as nourishing for the monastics as for the retreatants. It felt risky because we do not offer silent retreats at Plum Village. I felt I would be venturing off the beaten track. However, my monastic sisters encouraged me and showed their trust. Sister Dao Nghiem and Sister Hien Duc were motivated to help organize and to support in addition to the 27 French retreatants who signed up with enthusiasm to invite more silence into their lives.
 
 Time to do nothing, to be. To slow down. To put away the phone.
 
@@ -23,9 +23,9 @@ I was quite nervous, could our friends - all Plum Village practitioners - and my
 
 ## Monday
 
-I could feel the settling in around me, the joy was palpable and our concentration was deepening. The 16 Exercises of the Discourse on the Full Awareness of Breathing was our guide for the week. We each had a copy on our meditation mat as a road map in case we lost our way; the one and only Dharma talk/orientation on the first morning was about practicing with this discourse. The Buddha invited us to dive deeply into our bodily sensations and to observe our breath and body with curiosity and wonder.
+I could feel the settling in around me, the joy was palpable and our concentration was deepening. The 16 exercises of the Discourse on the Full Awareness of Breathing was our guide for the week. We each had a copy on our meditation mat as a road map in case we lost our way; the one and only Dharma talk/orientation on the first morning was about practicing with this discourse. The Buddha invited us to dive deeply into our bodily sensations and to observe our breath and body with curiosity and wonder.
 
-In the hall there was a growing sense of having a lot of time and the space to just be. As the sun rose, we watched the changing display of light and color across the mountains. We enjoy. We hear the blackcaps sing “chuk, chuk, chuk” and nuthatches “ouiee, ouiee, ouiee”, greeting a new day.
+In the hall there was a growing sense of having a lot of time and the space to just be. As the sun rose, we watched the changing display of light and color across the mountains. We enjoy. We hear the blackcaps sing “chuk, chuk, chuk” and nuthatches “ouiee, ouiee, ouiee,” greeting a new day.
 
 At the close of the midmorning session, a huge thunderstorm broke overhead. We all spontaneously lay down, allowing the driving rain, the wind, the thunder to resonate through our silent bodies. We surrendered to the Earth, to the rock beneath our backs. As suddenly, the storm passed. Torrents were spurting from the mountainside, trees were dripping… silence. A rainbow was stretching from mountain to mountain.
 
@@ -38,7 +38,7 @@ Joy was with us and around us. Master Linji reminds us that we are already enoug
 {% image "article2024/sr-tam-muoi/IMG-20230913-WA0001_e.jpg", "noFloat" %}
 {% image "article2024/sr-tam-muoi/IMG_20230922_105816.jpg", "noFloat" %}
 
-Falling in love again and again with our beautiful planet; here, it is easy to gladden the mind.<span class="note">A reference to the 10<sup>th</sup> exercise of the Discourse on the Full Awareness of Breathing.</span> Breath became a friend ever present in my body. Walking slowly up and down in the meditation hall, my feet felt huge and soft, like I was padding with a lion's paws, with nowhere to go. “We are already what we want to become.”
+Falling in love again and again with our beautiful planet; here, it is easy to gladden the mind.<span class="note">A reference to the 10<sup>th</sup> exercise of the Discourse on the Full Awareness of Breathing.</span> Breath became a friend ever present in my body. Walking slowly up and down in the meditation hall, my feet felt huge and soft, like I was padding with a lion's paws, with nowhere to go. *“We are already what we want to become.”*
 
 Later, our sharing circle was silently journaling, together under the pines, responding to questions: “What, where and how do you feel in your body? What is alive in your senses? What resistances are present? What cows (attachments) would you like to let go of? What conditions for joy do I already have?”
 
@@ -54,7 +54,7 @@ That evening, I sat easily for an hour. I was surprised when the bell was invite
 
 ## Thursday
 
-The first day of Autumn, truly the season of mists and mellow fruitfulness. Throughout this week, we have tasted the fruits of stopping, relaxing, looking deeply, living together as a community, renewing our confidence in sitting meditation, meeting all that comes up in our minds with friendliness and compassion, and inviting all the parts of ourselves to come to the table with no discrimination. In the last session of dharma sharing, a friend shared that he had never been able to get in touch with his inner child, but here, he invited his young self to walk with him on the mountain tracks and to play with him by the stream. He had listened to his inner child for the first time and his heart opened with love, understanding and compassion for the child, himself, and his ancestors.
+The first day of autumn, truly the season of mists and mellow fruitfulness. Throughout this week, we have tasted the fruits of stopping, relaxing, looking deeply, living together as a community, renewing our confidence in sitting meditation, meeting all that comes up in our minds with friendliness and compassion, and inviting all the parts of ourselves to come to the table with no discrimination. In the last session of dharma sharing, a friend shared that he had never been able to get in touch with his inner child, but here, he invited his young self to walk with him on the mountain tracks and to play with him by the stream. He had listened to his inner child for the first time and his heart opened with love, understanding and compassion for the child, himself, and his ancestors.
 
 This week we touched healing, held by the everchanging landscape. The beauty of the wilderness cracked our hearts wide open, and allowed us to experience the profound silence of the mountains and the deepening silence within.
 
@@ -62,10 +62,10 @@ This week we touched healing, held by the everchanging landscape. The beauty of 
 
 As the end of the retreat approached, we were invited to gently ease out of our silence. Our gratitude and happiness were expressed -- some in the songs of their ancestors, some in the ancient Occitan language, or with heartfelt words:
 
- - “Silence and the landscape opened up a vast space inside of me.”
- - “Connecting with the elements wind, rain, storm. I became one with them.”
- - “A magical and inspiring place, the presence of nature supported our practice.”
- - “I was so nourished to discover this new way of practicing, to travel together on the path of inner silence…”
+“Silence and the landscape opened up a vast space inside of me.”
+“Connecting with the elements wind, rain, storm. I became one with them.”
+“A magical and inspiring place, the presence of nature supported our practice.”
+“I was so nourished to discover this new way of practicing, to travel together on the path of inner silence…”
 
 ## Saturday
 
