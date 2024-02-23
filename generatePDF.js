@@ -220,10 +220,10 @@ let workInProgress = 0
 // we first generate all raw PDFs. onFinished() adds the downsample jobs to this queue and then proceeds execution with more threads (because the downsample is not as memory-hungry)
 let workQueue = [
 
-    () => generatePDF("http://localhost:8080/2024/en/a4/", `./docs/2024/en-a4`, onFinshed),
+    // () => generatePDF("http://localhost:8080/2024/en/a4/", `./docs/2024/en-a4`, onFinshed),
     // () => generatePDF("http://localhost:8080/2024/en/a4-bleed/", `./docs/2024/en-a4-bleed`, onFinshed),
     
-    // () => generatePDF("http://localhost:8080/2024/vi/a4/", `./docs/2024/vi-a4`, onFinshed),
+    () => generatePDF("http://localhost:8080/2024/vi/a4/", `./docs/2024/vi-a4`, onFinshed),
     // () => generatePDF("http://localhost:8080/2024/en/articles-print-preview/br-duc-dinh--a-day-of-alms/", `./docs/2024/br-duc-dinh--a-day-of-alms`, onFinshed),
     // () => generatePDF("http://localhost:8080/2024/en/articles-print-preview/br-phap-huu--music-a-dharma-door/", `./docs/2024/br-phap-huu--music-a-dharma-door`, onFinshed),
     // () => generatePDF("http://localhost:8080/2024/en/articles-print-preview/br-minh-hy--the-door-of-compassion/", `./docs/2024/br-minh-hy--the-door-of-compassion`, onFinshed),

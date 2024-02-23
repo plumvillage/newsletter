@@ -15,7 +15,7 @@ Facing the staircase leading upstairs is an alcove enclosed by a curtain, a shar
 
 {% image "article/sr-giac-nghiem/15-edited.jpg" %}
 
-Just opposite the entrance another stone building conceals the heart of the community: the living room (*salle à vivre*), which simultaneously serves as a dining room, kitchen, and meeting place. This is where our dear Thay prepares tea with great simplicity, which he then offers to us with a gesture of great gentleness. I am impressed by the deep mindfulness in the gestures of our teacher.  At this time — I did not know what mindfulness was — I discovered: it is the beauty of full awareness. *Thay is true, Thay is love.*
+Just opposite the entrance another stone building conceals the heart of the community: the living room (*salle à vivre*), which simultaneously serves as a dining room, kitchen, and meeting place. This is where our dear Thay prepares tea with great simplicity, which he then offers to us with a gesture of great gentleness. I am impressed by the deep mindfulness in the gestures of our teacher. At this time — I did not know what mindfulness was — I discovered: it is the beauty of full awareness. *Thay is true, Thay is love.*
 
 At the end of the room, a door opens into a small meditation room where a fireplace serves as an altar. Here the whole community gathers to meditate. There, all is happiness. Another door opens onto a vast field with a white cloud of wild carrot flowers interwoven with the sky-blue flowers of chicory, just like the Milky Way. I secretly think: *God has laid his finger on this precious earth. I have arrived, I am home.* Thay is there, his attentive presence pervades the garden, Thay removes the wilted flowers at the end of each day, and waters the plants with care.
 

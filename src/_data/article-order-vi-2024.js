@@ -27,7 +27,7 @@ module.exports = [
     "br-phap-luu--khuc-hat-tang-than",
     // PHuu
     "sr-chua-xua--loc-uyen-mua-an-vui",
-    // TChi
+    "br-thien-chi--hoa-no-tu-vuon-tam",
     "br-hai-thuong--nguoi-di-hai-thuoc-dau-non",
     "br-hai-thuong--trot-thuong",
     "br-hai-thuong--nguoi-da-ve-da-toi",

@@ -937,7 +937,7 @@ h1#transforming-resentment-into-compassion {
     margin-top: -9pt !important;
 }
 .article-trot-thuong h2.author {
-    margin-top: -27pt !important;
+    margin-top: -19pt !important;
 }
 #thap-sang-hien-huu + h2.author {
     margin-top: -9pt !important;
@@ -1120,7 +1120,7 @@ figure#article2024Done-interview-with-thayTNH-spain2014-2 + p {
     margin-top: 0em;
 }
 
-
+.PAGE-OF-article2024Br-Hai-ThuongENGDSC5431e2 p,
 .PAGE-OF-LTLM47-2024-cover-NH-TeensLTLM47-2024July2023sararemington0013editedcroppedoverflowLight p,
 .article-theo-dau-chan-xua p,
 .PAGE-OF-article2024Done-interview-with-thayIMG9672 p {
@@ -1236,6 +1236,7 @@ html:lang(en) figure#article2024Done-BrPhap-UngBrPhap-Unge {
 
 
 /* column-span images */
+figure#article2024Br-Hai-ThuongVNENguoi-di-hai-thuoc-dau-nonDSC4924e,
 figure#article2024Sr-Chua-XuaDSC08857,
 figure#article2024Br-Duc-NiemPV202359,
 figure#article2024kieu-trinhDSC09880e,
@@ -1293,6 +1294,7 @@ figure#LTLM47-2024-cover-NH-TeensLTLM47-2024July2023sararemington0013editedcropp
     margin-bottom: 0em;
 }
 
+figure#article2024Br-Hai-ThuongVNENguoi-di-hai-thuoc-dau-nonDSC4924e,
 figure#article2024br-duc-hienChileIMG2160e,
 figure#article2024Sr-Tri-Nghiem000 {
     width: 90%;
@@ -1312,10 +1314,15 @@ figure#article2024Done-Daffodil-family200110723e2 {
     margin-top: 2em;
     margin-bottom: 0em;
 }
-figure#article2024br-thien-chiNewForestRetreat-PVTwanPeetersMay-2023-103,
+html:lang(en) figure#article2024br-thien-chiNewForestRetreat-PVTwanPeetersMay-2023-103,
 figure#article2024Done-interview-with-thayVncon-ve-miong-tua-noi-dat-me {
     width: 95%;
     margin-top: 2em;
+    margin-bottom: 0em;
+}
+html:lang(vi) figure#article2024br-thien-chiNewForestRetreat-PVTwanPeetersMay-2023-103 {
+    width: 77%;
+    margin-top: 1em;
     margin-bottom: 0em;
 }
 figure#article2024sr-tam-muoibelle-vue-ouestJPGe,
@@ -1449,6 +1456,7 @@ figure#article2024br-duc-hienIMG0754e {
     height: 55mm;
 } */
 
+figure#article2024Br-Hai-ThuongVNENguoi-di-hai-thuoc-dau-nonDSC4924e img,
 figure#article2024Sr-Lam-Hy012 img,
 figure#article2024Sr-Chua-XuaDSC08857 img,
 figure#article2024Br-Duc-NiemPV202359 img,
@@ -1494,6 +1502,13 @@ figure#article2024Sr-Lam-Hy012 {
 }
 figure#article2024Sr-Lam-Hy012 img {
     top: 20%;
+}
+
+figure#article2024Br-Hai-ThuongVNENguoi-di-hai-thuoc-dau-nonDSC4924e {
+    height: 73mm;
+}
+figure#article2024Br-Hai-ThuongVNENguoi-di-hai-thuoc-dau-nonDSC4924e img {
+    top: 29%;
 }
 
 figure#article2024Sr-Chua-XuaDSC08857 {
@@ -1927,3 +1942,14 @@ html:lang(en) .PAGE-OF-article2024Done-Memorial-Ceremony67SuOng2ndYearMemorial22
     padding-left: 8mm;
 }
 
+.article-trot-thuong p {
+    text-indent: -2mm !important;
+    padding-left: 2mm;
+}
+.PAGE-OF-article-trot-thuong p:first-letter,
+.article-trot-thuong p:first-letter {
+    font-size: 120% !important;
+}
+.article-trot-thuong p + p {
+    margin-top: 1.3mm !important;
+}

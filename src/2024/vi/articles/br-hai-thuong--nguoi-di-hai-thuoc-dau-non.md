@@ -3,6 +3,14 @@ title: Người đi hái thuốc đầu non
 author: Nhớ về thầy Chân Trời Hải Thượng
 ---
 
+<div class="editors-preface"><p>Thầy Trời Hải Thượng sinh năm 1990 và thị tịch năm 2023 lúc mới 33 tuổi đời và 5 tuổi hạ, trong sự cảm thương và tiếc nhớ của hai gia đình tâm linh, huyết thống, bạn bè và cư sĩ. Thầy xuất gia và thọ giới sadi tại tu viện Vườn Ươm, Làng Mai Thái Lan năm 2014 trong gia đình cây Sồi Đỏ, thọ giới lớn năm 2019 tại tu viện Vườn Ươm trong Đại giới đàn Đã về Đã tới. Sau nhiều năm tu tập và phụng sự ở Vườn Ươm, thầy đã tình nguyện sang xây dựng tăng thân ở Viện Phật học Ứng dụng châu Âu (EIAB), Đức, nơi thầy đã đột ngột ra đi vào một buổi sáng tháng 10 năm 2023.</p>
+
+{% image "article2024/Br Hai Thuong/ENG/012 copy_e.jpg" %}
+
+<p>
+BBT xin giới thiệu bài viết “Trót thương” và “Người đã về, đã tới” của thầy Trời Hải Thượng. Đọc bài viết, chúng ta sẽ được tiếp xúc với tâm hồn tinh tế, tình yêu cuộc sống, sự có mặt trọn vẹn, sự trân quý từng phút từng giây của thầy Trời Hải Thượng. Chỉ khi nào người ta có khả năng an trú trong hiện tại thì mới có thể cảm và nhìn thấy từng góc cạnh, từng chi tiết nhỏ những nét đẹp nhiệm mầu của sự sống đến như thế.</p><p>
+Dù thầy Trời Hải Thượng không còn biểu hiện qua hình tướng thông thường nữa, chúng ta vẫn có thể tiếp xúc với thầy qua các bài viết sâu sắc và những vần thơ phản ánh tâm hồn tinh tế, thoát tục nhưng tha thiết yêu đời của thầy.</p></div>
+
 ## Suối nguồn an lạc
 
 Thầy Trời Hải Thượng kính thương!
@@ -13,16 +21,12 @@ Thầy biết không, con rất hạnh phúc khi có cơ hội được sống, 
 
 Thầy hay gọi con là: “Sư cô Nguyệt Nghiêm ơi!” làm cho con có cảm giác là Bụt đang gọi con và Sư Ông đang gọi con. Thầy không bao giờ gọi tắt tên “Nguyệt” hay chỉ gọi “sư cô” mà hay gọi nguyên câu “Sư cô Nguyệt Nghiêm ơi!” làm cho con chánh niệm hơn vì trong âm thanh thầy gọi, con nhận được sự có mặt của thầy cho con, và tiếng thầy gọi giống như Sư Ông đã từng gọi con. Mỗi lần nghe âm thanh đó, con đều lắng nghe rất cẩn trọng. Đó là bí mật đấy, chắc lần này con chia sẻ ra thầy mới biết phải không? Thầy có biết vì sao không, trong tiếng gọi đó con cảm nhận sự có mặt của thầy và con ý thức sự có mặt của con, một sư cô, một người xuất gia. Lần này con cũng kính xin được gọi tên của thầy một lần nữa với tất cả tấm lòng thương kính: “Thầy Chân Trời Hải Thượng ơi!”.
 
-Cảm ơn thầy đã đến Viện Phật Học cùng với anh chị em chúng con xây dựng đại chúng. Viện Phật Học có ít người nhưng khi thầy đến và có mặt đã làm cho khoảng thời gian đó thật là vui và hạnh phúc.
+Cảm ơn thầy đã đến Viện Phật Học cùng với anh chị em chúng con xây dựng đại chúng. Viện Phật Học có ít người nhưng khi thầy đến và có mặt đã làm cho khoảng thời gian đó thật là vui và hạnh phúc. Nguyện đem phước đức mà chúng ta được làm huynh đệ với nhau trong chốn thiền môn để hồi hướng lên thầy và cho tất cả muôn loài. Nguyện thầy thành tựu được chí nguyện của thầy và muôn loài được bình an hạnh phúc sẽ luôn có được bậc minh sư, vị Bụt tương lai soi lối dẫn đường. Chúng ta sẽ mãi mãi đi như một dòng sông, chúng ta có trong nhau, và tiếp tục biểu hiện. Nơi nào chúng ta có mặt và đi qua đều trở thành xứ sở của hạnh phúc và tịnh lạc. Hoa nở trên từng bước chân của thầy.
 
-Nguyện đem phước đức mà chúng ta được làm huynh đệ với nhau trong chốn thiền môn để hồi hướng lên thầy và cho tất cả muôn loài. Nguyện thầy thành tựu được chí nguyện của thầy và muôn loài được bình an hạnh phúc sẽ luôn có được bậc minh sư, vị Bụt tương lai soi lối dẫn đường. Chúng ta sẽ mãi mãi đi như một dòng sông, chúng ta có trong nhau, và tiếp tục biểu hiện. Nơi nào chúng ta có mặt và đi qua đều trở thành xứ sở của hạnh phúc và tịnh lạc. Hoa nở trên từng bước chân của thầy.
-
-Sen búp xin tặng thầy — một vị Bụt tương lai.
-
-<p class="signoff"><span class="signoff-lvl-1">Kính thương!</span><br/>
+<p class="signoff"><span class="signoff-lvl-1">Sen búp xin tặng thầy — một vị Bụt tương lai.<br/>Kính thương!</span><br/>
 <span class="signoff-lvl-2 last-article-element">Sư cô Chân Nguyệt Nghiêm</span></p>
 
-<div class="divider"></div>
+<div class="page-break"></div>
 
 ## Nhận diện đơn thuần
 
@@ -43,6 +47,8 @@ Nghĩ về sư em thì viết bao nhiêu cho hết, kể mấy cho vừa. Chỉ 
 Cảm ơn sư em đã biểu hiện thật đẹp trong cuộc đời. Tự do bất cứ nơi nào sư em nhé. *Chúng ta đang gặp nhau nơi suối nguồn. Chúng ta sẽ gặp nhau từng phút giây trên muôn ngàn nẻo sống.*
 
 <p class="signoff"><span class="signoff-lvl-1 last-article-element">Sư cô Chân Chuẩn Nghiêm</span></p>
+
+{% image "article2024/Br Hai Thuong/ENG/DSC_8009_e.jpg", "noFloat" %}
 
 <div class="divider"></div>
 
@@ -102,3 +108,7 @@ Biết ơn em một cuộc đời áo nâu trọn vẹn.</p>
 
 <p class="signoff"><span class="signoff-lvl-1" style="font-style: normal;">Xóm Trong Sáng, ngày 16.10.2023</span><br/>
 <span class="signoff-lvl-2">Thầy Chân Trời Bắc Sơn</span></p></div>
+
+<div class="article-end"></div>
+
+{% image "article2024/Br Hai Thuong/VNE/Nguoi di hai thuoc dau non/DSC_4924_e.JPG", "noFloat" %}
