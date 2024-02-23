@@ -3,9 +3,15 @@ title: Bóng dáng Thầy
 author: Sư cô Chân Trăng Bồ Đề
 ---
 
-<div class="verse"><p>Dưới khung trời xanh tươi đầy nắng<br/>
+{% image "article2024/Done-Sr-Bo-De/_DSC7412.jpg", "removeTopMargin" %}
+
+<p class="pull-quote" style="font-size: 140%; font-weight: 500;">Dưới khung trời xanh tươi đầy nắng<br/>
 Con bỗng thấy<br/>
-Bóng dáng Thầy…</p></div>
+Bóng dáng Thầy…</p>
+
+<!-- <div class="verse"><p>Dưới khung trời xanh tươi đầy nắng<br/>
+Con bỗng thấy<br/>
+Bóng dáng Thầy…</p></div> -->
 
 Đoàn thiền hành đã dừng lại trên đỉnh đồi, cùng ngắm trời xanh, thưởng thức nắng ấm. Phút giây ấy không có sự hiện hữu của cái ngã riêng biệt. Trong vườn hoa tăng thân, mỗi người mỗi vẻ, mỗi người có một cách thức riêng để tiếp nối Thầy. Nhiều khi tưởng chừng như khó có được tiếng nói chung. Tuy vậy, con thấy chừng nào mọi người còn trân quý những giá trị Thầy để lại như bước chân, hơi thở, trân quý những giờ thiền hành, chừng đó tăng thân vẫn còn một hướng đi chung.
 
@@ -26,12 +32,14 @@ Cảm hứng và nhiệt huyết trao truyền của quý thầy, quý sư cô g
 
 Thực tế chứng minh rằng nhiệt huyết của người trao truyền không giới hạn nhưng khả năng tiếp thu của học trò là… có giới hạn. Nhiều khi con không khỏi cảm thấy xấu hổ với trình độ học 10 hiểu 1 của mình. Thường thì anh chị em con sẽ thay phiên nhau đọc lên một câu kinh tiếng Pali rồi sau đó dịch ra theo cái hiểu của mình. Lần nào đến lượt con, con cũng hết sức cố gắng bày tỏ thiện chí muốn làm quen với các bạn chữ cái nhưng mặc kệ thái độ thành khẩn của con, các bạn ấy vẫn nhất quyết làm lơ rằng chúng ta không quen nhau, khiến con chỉ biết ấp a ấp úng tìm lối thoát trong sự rối rắm của mình. Nhiều khi câu trả lời theo quán tính, may nhờ rủi chịu, một chết hai sống của con khiến cả lớp được một phen cười ầm lên.
 
+<!-- {% image "article2024/Done-Sr-Bo-De/IMG_2992_e.jpg" %} -->
+
 Thật ra các anh chị em trong lớp rất đoàn kết, một người “gặp nạn” là cả lớp đều quăng “phao” đến tới tấp để cứu nhưng… khổ nỗi là nhiều phao quá, trong lúc nhất thời bối rối lại không biết nên bám lấy cái nào để sống sót. Cũng may Sư mẹ rất từ bi, trả lời đúng hay không đúng Sư mẹ đều cho qua lượt cả, khiến con thở phào nhẹ nhõm.
 
 Mặc dù học 10 hiểu 1 nhưng sau ba tháng “lấy cần cù bù thông minh”, với sự dìu dắt của Sư mẹ và sự khích lệ của các bạn đồng tu, con cũng thu nhặt được vài chữ bỏ túi, cũng thuộc được đoạn kinh xưng tán Tam bảo làm vốn liếng:
 
 <div class="verse"><p>“Itipi so bhagavā arahaṁ sammā-sambuddho,<br/>
-Vijjā-caraṇa-sampanno sugato lokavidū,…”</p>
+Vijjā-caraṇa-sampanno sugato lokavidū,…”</p></div>
 
 ## Mỗi giờ đến lớp là một niềm vui
 
@@ -43,6 +51,8 @@ Phong thái tự nhiên, cách kể chuyện dí dỏm và tinh thần cởi m�
 
 Đằng sau ngôn từ, con thấy được ngọn lửa nhiệt huyết bất diệt mà Thầy đã thành công khơi dậy và nuôi dưỡng nơi người học trò bé bỏng Pháp Hữu năm xưa. Để giờ đây, ngọn lửa ấy lại lan tỏa ra thế hệ chúng con. Con thấy được phần nào con người, tính cách, tuệ giác của Thầy thông qua hình ảnh phản chiếu trong lòng người dạy. Con cảm nhận được điều mà người dạy nỗ lực trao truyền cho chúng con là tinh thần, là tuệ giác, là con người của Thầy.
 
+{% image "article2024/Done-Sr-Bo-De/418181476_414404551247229_2033593610773920883_n.jpg" %}
+
 ## Như đế châu ảnh chiếu
 
 Tập nhìn bằng con mắt vô tướng, bóng dáng Thầy bàng bạc trong tăng thân: nơi con đường với hàng tùng xanh thẳng tắp, nơi đồi Bụt, thất Ngồi Yên,… nhưng nhiều nhất và sâu đậm nhất có lẽ là trong lòng những sư anh, sư chị lớn của con. Nếu có người nói: “Thầy là một người rất bảo thủ, luôn muốn giữ lại những tinh hoa, những nét đẹp của truyền thống đạo Bụt”. Con tin. Tương tự, nếu có người nói: “Thầy là người rất chịu chơi, luôn sẵn sàng thử nghiệm những cái mới”. Con cũng sẽ không ngần ngại mà tin ngay.
@@ -52,6 +62,8 @@ Mỗi người học trò gặp Thầy ở những thời điểm khác nhau, m�
 Con nhớ Sư mẹ Chân Đức kể rằng sau khi trở về lại Làng từ chuyến đi Ấn Độ, Thầy đã tặng Sư mẹ một cuốn từ điển Pali. Sư mẹ bắt đầu học tiếng Pali từ dạo ấy. Con nghĩ ngoài tình thương lớn, đọng lại trong lòng mỗi người học trò sâu sắc nhất có lẽ là sự thấu hiểu của Thầy. Thầy biết quán căn cơ của từng người, đặt họ ở những vị trí thích hợp sao cho mỗi người vừa được là chính mình vừa phát huy được thế mạnh của bản thân mà đóng góp vào công trình xây dựng tăng thân.
 
 Với con, tăng thân như chiếc lưới đế châu của vua Trời Đế Thích. Trong đó, mỗi người là một viên ngọc phản chiếu hình ảnh Thầy và đồng thời phản chiếu chính mình. Khi nghe những lời chia sẻ về Thầy, không cần khởi niệm đúng sai, chỉ tùy theo nhận thức của con ở thời điểm đó mà con quyết định hướng đi cho mình. Trên con đường con bước, trong chuyến hành trình của mình, thỉnh thoảng con nghĩ con đã chạm đến được lòng Thầy.
+
+{% image "article2024/Done-Sr-Bo-De/IMG_7162_e.JPG" %}
 
 ## Bóng dáng Thầy trong con
 
@@ -66,3 +78,5 @@ Hai bàn tay nuôi dưỡng<br/>
 Sự ra đi hờn dỗi của.”<br/><cite><i>Ấm áp,</i> thơ Thầy Làng Mai</cite></p></div>
 
 Thi hào Nguyễn Du nói rằng: “Thác là thể phách, còn là tinh anh”. Thầy là đỉnh trầm đã cháy hết nhưng hương thơm vẫn lưu chuyển trong không gian mãi đến ngàn sau…
+
+<!-- <div class="article-end"></div> -->

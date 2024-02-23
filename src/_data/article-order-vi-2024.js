@@ -23,7 +23,7 @@ module.exports = [
     // PART 2
     "cau-tra-loi-la-tinh-thuong",
     "sr-bo-de--bong-dang-thay",
-    // PLuu
+    "br-phap-luu--khuc-hat-tang-than",
     "sr-dinh-nghiem--cong-phu-quet-la",
     // PHuu
     "sr-chua-xua--loc-uyen-mua-an-vui",
@@ -35,12 +35,12 @@ module.exports = [
     "tien-nguyen--co-nhung-ngay-uom-nang",
     // DHien
     "sr-dinh-nghiem--cuoc-song",
-    // thien tri thuc * Calligraphy
+    "sr-dao-nghiem--thien-tri-thuc",
     "br-tuong-tuc--con-tu-la-con-thay-nhau",
     // DNiem
-    // Hien Tam
+    "sr-hien-tam--minh-la-mieng-dau-hu",
     // Joost
     "sr-lam-hy--chay-bo-de-dung-lai",
-    // Lac Hanh
+    "sr-lac-hanh--con-di-cho-me",
     "scck--xuan-yeu-thuong-ngap-tran-nam-thang",
 ]

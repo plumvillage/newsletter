@@ -923,6 +923,9 @@ h1#transforming-resentment-into-compassion {
 .article-ngon-djoi-tieu-an h2.author {
     margin-bottom: 4mm;
 }
+.article-thien-tri-thuc h2.author {
+    margin-top: -20pt;
+}
 .article-music-a-dharma-door h2.author,
 .article-chiec-ao-nhat-binh h2.author {
     margin-top: -22pt;
@@ -1236,7 +1239,7 @@ figure#article2024br-duc-hienChileIMG2160e,
 figure#article2024br-duc-hienArgentina20230401131012e,
 figure#article2024Done-Br-Phap-LuuIMG6621e,
 figure#article2024Sr-Tri-Nghiem000,
-figure#article2024Done-Sr-Bo-De4181814764144045512472292033593610773920883n,
+html:lang(en) figure#article2024Done-Sr-Bo-De4181814764144045512472292033593610773920883n,
 figure#article2024Sr-Lam-Hy012,
 figure#article2024br-dinh-thanhTransforming-Resentment-Br-Dinh-Thanh,
 /* figure#article2024Done-Br-Phap-LuuIMG6801e, */
@@ -1360,7 +1363,7 @@ html:lang(vi) figure#article2024Done-sr-linh-di4b0fc9b1-47ca-49f3-8d3c-8395efe91
     width: 75%;
     margin-bottom: 0em;
 }
-figure#article2024Done-Sr-Bo-De4181814764144045512472292033593610773920883n {
+html:lang(en) figure#article2024Done-Sr-Bo-De4181814764144045512472292033593610773920883n {
     width: 70%;
     margin-top: 2em;
     margin-bottom: 0em;
@@ -1382,9 +1385,13 @@ figure#article2024Done-Memorial-Ceremony67SuOng2ndYearMemorial220124crop {
     margin-top: 4em;
 }
 
-figure#article2024sr-dao-nghiemcup-of-teae2 {
+html:lang(en) figure#article2024sr-dao-nghiemcup-of-teae2 {
     width: 135mm;
     /* height: 91mm; */
+    margin-bottom: 0;
+}
+html:lang(vi) figure#article2024sr-dao-nghiemcup-of-teae2 {
+    width: 124mm;
     margin-bottom: 0;
 }
 
@@ -1564,7 +1571,7 @@ html:lang(en) figure#article2024Done-Sr-Tuyet-NDSC00153e {
 
 
 
-
+html:lang(vi) figure#article2024Done-Sr-Bo-DeDSC7412,
 figure#article2024Sr-Tri-Nghiem002 {
     padding-left: 10%;
     padding-right: 10%;
@@ -1573,7 +1580,7 @@ figure#article2024Sr-Tri-Nghiem002 {
 figure#article2024br-duc-hienArgentinaIMG3434,
 figure#article2024Done-Resillence-Community-SpitualityIMG6811-2,
 figure.lmnqLampSymbolic,
-figure#article2024Done-Sr-Bo-DeDSC7412,
+html:lang(en) figure#article2024Done-Sr-Bo-DeDSC7412,
 figure#article2024Done-Sr-Tam-DucCooking-retreat-2023-8e,
 figure#article2024Done-Sr-Tam-DucPV202345e,
 figure#article2024Sr-Lam-Hyimage123923953-3-e,

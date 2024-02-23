@@ -11,6 +11,8 @@ Con được trở về thời thơ ấu, ngày ngày miệt mài quét vườn,
 
 Thuở nhỏ, quét lá là công việc tự nhiên trong gia đình con. Ai thấy lá thì quét, ai rảnh thì làm. Có những lúc con đi học sớm thì bà hay mạ của con làm. Cũng có lúc con quét vườn từ tờ mờ sáng để vườn sạch trước khi đi học. Không chỉ quét vườn mình, con còn quét con đường trước ngõ nữa. Những ngày nghỉ học, những đứa trẻ trong xóm rủ nhau cùng quét chung rất vui. Những lúc khác, chúng con lại kéo nhau lên chùa Bảo Quốc gần nhà, thấy quý Ôn và các điệu đang quét vườn thì chúng con cùng phụ một tay. Vui lắm!
 
+{% image "article2024/Sr. Đính N/Sr. Dinh Nghiem_1x1.JPG", "removeTopMargin" %}
+
 Có một kỷ niệm mà con nhớ mãi đến bây giờ, đó là câu nói cửa miệng của bà con mỗi khi con làm sạch khu vườn: “Quét mà không để ý nên quét hết đất đá của người ta”. Vườn nhà con nhiều đá, con còn nhỏ chưa biết cách quét nhẹ để đẩy lá đi thôi mà lúc nào cũng dùng hết sức đẩy luôn cả đất đá đi cùng, làm trũng cả một khoảng trước sân. Sau một thời gian lao tác miệt mài của con thì mạ con phải xúc đất về đổ lại cho bằng phẳng. Vậy mà con không hiểu, mỗi lần thấy bà đẩy nhẹ chổi thì con lại nghĩ rằng “bà đã già rồi, sức yếu không đẩy chổi nổi bằng mình”, vậy nên con luôn “hăng hái” đi quét vườn.
 
 Một kỷ niệm khác nữa là câu cửa miệng của quý Ôn răn: “Con quét như vậy Thiên Long, Hộ Pháp quở đó, thôi để đó Ôn quét cho, con đi chơi đi”. Con không biết rằng quý Ôn quét thật nhẹ nhàng, nhấc chổi lên thật thấp, và sau mỗi nhát chổi thì rũ thật nhẹ. Con thì cứ quét như quét vườn nhà, nên không được quét nữa.
