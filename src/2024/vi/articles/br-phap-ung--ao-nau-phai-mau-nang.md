@@ -68,7 +68,7 @@ Mùa thu năm 1994, Sư Ông dạy về kinh Tuổi trẻ và Hạnh phúc (kinh
 
 {% image "article2024/Done-Br.Phap Ung/_DSC7759_e.JPG" %}
 
-<div class="verse"><p>Áo nâu phai màu nắng<br/>
+<p class="pull-quote">Áo nâu phai màu nắng<br/>
 Người về đây với Bụt<br/>
 Cành lá đi in dấu<br/>
 Quê hương thoáng nhẹ bay<br/>
@@ -78,7 +78,19 @@ Và tôi đang sống yểm trợ em<br/>
 Từng bước chân bé nhỏ<br/>
 Cùng chuyển cả đất trời<br/>
 Ngược dòng và xuôi dòng<br/>
-Đều nuôi hết cả Làng.</p></div>
+Đều nuôi hết cả Làng.</p>
+
+<!-- <div class="verse"><p>Áo nâu phai màu nắng<br/>
+Người về đây với Bụt<br/>
+Cành lá đi in dấu<br/>
+Quê hương thoáng nhẹ bay<br/>
+Em có mặt đây<br/>
+Nuôi dưỡng tôi<br/>
+Và tôi đang sống yểm trợ em<br/>
+Từng bước chân bé nhỏ<br/>
+Cùng chuyển cả đất trời<br/>
+Ngược dòng và xuôi dòng<br/>
+Đều nuôi hết cả Làng.</p></div> -->
 
 ## “Thầy ở sau lưng con”
 

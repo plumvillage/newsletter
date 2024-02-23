@@ -83,10 +83,15 @@ Chúng tôi đã tổ chức sự kiện khất thực để thưởng thức n�
 
 Tuy vậy tôi cũng nhân cơ hội này suy ngẫm về nhu yếu đích thực của mình trong vai trò của một hành giả, cũng như nhu yếu đích thực của một tăng thân đang chia sẻ các pháp môn thực tập với cộng đồng quốc tế bằng vô số phương tiện.
 
-<div class="verse"><p>Sống thiểu dục tri túc<br/>
+<p class="pull-quote">Sống thiểu dục tri túc<br/>
 bằng cả thân và tâm<br/>
 Là hạnh nguyện sâu sắc<br/>
-Để sống đời tỉnh thức.</p></div>
+Để sống đời tỉnh thức.</p>
+
+<!-- <div class="verse"><p>Sống thiểu dục tri túc<br/>
+bằng cả thân và tâm<br/>
+Là hạnh nguyện sâu sắc<br/>
+Để sống đời tỉnh thức.</p></div> -->
 
 Cảm ơn tăng thân, gia đình tâm linh yêu quý, đã tạo ra vô vàn khoảnh khắc tuyệt vời như ngày hôm nay. Chúng ta có thể cùng nhau ăn mừng hạnh phúc và cam kết cùng nhau đi trên con đường tu tập này thật lâu bền.
 

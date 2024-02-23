@@ -222,12 +222,11 @@ let workQueue = [
 
     () => generatePDF("http://localhost:8080/2024/en/a4/", `./docs/2024/en-a4`, onFinshed),
     // () => generatePDF("http://localhost:8080/2024/en/a4-bleed/", `./docs/2024/en-a4-bleed`, onFinshed),
-    // () => generatePDF("http://localhost:8080/2024/en/a4-bleed/", `./docs/2024/vi-a4-bleed`, onFinshed),
     
     // () => generatePDF("http://localhost:8080/2024/vi/a4/", `./docs/2024/vi-a4`, onFinshed),
     // () => generatePDF("http://localhost:8080/2024/en/articles-print-preview/br-duc-dinh--a-day-of-alms/", `./docs/2024/br-duc-dinh--a-day-of-alms`, onFinshed),
     // () => generatePDF("http://localhost:8080/2024/en/articles-print-preview/br-phap-huu--music-a-dharma-door/", `./docs/2024/br-phap-huu--music-a-dharma-door`, onFinshed),
-    // () => generatePDF("http://localhost:8080/2024/en/articles-print-preview/sr-dao-nghiem--a-friend-on-the-path/", `./docs/2024/sr-dao-nghiem--a-friend-on-the-path`, onFinshed),
+    // () => generatePDF("http://localhost:8080/2024/en/articles-print-preview/br-minh-hy--the-door-of-compassion/", `./docs/2024/br-minh-hy--the-door-of-compassion`, onFinshed),
 
     // () => generatePDF("http://localhost:8080/2024/en/articles-print-preview/test/", `./docs/2024/test`, onFinshed),
     // () => generatePDF("http://localhost:8080/2024/en/articles-print-preview/sr-hien-hanh--the-calling/", `./docs/2024/sr-hien-hanh--the-calling`, onFinshed),

@@ -56,6 +56,7 @@ Bụt Sakya là đức Bụt của quá khứ, đức Bụt tương lai là Bụ
 Thầy trả lời rằng đức Bụt tương lai đã có mặt rồi. Tại vì mình không thật sự có mặt nên mình mới không thấy mà thôi. Đức Bụt của tương lai không phải là một cá nhân dù đó là một cá nhân xuất sắc. Đức Bụt tương lai là một đoàn thể tu học. Chỉ có sức mạnh của cộng đồng mới đủ khả năng, đủ trí tuệ và tình thương để chữa lành cho thế giới. Tất cả chúng ta đều có cơ hội là một phần của cộng đồng đó, cùng đóng góp vào sự nghiệp chung đó.
 
 *Sen búp xin tặng người. Một vị Bụt tương lai.*
-<div class="article-end"></div>
+<div class="article-end" style="margin-bottom: 3em;"></div>
 
-{% image "article2024/Done-Sr. Tuyet N/DSC00153_e.JPG" %}
+<!-- {% image "article2024/Done-Sr. Tuyet N/DSC00153_e.JPG" %} -->
+{% image "article2024/Done-Br-Phap-Luu/DSC02105_e.JPG" %}

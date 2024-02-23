@@ -28,7 +28,7 @@ Trước đây con chưa bao giờ cảm thấy mình có một con đường s�
 
 **Sư chú Chân Nhất Mộc:** Con đã đọc nhiều sách của Sư Ông và con cảm thấy muốn trở thành một người xuất gia dù con chưa bao giờ đến Làng Mai. Con nghĩ, dù Làng Mai chỉ đẹp bằng một nửa so với hình dung của con thì đó vẫn là nơi con muốn xuất gia. Vì vậy, vừa tới Làng Mai là con đã tỏ ý muốn trở thành một xuất sĩ ở đây. Đây chính là nơi con tìm kiếm.
 
-{% image "article2024/Done-Daffodil family/Br.Nhat Thanh_e.jpg" %}
+{% image "article2024/Done-Daffodil family/Br.Nhat Thanh_2_e.jpg" %}
 
 <div class="removeTopMarginInFollowingElem"></div>
 
@@ -139,6 +139,8 @@ Có lẽ hai cha con sẽ không bao giờ nói chuyện với nhau theo kiểu 
 
 **Sư chú Chân Nhất Vũ:** Con đã có gia đình trước khi con đi tu. Con trai con chính là gia đình huyết thống của con. Con trai con đã biết từ lâu con đường mà con muốn đi vì con đã nuôi dạy con trai theo Năm giới. Nó cảm được con, nó thấy con “nở ra như một bông hoa” trong tăng thân, trong cuộc sống mới này. Tháng Tám năm ngoái, nó nói với con: “Thương yêu — một nghề thật là *chịu chơi*, ba!” (“To Love — this is a cool job, Dad!”).
 
-{% image "article2024/Done-Daffodil family/200_110723_e2.jpg" %}
-
 **BBT: Cảm ơn những lời chia sẻ rất chân thành của các sư em. Xin chúc các sư em luôn có nhiều niềm vui trên con đường sáng đẹp này!**
+
+<div class="article-end"></div>
+
+{% image "article2024/Done-Daffodil family/200_110723_e2.jpg" %}

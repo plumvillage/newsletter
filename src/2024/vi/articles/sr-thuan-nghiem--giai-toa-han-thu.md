@@ -26,7 +26,7 @@ Những thiền sinh tham dự khóa tu đã được chuyển hóa rất nhiề
 Hơn một trăm người tham dự trọn ngày quán niệm. Có một số người Palestine cũng tham dự. Mọi người thực tập thiền đi, thiền ngồi, thiền ăn, thiền buông thư rất hết lòng. Ngày quán niệm kết thúc sau buổi vấn đáp với rất nhiều câu hỏi thiết thực. Nhiều người Palestine rất mong ước có những ngày tu chánh niệm như thế này để họ học chế tác bình an trong từng hơi thở và bước chân.
 
 <!-- manually push heading to 2. col -->
-<div style="height: 3.0em;"></div>
+<!-- <div style="height: 3.0em;"></div> -->
 
 ## Hoằng pháp ở Palestine
 

@@ -22,24 +22,6 @@ body {
     ;
 }
 
-/* default */
-figure {
-    margin: 0;
-}
-figure > div {
-    width: 100%;
-    height: 100%;
-}
-article figure {
-    /* this is for the figcaption not to break */
-    page-break-inside: avoid;
-}
-
-article figure > div {
-    /* allows me to crop */
-    overflow: hidden;
-}
-
 .pagedjs_sheet {
     overflow: hidden;
 }
@@ -107,16 +89,55 @@ article figure > div {
     float: right;
 }
 
+
+/* default */
+figure {
+    margin: 0;
+}
+figure > div {
+    width: 100%;
+    height: 100%;
+}
+article figure {
+    /* this is for the figcaption not to break */
+    page-break-inside: avoid;
+}
+
+article figure > div {
+    /* allows me to crop */
+    overflow: hidden;
+}
+
 figure img {
     display: block;
     margin: 0 auto;
     width: 100%;
 }
 
-.articleCalligraphy img {
-    max-width: 100%;
-    width: auto;
+h1.calligraphyTitle {
+    margin-top: 0mm;
+    margin-bottom: -2mm;
 }
+
+h1.calligraphyTitle figure {
+    margin: 0 auto;
+    float: none;
+}
+h1.calligraphyTitle figure {
+    width: 100%;
+}
+/* default */
+/* somehow, I could not get it to work without setting the max-height for img also. */
+h1.calligraphyTitle figure,
+h1.calligraphyTitle figure img {
+    max-height: 32mm;
+}
+/* h1.calligraphyTitle figure == .articleCalligraphy */
+.articleCalligraphy img {
+    object-fit: contain;
+    max-width: 100%;
+}
+
 
 .full-page-image, .empty-page {
     page: photopage; /* named pages*/
@@ -402,21 +423,7 @@ figure.expandToRightBorder {
 figure.expandToRightBorder.noFloat {
     right: 0 !important;
 }
-/* expandToLeftBorder is already left-bound */
 
-h1.calligraphyTitle {
-    margin-top: 0mm;
-    margin-bottom: -2mm;
-}
-
-h1.calligraphyTitle figure {
-    margin: 0 auto;
-    float: none;
-}
-h1.calligraphyTitle figure,
-h1.calligraphyTitle figure img {
-    max-height: 32mm;
-}
 
 
 h2 { /* section in article */
@@ -876,7 +883,8 @@ p.pull-quote::before {
 
 /* merge with succeeding poem/article */
 .article-my-path-to-wake-up-schools,
-.article-giai-toa-han-thu-khoi-suoi-yeu-thuong
+.article-giai-toa-han-thu-khoi-suoi-yeu-thuong,
+.article-tro-ve-nguon-coi
 {
     break-after: unset !important;
 }
@@ -901,8 +909,8 @@ h1#transforming-resentment-into-compassion {
 }
 
 .article-ao-nau-phai-mau-nang h2.author {
-    margin-top: -21pt;
-    padding-left: 2em;
+    margin-top: -17pt;
+    padding-left: 4em;
 }
 .article-barriers-and-bridges h2.author,
 .article-co-nhung-ngay-uom-nang h2.author,
@@ -945,7 +953,7 @@ h1#transforming-resentment-into-compassion {
     margin-top: -10pt;
 }
 .article-the-door-of-compassion h2.author {
-    margin-top: -9pt;
+    margin-top: -11pt;
     padding-right: 3.5em;
 }
 .article-the-calling h2.author {
@@ -986,6 +994,8 @@ h1#transforming-resentment-into-compassion {
 }
 
 /* default is 32mm */
+#calligraphy2024article-titlescau-tra-loi-la-tinh-thuong,
+#calligraphy2024article-titlescau-tra-loi-la-tinh-thuong img,
 #calligraphy2024article-titlessr-dinh-nghiem-cong-phu-quet-la,
 #calligraphy2024article-titlessr-dinh-nghiem-cong-phu-quet-la img,
 #calligraphy2024article-titlesbr-duc-dinh-a-day-of-alms, #calligraphy2024article-titlesbr-duc-dinh-a-day-of-alms img,
@@ -1120,6 +1130,13 @@ figure#article2024Done-interview-with-thayTNH-spain2014-2 + p {
     /* margin-top: 0em; */
     width: 35%;
 }
+
+html:lang(vi) #article2024Done-Resillence-Community-SpitualitySister-Lang-Nghiem-819x1024,
+html:lang(vi) #article2024Done-Resillence-Community-SpitualityRehenae,
+html:lang(vi) #article2024Done-Resillence-Community-SpitualitySatish-Kumare {
+    margin-bottom: 0.5em;
+}
+
 #article2024Done-Resillence-Community-SpitualityDrHa-Vinh-Thoe {
     margin-bottom: 0.1em;
 }
@@ -1237,7 +1254,7 @@ figure#article2024Done-Memorial-CeremonyHueBefore-the-CeremonyDSC5433e,
 figure#article2024Done-Memorial-Ceremony67SuOng2ndYearMemorial220124crop,
 figure#article2024Done-SrBao-NIMG3353,
 figure#article2024ScannedDrawings0705-Ky-to-dje-nhie,
-figure#article2024Done-Coming-home-to-our-rootsPXL20230608053312985e,
+html:lang(en) figure#article2024Done-Coming-home-to-our-rootsPXL20230608053312985e,
 html:lang(vi) figure#article2024Done-Sr-Hien-HanhSr-Hien-Hanh-2e,
 figure#article2024Done-interview-with-thayVncon-ve-miong-tua-noi-dat-me,
 figure#LTLM47-2024-cover-NH-TeensLTLM47-2024July2023sararemington0013editedcropped,
@@ -1276,6 +1293,11 @@ figure#article2024Tien-NguyenIMG5897 {
     margin-bottom: 0em;
 }
 
+figure#article2024Done-Daffodil-family200110723e2 {
+    width: 100%;
+    margin-top: 2em;
+    margin-bottom: 0em;
+}
 figure#article2024br-thien-chiNewForestRetreat-PVTwanPeetersMay-2023-103,
 figure#article2024Done-interview-with-thayVncon-ve-miong-tua-noi-dat-me {
     width: 95%;
@@ -1317,7 +1339,7 @@ figure#article2024Done-Memorial-CeremonyHueBefore-the-CeremonyVN-24Day-18 {
     margin-bottom: 1.5em;
 }
 
-figure#article2024Done-Coming-home-to-our-rootsPXL20230608053312985e,
+html:lang(en) figure#article2024Done-Coming-home-to-our-rootsPXL20230608053312985e,
 figure#article2024Done-interview-with-thayEni-am-in-love-with-mother-earthe {
     width: 57%;
     margin-bottom: 0em;
@@ -1330,8 +1352,12 @@ html:lang(vi) figure#article2024Done-Sr-Hien-HanhSr-Hien-Hanh-2e {
     width: 77%;
     margin-bottom: 0em;
 }
-figure#article2024Done-sr-linh-di4b0fc9b1-47ca-49f3-8d3c-8395efe91e73e {
+html:lang(en) figure#article2024Done-sr-linh-di4b0fc9b1-47ca-49f3-8d3c-8395efe91e73e {
     width: 65%;
+    margin-bottom: 0em;
+}
+html:lang(vi) figure#article2024Done-sr-linh-di4b0fc9b1-47ca-49f3-8d3c-8395efe91e73e {
+    width: 75%;
     margin-bottom: 0em;
 }
 figure#article2024Done-Sr-Bo-De4181814764144045512472292033593610773920883n {
@@ -1443,10 +1469,11 @@ figure.myImgTest img
 }
 
 figure#article2024Br-Duc-NiemPV202359 img {
-    top: 15%;
+    top: 36%;
 }
 figure#article2024Br-Duc-NiemPV202359 {
-    height: 58.5mm;
+    height: 81mm;
+    width: 97%;
     margin-bottom: 0;
 }
 
@@ -1565,8 +1592,8 @@ figure#article2024Done-Br-Minh-HyMG9118 {
     padding-right: 5%;
 }
 figure#article2024Done-Br-Minh-HyMG9118 {
-    padding-left: 18%;
-    padding-right: 18%;
+    padding-left: 19%;
+    padding-right: 19%;
 }
 
 
@@ -1612,20 +1639,25 @@ figure#article2024Done-Sr-Tuyet-NIMG6618ecut + p {
     font-style: italic;
 }
 
-
+figure#calligraphyarticle-titles-2-and-dividers5-maskedDividers2-2-straight,
 figure#calligraphyarticle-titles-2-and-dividers5-maskedDividers2-1,
 figure#calligraphyarticle-titles-2-and-dividers5-maskedDividers1-1
 {
     display: block;
     column-span: all;
     float: none;
-    width: 40%;
+    width: 50%;
     padding-left: 8%;
-    margin-top: 15pt;
-    margin-bottom: 1pt;
+    margin-top: 7mm;
+    margin-bottom: 3mm;
     margin-left: auto;
     margin-right: auto;
 }
+figure#calligraphyarticle-titles-2-and-dividers5-maskedDividers2-2-straight {
+    margin-top: 9mm;
+    width: 40%;
+}
+
 
 .PAGE-OF-article2024Done-Br-Minh-HyIMG9469e .last-article-element::after,
 .PAGE-OF-article2024Done-Memorial-CeremonyHueCeremonyLe-dai-tuong-19 .last-article-element::after,

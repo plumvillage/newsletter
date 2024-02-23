@@ -3,7 +3,7 @@ title: Câu trả lời là tình thương
 author: Hà Vĩnh Thọ, Satish Kumar, Rehena Harilall
 ---
 
-<div class="editors-preface"><p>Trong khóa tu về chủ đề giữ gìn đất Mẹ (Earth retreat) vào tháng sáu năm 2023 tại Làng Mai, Pháp, sư cô Lăng Nghiêm đã có buổi trò chuyện với ba nhà hoạt động xã hội và môi trường là bác Satish Kumar, Giáo sư Hà Vĩnh Thọ và Rehena Harilall. Bài chia sẻ dưới đây được trích từ buổi trò chuyện này.</p>
+<div class="editors-preface" style="margin-bottom: 3em;"><p>Trong khóa tu về chủ đề giữ gìn đất Mẹ (Earth retreat) vào tháng sáu năm 2023 tại Làng Mai, Pháp, sư cô Lăng Nghiêm đã có buổi trò chuyện với ba nhà hoạt động xã hội và môi trường là bác Satish Kumar, Giáo sư Hà Vĩnh Thọ và Rehena Harilall. Bài chia sẻ dưới đây được trích từ buổi trò chuyện này.</p>
 {% image "article2024/Done-Resillence, Community, Spituality/Satish Kumar_e.jpg" %}
 <p><b>Bác Satish Kumar</b> là người đồng sáng lập trường Cao đẳng Sinh thái Schumacher tại Devon, Vương quốc Anh. Năm 1962, ông đã thực hiện hành trình đi bộ cho hòa bình dài hơn 8.000 dặm trong hai năm rưỡi, từ New Delhi qua Moscow, Paris, London và Washington D.C. Ông là tác giả cuốn sách “Radical Love” (tạm dịch “Tình thương cấp tiến”) mới xuất bản.</p>
 {% image "article2024/Done-Resillence, Community, Spituality/Rehena_e.jpg" %}
@@ -12,7 +12,13 @@ author: Hà Vĩnh Thọ, Satish Kumar, Rehena Harilall
 <p><b>Giáo sư Hà Vĩnh Thọ</b> (Chân Đại Tuệ) là một vị giáo thọ của Làng Mai, nhận truyền đăng năm 2001. Ông từng là giám đốc của Trung tâm Tổng chỉ số hạnh phúc quốc gia (GNH-Gross National Happiness) tại Bhutan và cũng là tác giả của tác phẩm “Văn hóa hạnh phúc” (A culture of happiness).</p>
 </div>
 
+{% image "article2024/Done-Resillence, Community, Spituality/Sister-Lang-Nghiem-819x1024.jpg", "removeTopMargin" %}
+
+<div class="removeIndentInFollowingElem"></div>
+
 **Sư cô Lăng Nghiêm:** Trước tình trạng thế giới hiện nay, nhiều người trở nên tuyệt vọng, giận dữ, trách móc, chán nản và mất niềm tin. Làm thế nào để chúng ta có thể tiếp tục hành động với tình thương?
+
+<div style="height: 1em;"></div>
 
 **Bác Satish Kumar**: Điều trước tiên là tôi tự hỏi: Sự giận dữ, trách móc, lo lắng có ảnh hưởng lên chính bản thân mình như thế nào?
 
@@ -36,10 +42,8 @@ Chúng ta phải tìm cách giải quyết vấn đề này. Và câu trả lờ
 
 Hận thù, ghét bỏ bắt đầu khi bạn thấy có sự ngăn cách giữa mình và người khác. Nhưng chúng ta không tách biệt, chúng ta tương tức. Không hề có sự chia cách nào giữa con người với thiên nhiên, giữa người theo đạo Bụt và đạo Cơ Đốc, giữa người da đen và da trắng, giữa nam và nữ, giữa người già và người trẻ, người của quá khứ và người của hiện tại. Tất cả là một dòng chảy liên tục, là cả một mối liên hệ đan xen chằng chịt. Nhận thức được sự thật muôn đời đó, chúng ta có thể đi theo con đường của thương yêu.
 
-{% image "article2024/Done-Resillence, Community, Spituality/IMG_7922_.jpg" %}
-{% image "article2024/Done-Resillence, Community, Spituality/IMG_7925_.jpg" %}
-{% image "article2024/Done-Resillence, Community, Spituality/IMG_7811_.jpg" %}
-{% image "article2024/Done-Resillence, Community, Spituality/IMG_7899_.jpg" %}
+{% image "article2024/Done-Resillence, Community, Spituality/IMG_7899_.jpg", "removeTopMargin" %}
+{% image "article2024/Done-Resillence, Community, Spituality/Climate retreat_2023_207.jpg", "removeTopMargin" %}
 
 **Sư cô Lăng Nghiêm**: Làm thế nào để chúng ta có thể tránh rơi vào tình trạng nổi giận, tuyệt vọng, thù ghét hay đổ lỗi cho người khác?
 
@@ -104,5 +108,7 @@ Tôi cố gắng nhận diện tâm mình ở phía sau mỗi hành động. B�
 Khi cảm thấy tuyệt vọng, tôi ra ngoài đi dạo để tiếp xúc với thiên nhiên. Đôi khi tôi nằm dài trên đất và nói với đất: “Chỉ cần ôm con là được rồi”. Thiết lập được liên hệ với một cái gì đó lớn lao hơn tự thân sẽ giúp chúng ta có được cái nhìn rõ ràng hơn về mọi sự. Cuộc sống cứ tiếp diễn dù tôi có mặt ở đây để gặt hái những gì mình đã gieo trồng hay không.
 
 Theo truyền thống của người Zulu ở Nam Phi, khi một người qua đời, họ nói người ấy đang “quỳ xuống”. Quỳ xuống để người khác có thể đứng trên hai vai họ. Nghĩa là khi chúng ta mất đi, trong giai đoạn chuyển tiếp ấy, chúng ta lót đường để làm nền tảng cho người khác đứng lên và tiếp tục công trình. Điều đó đem đến cho tôi hy vọng.
+
+{% image "article2024/Done-Resillence, Community, Spituality/IMG_2714_e.jpg" %}
 
 **Bác Satish Kumar**: Tôi bắt đầu hoạt động xã hội từ lúc 18 tuổi – tham gia vào phong trào do Thánh Gandhi và Vinoba Bhave lãnh đạo. Bây giờ tôi 86 tuổi nhưng vẫn muốn tiếp tục làm nhà hoạt động xã hội cho đến hơi thở cuối cùng. Là một người hoạt động xã hội, bạn cũng phải đồng thời là một người có tinh thần tích cực. Sự yếm thế không thể dẫn ta đến hành động được. Chuyện thế giới có thay đổi hay không, điều đó không nằm trong sự kiểm soát của tôi, nhưng tôi có thể kiểm soát được hành động của mình. Tôi hành động vì từ bi, thương yêu, lân mẫn và vì tinh thần trách nhiệm. Cho nên tôi là một người có tinh thần tích cực. Và hy vọng của tôi là một hy vọng mang tính hành động. Tôi hành động mỗi ngày để phụng sự nhân loại, phụng sự trái đất. Điều đó đem lại cho tôi sự mãn ý và niềm vui bởi vì tất cả đều là tương tức.

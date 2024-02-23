@@ -13,7 +13,7 @@ Chúng con, bốn người con xuất sĩ của Thầy, đang ở miền Đất 
 
 Cuộc sống giống như một bức tranh cát bị lật ngược lại, và chúng ta không thể biết cảnh tượng tiếp theo sẽ diễn ra như thế nào.
 
-{% image "article2024/Done-sr-linh-di/4b0fc9b1-47ca-49f3-8d3c-8395efe91e73_e.JPG" %}
+{% image "article2024/Done-sr-linh-di/4b0fc9b1-47ca-49f3-8d3c-8395efe91e73_e.JPG", "noFloat" %}
 
 Thầy kính thương, con đã rất sợ hãi. Con không biết liệu mình có thể gặp lại cha và mẹ nữa hay không. Nằm trong bóng tối, hơi thở sâu và đều đặn, con nhìn thấy Thầy đang đứng trước những ngôi làng bị phá hủy và đang khích lệ những người dân xây dựng lại làng xóm hết lần này đến lần khác. Con nhìn thấy tăng thân đang thực tập sám pháp địa xúc, cả một biển y vàng phủ phục dưới đất. Và con nhìn thấy bà nội của con, người đã đưa bảy đứa con mình ra khỏi vùng chiến tranh, mỉm cười và thì thầm: “Các con sẽ bình an thôi. Các con đều có sức mạnh của bà”.
 

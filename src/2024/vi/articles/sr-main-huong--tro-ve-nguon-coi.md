@@ -55,4 +55,6 @@ Chúng tôi mong rằng khóa tu như thế này sẽ được tiếp tục tổ
 
 <div class="article-end"><div>
 
-{% image "article2024/Done-Coming home to our roots/PXL_20230608_053312985_e.jpg" %}
+{% image "article2024/Done-Coming home to our roots/PXL_20230608_053312985_e.jpg", "noFloat" %}
+
+{% image "calligraphy/article titles 2 and dividers/5-masked/Dividers2-2-straight.webp", "noFloat" %}

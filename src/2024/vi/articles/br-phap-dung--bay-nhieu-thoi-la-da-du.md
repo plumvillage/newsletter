@@ -27,6 +27,8 @@ Cảnh đó làm tôi thấy tò mò về tăng đoàn của Thầy, tuy trong l
 
 Đi theo chuyến hoằng pháp, tôi được ở chung với tăng đoàn tại nhà của nhiều cư sĩ. Có khi cả 30 người tạm trú cùng một nơi, và dùng chung một phòng vệ sinh. Tôi vẫn còn nhớ cảnh quý thầy cùng đứng đánh răng chung quanh một sân cỏ hình tròn. Rất đơn sơ mà lúc nào cũng rất vui!
 
+{% image "article2024/Br-Phap-Dung/vlcsnap-2024-02-18-16h55m45s171.jpg", "removeTopMargin" %}
+
 ## Bấy nhiêu thôi là đã đủ
 
 Về Việt Nam lần này, tôi dùng cuộc đời của Thầy làm đề tài quán chiếu cho mình. Tiếp xúc với môi trường Thầy đã từng sống, tìm hiểu những hoàn cảnh Thầy đã từng đi qua, và học hỏi từ những quyết định Thầy đã từng làm. Thầy chưa bao giờ muốn đệ tử trở nên giáo điều và sống theo một mớ những khuôn khổ cứng nhắc. Thầy chỉ muốn đệ tử có chánh niệm và biết phải làm gì để tự mình xử lý một cách nhu nhuyến trước sự thay đổi của hoàn cảnh.

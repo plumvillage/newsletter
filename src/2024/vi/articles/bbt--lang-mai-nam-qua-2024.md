@@ -259,7 +259,7 @@ Trong bối cảnh xung đột ngày càng leo thang ở Trung Đông, ngày 19.
 > 
 > *Trong giai đoạn khủng hoảng hiện tại, điều quan trọng nhất cho mỗi người chúng ta là trở về thực tập cắm rễ vào tự thân để có được sự vững chãi và để có thể làm lắng dịu những cảm xúc bất an và dao động của chính mình. Chúng tôi xin mời những người bạn Israel, Palestine, Ukraine, và tất cả những ai đang gánh chịu khổ đau trong các vùng đang có chiến tranh mâu thuẫn, hãy cùng ngồi yên với chúng tôi để cùng nhau chúng ta có thể làm lắng dịu ngọn lửa hận thù, để có thể dừng lại những hành động gây đau khổ và tàn hại, để có thể trải rộng tình thương, phát khởi tâm lượng từ bi và để tỏa chiếu sức mạnh, năng lượng của hòa bình và an lạc…”*
 
-*(Để đọc toàn bộ lời thỉnh cầu này, xin vào trang nhà Làng Mai: https://langmai.org/cong-tam-quan/thong-bach/loi-thinh-cau-cung-ngoi-yen-yem-tro-hoa-binh-the-gioi/)*
+*(Để đọc toàn bộ lời thỉnh cầu này, xin vào trang nhà Làng Mai: <a href="https://langmai.org/cong-tam-quan/thong-bach/loi-thinh-cau-cung-ngoi-yen-yem-tro-hoa-binh-the-gioi/">https://langmai.org/cong-tam-quan/thong-bach/loi-thinh-cau-cung-ngoi-yen-yem-tro-hoa-binh-the-gioi/</a>)*
 
 <div class="page-break"></div>
 

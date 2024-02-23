@@ -100,8 +100,6 @@ Unfortunately my parents are not supportive of me ordaining, and I know it is go
 
 ***Br. Nhat Vu*** *(True Rain of Oneness):* I had practised and even taught mindfulness for a long time already, trying to help people who suffered from chronic pain in hospitals and also employees in companies. Being totally on my own, I quickly got exhausted, because there was so much suffering. That is how I came to consider monastic life, in order to be part of a Sangha, experienced and deeply rooted, so that I could be stronger in the practice of love and understanding, develop joy and happiness and then be of a better support for more people.
 
-<div class="divider"></div>
-
 ***Newsletter Team:*** There are people who feel that it’s easy to take refuge in the Buddha, the Dharma, but not the Sangha. Community life is quite challenging, especially for those coming from the west. How is your experience of living with the Plum Village community? How is your experience of sharing rooms with many people?
 
 ***Br. Nhat Van:*** I grew up in a boarding school which hosted hundreds of children, from age ten and only coming home for weekends. I was sleeping in a dorm of around 30 to 100 children. So I’m used to wearing uniforms, short hair, fine manners, ceremonies and living together (laughter). I made strong friendships for life there; it taught me brotherhood,sisterhood, and siblinghood. So sharing in a community is being at home completely for me and I am very happy living together.
@@ -127,8 +125,6 @@ Some of my difficulties living in a community revolve around how to behave socia
 Of course, it takes some time to get to know everybody. I enjoy always having many new people to connect with, but it can also be a little stressful for me not knowing how to behave, since I do not want to disturb anybody. I also see my tendency to get used to this good environment quickly, and overly concentrate on some small little difficulty. Then I remind myself about how good the conditions are, and if I cannot be happy here, where can I be?!
 
 ***Br. Nhat Vu:*** After living alone for the last 20 years, I have to admit that the first year in a dormitory with 7 people has been more than challenging. The noise, the rhythm, the feeling of not having my own refuge space — I had to unlearn and relearn everything. It is a good practice for my individualistic mindset. On the upside, sharing resources and being able to take refuge in the sangha is quite a relief and brings me joy.
-
-<div class="divider"></div>
 
 ***Newsletter Team:*** We felt touched to hear from your families and friends who come for the ordination. How has being with your family been for you? Are there things that have changed in how you respond in family situations?
 

@@ -17,11 +17,11 @@ module.exports = [
     "br-minh-hy--canh-cua-xot-thuong",
     "sr-hien-hanh--tieng-goi",
     "sr-main-huong--tro-ve-nguon-coi",
+    "br-phap-dung--bay-nhieu-thoi-la-da-du",
     "sr-bao-nghiem--tho",
     
     // PART 2
     "cau-tra-loi-la-tinh-thuong",
-    "br-phap-dung--bay-nhieu-thoi-la-da-du",
     "sr-bo-de--bong-dang-thay",
     // PLuu
     "sr-dinh-nghiem--cong-phu-quet-la",
