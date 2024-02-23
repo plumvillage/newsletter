@@ -23,7 +23,7 @@ The whole event was a chance for many brothers to connect with our friends who l
 
 I am thankful to the organizing team of this alms round event; everyone embodied the spirit I believe Thay would have suggested to us: we worked together relaxedly, joyfully, harmoniously, efficiently but not caught in expecting certain results. I also feel grateful to my two brothers who joined the team, offering great support. I enjoyed this opportunity to connect with them while serving the sangha together.
 
-At the first of our friends’ houses, I received food in my bowl from a close friend, who actually ordained as a monk the same day as me, and later founded a family. A part of me felt awkward for an instant. A part of me wasn’t too comfortable for an instant. I didn’t really know where to stand, where he was, what sort of relationship was manifesting between us now.
+At the first of our friends’ houses, I received food in my bowl from a close friend, who actually ordained as a monk the same day as me, and later founded a family. A part of me wasn’t too comfortable for an instant. I didn’t really know where to stand, where he was, what sort of relationship was manifesting between us now.
 
 As our team was organizing for the day, we reflected upon the relationship between monastic and lay practitioners. We thought of the potential for each human being to truly realize the path of practice, regardless of whether they are lay or monastic.
 
