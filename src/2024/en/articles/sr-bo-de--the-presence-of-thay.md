@@ -4,7 +4,7 @@ author: Sister Chân Trăng Bồ Đề
 ---
 
 
-<p class="editors-preface">Sister Trăng Bồ Đề is of Vietnamese origin, ordained in 2016 in the Kanikonna Tree ordination family in Plum Village, Thailand. She has been residing, practicing and serving in New Hamlet, Plum Village, France, since 2016. She is great at playing with children, as well as having fun in teaching Vietnamese to her non-Vietnamese monastic siblings.</p>
+<p class="editors-preface">Sister Trăng Bồ Đề is of Vietnamese origin. She ordained in 2016 in the Kanikonna Tree ordination family in Plum Village, Thailand. She has been residing, practicing and serving in New Hamlet, Plum Village, France, since 2016. She is great at playing with children, as well as having fun in teaching Vietnamese to her non-Vietnamese monastic siblings.</p>
 
 {% image "article2024/Done-Sr-Bo-De/_DSC7412.jpg", "removeTopMargin" %}
 
@@ -28,7 +28,7 @@ when everything is manifesting itself<br/>
 so rapidly.<br/>
 The snow is green.<br/>
 And the sunshine is falling like the rain.<br/>
-<cite>Excerpt from the poem “Cuckoo Telephone,” see <i>Call Me By My True Names</i> by Thich Nhat Hanh</cite></p></div>
+<cite>from <i>Call Me By My True Names</i> by Thich Nhat Hanh</cite></p></div>
 
 I remember, during grade school, my friends and I would long for the school bell to ring so that we could immediately close our books and pour into the canteen to buy snacks and sweets. The two morning classes on the monastic Day of Mindfulness brought me back to the elementary school days when I learned to befriend the written words, blackboards and white chalk. For the sake of the younger monastics, the elders converted the classic schedule of morning Dharma talk and afternoon Dharma sharing sessions into classes on various topics throughout this Rains Retreat. There was a class on how the mind and brain affect our lives by Sr. Hoi Nghiem, a class on Buddhist psychology by Sr. Tue Nghiem, a class on comparative ethics by Sr. Hien Nghiem, and a handful of other classes. These classes had succeeded in sparking enthusiasm among monastics, kindling a unique vivacity for this memorable Rains Retreat 2023-2024.
 
