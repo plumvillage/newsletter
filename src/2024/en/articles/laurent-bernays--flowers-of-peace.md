@@ -5,7 +5,7 @@ author: Laurent Bernays
 ---
 <!-- the Calligraphy "Flowers of Peace" is used as the title -->
 
-<p class="editors-preface">Laurent is a musician and practitioner who has been with the Sangha for more than 20 years. In 2023, Laurent helped to oversee the “tree project” at Lower Hamlet. This letter is a reflection of his experience during his stay at Plum Village. He currently lives in the Pyrenees with his family.</p>
+<p class="editors-preface">Laurent is a musician and practitioner who has been with the Sangha for more than 20 years. In 2023, Laurent helped to oversee the “tree project” in Lower Hamlet. This letter is a reflection of his experience during his stay at Plum Village. He currently lives in the Pyrenees with his family.</p>
 
 Dear Thay, Dear Sisters, Dear beloved Sangha,
 
@@ -13,7 +13,7 @@ This letter is to thank you with all my heart for welcoming me to work on renewi
 
 I would like to extend my gratitude to the Tree family team for working with me on this collective adventure, and especially to Sr. Luc Nghiem for her great commitment, and following through on her deep vision for the hamlet and taking care of Mother Earth.
 
-“The flowers of peace bloom in beauty” is engraved on the Great Bell. It has now manifested as this three-hectare meadow and resonates like the poem throughout the entire cosmos. Like the wind joins the songs of the Great Bell, so does this field of flowers join Thay’s poem. These two were my commitments as a Bodhisattva: to cultivate the Earth and cultivate loving speech through song, cultivating the flowers in the Earth and in my soul.
+“The flowers of peace bloom in beauty” is engraved on the Great Temple Bell. It has now manifested as this three-hectare meadow and resonates like the poem throughout the entire cosmos. Like the wind joins the songs of the Great Temple Bell, so does this field of flowers join Thay’s poem. These two were my commitments as a Bodhisattva: to cultivate the Earth and cultivate loving speech through song, cultivating the flowers in the Earth and in my soul.
 
 {% image "article2024/Laurent/PV_2023_36_e.jpg", "noFloat" %}
 {% image "article2024/Laurent/DSC05382_e.JPG", "noFloat" %}
@@ -22,14 +22,14 @@ This poem is my mantra when I cultivate the urban gardens in the poor neighborho
 
 During my stay in Lower Hamlet, I took advantage of the opportunity to deepen the practice with song I’ve been engaged in for 25 years, to rediscover the evergreen old source of Western songs, to rediscover the natural modes of ancient or Pyrenean songs, and little by little to hear again with a new, deeper, finer listening.
 
-## Listening to the Great Bell
+## Listening to the Great Temple Bell
 
-My practice was to listen deeply to the Great Bell at Lower Hamlet as often as possible with the Buddha’s ears. Discreetly, at the end of the evening meditation, I would come and sit by the apple tree, on a bench or a step of the bell tower, turning my gaze towards the starry sky, the clouds, or the soft moon. Heedless of rain and wind, I would find a place to sit and enter fully into the sound of the bell and the chants. It is a simple practice I have invented for myself out of the sheer joy of entering into sounds, then sounds within sounds.
+My practice was to listen deeply to the Great Temple Bell at Lower Hamlet as often as possible with the Buddha’s ears. Discreetly, at the end of the evening meditation, I would come and sit by the apple tree, on a bench or a step of the bell tower, turning my gaze towards the starry sky, the clouds, or the soft moon. Heedless of rain and wind, I would find a place to sit and enter fully into the sound of the bell and the chants. It is a simple practice I have invented for myself out of the sheer joy of entering into sounds, then sounds within sounds.
 
-First of all, I hear – without seeing – the steps of the sister who comes to chant at the Great Bell, perceiving the sound from the movements of her getting ready to chant, and entering into concentration on the noises of the night. I listen deeply without naming. I am taken by surprise to hear the first bell resound, that seemingly comes from nowhere, making the particles of the air vibrate and carry its harmonics into space. This first sound, inviting you into the night, is like an immediate deep vision into where everything begins to vibrate, “penetrating the entire cosmos,” and reaching “the darkest places” of our individual and collective consciousnesses. This sound, while in essence empty, resonates like the voice of the Buddha, it is said, and can free all beings from sorrows and fear. Listen beyond words to this sound of pure vibration, the resonance of a natural sound that lets us touch our true nature in an instant.
+First of all, I hear – without seeing – the steps of the sister who comes to chant at the Great Temple Bell, perceiving the sound from the movements of her getting ready to chant, and entering into concentration on the noises of the night. I listen deeply without naming. I am taken by surprise to hear the first bell resound, that seemingly comes from nowhere, making the particles of the air vibrate and carry its harmonics into space. This first sound, inviting you into the night, is like an immediate deep vision into where everything begins to vibrate, “penetrating the entire cosmos,” and reaching “the darkest places” of our individual and collective consciousnesses. This sound, while in essence empty, resonates like the voice of the Buddha, it is said, and can free all beings from sorrows and fear. Listen beyond words to this sound of pure vibration, the resonance of a natural sound that lets us touch our true nature in an instant.
 
 
-I thus listen to the chanting and the bell until the last sound, and to the slightest intonation of the person chanting, who tries – each day a little more – to unite perfectly with the Buddha’s voice, advancing closer to the pure vibration of this bell. I continue to listen until she walks away on the small gravel path, which, in turn, makes a melody.
+I, thus, listen to the chanting and the bell until the last sound, and to the slightest intonation of the person chanting, who tries – each day a little more – to unite perfectly with the Buddha’s voice, advancing closer to the pure vibration of this bell. I continue to listen until she walks away on the small gravel path, which, in turn, makes a melody.
 
 I then move closer to the bell, wrapping my arms loosely around it like a tree, a few millimeters away, and allow the low harmonics to penetrate my skeleton, my cells, the pores of my skin, soothing me to deep peace. I continue by stepping onto the Earth and reciting the gatha I have composed for myself.
 
