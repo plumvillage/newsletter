@@ -8,7 +8,7 @@ cho tôi giật mình tỉnh thức<br/>
 và để cho cánh cửa lòng tôi để ngỏ<br/>
 cánh cửa xót thương.”<br/><cite>Trích từ bài thơ <i>Hãy gọi đúng tên tôi</i><br/>Sư Ông Làng Mai<br/>(để đọc mỗi khi buồn)</cite></p></div>
 
-Cánh cửa xót thương là cánh cửa của lòng mình. Chúng ta có quyền đóng hay mở cánh cửa đó với bất cứ ai. Mình có quyền thương và mình có quyền được giận, được buồn. Khi thương thì mình có nhiều không gian và khi giận thì ít không gian hơn. Cái không gian riêng của mình khi giận hay buồn nó chật chội, tù túng hơn. Cho nên có khi chúng ta muốn chạy, chạy đi thật xa, muốn thoát ra khỏi sự tù túng ấy. Chúng ta muốn cười một trận cười cho đã cái sự chật chội ấy, cho rỗng cõi lòng.
+Cánh cửa xót thương là cánh cửa của lòng mình. Chúng ta có quyền đóng hay mở cánh cửa đó với bất cứ ai. Mình có quyền thương và mình có quyền được giận, được buồn. Giận hay buồn cũng cho mình cái không gian riêng nhưng có lúc cũng cảm thấy chật chội, tù túng. Đôi khi chúng ta muốn chạy, chạy đi thật xa, muốn thoát ra khỏi sự tù túng ấy. Chúng ta muốn cười một trận cười cho đã cái sự chật chội ấy, cho rỗng cõi lòng.
 
 Cái nóng của miền Trung, nếu không quen sẽ rất khó chịu. Phải ở đó đủ lâu, phải biết ăn cay, ăn mặn thì mình mới có thể quen được cái nóng oi bức ấy. Có khi trời nóng quá, ngồi đâu cũng thấy nóng. Trong nhà hay ngoài vườn cũng thấy nóng, ban ngày đã nóng mà ban đêm cũng nóng. Ban đêm ta mở toang hết các cửa và mong rằng có một cơn gió mát thổi vào nhà để xua đi cái nóng. Thỉnh thoảng có một cơn gió nhẹ đi vào và ta thưởng thức trọn vẹn sự mát mẻ ấy. Đó là một giây phút hạnh phúc. 
 
