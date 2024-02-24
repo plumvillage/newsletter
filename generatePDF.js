@@ -226,7 +226,7 @@ let workQueue = [
     () => generatePDF("http://localhost:8080/2024/vi/a4/", `./docs/2024/vi-a4`, onFinshed),
     // () => generatePDF("http://localhost:8080/2024/en/articles-print-preview/br-duc-dinh--a-day-of-alms/", `./docs/2024/br-duc-dinh--a-day-of-alms`, onFinshed),
     // () => generatePDF("http://localhost:8080/2024/en/articles-print-preview/br-phap-huu--music-a-dharma-door/", `./docs/2024/br-phap-huu--music-a-dharma-door`, onFinshed),
-    // () => generatePDF("http://localhost:8080/2024/en/articles-print-preview/br-minh-hy--the-door-of-compassion/", `./docs/2024/br-minh-hy--the-door-of-compassion`, onFinshed),
+    // () => generatePDF("http://localhost:8080/2024/vi/articles-print-preview/br-duc-hien-gia-dinh-tam-linh-khap-moi-noi/", `./docs/2024/duchien`, onFinshed),
 
     // () => generatePDF("http://localhost:8080/2024/en/articles-print-preview/test/", `./docs/2024/test`, onFinshed),
     // () => generatePDF("http://localhost:8080/2024/en/articles-print-preview/sr-hien-hanh--the-calling/", `./docs/2024/sr-hien-hanh--the-calling`, onFinshed),

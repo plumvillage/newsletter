@@ -1296,7 +1296,7 @@ figure#article2024Sr-Tri-Nghiem000 {
     margin-bottom: 0em;
 }
 html:lang(vi) figure#article2024br-duc-hienChileIMG2160e {
-    width: 88%;
+    width: 86%;
 }
 figure#article2024Tien-NguyenIMG5897 {
     width: 95%;
@@ -1683,18 +1683,36 @@ figure#article2024Done-Sr-Tuyet-NIMG6618ecut + p {
     padding-left: 3em;
 }
 
-.article-cuoc-song .verse,
 .article-cuoc-song > p {
     column-span: all;
     margin-left: auto;
     margin-right: auto;
     float: none;
-    width: 22em;
+    width: 19em;
     padding-left: 4em;
 }
-.article-cuoc-song > p {
-    width: 19em;
+.article-cuoc-song .verse {
+    column-span: all;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 125%;
+    line-height: 135%;
+    text-shadow: 0.3pt 0.4pt 0px white;
+    float: none;
+    width: 35em;
+    padding-top: 12mm;
+    padding-left: 87mm;
 }
+
+figure#article2024Sr-DJinh-N2892234565358275287570573224309512897726595n {
+    position: absolute;
+    z-index: -1;
+    top: 40mm;
+    left: -77mm;
+    width: 266mm;
+    max-width: none;
+}
+
 
 .article-giai-toa-han-thu-khoi-suoi-yeu-thuong .editors-preface::after {
     display: none;
@@ -1968,7 +1986,4 @@ html:lang(en) .PAGE-OF-article2024Done-Memorial-Ceremony67SuOng2ndYearMemorial22
 .PAGE-OF-article-trot-thuong p:first-letter,
 .article-trot-thuong p:first-letter {
     font-size: 120% !important;
-}
-.article-trot-thuong p + p {
-    /* margin-top: 1.3mm !important; */
 }
