@@ -9,13 +9,15 @@ I remember one moment during my first summer retreat in Plum Village in 2013 ver
 
 One big question and koan for me is: How can I and we have deep peace inside while not closing our eyes to the unprecedented suffering from a climate breakdown that is unfolding around us?
 
-In recent years, the wish in my heart to help save the planet has manifested in very concrete and beautiful ways: Plum Village now offers the *Zen and the Art of Saving the Planet (ZASP)* online course and climate retreats on a regular basis (the next ZASP course will start in March 2024).
-
 {% image "article2024/Br-Duc-Niem/sun1_e.jpeg" %}
 
-In this article, I would like to share about my own experience in joining the ZASP course, explore how it has started, and how it has supported people and groups in the climate community. We will hear feedback from ZASP participants and will reflect on the role and contribution of Plum Village in the climate movement and what teachings have been effective in this area. To explore these questions, I interviewed Sr. Hien Nghiem (Sr. True Dedication) and Jo Confino, who are quoted throughout this article.
+In recent years, the wish in my heart to help save the planet has manifested in very concrete and beautiful ways: Plum Village now offers the *Zen and the Art of Saving the Planet (ZASP)* online course and climate retreats on a regular basis (the next ZASP course will start in March 2024).
 
-# A new way of seeing
+In this article, I would like to share about my own experience in joining the ZASP course, explore how it has started, and how it has supported people and groups in the climate community. We will hear feedback from ZASP participants and will reflect on the role and contribution of Plum Village in the climate movement and what teachings have been effective in this area.
+
+To explore these questions, I interviewed Sr. Hien Nghiem (Sr. True Dedication) and Jo Confino, who are quoted throughout this article.
+
+## A new way of seeing
 
 The scientists say it very clearly: We as humanity have only a few more years left to stay below 1.5°C in order to avoid catastrophic climate breakdown and destabilization of the fragile balance of our biosystems. This means we need to radically change our ways of living. Reading about the state of our planet and the big challenges we face have caused quite a lot of fear and despair in me. Listening to the videos of the ZASP course has helped me to have more hope, clarity and to see the situation with new eyes. This is also one of the core messages at the beginning of the course — we hear Thay speak at the House of Lords in London in 2012:
 
@@ -24,6 +26,8 @@ The scientists say it very clearly: We as humanity have only a few more years le
 I got a better sense why changing our way of seeing things is so important in our pursuit of saving the planet. I also notice that we should be careful of thinking in terms of pursuing a goal, *even if the goal is to protect Mother Earth*. In the welcome video, Sr. Hien Nghiem reminds and invites us to approach this course with a spirit of aimlessness (letting go of results/expectations). Right from the beginning, the online retreatants are being exposed to what we sometimes call the deeper teachings of Buddhism. This makes the course very enriching for both long-term practitioners and those who are completely new to the practice. So the question that came up for me was about how this special new course actually manifested.
 
 {% image "article2024/Br-Duc-Niem/ZASP_1x1.jpg", "removeTopMargin" %}
+
+<div class="removeIndentInFollowingElem"></div>
 
 **Q: How was the idea of the *Zen and the Art of Saving the Planet (ZASP)* online course born?**
 
@@ -49,10 +53,10 @@ The feedback we received from the course participants, showed how transformative
 
 <div class="verse"><p>“Only non-violence can cure violence — to myself, to my relationship with family, also hopefully to countries and to the world! The strongest thing in the world are not any weapons, but our heart.”<br/><cite>China</cite></p></div>
 
+<div class="verse"><p>“As some parts of my body are hurting, there are other parts that are not hurting, and that actually feels pleasant. It is the same with nature, and with all social movements. There are moments of despair, but in other parts of the world, there is hope, commitment and activism to make the planet a better place. I learned that both tensions are part of the same coin.”<br/><cite>Colombia</cite></p></div>
+
 {% image "article2024/Br-Duc-Niem/422002206_712251721012125_3240841367916563777_n_e.jpg", "removeTopMargin" %}
 {% image "article2024/Br-Duc-Niem/moon1e.jpeg", "removeTopMargin" %}
-
-<div class="verse"><p>“As some parts of my body are hurting, there are other parts that are not hurting, and that actually feels pleasant. It is the same with nature, and with all social movements. There are moments of despair, but in other parts of the world, there is hope, commitment and activism to make the planet a better place. I learned that both tensions are part of the same coin.”<br/><cite>Colombia</cite></p></div>
 
 <div class="verse"><p>“This course was a profound and extraordinary experience for me. For years I have been teaching, engaging my students in social activism… This course helped me to realize that I was pursuing dreams and a radical awakening without being awakened myself… I am not sure I have ever been so excited by a course and the invitation for change inherent in the teachings… The talks were personal, challenging, soft-natured, evoking curiosity and openness. The online presence of the monastics and lay dharma teachers became a comfort day after day, week after week.”<br/><cite>USA</cite></p></div>
 

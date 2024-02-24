@@ -1228,7 +1228,7 @@ html:lang(en) figure#article2024Done-BrPhap-UngBrPhap-Unge {
 
 /* column-span images */
 figure#article2024Br-Hai-Thuong3303559909048077505433252111270774346916962ne,
-html:lang(vi) figure#article2024Done-SrHien-TamIMG2286,
+figure#article2024Done-SrHien-TamIMG2286,
 figure#article2024Br-Hai-ThuongVNENguoi-da-ve-da-toiDSC4330e,
 /* figure#article2024Br-Hai-ThuongVNETrot-thuongDSC2313e, */
 figure#article2024Br-Hai-ThuongVNENguoi-di-hai-thuoc-dau-nonDSC4924e,
@@ -1369,6 +1369,10 @@ html:lang(vi) figure#article2024Done-SrHien-TamIMG2286 {
     width: 80%;
     margin-bottom: 0em;
 }
+html:lang(en) figure#article2024Done-SrHien-TamIMG2286 {
+    width: 73%;
+    margin-bottom: 0em;
+}
 html:lang(en) figure#article2024Done-Coming-home-to-our-rootsPXL20230608053312985e,
 figure#article2024Done-interview-with-thayEni-am-in-love-with-mother-earthe {
     width: 57%;
@@ -1454,7 +1458,7 @@ figure#article2024br-dinh-thanhTransforming-Resentment-Br-Dinh-Thanh {
 } */
 
 figure#article2024Br-Hai-ThuongVNENguoi-di-hai-thuoc-dau-nonDSC4924e img,
-figure#article2024Sr-Lam-Hy012 img,
+html:lang(vi) figure#article2024Sr-Lam-Hy012 img,
 figure#article2024Sr-Chua-XuaDSC08857 img,
 figure#article2024Br-Duc-NiemPV202359 img,
 figure#article2024kieu-trinhDSC09880e img,
@@ -1494,10 +1498,10 @@ figure.myImgTest img
     transform: translate(-50%, -50%);
 }
 
-figure#article2024Sr-Lam-Hy012 {
+html:lang(vi) figure#article2024Sr-Lam-Hy012 {
     height: 84mm;
 }
-figure#article2024Sr-Lam-Hy012 img {
+html:lang(vi) figure#article2024Sr-Lam-Hy012 img {
     top: 20%;
 }
 
@@ -1612,10 +1616,6 @@ html:lang(en) figure#article2024Done-Sr-Tuyet-NDSC00153e {
 
 
 
-figure#article2024Done-Br-Minh-HyMG9118 {
-    padding-left: 19%;
-    padding-right: 19%;
-}
 
 figure#article2024br-duc-hienIMG0754e,
 html:lang(vi) figure#article2024Done-Sr-Bo-DeDSC7412,
@@ -1643,7 +1643,7 @@ figure#article2024Done-Memorial-Ceremony40SuOng2ndYearMemorial220124,
 figure#article2024Done-Memorial-Ceremony10SuOng2ndYearMemorial220124,
 figure#article2024Done-Memorial-Ceremony06SuOng2ndYearMemorial220124,
 figure#article2024Done-Memorial-Ceremony21SuOng2ndYearMemorial220124,
-figure#article2024Done-Br-Minh-HyMG9118 {
+html:lang(vi) figure#article2024Done-Br-Minh-HyMG9118 {
     padding-left: 5%;
     padding-right: 5%;
 }
@@ -1653,6 +1653,10 @@ figure#article2024Br-Hai-ThuongVNETrot-thuongMG8772e {
 }
 
 
+html:lang(en) figure#article2024Done-Br-Minh-HyMG9118 {
+    padding-left: 19%;
+    padding-right: 19%;
+}
 
 
 
