@@ -8,7 +8,7 @@ author: Nhớ về thầy Chân Trời Hải Thượng
 {% image "article2024/Br Hai Thuong/ENG/012 copy_e.jpg" %}
 
 <p>
-BBT xin giới thiệu bài viết “Trót thương” và “Người đã về, đã tới” của thầy Trời Hải Thượng. Đọc bài viết, chúng ta sẽ được tiếp xúc với tâm hồn tinh tế, tình yêu cuộc sống, sự có mặt trọn vẹn, sự trân quý từng phút từng giây của thầy Trời Hải Thượng. Chỉ khi nào người ta có khả năng an trú trong hiện tại thì mới có thể cảm và nhìn thấy từng góc cạnh, từng chi tiết nhỏ những nét đẹp nhiệm mầu của sự sống đến như thế.</p><p>
+Trong số rất nhiều lời cảm niệm, nhớ thương về thầy Trời Hải Thượng, BBT xin trích đăng một vài chia sẻ của những huynh đệ đã từng có thời gian chung sống và tu học cùng thầy. BBT cũng xin giới thiệu bài viết “Trót thương” và “Người đã về, đã tới” của thầy Trời Hải Thượng. Đọc bài viết, chúng ta sẽ được tiếp xúc với tâm hồn tinh tế, tình yêu cuộc sống, sự có mặt trọn vẹn, sự trân quý từng phút từng giây của thầy. Chỉ khi nào người ta có khả năng an trú trong hiện tại thì mới có thể cảm và nhìn thấy từng góc cạnh, từng chi tiết nhỏ những nét đẹp nhiệm mầu của sự sống đến như thế.</p><p>
 Dù thầy Trời Hải Thượng không còn biểu hiện qua hình tướng thông thường nữa, chúng ta vẫn có thể tiếp xúc với thầy qua các bài viết sâu sắc và những vần thơ phản ánh tâm hồn tinh tế, thoát tục nhưng tha thiết yêu đời của thầy.</p></div>
 
 ## Suối nguồn an lạc
