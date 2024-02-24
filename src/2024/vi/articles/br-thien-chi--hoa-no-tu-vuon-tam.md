@@ -1,6 +1,6 @@
 ---
 title: Hoa nở tự vườn tâm
-author: Brother Chân Trời Thiện Chí
+author: Thầy Chân Trời Thiện Chí
 ---
 
 <p class="editors-preface">Thầy Trời Thiện Chí, người Bun-ga-ri, xuất gia trong gia đình Cây Dẻ Gai vào năm 2018 và hiện đang tu học tại xóm Thượng, Làng Mai Pháp. Dưới đây là bài viết của thầy về chuyến hoằng pháp năm tuần tại Anh, Scotland, Wales và Ireland (5.5 - 11.6.2023). Bài viết được BBT chuyển ngữ từ tiếng Anh.</p>
