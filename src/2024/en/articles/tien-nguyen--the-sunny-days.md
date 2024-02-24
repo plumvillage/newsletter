@@ -3,7 +3,7 @@ title: The Sunny Days
 author: Tiên Nguyễn
 ---
 
-<p class="editors-preface">Tien is a young lay friend in Australia. From time to time, Tien comes to Stream Entering Monastery in Melbourne to practice with the sisters. Her joy and transformation manifest as gently and naturally as the misty spring rain. Below is a letter, in which Tien shared her reflection with a Sister.</p>
+<p class="editors-preface">Tien is a young lay friend in Australia. From time to time, Tien comes to Stream Entering Monastery in Melbourne to practice with the sisters. Her joy and transformation manifest as gently and naturally as the misty spring rain. Below is a letter, in which Tien shared her reflection with a sister.</p>
 
 Dear Sister,
 
