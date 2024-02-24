@@ -3,7 +3,7 @@ title: My Novice Robe
 author: Brother Chân Trời Bát Nhã
 ---
 
-<p class="editors-preface">Br. Bat Nha ordained on 27 January 2022 in the Mimosa ordination family and currently resides and practices at Từ Đức Temple, Vietnam. He wrote the following letter on December 20, 2023.</p>
+<p class="editors-preface">Brother Troi Bat Nha ordained on 27 January 2022 in the Mimosa ordination family and currently resides and practices at Từ Đức Temple, Vietnam. He wrote the following letter on 20 December 2023.</p>
 
 Dear beloved Thay,
 
@@ -15,7 +15,7 @@ Beautiful moments in the early morning, relaxing and free steps in meditation, p
 
 The time that I live in the heart of the sangha as a 23-year-old novice, full of ideals and aspirations, is indeed precious. It is precious because we all share a mindful lifestyle and the same ideals. Everyday, I am able to collect and store little joys and simple happy moments.
 
-Dear Thay, I feel so lucky because there are many novice monks (śrāmaṇera) and novice nuns (śrāmaṇerikā) at the temple. We are always side-by-side working, attending activities and creating our “childhood” together. I never forget the reminder our elder brothers and sisters have given us: “Novicehood is the most beautiful and powerful time, please treasure it when you still have it in your hands.” I was very happy and joyful to hear those encouraging words. My love and appreciation for these precious moments grow bigger as I live and practice as a novice in the sangha.
+Dear Thay, I feel so lucky because there are many novice monks (śrāmaṇera) and novice nuns (śrāmaṇerikā) at the temple. We are always working side-by-side, attending activities and creating our “childhood” together. I never forget the reminder our elder brothers and sisters have given us: “Novicehood is the most beautiful and powerful time, please treasure it when you still have it in your hands.” I was very happy and joyful to hear those encouraging words. My love and appreciation for these precious moments grow bigger as I live and practice as a novice in the sangha.
 
 ## As long as there is gratitude, there is happiness
 
@@ -46,4 +46,4 @@ I woke up startled, tears streaming down my face. I cried because I felt overwhe
 I know that I am very fortunate to be born as a human, to encounter the Three Jewels, and to be a disciple of Thay. I see that all the miraculous conditions and teachings of Thay have been transmitted to me, igniting the flame within me so that I can become a “little novice” in the embrace of the sangha. I am grateful to you, dear Thay, I am grateful to the sangha, and to all conditions that have come together for me to manifest.
 
 <p class="signoff"><span class="signoff-lvl-1">Your disciple,</span><br/>
-<span class="signoff-lvl-2">Br. Chân Trời Bát Nhã</span></p>
+<span class="signoff-lvl-2">Chân Trời Bát Nhã</span></p>
