@@ -274,8 +274,8 @@ Trong bối cảnh xung đột ngày càng leo thang ở Trung Đông, ngày 19.
 Trong năm 2023, tăng thân xuất sĩ đã chào đón thêm 31 thành viên mới:
  - **Cây Nhãn** (ngày 18.5 tại tu viện Vườn Ươm, Thái Lan) gồm các sư chú: *Chân Nhất Giác, Chân Nhất Ngữ.*
  - **Cây Toyon** (ngày 24.9 tại tu viện Lộc Uyển, Mỹ) gồm các sư chú: *Chân Nhất Lâm, Chân Nhất Thiên, Chân Nhất Điền, Chân Nhất Sơn;* và các sư cô: *Chân Ân Hạnh, Chân Thuần Hạnh.*
- - **Cây Thủy tiên** (ngày 5.11 tại chùa Pháp Vân, Pháp) gồm các sư chú: *Chân Nhất Vân, Chân Nhất Vũ, Chân Nhất Thanh, Chân Nhất Lương, Chân Nhất Nguyên, Chân Nhất Mộc, Chân Nhất Xuân;* và các sư cô: *Chân Đôn Hạnh, Chân Diệu Hạnh, Chân Đăng Hạnh.*
- - **Cây Chuông Vàng** (ngày 17.12 tại tu viện Vườn Ươm, Thái Lan) gồm các sư cô: *Chân Cung Hạnh, Chân Chuyên Hạnh, Chân Cẩn Hạnh, Chân Chuẩn Hạnh, Chân Chỉnh Hạnh, Chân Chỉ Hạnh, Chân Chí Hạnh, Chân Cư Hạnh, Chân Chánh Hạnh, Chân Chiêu Hạnh, Chân Chung Hạnh, Chân Cần Hạnh, Chân Cát Hạnh.*
+ - **Cây Hoa Thủy Tiên** (ngày 5.11 tại chùa Pháp Vân, Pháp) gồm các sư chú: *Chân Nhất Vân, Chân Nhất Vũ, Chân Nhất Thanh, Chân Nhất Lương, Chân Nhất Nguyên, Chân Nhất Mộc, Chân Nhất Xuân;* và các sư cô: *Chân Đôn Hạnh, Chân Diệu Hạnh, Chân Đăng Hạnh.*
+ - **Cây Hoa Chuông Vàng** (ngày 17.12 tại tu viện Vườn Ươm, Thái Lan) gồm các sư cô: *Chân Cung Hạnh, Chân Chuyên Hạnh, Chân Cẩn Hạnh, Chân Chuẩn Hạnh, Chân Chỉnh Hạnh, Chân Chỉ Hạnh, Chân Chí Hạnh, Chân Cư Hạnh, Chân Chánh Hạnh, Chân Chiêu Hạnh, Chân Chung Hạnh, Chân Cần Hạnh, Chân Cát Hạnh.*
 
 <div class="removeIndentInFollowingElem"></div>
 
