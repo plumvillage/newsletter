@@ -1236,8 +1236,10 @@ html:lang(en) figure#article2024Done-BrPhap-UngBrPhap-Unge {
 
 
 /* column-span images */
+figure#article2024Br-Hai-Thuong3303559909048077505433252111270774346916962ne,
+html:lang(vi) figure#article2024Done-SrHien-TamIMG2286,
 figure#article2024Br-Hai-ThuongVNENguoi-da-ve-da-toiDSC4330e,
-figure#article2024Br-Hai-ThuongVNETrot-thuongDSC2313e,
+/* figure#article2024Br-Hai-ThuongVNETrot-thuongDSC2313e, */
 figure#article2024Br-Hai-ThuongVNENguoi-di-hai-thuoc-dau-nonDSC4924e,
 figure#article2024Sr-Chua-XuaDSC08857,
 figure#article2024Br-Duc-NiemPV202359,
@@ -1310,8 +1312,12 @@ figure#article2024Tien-NguyenIMG5897 {
     margin-top: 2em;
     margin-bottom: 0em;
 }
+
 html:lang(vi) figure#article2024Tien-NguyenIMG5897 {
     width: 90%;
+}
+figure#article2024Br-Hai-Thuong3303559909048077505433252111270774346916962ne {
+    width: 97%;
 }
 
 figure#article2024Done-Daffodil-family200110723e2 {
@@ -1331,7 +1337,7 @@ html:lang(vi) figure#article2024br-thien-chiNewForestRetreat-PVTwanPeetersMay-20
     margin-bottom: 0em;
 }
 
-figure#article2024Br-Hai-ThuongVNETrot-thuongDSC2313e,
+/* figure#article2024Br-Hai-ThuongVNETrot-thuongDSC2313e, */
 figure#article2024sr-tam-muoibelle-vue-ouestJPGe,
 figure#article2024Done-Review-of-the-YearTNH-Center528562133967da665de4eo {
     width: 100%;
@@ -1368,6 +1374,10 @@ figure#article2024Done-Memorial-CeremonyHueBefore-the-CeremonyVN-24Day-18 {
     margin-bottom: 1.5em;
 }
 
+html:lang(vi) figure#article2024Done-SrHien-TamIMG2286 {
+    width: 80%;
+    margin-bottom: 0em;
+}
 html:lang(en) figure#article2024Done-Coming-home-to-our-rootsPXL20230608053312985e,
 figure#article2024Done-interview-with-thayEni-am-in-love-with-mother-earthe {
     width: 57%;

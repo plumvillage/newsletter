@@ -3,6 +3,8 @@ title: Trót thương
 author: Thầy Chân Trời Hải Thượng
 ---
 
+{% image "article2024/Br Hai Thuong/330355990_904807750543325_2111270774346916962_n_e.jpg", "removeTopMarginInFollowingElem" %}
+
 Đã trót thương phía trời Đông mây thoáng hồng ươm nắng bình minh, từ đằng Tây chiếc khăn mây vòng qua chân núi chạy dài bồng bềnh một dải Khaoyai, đồng sắn ngô, xóm làng thị trấn ngọn tháp trắng trở mình trong sương mờ ảo, nắng lên nâng lớp mây mỏng dần dâng tới khoảng không đỉnh núi, ngày đã lên theo nắng nâng bàn chân nhịp sống lại tuần hoàn
 
 Đã trót thương con đường nguyệt quế, con đường thơm dẫn tới một khung trời quang đãng, sớm bước thiền đi về khẽ chạm những đôi cánh trắng dập dờn giả bộ rụng trên lối rêu rải đầy hoa nắng 
@@ -59,4 +61,5 @@ Mới trót thương tất cả,…
 
 <div class="article-end"></div>
 
-{% image "article2024/Br Hai Thuong/VNE/Trot thuong/_DSC2313_e.JPG" %}
+<!-- {% image "article2024/Br Hai Thuong/VNE/Trot thuong/_DSC2313_e.JPG" %} -->
+{% image "article2024/Br Hai Thuong/349311026_182331228114367_8917641110804663799_n.jpg" %}
