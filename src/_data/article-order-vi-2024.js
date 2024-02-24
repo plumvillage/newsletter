@@ -20,6 +20,7 @@ module.exports = [
     "br-phap-dung--bay-nhieu-thoi-la-da-du",
     "sr-bao-nghiem--tho",
     
+    
     // PART 2
     "cau-tra-loi-la-tinh-thuong",
     "sr-bo-de--bong-dang-thay",
@@ -33,13 +34,13 @@ module.exports = [
     "br-hai-thuong--nguoi-da-ve-da-toi",
     // Tri N
     "tien-nguyen--co-nhung-ngay-uom-nang",
-    // DHien
+    "br-duc-hien-gia-dinh-tam-linh-khap-moi-noi",
     "sr-dinh-nghiem--cuoc-song",
     "sr-dao-nghiem--thien-tri-thuc",
     "br-tuong-tuc--con-tu-la-con-thay-nhau",
     // DNiem
     "sr-hien-tam--minh-la-mieng-dau-hu",
-    // Joost
+    "joost-vriens--anh-sang-cua-su-ket-noi",
     "sr-lam-hy--chay-bo-de-dung-lai",
     "sr-lac-hanh--con-di-cho-me",
     "scck--xuan-yeu-thuong-ngap-tran-nam-thang",

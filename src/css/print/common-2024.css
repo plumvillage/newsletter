@@ -1236,6 +1236,8 @@ html:lang(en) figure#article2024Done-BrPhap-UngBrPhap-Unge {
 
 
 /* column-span images */
+figure#article2024Br-Hai-ThuongVNENguoi-da-ve-da-toiDSC4330e,
+figure#article2024Br-Hai-ThuongVNETrot-thuongDSC2313e,
 figure#article2024Br-Hai-ThuongVNENguoi-di-hai-thuoc-dau-nonDSC4924e,
 figure#article2024Sr-Chua-XuaDSC08857,
 figure#article2024Br-Duc-NiemPV202359,
@@ -1300,6 +1302,9 @@ figure#article2024Sr-Tri-Nghiem000 {
     width: 90%;
     margin-bottom: 0em;
 }
+html:lang(vi) figure#article2024br-duc-hienChileIMG2160e {
+    width: 88%;
+}
 figure#article2024Tien-NguyenIMG5897 {
     width: 95%;
     margin-top: 2em;
@@ -1325,6 +1330,8 @@ html:lang(vi) figure#article2024br-thien-chiNewForestRetreat-PVTwanPeetersMay-20
     margin-top: 1em;
     margin-bottom: 0em;
 }
+
+figure#article2024Br-Hai-ThuongVNETrot-thuongDSC2313e,
 figure#article2024sr-tam-muoibelle-vue-ouestJPGe,
 figure#article2024Done-Review-of-the-YearTNH-Center528562133967da665de4eo {
     width: 100%;
@@ -1374,6 +1381,7 @@ html:lang(vi) figure#article2024Done-Sr-Hien-HanhSr-Hien-Hanh-2e {
     width: 77%;
     margin-bottom: 0em;
 }
+/* figure#article2024Br-Hai-ThuongVNENguoi-da-ve-da-toiDSC4330e, */
 html:lang(en) figure#article2024Done-sr-linh-di4b0fc9b1-47ca-49f3-8d3c-8395efe91e73e {
     width: 65%;
     margin-bottom: 0em;
@@ -1430,18 +1438,6 @@ figure#article2024br-dinh-thanhTransforming-Resentment-Br-Dinh-Thanh {
     width: 80%;
 }
 
-/* figure#article2024br-duc-hienBrazilimage00295e {
-    width: 49%;
-    padding-right: 3%;
-} */
-figure#article2024br-duc-hienIMG0754e {
-    padding-right: 10%;
-    padding-left: 10%;
-}
-/* figure#article2024br-duc-hienBrazilimage00295e {
-    padding-right: 10%;
-    padding-left: 10%;
-} */
 
 
 
@@ -1613,6 +1609,14 @@ html:lang(en) figure#article2024Done-Sr-Tuyet-NDSC00153e {
 
 
 
+
+
+figure#article2024Done-Br-Minh-HyMG9118 {
+    padding-left: 19%;
+    padding-right: 19%;
+}
+
+figure#article2024br-duc-hienIMG0754e,
 html:lang(vi) figure#article2024Done-Sr-Bo-DeDSC7412,
 figure#article2024Sr-Tri-Nghiem002 {
     padding-left: 10%;
@@ -1632,6 +1636,8 @@ figure#article2024Done-Br-Bat-NhaCTD04521e {
     padding-right: 6%;
 }
 
+figure#article2024Br-Hai-ThuongVNETrot-thuongMG8772e,
+figure#article2024Br-Hai-ThuongVNETrot-thuongIMG9391e,
 figure#article2024Done-Memorial-Ceremony40SuOng2ndYearMemorial220124,
 figure#article2024Done-Memorial-Ceremony10SuOng2ndYearMemorial220124,
 figure#article2024Done-Memorial-Ceremony06SuOng2ndYearMemorial220124,
@@ -1640,11 +1646,10 @@ figure#article2024Done-Br-Minh-HyMG9118 {
     padding-left: 5%;
     padding-right: 5%;
 }
-figure#article2024Done-Br-Minh-HyMG9118 {
-    padding-left: 19%;
-    padding-right: 19%;
-}
 
+figure#article2024Br-Hai-ThuongVNETrot-thuongMG8772e {
+    margin-bottom: 8mm;
+}
 
 
 
@@ -1951,5 +1956,5 @@ html:lang(en) .PAGE-OF-article2024Done-Memorial-Ceremony67SuOng2ndYearMemorial22
     font-size: 120% !important;
 }
 .article-trot-thuong p + p {
-    margin-top: 1.3mm !important;
+    /* margin-top: 1.3mm !important; */
 }

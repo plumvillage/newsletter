@@ -14,6 +14,7 @@ After a friendly and joyful dinner in a vegan restaurant run by a member of the 
 The organizer of this evening invited a group of young musicians to start off the evening with the chanting of mantras to the beat of local rhythms, which was met with much enthusiasm. 
 
 I was very touched by the communal energy which was slowly taking hold, giving us confidence to take turns sharing—with the help of a translator—about how the practice inspired us, and allowed us to welcome life as it manifested itself inside and around us. On the bus back to our accommodation we shared the wonder and deep gratitude that we felt after such an encounter.
+
 {% image "article2024/br-duc-hien/Brazil/WhatsApp Image 2023-03-28 at 09.41.31_e.jpeg", "removeTopMargin" %}
 
 I felt truly blessed and honored to be part of this group, and to become even more aware of the power of our commitment to “awaken humanity to love and the reality of interbeing.” I saw more clearly how the precepts and monastic robe offered me the opportunity to be, without needing to appear, to exist by myself. I could simply allow every moment of this multifaceted, collective movement to manifest and shine through, smiling to life.
@@ -25,8 +26,6 @@ As was often the case in our retreats, we met in the afternoon for Dharma sharin
 Just before closing the session, a young woman spoke with great intensity about her pain of having lost her big brother three years ago in an accident. For the first time, she allowed herself to cry and to feel the lack of his presence. She had locked everything up inside her heart. She told us that she was very surprised to find herself gradually openingopen up and finally let herself be embraced by the collective energy of compassion. Her body relaxed, her eyes softened, grief could finally be welcomed, and a wave of sweetness and tenderness ran through the entire group. I was deeply touched and happy to witness such a rebirth of life. It reminded me of my own journey with grief.
 
 The next morning, her mother, who also participated, shared with us her joy of finally finding her daughter alive again. It is true that the transformation was striking! We saw her again a few days after the retreat and celebrated this little miracle together with eyes full of tears and hearts of gratitude.
-
-<!-- {% image "article2024/br-duc-hien/Brazil/image00379.jpeg" %} -->
 
 ## Province of Sao Paulo, Brazil
 
@@ -47,7 +46,6 @@ I met two women activists committed to indigenous populations. Deep in their eye
 Another moment of pure grace happened during walking meditation. I was hand in hand with a little girl, accompanied by her mother, who was so happy to be able to join us. The little girl sent me a drawing which now hangs above my bed. A smile is guaranteed when I wake up!
 
 {% image "article2024/br-duc-hien/IMG_0754_e.JPG" %}
-<!-- {% image "article2024/br-duc-hien/Brazil/image00295_e.jpeg" %} -->
 
 <div class="page-break"></div>
 
@@ -63,8 +61,6 @@ The following Sunday, we met for a day of mindfulness in a park, near a 6-lane r
 
 At the end of the day, the smiles were generous and abundant, and many people came up to us to express their gratitude for this precious moment of communion and simplicity. I realized how touched I was by these magical moments that happen when our differences fade away and reveal a great pure heart that radiates love for all beings. As a Zen monk and disciple of Thay, I feel honored to be able to embody this ancestral wisdom, and am impressed by the simple conditions needed for happiness to manifest.
 
-<!-- {% image "article2024/br-duc-hien/Argentina/IMG_3434.jpg" %} -->
-
 <div class="page-break"></div>
 
 ## Santiago, Chile
@@ -79,7 +75,7 @@ We returned to Plum Village with a happy heart accompanied by our young driver, 
 
 {% image "article2024/br-duc-hien/Chile/foto-43_e.jpeg", "noFloat chileImg" %}
 {% image "article2024/br-duc-hien/Chile/DGO28_e.jpeg", "noFloat chileImg" %}
-{% image "article2024/br-duc-hien/Chile/IMG_1908.JPG", "noFloat chileImg" %}
-
+{% image "article2024/br-duc-hien/Chile/IMG_1908.JPG", "noFloat chileImg
+" %}
 
 {% image "article2024/br-duc-hien/Chile/IMG_2160e.jpg", "noFloat" %}

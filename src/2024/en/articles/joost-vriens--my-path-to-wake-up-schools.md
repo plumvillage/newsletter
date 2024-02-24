@@ -27,12 +27,14 @@ During that period, there was an even stronger bell of mindfulness. Sjef became 
 
 ## In the sharing is the learning
 
-I joined a small Plum Village sangha in Eindhoven. I looked at the facilitators and I noticed that they chose themes from the practice of Plum Village that they themselves were working with. To teach is also to work on yourself. Then I had enough courage to step forward and became a facilitator myself. That was a form of coming home to myself. After a while, I noticed that I became freer and  more grounded in my work as a teacher/coach. During those sangha meetings I found my own voice. The lesson I learnt was *"In the sharing is the learning."*
+I joined a small Plum Village sangha in Eindhoven. I looked at the facilitators and I noticed that they chose themes from the practice of Plum Village that they themselves were working with. To teach is also to work on yourself. Then I had enough courage to step forward and became a facilitator myself. That was a form of coming home to myself. After a while, I noticed that I became freer and  more grounded in my work as a teacher/coach. During those sangha meetings I found my own voice. The lesson I learnt was *“In the sharing is the learning.”*
 
-As I deepened my practice in the sangha, I noticed that if I was not open and vulnerable during Dharma sharing, the Dharma sharing was quiet and superficial. If I was open, accepted the pain and my not-knowing, the sharing was rich and deep. A similar understanding of the school system grew in me. The students could not be vulnerable because the teachers and the system were not. During that time I also started to see that my students were submerged in a mindset of "I am not good enough." I became curious about the internal processes of the students, how they were struggling with themselves, society, and the wounds they had. I then started to share my own growth process with them.
+<p class="pull-quote" style="font-size: 150%; text-indent: -6mm !important; font-weight: 500;">To teach is also to work on yourself.</p>
 
-{% image "article2024/joost/013_08202023.jpg" %}
-{% image "article2024/joost/014.jpg" %}
+As I deepened my practice in the sangha, I noticed that if I was not open and vulnerable during Dharma sharing, the Dharma sharing was quiet and superficial. If I was open, accepted the pain and my not-knowing, the sharing was rich and deep. A similar understanding of the school system grew in me. The students could not be vulnerable because the teachers and the system were not. During that time I also started to see that my students were submerged in a mindset of ‘I am not good enough.’ I became curious about the internal processes of the students, how they were struggling with themselves, society, and the wounds they had. I then started to share my own growth process with them.
+
+{% image "article2024/joost/013_08202023.jpg", "removeTopMargin" %}
+{% image "article2024/joost/014.jpg", "removeTopMargin" %}
 
 ## An inter-generational buddy system
 

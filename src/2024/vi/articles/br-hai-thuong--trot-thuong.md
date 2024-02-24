@@ -55,6 +55,8 @@ author: Thầy Chân Trời Hải Thượng
 
 Đã trót thương một chất liệu, dẫu thay muôn hình vạn dạng vẫn có thể nuôi đời, nhân duyên để Bụt giúp, khóc cười vẫn khóc cười
 
-{% image "article2024/Br Hai Thuong/ENG/_DSC5431_e2.jpg" %}
+Mới trót thương tất cả,…
 
-Mới trót thương tất cả, …
+<div class="article-end"></div>
+
+{% image "article2024/Br Hai Thuong/VNE/Trot thuong/_DSC2313_e.JPG" %}
