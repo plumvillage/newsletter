@@ -3,25 +3,25 @@ title: Plum Village and Our Art of Saving the Planet
 author: Brother Chân Trời Đức Niệm
 ---
 
-<p class="editors-preface">The first of its kind in extent and content hosted by Plum Village, the 7-week online course “Zen and the Art of Saving the Planet” (ZASP) was curated in 2022 and later launched publicly in October 2023. Br. Troi Duc Niem was one of the monastics who participated in the course along with approximately 1,600 lay participants from nearly 50 countries on six continents.</p>
+<p class="editors-preface">The first of its kind in extent and content hosted by Plum Village, the 7-week online course “Zen and the Art of Saving the Planet” (ZASP) was curated in 2022 and later launched publicly in October 2023. Brother Troi Duc Niem was one of the monastics who participated in the course along with approximately 1,600 lay participants from nearly 50 countries on six continents.</p>
 
-I remember one moment during my first summer retreat in Plum Village in 2013 very clearly: Thay shared in a Q&A session that ‘Maybe in 100 years there will be no more humans on this planet if we continue to live like we do now.’ I was deeply impressed – not only by the clarity with which he described this reality, but especially by the way he said it. Thay radiated such peace, lightness and calmness when he spoke out this heavy truth, it had a deep and lasting impact on me. In my heart, an aspiration was born in that moment: I also want to cultivate and embody such peace and equanimity so that I can remain peaceful and compassionate even when the world seems to fall apart around me.
+I remember one moment during my first summer retreat in Plum Village in 2013 very clearly: Thay shared in a Q&A session that "Maybe in 100 years there will be no more humans on this planet if we continue to live like we do now." I was deeply impressed – not only by the clarity with which he described this reality, but especially by the way he said it. Thay radiated such peace, lightness and calmness when he spoke out this heavy truth, it had a deep and lasting impact on me. In my heart, an aspiration was born in that moment: I also want to cultivate and embody such peace and equanimity so that I can remain peaceful and compassionate even when the world seems to fall apart around me.
 
-One big question and Ko-an for me is: How can I and we have deep peace inside while not closing our eyes to the unprecedented suffering from a climate breakdown that is unfolding around us?
+One big question and koan for me is: How can I and we have deep peace inside while not closing our eyes to the unprecedented suffering from a climate breakdown that is unfolding around us?
 
 In recent years, the wish in my heart to help save the planet has manifested in very concrete and beautiful ways: Plum Village now offers the *Zen and the Art of Saving the Planet (ZASP)* online course and climate retreats on a regular basis (the next ZASP course will start in March 2024).
 
 {% image "article2024/Br-Duc-Niem/sun1_e.jpeg" %}
 
-In this article, I would like to share about my own experience in joining the ZASP course, explore how it has started, and how it has supported people and groups in the climate community. We will hear feedback from ZASP participants and will reflect on the role and contribution of Plum Village in the climate movement and what teachings have been effective in this area. To explore these questions, I interviewed Sr. Hien Nghiem (True Dedication) and Jo Confino, who are quoted throughout this article.
+In this article, I would like to share about my own experience in joining the ZASP course, explore how it has started, and how it has supported people and groups in the climate community. We will hear feedback from ZASP participants and will reflect on the role and contribution of Plum Village in the climate movement and what teachings have been effective in this area. To explore these questions, I interviewed Sr. Hien Nghiem (Sr. True Dedication) and Jo Confino, who are quoted throughout this article.
 
-## A New Way of Seeing
+# A new way of seeing
 
 The scientists say it very clearly: We as humanity have only a few more years left to stay below 1.5°C in order to avoid catastrophic climate breakdown and destabilization of the fragile balance of our biosystems. This means we need to radically change our ways of living. Reading about the state of our planet and the big challenges we face have caused quite a lot of fear and despair in me. Listening to the videos of the ZASP course has helped me to have more hope, clarity and to see the situation with new eyes. This is also one of the core messages at the beginning of the course — we hear Thay speak at the House of Lords in London in 2012:
 
 > “It is my conviction that we cannot change the world if we are not capable of changing our way of thinking, our consciousness. That is why awakening, collective change in our way of thinking and seeing things, is very crucial. And that is why learning to change our way of daily living so that there is more mindfulness, more peace, more love is very urgent and we can do that now, today.”
 
-I got a better sense why changing our way of seeing things is so important in our pursuit of saving the planet. I also notice that we should be careful of thinking in terms of pursuing a goal *(even if the goal is to protect Mother Earth)*. In the welcome video, Sr. Hien Nghiem reminds and invites us to approach this course with a spirit of aimlessness (letting go of results/expectations). Right from the beginning, the online retreatants are being exposed to what we sometimes call the deeper teachings of Buddhism. This makes the course very enriching for both long-term practitioners and those who are completely new to the practice. So the question that came up for me was about how this special new course actually manifested.
+I got a better sense why changing our way of seeing things is so important in our pursuit of saving the planet. I also notice that we should be careful of thinking in terms of pursuing a goal, *even if the goal is to protect Mother Earth*. In the welcome video, Sr. Hien Nghiem reminds and invites us to approach this course with a spirit of aimlessness (letting go of results/expectations). Right from the beginning, the online retreatants are being exposed to what we sometimes call the deeper teachings of Buddhism. This makes the course very enriching for both long-term practitioners and those who are completely new to the practice. So the question that came up for me was about how this special new course actually manifested.
 
 {% image "article2024/Br-Duc-Niem/ZASP_1x1.jpg", "removeTopMargin" %}
 
@@ -33,7 +33,7 @@ I got a better sense why changing our way of seeing things is so important in ou
 
 ## Touching stillness and the wonders of life
 
-I have not been involved in creating the ZASP course, so autumn 2023 was my first time of seeing and experiencing the course. What struck me immediately at the beginning was the beauty and elegance of the beginning of each video – scenes of majestic mountains with snow, green bamboo swaying in the wind and the gentle rising of the sea that flowed harmoniously with the beautiful sounds of the violin and cello. It helped me to instantly touch stillness, peace and the wonders of life – the bells of mindfulness of Mother Earth that are calling us to stop and look deeply.
+I have not been involved in creating the ZASP course, so autumn 2023 was my first time of seeing and experiencing the course. What struck me immediately at the beginning was the beauty and elegance of the beginning of each video: scenes of majestic mountains with snow, green bamboo swaying in the wind and the gentle rising of the sea that flowed harmoniously with the beautiful sounds of the violin and cello. It helped me to instantly touch stillness, peace and the wonders of life – the bells of mindfulness of Mother Earth that are calling us to stop and look deeply.
 
 Another thing I noticed was the high quality of the videos and short teachings by the various Dharma teachers – they went straight to the heart of the matter, sharing concisely and concretely relevant insights and practices with vivid examples from their own lives. One video that directly spoke to me was when Br. Phap Dung shared about the meditator, the artist and the warrior and how we can cultivate these energies in our lives. I realized that it would be beneficial for me to allow the artist in me to manifest more, e. g. by playing music sometimes, so that the creative and joyful side of me can flourish more and balance the more serious analytical mind of mine.
 
@@ -43,11 +43,11 @@ Another thing I noticed was the high quality of the videos and short teachings b
 
 ***Sr. Hien Nghiem:*** *I think that our shared insight gave us the courage to offer deep Dharma right away. In the course, already in week two we go into the end of civilization and the Diamond Sutra and so on, because we had a lot of faith in people’s courage to touch the deeper Dharma. Thay was also committed to sharing the deepest teachings on no birth and no death in every retreat and I feel that it’s really important to continue that legacy to offer not simply mindfulness practice just to cope with strong feelings but the deep insights that help us transform the feelings.*
 
-## Transformative Journey
+## Transformative journey
 
 The feedback we received from the course participants, showed how transformative the journey was for many of them and how they were able to touch deep insights within themselves:
 
-<div class="verse"><p>“Only non-violence can cure violence — to myself, to my relationship with family, also hopefully to countries and to the world! The strongest thing in the world are not any weapons, but our heart.”<br/><cite>Young practitioner from China</cite></p></div>
+<div class="verse"><p>“Only non-violence can cure violence — to myself, to my relationship with family, also hopefully to countries and to the world! The strongest thing in the world are not any weapons, but our heart.”<br/><cite>China</cite></p></div>
 
 {% image "article2024/Br-Duc-Niem/422002206_712251721012125_3240841367916563777_n_e.jpg", "removeTopMargin" %}
 {% image "article2024/Br-Duc-Niem/moon1e.jpeg", "removeTopMargin" %}
@@ -98,7 +98,7 @@ I have attended two zoom sessions with a group of them while they were at COP. S
 
 ## Touching peace and acceptance
 
-I still keep the question and Ko-an in my heart about how can we have deep peace inside while not closing our eyes from and being overwhelmed by the suffering of the planet and its many crises. The engagement with the topic and ZASP help me see an answer that is slowly emerging: By taking care of my body, feelings and mind in this present moment, by being aware of the impermanent nature of myself and our civilization, and allowing the suffering in myself and in the world to be embraced by the love and compassion in my heart, I can touch peace and acceptance. Being in touch with the beauty of Mother Earth and hearing the birds still singing nourish my heart. However, if I do not act, I will experience what scientists call cognitive dissonance, a feeling of unease because there is a big gap between what we know and what we do – or as Thay says: *Insight needs to be followed by action.* So only when I am able to contribute something concretely to saving the planet – like by supporting the climate movement by offering the ZASP course or climate retreats – can I be fully at peace, because I know in my heart that we have done our part.
+I still keep the question and koan in my heart about how can we have deep peace inside while not closing our eyes from and being overwhelmed by the suffering of the planet and its many crises. The engagement with the topic and ZASP help me see an answer that is slowly emerging: By taking care of my body, feelings and mind in this present moment, by being aware of the impermanent nature of myself and our civilization, and allowing the suffering in myself and in the world to be embraced by the love and compassion in my heart, I can touch peace and acceptance. Being in touch with the beauty of Mother Earth and hearing the birds still singing nourish my heart. However, if I do not act, I will experience what scientists call cognitive dissonance, a feeling of unease because there is a big gap between what we know and what we do – or as Thay says: *Insight needs to be followed by action.* So only when I am able to contribute something concretely to saving the planet – like by supporting the climate movement by offering the ZASP course or climate retreats – can I be fully at peace, because I know in my heart that we have done our part.
 
 <div class="article-end"></div>
 
