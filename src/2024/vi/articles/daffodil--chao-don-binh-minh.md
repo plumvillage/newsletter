@@ -1,6 +1,6 @@
 ---
 title: Chào đón bình minh
-author: Phỏng vấn gia đình Hoa Thủy Tiên
+author: Phỏng vấn gia đình Cây Hoa Thủy Tiên
 ---
 
 <!-- https://plumvillage.org/articles/daffodil-family-ordination-ceremony-2023
@@ -16,7 +16,7 @@ author: Phỏng vấn gia đình Hoa Thủy Tiên
     Brother Chân Nhất Xuân – Brother True Spring of Oneness
 -->
 
-<div class="editors-preface"><p>Ngày 5.11.2023, tại Làng Mai Pháp, tăng thân vô cùng hạnh phúc chào đón mười bông hoa thủy tiên biểu hiện trong khu vườn tăng thân, những bông hoa thủy tiên “vươn lên chào đón bình minh, theo pháp an ban thở cùng một nhịp”. Ban biên tập (BBT) đã có cơ hội ngồi chơi và phỏng vấn mười bạn trẻ trong gia đình Hoa Thủy Tiên sau lễ xuất gia.</p></div>
+<div class="editors-preface"><p>Ngày 5.11.2023, tại Làng Mai Pháp, tăng thân vô cùng hạnh phúc chào đón mười cây hoa thủy tiên biểu hiện trong khu vườn tăng thân, những bông hoa thủy tiên “vươn lên chào đón bình minh, theo pháp an ban thở cùng một nhịp”. Ban biên tập (BBT) đã có cơ hội ngồi chơi và phỏng vấn mười bạn trẻ trong gia đình Cây Hoa Thủy Tiên sau lễ xuất gia.</p></div>
 
 {% image "article2024/Done-Daffodil family/044_110723.jpg" %}
 
