@@ -7,7 +7,7 @@ author: Brother Chân Trời Định Thành
 
 <div class="removeTopMarginInFollowingElem"></div>
 
-Last year, in January 2022, a few days after I ordained as a monk and moved to the monastic residence, I asked my ordination brother, Br. Dinh Tuc, to craft a calligraphy for me with the words “Beloved Community.” This phrase was used by Martin Luther King to refer to the Sangha, the community of practice.
+Last year, in January 2022, a few days after I ordained as a monk and moved to the monastic residence, I asked my ordination brother, Br. Dinh Tuc, to craft a calligraphy for me with the words “Beloved Community.” This phrase was used by Martin Luther King, Jr. to refer to the Sangha, the community of practice.
 
 I posted this calligraphy on my bedroom wall in order to remind myself of inter-being — rather than that of separate individuality. It worked for a while, but over time it became too familiar and I forgot the intended message. It needed to be renewed.
 
@@ -47,9 +47,9 @@ The atrocious and long war in Vietnam would not have been possible without a suf
 
 {% image "article2024/br-dinh-thanh/Dinh Thanh, Dinh Tin, Dao Son 3_e.jpg", "removeTopMargin", "Br. Dinh Thanh, Br. Dinh Tin, Br. Dao Son" %}
 
-Thay’s example is nourishing in many ways. Before acting, he took the time to analyze the situation in depth, in order to obtain the most accurate vision possible. In his book Lotus on a Sea of Fire, published in 1967, Thay wrote no less than 70 pages analyzing the historical framework of the Vietnam war and looking deeply into the difficulties of the time he was writing, before making concrete proposals and taking action.
+Thay’s example is nourishing in many ways. Before acting, he took the time to analyze the situation in depth, in order to obtain the most accurate vision possible. In his book, *Lotus on a Sea of Fire*, published in 1967, Thay wrote no less than 70 pages analyzing the historical framework of the Vietnam war and looking deeply into the difficulties of the time he was writing, before making concrete proposals and taking action.
 
-Following this contemplation, I continue to do my best—according to my ability and availability—to inform myself in depth and speak openly about the attacks on human dignity in my society, as the 14 Mindfulness Trainings invite me to. I note that following my creative experience with the calligraphy, I no longer fall so easily into the bias of resentment against political and media figures. I see them in myself, I see the causes in myself and around me, in my society. It’s a real transformation, which is necessary to reestablish the human connection and enable me to take just and beneficial action, however modest. Here, in the Beloved Community of Plum Village, the multi-fold sangha, it seems to me that we have the best conditions to do just that.
+Following this contemplation, I continue to do my best—according to my ability and availability—to inform myself in depth and speak openly about the attacks on human dignity in my society, as the 14 Mindfulness Trainings invite me to. I note that following my creative experience with the calligraphy, I no longer fall so easily into the bias of resentment against political and media figures. I see them in myself, I see the causes in myself and around me, in my society. It’s a real transformation, which is necessary to reestablish the human connection and enable me to take just and beneficial action, however modest. Here, in the beloved community of Plum Village, the multifold Sangha, it seems to me that we have the best conditions to do just that.
 
 <div class="verse"><p>“The only thing worthy of you is compassion<br/>
 –invincible, limitless, unconditional.<br/>
