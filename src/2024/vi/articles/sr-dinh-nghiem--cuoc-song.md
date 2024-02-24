@@ -3,9 +3,9 @@ title: Cuộc sống
 author: Sư cô Chân Đính Nghiêm
 ---
 
-(Bài thơ được viết sau khi nghe bài giảng về Kinh Buông Bỏ Ân Ái)
+<p class="noIndent">(Bài thơ được viết sau khi nghe bài giảng về Kinh Buông Bỏ Ân Ái)</p>
 
-<div class="verse" style="column-span: all;">
+<div class="verse">
 <p>Cuộc sống xoay vần<br/>
 Con người cách trở<br/>
 Hiếm lắm những lời thăm hỏi<br/>

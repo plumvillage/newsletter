@@ -265,12 +265,12 @@ html:lang(en) ul.toc li {
 }
 
 html:lang(vi) ul.toc li {
-    margin-bottom: 5pt;
+    margin-bottom: 16pt;
 }
 
 
 html:lang(vi) .chapterLi {
-    padding-top: 13pt;
+    padding-top: 26pt;
     padding-bottom: 0pt;
 }
 html:lang(en) .chapterLi {
@@ -329,15 +329,6 @@ ul.toc > *:first-child {
     padding-top: 0pt !important;
 }
 
-/* CASE STYLING: English */
-ul.toc #li-strolling-with-joy-on-a-sunny-day {
-    /* break-after: column; */
-    /* emulate column break after */
-    padding-bottom: 30pt;
-}
-ul.toc #li-early-years-of-plum-village {
-    padding-top: 0;
-}
 
 
 
@@ -1690,6 +1681,19 @@ figure#article2024Done-Sr-Tuyet-NIMG6618ecut + p {
     float: none;
     width: 19em;
     padding-left: 3em;
+}
+
+.article-cuoc-song .verse,
+.article-cuoc-song > p {
+    column-span: all;
+    margin-left: auto;
+    margin-right: auto;
+    float: none;
+    width: 22em;
+    padding-left: 4em;
+}
+.article-cuoc-song > p {
+    width: 19em;
 }
 
 .article-giai-toa-han-thu-khoi-suoi-yeu-thuong .editors-preface::after {
