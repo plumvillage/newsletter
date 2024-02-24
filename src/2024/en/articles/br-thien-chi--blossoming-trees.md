@@ -3,14 +3,14 @@ title: Blossoming Trees
 author: Brother Chân Trời Thiện Chí
 ---
 
-<p class="editors-preface">On 5 May 2023, a group of eight monastics, comprised of four brothers and four sisters, set off on a five-week road tour throughout the UK (England, Scotland and Wales) and Ireland. Here are the reflections from a dear monastic member of the tour.</p>
+<p class="editors-preface">On 5 May 2023, a group of eight monastics, comprised of four brothers and four sisters, set off on a 5-week road tour throughout the UK (England, Scotland and Wales) and Ireland. Here are the reflections from a dear monastic member of the tour.</p>
 
 ## Where is my home?
 
 How exciting to be on my first mindfulness tour as a monastic! Right at the start of the journey, I was reflecting in the van about where my home would be now. I felt that the answer was my heart. If I was connected to my heart, I could also connect to the hearts of my monastic brothers and sisters and to the hearts of the people we would meet along the way. If there is understanding and love, I feel that my home will be everywhere.
 
 
-## A Mirror
+## A mirror
 
 I was happy to experience so much harmony and lightness in our mini sangha of eight. This harmony was sweet and precious. It gave me a feeling of relaxation and stability. I can see that this very harmony was the pillar of the tour and all of our offerings.
 
