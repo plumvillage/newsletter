@@ -41,7 +41,7 @@ As a monk, I can offer my wholehearted practice and learn to understand and embo
 held in my two hands,<br/>
 I vow to practice with all my heart,<br/>
 seeing giver, gift, and receiver are one.<br/>
-<cite>From <i>Stepping Into Freedom</i></cite</p></div>
+<cite>from <i>Stepping Into Freedom</i></cite</p></div>
 
 <div class="removeIndentInFollowingElem"></div>
 
