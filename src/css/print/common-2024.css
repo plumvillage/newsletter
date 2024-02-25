@@ -1227,6 +1227,10 @@ html:lang(en) figure#article2024Done-BrPhap-UngBrPhap-Unge {
 
 
 /* column-span images */
+figure#article2024Done-Br-Tuong-Tuc3997962553132954181267518334081940523573211n,
+figure#article2024Br-Phap-HuuClimate-retreat2023129bw,
+figure#article2024Br-Phap-HuuThay-Phap-Huu-3-Rob-Walshe,
+figure#article2024LaurentBelltowerlong,
 figure#article2024Br-Hai-Thuong3303559909048077505433252111270774346916962ne,
 figure#article2024Done-SrHien-TamIMG2286,
 figure#article2024Br-Hai-ThuongVNENguoi-da-ve-da-toiDSC4330e,
@@ -1329,6 +1333,7 @@ html:lang(vi) figure#article2024br-thien-chiNewForestRetreat-PVTwanPeetersMay-20
 }
 
 /* figure#article2024Br-Hai-ThuongVNETrot-thuongDSC2313e, */
+figure#article2024Br-Phap-HuuClimate-retreat2023129bw,
 figure#article2024sr-tam-muoibelle-vue-ouestJPGe,
 figure#article2024Done-Review-of-the-YearTNH-Center528562133967da665de4eo {
     width: 100%;
@@ -1336,6 +1341,7 @@ figure#article2024Done-Review-of-the-YearTNH-Center528562133967da665de4eo {
     margin-bottom: 0em;
 }
 
+figure#article2024Br-Phap-HuuThay-Phap-Huu-3-Rob-Walshe,
 figure#article2024br-duc-hienArgentina20230401131012e,
 figure#article2024Done-Br-Phap-LuuIMG6621e {
     width: 100%;
@@ -1441,6 +1447,10 @@ html:lang(en) figure#article2024Done-sr-thuan-nghiemIMG3889 {
 }
 figure#article2024br-dinh-thanhTransforming-Resentment-Br-Dinh-Thanh {
     width: 80%;
+}
+figure#article2024LaurentBelltowerlong {
+    width: 100%;
+    margin-bottom: 0em;
 }
 
 
@@ -1617,7 +1627,10 @@ html:lang(en) figure#article2024Done-Sr-Tuyet-NDSC00153e {
 
 
 
-figure#article2024br-duc-hienIMG0754e,
+figure#article2024br-duc-hienIMG0754e {
+    padding-left: 15%;
+    padding-right: 15%;
+}
 html:lang(vi) figure#article2024Done-Sr-Bo-DeDSC7412,
 figure#article2024Sr-Tri-Nghiem002 {
     padding-left: 10%;
@@ -1703,19 +1716,48 @@ figure#article2024Done-Sr-Tuyet-NIMG6618ecut + p {
     line-height: 135%;
     text-shadow: 0.3pt 0.4pt 0px white;
     float: none;
-    width: 35em;
-    padding-top: 12mm;
-    padding-left: 87mm;
+    width: 45em;
+    padding-top: 0mm;
+    padding-left: 56mm;
 }
+figure#article2024Sr-DJinh-NCamellialightened {
+    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + 10mm + 0mm) * -1 + 5mm);
+    margin: 0;
+    max-width: none!important;
+    position: absolute;
+    z-index: -1;
+    width: 160mm;
+    right: -14mm;
+    overflow: visible;
+}
+/* 
+html:lang(vi) figure#article2024Br-Phap-HuuThay-Phap-Huu-3-Rob-Walshe {
+    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + 10mm + 120mm) * -1 + 5mm);
+    margin: 0;
+    max-width: none!important;
+    position: absolute;
+    z-index: -1;
+    width: calc(var(--pagedjs-pagebox-width) + (var(--bleed)) * 2 - 6mm);
+    left: calc((var(--pagedjs-margin-left) + var(--bleed))*-1 + 3mm);
+    overflow: visible;
+}
+html:lang(vi) .PAGE-OF-article2024Br-Phap-HuuThay-Phap-Huu-3-Rob-Walshe .pagedjs_page_content {
+    height: calc(100% - var(--pagedjs-footnotes-height) - 120mm) !important;
+} */
 
-figure#article2024Sr-DJinh-N2892234565358275287570573224309512897726595n {
+
+
+/* figure#article2024Sr-DJinh-N2892234565358275287570573224309512897726595n {
     position: absolute;
     z-index: -1;
     top: 40mm;
     left: -77mm;
     width: 266mm;
     max-width: none;
-}
+} */
+
+
+
 
 
 .article-giai-toa-han-thu-khoi-suoi-yeu-thuong .editors-preface::after {
@@ -1928,6 +1970,8 @@ figure.lmnq5 {
 }
 
 /* toc */
+html:lang(vi) .PAGE-OF-article2024Br-Phap-HuuThay-Phap-Huu-3-Rob-Walshe .pagedjs_margin-bottom,
+.PAGE-OF-article2024Sr-DJinh-NCamellialightened .pagedjs_margin-bottom,
 div[data-page-number="3"] .pagedjs_margin-bottom {
     display: none;
 }
@@ -1990,4 +2034,17 @@ html:lang(en) .PAGE-OF-article2024Done-Memorial-Ceremony67SuOng2ndYearMemorial22
 .PAGE-OF-article-trot-thuong p:first-letter,
 .article-trot-thuong p:first-letter {
     font-size: 120% !important;
+}
+
+.article-con-tu-la-con-thay-nhau .verse {
+    column-span: all;
+    width: 140mm;
+    padding-left: 53mm;
+    font-size: 120%;
+    line-height: 135%;
+}
+
+figure#article2024Done-Br-Tuong-Tuc3997962553132954181267518334081940523573211n {
+    margin-top: 15mm;
+    width: 60%;
 }

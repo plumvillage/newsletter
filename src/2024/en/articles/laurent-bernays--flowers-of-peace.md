@@ -17,8 +17,8 @@ I would like to extend my gratitude to the Tree family team for working with me 
 
 This poem is my mantra when I cultivate the urban gardens in the poor neighborhoods of my city, and is spread among visitors in schools, hospitals or retirement homes like an invisible wave, or as a silent song of presence, when children and parents come to sit on the benches.
 
-{% image "article2024/Laurent/PV_2023_36_e.jpg", "noFloat" %}
-{% image "article2024/Laurent/DSC05382_e.JPG", "noFloat" %}
+{% image "article2024/Laurent/PV_2023_36_e.jpg", "removeTopMargin" %}
+{% image "article2024/Laurent/DSC05382_e.JPG", "removeTopMargin" %}
 
 During my stay in Lower Hamlet, I took advantage of the opportunity to deepen the practice with song I’ve been engaged in for 25 years, to rediscover the evergreen old source of Western songs, to rediscover the natural modes of ancient or Pyrenean songs, and little by little to hear again with a new, deeper, finer listening.
 
@@ -43,7 +43,7 @@ to the song of the world.</p></p>
 
 Each step brings me into this song of the world, which changes in every moment, and has no beginning or end, and I can then return to my true home, attentive to all beings, be it the food processor in the kitchen, a bush full of birds, the chainsaw, the sound of flowing water, or a crowd. Everything becomes the voice of the Buddha, the sound of the rising tide, or sometimes even a sudden silence as after the Lion’s Roar.
 
-{% image "article2024/Laurent/Thap Chuong XH.JPG", "removeTopMargin" %}
+<!-- {% image "article2024/Laurent/Thap Chuong XH.JPG", "removeTopMargin" %} -->
 
 ## The tree of praise
 
@@ -51,7 +51,7 @@ The second practice I would like to share with you is what I call the tree of pr
 
 This, dear sisters, dear sangha and dear Thay, is what I wanted to share with you from my heart about my practice of deep listening and loving speech in singing. It is a path of study that I will continue to explore in this life. I will end my letter with a praise for the birds:
 
-<div class="verse"><p>The one that came out of my mouth as a child.<br/>
+<div class="verse" style="font-size: 98%;"><p>The one that came out of my mouth as a child.<br/>
 The bird that later, as a young adult, invited me into a garden to make sounds while listening to the chirping.<br/>
 The bird that appeared in a dream and told me to go and look for it in the Pyrenees.<br/>
 The primitive bird of my Lakota friends who sing on the ground.<br/>
@@ -61,3 +61,7 @@ The bird that one morning sprang from the mouth of a Vietnamese sister and soare
 The bird in the words of the poet René Char:
 
 > “At the height of the storm, there is always a bird to reassure us. It is the unknown bird, it sings before flying away.”
+
+<div class="article-end"></div>
+
+{% image "article2024/Laurent/Belltower_long.jpg", "removeTopMargin" %}
