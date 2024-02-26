@@ -43,7 +43,7 @@ The adults who came to our retreats and Mindfulness Days hid their fear better. 
 
 We simply walked, feeling the weight of our body shifting from side to side, feeling the ground beneath our feet, feeling all the sensations in the body that were not “fear.”
 
-We simply sang, “I’ve got peace like a river, I’ve got peace like a river…” digging deep into the earth to touch its vast embrace, and sang from this solid and inclusive place.
+We simply sang, “I’ve got peace like a river, I’ve got peace like a river…” digging deep into the Earth to touch its vast embrace, and sang from this solid and inclusive place.
 
 We simply ate in mindfulness, giving thanks to the miracle of being nourished. Giving thanks to sangha friends who sheltered and fed us even when they themselves did not know if there would be food as the war continued.
 
@@ -63,7 +63,7 @@ We knew it wasn’t a moment for “being right,” but for focussing collective
 
 Harmony also asked of us respect and humility, in the smallest ways.
 
-One day in the middle of a retreat, our elder sister asked me, “Su em (younger sister), do you think we can chant ‘May the Day be Well’ tomorrow?” “Sure!” “Could you please check with the brothers?” “Ok.” I quickly sent out a message to the brothers in our message group, “Dear brothers. Tomorrow morning, we will chant ‘May the Day be Well.’”
+One day, in the middle of a retreat, our elder sister asked me, “Su em (younger sister), do you think we can chant ‘May the Day be Well’ tomorrow?” “Sure!” “Could you please check with the brothers?” “Ok.” I quickly sent out a message to the brothers in our message group, “Dear brothers. Tomorrow morning, we will chant ‘May the Day be Well.’”
 
 Seeing that message, my elder sister laughed and gently said to me, “Su em, it is not very kind or respectful to speak to the brothers like that. We are collaborators and we should always ask each other for their ideas rather than tell or demand. If we are mindful of these small things, we will not let tension build up during the tour.” I bowed in gratitude and typed out another message, “Dear brothers, apparently it is not very respectful to just tell you what to chant … so … are you ok to chant ‘May the Day be Well’ tomorrow? ☺”
 
