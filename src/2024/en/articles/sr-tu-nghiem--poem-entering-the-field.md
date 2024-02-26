@@ -27,7 +27,7 @@ Coming and going in freedom.</p></div>
 
 By recognizing what seeds lie sleeping in the depths of our Store Consciousness, the field of our Alaya Consciousness, we can choose what seeds to water, what path to follow and how to practice on this path, this is how Thay lived his life so mindfully, so beautifully as the last verse in this poem hopes to convey.
 
-*†* All acceptance was described by a Zen Master as the “key to the gateless gate”
+*†* All acceptance was described by a Zen master as the “key to the gateless gate”
 
 <div class="article-end"></div>
 
