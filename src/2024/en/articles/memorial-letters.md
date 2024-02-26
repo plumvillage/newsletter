@@ -5,7 +5,7 @@ author: Thay’s Disciples
 
 <p class="editors-preface">The following is a letter to Thay from his disciples at Plum Village, France.</p>
 
-## Your Life is Your Message
+## Your life is your message
 
 Dear Beloved Thay,
 
@@ -53,7 +53,7 @@ We are here. Here in the Root Temple, here at our roots, at our home. Thank you 
 
 Over the last few days more than four hundred of your monastic disciples, gathered from all over the world, have been walking together in peace and gratitude along the paths here that you have loved so deeply. Have you been enjoying our laughter around the fires? Have you been enjoying the sangha’s “ocean of smiles”? Could you feel the moment when we sang “I have arrived, I am home” around the half moon pond? We could feel you smiling in the ultimate dimension as our voices rippled over the calm temple waters in Vietnamese, English, German, French, Thai and Chinese. Your children have come home, to express our gratitude to our roots, to our spiritual ancestors, and to you, our beloved teacher.
 
-We remember you once saying, under the shade of the pine trees at your hermitage in France, that the root temple’s lands are vast. The territory of Tu Hieu extends far beyond Hue, to France, Germany, the USA, Thailand, Australia and Hong Kong. Our spiritual ancestors are present in all our monasteries on various continent. Six decades ago you stepped out of the temple gate here and brought the Dharma to the West. Today your children, monastic and lay, from over thirty countries in the ten directions, have returned home to the source to touch the Earth and pay our respects. 
+We remember you once saying, under the shade of the pine trees at your hermitage in France, that the root temple’s lands are vast. The territory of Tu Hieu extends far beyond Hue, to France, Germany, the US, Thailand, Australia and Hong Kong. Our spiritual ancestors are present in all our monasteries on various continent. Six decades ago you stepped out of the temple gate here and brought the Dharma to the West. Today your children, monastic and lay, from over thirty countries in the ten directions, have returned home to the source to touch the Earth and pay our respects. 
 
 Dear Thay, we feel your absence keenly, and yet at the same time we know you are still with us. We are climbing the hill of the 21st century with you in our hearts and our steps. Going forward as a community, we can feel your energy of patience, gentleness and trust. You taught us how to accept each other and cherish our differences, to embrace the mud and the difficulties. Thank you, dear Thay, for giving us permission to be authentic and human. We are committed to keeping our communication open so we can trust each other and the collective insight. The path of transformation you have laid out for us is practical and real, and we have nothing to fear. 
 
