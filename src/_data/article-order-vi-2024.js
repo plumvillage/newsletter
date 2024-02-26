@@ -20,7 +20,6 @@ module.exports = [
     "br-phap-dung--bay-nhieu-thoi-la-da-du",
     "br-tuong-tuc--con-tu-la-con-thay-nhau",
     
-    
     // PART 2
     "cau-tra-loi-la-tinh-thuong",
     "sr-bo-de--bong-dang-thay",

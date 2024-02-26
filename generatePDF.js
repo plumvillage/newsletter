@@ -196,8 +196,8 @@ async function generatePDF(url, outputFile, onFinished = () => {}, customPdfOpti
         pdfOptions.preferCSSPageSize = false
 
     // wait for PagedJS to layout page
-    page.waitForTimeout(5000).then(async () => {
-        console.log('Waited 5000!')
+    page.waitForTimeout(2000).then(async () => {
+        console.log('Waited 2000!')
         if (usePDFstream) {
             const pdfStream = await page.createPDFStream(pdfOptions)
             const writeStream = fs.createWriteStream(outputFile)
@@ -228,7 +228,7 @@ let workQueue = [
     
     // () => generatePDF("http://localhost:8080/2024/en/articles-print-preview/br-duc-dinh--a-day-of-alms/", `./docs/2024/br-duc-dinh--a-day-of-alms`, onFinshed),
     // () => generatePDF("http://localhost:8080/2024/en/articles-print-preview/br-phap-huu--music-a-dharma-door/", `./docs/2024/br-phap-huu--music-a-dharma-door`, onFinshed),
-    // () => generatePDF("http://localhost:8080/2024/vi/articles-print-preview/sr-dinh-nghiem--cuoc-song/", `./docs/2024/quetLa`, onFinshed),
+    // () => generatePDF("http://localhost:8080/2024/vi/articles-print-preview/bbt--lang-mai-nam-qua-2024/", `./docs/2024/lmnq`, onFinshed),
 
     // () => generatePDF("http://localhost:8080/2024/en/articles-print-preview/test/", `./docs/2024/test`, onFinshed),
     // () => generatePDF("http://localhost:8080/2024/en/articles-print-preview/sr-hien-hanh--the-calling/", `./docs/2024/sr-hien-hanh--the-calling`, onFinshed),

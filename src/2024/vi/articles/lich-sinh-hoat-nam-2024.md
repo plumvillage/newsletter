@@ -59,6 +59,8 @@ author: của tăng thân Làng Mai
 
 <div class="page-break"></div>
 
+<div id="lshn-p2"></div>
+
 ## Tại tu viện Lộc Uyển, Mỹ
 
 - 20.03 – 24.03<span class="space"></span>Khóa tu trực tuyến quốc tế

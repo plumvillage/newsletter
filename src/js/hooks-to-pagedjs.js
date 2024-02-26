@@ -11,16 +11,25 @@ function addClassToPageDIV(e, className) {
 }
 
 
-let vi2022fullText = ""
-var client = new XMLHttpRequest()
-client.open('GET', '/media/originals/passthroughCopies/2022-vi-fullText.txt')
-client.onreadystatechange = () => { vi2022fullText = client.responseText }
-client.send()
+// I only want to do this if it is necessary to save time
+if (false) {
+    let vi2022fullText = ""
+    var client = new XMLHttpRequest()
+    client.open('GET', '/media/originals/passthroughCopies/2022-vi-fullText.txt')
+    client.onreadystatechange = () => { vi2022fullText = client.responseText }
+    client.send()
 
-let vi2023fullText = ""
+    let vi2023fullText = ""
+    var client2 = new XMLHttpRequest()
+    client2.open('GET', '/media/originals/passthroughCopies/2023-vi-fullText.txt')
+    client2.onreadystatechange = () => { vi2023fullText = client2.responseText }
+    client2.send()
+}
+
+let vi2024fullText = ""
 var client2 = new XMLHttpRequest()
-client2.open('GET', '/media/originals/passthroughCopies/2023-vi-fullText.txt')
-client2.onreadystatechange = () => { vi2023fullText = client2.responseText }
+client2.open('GET', '/media/originals/passthroughCopies/2024-vi-fullText.txt')
+client2.onreadystatechange = () => { vi2024fullText = client2.responseText }
 client2.send()
 
 
@@ -59,6 +68,7 @@ class MyHandler extends Paged.Handler {
             Keeps being in the same position until eleventy is restarted.
             Appears in paragraphs after an image (e.g. first bottom placed image - hiccup with image processing?!)
             does it conincide with <img decoding=async?
+            -> does it only happen with floating images? ... had one case whether switching to noFloat removed the bug
             */
             if(node.textContent.includes("�")) {
                 console.log("FOUND � BUG IN: ", node)
@@ -68,9 +78,8 @@ class MyHandler extends Paged.Handler {
                 console.log(result)
                 let rx = `${result[1]}(.{1,3})${result[3]}`
                 const regex = new RegExp(rx)
-                let r2 = vi2022fullText.match(regex)
-                if (!r2)
-                    r2 = vi2023fullText.match(regex)
+
+                let r2 = vi2024fullText.match(regex)
                 
                 if (r2) {
                     // [ "nhân của thàn", "ủ" ]

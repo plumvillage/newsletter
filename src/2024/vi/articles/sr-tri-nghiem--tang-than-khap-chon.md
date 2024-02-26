@@ -53,7 +53,7 @@ Tại Đại hội, tôi đã được gặp gỡ rất nhiều nhà hoạt đ�
 
 Nhờ đó mà tầm mắt và trí óc của tôi được mở rộng. Tôi nhận ra rằng chúng ta không đơn độc trên con đường này. Được cùng với hơn tám nghìn người thực hành tâm linh từ rất nhiều truyền thống tín ngưỡng khác nhau, tất cả đều hướng tới cùng một mục tiêu – khí hậu, môi trường, xã hội, công bằng giáo dục và nhân quyền – đã mang lại cho tôi hy vọng, cho tôi niềm tin ở tương lai.
 
-{% image "article2024/Sr Tri Nghiem/003.jpg" %}
+{% image "article2024/Sr Tri Nghiem/003.jpg", "", "Amma Sri Karunamayi" %}
 
 Thầy đã nhiều lần nói về sự cần thiết của một sự thức tỉnh tập thể để cứu thế giới – hoặc ít nhất là làm chậm lại sự diệt vong của nó – và tôi đã hiểu lầm rằng đó là việc tôi cần làm, và nhiệm vụ của tăng thân Làng Mai, xuất sĩ và cư sĩ, là thực hiện điều ấy “một mình”.
 

@@ -1234,6 +1234,8 @@ html:lang(en) figure#article2024Done-BrPhap-UngBrPhap-Unge {
 
 
 /* column-span images */
+figure#article2024Done-Review-of-the-YearNovice-ordinationChuong-vang-family-2cropped,
+figure#article2024Sr-Chua-XuaDSC02084,
 figure#article2024Sr-Chua-Xua20230110110205e,
 figure#article2024Done-Br-Tuong-Tuc3997962553132954181267518334081940523573211n,
 figure#article2024Br-Phap-HuuClimate-retreat2023129bw,
@@ -1301,6 +1303,7 @@ figure#LTLM47-2024-cover-NH-TeensLTLM47-2024July2023sararemington0013editedcropp
     margin-bottom: 0em;
 }
 
+figure#article2024Sr-Chua-XuaDSC02084,
 figure#article2024br-duc-hienChileIMG2160e,
 figure#article2024Sr-Tri-Nghiem000 {
     width: 90%;
@@ -1340,7 +1343,7 @@ html:lang(vi) figure#article2024br-thien-chiNewForestRetreat-PVTwanPeetersMay-20
     margin-bottom: 0em;
 }
 
-/* figure#article2024Br-Hai-ThuongVNETrot-thuongDSC2313e, */
+figure#article2024Done-Review-of-the-YearNovice-ordinationChuong-vang-family-2cropped,
 figure#article2024Br-Phap-HuuClimate-retreat2023129bw,
 figure#article2024sr-tam-muoibelle-vue-ouestJPGe,
 figure#article2024Done-Review-of-the-YearTNH-Center528562133967da665de4eo {
@@ -1602,12 +1605,16 @@ html:lang(vi) figure#article2024Done-Memorial-CeremonyHueCeremonyLe-dai-tuong-1-
     margin-top: 1.5em;
     margin-bottom: 0em;
 }
+/* position: absolute is a fix of a bug where the PDF output of this image is not displayed, because its top-margin to the 4 above is larger then in the html preview, moving it outside of the page. I do not know why. This is a solution though: */
 figure#article2024Done-Review-of-the-YearNovice-ordinationChuong-vang-family-2 {
+    position: absolute;
+    bottom: 0mm;
+    left: 0mm;
     width: 100%;
     margin-bottom: 0;
 }
 figure#article2024Done-Review-of-the-YearNovice-ordinationChuong-vang-family-2 {
-    height: 68mm;
+    height: 64mm;
 }
 
 /* crop top (sky) away */
@@ -1899,7 +1906,7 @@ figure.lampT {
     height: 50mm;
 }
 figure.lmnqNovices {
-    height: 47mm;
+    height: 48mm;
 }
 figure.lmnqLampSymbolic {
     height: 87mm;
@@ -2093,4 +2100,7 @@ figure.scckSmall {
 .article-lich-sinh-hoat-nam-2024 span.space {
     width: 6mm;
     display: inline-block;
+}
+.article-lich-sinh-hoat-nam-2024 #lshn-p2 {
+    height: 28mm;
 }

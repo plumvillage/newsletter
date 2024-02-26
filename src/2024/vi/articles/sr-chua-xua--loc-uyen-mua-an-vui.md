@@ -3,6 +3,8 @@ title: Lộc Uyển Mùa An Vui
 author: Sư cô Chân Trăng Chùa Xưa
 ---
 
+{% image "article2024/Sr. Chua Xua/DSC07631_e.JPG", "removeTopMargin removeIndentInFollowingElem " %}
+
 Những cơn mưa đã đến. Ai nấy đều đang trông chờ thác đổ và tiếng suối chảy róc rách. Chắc sẽ biểu hiện sớm thôi. Bạn còn chần chừ gì nữa mà không về Lộc Uyển thăm tăng thân? Giáng sinh đến rồi, bạn về với gia đình tâm linh đi! Trăng khuya sáng rực ngoài khung cửa sổ khi mình ngồi viết bức thư tâm tình này cho bạn. Năm nay, sư cô trụ trì xóm Trong Sáng đã chuyển hẳn lên phòng thị giả ở cốc Thầy để ở, nhờ vậy mà không gian quanh cốc luôn có ánh sáng ấm áp và nhiều hoa tươi mát.
 
 ## Gia đình huyết thống — gia đình tâm linh
@@ -13,12 +15,11 @@ Sau ngày Lễ Tạ ơn (Thanksgiving), cả nhà thầy Trời Minh Lượng ng
 
 Để trở thành một người xuất gia trẻ theo truyền thống đạo Bụt giữa xã hội Mỹ đầy cám dỗ này thật không hề dễ dàng cho chính bản thân người đó và cho người thân của họ. Mình biết ơn sự can đảm và tuệ giác của cha thầy Minh Lượng, ông nói với họ hàng và bạn bè rằng: “Con trai tôi đang được sống trong một môi trường an lành, khỏe mạnh và đang được làm điều cậu ấy muốn, những điều tốt đẹp cho chính cậu ấy, cho xã hội và cậu ấy vui vẻ, hạnh phúc. Vậy thì tôi còn đòi hỏi điều gì nữa?”.
 
-{% image "article2024/Sr. Chua Xua/DSC07631_e.JPG", "removeTopMargin" %}
-{% image "article2024/Sr. Chua Xua/DSC02084.JPG", "removeTopMargin" %}
-
 Xuất gia sống trong đại chúng là một điều gì đó không thể diễn tả được bằng lời. Gia đình huyết thống có khi phải đến chùa tận mắt chứng kiến thì mới thấy.
 
 Em gái thầy Trời Minh An tên Jenni, sinh viên đại học năm cuối, lần đầu tiên dắt bạn trai về tu viện để “ra mắt” anh hai. Cậu người yêu trẻ ngạc nhiên một cách rất chân thành khi đón nhận sự ấm áp từ tăng thân đông đảo dành cho cậu ấy: “Tôi nghe Jenni kể rằng gia đình cô ấy nhỏ và cô ấy chỉ có một anh trai thôi à!”. Jenni bây giờ có rất nhiều anh chị bởi vì Jenni đã trở thành em gái của tất cả chúng tôi.
+
+{% image "article2024/Sr. Chua Xua/image_50411009-2048x1536_e.jpg", "" %}
 
 ## Món đậu gà của thầy Pháp Hội 
 
@@ -38,6 +39,8 @@ Cũng câu hỏi ấy khi hỏi quý thầy lớn, bạn biết câu trả lời
 
 Bạn còn nhớ cái ngày mình được xuất gia không? Nhớ cái hồi mà Thầy viết thư cho đại chúng, thông báo từ năm 2010 trở đi, Thầy sẽ đặt tên các sư chú là Trời và các sư cô là Trăng không? Thầy vẫn giữ lại chữ Chân. Những Chân Trăng và Chân Trời đầu tiên đến nay đã bước vào tuổi mười tư rồi đó!
 
+{% image "article2024/Sr. Chua Xua/DSC02084.JPG" %}
+
 Gia đình xuất gia Cây Trúc Vàng cũng được bước vào tuổi mười tư. Mười bốn năm tu học, số xuất sĩ trong gia đình vẫn còn nguyên, vẫn cùng sống, tu học và phụng sự trong tăng thân. Mười ba anh chị em Cây Trúc Vàng bây giờ đang được đại chúng rải đi khắp nơi từ xóm Hạ, xóm Mới qua đến Viện Phật học Ứng dụng Châu Âu, qua Lộc Uyển, Bích Nham, Mộc Lan rồi về tới Làng Mai Thái Lan và Việt Nam.
 
 Giây phút này đây, gia đình Cây Trúc Vàng chúng con xin chắp tay biết ơn Thầy và tăng thân. Dù đường tu của những cây trúc non có gặp bao nhiêu khó khăn và thử thách, chúng con vẫn luôn được nâng đỡ, được che chở, được bảo bọc trong đại chúng.
@@ -46,10 +49,6 @@ Giây phút này đây, gia đình Cây Trúc Vàng chúng con xin chắp tay bi
 
 Làng Mai Pháp có hội hoa Mai thì ở tu viện Lộc Uyển có hội hoa Lilac. Hoa Lilac là loài hoa “thổ địa”, cũng là loài hoa báo hiệu mùa xuân của vùng núi rừng sa mạc này. Hoa màu trắng, màu tím hồng, cánh hoa nhỏ hơn cánh hoa mai nhưng mùi rất thơm và cây mọc tự nhiên khắp nơi trên núi. Trên con đường đi vào ni xá cũng có hai hàng hoa Lilac. Chúng ở đó từ lâu lắm rồi, từ trước khi có ni xá.
 
-{% image "article2024/Sr. Chua Xua/image_50411009-2048x1536_e.jpg", "" %}
-
-{% image "article2024/Sr. Chua Xua/IMG_2145_e.JPG", "removeTopMargin" %}
-
 Đến độ cuối tháng Hai đầu tháng Ba là hoa bắt đầu nở, lúc đó cả tu viện sẽ quẩy ba lô lên lưng cùng nhau leo núi ngắm hoa. Phải khởi hành từ lúc “gà chưa gáy, trời chưa thấy sáng” thì khi lên đỉnh núi mới thấy được cảnh mặt trời mọc huy hoàng và cả cánh rừng hoa Lilac lung linh.
 
 Ở Lộc Uyển, cứ lên núi là thấy đất trời bao la. Giữa không gian khoáng đãng, lòng người cũng thênh thang như núi đồi. Cùng tăng thân uống trà trên núi, ăn sáng và ngắm hoa trên núi, rồi đi bộ qua các ngọn đồi nhấp nhô bao quanh là hoa Lilac, bạn sẽ thấy tịnh độ hiện tiền, bây giờ và ở đây, và sẽ thấy mình được thiên nhiên làm tươi mới lại.
@@ -57,6 +56,8 @@ Làng Mai Pháp có hội hoa Mai thì ở tu viện Lộc Uyển có hội hoa 
 ## Thiên thần quét lá
 
 Giữa tháng Tư, trong lúc có mười vị xuất sĩ đi khóa tu tại Đại học Harvard thì ở tu viện chúng mình xúm nhau vào cốc của sư cô Hiền Hải mừng sinh nhật tuổi 95 của sư cô. Sư cô còn được gọi bằng cái tên thân thương là “sư ngoại”, vì gia đình sư cô có ba thế hệ đi xuất gia. Ngày xưa khi tu viện chưa có máy thổi lá thì sư cô là người quét lá sồi ngày ba thời nên còn được gọi là “thiên thần quét lá”.
+
+{% image "article2024/Sr. Chua Xua/IMG_2145_e.JPG", "removeTopMargin" %}
 
 Nơi sư cô có một nguồn năng lượng hiền hậu và bao la của biển cả. Vì vậy, các sư cô trẻ thích đến thiền ôm với sư cô. Sư cô rất thích canh rau ngót và xôi gấc tươi. Ngày nào sư cô cũng thỉnh chuông, tụng kinh và cúng cơm cho Bụt ngay trong cốc của mình tầm khoảng 11h và rồi một tay chống gậy, một tay ôm bát cơm đi xuống nhà ăn dùng trưa.
 
