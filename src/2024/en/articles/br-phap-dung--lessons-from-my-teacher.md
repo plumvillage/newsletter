@@ -3,9 +3,9 @@ title: Lessons From My Teacher
 author: Brother Chân Pháp Dung
 ---
 
-<p class="editors-preface">On January 27 in Hue, Br. Phap Dung shared about his first encounter with Thay and his experience returning to Hue for Thay’s 2-year grand memorial.</p>
+<p class="editors-preface">On 27 January in Hue, Br. Phap Dung shared about his first encounter with Thay and his experience returning to Hue for Thay’s 2-year grand memorial.</p>
 
-As a young man growing up in the USA, I rejected everything that was Vietnamese. I did not know at the time that it was a kind of internalized racism. I wanted to belong and to be like the people around me. I remember feeling ashamed of the lunch I brought to school because it smelled “weird.” Even though I loved it so much, I would find a corner far away from everyone to eat it.
+As a young man growing up in the US, I rejected everything that was Vietnamese. I did not know at the time that it was a kind of internalized racism. I wanted to belong and to be like the people around me. I remember feeling ashamed of the lunch I brought to school because it smelled “weird.” Even though I loved it so much, I would find a corner far away from everyone to eat it.
 
 I didn’t know many other Vietnamese people. Then, when I was studying architecture in university, I won a scholarship to go to Vietnam to study “Vietnamese architecture”! I thought to myself, “I better get to know some Vietnamese people.”
 
