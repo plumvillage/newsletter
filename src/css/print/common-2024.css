@@ -954,7 +954,6 @@ h1#transforming-resentment-into-compassion {
     margin-top: -32pt;
     padding-right: 7em;
 }
-.article-cong-phu-quet-la h2.author,
 .article-ngan-song-trang-hien h2.author {
     margin-top: -15pt;
 }
@@ -986,6 +985,9 @@ h1#transforming-resentment-into-compassion {
 #chum-tho-djat-to + h2.author {
     margin-bottom: 13mm !important;
 }
+.article-cong-phu-quet-la h2.author {
+    margin-top: -4pt;
+}
 
 /* default is 32mm */
 #calligraphy2024article-titlescau-tra-loi-la-tinh-thuong,
@@ -1003,6 +1005,11 @@ h1#tro-ve-nguon-coi img,
 .calligraphy2024article-titlessr-uyen-nghiem-tho-theo-dau-chan-xua, #calligraphy2024article-titlessr-uyen-nghiem-tho-theo-dau-chan-xua img,
 #calligraphy2024article-titlesbr-thien-chi-blossoming-trees, #calligraphy2024article-titlesbr-thien-chi-blossoming-trees img {
     max-height: 36mm !important;
+}
+
+h1#cong-phu-quet-la.calligraphyTitle {
+    margin-top: -2mm;
+    margin-bottom: 0;
 }
 
 /* this one is copied from last year, which was scanned bigger, thus needs to be downsized */
