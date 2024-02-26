@@ -63,11 +63,10 @@ With a true smile</p></div>
 
 <div class="removeIndentInFollowingElem"></div>
 
-A number of us asked ourselves,  
-“Is this only a symbolic act we are organizing?  
+A number of us asked ourselves,  “Is this only a symbolic act we are organizing?  
 Do we cultivate the idea we are doing like the Buddha, while, in fact, we have more than enough food and comfort in the monastery?”
 
-I found one element of response in observing how we went about organizing and practicing on that day. I saw we were watering wholesome seeds, individually and collectively. For example by asking these very questions, or as we put our care into harmonizing our views, listening to each other, being and acting in mindfulness, watering seeds of generosity, gratitude, humility, aspiration, determination, and understanding.
+I found one element of response in observing how we went about organizing and practicing on that day. I saw we were watering wholesome seeds, individually and collectively. For example, by asking these very questions or as we put our care into harmonizing our views, listening to each other, being and acting in mindfulness, watering seeds of generosity, gratitude, humility, aspiration, determination, and understanding.
 
 The second element of response I found is given in this sentence of the Vimalakirti Sutra: “It is not in order to eat that you make the alms-round.” Thay further explains, “The alms round is a practice in itself and is not essentially a means for obtaining food to eat.” It is in order to do the alms round that we do the alms round, not essentially in order to eat. Likewise, it is in order to make an offering that one makes an offering, not essentially in order to feed the monks or to generate some merit.
 
