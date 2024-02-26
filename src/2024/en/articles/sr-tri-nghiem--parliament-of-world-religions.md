@@ -1,11 +1,9 @@
 ---
-title: Plum Village goes to the 2023 Parliament of the World’s Religions
+title: Plum Village Goes to the 2023 Parliament of the World’s Religions
 author: Sister Chân Trì Nghiêm
 ---
 
-<div class="editors-preface"><p>In August 2023, Sr. Luc Nghiem from Plum Village, France, and Sr. Tri Nghiem from Magnolia Grove Monastery in Mississippi, USA, were invited to take part in the 9<sup>th</sup> International Meeting of the Parliament of the World’s Religions (PWR) which took place in Chicago, USA.</p>
-
-<p>Sr. Tri Nghiem shares about the experience and what it meant to her.</p></div>
+<div class="editors-preface"><p>In August 2023, Sr. Luc Nghiem from Plum Village, France, and Sr. Tri Nghiem from Magnolia Grove Monastery in Mississippi, USA, were invited to take part in the 9<sup>th</sup> International Meeting of the Parliament of the World’s Religions (PWR) which took place in Chicago, USA. Sr. Tri Nghiem shares about the experience and what it meant to her.</p></div>
 
 <div class="removeTopMarginInFollowingElem"></div>
 
@@ -25,7 +23,7 @@ The connection between Plum Village and the PWR began in 1993 when Thay, along w
 
 Sister Luc Nghiem and I were invited to the Parliament by the Elijah Interfaith Institute<a class="note" href="https://elijah-interfaith.org/">The Elijah Interfaith Institute was founded in 1997 by Rabbi Dr. Alon Goshen-Gottstein, one of the world’s leading figures in interreligious dialogue today.</a>, an international association of faith leaders and scholars, founded in 1997, dedicated to furthering interfaith dialogue and friendship, as well as climate, environmental and social justice initiatives. Our diverse group consisted of more than 20 leaders and scholars, including highly esteemed representatives from Judaism, Christianity, Buddhism, Islam and the religions of India. We took part in daily workshops and plenary sessions and discussed the role of spiritual teachers and leaders today, and the challenges they face in accomplishing their missions. We met with this group every morning, and in the afternoon, we were free to attend general sessions offered by the Parliament<a class="note" href="https://parliamentofreligions.org/parliament/2023-chicago-2/">The 2023 themes centered on the defense of freedom and human rights.</a>. We were honored to bring the teachings of Thay and the Plum Village practices into this group and were delighted to witness how well they were received.
 
-Our contributions to the general Parliament included offering the practice of “Beginning Anew with the Earth” led by Sister Tri Nghiem as part of the *Climate Repentance Ceremony*<a class="note" href="https://www.youtube.com/watch?v=tcfpaSXGz-Y">youtube.com/watch?v=tcfpaSXGz-Y</a> in full plenum, and another plenary session, the *Friendship Across Faiths Initiative,* where Sister Luc Nghiem spoke of the love we need to have in our hearts for dialogue to be possible, sharing examples and experiences of interfaith friendship from her peace pilgrimage to war-torn Ukraine in spring 2022.
+Our contributions to the general Parliament included offering the practice of “Beginning Anew with the Earth” led by Sr. Tri Nghiem as part of the *Climate Repentance Ceremony*<a class="note" href="https://www.youtube.com/watch?v=tcfpaSXGz-Y">youtube.com/watch?v=tcfpaSXGz-Y</a> in full plenum, and another plenary session, the *Friendship Across Faiths Initiative,* where Sr. Luc Nghiem spoke of the love we need to have in our hearts for dialogue to be possible, sharing examples and experiences of interfaith friendship from her peace pilgrimage to war-torn Ukraine in spring 2022.
 
 ## Who did we meet?
 
