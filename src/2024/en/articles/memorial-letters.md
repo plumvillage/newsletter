@@ -1,5 +1,5 @@
 ---
-title: "Honoring our Teacher Thay: 2-Year Memorial Ceremony"
+title: "Honoring Our Teacher Thay: 2-Year Memorial Ceremony"
 author: Thay’s Disciples
 ---
 
