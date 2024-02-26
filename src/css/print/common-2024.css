@@ -1730,31 +1730,6 @@ figure#article2024Sr-DJinh-NCamellialightened {
     right: -14mm;
     overflow: visible;
 }
-/* 
-html:lang(vi) figure#article2024Br-Phap-HuuThay-Phap-Huu-3-Rob-Walshe {
-    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + 10mm + 120mm) * -1 + 5mm);
-    margin: 0;
-    max-width: none!important;
-    position: absolute;
-    z-index: -1;
-    width: calc(var(--pagedjs-pagebox-width) + (var(--bleed)) * 2 - 6mm);
-    left: calc((var(--pagedjs-margin-left) + var(--bleed))*-1 + 3mm);
-    overflow: visible;
-}
-html:lang(vi) .PAGE-OF-article2024Br-Phap-HuuThay-Phap-Huu-3-Rob-Walshe .pagedjs_page_content {
-    height: calc(100% - var(--pagedjs-footnotes-height) - 120mm) !important;
-} */
-
-
-
-/* figure#article2024Sr-DJinh-N2892234565358275287570573224309512897726595n {
-    position: absolute;
-    z-index: -1;
-    top: 40mm;
-    left: -77mm;
-    width: 266mm;
-    max-width: none;
-} */
 
 
 
@@ -1791,6 +1766,7 @@ figure#calligraphyarticle-titles-2-and-dividers5-maskedDividers2-2-straight {
 }
 
 
+.PAGE-OF-article2024SCCK-Chuong-trinh-Hieu-va-Thuongtang-qua-cuu-tro .last-article-element::after,
 .PAGE-OF-article2024Done-Br-Minh-HyIMG9469e .last-article-element::after,
 .PAGE-OF-article2024Done-Memorial-CeremonyHueCeremonyLe-dai-tuong-19 .last-article-element::after,
 .PAGE-OF-article2024Done-Memorial-CeremonyHueCeremonyLe-dai-tuong-4-copy .last-article-element::after,
@@ -2047,4 +2023,17 @@ html:lang(en) .PAGE-OF-article2024Done-Memorial-Ceremony67SuOng2ndYearMemorial22
 figure#article2024Done-Br-Tuong-Tuc3997962553132954181267518334081940523573211n {
     margin-top: 15mm;
     width: 60%;
+}
+
+figure.scck {
+    margin-top: 0;
+    float: none;
+}
+figure.scckSmall {
+    width: 51%;
+    padding-right: 3mm;
+    padding-top: 1mm;
+    margin-bottom: 1mm;
+    margin-left: -7mm;
+    float: left;
 }
