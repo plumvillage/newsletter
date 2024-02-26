@@ -3,7 +3,7 @@ title: Awakening the Source of Love
 author: Sister Chân Thuận Nghiêm
 ---
 
-<p class="editors-preface">Four monastics, Sr. Thuan Nghiem, Sr. Trang Linh Di, Br. Troi Pham Hanh and Br. Troi Ruong Phap, embarked on a mindfulness tour in Israel and Palestine from 17 September to 9 October 2023 when the Israel-Gaza war broke out. The Newsletter team had a chance to interview Sr. Thuan Nghiem about the trip.</p>
+<p class="editors-preface">Four monastics, Sr. Thuan Nghiem, Sr. Trang Linh Di, Br. Troi Pham Hanh and Br. Troi Ruong Phap, embarked on a mindfulness tour in Israel and Palestine from 17 September to 9 October 2023 when the Israel-Hamas war broke out. The newsletter team had a chance to interview Sr. Thuan Nghiem about the trip.</p>
 
 ## Sharing the Dharma in Israel
 
