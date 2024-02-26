@@ -34,7 +34,7 @@ module.exports = [
     "br-hai-thuong--nguoi-di-hai-thuoc-dau-non",
     "br-hai-thuong--trot-thuong",
     "br-hai-thuong--nguoi-da-ve-da-toi",
-    // Tri N
+    "sr-tri-nghiem--tang-than-khap-chon",
     "tien-nguyen--co-nhung-ngay-uom-nang",
     "br-duc-hien-gia-dinh-tam-linh-khap-moi-noi",
     "sr-dao-nghiem--thien-tri-thuc",
