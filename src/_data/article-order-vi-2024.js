@@ -37,7 +37,7 @@ module.exports = [
     "tien-nguyen--co-nhung-ngay-uom-nang",
     "br-duc-hien-gia-dinh-tam-linh-khap-moi-noi",
     "sr-dao-nghiem--thien-tri-thuc",
-    // DNiem
+    "br-duc-niem--thien-va-nghe-thuat-bao-ho-hanh-tinh",
     "sr-hien-tam--minh-la-mieng-dau-hu",
     "joost-vriens--anh-sang-cua-su-ket-noi",
     "sr-lam-hy--chay-bo-de-dung-lai",

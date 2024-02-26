@@ -1525,18 +1525,35 @@ figure#article2024Br-Hai-ThuongVNENguoi-di-hai-thuoc-dau-nonDSC4924e {
     margin-bottom: 0em;
 }
 
-figure#article2024Sr-Chua-XuaDSC08857 {
+/* figure#article2024Sr-Chua-XuaDSC08857 {
     height: 64.5mm;
 }
 figure#article2024Sr-Chua-XuaDSC08857 img {
     top: 45%;
+} */
+/* html:lang(vi) figure#article2024Sr-Chua-XuaDSC08857 {
+    height: 43.5mm;
 }
-figure#article2024Br-Duc-NiemPV202359 img {
+html:lang(vi) figure#article2024Sr-Chua-XuaDSC08857 img {
+    top: 33%;
+} */
+
+
+
+html:lang(en) figure#article2024Br-Duc-NiemPV202359 img {
     top: 36%;
 }
-figure#article2024Br-Duc-NiemPV202359 {
+html:lang(vi) figure#article2024Br-Duc-NiemPV202359 img {
+    top: 16%;
+}
+html:lang(en) figure#article2024Br-Duc-NiemPV202359 {
     height: 81mm;
     width: 97%;
+    margin-bottom: 0;
+}
+html:lang(vi) figure#article2024Br-Duc-NiemPV202359 {
+    height: 63mm;
+    width: 95%;
     margin-bottom: 0;
 }
 
@@ -1724,7 +1741,7 @@ figure#article2024Done-Sr-Tuyet-NIMG6618ecut + p {
     padding-left: 56mm;
 }
 figure#article2024Sr-DJinh-NCamellialightened {
-    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + 10mm + 0mm) * -1 + 5mm);
+    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + 0mm) * -1 + 5mm);
     margin: 0;
     max-width: none!important;
     position: absolute;

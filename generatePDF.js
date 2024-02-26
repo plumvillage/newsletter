@@ -220,14 +220,15 @@ let workInProgress = 0
 // we first generate all raw PDFs. onFinished() adds the downsample jobs to this queue and then proceeds execution with more threads (because the downsample is not as memory-hungry)
 let workQueue = [
 
-    () => generatePDF("http://localhost:8080/2024/en/a4/", `./docs/2024/en-a4`, onFinshed),
+    // () => generatePDF("http://localhost:8080/2024/en/a4/", `./docs/2024/en-a4`, onFinshed),
     // () => generatePDF("http://localhost:8080/2024/en/a4-bleed/", `./docs/2024/en-a4-bleed`, onFinshed),
     
-    // () => generatePDF("http://localhost:8080/2024/vi/a4/", `./docs/2024/vi-a4`, onFinshed),
+    () => generatePDF("http://localhost:8080/2024/vi/a4/", `./docs/2024/vi-a4`, onFinshed),
+    
     
     // () => generatePDF("http://localhost:8080/2024/en/articles-print-preview/br-duc-dinh--a-day-of-alms/", `./docs/2024/br-duc-dinh--a-day-of-alms`, onFinshed),
     // () => generatePDF("http://localhost:8080/2024/en/articles-print-preview/br-phap-huu--music-a-dharma-door/", `./docs/2024/br-phap-huu--music-a-dharma-door`, onFinshed),
-    // () => generatePDF("http://localhost:8080/2024/vi/articles-print-preview/br-duc-hien-gia-dinh-tam-linh-khap-moi-noi/", `./docs/2024/duchien`, onFinshed),
+    // () => generatePDF("http://localhost:8080/2024/vi/articles-print-preview/sr-dinh-nghiem--cuoc-song/", `./docs/2024/quetLa`, onFinshed),
 
     // () => generatePDF("http://localhost:8080/2024/en/articles-print-preview/test/", `./docs/2024/test`, onFinshed),
     // () => generatePDF("http://localhost:8080/2024/en/articles-print-preview/sr-hien-hanh--the-calling/", `./docs/2024/sr-hien-hanh--the-calling`, onFinshed),

@@ -76,5 +76,3 @@ Giây phút chia tay Ni trưởng về lại Pháp rất cảm động. Ni trư�
 Chuyện để kể vẫn còn nhiều lắm, mời bạn về Lộc Uyển uống trà nghe kể chuyện trực tiếp nhé!
 
 <div class="article-end"></div>
-
-{% image "article2024/Sr. Chua Xua/DSC08857.JPG", "noFloat" %}
