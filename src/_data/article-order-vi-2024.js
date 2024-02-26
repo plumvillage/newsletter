@@ -44,4 +44,5 @@ module.exports = [
     "sr-lam-hy--chay-bo-de-dung-lai",
     "sr-lac-hanh--con-di-cho-me",
     "scck--xuan-yeu-thuong-ngap-tran-nam-thang",
+    "lich-sinh-hoat-nam-2024",
 ]
