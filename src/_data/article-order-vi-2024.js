@@ -28,6 +28,7 @@ module.exports = [
     "sr-dinh-nghiem--cuoc-song",
     "br-phap-luu--khuc-hat-tang-than",
     "sr-chua-xua--loc-uyen-mua-an-vui",
+    "sr-bao-nghiem--tho",
     "br-phap-huu--am-nhac-con-duong-tam-linh",
     "br-hai-thuong--nguoi-di-hai-thuoc-dau-non",
     "br-hai-thuong--trot-thuong",
@@ -43,5 +44,4 @@ module.exports = [
     "sr-lam-hy--chay-bo-de-dung-lai",
     "sr-lac-hanh--con-di-cho-me",
     "scck--xuan-yeu-thuong-ngap-tran-nam-thang",
-    "sr-bao-nghiem--tho",
 ]

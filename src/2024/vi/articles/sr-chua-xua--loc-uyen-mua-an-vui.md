@@ -13,9 +13,10 @@ Sau ngày Lễ Tạ ơn (Thanksgiving), cả nhà thầy Trời Minh Lượng ng
 
 Để trở thành một người xuất gia trẻ theo truyền thống đạo Bụt giữa xã hội Mỹ đầy cám dỗ này thật không hề dễ dàng cho chính bản thân người đó và cho người thân của họ. Mình biết ơn sự can đảm và tuệ giác của cha thầy Minh Lượng, ông nói với họ hàng và bạn bè rằng: “Con trai tôi đang được sống trong một môi trường an lành, khỏe mạnh và đang được làm điều cậu ấy muốn, những điều tốt đẹp cho chính cậu ấy, cho xã hội và cậu ấy vui vẻ, hạnh phúc. Vậy thì tôi còn đòi hỏi điều gì nữa?”.
 
-Xuất gia sống trong đại chúng là một điều gì đó không thể diễn tả được bằng lời. Gia đình huyết thống có khi phải đến chùa tận mắt chứng kiến thì mới thấy.
-
+{% image "article2024/Sr. Chua Xua/DSC07631_e.JPG", "removeTopMargin" %}
 {% image "article2024/Sr. Chua Xua/DSC02084.JPG", "removeTopMargin" %}
+
+Xuất gia sống trong đại chúng là một điều gì đó không thể diễn tả được bằng lời. Gia đình huyết thống có khi phải đến chùa tận mắt chứng kiến thì mới thấy.
 
 Em gái thầy Trời Minh An tên Jenni, sinh viên đại học năm cuối, lần đầu tiên dắt bạn trai về tu viện để “ra mắt” anh hai. Cậu người yêu trẻ ngạc nhiên một cách rất chân thành khi đón nhận sự ấm áp từ tăng thân đông đảo dành cho cậu ấy: “Tôi nghe Jenni kể rằng gia đình cô ấy nhỏ và cô ấy chỉ có một anh trai thôi à!”. Jenni bây giờ có rất nhiều anh chị bởi vì Jenni đã trở thành em gái của tất cả chúng tôi.
 
@@ -44,6 +45,10 @@ Giây phút này đây, gia đình Cây Trúc Vàng chúng con xin chắp tay bi
 ## Hội Hoa Lilac 
 
 Làng Mai Pháp có hội hoa Mai thì ở tu viện Lộc Uyển có hội hoa Lilac. Hoa Lilac là loài hoa “thổ địa”, cũng là loài hoa báo hiệu mùa xuân của vùng núi rừng sa mạc này. Hoa màu trắng, màu tím hồng, cánh hoa nhỏ hơn cánh hoa mai nhưng mùi rất thơm và cây mọc tự nhiên khắp nơi trên núi. Trên con đường đi vào ni xá cũng có hai hàng hoa Lilac. Chúng ở đó từ lâu lắm rồi, từ trước khi có ni xá.
+
+{% image "article2024/Sr. Chua Xua/image_50411009-2048x1536_e.jpg", "" %}
+
+{% image "article2024/Sr. Chua Xua/IMG_2145_e.JPG", "removeTopMargin" %}
 
 Đến độ cuối tháng Hai đầu tháng Ba là hoa bắt đầu nở, lúc đó cả tu viện sẽ quẩy ba lô lên lưng cùng nhau leo núi ngắm hoa. Phải khởi hành từ lúc “gà chưa gáy, trời chưa thấy sáng” thì khi lên đỉnh núi mới thấy được cảnh mặt trời mọc huy hoàng và cả cánh rừng hoa Lilac lung linh.
 
@@ -76,3 +81,5 @@ Giây phút chia tay Ni trưởng về lại Pháp rất cảm động. Ni trư�
 Chuyện để kể vẫn còn nhiều lắm, mời bạn về Lộc Uyển uống trà nghe kể chuyện trực tiếp nhé!
 
 <div class="article-end"></div>
+
+{% image "article2024/Sr. Chua Xua/20230110_110205_e.jpg" %}
