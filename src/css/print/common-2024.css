@@ -1236,7 +1236,7 @@ html:lang(en) figure#article2024Done-BrPhap-UngBrPhap-Unge {
 /* column-span images */
 figure#article2024Done-Br-Tuong-Tuc3997962553132954181267518334081940523573211n,
 figure#article2024Br-Phap-HuuClimate-retreat2023129bw,
-figure#article2024Br-Phap-HuuThay-Phap-Huu-3-Rob-Walshe,
+html:lang(vi) figure#article2024Br-Phap-HuuThay-Phap-Huu-3-Rob-Walshe,
 figure#article2024LaurentBelltowerlong,
 figure#article2024Br-Hai-Thuong3303559909048077505433252111270774346916962ne,
 figure#article2024Done-SrHien-TamIMG2286,
@@ -1300,7 +1300,6 @@ figure#LTLM47-2024-cover-NH-TeensLTLM47-2024July2023sararemington0013editedcropp
     margin-bottom: 0em;
 }
 
-figure#article2024Br-Hai-ThuongVNENguoi-di-hai-thuoc-dau-nonDSC4924e,
 figure#article2024br-duc-hienChileIMG2160e,
 figure#article2024Sr-Tri-Nghiem000 {
     width: 90%;
@@ -1348,7 +1347,7 @@ figure#article2024Done-Review-of-the-YearTNH-Center528562133967da665de4eo {
     margin-bottom: 0em;
 }
 
-figure#article2024Br-Phap-HuuThay-Phap-Huu-3-Rob-Walshe,
+html:lang(vi) figure#article2024Br-Phap-HuuThay-Phap-Huu-3-Rob-Walshe,
 figure#article2024br-duc-hienArgentina20230401131012e,
 figure#article2024Done-Br-Phap-LuuIMG6621e {
     width: 100%;
@@ -1474,7 +1473,6 @@ figure#article2024LaurentBelltowerlong {
     height: 55mm;
 } */
 
-figure#article2024Br-Hai-ThuongVNENguoi-di-hai-thuoc-dau-nonDSC4924e img,
 html:lang(vi) figure#article2024Sr-Lam-Hy012 img,
 figure#article2024Sr-Chua-XuaDSC08857 img,
 figure#article2024Br-Duc-NiemPV202359 img,
@@ -1523,10 +1521,8 @@ html:lang(vi) figure#article2024Sr-Lam-Hy012 img {
 }
 
 figure#article2024Br-Hai-ThuongVNENguoi-di-hai-thuoc-dau-nonDSC4924e {
-    height: 73mm;
-}
-figure#article2024Br-Hai-ThuongVNENguoi-di-hai-thuoc-dau-nonDSC4924e img {
-    top: 29%;
+    width: 100%;
+    margin-bottom: 0em;
 }
 
 figure#article2024Sr-Chua-XuaDSC08857 {
@@ -2029,7 +2025,7 @@ html:lang(en) .PAGE-OF-article2024Done-Memorial-Ceremony67SuOng2ndYearMemorial22
 
 figure#article2024Done-Br-Tuong-Tuc3997962553132954181267518334081940523573211n {
     margin-top: 15mm;
-    width: 60%;
+    width: 80%;
 }
 
 figure.scck {

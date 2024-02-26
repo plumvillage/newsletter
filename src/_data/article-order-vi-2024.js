@@ -18,7 +18,7 @@ module.exports = [
     "sr-hien-hanh--tieng-goi",
     "sr-main-huong--tro-ve-nguon-coi",
     "br-phap-dung--bay-nhieu-thoi-la-da-du",
-    "sr-bao-nghiem--tho",
+    "br-tuong-tuc--con-tu-la-con-thay-nhau",
     
     
     // PART 2
@@ -29,11 +29,10 @@ module.exports = [
     "br-phap-luu--khuc-hat-tang-than",
     "sr-chua-xua--loc-uyen-mua-an-vui",
     "br-phap-huu--am-nhac-con-duong-tam-linh",
-    "br-tuong-tuc--con-tu-la-con-thay-nhau",
-    "br-thien-chi--hoa-no-tu-vuon-tam",
     "br-hai-thuong--nguoi-di-hai-thuoc-dau-non",
     "br-hai-thuong--trot-thuong",
     "br-hai-thuong--nguoi-da-ve-da-toi",
+    "br-thien-chi--hoa-no-tu-vuon-tam",
     "sr-tri-nghiem--tang-than-khap-chon",
     "tien-nguyen--co-nhung-ngay-uom-nang",
     "br-duc-hien-gia-dinh-tam-linh-khap-moi-noi",
@@ -44,4 +43,5 @@ module.exports = [
     "sr-lam-hy--chay-bo-de-dung-lai",
     "sr-lac-hanh--con-di-cho-me",
     "scck--xuan-yeu-thuong-ngap-tran-nam-thang",
+    "sr-bao-nghiem--tho",
 ]

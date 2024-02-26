@@ -5,8 +5,6 @@ author: Nhớ về thầy Chân Trời Hải Thượng
 
 <div class="editors-preface"><p>Thầy Trời Hải Thượng sinh năm 1990 và thị tịch năm 2023 lúc mới 33 tuổi đời và 5 tuổi hạ, trong sự cảm thương và tiếc nhớ của hai gia đình tâm linh, huyết thống, bạn bè và cư sĩ. Thầy xuất gia và thọ giới sadi tại tu viện Vườn Ươm, Làng Mai Thái Lan năm 2014 trong gia đình cây Sồi Đỏ, thọ giới lớn năm 2019 tại tu viện Vườn Ươm trong Đại giới đàn Đã về Đã tới. Sau nhiều năm tu tập và phụng sự ở Vườn Ươm, thầy đã tình nguyện sang xây dựng tăng thân ở Viện Phật học Ứng dụng châu Âu (EIAB), Đức, nơi thầy đã đột ngột ra đi vào một buổi sáng tháng 10 năm 2023.</p>
 
-{% image "article2024/Br Hai Thuong/ENG/012 copy_e.jpg" %}
-
 <p>
 Trong số rất nhiều lời cảm niệm, nhớ thương về thầy Trời Hải Thượng, BBT xin trích đăng một vài chia sẻ của những huynh đệ đã từng có thời gian chung sống và tu học cùng thầy. BBT cũng xin giới thiệu bài viết “Trót thương” và “Người đã về, đã tới” của thầy Trời Hải Thượng. Đọc bài viết, chúng ta sẽ được tiếp xúc với tâm hồn tinh tế, tình yêu cuộc sống, sự có mặt trọn vẹn, sự trân quý từng phút từng giây của thầy. Chỉ khi nào người ta có khả năng an trú trong hiện tại thì mới có thể cảm và nhìn thấy từng góc cạnh, từng chi tiết nhỏ những nét đẹp nhiệm mầu của sự sống đến như thế.</p><p>
 Dù thầy Trời Hải Thượng không còn biểu hiện qua hình tướng thông thường nữa, chúng ta vẫn có thể tiếp xúc với thầy qua các bài viết sâu sắc và những vần thơ phản ánh tâm hồn tinh tế, thoát tục nhưng tha thiết yêu đời của thầy.</p></div>
@@ -17,6 +15,8 @@ Thầy Trời Hải Thượng kính thương!
 
 Trước tiên con muốn chào thầy với tất cả tấm lòng thương kính! Sen búp xin tặng thầy, một vị Bụt tương lai.
 
+{% image "article2024/Br Hai Thuong/ENG/012 copy_e.jpg", "removeTopMargin" %}
+
 Thầy biết không, con rất hạnh phúc khi có cơ hội được sống, được học, được chơi, được thực tập, được làm việc cùng với thầy ở Viện Phật Học (EIAB). Với con, thầy là một vị thiện tri thức, là một biểu hiện của Bụt, của Sư Ông. Con rất trân quý thầy trong những năm tháng qua, dù chỉ gần ba năm ngắn ngủi, trong đó có hai tuần được đi khóa tu chung với thầy, thầy Pháp Ấn, sư cô Song Nghiêm và sư cô Chuẩn Nghiêm. Đó là những giây phút hạnh phúc đã giúp cho con thắp sáng ý thức, sống trọn vẹn và không muốn bỏ lỡ hay đánh mất đi một giây phút nào.
 
 Thầy hay gọi con là: “Sư cô Nguyệt Nghiêm ơi!” làm cho con có cảm giác là Bụt đang gọi con và Sư Ông đang gọi con. Thầy không bao giờ gọi tắt tên “Nguyệt” hay chỉ gọi “sư cô” mà hay gọi nguyên câu “Sư cô Nguyệt Nghiêm ơi!” làm cho con chánh niệm hơn vì trong âm thanh thầy gọi, con nhận được sự có mặt của thầy cho con, và tiếng thầy gọi giống như Sư Ông đã từng gọi con. Mỗi lần nghe âm thanh đó, con đều lắng nghe rất cẩn trọng. Đó là bí mật đấy, chắc lần này con chia sẻ ra thầy mới biết phải không? Thầy có biết vì sao không, trong tiếng gọi đó con cảm nhận sự có mặt của thầy và con ý thức sự có mặt của con, một sư cô, một người xuất gia. Lần này con cũng kính xin được gọi tên của thầy một lần nữa với tất cả tấm lòng thương kính: “Thầy Chân Trời Hải Thượng ơi!”.
@@ -26,7 +26,8 @@ Cảm ơn thầy đã đến Viện Phật Học cùng với anh chị em chúng
 <p class="signoff"><span class="signoff-lvl-1">Sen búp xin tặng thầy — một vị Bụt tương lai.<br/>Kính thương!</span><br/>
 <span class="signoff-lvl-2 last-article-element">Sư cô Chân Nguyệt Nghiêm</span></p>
 
-<div class="page-break"></div>
+<div class="divider"></div>
+<!-- <div class="page-break"></div> -->
 
 ## Nhận diện đơn thuần
 
@@ -71,11 +72,17 @@ Hải Thượng ơi! Anh chỉ muốn nói với sư em là *“Tuy hình hài s
 Sự ra đi đột ngột của sư em như một hồi chuông cảnh tỉnh về sự vô thường và nhắc nhở tất cả mọi người rằng *“Cái chết đến bất ngờ không thể nào mặc cả”*, làm cho tất cả huynh đệ chúng ta phải thức tỉnh hơn và giúp tất cả mọi người thấy được giá trị của sự sống, giá trị của vô thường như lời Sư Ông dạy *“Ý thức vô thường để trân quý vô thường”*. Cách sư em tu, học, làm việc và vui chơi hòa mình trong lòng đại chúng đã và đang nuôi dưỡng anh rất nhiều. Cảm ơn sư em đã đến với cuộc đời này, với tăng thân và đem lại sự an lạc, bình an cho anh và cho tất cả mọi người.
 
 <p class="signoff"><span class="signoff-lvl-1">Thương và nhớ sư em nhiều lắm!</span><br/>
-<span class="signoff-lvl-2 last-article-element">Thầy Chân Trời Tuệ Chiếu</span></p>
+<span class="signoff-lvl-2">Thầy Chân Trời Tuệ Chiếu</span></p>
 
-<div class="divider"></div>
+<div class="article-end"></div>
 
-## Bếp lửa hồng
+{% image "article2024/Br Hai Thuong/VNE/Nguoi di hai thuoc dau non/DSC_4924_e.JPG", "noFloat" %}
+
+<!-- <div class="divider"></div> -->
+
+
+<!-- Br Bac Son left the Sangha already... -->
+<!-- ## Bếp lửa hồng
 
 Thương về sư em Chân Trời Hải Thượng
 
@@ -107,8 +114,4 @@ Nguyện xưa sáng mãi trong lòng<br/>
 Biết ơn em một cuộc đời áo nâu trọn vẹn.</p>
 
 <p class="signoff"><span class="signoff-lvl-1" style="font-style: normal;">Xóm Trong Sáng, ngày 16.10.2023</span><br/>
-<span class="signoff-lvl-2">Thầy Chân Trời Bắc Sơn</span></p></div>
-
-<div class="article-end"></div>
-
-{% image "article2024/Br Hai Thuong/VNE/Nguoi di hai thuoc dau non/DSC_4924_e.JPG", "noFloat" %}
+<span class="signoff-lvl-2">Thầy Chân Trời Bắc Sơn</span></p></div> -->
