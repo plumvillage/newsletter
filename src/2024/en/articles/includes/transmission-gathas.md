@@ -12,7 +12,7 @@
 
 <div class="removeTopMarginInFollowingElem removeIndentInFollowingElem" style="height: 6mm; column-span: all;"></div>
 
-In 2023, the sangha happily welcomed 27 new Dharma teachers, both lay and monastic students of Thay. Below are their transmission gathas:
+In 2023, the Sangha happily welcomed 27 new Dharma teachers, both lay and monastic students of Thay. Below are their transmission gathas:
 
 ## Transmission gathas in the Trung Quang Great Precept Transmission Ceremony<br/>*(10 – 14 February 2023, in Thai Plum Village)*
 
@@ -134,7 +134,7 @@ In 2023, the sangha happily welcomed 27 new Dharma teachers, both lay and monast
 > > Đem tay tế độ bao người khổ  
 > > Sóng bước bên Ngài Quán Thế Âm.
 
-## Transmission gathas in the monastic retreat “Unshakable Faith” *(15 – 23.2.2023, France)*
+## Transmission gathas in the monastic retreat “Unshakable Faith” *(15 – 23 Feb 2023, France)*
 
 > **Brother Thích Chân Trời Nội Tâm**  
 > *(Phạm Văn Tài; Tâm Phúc Lộc)*
@@ -164,14 +164,14 @@ In 2023, the sangha happily welcomed 27 new Dharma teachers, both lay and monast
 > > In this pure land of mindfulness and joy  
 > > I offer my service to all beings.
 
-> **Sư Cô Thích nữ Chân Trăng Hoa Tiên**  
+> **Sister Thích nữ Chân Trăng Hoa Tiên**  
 > *(Nguyễn Thị Quế Trâm; Tâm Huệ Anh)*
 > > Gót sen thiền tập cùng **trăng**  
 > > **Hoa** tâm nở rộ thoát vòng thị phi  
 > > Dáng **tiên** hiện nét uy nghi  
 > > Lắng nghe nhẫn hạnh từ bi cứu đời
 
-> **Sư Cô Thích nữ Chân Trăng Thong Dong**  
+> **Sister Thích nữ Chân Trăng Thong Dong**  
 > *(Bùi Hồng Thu Quý; Tâm Diệu Vinh)*
 > > **Trăng** xưa lập nguyện đại bi  
 > > Sao cho muôn loại tổng trì vô sanh  
