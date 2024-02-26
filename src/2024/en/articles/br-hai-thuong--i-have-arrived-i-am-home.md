@@ -1,15 +1,15 @@
 ---
-title: I have arrived, I am home
+title: I Have Arrived, I Am Home
 author: Brother Chân Trời Hải Thượng (1990—2023)
 ---
 
-<div class="editors-preface"><p>Brother Chân Trời Hải Thượng was born in 1990 and passed away in 2023 at the age of 33. He was ordained as a novice at Plum Village Thailand in 2014 in the Red Oak family and received the Great Precepts to become a bhikshu in the great ordination ceremony themed “I have arrived, I am home” in 2019. After several years of practice and service to the sangha in Thailand, he volunteered to transfer to the European Institute of Applied Buddhism (EIAB) in Germany to help continue Thay’s dream of building sanghas. It was here that Br. Troi Hai Thuong unexpectedly passed away on the morning of 2023 October.</p>
+<div class="editors-preface"><p>Brother Chân Troi Hai Thuong was born in 1990 and passed away in 2023 at the age of 33. He was ordained as a novice at Thai Plum Village in 2014 in the Red Oak ordination family and received the Great Precepts to become a bhikshu in the “I have arrived, I am home” great precepts transmission ceremony in 2019. After several years of practice and service to the sangha in Thailand, he volunteered to transfer to the European Institute of Applied Buddhism (EIAB) in Germany to help continue Thay’s dream of building sanghas. It was here that Br. Troi Hai Thuong unexpectedly passed away on the morning of 15 October 2023.</p>
 
 {% image "article2024/Br Hai Thuong/ENG/012 copy_e.jpg" %}
 
 <p>Although Br. Troi Hai Thuong no longer manifests in the physical form, we can still get in touch with him through his writings, reflections of a sensitive spirit that earnestly loves life.</p>
 
-<p>The following in a translated excerpt from the <i>Giếng Nước Thơm Trong</i> (Fragrant Well), Newsletter #2 from Plum Village Thailand.</p></div>
+<p>The following is a translated excerpt from the <i>Giếng Nước Thơm Trong</i> (Fragrant Well), Newsletter #2 from Plum Village Thailand.</p></div>
 
 ## Monday
 
@@ -21,7 +21,7 @@ Once in a while, we hear people say, “Don’t just sit there, do something.”
 
 I tend to be more successful in being lazy than when we practice noble silence as a whole sangha, when everyone leaves books, pens, papers, internet, devices alone. To be honest, I usually use Mondays as a rest day, to take a break from “work” or to go on outings, not quite in the spirit of “nowhere to go, nothing to do.” Having attended school and worked, participating in the hustle and bustle of society, I still feel guilty being idle. If there are 15 or 30 minutes to spare, I will try to make the most of the time by finding something to do. On the other hand, Zen masters would spend several hours just for tea meditation, being aware and enjoying each movement. Only after becoming a monastic did I realize the image of a monastic sitting doing nothing was in fact not what it seemed. The “business” of monastics is different from that of people in society.
 
-Evening came and the residents of the hamlet had returned from their hidden corners. A few brothers and novices, in their long robes, were chanting and offering food to Hungry Ghosts in a ceremony. The rapid rhythm of the wooden fish drum harmonizing with the chanting voices was very satisfying to the ears. Tonight, there was a scheduled activity, so Br. Tam Nguyen invited me to go for a walk earlier than usual. After asking around, we ended up with four people for the walk. The reverberating sounds of the bell and wooden fish drum had not yet ended, and the chanting lingered:
+Evening came and the residents of the hamlet had returned from their hidden corners. A few brothers and novices, in their long robes, were chanting and offering food in the Hungry Ghosts Ceremony. The rapid rhythm of the wooden fish drum harmonizing with the chanting voices was very satisfying to the ears. Tonight, there was a scheduled activity, so Br. Tam Nguyen invited me to go for a walk earlier than usual. After asking around, we ended up with four people for the walk. The reverberating sounds of the bell and wooden fish drum had not yet ended, and the chanting lingered:
 
 > “May we be born now in the Pure Land within the heart of a lotus flower. In the moment when the lotus blooms, we touch the reality of no-birth and no-dying.”
 
@@ -33,9 +33,9 @@ I was happy to see how much Br. Tam Nguyen had grown. He had become calmer, know
 
 ## Friday
 
-I left my room early to go to sitting meditation so that I could enjoy each step on the path to the echo of the Great Temple Bell still reverberating, accompanied by the chanting. Upon arriving at the meditation hall, I saw somebody already there practicing Touching the Earth. Today many elder brothers have gone out of the monastery, so I felt a little uncomfortable having to sit nearer to the altar during chantings. Being used to living in both a large and a small sangha, I treasured the atmosphere of a powerful chanting each morning calling forth the bright morning light. Each chanting session usually consisted of a chant and a sutra reading.
+I left my room early to go to sitting meditation so that I could enjoy each step on the path to the echo of the Great Temple Bell still reverberating, accompanied by the chanting. Upon arriving at the meditation hall, I saw somebody already there practicing Touching the Earth. Today, many elder brothers have gone out of the monastery, so I felt a little uncomfortable having to sit nearer to the altar during chantings. Being used to living in both a large and a small sangha, I treasured the atmosphere of a powerful chanting each morning calling forth the bright morning light. Each chanting session usually consisted of a chant and a sutra reading.
 
-At Plum Village, we are not required to memorize the sutras or precepts; nevertheless, they seep into our hearts through the repeated practice of sutra reading and chanting throughout the year. Phrases like “We vow to touch the Pure Land with every step, we promise at every contact, to be in touch with the ultimate dimension” may not require much time mulling over the books to understand, partly because they are written in everyday language. If we use the Sino-Vietnamese version, then it would be no different from learning a foreign language because the pronunciation sounds familiar but the meaning is completely different…
+At Plum Village, we are not required to memorize the sutras or precepts; nevertheless, they seep into our hearts through the repeated practice of sutra reading and chanting throughout the year. Phrases like “We vow to touch the Pure Land with every step, we promise at every contact, to be in touch with the ultimate dimension” may not require much time mulling over the books to understand, partly because they are written in everyday language. If we use the Sino-Vietnamese version, then it would be no different from learning a foreign language because the pronunciation sounds familiar but the meaning is completely different.
 
 {% image "article2024/Br Hai Thuong/ENG/DSC_8009_e.jpg" %}
 
@@ -43,22 +43,22 @@ This morning, there was only me in my room because all the novices had gone to t
 
 > “Who doesn’t need a dream?! According to the practice of Plum Village, we need to find a way to realize our dream today… I myself, I think I can reach my hand out to touch my dream at any moment in my daily life.”
 
-This paragraph reminded me of a time in Germany, when a laywoman asked Thay, now that he was advanced in age if he had any dream that was unfulfilled. Thay answered,
+This paragraph reminded me of a time in Germany, when a laywoman asked Thay now that he was advanced in age if he had any dream that was unfulfilled. Thay answered,
 
-> “Everyday Thay is able to live and do the things he likes. Thay no longer has any projects or dreams.”
+> “Everyday, Thay is able to live and do the things he likes. Thay no longer has any projects or dreams.”
 
 What Thay emphasized was that, we could touch our dreams right away if we wanted to. How? Thay had already thoroughly taught us. Countless times, we, monks and nuns, sang “It needs you to breathe gently for the miracles to be displayed” (from the song/poem "Our True Heritage"). During a sitting meditation, we might again hear Thay’s warm voice in our ears:
 
 > “Dear Lord Buddha… when I breathe in, I see that I have arrived. When I breathe out, I see that I am home. I have come home to the present moment. This is my true homeland. I have arrived, in touch with the wonders of life, with the Pure Land in the present moment. This can be done within one in-breath or one out-breath. If I am able to arrive, to come home, then what more do I need to do? I can enjoy myself as I please in the Buddha Land.”
 
 
-Like the word “happiness,” the phrase “right away” has become so familiar to the ears that many people in our sangha have forgotten its true value. Was it just meant to fulfill the preferred taste of “instant noodles” of modern day? The teachings of the Buddha “transcend time,” if we cannot eat them right away in this moment, then we will never be able to taste them. *Now or never!*
+Like the word “happiness,” the phrase “right away” has become so familiar to the ears that many people in our sangha have forgotten its true value. Was it just meant to fulfill the preferred taste of “instant noodles” of modern day? The teachings of the Buddha transcend time, if we cannot eat them right away in this moment, then we will never be able to taste them. *Now or never!*
 
-I was planning to reserve Friday evening to find the last few pieces of information for my article. I felt partly pressured, partly relaxed. I went to the online temple, “the Country of the Present Moment,” (langmai.org) to look for Thay’s calligraphy but none seemed satisfactory. There must be good ideas I could pick from the storage of Thay’s Dharma talks; but it was so vast, how was I to locate them?
+I was planning to reserve Friday evening to find the last few pieces of information for my article. I felt partly pressured, partly relaxed. I went to the online temple, “the Country of the Present Moment,” (plumvillage.org) to look for Thay’s calligraphy but none seemed satisfactory. There must be good ideas I could pick from the storage of Thay’s Dharma talks; but it was so vast, how could I locate them?
 
 Wandering around, I coincidentally came across an article by Br. Minh Hy sharing about something Thay taught:
 
-> “The first fruit of the Plum Village practice ‘I have arrived, I am home’ is a little different from the fruit of the traditional practice ‘Stream-enterer.’ With ‘Stream-enterer’ one still has to continue going, whereas with ‘I have arrived, I am home’ one no longer needs to search for anything more. ‘No need to search further (Người chẳng tìm cầu chi nữa)’ – this is a very good phrase; we need to write it down. It would be a pity if we lose it. Whoever has realized this fruit of the practice, looking at them we would know right away; no need for them to say anything.”
+> “The first fruit of the Plum Village practice ‘I have arrived, I am home’ is a little different from the fruit of the traditional practice ‘Stream-enterer.’ With ‘Stream-enterer’, one still has to continue going, whereas with ‘I have arrived, I am home,’ one no longer needs to search for anything more. ‘No need to search further' (Người chẳng tìm cầu chi nữa) – this is a very good phrase; we need to write it down. It would be a pity if we lose it. Whoever has realized this fruit of the practice, looking at them we would know right away; no need for them to say anything.”
 
 <p class="noIndent">The entire parallel verses were as follows:</p>
 
@@ -74,7 +74,7 @@ I was not sure which meditation hall they were in. Unable to find the calligraph
 
 When we chase after an object, wanting to grasp it, we will suffer. When we do not have anything to pursue, we will also suffer. If you have been a river, if you have ever chased after a cloud and suffered, lamenting because you felt lonely, please take hold of your own hand like you are holding the hand of a friend. Contemplating deeply, you will see that the thing you are looking for has been here all this time, that is yourself! You are already what you want to become.
 
-It was still a story of the seeker and the thing being sought. “Who seeks, yet who attains?” Looking for a quiet place, I took my hammock and a few books with me: The Miracle of Mindfulness, The Sun My Heart, Fragrant Palm Leaves… to review the most distilled insight of Thay’s early teachings that I had marked for my article.
+It was still a story of the seeker and the thing being sought. “Who seeks, yet who attains?” Looking for a quiet place, I took my hammock and a few books with me: *The Miracle of Mindfulness, The Sun My Heart, Fragrant Palm Leaves*… to review the most distilled insight of Thay’s early teachings that I had marked for my article.
 
 <div class="verse"><p>“[We] are used to living in birth-and-death, and [we] forget about no-birth-and-no-death. A wave also lives the life of water, and we also live the life of no-birth-no-death. We only need to know that we are living the life of no-birth-no- death. All is in the word ‘know.’ To know is to realize. Realization is mindfulness. All the work of meditation is aimed at awakening us in order to know one and only one thing: birth and death can never touch us in any way whatsoever.”<br/><cite>from <i>The Sun My Heart</i></cite></p></div>
 
