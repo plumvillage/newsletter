@@ -3,7 +3,7 @@ title: "Honoring Our Teacher Thay: 2-Year Memorial Ceremony"
 author: Thay’s Disciples
 ---
 
-<p class="editors-preface">The following is a letter to Thay from his disciples at Plum Village, France.</p>
+<p class="editors-preface">The following is a letter to Thay from his disciples in Plum Village, France.</p>
 
 ## Your life is your message
 
