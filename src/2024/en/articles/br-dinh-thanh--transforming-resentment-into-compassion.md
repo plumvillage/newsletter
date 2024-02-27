@@ -5,7 +5,7 @@ author: Brother Chân Trời Định Thành
 
 {% image "article2024/br-dinh-thanh/Transforming Resentment - Br Dinh Thanh.jpg" %}
 
-<div class="removeTopMarginInFollowingElem"></div>
+<div class="removeTopMarginInFollowingElem removeIndentInFollowingElem"></div>
 
 Last year, in January 2022, a few days after I ordained as a monk and moved to the monastic residence, I asked my ordination brother, Br. Dinh Tuc, to craft a calligraphy for me with the words “Beloved Community.” This phrase was used by Martin Luther King, Jr. to refer to the Sangha, the community of practice.
 
@@ -23,7 +23,9 @@ Then I placed all the photos around the calligraphy “Beloved Community”, as 
 
 I also placed next to the collage a quote from Thay:
 
-<div class="verse"><p>“There is a virus called CC, craving and corruption”<br/><cite>Excerpt from Thay’s poem <i>Recommendation</i></cite></p></div>
+<div class="verse"><p>“There is a virus called CC, craving and corruption”</p></div>
+<!-- this was the original suggestions, but we could not find it there: -->
+<!-- <br/><cite>Excerpt from Thay’s poem <i>Recommendation</i></cite> -->
 
 ## Everything in the world is interconnected
 

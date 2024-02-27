@@ -96,7 +96,7 @@ What Jo Confino is sharing resonates with me very much. When they came to the cl
 
 ***Sr. Hien Nghiem:*** *It turns out that some of the people leading the exclusion of fossil fuels in the last COP-28 text had been to one of our climate retreats at Plum Village. So all the courage to persist and to endure and that faith and idealism to do that new thing came from people who’ve been in Plum Village, who then help each other. Some of them said it has really helped shift the landscape at the COP because there’s basically now a body of people who know how to breathe together, touch their idealism, presence and solidarity and that’s starting to actually affect the very mechanics of the COP.*
 
-<div class="removeIndentInFollowingElem" style="height: 1.1em;"></div>
+<div class="removeIndentInFollowingElem" style="margin-top: 3.1em;"></div>
 
 I have attended two zoom sessions with a group of them while they were at COP. Some of them met every day to sit and breathe together. They have shared that the Sangha they had at COP and knowing that they are part of a larger global Sangha have made all the difference. Hearing this gives me a lot of hope and trust.
 

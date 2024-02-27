@@ -8,7 +8,7 @@ author: Sister Chân Trăng Bồ Đề
 
 {% image "article2024/Done-Sr-Bo-De/_DSC7412.jpg", "removeTopMargin" %}
 
-<p class="pull-quote" style="font-size: 155%;">Under the illuminating blue sky<br/>
+<p class="pull-quote removeIndentInFollowingElem" style="font-size: 155%;">Under the illuminating blue sky<br/>
 I suddenly feel<br/>
 The presence of Thay…</p>
 

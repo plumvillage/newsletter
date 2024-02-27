@@ -45,7 +45,7 @@ Seeing my parents again after four years was incredibly joyful, though it would 
 
 There was anxiety in the air during the days leading up to the surgery; however, we did our best to continue with our daily routine. I learned at Plum Village not to let worries take over my mental state, understanding that dwelling on thoughts of anxiety would not help make things better. Dad made plans to study Buddhism with me during his recovery.
 
-{% image "article2024/Done-Sr.Hien Tam/IMG_2966_e.JPG" %}
+{% image "article2024/Done-Sr.Hien Tam/IMG_2966_e.JPG", "", "Sr. Hien Tam with her parents on ordination day in 2018" %}
 
 When Dad was in the operating room of a big hospital in Seoul, I did what I could not to allow thoughts of worry to crowd my mind. I held Mom’s hand and quietly practiced breathing. Next to the surgery room was the intensive care unit, which was filled with families visiting loved ones who faced death. Seeing the sad faces of the families going through the last moments with their dying relatives while hoping for Dad’s successful surgery made Mom even more anxious. To ease her nervousness, I gave her noise-canceling AirPods and played Plum Village songs and chants. Music has the ability to help soothe those who are not able to soothe themselves. I thought it might be helpful for Mom as well.
 
