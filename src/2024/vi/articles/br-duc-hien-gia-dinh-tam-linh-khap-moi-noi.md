@@ -17,7 +17,7 @@ Tôi rất cảm động trước năng lượng tập thể của thính chúng
 
 {% image "article2024/br-duc-hien/Brazil/WhatsApp Image 2023-03-28 at 09.41.31_e.jpeg", "removeTopMargin" %}
 
-Tôi cảm thấy thật sự may mắn và hạnh phúc khi được là một thành viên của tăng đoàn, tôi càng cảm nhận rõ hơn sức mạnh của lời phát nguyện “giúp mọi người ý thức về tự tính tương tức của mọi người, mọi loài, để yêu thương nhau hơn". Tôi nhìn thấy rõ hơn giới luật và chiếc áo của người tu đã cho tôi những cơ hội được là chính tôi mà không cần phải cố gắng thể hiện gì cả. Tôi chỉ cần để cho mỗi khoảnh khắc của cuộc sống đa dạng, của năng lượng tập thể biểu hiện và chiếu sáng, đem lại nụ cười cho cuộc đời.
+Tôi cảm thấy thật sự may mắn và hạnh phúc khi được là một thành viên của tăng đoàn, tôi càng cảm nhận rõ hơn sức mạnh của lời phát nguyện “giúp mọi người ý thức về tự tính tương tức của mọi người, mọi loài, để yêu thương nhau hơn”. Tôi nhìn thấy rõ hơn giới luật và chiếc áo của người tu đã cho tôi những cơ hội được là chính tôi mà không cần phải cố gắng thể hiện gì cả. Tôi chỉ cần để cho mỗi khoảnh khắc của cuộc sống đa dạng, của năng lượng tập thể biểu hiện và chiếu sáng, đem lại nụ cười cho cuộc đời.
 
 Vài ngày sau đó, chúng tôi tổ chức một khóa tu cho khoảng 80 người, bao gồm nhóm nhạc công trẻ, những người rất dễ thương đồng hành với chúng tôi suốt năm ngày khóa tu, mang theo lời ca, tiếng đàn và năng lượng vui tươi. Đối với tôi, âm nhạc là một phương tiện chuyên chở niềm vui và cả lời cầu nguyện, giúp trực tiếp kết nối những con tim với nhau. Tôi thật sự hạnh phúc. Tôi đã cùng tham gia với họ để chia sẻ những bài thiền ca Làng Mai theo phong cách âm nhạc Brazil.
 

@@ -63,7 +63,7 @@ With a true smile</p></div>
 
 <div class="removeIndentInFollowingElem"></div>
 
-A number of us asked ourselves,  “Is this only a symbolic act we are organizing?  
+A number of us asked ourselves, “Is this only a symbolic act we are organizing?  
 Do we cultivate the idea we are doing like the Buddha, while, in fact, we have more than enough food and comfort in the monastery?”
 
 I found one element of response in observing how we went about organizing and practicing on that day. I saw we were watering wholesome seeds, individually and collectively. For example, by asking these very questions or as we put our care into harmonizing our views, listening to each other, being and acting in mindfulness, watering seeds of generosity, gratitude, humility, aspiration, determination, and understanding.

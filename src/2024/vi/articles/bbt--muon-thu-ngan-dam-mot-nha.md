@@ -120,7 +120,7 @@ Ngày hôm nay, từ muôn phương, chúng con đã trở về sum họp chung 
 
 Sáng sớm, tiếng chuông mõ hòa cùng tiếng tụng kinh trầm hùng lại vang vọng khắp núi đồi Dương Xuân, có lẽ không khác mấy với những tháng ngày Thầy còn là chú điệu nhỏ ở chùa. Lời kinh tha thiết, năng lượng an lành như thấm vào từng cánh hoa vàng óng trên bàn thờ Bụt.
 
-Đại chúng đã cùng hát vang khúc ca “Giờ đây bên nhau". Bài hát như là lời nguyện chung của cả tăng thân. Dù cho bao gian khó, ta vẫn đứng bên nhau, sánh vai và đồng lòng trong công trình giúp đời. Chỉ có chung lòng, ta mới tiếp nhận và trao truyền được gia tài Thầy để lại cho thế hệ tương lai.
+Đại chúng đã cùng hát vang khúc ca “Giờ đây bên nhau”. Bài hát như là lời nguyện chung của cả tăng thân. Dù cho bao gian khó, ta vẫn đứng bên nhau, sánh vai và đồng lòng trong công trình giúp đời. Chỉ có chung lòng, ta mới tiếp nhận và trao truyền được gia tài Thầy để lại cho thế hệ tương lai.
 
 Những viên ngọc quý trong gia tài của Thầy như thiền ngồi, thiền hành, thiền lạy, thiền ca,… vẫn tiếp tục được thực tập và lan tỏa không chỉ bởi những người học trò xuất gia của Thầy. Những vị đệ tử tại gia với niềm thương kính, lòng biết ơn sâu sắc cũng đặt Thầy vào lòng, mang Thầy đi về tương lai và trở thành những sự tiếp nối đẹp của Thầy.
 

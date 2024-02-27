@@ -1,6 +1,7 @@
 const puppeteer = require('puppeteer')
 const fs = require('fs')
 const path = require("path")
+const os = require("os")
 const { exec } = require('child_process')
 
 // we want the link to remain unchanged even when new revisions are being uploaded with a timestamp
@@ -34,6 +35,10 @@ function execCMD(command, onFinshed = () => {}) {
         // console.log(`stderr: ${stderr}`)
     })
 
+    // https://nodejs.org/api/os.html#ossetprioritypid-priority
+    // 19 = lowest priority
+    os.setPriority(child.pid, 19)
+    
     child.on('exit', onFinshed)
 }
 
@@ -221,9 +226,10 @@ let workInProgress = 0
 let workQueue = [
 
     // () => generatePDF("http://localhost:8080/2024/en/a4/", `./docs/2024/en-a4`, onFinshed),
-    // () => generatePDF("http://localhost:8080/2024/en/a4-bleed/", `./docs/2024/en-a4-bleed`, onFinshed),
+    () => generatePDF("http://localhost:8080/2024/en/a4-bleed/", `./docs/2024/en-a4-bleed`, onFinshed),
     
-    () => generatePDF("http://localhost:8080/2024/vi/a4/", `./docs/2024/vi-a4`, onFinshed),
+    // () => generatePDF("http://localhost:8080/2024/vi/a4/", `./docs/2024/vi-a4`, onFinshed),
+    // () => generatePDF("http://localhost:8080/2024/vi/a4-bleed/", `./docs/2024/vi-a4-bleed`, onFinshed),
     
     
     // () => generatePDF("http://localhost:8080/2024/en/articles-print-preview/br-duc-dinh--a-day-of-alms/", `./docs/2024/br-duc-dinh--a-day-of-alms`, onFinshed),

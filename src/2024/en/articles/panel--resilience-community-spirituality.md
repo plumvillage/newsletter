@@ -3,7 +3,7 @@ title: Resilience, Community and Spirituality
 author: Satish Kumar, Thọ Hà Vĩnh and Rehena Harilall 
 ---
 
-<div class="editors-preface"><p>The following is an excerpt of the panel conversation on the theme of Resilience, Community, and Spirituality that took place in June 2023, during the "Love is Freedom" Earth Holder Retreat. Our three panelists were:</p>
+<div class="editors-preface"><p>The following is an excerpt of the panel conversation on the theme of Resilience, Community, and Spirituality that took place in June 2023, during the “Love is Freedom” Earth Holder Retreat. Our three panelists were:</p>
 {% image "article2024/Done-Resillence, Community, Spituality/Satish Kumar_e.jpg" %}
 <p><b>Satish Kumar</b> is the founder of Schumacher College for ecological studies. In 1962 he went on a peace walk of over 8,000 miles for two and a half years, from New Delhi to Moscow, Paris, London, and Washington, D.C. He is the author of the recently published book, titled Radical Love.</p>
 {% image "article2024/Done-Resillence, Community, Spituality/Dr.Ha Vinh Tho_e.jpg" %}
@@ -32,7 +32,7 @@ It was a great privilege and honor for me to meet Martin Luther King, Jr. when I
 
 I think we have to find our way and answer in love, and learn to love even people you may not like. Hatred cannot transform. Hatred can kill, but love can transform. 
 
-Hatred starts when you see others as separate from you, but we are not separate, we are all "inter-beings." There is no separation between humans and nature, between Buddhists and Christians, between blacks and whites, women and men, old and young, past and present. It’s all a continuum. It’s all relationship. Recognizing that eternal truth, we can follow the path of love.
+Hatred starts when you see others as separate from you, but we are not separate, we are all “inter-beings." There is no separation between humans and nature, between Buddhists and Christians, between blacks and whites, women and men, old and young, past and present. It’s all a continuum. It’s all relationship. Recognizing that eternal truth, we can follow the path of love.
 
 ***Sr. Lang Nghiem:*** How do you prevent yourself from falling into anger, despair, blame or hatred?
 
@@ -63,7 +63,7 @@ It’s easy to blame economic or political systems. However these systems are bu
 <!-- {% image "article2024/Done-Resillence, Community, Spituality/IMG_7899_.jpg" %} -->
 <!-- {% image "article2024/Done-Resillence, Community, Spituality/001_08232023.jpg" %} -->
 
-There’s no duality. When we cultivate that cosmic mind, we start to think of the whole cosmos as my country, the whole Earth as my home. "Eco" means home. Humans are as much nature as trees, mountains and forests. Before I’m a Buddhist, Christian, or any other religion, love is my religion. When you have that kind of understanding, you can bring social justice, build equity, and work for economic justice. There’s no separation between me and the world. Therefore, changing the world and changing myself are two aspects of one single reality.
+There’s no duality. When we cultivate that cosmic mind, we start to think of the whole cosmos as my country, the whole Earth as my home. “Eco” means home. Humans are as much nature as trees, mountains and forests. Before I’m a Buddhist, Christian, or any other religion, love is my religion. When you have that kind of understanding, you can bring social justice, build equity, and work for economic justice. There’s no separation between me and the world. Therefore, changing the world and changing myself are two aspects of one single reality.
 
 ***Rehena Harilall:*** I grew up in apartheid South Africa. From the time I was four years old, my entire life was focused on social justice. I learned that as activists, we need to look at the energy we are bringing. Are we using the same energy that has been used to create the suppression, the separation, to change the systems outside of ourselves? If so, we are just replacing one system with another, we’re not really changing anything, because there is still an attachment to my view as being the right view, the only view, and the dominant view. Recognizing this has been most important in my own activist career.
 
@@ -85,13 +85,13 @@ Systems change has three main dimensions. One is we need a new narrative that is
 
 The second one is living in harmony with the people around me, beginning with my families and friends, making sure I spend enough time with them. I just had a weekend with all my children and grandchildren, celebrating my lovely wife’s 70th birthday. Cultivating meaningful, kind, loving, and generous relationships with all the people whom I meet is the second source of happiness and well-being.
 
-And thirdly, living in harmony with nature, taking enough time to be in nature, in the forest, in the mountains, in the woods or just in a little garden, if that's all we have.
+And thirdly, living in harmony with nature, taking enough time to be in nature, in the forest, in the mountains, in the woods or just in a little garden, if that’s all we have.
 
 ***Rehena Harilall:*** Hope is something that needs to be cultivated. Building my resilience is a sign of hope for me. I love dancing. I love music. So, it gives me great happiness to start the day with a dance and a song that gives me joy for the rest of the day. Emotions may come and go, but I can still remember how I started my day.
 
 I try to be very aware of the intention behind my actions, because if I do an action with a mindset of acting without expecting to get a benefit for me, then I’m in service, because my action already has the spirit of unconditionality that I want to see in the world. That gives me active hope and joy.
 
-When I am feeling despair, I go for a walk in nature. Sometimes I just lie on the ground and say, “Oh, just hold me.” Feeling the connection with something larger than you are, puts so many things in perspective. Life continues, whether I’m here to reap the benefit of what I have done or not. In the Zulu tradition, when people die, they say "we kneel" because someone else can climb on our shoulders. When I transition on, when we all transition on, we’ve laid some foundation for someone else to stand on and continue the work, that gives me hope- there is a continuation.
+When I am feeling despair, I go for a walk in nature. Sometimes I just lie on the ground and say, “Oh, just hold me.” Feeling the connection with something larger than you are, puts so many things in perspective. Life continues, whether I’m here to reap the benefit of what I have done or not. In the Zulu tradition, when people die, they say “we kneel” because someone else can climb on our shoulders. When I transition on, when we all transition on, we’ve laid some foundation for someone else to stand on and continue the work, that gives me hope- there is a continuation.
 
 {% image "article2024/Done-Resillence, Community, Spituality/IMG_2714_e.jpg" %}
 

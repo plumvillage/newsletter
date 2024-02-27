@@ -1749,8 +1749,9 @@ figure#article2024Done-Sr-Tuyet-NIMG6618ecut + p {
     padding-top: 0mm;
     padding-left: 56mm;
 }
+
 figure#article2024Sr-DJinh-NCamellialightened {
-    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + 0mm) * -1 + 5mm);
+    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + 0mm) * -1 + 3mm);
     margin: 0;
     max-width: none!important;
     position: absolute;

@@ -11,7 +11,7 @@ author: Sư cô Chân Trì Nghiêm
 
 ## Đại hội Tôn giáo Thế giới là gì?
 
-Đại hội Tôn giáo Thế giới (Parliament of the World's Religions) là một hội nghị quốc tế của các nhà lãnh đạo tôn giáo và những người thực tập tâm linh, những người phát nguyện xây dựng tình huynh đệ và kết nối đa văn hóa, liên tôn giáo để giúp tăng cường sự hiểu biết lẫn nhau, đem lại sự khoan dung, hòa bình, công bằng, và một thế giới bền vững hơn.
+Đại hội Tôn giáo Thế giới (Parliament of the World’s Religions) là một hội nghị quốc tế của các nhà lãnh đạo tôn giáo và những người thực tập tâm linh, những người phát nguyện xây dựng tình huynh đệ và kết nối đa văn hóa, liên tôn giáo để giúp tăng cường sự hiểu biết lẫn nhau, đem lại sự khoan dung, hòa bình, công bằng, và một thế giới bền vững hơn.
 
 Đại hội Tôn giáo Thế giới lần đầu tiên diễn ra tại Chicago vào năm 1893, tạo ra một nền tảng toàn cầu cho sự đối thoại và dấn thân liên tôn. Đây là một sự kiện lịch sử được nhiều người coi là sự khởi đầu của phong trào Liên tôn hiện đại. Nhiều học giả cảm thấy rằng lời kêu gọi khoan dung tôn giáo của Swami Vivekananda, nhà lãnh đạo tôn giáo người Ấn Độ, tại sự kiện khai mạc này là nhân tố chính góp phần vào sự phát triển của các tôn giáo phương Đông ở phương Tây. Một trăm năm sau, vào năm 1993, Đại hội lần thứ hai cũng diễn ra ở Chicago. Sau đó, Đại hội đã được tổ chức vài năm một lần tại các thành phố khác nhau trên thế giới. Đại hội năm 2023 tại Chicago là hội nghị quốc tế lần thứ chín và có sự tham dự của hơn tám nghìn người từ hơn 95 quốc gia, đại diện cho hơn 200 tôn giáo và truyền thống tâm linh.
 

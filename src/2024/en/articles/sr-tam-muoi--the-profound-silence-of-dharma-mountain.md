@@ -38,7 +38,7 @@ Joy was with us and around us. Master Linji reminds us that we are already enoug
 {% image "article2024/sr-tam-muoi/IMG-20230913-WA0001_e.jpg", "noFloat" %}
 {% image "article2024/sr-tam-muoi/IMG_20230922_105816.jpg", "noFloat" %}
 
-Falling in love again and again with our beautiful planet; here, it is easy to gladden the mind.<span class="note">A reference to the 10<sup>th</sup> exercise of the Discourse on the Full Awareness of Breathing.</span> Breath became a friend ever present in my body. Walking slowly up and down in the meditation hall, my feet felt huge and soft, like I was padding with a lion's paws, with nowhere to go. *“We are already what we want to become.”*
+Falling in love again and again with our beautiful planet; here, it is easy to gladden the mind.<span class="note">A reference to the 10<sup>th</sup> exercise of the Discourse on the Full Awareness of Breathing.</span> Breath became a friend ever present in my body. Walking slowly up and down in the meditation hall, my feet felt huge and soft, like I was padding with a lion’s paws, with nowhere to go. *“We are already what we want to become.”*
 
 Later, our sharing circle was silently journaling, together under the pines, responding to questions: “What, where and how do you feel in your body? What is alive in your senses? What resistances are present? What cows (attachments) would you like to let go of? What conditions for joy do I already have?”
 
@@ -69,7 +69,7 @@ As the end of the retreat approached, we were invited to gently ease out of our 
 
 ## Saturday
 
-Before our last sitting meditation session, we listened once more to Thay's encouraging words: “Sitting meditation is an act of civilization… It is priceless. You simply sit there, not doing anything. You are happy to be aware that you are sitting on a very beautiful planet, revolving in a galaxy of stars. You are sitting in the lap of the Earth and over your head there are trillions of stars. If you can sit and see that, what else do you need to sit for. You are in touch with the universe, and your happiness is immense.”
+Before our last sitting meditation session, we listened once more to Thay’s encouraging words: “Sitting meditation is an act of civilization… It is priceless. You simply sit there, not doing anything. You are happy to be aware that you are sitting on a very beautiful planet, revolving in a galaxy of stars. You are sitting in the lap of the Earth and over your head there are trillions of stars. If you can sit and see that, what else do you need to sit for. You are in touch with the universe, and your happiness is immense.”
 
 <div class="article-end"></div>
 

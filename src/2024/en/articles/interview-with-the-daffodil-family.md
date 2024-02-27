@@ -26,7 +26,7 @@ author: Interview with the Daffodil ordination family
 
 Before, I had never felt like having a clear path. I often acted out of fear and stress, trying to survive in the world. But this path was just there for me to walk very calmly and joyfully. The feeling was very much one of letting go of fear. Deciding to become a monastic felt very light and freeing.
 
-***Br. Nhat Moc*** *(True Tree of Oneness):* To make a long story short; I read many of Thay's books and I felt I wanted to become a monk, even though I had never been to Plum Village. I thought, even if Plum Village is only half as good as I think it is from reading the books, it’s still the place I want to become a monk at. So on the first day of being in Plum Village, I said, "I want to become a monk here. This is the place."
+***Br. Nhat Moc*** *(True Tree of Oneness):* To make a long story short; I read many of Thay’s books and I felt I wanted to become a monk, even though I had never been to Plum Village. I thought, even if Plum Village is only half as good as I think it is from reading the books, it’s still the place I want to become a monk at. So on the first day of being in Plum Village, I said, "I want to become a monk here. This is the place."
 
 ***Newsletter team:*** We remember you approached one of us, (enthusiastically) “I wanna become a monk, how do I do it.” And we said: “Ok. Ok. Arrive first.” (laughter)
 
@@ -34,7 +34,7 @@ Before, I had never felt like having a clear path. I often acted out of fear and
 
 <div class="removeTopMarginInFollowingElem"></div>
 
-***Br. Nhat Thanh*** *(True Clarity of Oneness):* In 2019/2020, I was a long-term at Healing Spring Monastery for nine months. Following that, I became a resident at a Tibetan meditation center in Belgium for two years (Les Jardins de Méditation de Samyé). I came to Plum Village to volunteer for the 40th anniversary of Plum Village retreat , and have been staying at Upper Hamlet since then. I was in love with the Dharma and with Thay’s teachings and presence, but becoming a monastic was not obvious to me yet. After attending the class for those with an aspiration to ordain  and receiving encouragement from friends, I thought I could do it. Given my history of anxiety/fear and difficulty making commitments, I was at first a bit uneasy with the lifetime monastic commitment. However, after sharing more with some brothers, I felt more at ease.
+***Br. Nhat Thanh*** *(True Clarity of Oneness):* In 2019/2020, I was a long-term at Healing Spring Monastery for nine months. Following that, I became a resident at a Tibetan meditation center in Belgium for two years (Les Jardins de Méditation de Samyé). I came to Plum Village to volunteer for the 40th anniversary of Plum Village retreat , and have been staying at Upper Hamlet since then. I was in love with the Dharma and with Thay’s teachings and presence, but becoming a monastic was not obvious to me yet. After attending the class for those with an aspiration to ordain and receiving encouragement from friends, I thought I could do it. Given my history of anxiety/fear and difficulty making commitments, I was at first a bit uneasy with the lifetime monastic commitment. However, after sharing more with some brothers, I felt more at ease.
 
 {% image "article2024/Done-Daffodil family/Br.Nhất Xuân_e2.jpg" %}
 
@@ -118,7 +118,7 @@ On Days of Mindfulness, I sometimes feel overwhelmed by the amount of people pre
 
 ***Br. Nhat Nguyen:*** As a child, I spent some time in a spiritual community and I think I always wanted to come back to that. Coming from Sweden, I’m very aware of how it is to be alone. It’s horrible, actually. From that point of view, I don’t understand how people manage *not* to live in a community.
 
-Some of my difficulties living in a community revolve around how to behave socially. Do you say "Hello" or not? Is the other person ready for me to share my joy with? Living together is the best way for me to understand myself, who I am, how I behave. When I go to bed, I like to think about my roommates and extend love to them. Those things make me so happy.
+Some of my difficulties living in a community revolve around how to behave socially. Do you say “Hello” or not? Is the other person ready for me to share my joy with? Living together is the best way for me to understand myself, who I am, how I behave. When I go to bed, I like to think about my roommates and extend love to them. Those things make me so happy.
 
 ***Sr. Dieu Hanh:*** I clearly see how living in community and especially sharing a room supports my practice and makes me very happy. It is so much easier to practice in such a calm and mindful environment. When my blood sister saw my room, she said, “Now you’re sharing a room again.”
 

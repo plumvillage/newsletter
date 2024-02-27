@@ -13,7 +13,7 @@ author: Brother Chân Trời Hải Thượng (1990—2023)
 
 ## Monday
 
-I lay on the green hammock along the corridor right next to the garden at the center of the monks’ residence. The hamlet is usually filled with people, but the lazy days turns it into a deserted place. Everyone was gone so I didn’t need to look for a peaceful space anywhere else. After a long while, a brother passed by seeing me engrossed in reading, he teased, “Are you truly being lazy?” Knowing the brother was only teasing, I just smiled. "Being lazy" is the opposite of "being diligent." How interesting to think that at the beginning of the week, while everyone out there was preoccupied with getting back to their work to earn a living, we did not have any scheduled sitting meditation, walking meditation, or eating in noble silence.
+I lay on the green hammock along the corridor right next to the garden at the center of the monks’ residence. The hamlet is usually filled with people, but the lazy days turns it into a deserted place. Everyone was gone so I didn’t need to look for a peaceful space anywhere else. After a long while, a brother passed by seeing me engrossed in reading, he teased, “Are you truly being lazy?” Knowing the brother was only teasing, I just smiled. “Being lazy” is the opposite of “being diligent." How interesting to think that at the beginning of the week, while everyone out there was preoccupied with getting back to their work to earn a living, we did not have any scheduled sitting meditation, walking meditation, or eating in noble silence.
 
 Brother Kai Li shared that when he first came to Plum Village, he was shocked to learn that there was laziness at a monastery! Wouldn’t people usually strive to encourage each other to be diligent? It wasn’t that there were no such things as lazy monks; but to have a “lazy day” as part of the schedule for an entire monastery was something worthy of mention. At that moment, Thay said very earnestly to Br. Kai Li, “Yes, you should be as lazy as possible.” Later, Br. Kai Li realized it was a very deep practice indeed.
 
@@ -47,7 +47,7 @@ This paragraph reminded me of a time in Germany, when a laywoman asked Thay now 
 
 > “Everyday, Thay is able to live and do the things he likes. Thay no longer has any projects or dreams.”
 
-What Thay emphasized was that, we could touch our dreams right away if we wanted to. How? Thay had already thoroughly taught us. Countless times, we, monks and nuns, sang “It needs you to breathe gently for the miracles to be displayed” (from the song/poem "Our True Heritage"). During a sitting meditation, we might again hear Thay’s warm voice in our ears:
+What Thay emphasized was that, we could touch our dreams right away if we wanted to. How? Thay had already thoroughly taught us. Countless times, we, monks and nuns, sang “It needs you to breathe gently for the miracles to be displayed” (from the song/poem “Our True Heritage”). During a sitting meditation, we might again hear Thay’s warm voice in our ears:
 
 > “Dear Lord Buddha… when I breathe in, I see that I have arrived. When I breathe out, I see that I am home. I have come home to the present moment. This is my true homeland. I have arrived, in touch with the wonders of life, with the Pure Land in the present moment. This can be done within one in-breath or one out-breath. If I am able to arrive, to come home, then what more do I need to do? I can enjoy myself as I please in the Buddha Land.”
 
@@ -58,7 +58,7 @@ I was planning to reserve Friday evening to find the last few pieces of informat
 
 Wandering around, I coincidentally came across an article by Br. Minh Hy sharing about something Thay taught:
 
-> “The first fruit of the Plum Village practice ‘I have arrived, I am home’ is a little different from the fruit of the traditional practice ‘Stream-enterer.’ With ‘Stream-enterer’, one still has to continue going, whereas with ‘I have arrived, I am home,’ one no longer needs to search for anything more. ‘No need to search further' (Người chẳng tìm cầu chi nữa) – this is a very good phrase; we need to write it down. It would be a pity if we lose it. Whoever has realized this fruit of the practice, looking at them we would know right away; no need for them to say anything.”
+> “The first fruit of the Plum Village practice ‘I have arrived, I am home’ is a little different from the fruit of the traditional practice ‘Stream-enterer.’ With ‘Stream-enterer’, one still has to continue going, whereas with ‘I have arrived, I am home,’ one no longer needs to search for anything more. ‘No need to search further’ (Người chẳng tìm cầu chi nữa) – this is a very good phrase; we need to write it down. It would be a pity if we lose it. Whoever has realized this fruit of the practice, looking at them we would know right away; no need for them to say anything.”
 
 <p class="noIndent">The entire parallel verses were as follows:</p>
 

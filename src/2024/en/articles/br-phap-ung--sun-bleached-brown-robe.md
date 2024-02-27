@@ -84,7 +84,7 @@ All nourish the entire Village.</p></div> -->
 
 While walking in the forest with Thay one day, he said “This is heaven, my child!” Arriving at a narrow path, Thay said “You go ahead.” But I didn’t dare. Thay said again, “Go on.” I had to obey. I could feel that Thay was sending me the message that he would always have my back. Thay also wrote a calligraphy “Thay is behind you” (Thầy ở sau lưng con).
 
-Many of my monastic siblings did not have the chance to meet Thay; but if they are lucky, they would somehow be able to feel that Thay is always present to support them. Although Thay has passed away, his aspiration is still: “May we never have the need to leave the Sangha body. May we never attempt to escape the suffering of the world, may we always being present wherever beings need our help” (from the chant "Protecting and Transforming").
+Many of my monastic siblings did not have the chance to meet Thay; but if they are lucky, they would somehow be able to feel that Thay is always present to support them. Although Thay has passed away, his aspiration is still: “May we never have the need to leave the Sangha body. May we never attempt to escape the suffering of the world, may we always being present wherever beings need our help” (from the chant “Protecting and Transforming”).
 
 Thay’s practice is dwelling happily in the present moment. The present moment is eternal, transcending time and space. Being in touch with the present moment can greatly benefit us. *I have arrived, I am home.* It’s like we have returned to our roots. That is the inheritance, the insight that Thay wants us to have.
 
