@@ -50,7 +50,7 @@ Chương trình vẫn duy trì hoạt động thường niên vào mỗi cuối 
 
 Bên cạnh đó, vào những tháng 10, 11 năm 2023, nhờ sự hỗ trợ kịp thời từ quý vị ân nhân và sự quan tâm, chia sẻ, động viên trực tiếp từ quý thầy, quý sư cô ở tu viện Từ Hiếu - Diệu Trạm đại diện cùng với các bác trong Tăng thân Tiếp hiện Huế và Quảng Trị, 1.200 phần quà đã được cấp tốc san sẻ đến với bà con miền Trung sau đợt thiên tai bão lụt nặng nề. Và đây là một trích đoạn ngắn từ chia sẻ của một bác Tiếp hiện:
 
-> “Sư cô ơi, chuyến đi tuy quá vội vàng vì vừa nhận được thông tin chiều hôm kia thì đến chiều hôm qua, đoàn đã triển khai đi liền để kịp thời cứu trợ bão lụt ở các xã Quảng Thành, Quảng An và Quảng Thọ, thuộc huyện Quảng Điền, TT Huế, những nơi bị ngập lụt rất nặng. Nhưng đi đến đâu cũng được sư cô Như Hiếu chia sẻ và quý sư cô hướng dẫn hát những bài thiền ca cho bà con, ai cũng hạnh phúc lắm! Đi đến đâu cũng nhận được ánh mắt trông chờ và ngời sáng của bà con nên chúng con hết mỏi mệt luôn.”
+> “Sư cô ơi, chuyến đi tuy quá vội vàng vì vừa nhận được thông tin chiều hôm kia thì đến chiều hôm qua, đoàn đã triển khai đi liền để kịp thời cứu trợ bão lụt ở các xã Quảng Thành, Quảng An và Quảng Thọ, thuộc huyện Quảng Điền, Huế, những nơi bị ngập lụt rất nặng. Nhưng đi đến đâu cũng được sư cô Như Hiếu chia sẻ và quý sư cô hướng dẫn hát những bài thiền ca cho bà con, ai cũng hạnh phúc lắm! Đi đến đâu cũng nhận được ánh mắt trông chờ và ngời sáng của bà con nên chúng con hết mỏi mệt luôn.”
 
 Những món quà tinh thần vẫn không ngừng tiếp bước trên những nẻo đường lan tỏa yêu thương.
 
