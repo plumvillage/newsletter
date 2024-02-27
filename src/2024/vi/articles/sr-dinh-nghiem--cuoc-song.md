@@ -3,7 +3,7 @@ title: Cuộc sống
 author: Sư cô Chân Đính Nghiêm
 ---
 
-{% image "article2024/Sr. Đính N/Camellia_lightened.jpg" %}
+{% image "article2024/Sr. Đính N/Camellia_lightened_cutToA4Width.jpg" %}
 
 <div class="verse">
 <p>Cuộc sống xoay vần<br/>

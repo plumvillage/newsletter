@@ -46,14 +46,6 @@ body {
 }
 
 @page:left {
-    /* A4 Margins: 33.27pt = 11.7369167mm */
-    /* 64pt = 22.57777mm */
-    /* margin-right: 22.57777mm;
-    margin-left: 11.7369167mm; */
-
-    /* for Letter format */
-    /* margin-right: 37.078mm;
-    margin-left: 16.7369167mm; */
     @bottom-left {
         /* top right bottom left*/
         padding: 10pt 0 10pt 0;
@@ -63,13 +55,6 @@ body {
 }
 
 @page:right {
-    /* A4 */
-    /* margin-right: 11.7369167mm;
-    margin-left: 22.57777mm; */
-
-    /* for Letter format */
-    /* margin-right: 16.7369167mm;
-    margin-left: 37.078mm; */
     @bottom-right {
         padding: 10pt 0 10pt 120pt;
         content: counter(page);
@@ -1750,19 +1735,6 @@ figure#article2024Done-Sr-Tuyet-NIMG6618ecut + p {
     padding-left: 56mm;
 }
 
-figure#article2024Sr-DJinh-NCamellialightened {
-    bottom: calc((var(--pagedjs-margin-bottom) + var(--pagedjs-footnotes-height) + var(--bleed) + 0mm) * -1 + 3mm);
-    margin: 0;
-    max-width: none!important;
-    position: absolute;
-    z-index: -1;
-    width: 160mm;
-    right: -14mm;
-    overflow: visible;
-}
-
-
-
 
 
 .article-giai-toa-han-thu-khoi-suoi-yeu-thuong .editors-preface::after {
@@ -1977,7 +1949,6 @@ figure.lmnq5 {
 
 /* toc */
 html:lang(vi) .PAGE-OF-article2024Br-Phap-HuuThay-Phap-Huu-3-Rob-Walshe .pagedjs_margin-bottom,
-.PAGE-OF-article2024Sr-DJinh-NCamellialightened .pagedjs_margin-bottom,
 div[data-page-number="3"] .pagedjs_margin-bottom {
     display: none;
 }

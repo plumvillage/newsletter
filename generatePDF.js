@@ -38,7 +38,7 @@ function execCMD(command, onFinshed = () => {}) {
     // https://nodejs.org/api/os.html#ossetprioritypid-priority
     // 19 = lowest priority
     os.setPriority(child.pid, 19)
-    
+
     child.on('exit', onFinshed)
 }
 
@@ -226,21 +226,15 @@ let workInProgress = 0
 let workQueue = [
 
     // () => generatePDF("http://localhost:8080/2024/en/a4/", `./docs/2024/en-a4`, onFinshed),
-    () => generatePDF("http://localhost:8080/2024/en/a4-bleed/", `./docs/2024/en-a4-bleed`, onFinshed),
+    // () => generatePDF("http://localhost:8080/2024/en/a4-bleed/", `./docs/2024/en-a4-bleed`, onFinshed),
+    () => generatePDF("http://localhost:8080/2024/en/letter/", `./docs/2024/en-letter`, onFinshed, {format: "Letter"}),
     
     // () => generatePDF("http://localhost:8080/2024/vi/a4/", `./docs/2024/vi-a4`, onFinshed),
     // () => generatePDF("http://localhost:8080/2024/vi/a4-bleed/", `./docs/2024/vi-a4-bleed`, onFinshed),
     
     
     // () => generatePDF("http://localhost:8080/2024/en/articles-print-preview/br-duc-dinh--a-day-of-alms/", `./docs/2024/br-duc-dinh--a-day-of-alms`, onFinshed),
-    // () => generatePDF("http://localhost:8080/2024/en/articles-print-preview/br-phap-huu--music-a-dharma-door/", `./docs/2024/br-phap-huu--music-a-dharma-door`, onFinshed),
-    // () => generatePDF("http://localhost:8080/2024/vi/articles-print-preview/bbt--lang-mai-nam-qua-2024/", `./docs/2024/lmnq`, onFinshed),
 
-    // () => generatePDF("http://localhost:8080/2024/en/articles-print-preview/test/", `./docs/2024/test`, onFinshed),
-    // () => generatePDF("http://localhost:8080/2024/en/articles-print-preview/sr-hien-hanh--the-calling/", `./docs/2024/sr-hien-hanh--the-calling`, onFinshed),
-    
-    // () => generatePDF("http://localhost:8080/2024/vi/a4-bleed/", `./docs/2024/vi-a4-bleed`, onFinshed),
-    
     
     // () => generatePDF("http://localhost:8080/2023/en/a4/", `./docs/2023/en-a4`, onFinshed),
     // () => generatePDF("http://localhost:8080/2023/en/a4-bleed/", `./docs/2023/en-a4-bleed`, onFinshed),
@@ -266,9 +260,6 @@ let workQueue = [
     // () => generatePDF("http://localhost:8080/2022/vi/a4-bleed/", `./docs/2022/vi-a4-bleed`, onFinshed),
     
     // () => onFinshed("./docs/2023/vi-a4-bleed_2023-02-14_13-42-06.pdf", "./docs/2023/vi-a4-bleed.pdf"),
-    // () => onFinshed("./docs/2023/en-a4_2023-02-14_17-21-23.pdf", "./docs/en-a4.pdf"),
-    // () => onFinshed("./docs/2023/en-a4-bleed_2023-02-14_13-42-06.pdf", "./docs/en-a4-bleed.pdf"),
-    // () => onFinshed("./builds/marisela-gomez--arise-sangha_2023-02-14_08-51-19.pdf", "./builds/marisela-OUTPUT.pdf"),
 
     () => {
         console.log("begin downsampling. More hands! :)")
