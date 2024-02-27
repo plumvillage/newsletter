@@ -3,7 +3,7 @@ title: Chạy bộ để dừng lại
 author: Sư cô Chân Trăng Lâm Hỷ
 ---
 
-<p class="editors-preface">Sư cô Trăng Lâm Hỷ, người Đức, xuất gia năm 2022 trong gia đình cây Mimosa tại Làng Mai – Pháp. Hiện sư cô đang sống, tu tập và phụng sự tại xóm Hạ, Làng Mai – Pháp. Bài viết sau đây được chuyển ngữ từ tiếng Anh.</p>
+<p class="editors-preface">Sư cô Trăng Lâm Hỷ, người Đức, xuất gia năm 2022 trong gia đình cây Mimosa. Hiện sư cô đang sống, tu tập và phụng sự tại xóm Hạ, Làng Mai Pháp. Bài viết sau đây được chuyển ngữ từ tiếng Anh.</p>
 
 Ba tháng An cư năm nay là một thử thách đối với con, bởi vì đúng như tên gọi “Rains retreat” (an cư mùa mưa), trời mưa liên miên và không dễ sắp xếp thời gian để tập thể dục, nhất là nếu muốn chạy bộ.
 
