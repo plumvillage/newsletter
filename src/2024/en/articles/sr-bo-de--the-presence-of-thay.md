@@ -4,7 +4,7 @@ author: Sister Chân Trăng Bồ Đề
 ---
 
 
-<p class="editors-preface">Sister Trang Bo Đe is of Vietnamese origin. She ordained in 2016 in the Kanikonna Tree ordination family at Thai Plum Village. She has been residing, practicing and serving at New Hamlet, Plum Village, France, since 2016. She is great at playing with children, as well as having fun in teaching Vietnamese to her non-Vietnamese monastic siblings.</p>
+<p class="editors-preface">Sister Trang Bo Đe is of Vietnamese origin. She ordained in 2016 in the Kanikonna Tree ordination family in Thai Plum Village. She has been residing, practicing and serving at New Hamlet, Plum Village, France, since 2016. She is great at playing with children, as well as having fun in teaching Vietnamese to her non-Vietnamese monastic siblings.</p>
 
 {% image "article2024/Done-Sr-Bo-De/_DSC7412.jpg", "removeTopMargin" %}
 
@@ -18,7 +18,7 @@ The sound of the town church bell in the distance echoed at intervals across the
 
 During this Rains Retreat, the time for walking meditation on our monastic Days of Mindfulness truly became an opportunity for me to practice the art of stopping, to let go of my thinking and mental to-do lists, and return to the present moment, to simply be aware that I was walking. After two morning classes, there was nothing more wonderful than being outdoors, breathing in the fresh air and playing with nature. Walking meditation was the time to play for me.
 
-<div class="verse"><p>The bell is calling.<br/>
+<div class="verse"><p>“The bell is calling.<br/>
 Our feet kiss the Earth.<br/>
 Our eyes embrace the Sky.<br/>
 We walk in mindfulness.<br/>
@@ -27,8 +27,8 @@ This is still springtime,<br/>
 when everything is manifesting itself<br/>
 so rapidly.<br/>
 The snow is green.<br/>
-And the sunshine is falling like the rain.<br/>
-<cite>from <i>Call Me By My True Names</i> by Thich Nhat Hanh</cite></p></div>
+And the sunshine is falling like the rain.”<br/>
+<cite>—from the poem “Cuckoo Telephone”</cite></p></div>
 
 I remember during grade school, my friends and I would long for the school bell to ring so that we could immediately close our books and pour into the canteen to buy snacks and sweets. The two morning classes on the monastic Day of Mindfulness brought me back to the elementary school days when I learned to befriend the written words, blackboards and white chalk. For the sake of the younger monastics, the elders converted the classic schedule of morning Dharma talk and afternoon Dharma sharing sessions into classes on various topics throughout this Rains Retreat. There was a class on how the mind and brain affect our lives by Sr. Hoi Nghiem, a class on Buddhist psychology by Sr. Tue Nghiem, a class on comparative ethics by Sr. Hien Nghiem, and a handful of other classes. These classes had succeeded in sparking enthusiasm among monastics, kindling a unique vivacity for this memorable Rains Retreat.
 
@@ -51,7 +51,7 @@ Despite my ability to learn only a fraction of what was taught, after three mont
 
 After five sessions of in-depth learning about the Great Bhikshu/Bhikshuni Precepts, the brothers and sisters had three classes to choose from for the first of the morning classes. We could either choose to continue with the class by Sr. Chan Duc to further discuss the precepts and offer our insights on how to revise the Great Precepts; attend the class by Br. Phap Huu on Plum Village monastic culture; or join the workshop by Br. Troi Bao Tang and Sr. Trang Tam Muoi on how to apply Thay’s teachings to contemporary issues in the West. Skimming through the three topics, I felt curious and inspired to learn more about monastic culture. So I signed up for that class. Although it was different from how I imagined it would be, I still felt that each hour in class was a source of joy.
 
-We got to hear about the “origin stories” of the 5-year monastic program, of hugging meditation, of the annual tradition of the monastic brothers and sisters taking turn to touch the Earth in front of each other in the Lunar New Year ceremony<span class="note">A Plum Village practice for the monastic sangha since 1999. During the annual Lunar New Year celebration, the monks would stand facing the nuns, while the nuns sit still with joined palms. One monk would read aloud a text recognizing the presence of Avalokiteshvara, the Bodhisattva of Great Compassion, in every nun, and declaring the vow to practice their precepts properly to protect their monastic path and the monastic path of the nuns. After the reading, the monks would prostrate three times in front of the nuns. Then the nuns would do the same, but reading aloud a text recognizing the presence of Samantabhadra, the Bodhisattva of Great Action, in every monk; subsequently, the nuns would prostrate three times in front of the monks.</span>, of how Thay simplified the religious Buddhist practices so that the teachings of the Buddha could be applied in western society on the basis of mindfulness practices, etc.
+We got to hear about the “origin stories” of the 5-year monastic program, of hugging meditation, of the annual tradition of the monastic brothers and sisters taking turn to touch the Earth in front of each other in the Lunar New Year ceremony<span class="note">A Plum Village practice for the monastic sangha since 1999. During the annual Lunar New Year celebration, the monks would stand facing the nuns, while the nuns sit still with joined palms. One monk would read aloud a text recognizing the presence of Avalokiteshvara, the Bodhisattva of Great Compassion, in every nun, and declaring the vow to practice their precepts properly to protect their monastic path and the monastic path of the nuns. After the reading, the monks would prostrate three times in front of the nuns. Then the nuns would do the same, but reading aloud a text recognizing the presence of Samantabhadra, the Bodhisattva of Great Action, in every monk; subsequently, the nuns would prostrate three times in front of the monks.</span>, of how Thay simplified the religious Buddhist practices so that the teachings of the Buddha could be applied in Western society on the basis of mindfulness practices, etc.
 
 Through his easygoing demeanor, witty storytelling ability and open-mindedness, it was captivating to listen to Br. Phap Huu share about Thay and the traditions of Plum Village. “Did you know, brothers and sisters, that when I and a group of young monastics performed a rap song for the first time in the history of Plum Village, a few monastics in the audience questioned whether or not it was appropriate for the monastic fine manners and if it was suitable for the environment of a monastery? This reached Thay’s ears and he invited me to see him at the Toadskin Hut. Sitting across from Thay, I thought Thay would surely reprimand me. But, no. Thay only smiled and said only one thing: ‘This is my kind of Buddhism.’"
 
@@ -92,7 +92,7 @@ two hands protecting,<br/>
 two hands nourishing,<br/>
 two hands preventing<br/>
 my soul from leaving me<br/>
-in anger.”<br/><cite>From the poem “For warmth,” see <i>Call Me By My True Names</i> by Thich Nhat Hanh</cite></p></div>
+in anger.”<br/><cite>—From the poem “For Warmth”</cite></p></div>
 
 The great poet, Nguyen Du, once wrote, “The body may have transcended, but its essence remains” *(Thác là thể phách, còn là tinh anh)*. Thay is an incense that has burned to its end, but its fragrance will permeate the air for eternity.
 
