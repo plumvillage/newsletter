@@ -50,7 +50,3 @@ Viết sổ công phu giúp tôi hiểu và làm việc với các cảm xúc c�
 Nhờ sổ công phu mà tôi có thể an trú trong hiện tại. Không lo lắng về quá khứ hoặc tương lai làm cho tôi có cảm giác rất bình an, thân tâm thư giãn. Khi đó tôi có cơ hội chậm lại, thưởng thức hơi thở, *lật sang một trang mới* mà vẫn có thể trung thực với ý nghĩ và cảm xúc của mình.
 
 Giờ đây, trở về với những điều kiện hạnh phúc trong giây phút hiện tại trở thành một điều rất đỗi tự nhiên trong tôi, nhờ có một người bạn thật sự hiện diện với một tâm từ bi vô điều kiện như thế.
-
-<!-- <div class="article-end"></div> -->
-
-<!-- {% image "article2024/sr-dao-nghiem/Sr. Dao N with Daffodil sisters_e.jpg" %} -->

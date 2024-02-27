@@ -61,5 +61,4 @@ Mới trót thương tất cả,…
 
 <div class="article-end"></div>
 
-<!-- {% image "article2024/Br Hai Thuong/VNE/Trot thuong/_DSC2313_e.JPG" %} -->
 {% image "article2024/Br Hai Thuong/349311026_182331228114367_8917641110804663799_n.jpg" %}

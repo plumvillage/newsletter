@@ -9,10 +9,6 @@ Nhắc đến tình thương, tôi không khỏi nghĩ đến Thầy. Mỗi lầ
 
 {% image "article2024/Done-Sr. Uyen Nghiem/Article - Sr. Uyen N/DSC_0236_e.JPG" %}
 
-<!-- {% image "article2024/Done-Sr. Uyen Nghiem/Poem-Sr. Uyen N/L1004967.jpg" %}
-{% image "article2024/Done-Sr. Uyen Nghiem/Poem-Sr. Uyen N/con duy tri dia xuc.JPG" %}
-{% image "article2024/Done-Sr. Uyen Nghiem/Poem-Sr. Uyen N/L1004533.JPG" %} -->
-
 Trên đường đi ra sân bay, Thầy nói với tôi: “Ồ, con kể chuyện cho Thầy nghe đi. Dạo này con tu học có vui không? Các anh chị em sống với nhau như thế nào?”. Vâng lời Thầy, tôi ngồi líu lo kể hết chuyện này sang chuyện kia và thầy trò cười với nhau rất vui. Cứ như vậy, đi được hơn nửa đường, Thầy chợt hỏi tôi: “Lúc nãy đi ra, con có cầm cái đãy (túi vải) của Thầy không?”. Tôi hết hồn, trả lời Thầy: “Dạ không”.
 
 Trong đãy của Thầy có máy ghi âm. Những lúc Thầy đi dạy ở ngoài, những bài pháp thoại có lúc được quay phim, có lúc không, nhưng thường thì Thầy có đem theo máy ghi âm để tự thâu lại những bài giảng. Thứ nhất là để lưu lại làm tư liệu, thứ hai là Thầy biết đó là tài sản mà Thầy để lại cho thế hệ tương lai. Đi chung với Thầy vui quá nên tôi hoàn toàn không nhớ và cũng không biết là mình cần đem theo cái gì cho Thầy.
@@ -58,5 +54,4 @@ Thầy trả lời rằng đức Bụt tương lai đã có mặt rồi. Tại v
 *Sen búp xin tặng người. Một vị Bụt tương lai.*
 <div class="article-end" style="margin-bottom: 3em;"></div>
 
-<!-- {% image "article2024/Done-Sr. Tuyet N/DSC00153_e.JPG" %} -->
 {% image "article2024/Done-Br-Phap-Luu/DSC02105_e.JPG" %}

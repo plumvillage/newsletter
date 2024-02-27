@@ -89,10 +89,6 @@ Thank you, dear beloved Sangha, for being my spiritual family, and for making po
 <div class="article-end"></div>
 <div class="page-break"></div>
 
-<!-- 3x4 side-by-side -->
-<!-- {% image "article2024/Done-Br.Đức Định/Rains retreat 23-24_10_e.jpg" %}
-{% image "article2024/Done-Br.Đức Định/Rains retreat 23-24_1_e.jpg" %} -->
-
 {% image "article2024/Done-Br.Đức Định/Rains retreat 23-24_9.jpg", "noFloat" %}
 {% image "article2024/Done-Br.Đức Định/Rains retreat 23-24_22.jpg", "noFloat" %}
 {% image "article2024/Done-Br.Đức Định/Rains retreat 23-24_35.jpg", "noFloat" %}

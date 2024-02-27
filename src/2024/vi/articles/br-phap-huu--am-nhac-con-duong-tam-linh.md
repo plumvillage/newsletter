@@ -45,8 +45,6 @@ Tuệ giác của đạo Bụt đã được tiếp nối từ 2600 năm qua và
 
 Thầy từng nói rằng những việc chúng ta làm không phải là điều gì mới mẻ, thực ra điều này đã có trong truyền thống. Ví dụ, trống từng được sử dụng trong chiến trận để làm hiệu lệnh. Nhưng trống cũng được sử dụng làm trống Bát nhã trong những sự kiện quan trọng như lễ truyền giới. Chúng ta có thể sử dụng những chất liệu của truyền thống nhưng với một ý nghĩa mới, một mục đích mới mà nó vẫn có thể truyền tải sức mạnh của Phật pháp.
 
-<!-- {% image "article2024/Br. Phap Huu/52871228620_09d1dfb39b_6k_e.jpg" %} -->
-
 ## Hãy cười cùng tôi, hãy khóc cùng tôi
 
 Chuyến lưu diễn cũng giúp tôi thực tập với nỗi buồn vì thiếu vắng hình bóng quen thuộc của Thầy. Một trong những bài hát tôi yêu thích là bài *Unborn and Indestructible* (*Vô sinh và Bất diệt*). Bài hát nói rằng không gì có thể mất đi. Ở Washington D.C., tôi đã khóc khi bài *Unborn and Indestructible* và bài *Oneness* (*Nhất như*) được cất lên. Khi nghe tới câu “hãy cười cùng tôi, hãy khóc cùng tôi” trong bài *Oneness*, trái tim tôi bỗng xúc động; tôi cảm nhận sự giải thoát trong lòng, và trở thành một người thực tập trong khoảnh khắc đó, có thể lắng nghe và cảm nhận nỗi buồn của sự mất mát. Chánh niệm là khả năng nhận biết được điều gì đang hiện diện trong chúng ta, nhận diện nó và đủ can đảm ôm ấp nó. Chuyến lưu diễn giúp tôi nhận rõ tôi nhớ Thầy biết bao, tôi mong ước Thầy có thể hiện diện ở đó với chúng tôi. Tôi đã được trị liệu rất nhiều khi nhận ra rằng tôi không cần phải hoàn toàn chuyển hóa nỗi buồn mất Thầy, để có thể trở thành một vị giáo thọ thật sự vững chãi.

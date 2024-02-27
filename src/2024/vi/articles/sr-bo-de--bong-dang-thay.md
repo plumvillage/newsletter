@@ -32,8 +32,6 @@ Cảm hứng và nhiệt huyết trao truyền của quý thầy, quý sư cô g
 
 Thực tế chứng minh rằng nhiệt huyết của người trao truyền không giới hạn nhưng khả năng tiếp thu của học trò là… có giới hạn. Nhiều khi con không khỏi cảm thấy xấu hổ với trình độ học 10 hiểu 1 của mình. Thường thì anh chị em con sẽ thay phiên nhau đọc lên một câu kinh tiếng Pali rồi sau đó dịch ra theo cái hiểu của mình. Lần nào đến lượt con, con cũng hết sức cố gắng bày tỏ thiện chí muốn làm quen với các bạn chữ cái nhưng mặc kệ thái độ thành khẩn của con, các bạn ấy vẫn nhất quyết làm lơ rằng chúng ta không quen nhau, khiến con chỉ biết ấp a ấp úng tìm lối thoát trong sự rối rắm của mình. Nhiều khi câu trả lời theo quán tính, may nhờ rủi chịu, một chết hai sống của con khiến cả lớp được một phen cười ầm lên.
 
-<!-- {% image "article2024/Done-Sr-Bo-De/IMG_2992_e.jpg" %} -->
-
 Thật ra các anh chị em trong lớp rất đoàn kết, một người “gặp nạn” là cả lớp đều quăng “phao” đến tới tấp để cứu nhưng… khổ nỗi là nhiều phao quá, trong lúc nhất thời bối rối lại không biết nên bám lấy cái nào để sống sót. Cũng may Sư mẹ rất từ bi, trả lời đúng hay không đúng Sư mẹ đều cho qua lượt cả, khiến con thở phào nhẹ nhõm.
 
 Mặc dù học 10 hiểu 1 nhưng sau ba tháng “lấy cần cù bù thông minh”, với sự dìu dắt của Sư mẹ và sự khích lệ của các bạn đồng tu, con cũng thu nhặt được vài chữ bỏ túi, cũng thuộc được đoạn kinh xưng tán Tam bảo làm vốn liếng:

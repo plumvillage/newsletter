@@ -17,7 +17,6 @@ Chung trà đã cạn, mình đứng dậy nhìn ra xa, ôi nước… Thấy bi
 <div class="removeTopMarginInFollowingElem"></div>
 
 {% image "article2024/Done-Sr. Hien Hanh/Mùa lụt ở Huế-2_e.jpg" %}
-<!-- {% image "article2024/Done-Sr. Hien Hanh/Mùa lụt - Huế_e.jpg" %} -->
 
 Xế chiều thì nước ùa lên sân nhà. Khi đó mình hơi lo lắng chút xíu. Có vài thứ cần kê lên, một mình thì làm sao? Nếu bị ngập hư thì lấy gì xài. Ngóng ra đường thì thấy cậu bạn đang chèo ghe đi chơi. Mình í ới nhờ cậu ta trợ giúp. Hai đứa kê đồ lên cao hơn chút rồi tủm tỉm cười. Cậu ta là đứa bạn một thời thả diều, chơi ô quan với mình. Nay có gia đình ở xa, mỗi tuần đều ghé về chăm mẹ già. Hơn hai mươi năm gặp lại, đứa nào cũng vui vui và tự thấu hiểu nỗi gian khó của quê hương.
 

@@ -22,15 +22,12 @@ He loves breakfast; it is the activity he attends without fail: toast, jam, oatm
 Brother Minh Niem and Stephen, a long-term lay friend, are becoming bread-making masters, with a *masa madre* fermenting throughout the Rains Retreat regularly folded into fresh dough, kneaded then left to rise. The folded layers are visible when you peel back the baked crust of the baked loaves. Brother Dao Phuong returned from Italy with extra virgin olive oil; add some of it with salt to the hot bread, et voila! Enough for brotherhood, and happiness.
 
 Tonks and B, also longterms here, are exploring an alternative career: community. They help lead our mindful backpacking trips, and are essential now to the yearly teen camp. What does it mean to be a couple, growing on the spiritual path, in a monastery? They are providing themselves with a doctorate in Right Living. Without community there is no future for our planet, and more and more young people like them are realizing this.
-<!-- {% image "article2024/Done-Br-Phap-Luu/IMG_6801_e.jpg", "removeTopMargin" %} -->
 
-<!-- <div style="height: 3em;"></div> -->
 
 {% image "article2024/Done-Br-Phap-Luu/IMG_6801_e.jpg", "removeTopMargin noFloat" %}
 {% image "article2024/Done-Br-Phap-Luu/IMG_1955_e.JPG", " 
 noFloat" %}
 {% image "article2024/Done-Br-Phap-Luu/DSC00185_e.JPG", "noFloat" %}
-<!-- {% image "article2024/Done-Br-Phap-Luu/IMG_0644.jpeg", "noFloat" %} -->
 
 <div class="page-break"></div>
 

@@ -43,8 +43,6 @@ to the song of the world.</p></p>
 
 Each step brings me into this song of the world, which changes in every moment, and has no beginning or end, and I can then return to my true home, attentive to all beings, be it the food processor in the kitchen, a bush full of birds, the chainsaw, the sound of flowing water, or a crowd. Everything becomes the voice of the Buddha, the sound of the rising tide, or sometimes even a sudden silence as after the Lion’s Roar.
 
-<!-- {% image "article2024/Laurent/Thap Chuong XH.JPG", "removeTopMargin" %} -->
-
 ## The tree of praise
 
 The second practice I would like to share with you is what I call the tree of praise. When I prune trees – my friends – I begin by meeting the tree, or it meets me, or we meet. Trees – like humans – if they do not receive proper care, end up darkened in their heart, especially fruit trees. They become bush-like, a tangle of branches, and the tight rubbing of the branches will cause injuries or illnesses. So, after greeting the tree, I begin to get in touch with its heart, freeing the stem one branch at a time, and little by little rays of light shine through again. When it seems to me that the tree is breathing again, I breathe with it, then meditate with it, flooding myself with light. I become the tree, and offer a song of praise, an improvisation or a whisper.

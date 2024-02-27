@@ -78,7 +78,6 @@ Sau đó, con đến một tu viện trên núi ở Hồng Kông và ngụ ở n
 
 Con đã dành ra mười năm sau đó để suy xét lại tình hình của mình. Nhưng dù con có mở lòng ra để trải nghiệm cả những thực tập bên ngoài đạo Bụt, ước nguyện xuất gia vẫn chưa bao giờ phai nhạt trong con. Từ đó đến nay con đã có những bước tiến khá xa và mối liên hệ với tự thân đã rất khác xưa. Con không biết tin khi Sư Ông viên tịch, nhưng không hiểu sao hôm đó con khóc khi đang ngồi thiền. Con tự hỏi: “Tại sao mình khóc? Chẳng lẽ có ai mất hay sao?”. Sau đó con được tin là Sư Ông đã viên tịch. Cuối cùng con đến Làng Mai dự một khóa tu và nghĩ rằng có lẽ đây là một nơi thích hợp để sống đời xuất sĩ.
 
-<!-- {% image "article2024/Done-Daffodil family/055_05_Nov_2023_e.jpg" %} -->
 {% image "article2024/Done-Daffodil family/Sr.Diệu Hạnh_e.jpg" %}
 
 **Sư cô Chân Diệu Hạnh:** Bảy năm về trước con may mắn phát hiện ra Thiền đường Hơi Thở Nhẹ nên thường đến đó tu tập. Con cũng thường hay về Làng dự các khoá tu, nhất là mùa hè và mùa an cư. Con không nhớ chính xác là khi nào ước muốn xuất gia nhen nhóm. Con thấy rất rõ ràng đây là con đường thật sự con muốn đi bởi vì nó vô cùng có ích cho con.

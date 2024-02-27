@@ -11,8 +11,7 @@ Tôi tỉnh dậy và thấy mình là một miếng đậu hũ trên băng chuy
 
 Từ tấm bé, tôi đã nuôi mộng trở thành một học sinh giỏi và một đứa con ngoan. Theo lời khuyên của bố mẹ, từ nhỏ đến khi niên thiếu, đạt được nhiều giải thưởng và thành tích học tập xuất sắc là đỉnh điểm thành công đối với tôi. Hình ảnh về người phụ nữ lý tưởng và người công dân chuẩn mực mà xã hội định hình đã khiến tôi bị áp lực và trở nên căng thẳng.
 
-<!-- {% image "article2024/Done-Sr.Hien Tam/Tofu_e.jpg", "removeTopMargin" %}
-
+<!--
 Đến khi trưởng thành, tôi dặn lòng: “Từ giờ trở đi, tôi sẽ chỉ làm những gì mình muốn”, về chuyện học hành, nghề nghiệp, hay phong cách ăn mặc. Trong thời gian bảy năm làm việc tại đài truyền hình KBS và SBS ở Hàn Quốc, tôi đã sống theo cách mình muốn mà không quan tâm đến bất kỳ hình ảnh lý tưởng nào như hình ảnh miếng đậu hũ mà gia đình và xã hội muốn nhào nặn. Thời gian này, tôi vừa qua tuổi 20, những giấc mơ lặp đi lặp lại từ thời thơ ấu không còn xuất hiện nữa. -->
 
 Đến khi trưởng thành, tôi dặn lòng: “Từ giờ trở đi, tôi sẽ chỉ làm những gì mình muốn”, về chuyện học hành, nghề nghiệp, hay phong cách ăn mặc. Trong thời gian bảy năm làm việc tại đài truyền hình KBS và SBS ở Hàn Quốc, tôi đã sống theo cách

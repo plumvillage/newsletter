@@ -3,9 +3,6 @@ title: Cuộc sống
 author: Sư cô Chân Đính Nghiêm
 ---
 
-<!-- <p class="noIndent">(Bài thơ được viết sau khi nghe bài giảng về Kinh Buông Bỏ Ân Ái)</p> -->
-
-<!-- {% image "article2024/Sr. Đính N/289223456_5358275287570573_224309512897726595_n.JPG" %} -->
 {% image "article2024/Sr. Đính N/Camellia_lightened.jpg" %}
 
 <div class="verse">

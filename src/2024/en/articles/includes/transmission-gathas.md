@@ -187,9 +187,7 @@ In 2023, the Sangha happily welcomed 27 new Dharma teachers, both lay and monast
 
 {% image "article2024/Done-Review of the Year/Lamp transmission/Sr. Nhan Nghiem.JPG", "noFloat lampT" %}
 {% image "article2024/Done-Review of the Year/Lamp transmission/Sr. Dan Nghiem.JPG", "noFloat lampT" %}
-<!-- {% image "article2024/Done-Review of the Year/Lamp transmission/Sr. Thien Nghiem.JPG", "noFloat lampT" %} -->
 {% image "article2024/Done-Review of the Year/Lamp transmission/Br. Noi Tam.JPG", "noFloat lampT" %}
-<!-- {% image "article2024/Done-Review of the Year/Lamp transmission/Lamp transmission 19.03 46.JPG", "noFloat lampT" %} -->
 {% image "article2024/Done-Review of the Year/Lamp transmission/Sr. T Nga Mi.JPG", "noFloat lampT" %}
 {% image "article2024/Done-Review of the Year/Lamp transmission/Sr. T Dong Hai.JPG", "noFloat lampT" %}
 
@@ -197,7 +195,6 @@ In 2023, the Sangha happily welcomed 27 new Dharma teachers, both lay and monast
 {% image "article2024/Done-Review of the Year/Lamp transmission/Br. T Nguyen Uoc.JPG", "noFloat lampT" %}
 {% image "article2024/Done-Review of the Year/Lamp transmission/Br. T Ky Ngo.JPG", "noFloat lampT" %}
 {% image "article2024/Done-Review of the Year/Lamp transmission/Sr. Tro Nghiem.JPG", "noFloat lampT" %}
-<!-- {% image "article2024/Done-Review of the Year/Lamp transmission/Sr. Que Huong.JPG", "noFloat lampT" %} -->
 {% image "article2024/Done-Review of the Year/Lamp transmission/Sr. Moi Len.JPG", "noFloat lampT" %}
 
 

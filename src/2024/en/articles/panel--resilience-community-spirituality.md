@@ -59,10 +59,6 @@ It’s easy to blame economic or political systems. However these systems are bu
 
 ***Satish Kumar:*** At Schumacher College we say that inner transformation and outer transformation are two sides of the same coin. You cannot have outer transformation, systems change, political change, economic change or social justice without inner transformation, namely cultivating qualities like compassion, love, kindness, generosity and understanding.
 
-<!-- {% image "article2024/Done-Resillence, Community, Spituality/IMG_6811-2.JPG" %} -->
-<!-- {% image "article2024/Done-Resillence, Community, Spituality/IMG_7899_.jpg" %} -->
-<!-- {% image "article2024/Done-Resillence, Community, Spituality/001_08232023.jpg" %} -->
-
 There’s no duality. When we cultivate that cosmic mind, we start to think of the whole cosmos as my country, the whole Earth as my home. “Eco” means home. Humans are as much nature as trees, mountains and forests. Before I’m a Buddhist, Christian, or any other religion, love is my religion. When you have that kind of understanding, you can bring social justice, build equity, and work for economic justice. There’s no separation between me and the world. Therefore, changing the world and changing myself are two aspects of one single reality.
 
 ***Rehena Harilall:*** I grew up in apartheid South Africa. From the time I was four years old, my entire life was focused on social justice. I learned that as activists, we need to look at the energy we are bringing. Are we using the same energy that has been used to create the suppression, the separation, to change the systems outside of ourselves? If so, we are just replacing one system with another, we’re not really changing anything, because there is still an attachment to my view as being the right view, the only view, and the dominant view. Recognizing this has been most important in my own activist career.
