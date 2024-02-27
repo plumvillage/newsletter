@@ -19,7 +19,7 @@ After the reading, we would each be free to continue to meditate while sitting, 
 
 {% image "article2024/sr-tam-muoi/IMG_20230901_075344_e.jpg" %}
 
-I was quite nervous, could our friends - all Plum Village practitioners - and my monastic sisters accept this different way of practicing? Patience, I reminded myself; embracing my anxiety. Wait and see…
+I was quite nervous, could our friends – all Plum Village practitioners – and my monastic sisters accept this different way of practicing? Patience, I reminded myself; embracing my anxiety. Wait and see…
 
 ## Monday
 

@@ -60,7 +60,7 @@ I am very grateful to my former teachers in Madrid and in France, as well as to 
 
 On the other hand, because in my former tradition we were only three nuns (the founder of the monastery, the abbess and myself), I have been able to understand the importance of the Sangha and how precious it is. I knew that alone I couldn’t really fulfill my aspiration to transform myself and to serve all beings.
 
-For these two reasons, I decided to take refuge in the PlumVillage tradition and... I am very happy!
+For these two reasons, I decided to take refuge in the PlumVillage tradition and… I am very happy!
 
 {% image "article2024/Done-Daffodil family/Sr.Đăng Hạnh_e.jpg" %}
 

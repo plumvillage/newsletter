@@ -3,7 +3,7 @@ title: Hoa nở tự vườn tâm
 author: Thầy Chân Trời Thiện Chí
 ---
 
-<p class="editors-preface">Thầy Trời Thiện Chí, người Bun-ga-ri, xuất gia trong gia đình Cây Dẻ Gai vào năm 2018 và hiện đang tu học tại xóm Thượng, Làng Mai Pháp. Dưới đây là bài viết của thầy về chuyến hoằng pháp năm tuần tại Anh, Scotland, Wales và Ireland (5.5 - 11.6.2023). Bài viết được BBT chuyển ngữ từ tiếng Anh.</p>
+<p class="editors-preface">Thầy Trời Thiện Chí, người Bun-ga-ri, xuất gia trong gia đình Cây Dẻ Gai vào năm 2018 và hiện đang tu học tại xóm Thượng, Làng Mai Pháp. Dưới đây là bài viết của thầy về chuyến hoằng pháp năm tuần tại Anh, Scotland, Wales và Ireland (5.5 – 11.6.2023). Bài viết được BBT chuyển ngữ từ tiếng Anh.</p>
 
 ## Nơi đâu là nhà?
 
@@ -13,7 +13,7 @@ Tôi vô cùng háo hức khi được tham dự chuyến du hóa đầu tiên t
 
 Tôi rất hạnh phúc khi cảm nhận được sự hòa hợp và nhẹ nhàng trong tăng thân nhỏ gồm tám huynh đệ này. Điều đó đem lại cho tôi sự thư giãn và vững chãi. Tôi thấy sự hòa hợp này chính là một trong những yếu tố quan trọng nhất cho chuyến đi và là nền tảng cho những gì chúng tôi hiến tặng đến mọi người.
 
-Chuyến du hóa này giống như một tấm gương, qua đó tôi có thể thấy được phẩm chất thực tập của mình - khả năng cởi mở, khả năng uyển chuyển và sự giản dị. Liệu tôi có thể hòa nhập được với cả đoàn? Những giới hạn và khó khăn của tôi là gì? Đây cũng là cơ hội cho tôi học hỏi những điều mới, và gợi cảm hứng cho tôi thực tập hiến tặng theo những cách tôi chưa bao giờ từng làm.
+Chuyến du hóa này giống như một tấm gương, qua đó tôi có thể thấy được phẩm chất thực tập của mình – khả năng cởi mở, khả năng uyển chuyển và sự giản dị. Liệu tôi có thể hòa nhập được với cả đoàn? Những giới hạn và khó khăn của tôi là gì? Đây cũng là cơ hội cho tôi học hỏi những điều mới, và gợi cảm hứng cho tôi thực tập hiến tặng theo những cách tôi chưa bao giờ từng làm.
 
 ## Có mặt cho nhau
 
@@ -29,7 +29,7 @@ Trên đường đi, có lần sư cô Trăng Tam Muội nói rằng: “Các an
 
 Để tôi tả cho bạn nghe về một vài chặng nhỏ trong những nơi chúng tôi đã ghé thăm trên hành trình du hóa: những cánh rừng dẻ gai cổ thụ với tấm thảm hoa chuông xanh trải trên mặt đất; những ngọn đồi cao với những mỏm đá lớn hùng vĩ; những đồng cỏ xanh mướt nơi những chú ngựa hoang nhẩn nha gặm cỏ; những nhà thờ cổ kính trang nghiêm với khu vườn đỏ rực hoa đỗ quyên; những khu bảo tồn thiên nhiên; những bãi biển nằm khuất sau rặng núi đá; một ngôi trường đại học với một thiền đường đầy những tuyển tập thơ, và cả một khu rừng cây đan mộc kỳ vĩ ngay trong khuôn viên trường, ở đó chúng tôi được mời tham dự nghi thức chú nguyện cho thức ăn trước khi dùng tối.
 
-Chúng tôi đã đi thiền hành dọc những bãi biển nơi những chú hải cẩu chơi đùa trong nước; đi men theo những dòng suối nước trong veo; đi bên những ngọn tháp Tây Tạng trên một hòn đảo với những chú ngựa hoang; đi trong những khu vườn ở trường đại học; đi với những chú thỏ trong công viên ngay giữa lòng thành phố; đi trong những nghĩa trang cổ kính; đi trong những khu rừng với những cây cổ thụ; và đi bên cạnh những vũng nước nơi đám trẻ con chơi đùa - người dính đầy bùn đất.
+Chúng tôi đã đi thiền hành dọc những bãi biển nơi những chú hải cẩu chơi đùa trong nước; đi men theo những dòng suối nước trong veo; đi bên những ngọn tháp Tây Tạng trên một hòn đảo với những chú ngựa hoang; đi trong những khu vườn ở trường đại học; đi với những chú thỏ trong công viên ngay giữa lòng thành phố; đi trong những nghĩa trang cổ kính; đi trong những khu rừng với những cây cổ thụ; và đi bên cạnh những vũng nước nơi đám trẻ con chơi đùa – người dính đầy bùn đất.
 
 Là người tu, chúng tôi có thể đi vào trung tâm của một ngôi nhà thờ lớn ở Durham, nước Anh, với sự hướng dẫn của một vị linh mục. Chúng tôi có cơ hội tổ chức những buổi sinh hoạt ở nhà thờ, ở tu viện, ở trường đại học hoặc tòa thị chính, ở nhà nguyện, trong những căn lều, ở trung tâm thực tập, hay thậm chí trong một ngôi nhà hình tròn làm bằng bùn và cỏ tranh.
 

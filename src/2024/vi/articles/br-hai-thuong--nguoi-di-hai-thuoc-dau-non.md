@@ -81,7 +81,7 @@ Sự ra đi đột ngột của sư em như một hồi chuông cảnh tỉnh v�
 <!-- <div class="divider"></div> -->
 
 
-<!-- Br Bac Son left the Sangha already... -->
+<!-- Br Bac Son left the Sangha already… -->
 <!-- ## Bếp lửa hồng
 
 Thương về sư em Chân Trời Hải Thượng
