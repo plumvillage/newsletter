@@ -11,7 +11,7 @@ author: Joost Vriens
 
 When I took my first steps into the classroom in 1982, I was a 22-year-old teacher of religion, idealistic, full of expectations and driven. But the reality was not heaven, but a learning environment. The school system I stepped into was in essence a delivery system. I talk, you listen. I know, you accept. There was such a strong conditioning that the students, even as adults or adolescents, were afraid to share, give, or express themselves.
 
-My school was a vocational secondary school with students aged 17-23. They were going to work with disabled people, in childcare, youth care or education. It is a very transformational period, because they have to learn how to apply their knowledge, to grow from knowing to being. They are faced with an important question, "What kind of professional helper of others do I want to become?” So it is a very personal journey.
+My school was a vocational secondary school with students aged 17-23. They were going to work with disabled people, in childcare, youth care or education. It is a very transformational period, because they have to learn how to apply their knowledge, to grow from knowing to being. They are faced with an important question: What kind of professional helper of others do I want to become? So it is a very personal journey.
 
 After a few years of teaching I started noticing something. The students not only silenced themselves out of habit, but also because the schools and the teachers didn’t listen to their hidden needs, their pains, their wounds. Then, another insight lit up. The teachers, many times uncertain, stressed, also hid their real thoughts and emotions upon entering the school. After 15 years of struggling with the system, I felt lost. I felt like I was shrinking, I became more defensive, the fire of the young teacher was almost extinguished.
 
@@ -36,7 +36,7 @@ As I deepened my practice in the sangha, I noticed that if I was not open and vu
 {% image "article2024/joost/013_08202023.jpg", "removeTopMargin" %}
 {% image "article2024/joost/014.jpg", "removeTopMargin" %}
 
-## An inter-generational buddy system
+## An intergenerational buddy system
 
 I also started working with a very bright, talented young teacher, Ingrid. She was 28. I was 61. It was a very nourishing cooperation. She was very grateful for my experience and ability to look deeply into a situation. I loved her because of her strong questions, her vigor. She was very straightforward and open with her students, a sort of a peaceful warrior. We had very deep discussions of what was the best next step for a student. One day, early in the morning, we met with a student. The day before she had had a chat with both of us. We both gave her, independent from each other, the same advice. She wanted to check if we had planned that. We hadn’t and felt very touched knowing this.
 
@@ -44,7 +44,7 @@ Perhaps we can have "an intergenerational buddy system” in schools where a you
 
 The next step on my path was bringing mindfulness into the classroom. I felt I was ready for this, but the students were not. The classroom was not a safe place. The school was not a safe place. The school was not ready for it yet. Most of the teachers were not ready for it yet. I continued the struggle, because I remembered Thay who was so diligent in pushing boundaries and transformed obstacles into deep practical insights.
 
-## Gift from the universe
+## A gift from the universe
 
 Well timed, Wake Up Schools stepped into my path. Somebody gave me the book *Happy Teachers Change the World* and Richard Brady’s very inspiring *Walking the Teacher’s Path with Mindfulness*. I also followed a teacher’s retreat with Tineke Spruytenburg and Miles Dunmore. I used the practices in the book and combined them with my own insights. While reflecting on my path of waking up as a teacher, the word “vulnerability” was very often there. Basho’s frog<span class="note">A reference to Basho’s Haiku <i>Frog in the pond</i>: “The old pond; A frog jumps in—The sound of the water.” Translated by R.H. Blyth</span> was finally jumping into the pond.
 
