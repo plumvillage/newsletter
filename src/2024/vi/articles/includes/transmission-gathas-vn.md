@@ -124,7 +124,7 @@ Trong năm 2023, tăng thân đã chào đón 27 vị giáo thọ mới, cả xu
 > > **Trăng** không tròn không khuyết  
 > > Núi **Nga Mi** lưu danh  
 > > Phổ Hiền mười hạnh nguyện  
-> > Làm lợi lạc chúng sanh
+> > Làm lợi lạc chúng sanh.
 
 > **Sư cô Chân Trăng Đông Hải**  
 > *(Tsui Miu Ling; Pháp danh: Tâm Quán Ân)*  
@@ -140,21 +140,21 @@ Trong năm 2023, tăng thân đã chào đón 27 vị giáo thọ mới, cả xu
 > > **Trời nội** điển, ngày pho thủ tự  
 > > Nhập tánh không, đêm quán **tâm** kinh  
 > > Ơn thầy tổ nguyền xin tiếp nối  
-> > Một lên đường, sông núi chứng minh
+> > Một lên đường, sông núi chứng minh.
 
 > **Sư cô Thích nữ Chân Trợ Nghiêm**  
 > *(Hoàng Thị Minh Nguyệt; Tâm Liên Du)*
 > > Chân tâm vắng duyên **trợ**  
 > > **Nghiêm** từ chẳng đến đi  
 > > Như Lai bậc như thị  
-> > Chánh Niệm vượt thị phi
+> > Chánh niệm vượt thị phi.
 
 > **Sư cô Thích nữ Chân Trăng Quê Hương**  
 > *(Nguyễn Thị Kim Thạnh; Tâm Nguyện Hòa)*
 > > Chân **trăng** là **quê hương**  
 > > Chiếc lá vốn bản môn  
 > > Pháp nhiệm ấy con đường  
-> > Lắng nghe hiểu và thương
+> > Lắng nghe hiểu và thương.
 
 > **Sư cô Thích nữ Chân Trăng Mới Lên**  
 > *(Yuliana Wijaya; Tâm Hướng Quang)*
@@ -175,14 +175,14 @@ Trong năm 2023, tăng thân đã chào đón 27 vị giáo thọ mới, cả xu
 > > **Trăng** xưa lập nguyện đại bi  
 > > Sao cho muôn loại tổng trì vô sanh  
 > > **Thong dong** cùng chúng đồng hành  
-> > Ân đền nghĩa đáp dạ thành khắc ghi
+> > Ân đền nghĩa đáp dạ thành khắc ghi.
 
 > **Sư cô Thích nữ Chân Trăng Chí Thành**  
 > *(Lê Thị Tư; Tâm Hạnh Niệm)*
 > > Vén mây **trăng** lộ diện  
 > > Tu tập dạ **chí thành**  
 > > Công phu không xao lãng  
-> > Sen nở cõi Trời Tây
+> > Sen nở cõi Trời Tây.
 
 {% image "article2024/Done-Review of the Year/Lamp transmission/Sr. Nhan Nghiem.JPG", "noFloat lampT" %}
 {% image "article2024/Done-Review of the Year/Lamp transmission/Sr. Dan Nghiem.JPG", "noFloat lampT" %}
@@ -200,10 +200,10 @@ Trong năm 2023, tăng thân đã chào đón 27 vị giáo thọ mới, cả xu
 
 > **Sư cô Thích nữ Chân Trăng Lý Tưởng**  
 > *(Châu Thị Thu Sương; Pháp danh: Tâm Tuệ Như)*
-> > Hé nụ cười chân thật, tuyệt vời  
+> > Hé nụ cười chân, thật tuyệt vời  
 > > **Trăng** sao chiếu sáng khắp muôn nơi  
 > > Long lanh ánh mắt ngời **lý tưởng**  
-> > Sưởi ấm tình người giữa trùng khơi
+> > Sưởi ấm tình người giữa trùng khơi.
 
 ## Kệ truyền đăng ngày 11.4.2023 tại Bringelly, Úc *(do thầy Pháp Hải và sư cô Lương Nghiêm thay mặt tăng thân truyền đăng)*:
 
@@ -229,7 +229,7 @@ Trong năm 2023, tăng thân đã chào đón 27 vị giáo thọ mới, cả xu
 > *(Faye Nhi Nguyen; Pháp danh: Tâm Hướng Dương)*
 > > By seeing the nature of affinities planted since beginningless time  
 > > The authentic fruit of insight reveals itself as a **storehouse of joy**  
-> > Walking this ancient path suddenly we realize that there was never a time when we were not wonderful together  
+> > Walking this ancient path suddenly we realize that there was never a time when we were not wonderfully together  
 > > Sunflowers waving in the gentle breeze quietly reveal the wondrous Dharma Body.
 
 {% image "article2024/Done-Review of the Year/Lamp transmission/Sr Ly Tuong.JPG", "noFloat" %}
