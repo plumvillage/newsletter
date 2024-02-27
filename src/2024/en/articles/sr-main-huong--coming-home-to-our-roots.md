@@ -33,7 +33,7 @@ Fractured from their homeland, our family transmitted to us the language and cul
 
 By coming together and sharing these experiences in this space of mutual understanding, we were able to not only heal but also generate a sense of community together despite living in different countries and cities. We were able to cultivate deeper compassion for ourselves, our parents, and our friends. With this, we were able to hold space for ourselves and our pain and joy, to heal the past, celebrate our culture and create a sense of home and belonging for each other and within ourselves.
 
-{% image "article2024/Done-Coming home to our roots/Thay underneath Oak tree.jpg" %}
+{% image "article2024/Done-Coming home to our roots/Thay underneath Oak tree.jpg", "", "Thay giving a Dharma talk under the oak tree in 1987" %}
 
 While having lunch underneath the oak tree in Lower Hamlet, Sr. Dinh Nghiem shared with us that Thay gave his first few Dharma talks right here. People of our parents’ generation who came to Plum Village back in the 80s, only a few years after the war in Vietnam had ended, would sit around him to listen to his talks. Back then, mostly Vietnamese refugees and people who lived in exile like Thay came to Plum Village because it was a place where they could seek not only spiritual but also cultural refuge. They helped Thay and the monastics build and shape the Plum Village as we know it today.
 

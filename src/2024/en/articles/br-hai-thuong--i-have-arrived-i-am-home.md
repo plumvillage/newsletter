@@ -60,7 +60,9 @@ Wandering around, I coincidentally came across an article by Br. Minh Hy sharing
 
 > “The first fruit of the Plum Village practice ‘I have arrived, I am home’ is a little different from the fruit of the traditional practice ‘Stream-enterer.’ With ‘Stream-enterer’, one still has to continue going, whereas with ‘I have arrived, I am home,’ one no longer needs to search for anything more. ‘No need to search further’ (Người chẳng tìm cầu chi nữa) – this is a very good phrase; we need to write it down. It would be a pity if we lose it. Whoever has realized this fruit of the practice, looking at them we would know right away; no need for them to say anything.”
 
-<p class="noIndent">The entire parallel verses were as follows:</p>
+<div style="margin-bottom: 3em;"></div>
+
+<p class="noIndent removeTopMargin">The entire parallel verses were as follows:</p>
 
 > Tịnh độ nơi đây thích ý rong chơi người chẳng tìm cầu chi nữa.  
 > Bản môn bây giờ phỉ lòng an trú ta há theo đuổi gì thêm.

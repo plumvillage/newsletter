@@ -62,10 +62,10 @@ This week we touched healing, held by the everchanging landscape. The beauty of 
 
 As the end of the retreat approached, we were invited to gently ease out of our silence. Our gratitude and happiness were expressed -- some in the songs of their ancestors, some in the ancient Occitan language, or with heartfelt words:
 
-“Silence and the landscape opened up a vast space inside of me.”
-“Connecting with the elements wind, rain, storm. I became one with them.”
-“A magical and inspiring place, the presence of nature supported our practice.”
-“I was so nourished to discover this new way of practicing, to travel together on the path of inner silence…”
+> “Silence and the landscape opened up a vast space inside of me.”  
+> “Connecting with the elements wind, rain, storm. I became one with them.”  
+> “A magical and inspiring place, the presence of nature supported our practice.”  
+> “I was so nourished to discover this new way of practicing, to travel together on the path of inner silence…”
 
 ## Saturday
 

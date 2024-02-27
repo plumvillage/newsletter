@@ -52,13 +52,15 @@ What nourished me those three weeks was also the presence of the little angels a
 
 Before I could ask anything further, the youngest in the group, probably 6, said cheekily:
 
-<blockquote style="font-size: 90%;"><p>“I drink lots of tea and I don’t need to sleep, I stay up all night.”<br/>
+<!-- <blockquote style="font-size: 90%;"><p>“I drink lots of tea and I don’t need to sleep, I stay up all night.”<br/>
 “Really, you don’t need to sleep? So how can you grow up?”<br/>
-“You see, I haven’t slept but I’ve grown this big.”</p></blockquote>
+“You see, I haven’t slept but I’ve grown this big.”</p></blockquote> -->
 
-<!-- > “I drink lots of tea and I don’t need to sleep, I stay up all night.”  
-> “Really, you don’t need to sleep? So how can you grow up?”  
-> “You see, I haven’t slept but I’ve grown this big.” -->
+> “I drink lots of tea and I don’t need to sleep,  
+> <span style="display: inline-block; width: 4mm;"></span>I stay up all night.”  
+> “Really, you don’t need to sleep?  
+> <span style="display: inline-block; width: 4mm;"></span>So how can you grow up?”  
+> “You see, I haven’t slept but I’ve grown this big.”
 
 Then the little boy spanned out his little hand to measure himself from head to toes. Then the older boys in the group huddled around him, teasing,
 

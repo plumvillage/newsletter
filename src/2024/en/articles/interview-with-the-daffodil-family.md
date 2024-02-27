@@ -104,6 +104,8 @@ Unfortunately, my parents are not supportive of me ordaining, and I know it is g
 
 ***Br. Nhat Van:*** I grew up in a boarding school, which hosted hundreds of children, from age ten and only coming home for weekends. I was sleeping in a dorm of around 30 to 100 children. So I’m used to wearing uniforms, short hair, fine manners, ceremonies and living together (laughter). I made strong friendships for life there; it taught me brotherhood, sisterhood, and siblinghood. So sharing in a community is being at home completely for me and I am very happy living together.
 
+{% image "article2024/Done-Daffodil family/137_110723_e.jpg" %}
+
 ***Br. Nhat Moc:*** Sweden is considered very individualistic in the minds of most people. I had a nice apartment just for myself, was very happy with it, but also felt very lonely. So last year, before coming here, I decided to live together with friends. Sharing rooms in Plum Village, I would sometimes appreciate having more space. I guess it will never be perfect. But one thing is for sure, this is much better than feeling lonely.
 
 ***Br. Nhat Thanh:*** It was clear to me that sharing a room is not going to be easy, that it is going to be challenging. But there’s also a strong sense that it’s a condition for growth. I always try to keep this mindset, remembering that living together helps me improve my communication, helps me to learn to resolve conflicts, helps me to demand less from others.

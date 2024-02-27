@@ -2091,3 +2091,12 @@ figure.scckSmall {
 .article-lich-sinh-hoat-nam-2024 #lshn-p2 {
     height: 28mm;
 }
+
+/* remove bullets "silently" */
+.article-a-friend-on-the-path ul li::before {
+    color: white;
+}
+
+.article-i-have-arrived-i-am-home .editors-preface i {
+    color: black;
+}

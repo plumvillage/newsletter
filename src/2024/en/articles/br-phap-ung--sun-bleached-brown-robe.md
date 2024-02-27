@@ -13,7 +13,7 @@ During those years, I have made all kinds of mistakes, learned to get up from a 
 
 When I had the aspiration to become a monastic, my family was not ready to receive the news. I felt sorry for myself and cried alone in my bed. While crying, I suddenly saw a figure with a glowing complexion who kindly said, “Rest assured, my child!” It calmed me down… Not long after that, I met Thay at a retreat in the Netherlands. Thay looked at me – maybe because I looked naive like a young student or a scout of a Buddhist youth group – and asked, “Do you want to be an engineer of Buddhism?” I thought to myself, “Huh? What’s an engineer of Buddhism? I don’t understand.” I looked confusedly at Thay, but the seed had been transmitted. *A seed that has lain deeply in the Earth for many years just smiles.*<span class="note">Adopted from the poem “Cuckoo Telephone” in <i>Call Me By My True Names</i> by Thich Nhat Hanh, 2022.</span>
 
-{% image "article2024/Done-Br.Phap Ung/Br.Phap Ung_e.jpg", "", "Fish Family after Ordination Ceremony" %}
+{% image "article2024/Done-Br.Phap Ung/Br.Phap Ung_e.jpg", "", "Fish Family after Ordination Ceremony in 1993" %}
 
 {% image "article2024/Done-Br.Phap Ung/Thay and Br. Phap Ung at Omega Institute in New York - 1996 PHOTO Simon Chaput.jpg", "", "Omega Institue, New York, 1996.<br/>Photo Courtesy: Simon Chaput" %}
 
@@ -66,7 +66,7 @@ and I live to support you.<br/>
 Each small step<br/>
 together move the Earth and sky.<br/>
 Whether with or against the flow,<br/>
-all nourish the entire village.</p>
+all nourish the entire Village.</p>
 
 <!-- <div class="verse"><p>Sun-bleached brown robes<br/>
 Coming home to the Buddha<br/>
@@ -100,4 +100,4 @@ Thay is no longer in the familiar form to guide us directly; therefore, a founda
 
 Another important element is to do what we can so that everyone feels comfortable to be themselves living in the community. That is a very practical necessity. To be able to be oneself means that each person has time to develop, to understand the nature of things, to grow up, as well as to be supported and accepted. However, we also need to open our hearts to each other as the glue connecting this sangha of diverse cultures and traditions.
 
-In the gatha that Thay’s teacher (grandfather monk Thanh Quy) gave to him for his Dharma lamp transmission, there is the sentence: “Walking without dispersion and without strife” (Hành đương vô niệm diệc vô tranh). “Without dispersion” is very important. Everyone has an idea of right and wrong. However, from a meta-ethical standpoint, we need to be “without dispersion”; that is, to accept the left and the right, the mud and the lotus. We need to develop and water the qualities that are beautiful, but, at the same time, we also need to accept the things that are not yet beautiful. We take care and embrace the things that are not yet beautiful. We need that essence in a sangha. We also need to practice “without strife” to take care of the three complexes (superiority, inferiority and equality) present in each of us. That is the hallmark of what we need to develop in order (for the sangha) to realize collective awakening: Thay’s dream.
+In the gatha that Thay’s teacher (grandfather monk Thanh Quy) gave to him for his Dharma lamp transmission, there is the sentence: “Walking without dispersion and without strife” (Hành đương vô niệm diệc vô tranh). “Without dispersion” is very important. Everyone has an idea of right and wrong. However, from a meta-ethical standpoint, we need to be “without dispersion”; that is, to accept the left and the right, the mud and the lotus. We need to develop and water the qualities that are beautiful, but, at the same time, we also need to accept the things that are not yet beautiful. We take care and embrace the things that are not yet beautiful. We need that essence in a sangha. We also need to practice “without strife” to take care of the three complexes (superiority, inferiority and equality) present in each of us. That is the hallmark of what we need to develop in order [for the sangha] to realize collective awakening: Thay’s dream.
