@@ -16,7 +16,7 @@ author: của tăng thân Làng Mai
 - 10.08 – 17.08<span class="space"></span>Khóa tu dành cho người trẻ (Wake Up)
 - 20.09 – 27.09<span class="space"></span>Khóa tu dành cho người da màu (BIPOC)
 - 09.10 – 07.01.**25** An cư kiết đông 
-- 20.12 – 27.12<span class="space"></span>Khóa tu Giáng sinh
+- 20.12 – 27.12.**25** Khóa tu Giáng sinh
 - 27.12 – 03.01.**25** Khóa tu Năm mới
 
 *Xin vào trang nhà của Tu viện để xem chi tiết: [www.langmai.org](http://www.langmai.org) hoặc [www.plumvillage.org](http://www.plumvillage.org)*

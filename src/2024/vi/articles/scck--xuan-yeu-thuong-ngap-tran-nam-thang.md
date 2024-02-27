@@ -17,9 +17,9 @@ Một mùa Xuân mới đang về, luân chuyển cùng mạch sống tinh khôi
 
 <p class="noIndent">Kính thưa quý vị!</p>
 
-{% image "article2024/SCCK - Chương trình Hiểu và Thương/đồng phục.jpg", "scckSmall" %}
+{% image "article2024/SCCK/đồng phục.jpg", "scckSmall" %}
 
-{% image "article2024/SCCK - Chương trình Hiểu và Thương/SCCK và các bé.JPG", "removeTopMargin" %}
+{% image "article2024/SCCK/SCCK và các bé.JPG", "removeTopMargin" %}
 
 Trong những năm qua, những biến động kinh tế thế giới và ảnh hưởng của đại dịch Covid phần nào đã làm hạn chế hoạt động của chương trình Hiểu và Thương, và trên thực tế, một số chương trình thiện nguyện đã phải cắt giảm bớt so với những năm trước. Tuy nhiên, nhờ bao trái tim yêu thương, bao tấm lòng san sẻ tới những mảnh đời còn khó khăn, nhờ sự dấn thân không ngừng của quý vị Tiếp hiện trong hoạt động phụng sự xã hội cũng như của hàng ngàn đôi bàn tay của đức Bồ tát Quán Thế Âm, Chương trình vẫn cố gắng tiếp tục thực hiện những công tác thiện nguyện trong tinh thần lan tỏa tình đồng bào tương thân tương ái. Dưới đây là những công tác mà Chương trình đã thực hiện được trong năm qua:
 
@@ -33,9 +33,9 @@ Trong những năm qua, những biến động kinh tế thế giới và ảnh 
 
 <div class="page-break"></div>
 
-{% image "article2024/SCCK - Chương trình Hiểu và Thương/Hiểu và Thương.jpg", "scck" %}
-{% image "article2024/SCCK - Chương trình Hiểu và Thương/Học bổng HS.jpg", "scck" %}
-{% image "article2024/SCCK - Chương trình Hiểu và Thương/students.jpg", "scck" %}
+{% image "article2024/SCCK/Hiểu và Thương.jpg", "scck" %}
+{% image "article2024/SCCK/Hoc Bong HS.jpg", "scck" %}
+{% image "article2024/SCCK/students.jpg", "scck" %}
 
 Với hoạt động *“Giúp em đến trường”*, chương trình đã trao tặng học bổng cho 650 em học sinh với giá trị 1.200.000đ/em/năm và 260 sinh viên với hỗ trợ 2.000.000đ/em/năm.
 
@@ -43,8 +43,8 @@ Với hoạt động *“Giúp em đến trường”*, chương trình đã tra
 
 Riêng ở các tỉnh khu vực miền Nam, chương trình có yểm trợ thêm mái tôn cho 30 gia đình nghèo và 10 giếng tưới nước cho những hộ nông dân nghèo, giúp cho bà con có thêm điều kiện canh tác sinh sống.
 
-{% image "article2024/SCCK - Chương trình Hiểu và Thương/nhà.jpg", "scck" %}
-{% image "article2024/SCCK - Chương trình Hiểu và Thương/nhà ở.jpg", "scck" %}
+{% image "article2024/SCCK/nhà.jpg", "scck" %}
+{% image "article2024/SCCK/nhà ở.jpg", "scck" %}
 
 Chương trình vẫn duy trì hoạt động thường niên vào mỗi cuối năm như Trao tặng quà Tết cho các hộ nghèo, ở Quảng Trị có 400 phần quà với trị giá 300.000đ/ phần, ở Thừa Thiên Huế có 500 phần quà, và có 1440 phần quà với trị giá 350.000đ/ phần ở các tỉnh miền Nam. Tổng số có 2.340 phần quà được trao gửi đến đồng bào khó khăn như một chút yêu thương sẻ chia, đón Tết thêm ấm áp.
 
@@ -67,13 +67,13 @@ Chân Không vẫn luôn tin rằng chỉ cần có trái tim thì mọi hành �
 <p class="signoff"><span class="signoff-lvl-1">Kính quý và biết ơn,</span><br/>
 <span class="signoff-lvl-2">Sư cô Chân Không</span></p>
 
-{% image "article2024/SCCK - Chương trình Hiểu và Thương/SC ký.jpg", "article-end" %}
+{% image "article2024/SCCK/SC ký.jpg", "article-end" %}
 
-{% image "article2024/SCCK - Chương trình Hiểu và Thương/Quý Sư Cô cứu trợ.jpg", "scck" %}
+{% image "article2024/SCCK/Quý Sư Cô cứu trợ.jpg", "scck" %}
 
 <div class="page-break"></div>
 
-{% image "article2024/SCCK - Chương trình Hiểu và Thương/Sư Cô trên sông Thu Bồn.jpg", "scck" %}
-{% image "article2024/SCCK - Chương trình Hiểu và Thương/Tác viên PSXH tại hiệp kỵ Pháp Vân 2023.jpg", "scck" %}
-{% image "article2024/SCCK - Chương trình Hiểu và Thương/tặng quà cứu trợ.jpg", "scck" %}
-{% image "article2024/SCCK - Chương trình Hiểu và Thương/Người già.jpg", "scck" %}
+{% image "article2024/SCCK/Sư Cô trên sông Thu Bồn.jpg", "scck" %}
+{% image "article2024/SCCK/Tác viên PSXH tại hiệp kỵ Pháp Vân 2023.jpg", "scck" %}
+{% image "article2024/SCCK/tặng quà cứu trợ.jpg", "scck" %}
+{% image "article2024/SCCK/Người già.jpg", "scck" %}

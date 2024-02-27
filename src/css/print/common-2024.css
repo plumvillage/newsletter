@@ -2047,38 +2047,47 @@ figure.scckSmall {
 
 
 
-
+.article-retreats-calendar-2024,
 .article-lich-sinh-hoat-nam-2024
 {
     padding-left: 11mm;
 }
+.article-retreats-calendar-2024 ul,
+.article-retreats-calendar-2024 h2,
+.article-retreats-calendar-2024 p,
 .article-lich-sinh-hoat-nam-2024 ul,
 .article-lich-sinh-hoat-nam-2024 h2,
 .article-lich-sinh-hoat-nam-2024 p
 {
     column-span: all !important;
 }
+.article-retreats-calendar-2024 a,
 .article-lich-sinh-hoat-nam-2024 a
 {
     color: var(--color-tower-dark) !important;
 }
+.article-retreats-calendar-2024 > p,
 .article-lich-sinh-hoat-nam-2024 > p {
     text-indent: 0 !important;
     text-align: left !important;
     padding-left: 4pt;
 }
+.article-retreats-calendar-2024 ul,
 .article-lich-sinh-hoat-nam-2024 ul {
     margin-top: 0;
     margin-bottom: 3mm;
     padding-left: 5mm;
 }
+.article-retreats-calendar-2024 ul li,
 .article-lich-sinh-hoat-nam-2024 ul li {
     margin-top: 0;
 }
+.article-retreats-calendar-2024 span.space,
 .article-lich-sinh-hoat-nam-2024 span.space {
     width: 6mm;
     display: inline-block;
 }
+.article-retreats-calendar-2024 #lshn-p2,
 .article-lich-sinh-hoat-nam-2024 #lshn-p2 {
     height: 28mm;
 }

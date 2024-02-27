@@ -229,8 +229,9 @@ let workQueue = [
     // () => generatePDF("http://localhost:8080/2024/en/a4-bleed/", `./docs/2024/en-a4-bleed`, onFinshed),
     // () => generatePDF("http://localhost:8080/2024/en/letter/", `./docs/2024/en-letter`, onFinshed, {format: "Letter"}),
     
-    () => generatePDF("http://localhost:8080/2024/vi/a4/", `./docs/2024/vi-a4`, onFinshed),
+    // () => generatePDF("http://localhost:8080/2024/vi/a4/", `./docs/2024/vi-a4`, onFinshed),
     // () => generatePDF("http://localhost:8080/2024/vi/a4-bleed/", `./docs/2024/vi-a4-bleed`, onFinshed),
+    () => generatePDF("http://localhost:8080/2024/vi/letter/", `./docs/2024/vi-letter`, onFinshed, {format: "Letter"}),
     
     // () => generatePDF("http://localhost:8080/2024/en/articles-print-preview/br-duc-dinh--a-day-of-alms/", `./docs/2024/br-duc-dinh--a-day-of-alms`, onFinshed),
 

@@ -35,4 +35,5 @@ module.exports = [
     "br-bat-nha--my-novice-robe",
     "laurent-bernays--flowers-of-peace",
     "tien-nguyen--the-sunny-days",
+    "retreat-calendar-2024",
 ]
