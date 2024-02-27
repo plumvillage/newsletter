@@ -1,6 +1,6 @@
 ---
 title: Chùm thơ Đất Tổ
-author: Quý sư cô Diệu Trạm
+author: Quý sư cô Ni xá Diệu Trạm
 ---
 
 <div class="verse" style="padding-left: 3em;"><p><b>Dừng chân</b></p>
