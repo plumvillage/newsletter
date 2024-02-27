@@ -22,7 +22,7 @@ We sat inside the wood cabin by the wood-burning stove. Mr. Tho (a lay practitio
 The breeze is fragrant with tea blossoms.<br/>
 …<br/>
 My confidence intact,<br/>
-I bid farewell with a peaceful heart.”<br/><cite>from <i>Please Call Me By My True Names</i></cite></p></div>
+I bid farewell with a peaceful heart.”<br/><cite>—from the poem "Untitled" in <i>Call Me By My True Names</i></cite></p></div>
 
 Singing up to this point, I suddenly felt my throat constrict, and was unable to continue. Thay has indeed gone far away; perhaps, the faith he entrusted to us was: “Continue the path that Thay has traveled, don’t give up, my child…” I whispered in my heart, “Yes, I will never give up, Thay!”
 
@@ -40,7 +40,7 @@ Caro Bratnober, the public services librarian at the University, gave us a guide
 
 {% image "article2024/Done-Sr.Hoa Nghiem/Sr Hoa Nghiem 2_e.jpg" %}
 
-Caro then took Br. Phap Khong and me to Burke Library, another library on the upper floor, where students could study and conduct research. They led us to a small secluded room displaying pictures and materials about the founders of the school and the professors who had taught here. I was surprised to see a picture of Thay in a glass case alongside other renowned professors of the university. Thay looked very young, around 36 years old. They displayed his Master’s thesis with his research topic, entitled “The Problem of Knowledge in the Philosophy of Vijñānavāda." I felt a sense of pride and admiration for my teacher: A young monk could eloquently present the epistemology of Buddhist philosophy, a relatively challenging doctrine, in the Western academic environment where Buddhism was still quite unfamiliar at that time.
+Caro then took Br. Phap Khong and me to Burke Library, another library on the upper floor, where students could study and conduct research. They led us to a small secluded room displaying pictures and materials about the founders of the school and the professors who had taught here. I was surprised to see a picture of Thay in a glass case alongside other renowned professors of the university. Thay looked very young, around 36 years old. They displayed his Master’s thesis with his research topic, titled “The Problem of Knowledge in the Philosophy of Vijñānavāda." I felt a sense of pride and admiration for my teacher: A young monk could eloquently present the epistemology of Buddhist philosophy, a relatively challenging doctrine, in the Western academic environment where Buddhism was still quite unfamiliar at that time.
 
 Mr. Thanh also wanted to visit Riverside Church, where Thay gave a talk on September 27, 2001, after the Twin Towers were attacked on September 11. When we arrived, it was already quite dark. Initially, those inside the church didn’t want to receive us, saying that they had closed. But upon hearing that we were making a documentary about Thay life, an elderly man in the church told the security guards to let us in. The kind elderly man welcomed us and took the delegation to visit the hall, where Thay had given his talk to 1,500 people. He had been present among the audience. Brother Phap Khong mentioned that he was not yet a monastic at that time and had also sat among the audience, listening to Thay talk.
 
@@ -52,7 +52,7 @@ The Bodhisattva Vows are something that I learned from Thay’s teachings. They 
 
 ## In the water of a thousand rivers, the moon appears
 
-The day I asked Thay to ordain as a nun, I simply thought that I wanted to become a nun because life at Plum Village was so fun. There was nothing to worry about. Every day I could do sitting and walking meditation with the sangha, eat in silence, and every week I could listen to Thay’s Dharma talk. I didn’t need to look for a job or compete for an important position, nor did I need to think about money. Life was so simple and happy. But over time, I gradually saw clearly that the path I was on was not as simple as I thought. I began to have work and responsibilities assigned to me by the sangha. I became more worried about monastic life, because at that time, Plum Village was not as developed as it is now. I started thinking about how to raise money for Plum Village so that we would have enough to live by.
+The day I asked Thay to ordain as a nun, I simply thought that I wanted to become a nun because life in Plum Village was so fun. There was nothing to worry about. Every day I could do sitting and walking meditation with the sangha, eat in silence, and every week I could listen to Thay’s Dharma talk. I didn’t need to look for a job or compete for an important position, nor did I need to think about money. Life was so simple and happy. But over time, I gradually saw clearly that the path I was on was not as simple as I thought. I began to have work and responsibilities assigned to me by the sangha. I became more worried about monastic life, because at that time, Plum Village was not as developed as it is now. I started thinking about how to raise money for Plum Village so that we would have enough to live by.
 
 I asked Thay for permission to keep bees to sell honey, because Plum Village has up to 1,250 plum trees, and every spring, they bloom and bees fill the garden. I also had other ideas like making spring rolls to sell at the market in the local town of Sainte Foy on Saturdays, etc. Thay shook his head, looked straight into my eyes, and said very firmly: “Don’t worry my child, just keep practicing! If one has virtue through their wholehearted practice, one will not lack for food. Instead of worrying, you should take *Transformation and Healing* as a book for your bedside table and read one chapter a day for me.”
 
@@ -77,6 +77,9 @@ the moon appears.</p>
 <p>The mountain cliff is beautiful.<br/>
 Every time you look at it,<br/>
 it is brand new.</p></div> -->
+
+<div class="verse"><p>“Nước Bích lắng trong, ngàn sông có nước ngàn sông trăng hiện.<br/>
+Non Nham tú lệ, mỗi lần nhìn lại mỗi lần mới tinh.”</p></div>
 
 <div class="verse"><p>“The blue water is clear. In the water of a thousand rivers, the moon appears.<br/>
 The mountain cliff is beautiful. Every time you look at it, it is brand new.”</p></div>
