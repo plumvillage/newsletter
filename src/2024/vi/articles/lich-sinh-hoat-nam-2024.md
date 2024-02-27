@@ -14,7 +14,7 @@ author: của tăng thân Làng Mai
 - 01.06 – 15.06<span class="space"></span>Khóa tu tháng Sáu về Đạo đức Ứng dụng
 - 09.07 – 01.08<span class="space"></span>Khóa tu mùa Hè
 - 10.08 – 17.08<span class="space"></span>Khóa tu dành cho người trẻ (Wake Up)
-- 20.09 – 27.09<span class="space"></span>Khóa tu dành cho dành cho người da màu (BIPOC)
+- 20.09 – 27.09<span class="space"></span>Khóa tu dành cho người da màu (BIPOC)
 - 09.10 – 07.01.**25** An cư kiết đông 
 - 20.12 – 27.12<span class="space"></span>Khóa tu Giáng sinh
 - 27.12 – 03.01.**25** Khóa tu Năm mới
