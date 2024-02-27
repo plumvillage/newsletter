@@ -7,17 +7,17 @@ author: của tăng thân Làng Mai
 
 - 23.02 – 24.05<span class="space"></span>Khóa tu mùa xuân
 - 26.04 – 03.05<span class="space"></span>Khóa tu thân tâm kiện khương tại xóm Mới
-- 03.05 – 10.05<span class="space"></span>Khóa tu dành cho người trẻ gốc Á châu tại xóm Hạ
+- 03.05 – 10.05<span class="space"></span>Khóa tu dành cho người trẻ gốc châu Á tại xóm Hạ
 - 03.05 – 17.05<span class="space"></span>Khóa tu sinh thái của Nông trại hạnh phúc tại xóm Thượng
 - 07.05 – 24.05<span class="space"></span>Tuần lễ Nông trại hạnh phúc tại xóm Hạ
 - 17.05 – 24.05<span class="space"></span>Khóa tu doanh nhân
-- 01.06 – 15.06<span class="space"></span>Khóa tu Tiếp Hiện
+- 01.06 – 15.06<span class="space"></span>Khóa tu tháng Sáu về Đạo đức Ứng dụng
 - 09.07 – 01.08<span class="space"></span>Khóa tu mùa Hè
 - 10.08 – 17.08<span class="space"></span>Khóa tu dành cho người trẻ (Wake Up)
 - 20.09 – 27.09<span class="space"></span>Khóa tu dành cho dành cho người da màu (BIPOC)
-- 09.10 – 07.01<span class="space"></span>An cư kiết đông 
+- 09.10 – 07.01.**25** An cư kiết đông 
 - 20.12 – 27.12<span class="space"></span>Khóa tu Giáng sinh
-- 27.12 – 03.01<span class="space"></span>Khóa tu Năm mới
+- 27.12 – 03.01.**25** Khóa tu Năm mới
 
 *Xin vào trang nhà của Tu viện để xem chi tiết: [www.langmai.org](http://www.langmai.org) hoặc [www.plumvillage.org](http://www.plumvillage.org)*
 
@@ -82,7 +82,7 @@ author: của tăng thân Làng Mai
 
 - 15.09 – 15.12<span class="space"></span>An cư kiết Đông
 - 10.10 – 14.10<span class="space"></span>Khóa tu im lặng 
-- 28.12 – 01.01<span class="space"></span>Khóa tu cuối năm
+- 28.12 – 01.01.**25** Khóa tu cuối năm
 
 *Xin vào trang nhà của Tu viện để xem chi tiết:  
 [www.magnoliagrovemonastery.org](http://www.magnoliagrovemonastery.org)* 
