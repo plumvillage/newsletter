@@ -3,7 +3,7 @@ title: Có những ngày ươm nắng
 author: Tiên Nguyễn
 ---
 
-<div class="editors-preface"><p>Tiên là một bạn trẻ sống ở Úc. Thỉnh thoảng Tiên đến tu viện Nhập Lưu, Melbourne tu tập cùng quý sư cô. Niềm vui và sự chuyển hóa của Tiên nhẹ nhàng và lặng lẽ nhưng tự nhiên như một cơn mưa nhè nhẹ đầu xuân.</p></div>
+<div class="editors-preface"><p>Tiên là một bạn trẻ sống ở Úc. Thỉnh thoảng Tiên đến tu viện Nhập Lưu, Melbourne tu tập cùng quý sư cô. Niềm vui và sự chuyển hóa của Tiên nhẹ nhàng và lặng lẽ nhưng tự nhiên như một cơn mưa nhè nhẹ đầu xuân. Sau đây là bức thư của Tiên gửi cho một sư cô tại Nhập Lưu.</p></div>
 
 Sư cô ơi,
 
