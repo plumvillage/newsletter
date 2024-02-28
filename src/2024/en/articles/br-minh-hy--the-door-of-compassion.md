@@ -13,7 +13,7 @@ the door of compassion.<br/><cite>From Thay’s poem <i>“Please Call Me By My 
 so I can wake up<br/>
 and the door of my heart<br/>
 could be left open,<br/>
-the door of compassion.”<br/><cite>Thay’s poem <i>“Please Call Me By My True Names”</i></cite></p></div>
+the door of compassion.”<br/><cite>—from the poem “Please Call Me By My True Names”</cite></p></div>
 
 <!-- *(to read when feeling sad)* -->
 
