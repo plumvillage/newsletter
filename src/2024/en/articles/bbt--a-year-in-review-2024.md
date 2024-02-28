@@ -228,7 +228,7 @@ Since 2022, the Upper Hamlet brothers together with friends from Happy Farm have
 {% image "article2024/Done-Review of the Year/Coming home to Mother Earth/Happy Farm.3.jpg", "noFloat lmnqHFarm" %}
 {% image "article2024/Done-Review of the Year/Coming home to Mother Earth/Happy Farm.4.jpg", "noFloat lmnqHFarmBig" %}
 
-## Rains Retreat:<br/>Now We Have a Path *(19 Oct 2023 – 16 Jan 2024)*
+## Rains Retreat: Now We Have a Path<br/>*(19 Oct 2023 – 16 Jan 2024)*
 
 On the morning of 19 October 2023, the multifold Sangha of Plum Village gathered at the Still Water Meditation Hall of the Dharma Cloud Temple (Upper Hamlet) to conduct the Ceremony of Refuge for the annual Rains Retreat. There were 225 people (141 monastics – 48 Bhikshus, 78 Bhikshunis, 9 male novices, 6 female novices – and 84 lay practitioners) committed to practicing in Plum Village for 90 days. During the retreat, the sangha listened to weekly Dharma talks by Thay from Winter 2008-09 and June 2009 on the contributions of Buddhism to global ethics. The monastic day on Thursdays was a special opportunity for the brothers and sisters to attend classes on engaging topics to further nourish their monastic aspiration. Sister Trang Bo De wrote <a href="#the-presence-of-thay">an endearing article in this issue</a> of the newsletter about her impression of these monastic days.
 
