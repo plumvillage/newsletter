@@ -9,7 +9,7 @@ I woke up to find myself in a remote countryside factory. It was a tofu factory.
 
 Since childhood, I harbored a complex about what it meant to be a good student and a good daughter. Following my parents’ advice, the ultimate achievements during my childhood and adolescence were to excel in academia and receive awards. I felt stressed and pressured to conform to society’s ideal image of a citizen and a woman.
 
-Upon becoming an adult, I declared to myself that “from now on, I will only do what I want to do” in my studies, possessions, and mode of dressing. During my seven years of working at the KBS and SBS broadcasting stations in South Korea, I lived as I liked without being concerned about fitting into any "tofu-like" ideals from my family or society. It was also around this time (in my early 20’s) that these childhood dreams of conformity stopped recurring, until resurfacing again in 2018: the year I became a novice nun in Plum Village.
+Upon becoming an adult, I declared to myself that “from now on, I will only do what I want to do” in my studies, possessions, and mode of dressing. During my seven years of working at the KBS and SBS broadcasting stations in South Korea, I lived as I liked without being concerned about fitting into any “tofu-like” ideals from my family or society. It was also around this time (in my early 20’s) that these childhood dreams of conformity stopped recurring, until resurfacing again in 2018: the year I became a novice nun in Plum Village.
 
 {% image "article2024/Done-Sr.Hien Tam/Tofu_e.jpg", "removeTopMargin" %}
 
