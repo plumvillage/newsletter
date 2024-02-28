@@ -13,7 +13,7 @@ module.exports = [
     "sr-thuan-nghiem--awakening-the-source-of-love",
     "sr-linh-di--land-of-the-ancient-olice-trees",
     "sr-dao-nghiem--a-friend-on-the-path",
-    "sr-main-huong--coming-home-to-our-roots",
+    "main-huong--coming-home-to-our-roots",
     "sr-tam-muoi--the-profound-silence-of-dharma-mountain",
     "sr-tam-duc--a-drop-of-water-in-the-sangha-river",
     "br-phap-luu--growing-a-beautiful-multifold-sangha-at-deer-park",

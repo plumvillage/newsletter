@@ -62,4 +62,4 @@ out of your smile<br/>
 will bloom a flower.<br/>
 And those who love you<br/>
 will behold you<br/>
-across ten thousand worlds of birth and dying.”<br/><cite>—from the poem <i>Recommendation</i></cite></p></div>
+across ten thousand worlds of birth and dying.”<br/><cite>from the poem <i>Recommendation</i></cite></p></div>
