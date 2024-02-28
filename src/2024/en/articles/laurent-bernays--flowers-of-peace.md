@@ -5,13 +5,13 @@ author: Laurent Bernays
 ---
 <!-- the Calligraphy "Flowers of Peace" is used as the title -->
 
-<p class="editors-preface">Laurent is a musician and practitioner who has been with the Sangha for more than 20 years. In 2023, Laurent helped to oversee the “tree project” in Lower Hamlet. This letter is a reflection of his experience during his stay at Plum Village. He currently lives in the Pyrenees with his family.</p>
+<p class="editors-preface">Laurent is a musician and practitioner who has been with the Sangha for more than 20 years. In 2023, Laurent helped to oversee the “tree project” in Lower Hamlet. This letter is a reflection of his experience during his stay in Plum Village. He currently lives in the Pyrenees with his family.</p>
 
 Dear Thay, Dear Sisters, Dear beloved Sangha,
 
 This letter is to thank you with all my heart for welcoming me to work on renewing the Plum orchard in Lower Hamlet. Today, a marvelous meadow of flowers has appeared on the open hillside from which we can contemplate the sunset, showering us with its colorful cosmos as we walk meditatively through the ever-changing seasons.
 
-I would like to extend my gratitude to the Tree family team for working with me on this collective adventure, and especially to Sr. Luc Nghiem for her great commitment, and following through on her deep vision for the hamlet and taking care of Mother Earth.
+I would like to extend my gratitude to the Tree Family team for working with me on this collective adventure, and especially to Sr. Luc Nghiem for her great commitment, and following through on her deep vision for the hamlet and taking care of Mother Earth.
 
 “The flowers of peace bloom in beauty” is engraved on the Great Temple Bell. It has now manifested as this three-hectare meadow and resonates like the poem throughout the entire cosmos. Like the wind joins the songs of the Great Temple Bell, so does this field of flowers join Thay’s poem. These two were my commitments as a Bodhisattva: to cultivate the Earth and cultivate loving speech through song, cultivating the flowers in the Earth and in my soul.
 
@@ -45,9 +45,9 @@ Each step brings me into this song of the world, which changes in every moment, 
 
 ## The tree of praise
 
-The second practice I would like to share with you is what I call the tree of praise. When I prune trees – my friends – I begin by meeting the tree, or it meets me, or we meet. Trees – like humans – if they do not receive proper care, end up darkened in their heart, especially fruit trees. They become bush-like, a tangle of branches, and the tight rubbing of the branches will cause injuries or illnesses. So, after greeting the tree, I begin to get in touch with its heart, freeing the stem one branch at a time, and little by little rays of light shine through again. When it seems to me that the tree is breathing again, I breathe with it, then meditate with it, flooding myself with light. I become the tree, and offer a song of praise, an improvisation or a whisper.
+The second practice I would like to share with you is what I call the tree of praise. When I prune trees – my friends – I begin by meeting the tree, or it meets me, or we meet. If trees, like humans, do not receive proper care, end up darkened in their heart, especially fruit trees. They become bush-like, a tangle of branches, and the tight rubbing of the branches will cause injuries or illnesses. So, after greeting the tree, I begin to get in touch with its heart, freeing the stem one branch at a time, and little by little rays of light shine through again. When it seems to me that the tree is breathing again, I breathe with it, then meditate with it, flooding myself with light. I become the tree, and offer a song of praise, an improvisation or a whisper.
 
-This, dear sisters, dear sangha and dear Thay, is what I wanted to share with you from my heart about my practice of deep listening and loving speech in singing. It is a path of study that I will continue to explore in this life. I will end my letter with a praise for the birds:
+This, dear sisters, dear Sangha and dear Thay, is what I wanted to share with you from my heart about my practice of deep listening and loving speech in singing. It is a path of study that I will continue to explore in this life. I will end my letter with a praise for the birds:
 
 <div class="verse" style="font-size: 98%;"><p>The one that came out of my mouth as a child.<br/>
 The bird that later, as a young adult, invited me into a garden to make sounds while listening to the chirping.<br/>
