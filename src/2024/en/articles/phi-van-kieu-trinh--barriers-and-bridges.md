@@ -12,7 +12,7 @@ I smile back. Alongside the pond a bird hops through the meadow. Even though he 
 I feel how Mother Earth holds me. Throughout my life and until the end of my life she will do so.</p>
 
 <p>Since my arrival here (Plum Village), I have realized that I have found another paradise on this Earth.<br/>
-Surrounded by nature and by mindful and loving people I feel safe and so alive.<b> 
+Surrounded by nature and by mindful and loving people I feel safe and so alive.<br/> 
 This place in southwestern France reminds me of my two homelands (Germany and Vietnam). 
 Here lotus flowers and bamboo trees grow along with a few banana trees amidst Western European flora.<br/>
 Here, nuns and monks in dark brown robes and shaven heads live. Most of them speak Vietnamese and I feel a slight heaviness because even though we share the same homeland, I hardly speak their language.<br/> 
