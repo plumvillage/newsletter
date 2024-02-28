@@ -83,7 +83,7 @@ On April 26, the Thich Nhat Hanh Center for Mindfulness in Public Health opened 
 
 The mission of the Center is to “pursue evidence-based approaches to improving health and wellbeing through mindfulness by undertaking rigorous, scientific inquiry; and provide mindfulness education and training for the Harvard community and beyond.” An interplay between academic research and public engagement at its heart’s core, the center endeavors to improve public health and inspire global action.
 
-Dr. Lilian Cheung, director of Mindfulness Research and Practice in the Department of Nutrition of the Harvard T.H. Chan School of Public Health, met Thay in 1997 at a mindfulness retreat and later co-authored with Thay the book, called *Savor: Mindful Eating, Mindful Life*. Dr. Cheung shared: “Over the years, I became deeply interested in learning how the practice of mindfulness could be applied to the discipline of public health, which seeks to prevent disease and promote well-being at population scale. That is exactly what this Center will do.”
+Dr. Lilian Cheung, director of Mindfulness Research and Practice in the Department of Nutrition of the Harvard T.H. Chan School of Public Health, met Thay in 1997 at a mindfulness retreat and later co-authored with Thay the book, titled *Savor: Mindful Eating, Mindful Life*. Dr. Cheung shared: “Over the years, I became deeply interested in learning how the practice of mindfulness could be applied to the discipline of public health, which seeks to prevent disease and promote well-being at population scale. That is exactly what this Center will do.”
 
 {% image "article2024/Done-Review of the Year/TNH Center/52856213396_7da665de4e_o.jpg" %}
 
