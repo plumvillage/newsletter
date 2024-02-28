@@ -212,6 +212,7 @@ article h1 {
 
 #table-of-contents {
     page: page-toc;
+    counter-reset: page 2;
     columns: 2;
     break-after: page;
     column-gap: 32pt;
@@ -866,10 +867,22 @@ p.pull-quote::before {
     break-after: unset !important;
 }
 
+/* remove article-end marker */
+.PAGE-OF-article2024SCCKSu-Co-tren-song-Thu-Bon .last-article-element::after,
+.PAGE-OF-article2024SCCK-Chuong-trinh-Hieu-va-Thuongtang-qua-cuu-tro .last-article-element::after,
+.PAGE-OF-article2024Done-Br-Minh-HyIMG9469e .last-article-element::after,
+.PAGE-OF-article2024Done-Memorial-CeremonyHueCeremonyLe-dai-tuong-19 .last-article-element::after,
+.PAGE-OF-article2024Done-Memorial-CeremonyHueCeremonyLe-dai-tuong-4-copy .last-article-element::after,
+.PAGE-OF-article2024ScannedDrawings0705-Ky-to-dje-nhie .last-article-element::after,
+.PAGE-OF-article2024Done-BrDJuc-DJinhRains-retreat-23-249 .last-article-element::after {
+    display: none;
+}
+
+
+
 
 
 /* Adjusting title and author */
-
 h1#resilience-community-and-spirituality {
     font-size: 31pt;
 }
@@ -877,7 +890,6 @@ h1#the-profound-silence-of-dharma-mountain,
 h1#transforming-resentment-into-compassion {
     font-size: 28pt;
 }
-
 
 .article-a-year-in-review h1:not(#a-year-in-review),
 .article-lang-mai-nam-qua h1:not(#lang-mai-nam-qua)
@@ -1773,27 +1785,7 @@ figure#calligraphyarticle-titles-2-and-dividers5-maskedDividers2-2-straight {
 }
 
 
-.PAGE-OF-article2024SCCK-Chuong-trinh-Hieu-va-Thuongtang-qua-cuu-tro .last-article-element::after,
-.PAGE-OF-article2024Done-Br-Minh-HyIMG9469e .last-article-element::after,
-.PAGE-OF-article2024Done-Memorial-CeremonyHueCeremonyLe-dai-tuong-19 .last-article-element::after,
-.PAGE-OF-article2024Done-Memorial-CeremonyHueCeremonyLe-dai-tuong-4-copy .last-article-element::after,
-.PAGE-OF-article2024ScannedDrawings0705-Ky-to-dje-nhie .last-article-element::after,
-.PAGE-OF-article2024Done-BrDJuc-DJinhRains-retreat-23-249 .last-article-element::after {
-    display: none;
-}
 
-
-/* 
-html:lang(en) figure#article2024Done-Br-Minh-HyMG9118 {
-    display: inline;
-    float: left;
-    margin-right: 0.9em;
-    padding-top: 1.3em;
-    margin-left: -3.5em;
-    margin-bottom: 0.6em;
-    margin-top: 0em;
-    width: 70%;
-} */
 
 .article-theo-dau-chan-xua p {
     font-size: 110%;

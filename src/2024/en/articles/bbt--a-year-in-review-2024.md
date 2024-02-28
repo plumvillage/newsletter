@@ -50,16 +50,16 @@ At long last, 400 Francophone friends from France, Switzerland, Belgium, and Can
 
 {% image "article2024/Done-Review of the Year/Francophone retreat/IMG_9618_.jpg", "noFloat lmnq3" %}
 
-<div style="height: 9mm"></div>
+<div style="height: 9mm;"></div>
 
 {% image "article2024/Done-Review of the Year/Francophone retreat/IMG_9732_.jpg", "noFloat lmnq3" %}
 {% image "article2024/Done-Review of the Year/Francophone retreat/SCCK and sisters 3.jpg", "noFloat lmnq3" %}
 
 ## Monastics on Tour
 
-In continuing Thay’s aspiration to share the practice of Engaged Buddhism worldwide, groups of brothers and sisters traveled on mindfulness tours on four continents: Europe (the UK, Ireland, France, Germany, Belgium, Netherlands, Sweden, Denmark, Czech Republic, Austria, Spain…); North America (Mexico, the US, Canada); South America (Colombia, Ecuador, Argentina, Brazil, Chile); and Asia (India, Taiwan).
+In continuing Thay’s aspiration to share the practice of Engaged Buddhism worldwide, groups of brothers and sisters traveled on four continents: Europe (the UK, Ireland, France, Germany, Belgium, Netherlands, Sweden, Denmark, Czech Republic, Austria, Spain…); North America (Mexico, the US, Canada); South America (Colombia, Ecuador, Argentina, Brazil, Chile); and Asia (India, Taiwan).
 
-<div style="height: 5.77mm"></div>
+<div style="height: 5.77mm;"></div>
 
 {% image "article2024/Done-Review of the Year/Monastic on Tour/20230423_172317 Best_e.jpg", "noFloat lmnq4", "Freiburg, Germany" %}
 {% image "article2024/Done-Review of the Year/Monastic on Tour/52903635294_54be3d0f22_o.jpg", "noFloat lmnq4", "Toronto, Canada" %}
@@ -124,7 +124,7 @@ Everyone participated in the Plum Village core practices, such as listening to t
 
 The local newspaper, Viet Bao, commented that “the Day of Mindfulness by Deer Park Monastery has inspired great happiness not only for the people attending but also for the atmosphere, plants, and animals in the surroundings. A gaggle of geese at the nearby pond also honked as though to greet and welcome the community. It has been a long time since Mile Square Park had a public event as peaceful as this.”
 
-<div style="height: 42mm"></div>
+<div style="height: 42mm;"></div>
 
 ## Cooking Retreat: Cooking Moment, Happy Moment *(26 May – 2 June 2023)*
 
