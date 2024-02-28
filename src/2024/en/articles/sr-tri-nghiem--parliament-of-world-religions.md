@@ -3,7 +3,7 @@ title: Plum Village Goes to the 2023 Parliament of the World’s Religions
 author: Sister Chân Trì Nghiêm
 ---
 
-<div class="editors-preface"><p>In August 2023, Sr. Luc Nghiem from Plum Village, France, and Sr. Tri Nghiem from Magnolia Grove Monastery in Mississippi, USA, were invited to take part in the 9<sup>th</sup> International Meeting of the Parliament of the World’s Religions (PWR) which took place in Chicago, USA. Sr. Tri Nghiem shares about the experience and what it meant to her.</p></div>
+<div class="editors-preface"><p>In August 2023, Sr. Luc Nghiem from Plum Village, France, and Sr. Tri Nghiem from Magnolia Grove Monastery in Mississippi, USA, were invited to take part in the 9<sup>th</sup> International Meeting of the Parliament of the World’s Religions (PWR) which took place in Chicago, USA. Sister Tri Nghiem shares about the experience and what it meant to her.</p></div>
 
 <div class="removeTopMarginInFollowingElem"></div>
 
