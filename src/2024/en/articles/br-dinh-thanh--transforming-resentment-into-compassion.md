@@ -25,7 +25,7 @@ I also placed next to the collage a quote from Thay:
 
 <div class="verse"><p>“There is a virus called CC, craving and corruption”</p></div>
 <!-- this was the original suggestions, but we could not find it there: -->
-<!-- <br/><cite>Excerpt from Thay’s poem <i>Recommendation</i></cite> -->
+<!-- <br/><cite>from the poem “Recommendation”</cite> -->
 
 ## Everything in the world is interconnected
 
