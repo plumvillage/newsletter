@@ -279,7 +279,7 @@ This year, the Sangha also welcomed 31 new monastic members into the following o
 
 <div class="removeIndentInFollowingElem"></div>
 
-During the 2-year memorial ceremony of Thay at the beginning of 2024, the Sangha ordained 11 monastics:
+During the 2-year memorial ceremony of Thay at the beginning of 2024, the Sangha ordained 11 new monastics:
 
  - **Tropical Almond Tree** (23 January at Dieu Tram Monastery, Hue, Vietnam) comprised of 4 brothers: *Chân Nhất Trú, Chân Nhất Âm, Chân Nhất Lạc, Chân Nhất Giới*; and 7 sisters: *Chân Mật Hạnh, Chân An Hạnh, Chân Hiếu Hạnh, Chân Lập Hạnh, Chân Quán Hạnh, Chân Đoan Hạnh, Chân Khánh Hạnh.*<div class="article-end"></div>
 
