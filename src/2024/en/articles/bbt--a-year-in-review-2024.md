@@ -44,13 +44,13 @@ The time had come again for the brothers and sisters of Plum Village France, Mai
 
 <div style="column-span: all; height: 1.5em; width: 100%;"></div>
 
-## Francophone Retreat<br/>*(7 – 14 April 2023)*
+## Francophone Retreat *(7 – 14 April 2023)*
 
 At long last, 400 Francophone friends from France, Switzerland, Belgium, and Canada reunited in Plum Village for the first Francophone retreat since 2019 due to the pandemic, themed *Ensemble, Tout Simplement* (loosly translated as Simply Together). What a precious opportunity it was for the multifold Sangha to celebrate Sr. Chan Khong’s 85th continuation day, as well as to welcome 18 new members into the Order of Interbeing.
 
 {% image "article2024/Done-Review of the Year/Francophone retreat/IMG_9618_.jpg", "noFloat lmnq3" %}
 
-<div style="height: 9mm;"></div>
+<div style="height: 4mm;"></div>
 
 {% image "article2024/Done-Review of the Year/Francophone retreat/IMG_9732_.jpg", "noFloat lmnq3" %}
 {% image "article2024/Done-Review of the Year/Francophone retreat/SCCK and sisters 3.jpg", "noFloat lmnq3" %}

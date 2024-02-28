@@ -23,7 +23,7 @@ author: Plum Village Community
 
 ## Healing Spring Monastery and Maison de L’Inspir – Paris, France
 
-*For more information, please visit: [www.healingspringmonastery.org](http://www.healingspringmonastery.org) and [www.maisondelinspir.org](http://www.maisondelinspir.org)*
+*For more information, please visit: [www.healingspringmonastery.org](http://www.healingspringmonastery.org) and [maisondelinspir.org](https://maisondelinspir.org/)*
 
 ## European Institute of Applied Buddhism – Germany
 
