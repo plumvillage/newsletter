@@ -86,7 +86,7 @@ If I nourish the seeds of love and compassion in me, then I will continue to see
 
 {% image "article2024/br-thien-chi/WhatsApp Image 2024-01-15 at 17.24.27.jpeg", "removeTopMargin" %}
 
-My greatest happiness during the tour was interacting with people. Learning about their way of life and hearing their stories, alongside breathing, laughing and crying with them. I learned and am still learning from them about how to be open, authentic, vulnerable and solid; how to let go, how to go through downfalls and depression, how to get up again and again, and how to love and live deeply. Being a monk offers me access to all these wonders of human experiences. I have had the privilege of connecting deeply with others on a spiritual level and collaborating with many to help build Sanghas. In this way we can support and nourish each other, we can heal ourselves and help those around us to do the same.
+My greatest happiness during the tour was interacting with people. Learning about their way of life and hearing their stories, alongside breathing, laughing and crying with them. I learned and am still learning from them about how to be open, authentic, vulnerable and solid; how to let go, how to go through downfalls and depression, how to get up again and again, and how to love and live deeply. Being a monk offers me access to all these wonders of human experiences. I have had the privilege of connecting deeply with others on a spiritual level and collaborating with many to help build sanghas. In this way we can support and nourish each other, we can heal ourselves and help those around us to do the same.
 
 <div class="article-end"></div>
 
