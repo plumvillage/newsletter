@@ -107,4 +107,4 @@ You have said, "Time is stilled in eternity, where love and the beloved are one.
 {% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/Le dai tuong 16.jpg", "noFloat hueMemorialEN p2" %}
 {% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/DSC7134.jpeg", "noFloat hueMemorialEN p2", "Asking permission of ancestral teachers to allow Thay to rest alongside them in the Ancestral Hall" %}
 
-{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/May trang thong dong 38.jpg", "noFloat hueMemorialEN p2 p2end", "Visiting Thay’s Memorial Monument at the Eternal Park, Hue" %}
+{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/May trang thong dong 38.jpg", "noFloat hueMemorialEN p2 p2end", "Visiting Thay’s Memorial Monument at Eternal Park, Hue, Vietnam" %}
