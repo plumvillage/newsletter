@@ -52,7 +52,7 @@ Năm nay, với chủ đề “Vững một niềm tin”, khóa tu xuất sĩ d
 
 ## Tiếng hát mùa xuân
 
-Sau ba năm bị gián đoạn vì đại dịch, hơn bốn trăm thiền sinh từ các nước như Pháp, Bỉ, Thụy Sĩ, Canada,… lại có cơ hội về Làng tu tập trong khóa tu dành cho cộng đồng nói tiếng Pháp, từ ngày 7 đến ngày 14.4. Cỏ cây, hoa lá cùng nắng ấm mùa xuân cũng hòa chung niềm vui sum vầy của đại gia đình Pháp ngữ. Niềm vui tiếp nối niềm vui khi tăng thân tổ chức mừng Ngày Tiếp nối lần thứ 85 của Ni trưởng Chân Không và chào đón thêm 18 thành viên mới của Dòng tu Tiếp hiện.
+Sau ba năm bị gián đoạn vì đại dịch, hơn bốn trăm thiền sinh từ các nước như Pháp, Bỉ, Thụy Sĩ, Canada,… lại có cơ hội về Làng tu tập trong khóa tu dành cho cộng đồng nói tiếng Pháp, từ ngày 7 đến ngày 14.4. Cỏ cây, hoa lá cùng nắng ấm mùa xuân cũng hòa chung niềm vui sum vầy của đại gia đình Pháp ngữ. Niềm vui tiếp nối niềm vui khi tăng thân tổ chức mừng Ngày Tiếp nối lần thứ 85 của Sư cô Chân Không và chào đón thêm 18 thành viên mới của Dòng tu Tiếp hiện.
 
 {% image "article2024/Done-Review of the Year/Francophone retreat/IMG_9618_.jpg", "noFloat lmnq3" %}
 
@@ -63,7 +63,7 @@ Sau ba năm bị gián đoạn vì đại dịch, hơn bốn trăm thiền sinh 
 
 ## Thong dong vạn nẻo đường
 
-Tiếp nối hạnh nguyện hoằng hóa của Sư Ông đem đạo Bụt ứng dụng đến muôn nơi, “bầy ong siêng năng” đã bắt đầu lên đường với những chuyến hoằng pháp tại châu Âu (Anh, Ireland, Pháp, Đức, Bỉ, Hà Lan, Thụy Điển, Đan Mạch, CH Séc, Áo, Tây Ban Nha…); Châu Mỹ (Mỹ, Canada, Mexico, Colombia, Ecuador, Argentina, Brazil, Chile); và châu Á (Ấn Độ, Đài Loan).
+Tiếp nối hạnh nguyện hoằng hóa của Sư Ông đem đạo Bụt ứng dụng đến muôn nơi, “bầy ong siêng năng” đã bắt đầu lên đường với những chuyến hoằng pháp tại châu Âu (Anh, Ireland, Pháp, Đức, Bỉ, Hà Lan, Thụy Điển, Đan Mạch, CH Séc, Áo, Tây Ban Nha…); châu Mỹ (Mỹ, Canada, Mexico, Colombia, Ecuador, Argentina, Brazil, Chile) và châu Á (Ấn Độ, Đài Loan).
 
 <div style="height: 5.77mm"></div>
 
