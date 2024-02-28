@@ -4,7 +4,7 @@ author: Sister Chân Trăng Bồ Đề
 ---
 
 
-<p class="editors-preface">Sister Trang Bo Đe is of Vietnamese origin. She ordained in 2016 in the Kanikonna Tree ordination family in Thai Plum Village. She has been residing, practicing and serving at New Hamlet, Plum Village, France, since 2016. She is great at playing with children, as well as having fun in teaching Vietnamese to her non-Vietnamese monastic siblings.</p>
+<p class="editors-preface">Sister Trang Bo Đe is of Vietnamese origin. She ordained in 2016 in the Kanikonna Tree ordination family at Thai Plum Village. She has been residing, practicing and serving at New Hamlet, Plum Village, France, since 2016. She is great at playing with children, as well as having fun in teaching Vietnamese to her non-Vietnamese monastic siblings.</p>
 
 {% image "article2024/Done-Sr-Bo-De/_DSC7412.jpg", "removeTopMargin" %}
 
@@ -92,7 +92,7 @@ two hands protecting,<br/>
 two hands nourishing,<br/>
 two hands preventing<br/>
 my soul from leaving me<br/>
-in anger.”<br/><cite>—From the poem “For Warmth”</cite></p></div>
+in anger.”<br/><cite>—from the poem “For Warmth”</cite></p></div>
 
 The great poet, Nguyen Du, once wrote, “The body may have transcended, but its essence remains” *(Thác là thể phách, còn là tinh anh)*. Thay is an incense that has burned to its end, but its fragrance will permeate the air for eternity.
 
