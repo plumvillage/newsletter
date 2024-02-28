@@ -143,7 +143,7 @@ Concomitant with the cooking retreat at New Hamlet was the retreat for over 50 V
 
 <div class="page-break"></div>
 
-## Retreat for Young Asian Diaspora:<br/>Coming Home to Our Roots<br/>*(2 – 9 June 2023)*
+## Retreat for Young Asian Diaspora:<br/>Finding Our True Home<br/>*(2 – 9 June 2023)*
 
 A first of its kind in Plum Village in Lower Hamlet, this retreat provided a space of reconnection to ancestral roots for many young Asians growing up and living in the West. These up-and-coming young individuals explored reflections by themselves and with each other: Where is our true home? Is it a particular place with particular people within a particular culture? What if we had to leave our “home”? Or grew up in a culture vastly different from that of our parents? Please <a href="#coming-home-to-our-roots">read the article, “Coming Home to Our Roots,”</a> in this newsletter written by three international Wake Up sangha core members to understand more about how it felt for them to get in touch with their ancestral roots.
 
