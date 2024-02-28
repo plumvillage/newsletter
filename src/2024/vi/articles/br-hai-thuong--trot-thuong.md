@@ -35,7 +35,7 @@ author: Thầy Chân Trời Hải Thượng
 
 Đã trót đi lối cỏ chiều gió con đường dẫn về một vùng đất đỏ ráng chiều nhuộm tím chùm núi xa, cả khoảnh vườn gần không gian nín thở phút chốc rồi giã từ, chìm sâu giấc ngủ để một mình suy tư rẽ muôn lối bước đêm
 
-Đã trót thương trăng đêm kiên nhẫn đợi bước khuya dời góc suy tư, dạo mắt qua khu vườn đầy bóng lá thêu hoa hoà tiếng dế còn thức ngợi ca tĩnh mịch, thời gian mệt ngủ quên đọng ướt trên mái ngói màu trăng
+Đã trót thương trăng đêm kiên nhẫn đợi bước khuya rời góc suy tư, dạo mắt qua khu vườn đầy bóng lá thêu hoa hoà tiếng dế còn thức ngợi ca tĩnh mịch, thời gian mệt ngủ quên đọng ướt trên mái ngói màu trăng
 
 Đã trót thương một góc riêng bí mật, hàng dương, rừng keo hay mé đồi gốc me hàng phượng, chợt hóa thiên đường sau ngày Chủ Nhật, sớm đầu tuần võng, chiếu, loa “tất bật”, cùng nhau thơ, trà, bánh… tập lại cách buông bỏ, biếng lười
 
@@ -47,11 +47,11 @@ author: Thầy Chân Trời Hải Thượng
 
 Đã trót thương gương mặt trẻ, em từ đâu tới và đang tìm chi, không đến nơi đây vì vị Thầy nổi tiếng, cũng chưa từng nghe biết Thiền sư, nhưng khổ đau hôm nay trên tay em đang thật có — tuổi hai mươi vốn liếng bấy nhiêu ra đi tìm câu trả lời chân thực; từ đó tương lai chúng ta sẽ cùng dựng xây tiếp nối, từ gia tài Người để lại
 
-Đã trót thương tấm áo nâu vách núi từng nút gài thu giấu hình hài sắc hương mùa xuân đang tràn đầy nhựa sống; sức trẻ tuổi trinh nguyên em cúi xuống chọn hạnh của đất thanh bần, từ đây nguyện giữ lòng như băng tuyết tinh khiết, mỗi mỗi tâm niệm hướng về nẻo an lành; 
+Đã trót thương tấm áo nâu vách núi từng nút gài thu giấu hình hài sắc hương mùa xuân đang tràn đầy nhựa sống; sức trẻ tuổi trinh nguyên em cúi xuống chọn hạnh của đất thanh bần, từ đây nguyện giữ lòng như băng tuyết tinh khiết, mỗi mỗi tâm niệm hướng về nẻo an lành
 
 Đã trót thương bữa hẹn cơm chiều làm biếng, mấy anh em chung phòng kiên nhẫn đợi nhau tối mịt, gom góp quây quần cơm canh muống luộc chấm tương, đêm rằm đèn nến tù mù chờ trăng không lộ diện. Chạy mưa!
 
-Đã trót giận, mà thương những hành xử ngây thơ vụng dại, nét cười hồn nhiên vị Mâu ni trẻ tuổi, nhìn lại nơi mình cũng thấy mình đã từng thơ dại tuổi đôi mươi.
+Đã trót giận, mà thương những hành xử ngây thơ vụng dại, nét cười hồn nhiên vị Mâu ni trẻ tuổi, nhìn lại nơi mình cũng thấy mình đã từng thơ dại tuổi đôi mươi
 
 Đã trót thương mình biết thương mình đã thành như thế và không thể không như thế, phút hiện tại này tạo tác đã có thời điểm hẹn dừng
 
