@@ -100,7 +100,7 @@ You have said, “Time is stilled in eternity, where love and the beloved are on
 {% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/Le dai tuong 19.jpg", "noFloat hueMemorialEN p2" %}
 {% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/VN 24_Lễ Đại Tường_023.jpg", "noFloat hueMemorialEN p2", "Inviting Thay’s relics to the Deep Listening Hut" %}
 {% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/_DSC7059.jpg", "noFloat hueMemorialEN p2", "Br. Phap An leading the procession to the Ancestral Hall" %}
-{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/_DSC7084.jpg", "noFloat hueMemorialEN p2", "Br. Phap Hai carrying Thay’s Sanghati; Br. Phap Luu carrying Thay’s Alms Bowl" %}
+{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/_DSC7084.jpg", "noFloat hueMemorialEN p2", 'Br. Phap Hai carrying Thay’s Sanghati;<br/>Br. Phap Luu carrying Thay’s Alms Bowl' %}
 
 {% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/Le dai tuong 30.1.jpg", "noFloat hueMemorialEN p2" %}
 {% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/VN 24_Lễ Đại Tường_24.jpg", "noFloat hueMemorialEN p2" %}

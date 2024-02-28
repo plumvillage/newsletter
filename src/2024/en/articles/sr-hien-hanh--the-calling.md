@@ -48,7 +48,7 @@ With a peaceful heart, I was imbued with Thay’s insight: “I am one with all 
 > Breathing in, I saw that this body my mother had given me was still healthy and at peace.  
 > Breathing out, I saw that my spiritual practice and insights continued to be nourished by Thay.
 
-Thay and my mother manifested in my heart at the same time. Thay and my mother were one, warm and sweet as in Thay’s *A Rose for your Pocket*:
+Thay and my mother manifested in my heart at the same time. Thay and my mother were one, warm and sweet as in Thay’s *A Rose for Your Pocket*:
 
 <div class="verse"><p>“Mother, you are a gentle stream.<br/>
 Mother, you are an angelic song,<br/>
@@ -59,6 +59,3 @@ the torch in the night when I am lost.”</p></div>
 The candlelight was still flickering. The cup of tea was slowly emptying. I deeply understood the countless causes and conditions that supported every step I took. Joining my palms, I sent Mother Earth the most fragrant flowers and the sweetest fruits (of my practice) to everyone. The love of Thay, my mother, and friends was forever pure and fresh.
 
 The weather is quite cold this Christmas season. I light a candle, enjoy some tea and wrap my gratitude onto the pages of this journal. There are no gifts or sweets to send to my beloved, but my heart is at peace. Thay is already in me and the people I love through serving together, understanding and empathizing with one another. We have been a part of each other since beginningless time.
-
-<!-- <div class="article-end"></div> -->
-

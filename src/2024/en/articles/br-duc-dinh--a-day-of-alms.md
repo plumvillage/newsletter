@@ -3,9 +3,13 @@ title: A Day of Alms
 author: Brother Chân Trời Đức Định
 ---
 
+## Favorable conditions
+
 A few years ago, during a hike with some of my monastic brothers and sisters in Thénac, the small village where Upper Hamlet is located, the idea came up that we might one day walk from house to house asking for alms from our neighboring friends, as is a tradition that dates back to the Buddha’s time.
 
 At the beginning of this Rains Retreat, I suggested that we do it, and in this way beautifully end our 3-month retreat. At first, I was surprised at how easily and happily the brothers agreed to it. Very soon we had an enthusiastic organizing team of three monks and five lay friends. Throughout the whole project, we were supported by favorable conditions and had very few challenges. It seemed that the conditions were ripe for us to gracefully flow as a sangha. I was astonished that a project involving so many people could manifest so harmoniously.
+
+## One body, one heart
 
 On the Saturday morning of 13 January 2024, two groups of brothers took our alms bowls and walked to the village of Thénac, through the countryside of France, when all the trees, grass blades and the whole landscape were covered with a white layer of frost. After receiving offerings from one household, we offered them a chant “May the Day be Well,” bowed in deep gratitude and continued to enjoy our walk.
 
@@ -15,6 +19,8 @@ As we silently walked together in procession, I could feel that we were one body
 
 {% image "article2024/Done-Br.Đức Định/Rains retreat 23-24_16.jpg" %}
 
+## Watering the seeds of gratitude and generosity
+
 When we came back to Upper Hamlet, the rest of the sangha, composed of the 3-month retreatants, long-term residents and local sangha members, were absorbed in a joyful service meditation to prepare the hamlet: some were setting up the meditation hall for the whole sangha to have lunch together after the alms round, while others volunteered to cook for the rest of the residents. There was also another group cooking at the nearby sangha organic shop. Some neighboring friends even brought delicious homemade food. The day before, as I took a walk in Thénac, I passed by the home of several practitioners, and saw them cooking through the window. I thought they might be preparing something for tomorrow’s alms offering. I was moved with gratitude, thinking there might be many more of our friends preparing food at that moment for the community with a generous heart.
 
 We then had a final procession in Upper Hamlet, all the monks in ordination order receiving alms in their bowl from the lay practitioners. As I received the food I felt slightly nervous but also very happy to see our friends so wholehearted in serving food to the brothers. After the brothers, our friends also received food and we all entered the meditation hall to eat. We had a silent meal, where we also shared the dried fruits, nuts and other offerings we had received at the houses in Thénac.
@@ -22,6 +28,8 @@ We then had a final procession in Upper Hamlet, all the monks in ordination orde
 The whole event was a chance for many brothers to connect with our friends who live close to the monastery. In daily life and Days of Mindfulness, brothers don’t necessarily have a chance to recognize who is who, especially if they don’t speak the same language as the local friends or don’t attend the same Dharma sharing groups.
 
 I am thankful to the organizing team of this alms round event; everyone embodied the spirit I believe Thay would have suggested to us: we worked together relaxedly, joyfully, harmoniously, efficiently but not caught in expecting certain results. I also feel grateful to my two brothers who joined the team, offering great support. I enjoyed this opportunity to connect with them while serving the sangha together.
+
+## Beautiful in every way
 
 At the first of our friends’ houses, I received food in my bowl from a close friend, who actually ordained as a monk the same day as me, and later founded a family. A part of me wasn’t too comfortable for an instant. I didn’t really know where to stand, where he was, what sort of relationship was manifesting between us now.
 
@@ -61,7 +69,7 @@ Then I can fully receive the alms<br/>
 And bless the person who offers it<br/>
 With a true smile</p></div>
 
-<div class="removeIndentInFollowingElem"></div>
+## The alms round is a Dharma door
 
 A number of us asked ourselves, “Is this only a symbolic act we are organizing? Do we cultivate the idea we are doing like the Buddha, while, in fact, we have more than enough food and comfort in the monastery?”
 

@@ -35,7 +35,7 @@ Located in Nazaré Paulista, in the countryside of São Paulo, this secular spir
 
 {% image "article2024/br-duc-hien/Brazil/IMG_4141.JPG", "noFloat" %}
 
-<div style="height: 4em;"></div>
+<p style="margin-bottom: 4em;"></p>
 
 The host who welcomed us spoke French very well. He had traveled a lot and ended up settling there. He is now one of the coordinators of this practice center. Like Plum Village, they also welcome retreatants throughout the year. There reigned an atmosphere of beauty, serenity, united in joy. I very quickly felt a deep synergy with this place and its inhabitants.
 
