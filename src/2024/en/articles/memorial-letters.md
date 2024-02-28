@@ -63,7 +63,7 @@ You gave everything to build the beloved community, and today we make the vow to
 
 Dear Thay, we know that you are much more than your physical body. You are your teachings, your sangha, your immense compassionate action in the world. You are present wherever one of your students is taking a mindful breath or mindful step. You are also present in your cosmic body, just as the cosmos is present in you. And so, every time we enjoy the golden daffodils, the purple bamboo, the view from the mountain peak, or the gentle creek winding its way to the ocean, we will enjoy these wonders with your eyes and with your smile. 
 
-You have said, "Time is stilled in eternity, where love and the beloved are one.” Dear Thay, you are present here with us in this very moment, as we climb the hill of the 21st century together. What you have not yet completed, we promise to complete for you. We would like to express our deep love and gratitude as we make the vow to carry your teachings, compassion, and insight far into the future.
+You have said, “Time is stilled in eternity, where love and the beloved are one.” Dear Thay, you are present here with us in this very moment, as we climb the hill of the 21st century together. What you have not yet completed, we promise to complete for you. We would like to express our deep love and gratitude as we make the vow to carry your teachings, compassion, and insight far into the future.
 
 <p class="signoff">
 <span class="signoff-lvl-1">This is a legendary moment. This is a happy moment,</span><br/>

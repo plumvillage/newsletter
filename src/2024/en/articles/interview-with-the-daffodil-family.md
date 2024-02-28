@@ -26,7 +26,7 @@ author: Interview with the Daffodil ordination family
 
 Before, I had never felt like having a clear path. I often acted out of fear and stress, trying to survive in the world. But this path was just there for me to walk very calmly and joyfully. The feeling was very much one of letting go of fear. Deciding to become a monastic felt very light and freeing.
 
-***Br. Nhat Moc*** *(True Tree of Oneness):* To make a long story short; I read many of Thay’s books and I felt I wanted to become a monk, even though I had never been to Plum Village. I thought, even if Plum Village is only half as good as I think it is from reading the books, it’s still the place I want to become a monk at. So on the first day of being in Plum Village, I said, "I want to become a monk here. This is the place."
+***Br. Nhat Moc*** *(True Tree of Oneness):* To make a long story short; I read many of Thay’s books and I felt I wanted to become a monk, even though I had never been to Plum Village. I thought, even if Plum Village is only half as good as I think it is from reading the books, it’s still the place I want to become a monk at. So on the first day of being in Plum Village, I said, “I want to become a monk here. This is the place.”
 
 ***Editorial team:*** We remember you approached one of us, (enthusiastically) “I wanna become a monk, how do I do it.” And we said: “Ok. Ok. Arrive first.” (laughter)
 

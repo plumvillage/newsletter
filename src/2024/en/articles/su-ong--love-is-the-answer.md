@@ -3,7 +3,7 @@ title: Love is the Answer
 author: An Interview with Thay
 ---
 
-<p class="editors-preface">This is an abridged excerpt from a “lost” interview conducted by Jo Confino (working for the Guardian at the time) in 2012 with Thay at the Toadskin Hut in Son Ha Monastery. The entire interview is available on the Plum Village Podcast, "The Way Out is In," episode #47 aired on 21 March 2023.</p>
+<p class="editors-preface">This is an abridged excerpt from a “lost” interview conducted by Jo Confino (working for the Guardian at the time) in 2012 with Thay at the Toadskin Hut in Son Ha Monastery. The entire interview is available on the Plum Village Podcast, “The Way Out is In,” episode #47 aired on 21 March 2023.</p>
 
 {% image "article2024/Done-interview-with-thay/TNH - spain2014 (2).jpg" %}
 
