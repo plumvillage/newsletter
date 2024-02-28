@@ -78,7 +78,7 @@ the moon appears.</p>
 Every time you look at it,<br/>
 it is brand new.</p></div> -->
 
-<div class="verse"><p>“Nước Bích lắng trong, ngàn sông có nước ngàn sông trăng hiện.<br/>
+<div class="verse"><p>“Nước Bích lắng trong, ngàn sông có nước ngàn sông trăng hiện.<br/>
 Non Nham tú lệ, mỗi lần nhìn lại mỗi lần mới tinh.”</p></div>
 
 <div class="verse"><p>“The blue water is clear. In the water of a thousand rivers, the moon appears.<br/>
