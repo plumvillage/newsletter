@@ -2081,6 +2081,9 @@ figure.scckSmall {
 .article-lich-sinh-hoat-nam-2024 ul li {
     margin-top: 0;
 }
+.article-retreats-calendar-2024 ul li::before {
+    color: white;
+}
 .article-retreats-calendar-2024 span.space,
 .article-lich-sinh-hoat-nam-2024 span.space {
     width: 6mm;

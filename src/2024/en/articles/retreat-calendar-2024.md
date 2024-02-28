@@ -23,7 +23,7 @@ author: Plum Village Community
 
 ## Healing Spring Monastery and Maison de L’Inspir – Paris, France
 
-*For more information, please visit: [www.healingspringmonastery.org](http://www.healingspringmonastery.org)* and [www.maisondelinspir.org](http://www.maisondelinspir.org)
+*For more information, please visit: [www.healingspringmonastery.org](http://www.healingspringmonastery.org) and [www.maisondelinspir.org](http://www.maisondelinspir.org)*
 
 ## European Institute of Applied Buddhism – Germany
 
@@ -65,8 +65,8 @@ author: Plum Village Community
 - 20.03 – 24.03<span class="space"></span>International Online Retreat: At Home in the World
 - 07.04 – 13.04<span class="space"></span>Wake Up Retreat
 - 18.04 – 21.04<span class="space"></span>Climate Action Mindfulness Retreat
-- 08.05 – 12.05<span class="space"></span>Vietnamese Wake Up Tour
-- 14.05 – 14.06<span class="space"></span>Wake Up Tour tiếng Việt
+- 08.05 – 12.05<span class="space"></span>20<sup>th</sup> Anniversary BIPOC Retreat
+- 14.05 – 14.06<span class="space"></span>Vietnamese Wake Up Tour
 - 26.06 – 30.06<span class="space"></span>Family Retreat
 - 10.07 – 14.07<span class="space"></span>Teen Camp
 - 28.07 – 03.08<span class="space"></span>Mindful Backpacking Retreat
@@ -74,8 +74,7 @@ author: Plum Village Community
 - 13.10 – 12.01.**25** 90-rains Rains Retreat
 - 29.12 – 02.01.**25** Holiday Retreat
 
-*For more information, please visit:  
-[www.deerparkmonastery.org](http://www.deerparkmonastery.org)* 
+*For more information, please visit: [www.deerparkmonastery.org](http://www.deerparkmonastery.org)* 
 
 ## Magnolia Grove Monastery – Mississippi, USA
 
@@ -83,8 +82,7 @@ author: Plum Village Community
 - 10.10 – 14.10<span class="space"></span>Silent Retreat
 - 28.12 – 01.01.**25** Holiday Retreat
 
-*For more information, please visit:  
-[www.magnoliagrovemonastery.org](http://www.magnoliagrovemonastery.org)* 
+*For more information, please visit: [www.magnoliagrovemonastery.org](http://www.magnoliagrovemonastery.org)* 
 
 ## Thai Plum Village – Thailand
 
@@ -93,15 +91,13 @@ author: Plum Village Community
 - 17.07 – 23.07<span class="space"></span>Family Retreat
 - 01.08 – 29.10<span class="space"></span>90-day Summer Retreat
 
-*For more information, please visit:  
-[www.thaiplumvillage.org](http://www.thaiplumvillage.org)* 
+*For more information, please visit: [www.thaiplumvillage.org](http://www.thaiplumvillage.org)* 
 
 ## Mountain Spring Monastery – Australia
 
 - 29.03 – 01.04<span class="space"></span>Easter Retreat
 
-*For more information, please visit:  
-[www.mountainspringmonastery.org](http://www.mountainspringmonastery.org)*
+*For more information, please visit: [www.mountainspringmonastery.org](http://www.mountainspringmonastery.org)*
 
 ## Stream Entering Monastery – Australia
 
@@ -115,4 +111,4 @@ author: Plum Village Community
 - 11.10 – 13.10<span class="space"></span>Wake Up Retreat
 - 22.12 – 26.12<span class="space"></span>Christmas Family Retreat
 
-*For more information, please visit: [vi.nhapluu.org](https://vi.nhapluu.org/)*
+*For more information, please visit: [www.nhapluu.org](https://nhapluu.org/)*
