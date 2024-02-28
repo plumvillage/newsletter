@@ -15,7 +15,7 @@ Last June, the *Finding Our True Home* Retreat was the first retreat specificall
 
 In her Dharma talk, Sr. Lang Nghiem shared about the four elements of true love and reminded us that Thay taught us that love is understanding. “True love is limitless, so is understanding and vice versa.” We felt that during this retreat we all touched a deep love that was hard to put into words: unconditional love from the monastic sisters, love for our parents and our ancestors, love for our roots that we had long thought were buried, love for our cultural practices, and love for ourselves.
 
-{% image "article2024/Done-Coming home to our roots/WhatsApp Image 2023-12-22 at 17.15.44 (1)_e.jpg", "", "Compassion Family on lazy day after breakfast on Thay’s deck" %}
+{% image "article2024/Done-Coming home to our roots/WhatsApp Image 2023-12-22 at 17.15.44 (1)_e.jpg", "", "Compassion family on lazy day after breakfast on Thay’s deck" %}
 
 During this one week that provided us a safe space, everyone practiced wholeheartedly. Every little activity became meaningful and sacred. During one gathering before our working meditation, a sister invited us to sing the song “Happiness is Here and Now” and dedicate this song to our parents. She reminded us that our parents might not have yet had the opportunity to “let go of their worries,” and we can offer them our peace and freedom while singing this song. Many friends were moved to tears.
 
