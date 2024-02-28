@@ -43,7 +43,7 @@ It is the field of all good seeds.<br/>
 I bow my head to receive it today,<br/>
 and wear it lifetime after lifetime.</p></div> -->
 
-Aaron, formerly Br. Phap Man, lives here, and has been gently guiding the lay friends during the Rains Retreat. On Lazy Day Mondays he can be found hanging out – literally *hanging on* to the cliff of the waterfall! – on climbing ropes. I come out with him bringing tea and enjoy the morning in the shade of a mountain, putting on climbing shoes and hitching the rope to my harness to start the climb. <br/>*Breathing in, I reach for the tiny crack in the rock wall. Breathing out, the rock and I are not two. <br/>In, crack in rock. Out, rock and I are inseparable*.
+Aaron, formerly Br. Phap Man, lives here, and has been gently guiding the lay friends during the Rains Retreat. On Lazy Day Mondays he can be found hanging out – literally *hanging on* to the cliff of the waterfall! – on climbing ropes. I come out with him bringing tea and enjoy the morning in the shade of a mountain, putting on climbing shoes and hitching the rope to my harness to start the climb. <br/>*Breathing in, I reach for the tiny crack in the rock wall. Breathing out, the rock and I are not two. <br/>In, crack in rock. <br/>Out, rock and I are inseparable*.
 
 Here we are, at the cusp of a great flowering of Buddhism in America, and the Plum Village tradition is sending down deep, diverse roots. As I walk on the red ground of the valley, moving through the fragrant chaparral, I remember Thay’s words: “The ancestors have already prepared everything.” With each mindful step, their will becomes manifest.
 
