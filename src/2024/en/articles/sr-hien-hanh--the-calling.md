@@ -48,7 +48,7 @@ With a peaceful heart, I was imbued with Thay’s insight: “I am one with all 
 > Breathing in, I saw that this body my mother had given me was still healthy and at peace.  
 > Breathing out, I saw that my spiritual practice and insights continued to be nourished by Thay.
 
-Thay and my mother manifested in my heart at the same time. Thay and my mother were one, warm and sweet as in Thay’s “A Rose for your Pocket”:
+Thay and my mother manifested in my heart at the same time. Thay and my mother were one, warm and sweet as in Thay’s *A Rose for your Pocket*:
 
 <div class="verse"><p>“Mother, you are a gentle stream.<br/>
 Mother, you are an angelic song,<br/>
