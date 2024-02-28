@@ -70,18 +70,12 @@ I clearly see the reason for my presence and my practice here. I clearly see tha
 
 Tonight, the moon is so bright outside the window of my room, it reminds me of the year I sat with Thay on a bench watching the moon. Thay told me: “Only when we are free, can we see the bright moon…” Did Thay want to tell me that only when I am not busy with family or social matters, only when my heart is not filled with desires, wishes, and sorrows, only then will I be able to truly be in touch with the bright moon? As Thay’s parallel verses in the Great Togetherness Meditation Hall of Blue Cliff Monastery says:
 
-<!-- <div class="pull-quote" style="font-size: 155%;"><p>The blue water is clear.<br/>
-In the water of a thousand rivers,<br/>
-the moon appears.</p>
-
-<p>The mountain cliff is beautiful.<br/>
-Every time you look at it,<br/>
-it is brand new.</p></div> -->
+<!-- <div style="margin-bottom: 4em;"></div> -->
 
 <div class="verse"><p>“Nước Bích lắng trong, ngàn sông có nước ngàn sông trăng hiện.<br/>
-Non Nham tú lệ, mỗi lần nhìn lại mỗi lần mới tinh.”</p></div>
+Non Nham tú lệ, mỗi lần nhìn lại mỗi lần mới tinh.”</p>
 
-<div class="verse"><p>“The blue water is clear. In the water of a thousand rivers, the moon appears.<br/>
+<p>“The blue water is clear. In the water of a thousand rivers, the moon appears.<br/>
 The mountain cliff is beautiful. Every time you look at it, it is brand new.”</p></div>
 
 I would like to say to Thay: “Dear respected Thay, I am very happy because every day I see our direction clearly and know where I am going. The gratitude I have for my teacher, for the Patriarchs, for my spiritual family, for my parents, and for my blood family will never run dry. In 2024, we commemorate the two years of your passing; but right now, I know that you are roaming freely, and that you will still be forever in our hearts.”
