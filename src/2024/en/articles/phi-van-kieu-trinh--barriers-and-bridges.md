@@ -5,7 +5,7 @@ author: Phi Vân Kiều Trinh
 
 {% image "article2024/kieu-trinh/DSC09880_e.jpg" %}
 
-<div class="verse removeTopMarginInFollowingElem removeIndentInFollowingElem" style="column-span: all; margin-bottom: 1.1em;"><p>I am sitting by a pond full of lotus flowers. This year is already half over, yet the buds of the lotus flowers have still not bloomed. They take their time.<b>
+<div class="verse removeTopMarginInFollowingElem removeIndentInFollowingElem" style="column-span: all; margin-bottom: 1.1em;"><p>I am sitting by a pond full of lotus flowers. This year is already half over, yet the buds of the lotus flowers have still not bloomed. They take their time.<br/>
 The sun shines on the lush green and bowl shaped lotus leaves. Yesterday, I saw water collecting in these leaves, swirling around with the wind.<br/>
 I gaze at the forest behind the pond. The enormous trees reach almost to the light blue sky. Their leaves rustle, as if they are all waving to me excitedly.<br/>
 I smile back. Alongside the pond a bird hops through the meadow. Even though he can fly, it must be beautiful to wander on the Earth sometimes.<br/>
