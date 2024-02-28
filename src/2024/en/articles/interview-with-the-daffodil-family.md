@@ -3,7 +3,7 @@ title: Greeting the Dawn
 author: Interview with the Daffodil ordination family
 ---
 
-<p class="editors-preface">On 5 November 2023, ten young people shed their hair to become novice monks and nuns of the Daffodil ordination family in Plum Village France. The newsletter team had a chance to interview them after their ordination to learn about their journeys, transformations, challenges, and aspirations.</p>
+<p class="editors-preface">On 5 November 2023, ten young people shed their hair to become novice monks and nuns of the Daffodil ordination family in Plum Village France. The editorial team had a chance to interview them after their ordination to learn about their journeys, transformations, challenges, and aspirations.</p>
 
 <!-- https://plumvillage.org/articles/daffodil-family-ordination-ceremony-2023
     Sister Chân Đôn Hạnh – Sister True Kind Action
@@ -18,7 +18,7 @@ author: Interview with the Daffodil ordination family
     Brother Chân Nhất Xuân – Brother True Spring of Oneness
 -->
 
-***Newsletter team:*** Could you share with us how you came to realize, “This is it! This is the path that I have been looking for.”
+***Editorial team:*** Could you share with us how you came to realize, “This is it! This is the path that I have been looking for.”
 
 {% image "article2024/Done-Daffodil family/044_110723.jpg" %}
 
@@ -28,7 +28,7 @@ Before, I had never felt like having a clear path. I often acted out of fear and
 
 ***Br. Nhat Moc*** *(True Tree of Oneness):* To make a long story short; I read many of Thay’s books and I felt I wanted to become a monk, even though I had never been to Plum Village. I thought, even if Plum Village is only half as good as I think it is from reading the books, it’s still the place I want to become a monk at. So on the first day of being in Plum Village, I said, "I want to become a monk here. This is the place."
 
-***Newsletter team:*** We remember you approached one of us, (enthusiastically) “I wanna become a monk, how do I do it.” And we said: “Ok. Ok. Arrive first.” (laughter)
+***Editorial team:*** We remember you approached one of us, (enthusiastically) “I wanna become a monk, how do I do it.” And we said: “Ok. Ok. Arrive first.” (laughter)
 
 {% image "article2024/Done-Daffodil family/Br.Nhat Thanh_2_e.jpg" %}
 
@@ -54,7 +54,7 @@ Somehow, I fell in love with the practice and the monastic aspiration came natur
 
 I am very grateful to my former teachers in Madrid and in France, as well as to my Sangha, for nurturing the seeds of my monastic aspiration and supporting me on my Path.
 
-***Newsletter team:*** But why Plum Village?
+***Editorial team:*** But why Plum Village?
 
 ***Sr. Don Hanh:*** Thay’s teachings have accompanied me since I was a teenager through his books and Dharma talks, and have always touched my heart directly. They are clear, simple, beautiful and very deep, with concrete practices that respond to the real needs of our world.
 
@@ -100,7 +100,7 @@ Unfortunately, my parents are not supportive of me ordaining, and I know it is g
 
 ***Br. Nhat Vu*** *(True Rain of Oneness):* I had practiced and even taught mindfulness for a long time already, trying to help people who suffered from chronic pain in hospitals and also employees in companies. Being totally on my own, I quickly got exhausted, because there was so much suffering. That is how I came to consider monastic life, in order to be part of a Sangha, experienced and deeply rooted, so that I could be stronger in the practice of love and understanding, develop joy and happiness and then be of a better support for more people.
 
-***Newsletter team:*** There are people who feel that it’s easy to take refuge in the Buddha, the Dharma, but not the Sangha. Community life is quite challenging, especially for those coming from the West. How is your experience of living with the Plum Village community? How is your experience of sharing rooms with many people?
+***Editorial team:*** There are people who feel that it’s easy to take refuge in the Buddha, the Dharma, but not the Sangha. Community life is quite challenging, especially for those coming from the West. How is your experience of living with the Plum Village community? How is your experience of sharing rooms with many people?
 
 ***Br. Nhat Van:*** I grew up in a boarding school, which hosted hundreds of children, from age ten and only coming home for weekends. I was sleeping in a dorm of around 30 to 100 children. So I’m used to wearing uniforms, short hair, fine manners, ceremonies and living together (laughter). I made strong friendships for life there; it taught me brotherhood, sisterhood, and siblinghood. So sharing in a community is being at home completely for me and I am very happy living together.
 
@@ -128,7 +128,7 @@ Of course, it takes some time to get to know everybody. I enjoy always having ma
 
 ***Br. Nhat Vu:*** After living alone for the last 20 years, I have to admit that the first year in a dormitory with seven people has been more than challenging. The noise, the rhythm, the feeling of not having my own refuge space — I had to unlearn and relearn everything. It is a good practice for my individualistic mindset. On the upside, sharing resources and being able to take refuge in the sangha is quite a relief and brings me joy.
 
-***Newsletter team:*** We felt touched to hear from your families and friends who came for the ordination. How has being with your family been for you? Are there things that have changed in how you respond in family situations?
+***Editorial team:*** We felt touched to hear from your families and friends who came for the ordination. How has being with your family been for you? Are there things that have changed in how you respond in family situations?
 
 ***Br. Nhat Xuan:*** I can share about the relationship with my blood brother. I am 22, he is 25. We grew up sharing the same room and are quite close to each other, but it has not always been easy. I noticed over the last years practicing in the Plum Village tradition that my expectations for him diminished, e.g. wanting him to be or to do what seems right to me. I think these expectations make me suffer. Having less expectations really helps our relationship be enjoyable. I don’t want to wait ten years to enjoy a moment with my blood brother in the present moment.
 

@@ -3,7 +3,7 @@ title: "Music: A Dharma Door"
 author: Brother Chân Pháp Hữu
 ---
 
-<p class="editors-preface">In 2023, Plum Village monastics went on their first music tour across North America, titled “The Way Out Is In: A Musical Meditation.” It offered a unique blend of contemplative music, poetry and short, inspiring teachings. The tour started on 21 April in Baltimore, went on to Washington D.C. and Boston, and ended with a concert in Toronto, Canada on 1 May. The following is a summary of an interview the newsletter team conducted with Br. Phap Huu on 2 January 2024.</p>
+<p class="editors-preface">In 2023, Plum Village monastics went on their first music tour across North America, titled “The Way Out Is In: A Musical Meditation.” It offered a unique blend of contemplative music, poetry and short, inspiring teachings. The tour started on 21 April in Baltimore, went on to Washington D.C. and Boston, and ended with a concert in Toronto, Canada on 1 May. The following is a summary of an interview the editorial team conducted with Br. Phap Huu on 2 January 2024.</p>
 
 <!-- Photos: -->
 <!-- https://plumvillage.app.box.com/folder/230360291376 -->

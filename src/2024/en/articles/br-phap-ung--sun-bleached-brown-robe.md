@@ -3,7 +3,7 @@ title: Sun-Bleached Brown Robes
 author: Brother Chân Pháp Ứng
 ---
 
-<p class="editors-preface">On 11 December 2023, the monastics of the Fish ordination family turned 30 years old. After 30 years, the number of “fish” has reduced to two-thirds, from six individuals down to four. Now, they are elder brothers and sisters of Plum Village. Brother Phap Ung is one of the remaining four “fish,” alongside Sr. Thoai Nghiem, Sr. Dinh Nghiem and Sr. Tue Nghiem. On this occasion, the newsletter team had a chance to drink tea with Br. Phap Ung at Thay’s hut in Upper Hamlet. This article was born from that exchange.</p>
+<p class="editors-preface">On 11 December 2023, the monastics of the Fish ordination family turned 30 years old. After 30 years, the number of “fish” has reduced to two-thirds, from six individuals down to four. Now, they are elder brothers and sisters of Plum Village. Brother Phap Ung is one of the remaining four “fish,” alongside Sr. Thoai Nghiem, Sr. Dinh Nghiem and Sr. Tue Nghiem. On this occasion, the editorial team had a chance to drink tea with Br. Phap Ung at Thay’s hut in Upper Hamlet. This article was born from that exchange.</p>
 
 ## An ancient seed deep in the Earth just smiles
 
