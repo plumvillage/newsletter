@@ -119,7 +119,7 @@ In 2023, the Sangha happily welcomed 27 new Dharma teachers, both lay and monast
 > > Thông điệp từ bi về mọi nẻo  
 > > Tha hồ thỏa chí chốn an nhiên.
 
-> **Sister Chân Trăng Nga Mi**  
+> **Sister Thích nữ Chân Trăng Nga Mi**  
 > *(Chew Yee Lee;  
 > Noble Fulfillment of the Heart)*  
 > > **Trăng** không tròn không khuyết  
@@ -127,7 +127,7 @@ In 2023, the Sangha happily welcomed 27 new Dharma teachers, both lay and monast
 > > Phổ Hiền mười hạnh nguyện  
 > > Làm lợi lạc chúng sanh
 
-> **Sister Chân Trăng Đông Hải**  
+> **Sister Thích nữ Chân Trăng Đông Hải**  
 > *(Tsui Miu Ling; Tâm Quán Ân)*  
 > > **Trăng** tỏa sáng bầu trời **Đông Hải**  
 > > Biển trần gian phản ánh não phiền  
