@@ -202,7 +202,7 @@ In 2023, the Sangha happily welcomed 27 new Dharma teachers, both lay and monast
 
 > **Sister Thích nữ Chân Trăng Lý Tưởng**  
 > *(Châu Thị Thu Sương; Tâm Tuệ Như)*
-> > Hé nụ cười chân thật, tuyệt vời  
+> > Hé nụ cười chân, thật tuyệt vời  
 > > **Trăng** sao chiếu sáng khắp muôn nơi  
 > > Long lanh ánh mắt ngời **lý tưởng**  
 > > Sưởi ấm tình người giữa trùng khơi
@@ -232,7 +232,7 @@ In 2023, the Sangha happily welcomed 27 new Dharma teachers, both lay and monast
 > *(Faye Nhi Nguyen; Tâm Hướng Dương)*
 > > By seeing the nature of affinities planted since beginningless time  
 > > The authentic fruit of insight reveals itself as a **storehouse of joy**  
-> > Walking this ancient path suddenly we realize that there was never a time when we were not wonderful together  
+> > Walking this ancient path suddenly we realize that there was never a time when we were not wonderfully together  
 > > Sunflowers waving in the gentle breeze quietly reveal the wondrous Dharma Body.
 
 {% image "article2024/Done-Review of the Year/Lamp transmission/Sr Ly Tuong.JPG", "noFloat" %}
