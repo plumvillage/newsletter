@@ -3,13 +3,13 @@ title: A Year in Review
 author: Editorial Team
 ---
 
-<p class="editors-preface">Highlights of the year of the Plum Village sangha in France.</p>
+<p class="editors-preface">Highlights of the year of the Plum Village Sangha in France.</p>
 
 ## Trừng Quang Great Precept Transmission Ceremony *(10 – 14 February 2023)*
 
-This spring marked a new beginning for 38 Siksamana nuns and 19 novice monks receiving the Great Precepts to become fully ordained Bhikshunis and Bhikshus, respectively, at the Trung Quang Great Precept Transmission Ceremony, hosted at the Thai Plum Village. The event was named after the lineage name of Thay, which means pure light. The event was the first in-person gathering of its kind after a long hiatus due to the COVID pandemic.
+This spring marked a new beginning for 38 Siksamana nuns and 19 novice monks receiving the Great Precepts to become fully ordained Bhikshunis and Bhikshus, respectively, at the Trung Quang Great Precept Transmission Ceremony, hosted at the Thai Plum Village. The event was named after the lineage name of Thay, which means pure light. This was the first in-person gathering of its kind after a long hiatus due to the COVID pandemic.
 
-This was also an auspicious occasion for the sangha to welcome 16 new Dharma teachers in the ensuing Dharma Lamp transmission ceremony.
+This was also an auspicious occasion for the sangha to welcome 16 new Dharma teachers in the ensuing Dharma Lamp Transmission Ceremony.
 
 With the presence of hundreds of monastics of various Buddhist traditions from Europe, the US, Vietnam and Thailand, the sangha of Thai Plum Village also celebrated its 10<sup>th</sup> anniversary and hosted the brick-laying ceremony for the construction of the new meditation hall.
 
