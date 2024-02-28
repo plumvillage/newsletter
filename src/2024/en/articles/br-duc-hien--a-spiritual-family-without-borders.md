@@ -19,7 +19,7 @@ I was very touched by the communal energy which was slowly taking hold, giving u
 
 I felt truly blessed and honored to be part of this group, and to become even more aware of the power of our commitment to “awaken humanity to love and the reality of interbeing.” I saw more clearly how the precepts and monastic robe offered me the opportunity to be, without needing to appear, to exist by myself. I could simply allow every moment of this multifaceted, collective movement to manifest and shine through, smiling to life.
 
-A few days later we facilitated a retreat with 80 people, including the group of young musicians who generously accompanied us for the five days of practice with their songs, guitars and percussion. Music, for me, is a vehicle of joy and prayer, of direct connection through the heart, so you can imagine my happiness. Of course, I joined them on several occasions to share Plum Village songs revisited with a Brazilian groove.
+A few days later, we facilitated a retreat with 80 people, including the group of young musicians who generously accompanied us for the five days of practice with their songs, guitars and percussion. Music, for me, is a vehicle of joy and prayer, of direct connection through the heart, so you can imagine my happiness. Of course, I joined them on several occasions to share Plum Village songs revisited with a Brazilian groove.
 
 As was often the case in our retreats, we met in the afternoon for Dharma sharing. We had the great fortune to sit outside at the foot of a 60-meter high waterfall, which accompanied us with its powerful roar. Mother Earth watched over us, that was undeniable. Nature was abundant and I felt transported by this lush beauty. Little by little, everyone opened their hearts, suffering was expressed and embraced by the collective energy. As always, the alchemy of hearts did its work!
 
@@ -27,11 +27,11 @@ Just before closing the session, a young woman spoke with great intensity about 
 
 The next morning, her mother, who also participated, shared with us her joy of finally finding her daughter alive again. It is true that the transformation was striking! We saw her again a few days after the retreat and celebrated this little miracle together with eyes full of tears and hearts of gratitude.
 
-## Province of Sao Paulo, Brazil
+## Province of São Paulo, Brazil
 
-After a few hours of traveling from the center of Sao Paulo with more than 12 million inhabitants, we got off the bus a little groggy. I couldn’t believe my eyes—we had arrived in Nazaré Uniluz, a paradise on Earth! The tropical vegetation is sumptuously extravagant, everything is a harmony of colors, shapes, scents and in beautiful collaboration with humans.
+After a few hours of traveling from the center of São Paulo with more than 12 million inhabitants, we got off the bus a little groggy. I couldn’t believe my eyes—we had arrived in Nazaré Uniluz, a paradise on Earth! The tropical vegetation is sumptuously extravagant, everything is a harmony of colors, shapes, scents and in beautiful collaboration with humans.
 
-Located in Nazaré Paulista, in the countryside of Sao Paulo, this secular spiritual community was founded 42 years ago (the same year as Plum Village), inspired among others by Thay and the practice of mindfulness. Around 30 people lived there, not including the 50 some young volunteers who were there for long stays!
+Located in Nazaré Paulista, in the countryside of São Paulo, this secular spiritual community was founded 42 years ago (the same year as Plum Village), inspired among others by Thay and the practice of mindfulness. Around 30 people lived there, not including the 50 some young volunteers who were there for long stays!
 
 {% image "article2024/br-duc-hien/Brazil/IMG_4141.JPG", "noFloat" %}
 
@@ -55,7 +55,7 @@ Another moment of pure grace happened during walking meditation. I was hand-in-h
 
 After an hour and a half of traveling in traffic jams, we arrived at a Catholic university and were welcomed by the local sangha in a small room. There were around 30 people practicing here once a week! We bowed reverently and right away I felt a deep warmth in my heart. There was something intensely familiar and comforting. I hardly knew anyone and yet the deep and joyful sense of being part of this spiritual family allowed me to feel at home. The atmosphere of brotherhood and sisterhood was authentic and reassuring.
 
-I realized the extent of Thay’s transmission which allows us to be at home in any community in the world—a bell, a few cushions, a photo of our master, a candle, a little incense, flowers, caring smiles and the depth of the practice brought us together that evening. We shared a deep aspiration to cultivate mindfulness, to learn, to understand and love better. Most people had never met Thay, or even had the chance to come and stay in Plum Village. Yet I could feel the presence of our beloved teacher in the looks, the words, the quality of listening, the heart vibrating with compassion and the Bodhicitta of the members of this beautiful assembly.
+I realized the extent of Thay’s transmission which allows us to be at home in any community in the world—a bell, a few cushions, a photo of our master, a candle, a little incense, flowers, caring smiles and the depth of the practice brought us together that evening. We shared a deep aspiration to cultivate mindfulness, to learn, to understand and love better. Most people had never met Thay, or even had the chance to come and stay in Plum Village. Yet I could feel the presence of our beloved teacher in the looks, the words, the quality of listening, the heart vibrating with compassion and the bodhicitta of the members of this beautiful assembly.
 
 The following Sunday, we met for a Day of Mindfulness in a park, near a 6-lane road, which was rather noisy. Fortunately, there was a space with very beautiful trees to welcome the participants. To our great surprise, nearly 250 people joined, including a few families with their children. We quickly forgot the urban atmosphere that surrounded us and practiced together with enthusiasm. I was amazed to see that within a very short time our small group managed to generate an atmosphere of attentive presence, calm, joy, relaxation, depth and togetherness.
 
