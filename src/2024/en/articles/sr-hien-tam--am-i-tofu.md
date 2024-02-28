@@ -5,7 +5,7 @@ author: Sister Chân Trăng Hiền Tâm
 
 I woke up to find myself in a remote countryside factory. It was a tofu factory. White, squared, smooth, and steaming hot tofu lined up neatly on long, massive conveyor belts circulating nonstop. I crouched between the tofu cubes, gliding along on the conveyor belt as if on a hot water slide in an amusement park. Everywhere I looked–in front, behind, up, or down–there was nothing but tofu. Even before I realized what was happening, I instinctively contorted my body into the shape of a tofu. I told myself, “I am tofu.” Knowing that, if the factory manager discovered I was a person, there would be anger, I pretended to be a steaming hot cube of tofu. Finally reaching the end of the conveyor belt, I jumped off and escaped the factory through the back door, running headlong through the vast open field before stopping just at the edge of a cliff. The factory manager shouted after me, “You’re not tofu. You’re a person!” Overtaken by fear, I replied, “No, I’m tofu,” before obediently returning to my place on the now familiar conveyor belt inside the factory.
 
-## Dream Interpretation
+## Dream interpretation
 
 Since childhood, I harbored a complex about what it meant to be a good student and a good daughter. Following my parents’ advice, the ultimate achievements during my childhood and adolescence were to excel in academia and receive awards. I felt stressed and pressured to conform to society’s ideal image of a citizen and a woman.
 
