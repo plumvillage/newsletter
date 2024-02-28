@@ -3,13 +3,13 @@ title: I Have Arrived, I Am Home
 author: Brother Chân Trời Hải Thượng (1990—2023)
 ---
 
-<div class="editors-preface"><p>Brother Chân Troi Hai Thuong was born in 1990 and passed away in 2023 at the age of 33. He was ordained as a novice at Thai Plum Village in 2014 in the Red Oak ordination family and received the Great Precepts to become a bhikshu in the “I have arrived, I am home” great precepts transmission ceremony in 2019. After several years of practice and service to the sangha in Thailand, he volunteered to transfer to the European Institute of Applied Buddhism (EIAB) in Germany to help continue Thay’s dream of building sanghas. It was here that Br. Troi Hai Thuong unexpectedly passed away on the morning of 15 October 2023.</p>
+<div class="editors-preface"><p>Brother Troi Hai Thuong was born in 1990 and passed away in 2023 at the age of 33. He was ordained as a novice at Thai Plum Village in 2014 in the Red Oak ordination family and received the Great Precepts to become a bhikshu in the “I have arrived, I am home” great precepts transmission ceremony in 2019. After several years of practice and service to the sangha in Thailand, he volunteered to transfer to the European Institute of Applied Buddhism (EIAB) in Germany to help continue Thay’s dream of building sanghas. It was here that Br. Troi Hai Thuong unexpectedly passed away on the morning of 15 October 2023.</p>
 
 {% image "article2024/Br Hai Thuong/ENG/012 copy_e.jpg" %}
 
 <p>Although Br. Troi Hai Thuong no longer manifests in the physical form, we can still get in touch with him through his writings, reflections of a sensitive spirit that earnestly loves life.</p>
 
-<p>The following is a translated excerpt from the <i>Giếng Nước Thơm Trong</i> (Fragrant Well), Newsletter #2 from Plum Village Thailand.</p></div>
+<p>The following is a translated excerpt from the <i>Giếng Nước Thơm Trong (Fragrant Well)</i> Newsletter #2 from Thai Plum Village.</p></div>
 
 ## Monday
 
