@@ -81,7 +81,7 @@ You have said, "Time is stilled in eternity, where love and the beloved are one.
 
 ## Thay’s 2-year memorial ceremony
 
-<p style="column-span: all; margin-top: 8pt; padding-bottom: 3mm;">On January 29, more than 400 monastics from all Plum Village centers, alongside venerable monks and nuns of Hue and lay practitioners from over 30 countries gathered in Tu Hieu Root Temple to honor Thay. This grand memorial ceremony recognized Thay as the Fifth Patriarch of Tu Hieu and the founder of the Plum Village tradition.</p>
+<p style="column-span: all; margin-top: 8pt; padding-bottom: 3mm;">On 29 January, more than 400 monastics from all Plum Village centers, alongside venerable monks and nuns of Hue and lay practitioners from over 30 countries gathered in Tu Hieu Root Temple to honor Thay. This grand memorial ceremony recognized Thay as the Fifth Patriarch of Tu Hieu and the founder of the Plum Village tradition.</p>
 
 <div class="article-end"></div>
 
