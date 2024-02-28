@@ -87,7 +87,7 @@ And thirdly, living in harmony with nature, taking enough time to be in nature, 
 
 I try to be very aware of the intention behind my actions, because if I do an action with a mindset of acting without expecting to get a benefit for me, then I’m in service, because my action already has the spirit of unconditionality that I want to see in the world. That gives me active hope and joy.
 
-When I am feeling despair, I go for a walk in nature. Sometimes I just lie on the ground and say, “Oh, just hold me.” Feeling the connection with something larger than you are, puts so many things in perspective. Life continues, whether I’m here to reap the benefit of what I have done or not. In the Zulu tradition, when people die, they say “we kneel” because someone else can climb on our shoulders. When I transition on, when we all transition on, we’ve laid some foundation for someone else to stand on and continue the work, that gives me hope- there is a continuation.
+When I am feeling despair, I go for a walk in nature. Sometimes I just lie on the ground and say, “Oh, just hold me.” Feeling the connection with something larger than you are, puts so many things in perspective. Life continues, whether I’m here to reap the benefit of what I have done or not. In the Zulu tradition, when people die, they say “we kneel” because someone else can climb on our shoulders. When I transition on, when we all transition on, we’ve laid some foundation for someone else to stand on and continue the work, that gives me hope — there is a continuation.
 
 {% image "article2024/Done-Resillence, Community, Spituality/IMG_2714_e.jpg" %}
 
