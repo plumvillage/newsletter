@@ -3,7 +3,7 @@ title: Love as Thay Loves
 author: Sister Chân Uyển Nghiêm
 ---
 
-<p class="editors-preface">Sister Uyen Nghiem ordained in 2005 in Prajna temple, Vietnam and belongs to the Sunflower ordination family. She received the Dharma lamp transmission by Thay in 2013 at Plum Village, France. Currently, she lives and serves at Deer Park Monastery, California, USA.</p>
+<p class="editors-preface">Sister Uyen Nghiem ordained in 2005 in Prajna temple, Vietnam and belongs to the Sunflower ordination family. She received the Dharma lamp transmission by Thay in 2013 in Plum Village, France. Currently, she lives and serves at Deer Park Monastery, California, USA.</p>
 
 ## Thay’s love
 
