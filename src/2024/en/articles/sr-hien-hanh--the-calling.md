@@ -6,7 +6,7 @@ author: Sister Chân Hiền Hạnh
 <div class="verse"><p>“The cosmos is filled with precious gems.<br/>
 I want to offer a handful of them to you this morning.<br/>
 Each moment you are alive is a gem,
-shining through and containing earth and sky, water and clouds.”<br/><cite>from the poem <i>“Our True Heritage”</i></cite></p></div>
+shining through and containing earth and sky, water and clouds.”<br/><cite>—from the poem “Our True Heritage”</cite></p></div>
 
 The window slowly opens. The brisk cold brings me back to reality. Looking at the rain on the distant horizon this morning stirs something in my heart. How beautiful and poetic the rain is. There’s an upsurge of inspiration, urging me to jot down a few words. The rain had woven a path, taking me back to a memory. The rain is me, is the sunshine, and is the entire galaxy.
 
@@ -41,7 +41,7 @@ I neither came close to it nor pushed it away. I just looked for another corner 
 <div class="verse" style="font-size: 94%; margin-left: 0;"><p>“I am a frog swimming happily in the clear water of a pond.<br/>
 And I am the grass-snake that silently feeds itself on the frog.<br/>
 I am a mayfly metamorphosing on the surface of the river.<br/>
-And I am the bird that swoops down to swallow the mayfly.”<br/><cite>from <i>“Please Call Me By My True Names”</i></cite></p></div>
+And I am the bird that swoops down to swallow the mayfly.”<br/><cite>—from the poem “Please Call Me By My True Names”</cite></p></div>
 
 With a peaceful heart, I was imbued with Thay’s insight: “I am one with all living beings.” Aware of my deep and gentle breath, I felt the presence of Thay and my mother in me.
 
