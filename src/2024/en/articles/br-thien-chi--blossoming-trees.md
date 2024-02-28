@@ -3,7 +3,7 @@ title: Blossoming Trees
 author: Brother Chân Trời Thiện Chí
 ---
 
-<p class="editors-preface">On 5 May 2023, a group of eight monastics, comprised of four brothers and four sisters, set off on a 5-week road tour throughout the UK (England, Scotland and Wales) and Ireland. Here are the reflections from a dear monastic member of the tour.</p>
+<p class="editors-preface">On 5 May 2023, a group of four brothers and four sisters set off on a 5-week road tour throughout the UK (England, Scotland and Wales) and Ireland. Here are the reflections from a dear monastic member of the tour.</p>
 
 ## Where is my home?
 
@@ -32,13 +32,13 @@ I remember Sr. Tam Moi saying once during our tour, “Do you notice that? It’
 
 Let me name just a fraction of the places we visited: ancient beech forests with carpets of bluebells; hills with big boulders on top; meadow of green grass and brown ferns where wild horses graze freely; sacred cathedrals with gardens of pink rhododendrons; national reserves; hidden stone beaches; small art bookstores; world-famous museums and streets; a university where the students showed us a meditation hall filled with poetry books and the on-campus redwood forest, and then invited us to participate in blessing the food before dinner.
 
-We did walking meditation on beaches where seals played in the water; by streams with clear water; near Tibetan stupas on an island with wild horses; in university botanical gardens; in parks with rabbits in the heart of a city; in old cemeteries; by ponds; in forests with ancient trees and by puddles where small children played — completely covered in mud.
+We did walking meditation on a beach where seals played in the water; by streams with clear water; near Tibetan stupas on an island with wild horses; in university botanical gardens; in parks with rabbits in the heart of a city; in old cemeteries; by ponds; in forests with ancient trees and by puddles where small children played — completely covered in mud.
 
 As monastics, we could go into the heart of a major cathedral in Durham, England, under the guidance of a Christian priest. We had the opportunity to offer events in churches, monasteries, universities and town halls, modern recording halls, chapels, tents, retreat centers and even in a round building made of mud and straw.
 
 ## Preparing and letting go
 
-When we were in Belfast, Ireland, Sr. Tai Nghiem invited me to talk at the end of a Dharma talk about how I practiced the art of stopping. I was nervous and tried to prepare myself well. Then my sister asked me to speak at the beginning of the talk, instead. A few hours later after all the preparations I did, she said to me: “Now brother, let go of everything you have prepared. The most important thing is that you connect with the people in the hall and speak to them. You don’t need to try to remember what you’ve prepared.” That was a hard lesson, but very important.
+When we were in Belfast, Ireland, Sr. Tai Nghiem invited me to talk at the end of a Dharma talk about how I practiced the art of stopping. I was nervous and tried to prepare myself well. Then my sister asked me to speak at the beginning of the talk, instead. A few hours later after all the preparations I did, she said to me, “Now brother, let go of everything you have prepared. The most important thing is that you connect with the people in the hall and speak to them. You don’t need to try to remember what you’ve prepared.” That was a hard lesson, but very important.
 
 ## Eyebrows, tea and fame
 
@@ -80,7 +80,7 @@ On this retreat, I understood that sometimes I needed to protect my brothers and
 Since I was a novice, I have always tried to rediscover what happiness is. As a layman, I simply followed my desires believing that their fulfillment would make me happy. I used to desire being surrounded by and owning things I liked, being with people I loved, going to places I admired, etc. But as a monk, I can’t take refuge in that kind of happiness. A monastic practices to look beyond these desires and discover a deeper happiness. If I am not able to be with the things and people I love, then where should I search for happiness?
 
 
-The UK and Ireland tour has helped me realize that love was something I used to associate with people, objects and places. In reality, love, as well as compassion, is something that my mind and body generate. As a monk, I aspire to keep practicing to get in touch with these q u alities within me and to train my mind to see them around me. Thay said that “Understanding is love’s other name. ’’ So, I continue to practice listening more deeply to myself.
+The UK and Ireland tour has helped me realize that love was something I used to associate with people, objects and places. In reality, love, as well as compassion, is something that my mind and body generate. As a monk, I aspire to keep practicing to get in touch with these qualities within me and to train my mind to see them around me. Thay said that “understanding is love’s other name.” So, I continue to practice listening more deeply to myself.
 
 If I nourish the seeds of love and compassion in me, then I will continue to see the world as a beautiful place and be able to connect with others, as well as help them recognize their seeds of love and compassion. The stronger these seeds grow within, the easier it will be for me to recognize them in my surroundings.
 
