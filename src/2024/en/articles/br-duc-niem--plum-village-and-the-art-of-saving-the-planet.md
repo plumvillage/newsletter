@@ -11,7 +11,7 @@ One big question and koan for me is: How can I and we have deep peace inside whi
 
 {% image "article2024/Br-Duc-Niem/sun1_e.jpeg" %}
 
-In recent years, the wish in my heart to help save the planet has manifested in very concrete and beautiful ways: Plum Village now offers the *Zen and the Art of Saving the Planet (ZASP)* online course and climate retreats on a regular basis (the next ZASP course will start in March 2024).
+In recent years, the wish in my heart to help save the planet has manifested in very concrete and beautiful ways: Plum Village now offers the Zen and the Art of Saving the Planet (ZASP) online course and climate retreats on a regular basis (the next ZASP course will start in March 2024).
 
 In this article, I would like to share about my own experience in joining the ZASP course, explore how it has started, and how it has supported people and groups in the climate community. We will hear feedback from ZASP participants and will reflect on the role and contribution of Plum Village in the climate movement and what teachings have been effective in this area.
 
@@ -29,7 +29,7 @@ I got a better sense why changing our way of seeing things is so important in ou
 
 <div class="removeIndentInFollowingElem"></div>
 
-**Q: How was the idea of the *Zen and the Art of Saving the Planet (ZASP)* online course born?**
+**Q: How was the idea of the Zen and the Art of Saving the Planet (ZASP) online course born?**
 
 ***Sr. Hien Nghiem:*** *After the pandemic, we saw the potential of people to have a meaningful practice at home and to really transform in the online retreats, and also for us to reach a new audience. When we started seeing people from Mongolia and South Africa and Asian countries, we realized that there are just so many people who will never be able to come to Plum Village, but they would also like to touch the Dharma. When Plum Village started reopening in 2023, we saw how hard it is to do both online and in-person retreats at the same time.*
 
@@ -60,7 +60,7 @@ The feedback we received from the course participants, showed how transformative
 
 <div class="verse"><p>“This course was a profound and extraordinary experience for me. For years I have been teaching, engaging my students in social activism… This course helped me to realize that I was pursuing dreams and a radical awakening without being awakened myself… I am not sure I have ever been so excited by a course and the invitation for change inherent in the teachings… The talks were personal, challenging, soft-natured, evoking curiosity and openness. The online presence of the monastics and lay dharma teachers became a comfort day after day, week after week.”<br/><cite>USA</cite></p></div>
 
-I experienced one transformation happening in regard to fear: In week two, Thay teaches that in order to overcome fear we must be courageous to face the potential end of our civilization. I found this video of Thay to be extremely powerful and I was happy that I could pause at certain moments and watch the video in my own time to really allow the tough truth to sink in.
+I experienced one transformation happening in regard to fear. In week two, Thay teaches that in order to overcome fear we must be courageous to face the potential end of our civilization. I found this video of Thay to be extremely powerful and I was happy that I could pause at certain moments and watch the video in my own time to really allow the tough truth to sink in.
 
 I have been practicing the Five Remembrances regularly and it has helped me to be more at peace with this unsettling prospect of a potential breakdown of our societies and the ecosystems. It feels less scary and I am not too overwhelmed by the thought of it and the underlying fear anymore. I feel a new sense of freedom and clarity emerging.
 
@@ -98,7 +98,7 @@ What Jo Confino is sharing resonates with me very much. When they came to the cl
 
 <div class="removeIndentInFollowingElem" style="margin-top: 3.1em;"></div>
 
-I have attended two zoom sessions with a group of them while they were at COP. Some of them met every day to sit and breathe together. They have shared that the Sangha they had at COP and knowing that they are part of a larger global Sangha have made all the difference. Hearing this gives me a lot of hope and trust.
+I have attended two Zoom sessions with a group of them while they were at COP. Some of them met every day to sit and breathe together. They have shared that the Sangha they had at COP and knowing that they are part of a larger global Sangha have made all the difference. Hearing this gives me a lot of hope and trust.
 
 ## Touching peace and acceptance
 
