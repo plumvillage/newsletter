@@ -120,9 +120,9 @@ At Deer Park Monastery, the Sangha welcomed the presence of Sr. Chan Khong with 
 
 Additionally, Sr. Chan Khong also joined approximately 60 monastics in a unique event, called Dāna Day of Mindfulness, on 21 May at the Mile Square Park in the city of Fountain Valley, California. The event was in English with Vietnamese translation for the nearly 600 people present, many of whom did not speak Vietnamese.
 
-Everyone participated in the Plum Village core practices, such as listening to the bell, awareness of breathing, walking meditation, and total relaxation. The program also included alms round for everyone to have a chance to get in touch with their seed of generosity. This was also an opportunity for the Deer Park monastics to fundraise for the expansion of the monk’s residence to accommodate the growing number of monks at the monastery.
+Everyone participated in the Plum Village core practices, such as listening to the bell, awareness of breathing, walking meditation, and total relaxation. The program also included an alms round for everyone to have a chance to get in touch with their seed of generosity. This was also an opportunity for the Deer Park monastics to fundraise for the expansion of the monk’s residence to accommodate the growing number of monks at the monastery.
 
-The local newspaper, Viet Bao, commented that “the Day of Mindfulness by Deer Park Monastery has inspired great happiness not only for the people attending but also for the atmosphere, plants, and animals in the surroundings. A gaggle of geese at the nearby pond also honked as though greeting and welcoming the community. It has been a long time since Mile Square Park had a public event as peaceful as this.”
+The local newspaper, Viet Bao, commented that “the Day of Mindfulness by Deer Park Monastery has inspired great happiness not only for the people attending but also for the atmosphere, plants, and animals in the surroundings. A gaggle of geese at the nearby pond also honked as though to greet and welcome the community. It has been a long time since Mile Square Park had a public event as peaceful as this.”
 
 <div style="height: 42mm"></div>
 
