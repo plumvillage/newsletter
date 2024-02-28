@@ -9,7 +9,7 @@ author: Brother Chân Trời Hải Thượng
 
 <p>Although Br. Troi Hai Thuong no longer manifests in the physical form, we can still get in touch with him through his writings, reflections of a sensitive spirit that earnestly loves life.</p>
 
-<p>The following is a translated excerpt from the <i>Giếng Nước Thơm Trong (Fragrant Well)</i> Newsletter #2 from Thai Plum Village.</p></div>
+<p>The following is a translated excerpt from the <i>Giếng Nước Thơm Trong (Fragrant Well)</i> Newsletter #2 of Thai Plum Village.</p></div>
 
 ## Monday
 
