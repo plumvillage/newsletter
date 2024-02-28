@@ -5,7 +5,7 @@ author: Main Hương, Hồng Anh & Janny
 
 <!-- https://plumvillage.org/articles/coming-home-to-our-roots -->
 
-<p class="editors-preface">Where is our true home? Is it a particular place with particular people within a particular culture? What if we had to leave our “home”? Or grew up in a culture vastly different from that of our parents? Main Huong, Hong Anh, and Janny, three international Wake Up sangha core members, explored these questions deeply during a retreat at Plum Village, France for young Asian diaspora (those growing up outside of their homeland).</p>
+<p class="editors-preface">Where is our true home? Is it a particular place with particular people within a particular culture? What if we had to leave our “home”? Or grew up in a culture vastly different from that of our parents? Main Huong, Hong Anh, and Janny, three international Wake Up sangha core members, explored these questions deeply during a retreat in Plum Village, France, for young Asian diaspora (those growing up outside of their homeland).</p>
 
 ## A “unique” retreat
 
