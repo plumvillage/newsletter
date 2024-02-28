@@ -9,7 +9,7 @@ author: Sư Ông Làng Mai
 
 **Jo Confino: Thưa Thầy, trước tình hình biến đổi khí hậu và môi trường thiên nhiên bị tàn phá như hiện nay, nhiều người vẫn có vẻ thờ ơ và chưa muốn hành động gì cả. Thầy nghĩ gì về điều này?**
 
-**Thầy:** Thực ra, họ không hành động không chỉ đối với vấn đề biến đổi khí hậu mà còn đối với nhiều vấn đề khác. Họ có nhiều vấn đề cá nhân như liên hệ với chính tự thân, với người khác và với gia đình. Nhưng họ đâu làm gì để cải thiện những mối liên hệ này.
+**Thầy:** Thực ra, họ không hành động không chỉ đối với vấn đề biến đổi khí hậu mà còn đối với nhiều vấn đề khác. Họ có nhiều vấn đề cá nhân như liên hệ với chính tự thân, với người khác và với gia đình, nhưng họ đâu làm gì để cải thiện những mối liên hệ này.
 
 Nếu chúng ta đòi hỏi họ phải làm gì cho môi trường thì có thể hơi quá, trong khi họ chưa làm gì cho những vấn đề cấp thiết của chính họ. Họ sợ phải đối diện với khổ đau, với các vấn đề của chính mình. Mà nếu vậy thì làm sao họ đủ sức để nghĩ tới nỗi khổ của đất Mẹ hay của môi trường? Vậy nên nhiều người có thái độ thờ ơ. Họ sợ. Họ không muốn nhìn thấy sự thật.
 
@@ -17,7 +17,7 @@ Nếu chúng ta đòi hỏi họ phải làm gì cho môi trường thì có th�
 
 **Thầy**: Khi họ nhìn ra sự thật thì có thể đã quá trễ để hành động. Đúng vậy, có thể là quá muộn màng. Những người như anh muốn thức tỉnh họ, nhưng có thể họ không muốn thức tỉnh vì sẽ phải đối diện với khổ đau. Vì vậy họ sẽ tiếp tục đắm chìm trong giấc mơ. Họ không đủ mạnh để đối diện với sự thật. Điều đó không có nghĩa là những người này không hay biết chuyện gì đang xảy ra. Họ chỉ không muốn nghĩ đến nó. Họ cố tình bận rộn để quên đi. Đâu phải vì họ thích làm những gì họ đang làm nên mới bận rộn, họ cần bận rộn để khỏi phải nghĩ tới thực tại.
 
-**Jo Confino: Thầy có nghĩ mọi người chờ đến khi có một thảm hoạ thực sự xảy ra thì mới thức tỉnh hay không? Hay khi đó có khi họ còn trốn chạy nhiều hơn? Thầy nghĩ điều gì có thể giúp tạo ra sự thay đổi?**
+**Jo Confino: Thầy có nghĩ mọi người chờ đến khi có một thảm hoạ thực sự xảy ra thì mới thức tỉnh hay không? Hay lúc đó có khi họ còn trốn chạy nhiều hơn? Thầy nghĩ điều gì có thể giúp tạo ra sự thay đổi?**
 
 **Thầy**: Nếu anh chỉ cho họ thấy sự thật, thí dụ cho họ xem một cuốn phim, hay cái gì đó làm bằng chứng để thuyết phục họ là tình hình đang rất cấp bách, họ sẽ bỏ ra một ít thời gian để xem. Nhưng sau đó, họ sẽ trở lại y như cũ, bởi vì họ không muốn nghĩ đến nó. Nhưng điều đó không có nghĩa là họ không đủ thông minh để biết chuyện gì đang xảy ra.
 
