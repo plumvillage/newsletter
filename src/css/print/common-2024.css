@@ -859,6 +859,7 @@ p.pull-quote::before {
 
 /* merge with succeeding poem/article */
 .article-my-path-to-wake-up-schools,
+.article-lessons-from-my-teacher,
 .article-giai-toa-han-thu-khoi-suoi-yeu-thuong,
 .article-tro-ve-nguon-coi
 {
@@ -1264,7 +1265,6 @@ figure#article2024Done-Memorial-CeremonyHueBefore-the-CeremonyDSC5433e,
 figure#article2024Done-Memorial-Ceremony67SuOng2ndYearMemorial220124crop,
 figure#article2024Done-SrBao-NIMG3353,
 figure#article2024ScannedDrawings0705-Ky-to-dje-nhie,
-html:lang(en) figure#article2024Done-Coming-home-to-our-rootsPXL20230608053312985e,
 html:lang(vi) figure#article2024Done-Sr-Hien-HanhSr-Hien-Hanh-2e,
 figure#article2024Done-interview-with-thayVncon-ve-miong-tua-noi-dat-me,
 figure#LTLM47-2024-cover-NH-TeensLTLM47-2024July2023sararemington0013editedcropped,
@@ -1379,7 +1379,6 @@ html:lang(en) figure#article2024Done-SrHien-TamIMG2286 {
     width: 73%;
     margin-bottom: 0em;
 }
-html:lang(en) figure#article2024Done-Coming-home-to-our-rootsPXL20230608053312985e,
 figure#article2024Done-interview-with-thayEni-am-in-love-with-mother-earthe {
     width: 57%;
     margin-bottom: 0em;
@@ -1579,15 +1578,15 @@ figure#article2024Done-Memorial-CeremonyHueBefore-the-CeremonyDSC5433e {
     margin-top: 0em;
     margin-bottom: 0em;
 }
-figure#article2024Done-Memorial-CeremonyHueBefore-the-CeremonyDSC4445e {
+html:lang(vi) figure#article2024Done-Memorial-CeremonyHueBefore-the-CeremonyDSC4445e {
     width: 85%;
     margin-top: 0em;
     margin-bottom: 1.5em;
 }
 html:lang(en) figure#article2024Done-Memorial-CeremonyHueBefore-the-CeremonyDSC4445e {
-    width: 95%;
-    margin-top: 3em;
-    margin-bottom: 1.5em;
+    width: 90%;
+    /* margin-top: 1em; */
+    margin-bottom: 3.5em;
 }
 html:lang(vi) figure#article2024Done-Memorial-CeremonyHueCeremonyLe-dai-tuong-1-copy {
     width: 84%;

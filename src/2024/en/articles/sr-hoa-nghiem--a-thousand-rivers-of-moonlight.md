@@ -22,7 +22,7 @@ We sat inside the wood cabin by the wood-burning stove. Mr. Tho (a lay practitio
 The breeze is fragrant with tea blossoms.<br/>
 …<br/>
 My confidence intact,<br/>
-I bid farewell with a peaceful heart.”<br/><cite>—from the poem "Untitled" in <i>Call Me By My True Names</i></cite></p></div>
+I bid farewell with a peaceful heart.”<br/><cite>from the poem "Untitled" in <i>Call Me By My True Names</i></cite></p></div>
 
 Singing up to this point, I suddenly felt my throat constrict, and was unable to continue. Thay has indeed gone far away; perhaps, the faith he entrusted to us was: “Continue the path that Thay has traveled, don’t give up, my child…” I whispered in my heart, “Yes, I will never give up, Thay!”
 

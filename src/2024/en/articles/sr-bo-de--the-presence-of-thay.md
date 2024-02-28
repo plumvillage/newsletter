@@ -28,7 +28,7 @@ when everything is manifesting itself<br/>
 so rapidly.<br/>
 The snow is green.<br/>
 And the sunshine is falling like the rain.”<br/>
-<cite>—from the poem “Cuckoo Telephone”</cite></p></div>
+<cite>from the poem “Cuckoo Telephone”</cite></p></div>
 
 I remember during grade school, my friends and I would long for the school bell to ring so that we could immediately close our books and pour into the canteen to buy snacks and sweets. The two morning classes on the monastic Day of Mindfulness brought me back to the elementary school days when I learned to befriend the written words, blackboards and white chalk. For the sake of the younger monastics, the elders converted the classic schedule of morning Dharma talk and afternoon Dharma sharing sessions into classes on various topics throughout this Rains Retreat. There was a class on how the mind and brain affect our lives by Sr. Hoi Nghiem, a class on Buddhist psychology by Sr. Tue Nghiem, a class on comparative ethics by Sr. Hien Nghiem, and a handful of other classes. These classes had succeeded in sparking enthusiasm among monastics, kindling a unique vivacity for this memorable Rains Retreat.
 
@@ -92,7 +92,7 @@ two hands protecting,<br/>
 two hands nourishing,<br/>
 two hands preventing<br/>
 my soul from leaving me<br/>
-in anger.”<br/><cite>—from the poem “For Warmth”</cite></p></div>
+in anger.”<br/><cite>from the poem “For Warmth”</cite></p></div>
 
 The great poet, Nguyen Du, once wrote, “The body may have transcended, but its essence remains” *(Thác là thể phách, còn là tinh anh)*. Thay is an incense that has burned to its end, but its fragrance will permeate the air for eternity.
 

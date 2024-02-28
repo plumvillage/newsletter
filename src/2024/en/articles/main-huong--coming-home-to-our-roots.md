@@ -15,8 +15,6 @@ Last June, the retreat *Finding Our True Home* was the first retreat specificall
 
 In her Dharma talk, Sr. Lang Nghiem shared about the four elements of true love and reminded us that Thay taught us that love is understanding. “True love is limitless, so is understanding and vice versa.” We felt that during this retreat we all touched a deep love that was hard to put into words: unconditional love from the monastic sisters, love for our parents and our ancestors, love for our roots that we had long thought were buried, love for our cultural practices, and love for ourselves.
 
-<div class="removeTopMarginInFollowingElem"></div>
-
 {% image "article2024/Done-Coming home to our roots/WhatsApp Image 2023-12-22 at 17.15.44 (1)_e.jpg", "", "Compassion Family on lazy day after breakfast on Thay’s deck" %}
 
 During this one week that provided us a safe space, everyone practiced wholeheartedly. Every little activity became meaningful and sacred. During one gathering before our working meditation, a sister invited us to sing the song “Happiness is Here and Now” and dedicate this song to our parents. She reminded us that our parents might not have yet had the opportunity to “let go of their worries,” and we can offer them our peace and freedom while singing this song. Many friends were moved to tears.
@@ -39,9 +37,9 @@ While having lunch underneath the oak tree in Lower Hamlet, Sr. Dinh Nghiem shar
 
 In this beautifully loving and nurturing environment, our parents were able to transform their suffering and allow their young children to connect to their roots. During those years, the children could learn how to sing and speak Vietnamese, enjoy homemade Vietnamese food and the community could come together to experience a sense of belonging in this place that was home away from home. 
 
-{% image "article2024/Done-Coming home to our roots/WhatsApp Image 2023-12-22 at 17.14.36_e.jpg" %}
-
 Forty years later, we sat underneath the same oak tree. Thay was still present all around us—when a breeze prompted the leaves to send us a warm welcome or when we walked mindfully through the forest. We felt fortunate to be able to continue this beautiful legacy of Thay and our parents. To see that Plum Village could also be a place where we, like our parents, continued to celebrate our culture and heal the wounds of our ancestors, was so meaningful.
+
+{% image "article2024/Done-Coming home to our roots/WhatsApp Image 2023-12-22 at 17.14.36_e.jpg", "removeTopMargin" %}
 
 ## Love and transformation
 

@@ -5,9 +5,9 @@ author: Satish Kumar, Thọ Hà Vĩnh and Rehena Harilall
 
 <div class="editors-preface"><p>The following is an excerpt of the panel conversation on the theme of Resilience, Community, and Spirituality that took place in June 2023, during the “Love is Freedom” Earth Holder Retreat. Our three panelists were:</p>
 {% image "article2024/Done-Resillence, Community, Spituality/Satish Kumar_e.jpg" %}
-<p><b>Satish Kumar</b> is the founder of Schumacher College for ecological studies. In 1962 he went on a peace walk of over 8,000 miles for two and a half years, from New Delhi to Moscow, Paris, London, and Washington, D.C. He is the author of the recently published book, titled *Radical Love*.</p>
+<p><b>Satish Kumar</b> is the founder of Schumacher College for ecological studies. In 1962 he went on a peace walk of over 8,000 miles for two and a half years, from New Delhi to Moscow, Paris, London, and Washington, D.C. He is the author of the recently published book, titled <i>Radical Love</i>.</p>
 {% image "article2024/Done-Resillence, Community, Spituality/Dr.Ha Vinh Tho_e.jpg" %}
-<p><b>Tho Ha Vinh</b> received the Dharma lamp transmission from Thay in 2001. He was the former program director of Bhutan’s Gross National Happiness Center and is the author of the book, titled *A Culture of Happiness.*</p>
+<p><b>Tho Ha Vinh</b> received the Dharma lamp transmission from Thay in 2001. He was the former program director of Bhutan’s Gross National Happiness Center and is the author of the book, titled <i>A Culture of Happiness.</i></p>
 <div style="height: 1.5em;"></div>
 {% image "article2024/Done-Resillence, Community, Spituality/Rehena_e.jpg" %}
 <p><b>Rehena Harilall</b> joined the Order of Interbeing in 2016. She is a member of the Heart of London sangha and Colors of Compassion sangha, and actively brings racial justice and climate justice together. She founded “Buddhists across Traditions,” a BIPOC-centered collective in the UK in 2019.</p></div>
