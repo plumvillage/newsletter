@@ -21,13 +21,13 @@ Sau khóa tu xuất sĩ, Làng mở cửa trở lại để chào đón thiền 
 
 {% image "article2024/Done-Sr. Tam Duc/Cooking retreat 2023 8_e.JPG" %}
 
-Nhiều thiền sinh khác cũng gặp trực tiếp hoặc viết thiệp để cảm ơn các sư cô vì đã hiến tặng không những sự thực tập, niềm vui, nụ cười, sự thảnh thơi mà còn nấu cho họ những món ăn rất ngon và lành. Họ nói đã từng thưởng thức đồ ăn nhiều nơi nhưng không hiểu sao đồ ăn ở Làng luôn ngon hơn. Con nghĩ chính niềm vui, tình thương, sự hoà điệu khi quý sư cô làm việc được gửi vào từ khâu chuẩn bị đến khi thành món nên thiền sinh không những được thưởng thức hương vị món ăn mà còn nhận được năng lượng thương yêu của quý sư cô trong đó.
+Nhiều thiền sinh khác cũng gặp trực tiếp hoặc viết thiệp để cảm ơn các sư cô vì đã hiến tặng không những sự thực tập, niềm vui, nụ cười, sự thảnh thơi mà còn nấu cho họ những món ăn rất ngon và lành. Họ nói đã từng thưởng thức đồ ăn nhiều nơi nhưng không hiểu sao đồ ăn ở Làng luôn ngon hơn. Con nghĩ chính niềm vui, tình thương, sự hòa điệu khi quý sư cô làm việc được gửi vào từ khâu chuẩn bị đến khi thành món nên thiền sinh không những được thưởng thức hương vị món ăn mà còn nhận được năng lượng thương yêu của quý sư cô trong đó.
 
 Khóa tu nấu ăn năm nay rất hạnh phúc khi xóm Mới đón nhiều thiền sinh về. Thiên nhiên cũng ưu đãi khi mỗi khuya đều có mưa nên hôm sau trời rất mát. Có cô thiền sinh khá lớn tuổi biết thông tin khóa tu muộn nên link đăng kí đã đóng. Cô thiết tha đòi gặp ban văn phòng để năn nỉ được ghi danh. Cô nói không cần ngủ trong phòng, cũng không cần cắm lều trong xóm, chỉ cần có một chỗ gần vườn rau để cắm lều là đủ, miễn sao cô được dự khóa tu. Con nghe mà thấy thương ghê. Cuối cùng, có thiền sinh hủy đăng kí vì bận việc đột xuất nên cô đã được ghi danh. 
 
-Trước khi bắt đầu khóa tu, quý sư cô đã dày công chuẩn bị, nấu thử các món ăn để sẵn sàng mời đại chúng vào bếp với khẩu hiệu *“happy cooking, happy moment”(Giây phút nấu ăn, giây phút hạnh phúc).* Những tương tác giữa đầu bếp và khán giả nhờ tài khéo léo dẫn dắt của MC đã làm cho đại chúng có những tràng cười không ngậm được miệng. Dù món ăn không quá sức cầu kỳ nhưng niềm vui, sự hóm hỉnh, tự nhiên của các sư cô trên sân khấu đã để lại nhiều kỉ niệm khó quên trong lòng thiền sinh. Đại chúng rất hạnh phúc khi không những được hướng dẫn cách nấu, mà ngày hôm sau còn được thưởng thức liền các món ăn đó ngay trên bàn khất thực.
+Trước khi bắt đầu khóa tu, quý sư cô đã dày công chuẩn bị, nấu thử các món ăn để sẵn sàng mời đại chúng vào bếp với khẩu hiệu *“Happy cooking, happy moment”(Giây phút nấu ăn, giây phút hạnh phúc).* Những tương tác giữa đầu bếp và khán giả nhờ tài khéo léo dẫn dắt của MC đã làm cho đại chúng có những tràng cười không ngậm được miệng. Dù món ăn không quá sức cầu kỳ nhưng niềm vui, sự hóm hỉnh, tự nhiên của các sư cô trên sân khấu đã để lại nhiều kỉ niệm khó quên trong lòng thiền sinh. Đại chúng rất hạnh phúc khi không những được hướng dẫn cách nấu, mà ngày hôm sau còn được thưởng thức liền các món ăn đó ngay trên bàn khất thực.
 
-Trong suốt một tuần, bên cạnh những buổi thuyết trình món ăn, đại chúng có dịp được tiếp nhận thức ăn từ những bài pháp thoại, những buổi pháp đàm, thuyết trình năm giới, làm mới. Với năng lượng tập thể, con nghĩ mỗi thành phần của tăng thân đều có được những hoa trái của sự thực tập.
+Trong suốt một tuần, bên cạnh những buổi thuyết trình món ăn, đại chúng có dịp được tiếp nhận thức ăn từ những bài pháp thoại, những buổi pháp đàm, thuyết trình Năm giới, Làm mới. Với năng lượng tập thể, con nghĩ mỗi thành phần của tăng thân đều có được những hoa trái của sự thực tập.
 
 ## Mùa hè sống động
 
@@ -44,7 +44,7 @@ Tới Làng, các em tuổi teen được quý sư cô giữ điện thoại tro
 Điều nuôi dưỡng con trong suốt ba tuần đó là sự có mặt của các thiên thần nhí. Tối đó ở nhà ăn, thấy một nhóm các em đang ngồi chơi và uống nước nên con mới lại hỏi chuyện. 
 
 - Các em đang uống gì thế?
-- Tụi em uống trà Earl Grey- đứa lớn trong nhóm trả lời
+- Tụi em uống trà Earl Grey (đứa lớn trong nhóm trả lời)
 - Buổi tối uống trà các em có ngủ được không?
 - Em chỉ để có một chút trà thôi.
 
@@ -52,17 +52,19 @@ Chưa kịp hỏi thêm thì đứa nhóc nhỏ nhất nhóm, chắc sáu tuổi
 
 - Em uống trà nhiều lắm và không cần ngủ, em thức suốt đêm luôn.
 - Thiệt hả, em không cần ngủ hả, thế làm sao em lớn được?
-- Em không ngủ mà em cũng lớn được như này này. Rồi chàng ta lém lỉnh lấy tay để đo từ đầu đến chân. Thế là anh chàng tí hon bị mấy người anh xúm lại, kêu xạo quá, ngủ say sưa để mẹ phải thức dậy mà bày đặt nói không cần ngủ.
+- Em không ngủ mà em cũng lớn được như này này.
 
-Mấy đứa nhóc sao mà hồn nhiên, tinh nghịch và dễ thương quá. Con có cảm giác năm đứa cháu trai của con bên Huế đang có mặt trong những đứa nhỏ này. Làng đã mang các em đến với nhau, chơi với nhau như anh em trong nhà suốt một tuần. Con hi vọng những kỉ niệm tuổi thơ trong trẻo ở Làng sẽ giúp các em có một hành trang đẹp để rồi khi lớn lên, mỗi khi nhớ về, các em sẽ mỉm cười và thấy ấm áp trong lòng.
+Rồi chàng ta lém lỉnh lấy tay để đo từ đầu đến chân. Thế là anh chàng tí hon bị mấy người anh xúm lại, kêu xạo quá, ngủ say sưa để mẹ phải thức dậy mà bày đặt nói không cần ngủ.
+
+Mấy đứa nhóc sao mà hồn nhiên, tinh nghịch và dễ thương quá. Con có cảm giác năm đứa cháu trai của con bên Huế đang có mặt trong những đứa nhỏ này. Làng đã mang các em đến với nhau, chơi với nhau như anh em trong nhà suốt một tuần. Con hi vọng những kỉ niệm tuổi thơ trong trẻo ở Làng sẽ giúp các em có một hành trang đẹp, để rồi khi lớn lên, mỗi khi nhớ về, các em sẽ mỉm cười và thấy ấm áp trong lòng.
 
 ## Các sư cô có bị “quá tải” không?
 
 Đây là câu mà nhiều thiền sinh hay hỏi khi thấy Làng mở cửa gần như quanh năm, quý sư cô lo hết khóa tu này đến khóa tu khác, gặp gỡ bao nhiêu con người với đủ các cung bậc cảm xúc. Con hay cười và trả lời với những trải nghiệm của mình rằng các khóa tu đem lại cho con nhiều niềm vui, con học hỏi thêm được nhiều điều mới và có nhiều động lực hơn để tu tập. Con xem các khóa tu như là cơ hội để con vừa được phụng sự mà vừa được tu học. Chính nhờ các bạn thiền sinh tới đây mà con biết hơn về những gì đang xảy ra ngoài kia với quá nhiều những bạo động, sợ hãi, hận thù, tham vọng. Con hiểu được hơn những khổ đau mà họ đang gặp phải trong cuộc sống thường ngày. Để rồi khi nhìn lại, con thấy được sống trong lòng tăng thân là một may mắn lớn. 
 
-Với thiền sinh đến dự khóa tu, chỉ cần con có mặt đó trong những buổi pháp đàm, những bữa ăn cùng gia đình, hết lòng lắng nghe và chia sẻ những kinh nghiệm từ sự thực tập hàng ngày của mình là con đã giúp được cho thiền sinh rồi. Khổ đau đang tràn ngập trên địa cầu này, có thể con không đưa trực tiếp cánh tay mình ra để làm vơi nhẹ được. Nhưng nếu ở trong tu viện, con học cách sống hòa hợp, có hạnh phúc với các chị em, chế tác niềm vui và bình an trong tự thân thì con đã có thể gửi năng lượng lành đó đến những người đang khổ. *Tâm bình, thế giới bình* — con lấy câu đó như lời nhắc nhở mỗi ngày để dù có làm chi đi nữa, sau một ngày nhìn lại, con thấy con có đủ sự bình an và niềm vui trong tự thân hay không. Và chỉ khi nào thật sự có được, con mới có thể hiến tặng cho người khác, mà gần gũi nhất là gia đình huyết thống và các chị em xung quanh con.
+Với thiền sinh đến dự khóa tu, chỉ cần con có mặt đó trong những buổi pháp đàm, những bữa ăn cùng gia đình, hết lòng lắng nghe và chia sẻ những kinh nghiệm từ sự thực tập hàng ngày của mình là con đã giúp được cho họ rồi. Khổ đau đang tràn ngập trên địa cầu này, có thể con không đưa trực tiếp cánh tay mình ra để làm vơi nhẹ được. Nhưng nếu ở trong tu viện, con học cách sống hòa hợp, có hạnh phúc với các chị em, chế tác niềm vui và bình an trong tự thân thì con đã có thể gửi năng lượng lành đó đến những người đang khổ. *Tâm bình, thế giới bình* — con lấy câu đó như lời nhắc nhở mỗi ngày để dù có làm chi đi nữa, sau một ngày nhìn lại, con thấy con có đủ sự bình an và niềm vui trong tự thân hay không. Và chỉ khi nào thật sự có được, con mới có thể hiến tặng cho người khác, mà gần gũi nhất là gia đình huyết thống và các chị em xung quanh con.
 
-Đã bao lần, nhìn hàng trăm, hàng ngàn người tới Làng tu học, con thấy sự vĩ đại trong công trình dựng tăng và phụng sự cuộc đời của Sư Ông. Con nhớ trong một bài pháp thoại, Sư Ông nói rằng nếu mình có một ước mơ, tăng thân sẽ giúp mình biến ước mơ đó thành hiện thực. Với cá nhân nhỏ bé của con, dù có ao ước lớn giúp đời thế nào đi nữa, con cũng không làm được gì nhiều. Nay được sống cùng tăng thân, được tu học, được phụng sự, với con đó là phước đức rất lớn. Mỗi sáng thức dậy, ý thức mình đang là người tu, đang được ôm trong vòng tay tăng thân là niềm biết ơn liền đi lên trong con. Con biết ơn Sư Ông và tăng thân đã cho con được làm một giọt nước trong dòng sông đa màu sắc, đa văn hóa này để mỗi ngày con đều có cơ hội được thở, được cười, được chế tác niềm vui, bình an cho con và hiến tặng cho những người xung quanh. 
+Đã bao lần, nhìn hàng trăm, hàng ngàn người tới Làng tu học, con thấy sự vĩ đại trong công trình dựng tăng và phụng sự cuộc đời của Sư Ông. Con nhớ trong một bài pháp thoại, Sư Ông nói rằng nếu mình có một ước mơ, tăng thân sẽ giúp mình biến ước mơ đó thành hiện thực. Với cá nhân nhỏ bé của con, dù có ao ước lớn giúp đời thế nào đi nữa, con cũng không làm được gì nhiều. Nay được sống cùng tăng thân, được tu học, được phụng sự, với con đó là phước đức rất lớn. Mỗi sáng thức dậy, ý thức mình đang là người tu, đang được ôm trong vòng tay tăng thân là niềm biết ơn liền đi lên trong con. Con biết ơn Sư Ông và Tăng thân đã cho con được làm một giọt nước trong dòng sông đa màu sắc, đa văn hóa này để mỗi ngày con đều có cơ hội được thở, được cười, được chế tác niềm vui, bình an cho con và hiến tặng cho những người xung quanh. 
 
 <p class="signoff"><span class="signoff-lvl-1">Con của Sư Ông và Tăng thân,</span><br/>
 <span class="signoff-lvl-2">Chân Trăng Tâm Đức</span></p>
