@@ -1,13 +1,13 @@
 {% extends "layouts/print-frame.njk" %}
 {% block content %}
 
-<div class="full-page-image bleed">
+{# <div class="full-page-image bleed">
     {% image ["LTLM47-2024 cover ", locale ," ", size_label ," bleed.jpg"] | join %}
 </div>
 
 <div class="full-page-image">
     {% image ["LTLM47-2024 Inner Covers A4 Left.jpg"] | join %}
-</div>
+</div> #}
 
 <div class="full-page-image">
     {% image ["calligraphy2024/ParallelVerses/7 Upright Diamond for A4 Red Border/Parallel Verses 2024 on A4 ", locale ,".webp"] | join %}
@@ -88,12 +88,12 @@
 <div class="empty-page"></div>
 {%- endif %}
 
-<div class="full-page-image">
+{# <div class="full-page-image">
     {% image ["LTLM47-2024 Inner Covers A4 Right.jpg"] | join %}
 </div>
 
 <div class="full-page-image bleed">
     {% image ["LTLM47-2024 cover back ", locale ," ", size_label ," bleed.jpg"] | join %}
-</div>
+</div> #}
 
 {% endblock %}

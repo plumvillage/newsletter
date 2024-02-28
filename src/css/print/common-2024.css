@@ -1096,9 +1096,13 @@ figure#article2024Done-Daffodil-familySrDJang-Hanhe {
 
 .article-khuc-hat-tang-than .editors-preface::after,
 .article-thap-sang-hien-huu .editors-preface::after,
-.article-love-is-the-answer .editors-preface::after {
+.article-love-is-the-answer .editors-preface::after,
+.article-giai-toa-han-thu-khoi-suoi-yeu-thuong .editors-preface::after
+{
     display: none;
 }
+
+
 
 figure#article2024Done-interview-with-thayTNH-spain2014-2 {
     display: block;
@@ -1754,9 +1758,6 @@ figure#article2024Done-Sr-Tuyet-NIMG6618ecut + p {
 
 
 
-.article-giai-toa-han-thu-khoi-suoi-yeu-thuong .editors-preface::after {
-    display: none;
-}
 
 .article-giot-nuoc-trong-dong-song-tang-than ul li::before {
     content: "— ";
@@ -1944,9 +1945,8 @@ figure.lmnq5 {
     max-width: none !important;
 }
 
-/* toc */
-html:lang(vi) .PAGE-OF-article2024Br-Phap-HuuThay-Phap-Huu-3-Rob-Walshe .pagedjs_margin-bottom,
-div[data-page-number="3"] .pagedjs_margin-bottom {
+html:lang(vi) .PAGE-OF-article2024Br-Phap-HuuThay-Phap-Huu-3-Rob-Walshe .pagedjs_margin-bottom
+{
     display: none;
 }
 

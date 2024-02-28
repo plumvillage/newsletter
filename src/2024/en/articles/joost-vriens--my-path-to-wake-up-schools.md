@@ -76,4 +76,4 @@ The image that keeps coming up in me is the teahouse in Upper Hamlet, where many
 
 <div class="article-end"></div>
 
-{% image "article2024/joost/DSC05250_e.JPG" %}
+{% image "article2024/joost/DSC05250_e.JPG", "removeTopMargin" %}
