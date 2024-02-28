@@ -5,7 +5,7 @@ author: Sư cô Chân Uyển Nghiêm
 
 ## Tình thương của Thầy
 
-Nhắc đến tình thương, tôi không khỏi nghĩ đến Thầy. Mỗi lần nhắc đến Thầy hay tăng thân, tôi cũng như nhiều quý thầy và quý sư cô đều dễ xúc động. Tôi nhớ có lần tôi được làm thị giả cho Thầy. Lúc đó Thầy chuẩn bị đi khóa tu ở Anh. Tôi còn rất mới và tu tập chưa giỏi nên chưa biết cách quan sát. Thời gian ấy, Thầy nghỉ ngơi và làm việc ở Sơn Cốc. Sáng ngày đưa Thầy ra sân bay đi Anh, sư cô Chân Không làm tài xế lái xe. Trước khi rời khỏi Sơn Cốc, Thầy gọi tôi vào thư viện để giúp cho Thầy vài việc. Sau đó, hai thầy trò đi kiểm tra một vòng xung quanh để chắc chắn đèn đã tắt, cửa đã khóa, gas đã được vặn lại,… Khi thấy mọi thứ đã ổn, hai thầy trò ra xe để đi.
+Nhắc đến tình thương, tôi không khỏi nghĩ đến Thầy. Mỗi lần nhắc đến Thầy hay tăng thân, tôi cũng như nhiều quý thầy và quý sư cô đều dễ xúc động. Tôi nhớ có lần tôi được làm thị giả cho Thầy. Lúc đó Thầy chuẩn bị đi khóa tu ở Anh. Tôi còn rất mới và tu tập chưa giỏi nên chưa biết cách quan sát. Thời gian ấy, Thầy nghỉ ngơi và làm việc ở Sơn Cốc. Sáng ngày đưa Thầy ra sân bay đi Anh, sư cô Chân Không làm tài xế lái xe. Trước khi rời khỏi Sơn Cốc, Thầy gọi tôi vào thư viện để giúp cho Thầy vài việc. Sau đó, hai thầy trò đi kiểm tra một vòng xung quanh để chắc chắn đèn đã tắt, cửa đã khóa, gas đã được khóa lại,… Khi thấy mọi thứ đã ổn, hai thầy trò ra xe để đi.
 
 {% image "article2024/Done-Sr. Uyen Nghiem/Article - Sr. Uyen N/DSC_0236_e.JPG" %}
 
@@ -27,11 +27,11 @@ Tùy theo mỗi quốc gia mà độ tuổi trưởng thành được quy địn
 
 Thời điểm ấy, tôi rất giận một sư em. Trong cơn giận đó, tôi muốn tới và la sư em một trận. Tôi đã chuẩn bị sẵn một “bài la” rất bài bản. Lúc đi đến cửa phòng sư em, tôi bỗng xoay người và trở về lại bàn học của mình, ngồi đó rất lâu và khóc. Sau đó tôi lấy ra một mảnh giấy và viết:
 
-<div class="verse"><p>“Có một đứa trẻ không chịu lớn và có một người lớn chưa trưởng thành”</p></div>
+<div class="verse"><p>“Có một đứa trẻ không chịu lớn và có một người lớn chưa trưởng thành.”</p></div>
 
 Tôi khóc cho sư em và cũng khóc cho chính mình. Khóc cho sư em vì tôi thấy sư em có đủ tất cả những điều kiện để lớn lên: được dạy dỗ, được chăm sóc và nhắc nhở rất nhiều nhưng em không muốn lớn. Em chỉ muốn nương tựa vào người khác mà không chịu đứng trên đôi chân của mình. Dù mọi người có thương bao nhiêu, sư em cũng không thấy đủ. Khóc cho bản thân vì đã tu bao nhiêu năm rồi mà vẫn còn sân si quá, không chăm sóc được cảm xúc của chính mình, muốn đi la sư em. Một cái thấy bất chợt xuất hiện: “La sư em thì có ích gì, la xong thì sư em cũng đâu thể lớn lên ngay được mà mình cũng khổ luôn”. Giây phút đó tôi nhận ra là mình vẫn chưa trưởng thành.
 
-Đó cũng là lần đầu tiên tôi hiểu được trưởng thành nghĩa là mình có khả năng thấu hiểu mình và người khác, chăm sóc được cảm xúc, tri giác cũng như tâm hành của mình. Chỉ khi làm được như vậy tôi mới trưởng thành. Có thể năm mươi, sáu mươi tuổi nhưng mình vẫn hành xử như một đứa trẻ và làm tổn thương những người xung quanh mình.
+Đó cũng là lần đầu tiên tôi hiểu được trưởng thành nghĩa là mình có khả năng thấu hiểu mình và người khác, chăm sóc được cảm xúc, tri giác cũng như tâm hành của mình. Chỉ khi làm được như vậy tôi mới trưởng thành. Có thể năm mươi, sáu mươi tuổi nhưng mình vẫn hành xử như một đứa trẻ và làm tổn thương những người xung quanh.
 
 Trưởng thành là cả một quá trình mà người làm con hay làm cha mẹ, ông bà đều phải học. Không có ai hoàn hảo, chỉ nhờ rèn luyện mà làm tốt hơn mỗi ngày.
 
