@@ -3,15 +3,15 @@ title: Người đi hái thuốc đầu non
 author: Nhớ về thầy Chân Trời Hải Thượng
 ---
 
-<div class="editors-preface"><p>Thầy Trời Hải Thượng sinh năm 1990 và thị tịch năm 2023 lúc mới 33 tuổi đời và 5 tuổi hạ, trong sự cảm thương và tiếc nhớ của hai gia đình tâm linh, huyết thống, bạn bè và cư sĩ. Thầy xuất gia và thọ giới sadi tại tu viện Vườn Ươm, Làng Mai Thái Lan năm 2014 trong gia đình cây Sồi Đỏ, thọ giới lớn năm 2019 tại tu viện Vườn Ươm trong Đại giới đàn Đã về Đã tới. Sau nhiều năm tu tập và phụng sự ở Vườn Ươm, thầy đã tình nguyện sang xây dựng tăng thân ở Viện Phật học Ứng dụng châu Âu (EIAB), Đức, nơi thầy đã đột ngột ra đi vào một buổi sáng tháng 10 năm 2023.</p>
+<div class="editors-preface"><p>Thầy Trời Hải Thượng sinh năm 1990 và thị tịch năm 2023 lúc mới 33 tuổi đời và 5 tuổi hạ, trong sự cảm thương và tiếc nhớ của hai gia đình tâm linh, huyết thống, bạn bè và cư sĩ. Thầy xuất gia và thọ giới sadi tại tu viện Vườn Ươm, Làng Mai Thái Lan năm 2014 trong gia đình cây Sồi Đỏ, thọ giới lớn năm 2019 tại tu viện Vườn Ươm trong Đại giới đàn Đã về Đã tới. Sau nhiều năm tu tập và phụng sự ở Vườn Ươm, thầy tình nguyện sang xây dựng tăng thân ở Viện Phật học Ứng dụng châu Âu (EIAB), Đức, nơi thầy đột ngột ra đi vào một buổi sáng tháng 10 năm 2023.</p>
 
 <p>
 Trong số rất nhiều lời cảm niệm, nhớ thương về thầy Trời Hải Thượng, BBT xin trích đăng một vài chia sẻ của những huynh đệ đã từng có thời gian chung sống và tu học cùng thầy. BBT cũng xin giới thiệu bài viết “Trót thương” và “Người đã về, đã tới” của thầy Trời Hải Thượng. Đọc bài viết, chúng ta sẽ được tiếp xúc với tâm hồn tinh tế, tình yêu cuộc sống, sự có mặt trọn vẹn, sự trân quý từng phút từng giây của thầy. Chỉ khi nào người ta có khả năng an trú trong hiện tại thì mới có thể cảm và nhìn thấy từng góc cạnh, từng chi tiết nhỏ những nét đẹp nhiệm mầu của sự sống đến như thế.</p><p>
-Dù thầy Trời Hải Thượng không còn biểu hiện qua hình tướng thông thường nữa, chúng ta vẫn có thể tiếp xúc với thầy qua các bài viết sâu sắc và những vần thơ phản ánh tâm hồn tinh tế, thoát tục nhưng tha thiết yêu đời của thầy.</p></div>
+Dù thầy Trời Hải Thượng không còn biểu hiện trong hình tướng quen thuộc nữa, chúng ta vẫn có thể tiếp xúc với thầy qua các bài viết sâu sắc và những vần thơ phản ánh tâm hồn tinh tế, thoát tục nhưng tha thiết yêu đời của thầy.</p></div>
 
 ## Suối nguồn an lạc
 
-Thầy Trời Hải Thượng kính thương!
+Thầy Trời Hải Thượng ơi!
 
 Trước tiên con muốn chào thầy với tất cả tấm lòng thương kính! Sen búp xin tặng thầy, một vị Bụt tương lai.
 
@@ -21,7 +21,7 @@ Thầy biết không, con rất hạnh phúc khi có cơ hội được sống, 
 
 Thầy hay gọi con là: “Sư cô Nguyệt Nghiêm ơi!” làm cho con có cảm giác là Bụt đang gọi con và Sư Ông đang gọi con. Thầy không bao giờ gọi tắt tên “Nguyệt” hay chỉ gọi “sư cô” mà hay gọi nguyên câu “Sư cô Nguyệt Nghiêm ơi!” làm cho con chánh niệm hơn vì trong âm thanh thầy gọi, con nhận được sự có mặt của thầy cho con, và tiếng thầy gọi giống như Sư Ông đã từng gọi con. Mỗi lần nghe âm thanh đó, con đều lắng nghe rất cẩn trọng. Đó là bí mật đấy, chắc lần này con chia sẻ ra thầy mới biết phải không? Thầy có biết vì sao không, trong tiếng gọi đó con cảm nhận sự có mặt của thầy và con ý thức sự có mặt của con, một sư cô, một người xuất gia. Lần này con cũng kính xin được gọi tên của thầy một lần nữa với tất cả tấm lòng thương kính: “Thầy Chân Trời Hải Thượng ơi!”.
 
-Cảm ơn thầy đã đến Viện Phật Học cùng với anh chị em chúng con xây dựng đại chúng. Viện Phật Học có ít người nhưng khi thầy đến và có mặt đã làm cho khoảng thời gian đó thật là vui và hạnh phúc. Nguyện đem phước đức mà chúng ta được làm huynh đệ với nhau trong chốn thiền môn để hồi hướng lên thầy và cho tất cả muôn loài. Nguyện thầy thành tựu được chí nguyện của thầy và muôn loài được bình an hạnh phúc sẽ luôn có được bậc minh sư, vị Bụt tương lai soi lối dẫn đường. Chúng ta sẽ mãi mãi đi như một dòng sông, chúng ta có trong nhau, và tiếp tục biểu hiện. Nơi nào chúng ta có mặt và đi qua đều trở thành xứ sở của hạnh phúc và tịnh lạc. Hoa nở trên từng bước chân của thầy.
+Cảm ơn thầy đã đến Viện Phật Học cùng với anh chị em chúng con xây dựng đại chúng. Viện Phật Học có ít người nhưng khi thầy đến và có mặt đã làm cho khoảng thời gian đó thật là vui và hạnh phúc. Nguyện đem phước đức chúng ta được làm huynh đệ với nhau trong chốn thiền môn để hồi hướng đến thầy và cho tất cả muôn loài. Nguyện thầy thành tựu được chí nguyện của thầy và muôn loài được bình an hạnh phúc sẽ luôn có được bậc minh sư, vị Bụt tương lai soi lối dẫn đường. Chúng ta sẽ mãi mãi đi như một dòng sông, chúng ta có trong nhau, và tiếp tục biểu hiện. Nơi nào chúng ta có mặt và đi qua đều trở thành xứ sở của hạnh phúc và tịnh lạc. Hoa nở trên từng bước chân của thầy.
 
 <p class="signoff"><span class="signoff-lvl-1">Sen búp xin tặng thầy — một vị Bụt tương lai.<br/>Kính thương!</span><br/>
 <span class="signoff-lvl-2 last-article-element">Sư cô Chân Nguyệt Nghiêm</span></p>
@@ -35,7 +35,7 @@ Sư em thương!
 
 Chỉ cần nghĩ về sư em thôi là hình ảnh sư em với nụ cười hiền như đang hiện ra trước mắt chị đây. Tuy vậy, chị vẫn để một bức hình của sư em trên bàn máy tính chị làm việc. Sư em vẫn còn đó, thật rõ và vô cùng dễ thương, dễ gần, dễ mến. Cảm ơn sư em đã là một người sư em dễ thương và cũng là một người thầy của chị.
 
-Những câu nói đơn giản nhưng dễ hiểu của sư em đã giúp chị đi ra được những bế tắc trong lòng. Nhớ ngày đó, trong giờ học tiếng Đức, cô giáo gọi chị để bắt đầu bài tập nói với sư em thì chị đã thưa: *“Entschuldigung, Ich bin noch nicht bereit”* (Thưa cô, em xin lỗi, em chưa sẵn sàng). Nói xong chị ngồi khóc ngon ơ mà cũng chẳng học hành gì được nữa. Thế là cô giáo gọi một người khác để thực hiện bài tập nói với sư em.
+Những câu nói đơn giản, dễ hiểu của sư em đã giúp chị đi ra được những bế tắc trong lòng. Nhớ ngày đó, trong giờ học tiếng Đức, cô giáo gọi chị để bắt đầu bài tập nói với sư em thì chị đã thưa: *“Entschuldigung, Ich bin noch nicht bereit”* (Thưa cô, em xin lỗi, em chưa sẵn sàng). Nói xong chị ngồi khóc ngon ơ mà cũng chẳng học hành gì được nữa. Thế là cô giáo gọi một người khác để thực hiện bài tập nói với sư em.
 
 Lúc đó, sư em cũng không nói gì với chị hết, sư em để chị khóc cho đã, rồi sau đó mới làm công tác tư tưởng cho chị. Chị nhớ mãi, chẳng thể nào quên được. Sư em nói: “Bây giờ sư chị cứ buông hết mọi thứ, dù gì ngày thi cũng sắp tới rồi. Sư chị chỉ cần nhận diện đơn thuần thôi, cứ thở vào thở ra là được. Sư chị đừng lo lắng hay nghĩ gì về ngày thi. Cái gì phải đến nó sẽ đến”. Chị còn có tư tưởng là không muốn đi thi nữa cơ. Sư em lại nói với chị câu mà chị thấm thía: “Sư chị cứ đi thi, dù gì sư chị cũng sẽ đậu A2, với lại cô giáo cũng không thấy uổng công mình dạy bữa giờ”.
 
@@ -47,7 +47,7 @@ Nghĩ về sư em thì viết bao nhiêu cho hết, kể mấy cho vừa. Chỉ 
 
 Cảm ơn sư em đã biểu hiện thật đẹp trong cuộc đời. Tự do bất cứ nơi nào sư em nhé. *Chúng ta đang gặp nhau nơi suối nguồn. Chúng ta sẽ gặp nhau từng phút giây trên muôn ngàn nẻo sống.*
 
-<p class="signoff"><span class="signoff-lvl-1 last-article-element">Sư cô Chân Chuẩn Nghiêm</span></p>
+<p class="signoff"><span class="signoff-lvl-1 last-article-element">Sư chị Chân Chuẩn Nghiêm</span></p>
 
 {% image "article2024/Br Hai Thuong/ENG/DSC_8009_e.jpg", "noFloat" %}
 
@@ -72,7 +72,7 @@ Hải Thượng ơi! Anh chỉ muốn nói với sư em là *“Tuy hình hài s
 Sự ra đi đột ngột của sư em như một hồi chuông cảnh tỉnh về sự vô thường và nhắc nhở tất cả mọi người rằng *“Cái chết đến bất ngờ không thể nào mặc cả”*, làm cho tất cả huynh đệ chúng ta phải thức tỉnh hơn và giúp tất cả mọi người thấy được giá trị của sự sống, giá trị của vô thường như lời Sư Ông dạy *“Ý thức vô thường để trân quý vô thường”*. Cách sư em tu, học, làm việc và vui chơi hòa mình trong lòng đại chúng đã và đang nuôi dưỡng anh rất nhiều. Cảm ơn sư em đã đến với cuộc đời này, với tăng thân và đem lại sự an lạc, bình an cho anh và cho tất cả mọi người.
 
 <p class="signoff"><span class="signoff-lvl-1">Thương và nhớ sư em nhiều lắm!</span><br/>
-<span class="signoff-lvl-2">Thầy Chân Trời Tuệ Chiếu</span></p>
+<span class="signoff-lvl-2">Sư anh Chân Trời Tuệ Chiếu</span></p>
 
 <div class="article-end"></div>
 
