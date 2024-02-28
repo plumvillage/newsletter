@@ -22,7 +22,7 @@ author: Interview with the Daffodil ordination family
 
 {% image "article2024/Done-Daffodil family/044_110723.jpg" %}
 
-***Br. Nhat Nguyen*** *(True Source of Oneness):* When I found Thay and started to meditate — that was one and a half years before I first came to Plum Village — I quickly enjoyed the benefits of meditation, finding calm in my body. In the book, *You Are Here*, Thay explains Interbeing, and I immediately felt it was the most beautiful thing I’ve ever heard. Those two made me feel I found my path in life, a big bright path for me!
+***Br. Nhat Nguyen*** *(True Source of Oneness):* When I found Thay and started to meditate — that was one and a half years before I first came to Plum Village — I quickly enjoyed the benefits of meditation, finding calm in my body. In the book, *You Are Here*, Thay explains interbeing, and I immediately felt it was the most beautiful thing I’ve ever heard. Those two made me feel I found my path in life, a big bright path for me!
 
 Before, I had never felt like having a clear path. I often acted out of fear and stress, trying to survive in the world. But this path was just there for me to walk very calmly and joyfully. The feeling was very much one of letting go of fear. Deciding to become a monastic felt very light and freeing.
 
@@ -48,7 +48,7 @@ While as an aspirant, I told myself, “Regardless of whether I get accepted or 
 
 ***Sr. Don Hanh*** *(True Kind Action; Sr. Don Hanh has come as a monastic from another Zen tradition):* When I was 20 years old, I was going through a difficult period in my life and, looking for something to help me rediscover my inner balance, I found a meditation centre in the Japanese Soto Zen tradition in Madrid, my hometown. I remember very well the feeling of peace and joy I felt the first time I sat in zazen. Without having any idea of Buddhism or meditation, I felt somehow that I had finally found what could help me.
 
-I continued to practise assiduously, going every day to the dojo and monthly retreats, and little by little I was able to reestablish an intimate connection with myself and find inner peace and happiness.
+I continued to practice assiduously, going every day to the dojo and monthly retreats, and little by little I was able to reestablish an intimate connection with myself and find inner peace and happiness.
 
 Somehow, I fell in love with the practice and the monastic aspiration came naturally. I had found good medicine for me and my greatest desire was to dedicate my life to continuing it and sharing it with all the people who might be going through difficult times in their lives.
 
@@ -60,7 +60,7 @@ I am very grateful to my former teachers in Madrid and in France, as well as to 
 
 On the other hand, because in my former tradition we were only three nuns (the founder of the monastery, the abbess and myself), I have been able to understand the importance of the Sangha and how precious it is. I knew that alone I couldn’t really fulfill my aspiration to transform myself and to serve all beings.
 
-For these two reasons, I decided to take refuge in the PlumVillage tradition and… I am very happy!
+For these two reasons, I decided to take refuge in the Plum Village tradition and… I am very happy!
 
 {% image "article2024/Done-Daffodil family/Sr.Đăng Hạnh_e.jpg" %}
 
@@ -88,7 +88,7 @@ I took ten years to reevaluate, but even though I opened my mind to things besid
 
 I only saw Thay once in his physical form on my very first retreat. I’ve learned so much about the practice from the Sangha. I really feel the sangha is his continuation and that I would not have learned so much or be here without all the brothers and sisters practising and guiding me and all the love and support I receive.
 
-Unfortunately, my parents are not supportive of me ordaining, and I know it is going to be difficult for them. I practise being patient. After listening deeply to myself it became clear that I would regret not having at least tried to be a nun. I was very happy at the ordination. It felt like a relief.
+Unfortunately, my parents are not supportive of me ordaining, and I know it is going to be difficult for them. I practice being patient. After listening deeply to myself it became clear that I would regret not having at least tried to be a nun. I was very happy at the ordination. It felt like a relief.
 
 {% image "article2024/Done-Daffodil family/Br.Nhất Vân_e.jpg" %}
 
@@ -114,7 +114,7 @@ On Days of Mindfulness, I sometimes feel overwhelmed by the amount of people pre
 
 ***Sr. Don Hanh:*** I treasure living together as a very important part of the practice, because it helps me to open my heart, understand my sisters’ needs, and how to support each other. I am also learning to listen to myself, and to respect my limits. Especially on busy days in the summer, I have found going into the woods with my hammock to be most beautiful and refreshing. Oh, so good (laughter).
 
-***Sr. Dang Hanh:*** Ever since I was 11 years old, I’ve had my own room. What I know about myself is that I scan my surroundings, trying to look for ways that people might judge me, wondering “Am I doing a good enough job?” and “What are they thinking about me?” Being alone is one way that I protected myself. Coming into the Sangha has been a continual practice for me to transform this anxiety. It helps me to tell myself things like, “Not everyone is interested in you and everything that you’re doing” or “people are quite busy with their own thoughts and don’t care that you are taking a nap or they do not care which book you are reading and they don’t have an opinion about which book you *should* be reading. They are busy reading their *own* book.” (Laughter) I’m surrounded by some of the kindest of people in the kindest of environments.
+***Sr. Dang Hanh:*** Ever since I was 11 years old, I’ve had my own room. What I know about myself is that I scan my surroundings, trying to look for ways that people might judge me, wondering “Am I doing a good enough job?” and “What are they thinking about me?” Being alone is one way that I protected myself. Coming into the Sangha has been a continual practice for me to transform this anxiety. It helps me to tell myself things like “Not everyone is interested in you and everything that you’re doing” or “People are quite busy with their own thoughts and don’t care that you are taking a nap or they do not care which book you are reading and they don’t have an opinion about which book you *should* be reading. They are busy reading their *own* book.” (Laughter) I’m surrounded by some of the kindest of people in the kindest of environments.
 
 {% image "article2024/Done-Daffodil family/Br.Nhat Nguyen_e.jpg" %}
 
@@ -132,7 +132,7 @@ Of course, it takes some time to get to know everybody. I enjoy always having ma
 
 ***Br. Nhat Xuan:*** I can share about the relationship with my blood brother. I am 22, he is 25. We grew up sharing the same room and are quite close to each other, but it has not always been easy. I noticed over the last years practicing in the Plum Village tradition that my expectations for him diminished, e.g. wanting him to be or to do what seems right to me. I think these expectations make me suffer. Having less expectations really helps our relationship be enjoyable. I don’t want to wait ten years to enjoy a moment with my blood brother in the present moment.
 
-***Sr. Dang Hanh:*** After I had been practising for a few years back in the US I felt that I had a lot of transformation. I was listening to my mother more deeply. I was accepting my father more. I felt more space. Nowadays, when I call customer service, I make the representative laugh. I think I interact with people so differently now. I once asked my father, “Do you feel that I changed in the past year?” I felt we were not fighting or getting into arguments as much as before. And he just said “No.” (Laughter) But I do feel a difference.
+***Sr. Dang Hanh:*** After I had been practising for a few years back in the US I felt that I had a lot of transformation. I was listening to my mother more deeply. I was accepting my father more. I felt more space. Nowadays, when I call customer service, I make the representative laugh. I think I interact with people so differently now. I once asked my father, “Do you feel that I changed in the past year?” I felt we were not fighting or getting into arguments as much as before. And he just said, “No.” (Laughter) But I do feel a difference.
 
 When I announced to my dad that I wanted to become a nun two years ago, it was a huge shock for him. He is an immigrant and worked really hard. He said, “You know, I’ve lived this way and I was successful, but I don’t really know if I would recommend it to anybody either. You’ve made me think back on the way that I thought was the right way to live. I don’t even know why it is the right way to live.” I don’t think my father would have had that kind of conversation with me if I hadn’t made this decision.
 
@@ -140,7 +140,7 @@ When I announced to my dad that I wanted to become a nun two years ago, it was a
 
 ***Br. Nhat Van:*** My family couldn’t come, but they watched the ceremony online. In the beginning, they were asking, “When are you coming home?” But now I think they understand. I told them that I feel at peace here. They have always accepted my choices. I hope they can come next year and see that it is much better than they can imagine.
 
-***Br. Nhat Vu:*** My blood family is basically my son. He is well aware of my path since he grew up with me and I raised him according to the Five Precepts. So, he feels me. He can see me blooming in the sangha, in this new life. He told me last August: “To Love – this is a cool job, Dad!”
+***Br. Nhat Vu:*** My blood family is basically my son. He is well aware of my path since he grew up with me and I raised him according to the Five Precepts. So, he feels me. He can see me blooming in the sangha, in this new life. He told me last August: “To love – this is a cool job, Dad!”
 
 <div class="article-end"></div>
 
