@@ -145,7 +145,7 @@ Tướng tự tại đoan nghiêm<br/>
 Có cầu là có ứng<br/>
 Không nguyện nào không thành.</p></div>
 
-Sáng nay, những giọt nước cam lộ được rưới lên khắp thất Lắng Nghe. Trời trong, khí tĩnh, thanh tịnh là khung cảnh mà thanh tịnh cũng trong lòng người. Chúng con đã cùng nhau vây quanh thất, hướng về Thầy trong Lễ Sái tịnh. Người đứng, người quỳ nhưng đều chung một tâm thành kính. Nhắm mắt lại, chúng con cảm nhận năng lượng an lành của Thầy còn lưu lại trong không gian. Lời kinh trì tụng của chư Tôn đức vang khắp núi đồi. Trong biển âm thanh huyền diệu đó, thất Lắng Nghe tựa hồ như đóa sen đang nở ra trang nghiêm đẹp đẽ giữa không khí thanh tịnh của Tổ đình.
+Sáng nay, những giọt nước cam lộ được rưới lên khắp thất Lắng Nghe. Trời trong, khí tĩnh, thanh tịnh là khung cảnh mà thanh tịnh cũng trong lòng người. Chúng con đã cùng nhau về bên Thầy trong Lễ Sái tịnh. Người đứng, người quỳ nhưng đều chung một tâm thành kính. Nhắm mắt lại, chúng con cảm nhận năng lượng an lành của Thầy còn lưu lại trong không gian. Lời kinh trì tụng của chư Tôn đức vang khắp núi đồi. Trong biển âm thanh huyền diệu đó, thất Lắng Nghe tựa hồ như đóa sen đang nở ra trang nghiêm đẹp đẽ giữa không khí thanh tịnh của Tổ đình.
 
 Giữa lòng đóa sen đó đã an vị một phần sắc thân Thầy. Chúng con thấy như tăng thân đã đồng lòng đặt vào trong thất một trái tim. Giờ đây, những lúc nhớ Thầy, chúng con có một nơi để hướng về. Ngôi thất nhỏ đã trở thành một biểu tượng tâm linh chói sáng, hiện lên trong tâm trí chúng con với tất cả niềm thương kính.
 
