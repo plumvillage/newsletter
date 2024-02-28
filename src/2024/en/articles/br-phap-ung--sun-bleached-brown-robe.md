@@ -13,7 +13,7 @@ During those years, I have made all kinds of mistakes, learned to get up from a 
 
 When I had the aspiration to become a monastic, my family was not ready to receive the news. I felt sorry for myself and cried alone in my bed. While crying, I suddenly saw a figure with a glowing complexion who kindly said, “Rest assured, my child!” It calmed me down… Not long after that, I met Thay at a retreat in the Netherlands. Thay looked at me – maybe because I looked naive like a young student or a scout of a Buddhist youth group – and asked, “Do you want to be an engineer of Buddhism?” I thought to myself, “Huh? What’s an engineer of Buddhism? I don’t understand.” I looked confusedly at Thay, but the seed had been transmitted. *A seed that has lain deeply in the Earth for many years just smiles.*<span class="note">Adopted from the poem “Cuckoo Telephone” in <i>Call Me By My True Names</i> by Thich Nhat Hanh, 2022.</span>
 
-{% image "article2024/Done-Br.Phap Ung/Br.Phap Ung_e.jpg", "", "Fish Family after Ordination Ceremony in 1993" %}
+{% image "article2024/Done-Br.Phap Ung/Br.Phap Ung_e.jpg", "", "Fish family after the ordination ceremony in 1993" %}
 
 {% image "article2024/Done-Br.Phap Ung/Thay and Br. Phap Ung at Omega Institute in New York - 1996 PHOTO Simon Chaput.jpg", "", "Omega Institue, New York, 1996.<br/>Photo Courtesy: Simon Chaput" %}
 
