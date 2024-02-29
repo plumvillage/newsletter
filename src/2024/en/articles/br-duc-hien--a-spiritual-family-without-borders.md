@@ -13,7 +13,7 @@ After a friendly and joyful dinner in a vegan restaurant run by a member of the 
 
 The organizer of this evening invited a group of young musicians to start off the evening with the chanting of mantras to the beat of local rhythms, which was met with much enthusiasm. 
 
-I was very touched by the communal energy which was slowly taking hold, giving us confidence to take turns sharing—with the help of a translator—about how the practice inspired us, and allowed us to welcome life as it manifested itself inside and around us. On the bus back to our accommodation we shared the wonder and deep gratitude that we felt after such an encounter.
+I was very touched by the communal energy which was slowly taking hold, giving us confidence to take turns sharing — with the help of a translator — about how the practice inspired us, and allowed us to welcome life as it manifested itself inside and around us. On the bus back to our accommodation we shared the wonder and deep gratitude that we felt after such an encounter.
 
 {% image "article2024/br-duc-hien/Brazil/WhatsApp Image 2023-03-28 at 09.41.31_e.jpeg", "removeTopMargin" %}
 
