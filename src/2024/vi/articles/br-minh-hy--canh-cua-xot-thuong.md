@@ -6,7 +6,7 @@ author: Thầy Chân Minh Hy
 <div class="verse"><p>“Hãy nhớ gọi đúng tên tôi<br/>
 cho tôi giật mình tỉnh thức<br/>
 và để cho cánh cửa lòng tôi để ngỏ<br/>
-cánh cửa xót thương.”<br/><cite>Trích từ bài thơ <i>Hãy gọi đúng tên tôi</i><br/>Sư Ông Làng Mai<br/></cite></p></div>
+cánh cửa xót thương.”<br/><cite> <i>Hãy gọi đúng tên tôi,</i><br/>Sư Ông Làng Mai<br/></cite></p></div>
 
 Cánh cửa xót thương là cánh cửa của lòng mình. Chúng ta có quyền đóng hay mở cánh cửa đó với bất cứ ai. Mình có quyền thương và mình có quyền được giận, được buồn. Giận hay buồn cũng cho mình cái không gian riêng nhưng có lúc cũng cảm thấy chật chội, tù túng. Đôi khi chúng ta muốn chạy, chạy đi thật xa, muốn thoát ra khỏi sự tù túng ấy. Chúng ta muốn cười một trận cười cho đã cái sự chật chội ấy, cho rỗng cõi lòng.
 
