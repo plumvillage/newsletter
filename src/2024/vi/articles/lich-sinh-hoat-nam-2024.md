@@ -15,9 +15,9 @@ author: của tăng thân Làng Mai
 - 09.07 – 01.08<span class="space"></span>Khóa tu mùa Hè
 - 10.08 – 17.08<span class="space"></span>Khóa tu dành cho người trẻ (Wake Up)
 - 20.09 – 27.09<span class="space"></span>Khóa tu dành cho người da màu (BIPOC)
-- 09.10 – 07.01.**25** An cư kiết đông 
-- 20.12 – 27.12.**25** Khóa tu Giáng sinh
-- 27.12 – 03.01.**25** Khóa tu Năm mới
+- 09.10 – 07.01.25 An cư kiết đông 
+- 20.12 – 27.12.25 Khóa tu Giáng sinh
+- 27.12 – 03.01.25 Khóa tu Năm mới
 
 *Xin vào trang nhà của Tu viện để xem chi tiết: [www.langmai.org](http://www.langmai.org) hoặc [www.plumvillage.org](http://www.plumvillage.org)*
 
@@ -36,7 +36,7 @@ author: của tăng thân Làng Mai
 - 04.09 – 08.09<span class="space"></span>Khóa tu tiếng Việt
 - 02.10 – 06.10<span class="space"></span>Khóa tu đi bộ đường dài 
 - 17.10 – 20.10<span class="space"></span>Khóa tu Tiếp Hiện (tiếng Đức)
-- 27.12 – 02.01.**25** Khóa tu cuối năm
+- 27.12 – 02.01.25 Khóa tu cuối năm
 
 *Xin vào trang nhà của Học viện để xem chi tiết: [www.eiab.eu](http://www.eiab.eu)* 
 
@@ -72,8 +72,8 @@ author: của tăng thân Làng Mai
 - 10.07 – 14.07<span class="space"></span>Trại hè dành cho thanh thiếu niên
 - 28.07 – 03.08<span class="space"></span>Khóa tu Chánh niệm Khoác ba lô đi bộ (Backpacking)
 - 11.09 – 15.09<span class="space"></span>Khoá tu dành cho người Việt
-- 13.10 – 12.01.**25** An cư kiết Đông
-- 29.12 – 02.01.**25** Khóa tu mừng Năm mới
+- 13.10 – 12.01.25 An cư kiết Đông
+- 29.12 – 02.01.25 Khóa tu mừng Năm mới
 
 *Xin vào trang nhà của Tu viện để xem chi tiết:  
 [www.deerparkmonastery.org](http://www.deerparkmonastery.org)* 
@@ -82,7 +82,7 @@ author: của tăng thân Làng Mai
 
 - 15.09 – 15.12<span class="space"></span>An cư kiết Đông
 - 10.10 – 14.10<span class="space"></span>Khóa tu im lặng 
-- 28.12 – 01.01.**25** Khóa tu cuối năm
+- 28.12 – 01.01.25 Khóa tu cuối năm
 
 *Xin vào trang nhà của Tu viện để xem chi tiết:  
 [www.magnoliagrovemonastery.org](http://www.magnoliagrovemonastery.org)* 
