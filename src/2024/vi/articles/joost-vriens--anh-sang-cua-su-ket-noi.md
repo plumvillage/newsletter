@@ -5,7 +5,7 @@ author: Joost Vriens
 
 {% image "article2024/joost/Image 19-02-24 at 21.56_e.jpg", "removeTopMargin" %}
 
-<p class="editors-preface">Joost Vriens (Tâm Quan Sơn) là người Hà Lan, sống ở Eindhoven. Ông đã giảng dạy tại một trường trung học chuyên nghiệp trong suốt 40 năm và đồng sáng lập tăng thân trực tuyến dành cho các nhà giáo dục Hà Lan. Dưới đây là bài viết của ông về hành trình đến phong trào đem chánh niệm vào trường học (Wake Up School) mà ông đang dành rất nhiều tâm huyết. Bài viết được BBT dịch từ tiếng Anh.</p>
+<p class="editors-preface">Joost Vriens (Tâm Quan Sơn) là người Hà Lan, sống ở Eindhoven. Ông đã giảng dạy tại một trường trung học chuyên nghiệp trong suốt 40 năm và đồng sáng lập tăng thân trực tuyến dành cho các nhà giáo dục Hà Lan. Dưới đây là bài viết của ông về hành trình đến với phong trào đem chánh niệm vào trường học (Wake Up School) mà ông đang dành rất nhiều tâm huyết. Bài viết được BBT dịch từ tiếng Anh.</p>
 
 Năm 1982, vừa bước chân vào nghề giáo, tôi mới 22 tuổi, trẻ măng, một giáo viên dạy bộ môn tôn giáo đầy lý tưởng và nhiệt huyết. Nhưng thực tại không phải là thiên đường mà là một môi trường cho sự học hỏi.
 
