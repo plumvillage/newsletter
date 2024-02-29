@@ -11,7 +11,7 @@ author: Main Hương, Hồng Anh và Janny
 
 Khi đến Làng Mai tu tập, trong niềm vui gặp gỡ các bạn thiền sinh đến từ khắp nơi trên thế giới, chúng tôi thường mong muốn được kết nối với những người bạn có cùng cội nguồn văn hóa. Trong những khóa tu khác mà chúng tôi từng tham gia, rất nhiều người trong chúng tôi thường có cảm giác không gian ở đó giống hệt như môi trường mà chúng tôi đã sinh sống và lớn lên, nơi mà chúng tôi chỉ là những nhóm thiểu số. Ở trường học hay công sở, nhìn quanh may ra tìm được vài ba người bạn có cùng nguồn gốc văn hóa.
 
-Tháng sáu vừa qua, khóa tu *Tìm về ngôi nhà đích thực* lần đầu tiên được tổ chức tại Làng Mai dành riêng cho những người trẻ Việt Nam và châu Á lớn lên ở nước ngoài. Chúng tôi chưa bao giờ gặp nhiều người trẻ gốc châu Á cùng tham dự một khóa tu ở Làng như vậy. Khi xung quanh đều là những người đã từng lớn lên với những khó khăn và thử thách vì bị mất kết nối với văn hóa Việt Nam và những kinh nghiệm sống của cha mẹ, chúng tôi cảm nhận một năng lượng thật khó tả. Có một niềm cảm thông sâu sắc mà không cần phải nói thành lời. 
+Tháng Sáu vừa qua, khóa tu *Tìm về ngôi nhà đích thực* lần đầu tiên được tổ chức tại Làng Mai dành riêng cho những người trẻ Việt Nam và châu Á lớn lên ở nước ngoài. Chúng tôi chưa bao giờ gặp nhiều người trẻ gốc châu Á cùng tham dự một khóa tu ở Làng như vậy. Khi xung quanh đều là những người đã từng lớn lên với những khó khăn và thử thách vì bị mất kết nối với văn hóa Việt Nam và những kinh nghiệm sống của cha mẹ, chúng tôi cảm nhận một năng lượng thật khó tả. Có một niềm cảm thông sâu sắc mà không cần phải nói thành lời. 
 
 Trong bài pháp thoại về bốn yếu tố của tình thương đích thực, sư cô Lăng Nghiêm đã nhắc lại lời dạy của Sư Ông, thương yêu nghĩa là hiểu biết. “Tình thương đích thực thì không có giới hạn, hiểu biết cũng như vậy”. Trong suốt khóa tu, chúng tôi cảm nhận được rằng mình luôn được tiếp xúc với tình thương sâu sắc khó diễn tả thành lời: tình thương vô điều kiện từ quý sư cô, tình thương dành cho cha mẹ và tổ tiên, tình thương đối với gốc rễ mà từ lâu chúng tôi cứ tưởng đã bị lấp vùi, tình thương đối với nền văn hóa dân tộc, và tình thương với chính mình.
 
@@ -51,7 +51,7 @@ Nhờ nghe những lời hướng dẫn bằng tiếng Việt, chúng tôi có t
 
 Nhiều người trong chúng tôi là một phần của thế hệ sau chiến tranh, chúng tôi chỉ được tiếp xúc với tiếng Việt trong gia đình. Thường thường ngôn ngữ của cha mẹ có chứa đựng chất liệu của khổ đau và bạo động. Nhưng ở Làng Mai, chúng tôi được tiếp nhận ngôn ngữ với rất nhiều chất liệu bình an và thương yêu. Thật khó nói thành lời tấm lòng bao dung, độ lượng, tình thương và sự ân cần mà quý sư cô dành cho chúng tôi. Trong tiếng Việt, chữ “thương” thể hiện một tình thương sâu sắc và vô điều kiện – đó chính là điều chúng tôi cảm nhận được trong suốt tuần lễ của khóa tu.
 
-Chúng tôi mong rằng khóa tu như thế này sẽ được tiếp tục tổ chức và là nơi những người Việt xa xứ như chúng tôi được trở về ngôi nhà đích thực của mình.
+Chúng tôi mong rằng khóa tu như thế này sẽ được tiếp tục tổ chức để những người Việt xa xứ như chúng tôi được trở về ngôi nhà đích thực của mình.
 
 <div class="article-end"><div>
 
