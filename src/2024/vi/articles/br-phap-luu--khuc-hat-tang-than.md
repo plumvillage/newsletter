@@ -34,7 +34,7 @@ Tonk và B, là một cặp đôi, cũng thực tập dài hạn ở đây, đan
 
 Gia đình xuất gia Toyon (gồm có hai sư cô và bốn sư chú) cũng đang sống theo tuệ giác này. Những người trẻ này là dân miền Trung tây, đến từ các thảo nguyên miền trung Canada, các phòng thu âm nhạc ở Nashville, Tennessee và các trường học ở Rust Belt Ohio. Có người đến từ Toronto, từ đông Los Angeles, có người gốc Việt, gốc Ai cập. Có người được nuôi dạy trong một đoàn thể đạo Hindu. Tương tự như thời 1950, 1960 ở Việt Nam, người trẻ ngày nay đang đến với sự thực tập để tìm một đoàn thể, và tìm đến với đoàn thể để khám phá ra sự thực tập. Rõ ràng sự thay đổi chính trị là không đủ, chúng ta phải làm cho thế giới chuyển hóa bằng sự sống của chính mình.
 
-<p class="pull-quote" style="font-size: 135%; font-weight: 500;">Đẹp thay áo giải thoát<br/>
+<p class="pull-quote-v2">Đẹp thay áo giải thoát<br/>
 Áo ruộng phước nhiệm mầu<br/>
 Con cúi đầu tiếp nhận<br/>
 Đời đời nguyện mang theo.</p>

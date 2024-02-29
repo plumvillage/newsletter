@@ -27,14 +27,6 @@ Trời vẫn tối<br/>
 Trong tim<br/>
 Một nỗi buồn.</p></div>
 
-<!-- <p class="pull-quote" style="text-align: center; font-size: 150%;">Tiếng hát của mưa,<br/>
-Tiếng hát của đất<br/>
-Một chén trà<br/>
-Trời vẫn tối<br/>
-Trong tim<br/>
-Một nỗi buồn.</p> -->
-
-
 Khi những suy nghĩ cứ trở đi trở lại trong đầu, khi có những điều đánh động tâm tư và làm tôi thấy lòng đau, thấy không thoải mái, ghi chúng xuống giấy cho phép tôi “đi ra khỏi cái đầu”, và tâm tôi không bị quẩn quanh trong đó. Ghi chép giúp tôi xử lý niềm vui, nỗi buồn mà tôi trải qua và học những bài học quý giá từ những kinh nghiệm ấy. Vài tháng hay vài tuần sau, khi đọc lại những điều mình đã viết, tôi có thể nhận ra những đường mòn quen thuộc của tâm, thực tập với nó, và nhờ đó có thể hiểu tâm mình nhiều hơn. Ghi chép cũng là cách để giải tỏa năng lượng nặng nề khi giận dữ, bức xúc hoặc buồn bực. Viết những cảm thọ này lên giấy làm chúng không còn vương vấn trong tâm tôi nữa.
 
 Tôi thường xuyên đọc lại những gì mình đã viết, dù vào năm ngoái hay nhiều năm về trước. Nhờ đó tôi hiểu rõ nỗi đau của mình hơn. Quán chiếu những điều đã viết đem đến cho tôi cái thấy sáng tỏ và đúng đắn. Tôi thấy sự thực tập này thật là mầu nhiệm. Qua việc phản quan tự kỷ này, tôi có thể quán chiếu về những suy tư, ước vọng, ý định và hành động của mình, để sau đó có những bước đi phù hợp.

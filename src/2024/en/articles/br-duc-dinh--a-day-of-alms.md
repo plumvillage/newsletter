@@ -53,7 +53,7 @@ seeing giver, gift, and receiver are one.<br/>
 
 <div class="removeIndentInFollowingElem"></div>
 
-I wasn’t as ease receiving food from my friend, as I saw each of us as separated. But as I received, I was not only myself receiving — I was much more. As he offered, he was not only himself. Consider the butterfly and the flower. Should we take one out, the other wouldn’t exist anymore. They have come to depend on each other to manifest; if they are to evolve, they will evolve together. They are neither superior, inferior, nor are equal.
+I wasn’t at ease receiving food from my friend, as I saw each of us as separated. But as I received, I was not only myself receiving — I was much more. As he offered, he was not only himself. Consider the butterfly and the flower. Should we take one out, the other wouldn’t exist anymore. They have come to depend on each other to manifest; if they are to evolve, they will evolve together. They are neither superior, inferior, nor are equal.
 
 My lay brother and I, we inter-are and there is this wonderful relationship happening that is one of connection, gratitude and generosity. There is the whole world in us as we interact today. I don’t need to feel awkward about myself, I can enjoy the experience.
 
