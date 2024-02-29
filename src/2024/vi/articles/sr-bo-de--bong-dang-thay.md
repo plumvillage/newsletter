@@ -5,9 +5,9 @@ author: Sư cô Chân Trăng Bồ Đề
 
 {% image "article2024/Done-Sr-Bo-De/_DSC7412.jpg", "removeTopMargin" %}
 
-<p class="pull-quote" style="font-size: 140%; font-weight: 500;">Dưới khung trời xanh tươi đầy nắng<br/>
+<p class="pull-quote-v2">Dưới khung trời xanh tươi đầy nắng<br/>
 Con bỗng thấy<br/>
-Bóng dáng Thầy…"</p>
+Bóng dáng Thầy…</p>
 
 <!-- <div class="verse"><p>Dưới khung trời xanh tươi đầy nắng<br/>
 Con bỗng thấy<br/>
