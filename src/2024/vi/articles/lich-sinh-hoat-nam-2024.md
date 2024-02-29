@@ -110,7 +110,7 @@ author: của tăng thân Làng Mai
 - 29.03 – 01.04<span class="space"></span>Khóa tu gia đình
 - 25.04 – 28.04<span class="space"></span>Khóa tu dành cho người nói tiếng Anh
 - 10.05 – 12.05<span class="space"></span>Khóa tu Nấu ăn
-- 17.05 – 16.06<span class="space"></span>Khóa tu dành cho người có tâm nguyện xuất gia
+- 17.05 – 16.06<span class="space"></span>Khóa tu gieo duyên
 - 02.06 – 31.08<span class="space"></span>An cư kiết Hạ
 - 26.09 – 29.09<span class="space"></span>Khóa tu dành cho người nói tiếng Anh
 - 11.10 – 13.10<span class="space"></span>Khóa tu dành cho người trẻ
