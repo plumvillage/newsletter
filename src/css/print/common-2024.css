@@ -1331,14 +1331,14 @@ figure#article2024Sr-Tri-Nghiem000 {
 html:lang(vi) figure#article2024br-duc-hienChileIMG2160e {
     width: 86%;
 }
-figure#article2024Tien-NguyenIMG5897 {
+html:lang(en) figure#article2024Tien-NguyenIMG5897 {
     width: 95%;
     margin-top: 2em;
     margin-bottom: 0em;
 }
-
 html:lang(vi) figure#article2024Tien-NguyenIMG5897 {
-    width: 90%;
+    width: 89%;
+    margin-bottom: 0em;
 }
 figure#article2024Br-Hai-Thuong3303559909048077505433252111270774346916962ne {
     width: 97%;

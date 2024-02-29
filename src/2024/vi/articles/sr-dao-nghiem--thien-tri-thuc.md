@@ -9,10 +9,10 @@ author: Sư cô Chân Đào Nghiêm
 
 Sáng tinh mơ, tôi ngồi xuống và để cho bàn tay mình viết tùy thích mà không cần suy nghĩ, tất cả những gì hiện lên trong trí sẽ biểu hiện trên mặt giấy. Đó là một quá trình rất trị liệu xảy ra trong nhiều năm. Đó cũng là một hành trình rất riêng tư thể hiện qua nhiều hình thức (viết, vẽ, thơ). Trong quyển sổ này, tôi có hình vẽ của những người thương và người thân trong gia đình đã qua đời. Có cả những câu nói hay, truyền cảm hứng, nuôi dưỡng tôi. Thí dụ như:
 
- - "Mong sao cho tôi có thể hiến tặng sự quan tâm săn sóc và sự có mặt của mình cho người khác một cách vô điều kiện, dù người ấy đối xử lại bằng lòng biết ơn, sự thờ ơ, giận dữ hay sợ hãi."
- - "Mong sao cho tôi có thể chấp nhận những hạn chế của mình với lòng từ bi khi chứng kiến những khổ đau của người khác."
- - "Sự thực tập của chúng ta là để hướng tới giải thoát. Chỉ cần thực tập một điều thôi: làm cho tâm được khinh an. Bất cứ điều gì bạn làm trong cuộc sống tâm linh cũng phải có dấu ấn của thảnh thơi và khinh an."
- - "Nơi nương tựa của ta chính là khả năng cảm được niềm vui sống, khả năng chấp nhận sống bất cứ nơi đâu mà vẫn có hạnh phúc. Nơi nương tựa vững chắc nhất của ta chính là bản thân mình. Ta nương tựa nơi Bụt tự thân. Nghĩa là ta nương tựa nơi sự vững chãi, khinh an, thảnh thơi, bình an và niềm vui của chính mình."
+ - “Mong sao cho tôi có thể hiến tặng sự quan tâm săn sóc và sự có mặt của mình cho người khác một cách vô điều kiện, dù người ấy đối xử lại bằng lòng biết ơn, sự thờ ơ, giận dữ hay sợ hãi.”
+ - “Mong sao cho tôi có thể chấp nhận những hạn chế của mình với lòng từ bi khi chứng kiến những khổ đau của người khác.”
+ - “Sự thực tập của chúng ta là để hướng tới giải thoát. Chỉ cần thực tập một điều thôi: làm cho tâm được khinh an. Bất cứ điều gì bạn làm trong cuộc sống tâm linh cũng phải có dấu ấn của thảnh thơi và khinh an.”
+ - “Nơi nương tựa của ta chính là khả năng cảm được niềm vui sống, khả năng chấp nhận sống bất cứ nơi đâu mà vẫn có hạnh phúc. Nơi nương tựa vững chắc nhất của ta chính là bản thân mình. Ta nương tựa nơi Bụt tự thân. Nghĩa là ta nương tựa nơi sự vững chãi, khinh an, thảnh thơi, bình an và niềm vui của chính mình.”
 
 Tôi viết xuống những niềm vui, những lên xuống trong ngày, suy nghĩ, cảm thọ, những điều gây cảm hứng, những tuệ giác mà tôi đọc được trong sách, những người tôi tri ân, những liên hệ khó khăn mà tôi cần thực tập để chuyển hóa, nỗi sợ hãi, những điều yêu thích của mình. Đôi khi những điều này được trình bày qua thơ hoặc họa.
 
