@@ -7,9 +7,10 @@ author: Sư cô Chân Trăng Linh Dị
 
 <div class="removeIndentInFollowingElem"></div>
 
-Thầy kính thương,<br/>Hôm nay là ngày tiếp nối của Thầy.
+Thầy kính thương,
+Hôm nay là ngày tiếp nối của Thầy.
 
-Chúng con, bốn người con xuất sĩ của Thầy, đang ở miền Đất Thánh, và chiến tranh giữa Israel và Palestine đã bùng nổ bốn ngày trước đây. Chúng con vẫn bình an. Chúng con có nước, có đồ ăn, có nơi trú ẩn và có những người bạn dễ thương của tăng thân. Nhưng cách đây chỉ năm mươi cây số thôi, người dân ở đó không có nước, không có thức ăn, và không có nơi trú ẩn an toàn. Những đứa trẻ đang chết dần chết mòn. Cả ngày lẫn đêm chúng con đều nghe thấy tiếng rít của tên lửa, chúng con cảm thấy đất rung chuyển khi tên lửa nổ. Những lúc đó con nhắm mắt lại và thành tâm cầu nguyện — cầu cho sự bình an và từ bi đến được với trái tim mọi người.
+Chúng con, bốn người con xuất sĩ của Thầy, đang ở miền Đất Thánh, và chiến tranh giữa Israel và Palestine đã bùng nổ bốn ngày trước đây. Chúng con vẫn bình an. Chúng con có nước, có đồ ăn, có nơi trú ẩn và có những người bạn dễ thương trong tăng thân. Nhưng cách đây chỉ năm mươi cây số thôi, người dân ở đó không có nước, không có thức ăn, và không có nơi trú ẩn an toàn. Những đứa trẻ đang chết dần chết mòn. Cả ngày lẫn đêm chúng con đều nghe thấy tiếng rít của tên lửa, chúng con cảm thấy đất rung chuyển khi tên lửa nổ. Những lúc đó con nhắm mắt lại và thành tâm cầu nguyện — cầu cho sự bình an và từ bi đến được với trái tim mọi người.
 
 Cuộc sống giống như một bức tranh cát bị lật ngược lại, và chúng ta không thể biết cảnh tượng tiếp theo sẽ diễn ra như thế nào.
 
@@ -61,7 +62,7 @@ Chúng con biết rằng đó không phải là lúc để chứng minh rằng �
 
 {% image "article2024/Done-sr-linh-di/2023.10.06 Deep Relaxation.jpg" %}
 
-Sự thực tập hòa hợp cũng yêu cầu chúng con phải biết tôn trọng và khiêm cung dù là những điều nhỏ nhất. Một hôm đang ở giữa khóa tu, sư cô hỏi con: “Sư em, sư em nghĩ ngày mai mình cùng tụng bài *Ngày đêm an lành* được không?” “Dạ, được!” “Nhờ sư em hỏi thử bên quý thầy nhé?” “Vâng.” Con nhanh nhảu gửi ngay một tin nhắn cho quý thầy trên hộp tin nhắn của nhóm: “Thưa quý thầy, sáng mai chúng ta sẽ cùng nhau tụng bài *Ngày đêm an lành* nhé”.
+Sự thực tập hòa hợp cũng yêu cầu chúng con phải biết tôn trọng và khiêm cung dù là những điều nhỏ nhất. Một hôm đang ở giữa khóa tu, sư cô hỏi con: “Sư em, sư em nghĩ ngày mai mình cùng tụng bài *Ngày đêm an lành* được không?” “Dạ, được!” “Nhờ sư em hỏi thử bên quý thầy nhé?” “Vâng”. Con nhanh nhảu gửi ngay một tin nhắn cho quý thầy trên hộp tin nhắn của nhóm: “Thưa quý thầy, sáng mai chúng ta sẽ cùng nhau tụng bài *Ngày đêm an lành* nhé”.
 
 Nhìn thấy tin nhắn đó, sư cô cười và nhẹ nhàng nhắc con: “Sư em, nhắn tin cho quý thầy như vậy là không dễ thương và không có sự tôn trọng. Chúng ta cùng làm việc với nhau, và chúng ta luôn nên hỏi người khác về ý kiến của họ hơn là thông báo hoặc yêu cầu. Nếu chúng ta thực tập chánh niệm trong những điều nhỏ như vậy, những căng thẳng sẽ không bị dồn lại trong suốt hành trình khóa tu”. Con chắp tay xá cảm ơn sư cô và gửi đi một tin nhắn khác: “Thưa quý thầy, con đã không thật sự tôn trọng khi chỉ nhắn cho quý thầy ngày mai chúng ta sẽ tụng bài gì … vì vậy … con xin hỏi quý thầy ngày mai chúng ta cùng tụng bài *Ngày đêm an lành* có được không ạ?”.
 
@@ -77,7 +78,7 @@ Vâng, con hiểu điều đó.
 
 Thầy kính thương, con rất biết ơn Thầy đã xây dựng một tăng thân với sự hiểu biết, hòa hợp, bình an và từ bi. Thầy đã thấy được rằng cánh cửa địa ngục cũng chính là cánh cửa từ bi, và Thầy đã dạy chúng con những phương pháp thực tập để giữ trái tim chúng con rộng mở mà đừng quên lãng.
 
-<p class="signoff"><span class="signoff-lvl-1">Trân kính và biết ơn,</span><br/>
+<p class="signoff"><span class="signoff-lvl-1">Với lòng trân kính và biết ơn,</span><br/>
 <span class="signoff-lvl-2">Con, Trăng Linh Dị</span></p>
 
 <div class="article-end"></span>
