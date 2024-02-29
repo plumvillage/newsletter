@@ -234,7 +234,7 @@ let workQueue = [
     () => generatePDF("http://localhost:8080/2024/vi/a4-bleed/", `./docs/2024/vi-a4-bleed`, onFinshed),
     // () => generatePDF("http://localhost:8080/2024/vi/letter/", `./docs/2024/vi-letter`, onFinshed, {format: "Letter"}),
     // () => generatePDF("http://localhost:8080/2024/vi/letter-bleed/", `./docs/2024/vi-letter-bleed`, onFinshed, {height: "225.9mm", width: "289.4mm"}),
-
+    
 
 
 

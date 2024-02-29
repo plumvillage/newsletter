@@ -7,7 +7,7 @@ author: Tiên Nguyễn
 
 Sư cô ơi,
 
-Lần trước sư cô hỏi em nghĩ gì về quý sư cô, em chưa kịp trả lời nên bữa nay em viết thư cho sư cô nè :)
+Lần trước sư cô hỏi em nghĩ gì về quý sư cô, em chưa kịp trả lời nên bữa nay em viết thư cho sư cô nè ☺
 
 Sự bất lực của ngôn từ làm mình đôi khi thật lúng túng. Em đã không biết nói sao cho vừa, ngắn gọn cũng không ổn, mà dài dòng cũng không xong, bởi trong thế giới vô ngôn đó, mình đã có nhau đủ đầy trong giây phút này, mọi thứ dịu dàng như một giấc mơ.
 
