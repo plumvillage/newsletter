@@ -39,7 +39,7 @@ Located in Nazaré Paulista, in the countryside of São Paulo, this secular spir
 
 The host who welcomed us spoke French very well. He had traveled a lot and ended up settling there. He is now one of the coordinators of this practice center. Like Plum Village, they also welcome retreatants throughout the year. There reigned an atmosphere of beauty, serenity, united in joy. I very quickly felt a deep synergy with this place and its inhabitants.
 
-Early Sunday morning, 70 people, including 10 young residents received the Five Mindfulness Trainings. On average, 80% of participants in our retreats in South America made this commitment. As usual, the space was charged with spiritual intensity that connected our hearts and dissolved the boundaries of the mind. Moving testimonies of gratitude follow the ceremonies.
+Early Sunday morning, 70 people, including 10 young residents, received the Five Mindfulness Trainings. On average, 80% of participants in our retreats in South America made this commitment. As usual, the space was charged with spiritual intensity that connected our hearts and dissolved the boundaries of the mind. Moving testimonies of gratitude follow the ceremonies.
 
 I met two women activists committed to indigenous populations. Deep in their eyes shone a spark of determination and love that warmed the hearts of the most deprived. The youngest of them shared with us her admiration for Sr. Chan Khong and aspiration for monastic life. In fact, she arrived in Plum Village at the start of the Rains Retreat with the intention to join the aspirant program. How wonderful!
 
