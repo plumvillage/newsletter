@@ -29,7 +29,7 @@ Thời đó, người tu Phật giáo không nhiều. Tôi nghĩ đến thời g
 
 <div class="removeTopMarginInFollowingElem"></div>
 
-{% image "article2024/Done-Sr.Hoa Nghiem/TNH-directory-page-half-768x1201.jpg" %}
+{% image "article2024/Done-Sr.Hoa Nghiem/TNH-directory-page-half-768x1201.jpg", "", 'Hồ sơ sinh viên của Chủng viện Thần học<br/>thuộc Đại học Columbia năm 1962 (Nguồn: Đại học Columbia)' %}
 
 Ngày xưa Sư Ông đã đến đây một mình. Khi rời New York về lại Việt Nam, Sư Ông có bao giờ nghĩ rằng có lúc Người sẽ trở lại đây, không phải một mình mà với cả một tăng thân? Sư Ông lúc ấy chắc không ngờ rằng sau này Người còn thành lập cả một tu viện ở vùng New York, phía Đông Hoa Kỳ, nơi mà ngày xưa Người chỉ là một thầy tu trẻ không tên tuổi. Ngày nay, Sư Ông có hàng ngàn đệ tử người Hoa Kỳ. Sự tiếp nối của Sư Ông thật không thể nghĩ bàn (bất khả tư nghì).
 

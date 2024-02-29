@@ -68,7 +68,7 @@ Mùa thu năm 1994, Sư Ông dạy về kinh Tuổi trẻ và Hạnh phúc (kinh
 
 {% image "article2024/Done-Br.Phap Ung/_DSC7759_e.JPG" %}
 
-<p class="pull-quote">Áo nâu phai màu nắng<br/>
+<p class="pull-quote-v2">Áo nâu phai màu nắng<br/>
 Người về đây với Bụt<br/>
 Cành lá đi in dấu<br/>
 Quê hương thoáng nhẹ bay<br/>

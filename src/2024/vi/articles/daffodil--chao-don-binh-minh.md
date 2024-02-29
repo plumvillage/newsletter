@@ -30,19 +30,19 @@ Trước đây con chưa bao giờ cảm thấy mình có một con đường s�
 
 {% image "article2024/Done-Daffodil family/Br.Nhat Thanh_2_e.jpg" %}
 
-<div class="removeTopMarginInFollowingElem"></div>
+<div class="removeTopMarginInFollowingElem removeIndentInFollowingElem"></div>
 
 **Sư chú Chân Nhất Thanh:** Vào năm 2019, 2020 con sống và thực tập ở Thiền đường Hơi Thở Nhẹ khoảng chín tháng. Sau đó con trải qua hai năm tại một trung tâm thiền theo truyền thống Tây Tạng tên là Vườn Thiền Samyé ở Bỉ. Năm 2022, con đến xóm Thượng, Làng Mai làm tình nguyện viên cho khóa tu hai mươi mốt ngày — kỷ niệm 40 năm Làng Mai, và ở lại đây cho đến nay. Con thương giáo pháp, thương pháp môn và đạo hạnh của Sư Ông nhưng ý định trở thành một người xuất gia vẫn chưa rõ ràng trong con. Sau khi tham dự lớp học dành cho những người có tâm nguyện xuất gia và được bạn bè khuyến khích, con nghĩ con có thể làm được. Là một người có khuynh hướng căng thẳng và có nhiều khó khăn khi phải cam kết một điều gì, lúc đầu con không thoải mái lắm với cam kết xuất gia trọn đời. Nhưng sau khi nói chuyện thêm với quý thầy con thấy an tâm hơn.
 
-{% image "article2024/Done-Daffodil family/Br.Nhất Xuân_e2.jpg" %}
+{% image "article2024/Done-Daffodil family/Br.Nhất Xuân_e2.jpg", "removeIndentInFollowingElem" %}
 
 **Sư chú Chân Nhất Xuân:** Cách đây một năm rưỡi, con là thiền sinh dài hạn ở xóm Thượng. Từ khi biết pháp môn của Sư Ông, con đã buông được rất nhiều thứ, trong đó có những mối quan hệ không nuôi dưỡng. Khi đó con mới hai mươi tuổi, vì vậy chọn con đường xuất gia thực sự là một quyết định lớn của cuộc đời con. Điều làm cho con rất hạnh phúc là gia đình con đã yểm trợ quyết định này. Tháng Tư năm ngoái, một tuần sau khi gia đình tới Làng Mai nhân dịp sinh nhật của con, con đã nói cho mẹ biết ước muốn xuất gia của mình. Mẹ con rất vui, nói: “Ờ, làm thầy tu hợp với con lắm”. Anh trai cũng vậy. Anh ôm con và nói: “Tuyệt quá!”. Quả là một niềm khích lệ lớn cho con khi biết những người mình yêu thương có thể yểm trợ cho mình trên con đường này.
 
 Trong thời gian tập sự, con tự nhủ: “Mình có được chấp nhận xuất gia hay không, điều đó không thành vấn đề. Trước sau gì mình cũng muốn trở thành thầy tu”. Ý chí muốn đi trên con đường xuất gia càng làm cho cam kết của con vững vàng thêm. Đó là một khoảnh khắc rất đẹp.
 
-<div class="removeTopMarginInFollowingElem"></div>
+<p class="removeTopMarginInFollowingElem" style="margin-bottom: 2em;"></div>
 
-{% image "article2024/Done-Daffodil family/051_05_Nov_2023_e_crop.jpg" %}
+{% image "article2024/Done-Daffodil family/051_05_Nov_2023_e_crop.jpg", "removeIndentInFollowingElem" %}
 
 **Sư cô Chân Đôn Hạnh** *(Trước khi theo truyền thống Làng Mai, sư cô đã từng là một vị xuất sĩ theo truyền thống thiền Tào Động, Nhật Bản)*:
 
@@ -60,7 +60,7 @@ Vì hai lý do này mà con quyết định nương tựa truyền thống Làng
 
 {% image "article2024/Done-Daffodil family/Sr.Đăng Hạnh_e.jpg" %}
 
-<div class="removeTopMarginInFollowingElem"></div>
+<div class="removeTopMarginInFollowingElem removeIndentInFollowingElem"></div>
 
 **Sư cô Chân Đăng Hạnh:** Đã từ lâu con biết rất rõ sự tu tập sẽ là một điều thiết yếu của đời mình. Khi còn sống ở New York, con quyết định mỗi năm sẽ đến tu viện Bích Nham vài hôm vào dịp sinh nhật của mình. Con đã đọc quyển *Bước tới thảnh thơi*, thậm chí cả quyển *Giới bản khất sĩ tân tu* nữa. Ý tưởng xuất gia thật hấp dẫn, nhưng khi đó nó chỉ là một lý tưởng nằm trong trí tưởng tượng của con mà thôi.
 
@@ -78,7 +78,7 @@ Sau đó, con đến một tu viện trên núi ở Hồng Kông và ngụ ở n
 
 Con đã dành ra mười năm sau đó để suy xét lại tình hình của mình. Nhưng dù con có mở lòng ra để trải nghiệm cả những thực tập bên ngoài đạo Bụt, ước nguyện xuất gia vẫn chưa bao giờ phai nhạt trong con. Từ đó đến nay con đã có những bước tiến khá xa và mối liên hệ với tự thân đã rất khác xưa. Con không biết tin khi Sư Ông viên tịch, nhưng không hiểu sao hôm đó con khóc khi đang ngồi thiền. Con tự hỏi: “Tại sao mình khóc? Chẳng lẽ có ai mất hay sao?”. Sau đó con được tin là Sư Ông đã viên tịch. Cuối cùng con đến Làng Mai dự một khóa tu và nghĩ rằng có lẽ đây là một nơi thích hợp để sống đời xuất sĩ.
 
-{% image "article2024/Done-Daffodil family/Sr.Diệu Hạnh_e.jpg" %}
+{% image "article2024/Done-Daffodil family/Sr.Diệu Hạnh_e.jpg", "removeIndentInFollowingElem" %}
 
 **Sư cô Chân Diệu Hạnh:** Bảy năm về trước con may mắn phát hiện ra Thiền đường Hơi Thở Nhẹ nên thường đến đó tu tập. Con cũng thường hay về Làng dự các khoá tu, nhất là mùa hè và mùa an cư. Con không nhớ chính xác là khi nào ước muốn xuất gia nhen nhóm. Con thấy rất rõ ràng đây là con đường thật sự con muốn đi bởi vì nó vô cùng có ích cho con.
 
@@ -86,13 +86,13 @@ Con chỉ gặp Sư Ông được một lần khi tham gia khóa tu đầu tiên
 
 Hơi tiếc là ba mẹ con không yểm trợ cho con xuất gia. Con biết là họ cũng gặp nhiều khó khăn trong việc chấp nhận quyết định của con. Cho nên con cần thực tập nhẫn nại. Sau khi lắng nghe lòng mình thật kỹ, con thấy rất rõ ràng là con sẽ ân hận nếu không trải nghiệm đời sống xuất gia. Con rất hạnh phúc trong lễ xuất gia và cảm thấy thật nhẹ lòng.
 
-{% image "article2024/Done-Daffodil family/Br.Nhất Vân_e.jpg" %}
+{% image "article2024/Done-Daffodil family/Br.Nhất Vân_e.jpg", "removeIndentInFollowingElem" %}
 
 **Sư chú Chân Nhất Vân:** Mười một năm trước có một sự kiện quan trọng xảy ra trong đời làm con thức tỉnh và thấy mình cần một đường hướng tâm linh. Con tham dự khóa tu tâm linh đầu tiên ở Bồ Đào Nha và rất ấn tượng bởi môi trường bình an và thương yêu, đặc biệt là lòng từ bi và sự hiểu biết của quý thầy khi đối diện với những thử thách trong cuộc sống hằng ngày.
 
 Con thường liên lạc với các vị xuất sĩ qua một số việc như tình nguyện dạy tiếng Anh căn bản cho trẻ em, yểm trợ một ngôi làng sinh thái, giúp nhà hàng chay trong một sự kiện, tham gia các buổi tập yoga và thiền. Con cảm thấy có một tiếng gọi tâm linh rất mạnh và có những tín hiệu đến với con, dẫn dắt con đến với con đường xuất gia, và cho con biết đây chính là một chọn lựa đúng đắn. Khi con “tìm ra Sư Ông”, con có rất nhiều bình an, nhiều niềm vui và vững chãi nhờ sự thực tập. Con bước vào cuộc sống xuất gia với một sự tin cậy. Con rất hạnh phúc được ở đây.
 
-{% image "article2024/Done-Daffodil family/211_110723_e.jpg" %}
+{% image "article2024/Done-Daffodil family/211_110723_e.jpg", "removeIndentInFollowingElem" %}
 
 **Sư chú Chân Nhất Vũ:** Con đã thực tập, và thậm chí còn dạy chánh niệm trong một thời gian dài cho những bệnh nhân đau nhức mãn tính trong các bệnh viện và cho nhân viên trong các công ty. Làm việc đơn thân độc mã, không lâu sau con bị đuối sức vì người ta có quá nhiều khổ đau. Đó là lý do tại sao con nghĩ đến việc xuất gia tu học cùng với tăng thân, trải nghiệm và cắm rễ trong tăng thân để hiểu, để thương, và để làm lớn thêm niềm vui và hạnh phúc trong con. Khi đó con mới giúp người có hiệu quả hơn.
 
@@ -100,7 +100,7 @@ Con thường liên lạc với các vị xuất sĩ qua một số việc như 
 
 **Sư chú Chân Nhất Vân:** Từ năm mười tuổi, con đã sống tại trường nội trú và chỉ về thăm nhà vào cuối tuần. Con đã sống trong các cư xá có từ ba mươi đến một trăm học sinh. Mặc đồng phục, cắt tóc ngắn, hành vi phải mực thước, các nghi thức và cuộc sống tập thể rất quen thuộc đối với con. Nhờ sống tập thể mà con có được những tình bạn lâu bền, học được thế nào là tình huynh đệ. Vì vậy khi vào sống trong đại chúng Làng Mai con thấy thật sự như trở về nhà và rất hạnh phúc.
 
-{% image "article2024/Done-Daffodil family/137_110723_e.jpg" %}
+{% image "article2024/Done-Daffodil family/137_110723_e.jpg", "removeIndentInFollowingElem" %}
 
 **Sư chú Chân Nhất Mộc:** Nhiều người cho rằng Thuỵ Điển — quê hương con — là một nước thiên về chủ nghĩa cá nhân. Con từng có một căn hộ rất đẹp và khá hài lòng với nó, nhưng con lại cảm thấy quá cô đơn. Cho nên năm ngoái, trước khi tới Làng, con quyết định tới sống với mấy người bạn. Qua Làng, sống chung phòng với nhiều người, đôi khi con ước gì có thêm chút không gian. Nhưng con nghĩ đâu có cái gì hoàn hảo. Tuy nhiên, có một điều chắc chắn là không có nhiều không gian còn dễ chịu hơn là cảm thấy cô đơn.
 
@@ -110,7 +110,7 @@ Con thường liên lạc với các vị xuất sĩ qua một số việc như 
 
 **Sư cô Chân Đăng Hạnh:** Từ năm mười một tuổi, con đã có phòng riêng. Sống một mình một cõi là cách để con phòng thủ, bởi vì thường thường con hay nhìn quanh để đoán xem người khác có đang phán xét mình hay không. Sống trong tăng thân là một sự thực tập miên mật giúp con chuyển hóa nỗi lo lắng đó. Con đang được bao bọc bởi những người dễ thương trong một môi trường cũng dễ thương.
 
-{% image "article2024/Done-Daffodil family/Br.Nhat Nguyen_e.jpg" %}
+{% image "article2024/Done-Daffodil family/Br.Nhat Nguyen_e.jpg", "removeIndentInFollowingElem" %}
 
 **Sư chú Chân Nhất Nguyên:** Hồi còn nhỏ, có thời gian con đã được sống trong một đoàn thể tâm linh nên lúc nào con cũng muốn quay lại đó. Xuất thân từ Thuỵ Điển, con biết cô đơn là như thế nào. Rất là đáng sợ. Từ góc nhìn đó, con không hiểu tại sao người ta lại *không* tìm cách để sống trong một đoàn thể.
 

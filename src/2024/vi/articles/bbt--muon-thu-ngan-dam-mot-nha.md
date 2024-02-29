@@ -161,18 +161,18 @@ Thầy thanh thản ẩn tàng như lẽ tự nhiên của nhịp điệu sự s
 
 <div class="article-end"></div>
 
-{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/Le dai tuong 1 copy.jpg", "noFloat" %}
+{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/Le dai tuong 1 copy.jpg", "noFloat", "Cung đón chư Tôn Đức quang lâm sái tịnh thất Lắng Nghe" %}
 
 <!-- page break -->
 
 {% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/Le dai tuong 4 copy.jpg", "noFloat hueMemorial" %}
 {% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/Le dai tuong 11.1 copy.jpg", "noFloat hueMemorial" %}
-{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/Le dai tuong 25.jpg", "noFloat hueMemorial" %}
+{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/Le dai tuong 25.jpg", "noFloat hueMemorial", "Lễ rước xá lợi nhập thất Lắng Nghe" %}
 {% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/Le dai tuong 30.1.jpg", "noFloat hueMemorial" %}
-{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/_DSC7059.jpg", "noFloat hueMemorial" %}
+{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/_DSC7059.jpg", "noFloat hueMemorial", 'Linh vị, di ảnh và y bát của Thầy<br/> được thỉnh từ Thiền đường Trăng Rằm sang nhập Tổ đường' %}
 
 {% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/VN 24_Lễ Đại Tường_019.jpg", "noFloat hueMemorial" %}
 {% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/Le dai tuong 15 copy.jpg", "noFloat hueMemorial" %}
-{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/Le dai tuong 19.jpg", "noFloat hueMemorial" %}
+{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/Le dai tuong 19.jpg", "noFloat hueMemorial", "Lễ cung tiến Giác linh Thầy" %}
 {% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/Le dai tuong 16.jpg", "noFloat hueMemorial" %}
-{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/May trang thong dong 38.jpg", "noFloat hueMemorial" %}
+{% image "article2024/Done-Memorial-Ceremony/Hue/Ceremony/May trang thong dong 38.jpg", "noFloat hueMemorial", "Đài tưởng niệm Thầy tại công viên Vĩnh Hằng, Tp. Huế" %}

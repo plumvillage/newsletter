@@ -794,6 +794,20 @@ article ul li::before {
     page-break-inside: avoid;
 }
 
+.pull-quote-v2 {
+    font-family: "Cormorant Garamond";
+    font-size: 130%;
+    margin-top: 0.25em;
+    padding-right: 1em;
+    padding-left: 1em;
+    padding-bottom: 0.3em;
+    text-indent: -0.2em !important;
+    line-height: 130%;
+    font-weight: 500;
+    font-style: italic;
+    page-break-inside: avoid;
+}
+
 .pull-quote > p:first-child::before,
 p.pull-quote::before {
     content: '“';
@@ -1077,7 +1091,7 @@ figure#article2024Done-Daffodil-familySrDJang-Hanhe {
     padding-top: 0.3em;
     margin-bottom: 0.6em;
     /* margin-top: 0em; */
-    width: 47%;
+    width: 44%;
 }
 
 
@@ -1605,7 +1619,7 @@ html:lang(en) figure#article2024Done-Memorial-CeremonyHueBefore-the-CeremonyDSC4
     margin-bottom: 3.5em;
 }
 html:lang(vi) figure#article2024Done-Memorial-CeremonyHueCeremonyLe-dai-tuong-1-copy {
-    width: 84%;
+    width: 80%;
     margin-top: 1.5em;
     margin-bottom: 0em;
 }
@@ -1794,7 +1808,7 @@ figure#calligraphyarticle-titles-2-and-dividers5-maskedDividers2-2-straight {
 }
 
 figure.hueMemorial {
-    height: 51mm;
+    height: 49mm;
 }
 figure.hueMemorialEN {
     width: 85mm;

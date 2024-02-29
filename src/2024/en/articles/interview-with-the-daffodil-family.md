@@ -32,19 +32,19 @@ Before, I had never felt like having a clear path. I often acted out of fear and
 
 {% image "article2024/Done-Daffodil family/Br.Nhat Thanh_2_e.jpg" %}
 
-<div class="removeTopMarginInFollowingElem"></div>
+<div class="removeTopMarginInFollowingElem removeIndentInFollowingElem"></div>
 
 ***Br. Nhat Thanh*** *(True Clarity of Oneness):* In 2019/2020, I was a long-term at Healing Spring Monastery for nine months. Following that, I became a resident at a Tibetan meditation center in Belgium for two years (Les Jardins de Méditation de Samyé). I came to Plum Village to volunteer for the 40th anniversary of Plum Village retreat , and have been staying at Upper Hamlet since then. I was in love with the Dharma and with Thay’s teachings and presence, but becoming a monastic was not obvious to me yet. After attending the class for those with an aspiration to ordain and receiving encouragement from friends, I thought I could do it. Given my history of anxiety/fear and difficulty making commitments, I was at first a bit uneasy with the lifetime monastic commitment. However, after sharing more with some brothers, I felt more at ease.
 
-{% image "article2024/Done-Daffodil family/Br.Nhất Xuân_e2.jpg" %}
+{% image "article2024/Done-Daffodil family/Br.Nhất Xuân_e2.jpg", "removeIndentInFollowingElem" %}
 
 ***Br. Nhat Xuan*** *(True Spring of Oneness):* One and a half years ago, I practiced in Plum Village as a long-term. Knowing Thay’s teachings, I had already let go of many different things, e.g. relationships that were not conducive to my well-being. I was only 20 years old at the time, and so saying I wanted to become a monk was quite a statement. It was also important for me that it be accepted by my family. When they came to visit me for my birthday in April, I allowed them to arrive first, then after one week I sat down with my mom to share that I wanted to become a monk. She was very happy saying, “Wow! This suits you so well.” The same was true for my older brother. He looked at me and hugged me, saying “Wow! Wonderful.” This was a big support, knowing that the people I love the most can support and encourage me.
 
 While as an aspirant, I told myself, “Regardless of whether I get accepted or not, I want to become a monk.” Knowing that I want to continue on the path strengthened my commitment. This was a beautiful moment.
 
-<div class="removeTopMarginInFollowingElem"></div>
+<p class="removeTopMarginInFollowingElem" style="margin-bottom: 2em;"></div>
 
-{% image "article2024/Done-Daffodil family/051_05_Nov_2023_e_crop.jpg" %}
+{% image "article2024/Done-Daffodil family/051_05_Nov_2023_e_crop.jpg", "removeIndentInFollowingElem" %}
 
 ***Sr. Don Hanh*** *(True Kind Action; Sr. Don Hanh has come as a monastic from another Zen tradition):* When I was 20 years old, I was going through a difficult period in my life and, looking for something to help me rediscover my inner balance, I found a meditation centre in the Japanese Soto Zen tradition in Madrid, my hometown. I remember very well the feeling of peace and joy I felt the first time I sat in zazen. Without having any idea of Buddhism or meditation, I felt somehow that I had finally found what could help me.
 
@@ -64,7 +64,7 @@ For these two reasons, I decided to take refuge in the Plum Village tradition an
 
 {% image "article2024/Done-Daffodil family/Sr.Đăng Hạnh_e.jpg" %}
 
-<div class="removeTopMarginInFollowingElem"></div>
+<div class="removeTopMarginInFollowingElem removeIndentInFollowingElem"></div>
 
 ***Sr. Dang Hanh*** *(True Radiant Action):* I knew clearly for a long time that the practice was going to be a central part of my life. When I was living in New York, I decided that every year I wanted to spend the days around my birthday at Blue Cliff Monastery. I had already read *Stepping into Freedom*, and even *Freedom Wherever We Go*. I was attracted to the idea of becoming a nun, but it was still very much an ideal.
 
@@ -72,7 +72,7 @@ After one of my birthdays at Blue Cliff, I remember sitting in the big meditatio
 
 In the ordination ceremony, when we were waiting to stand up and walk in procession to the altar, I told myself, “Let go of all doubts and step into freedom!” I knew I had wanted this for so long, to the extent that if I died today, I would be happy. I did my best. Everything else was beyond my control. Now there is no more incessant talking in the back of my head saying “Ohh, but…” It is very relieving.
 
-{% image "article2024/Done-Daffodil family/Br.Nhat Luong_e2.jpg" %}
+{% image "article2024/Done-Daffodil family/Br.Nhat Luong_e2.jpg", "removeIndentInFollowingElem" %}
 
 ***Br. Nhat Luong*** *(True Refreshing Oneness):* The question of how I ended up in Plum Village is like a box full of surprises. Already as a young teenager — 20 years ago — I wanted to ordain. I first encountered a Chinese Zen Master from the City of Ten Thousand Buddhas in California. I was very impressed reading his books, but I couldn’t get a visa to enter the US.
 
@@ -82,7 +82,7 @@ I then tried a monastery in Hong Kong in the mountains outside the city, where I
 
 I took ten years to reevaluate, but even though I opened my mind to things besides Buddhism, the desire to ordain never disappeared. I have since made much more progress and relate to myself in a different way. When Thay passed away — without knowing it — I started crying in meditation, and I asked myself, “Why is this happening, who died?” Then I found out Thay had passed away. I eventually came to Plum Village for a retreat, thinking this could be a good place to ordain.
 
-{% image "article2024/Done-Daffodil family/Sr.Diệu Hạnh_e.jpg" %}
+{% image "article2024/Done-Daffodil family/Sr.Diệu Hạnh_e.jpg", "removeIndentInFollowingElem" %}
 
 ***Sr. Dieu Hanh*** *(True Wondrous Action):* Seven years ago, I was lucky enough to discover Maison de L’Inspir, and often visited to practise. I also came to Plum Village, especially in the summer and for the Rains Retreat. I don’t exactly know when the wish to ordain came up. I had the strong feeling inside of me that this is really a path that I want to follow, because it helped me so much.
 
@@ -92,11 +92,11 @@ Unfortunately, my parents are not supportive of me ordaining, and I know it is g
 
 {% image "article2024/Done-Daffodil family/Br.Nhất Vân_e.jpg" %}
 
-<div class="removeTopMarginInFollowingElem"></div>
+<div class="removeTopMarginInFollowingElem removeIndentInFollowingElem"></div>
 
 ***Br. Nhat Van*** *(True Cloud of Oneness):* Eleven years ago I had a strong event in my life that awakened me to spirituality. I attended my first spiritual retreat in Portugal. I was really impressed by the peaceful and loving environment, and how much compassion and understanding the monks had to face all the challenges of daily life. I stayed connected to monastics in different projects, like volunteering to teach basic English to children, giving support in a kind of ecovillage, helping in a vegan restaurant at an event, and attending yoga and meditation sessions. I felt a strong spiritual calling. There were signs during my life that pointed to monastic life, showing me that this is a right choice. When I found Thay, I felt a lot of peace and the practice gave me a lot of joy and stability. I came knowing that I would enter monastic life, it was a step of trust. I’m very happy to be here.
 
-{% image "article2024/Done-Daffodil family/211_110723_e.jpg" %}
+{% image "article2024/Done-Daffodil family/211_110723_e.jpg", "removeIndentInFollowingElem" %}
 
 ***Br. Nhat Vu*** *(True Rain of Oneness):* I had practiced and even taught mindfulness for a long time already, trying to help people who suffered from chronic pain in hospitals and also employees in companies. Being totally on my own, I quickly got exhausted, because there was so much suffering. That is how I came to consider monastic life, in order to be part of a Sangha, experienced and deeply rooted, so that I could be stronger in the practice of love and understanding, develop joy and happiness and then be of a better support for more people.
 
@@ -104,7 +104,7 @@ Unfortunately, my parents are not supportive of me ordaining, and I know it is g
 
 ***Br. Nhat Van:*** I grew up in a boarding school, which hosted hundreds of children, from age ten and only coming home for weekends. I was sleeping in a dorm of around 30 to 100 children. So I’m used to wearing uniforms, short hair, fine manners, ceremonies and living together (laughter). I made strong friendships for life there; it taught me brotherhood, sisterhood, and siblinghood. So sharing in a community is being at home completely for me and I am very happy living together.
 
-{% image "article2024/Done-Daffodil family/137_110723_e.jpg" %}
+{% image "article2024/Done-Daffodil family/137_110723_e.jpg", "removeIndentInFollowingElem" %}
 
 ***Br. Nhat Moc:*** Sweden is considered very individualistic in the minds of most people. I had a nice apartment just for myself, was very happy with it, but also felt very lonely. So last year, before coming here, I decided to live together with friends. Sharing rooms in Plum Village, I would sometimes appreciate having more space. I guess it will never be perfect. But one thing is for sure, this is much better than feeling lonely.
 
@@ -116,7 +116,7 @@ On Days of Mindfulness, I sometimes feel overwhelmed by the amount of people pre
 
 ***Sr. Dang Hanh:*** Ever since I was 11 years old, I’ve had my own room. What I know about myself is that I scan my surroundings, trying to look for ways that people might judge me, wondering “Am I doing a good enough job?” and “What are they thinking about me?” Being alone is one way that I protected myself. Coming into the Sangha has been a continual practice for me to transform this anxiety. It helps me to tell myself things like “Not everyone is interested in you and everything that you’re doing” or “People are quite busy with their own thoughts and don’t care that you are taking a nap or they do not care which book you are reading and they don’t have an opinion about which book you *should* be reading. They are busy reading their *own* book.” (Laughter) I’m surrounded by some of the kindest of people in the kindest of environments.
 
-{% image "article2024/Done-Daffodil family/Br.Nhat Nguyen_e.jpg" %}
+{% image "article2024/Done-Daffodil family/Br.Nhat Nguyen_e.jpg", "removeIndentInFollowingElem" %}
 
 ***Br. Nhat Nguyen:*** As a child, I spent some time in a spiritual community and I think I always wanted to come back to that. Coming from Sweden, I’m very aware of how it is to be alone. It’s horrible, actually. From that point of view, I don’t understand how people manage *not* to live in a community.
 
