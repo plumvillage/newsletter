@@ -8,6 +8,7 @@ author: Sư cô Chân Trăng Linh Dị
 <div class="removeIndentInFollowingElem"></div>
 
 Thầy kính thương,
+
 Hôm nay là ngày tiếp nối của Thầy.
 
 Chúng con, bốn người con xuất sĩ của Thầy, đang ở miền Đất Thánh, và chiến tranh giữa Israel và Palestine đã bùng nổ bốn ngày trước đây. Chúng con vẫn bình an. Chúng con có nước, có đồ ăn, có nơi trú ẩn và có những người bạn dễ thương trong tăng thân. Nhưng cách đây chỉ năm mươi cây số thôi, người dân ở đó không có nước, không có thức ăn, và không có nơi trú ẩn an toàn. Những đứa trẻ đang chết dần chết mòn. Cả ngày lẫn đêm chúng con đều nghe thấy tiếng rít của tên lửa, chúng con cảm thấy đất rung chuyển khi tên lửa nổ. Những lúc đó con nhắm mắt lại và thành tâm cầu nguyện — cầu cho sự bình an và từ bi đến được với trái tim mọi người.
