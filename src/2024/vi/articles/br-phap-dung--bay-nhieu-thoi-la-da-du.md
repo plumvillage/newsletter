@@ -3,7 +3,7 @@ title: Bấy nhiêu thôi là đã đủ
 author: Thầy Chân Pháp Dung
 ---
 
-<p class="editors-preface">Giây phút gặp được một vị minh sư là giây phút rất quan trọng trong cuộc đời của những ai đang tìm kiếm cho mình một hướng tâm linh. Thầy Pháp Dung chia sẻ về cuộc hội ngộ đầu tiên của thầy với Sư Ông Làng Mai và trải nghiệm của thầy tại lễ Đại Tường của Sư Ông nơi chùa Tổ Từ Hiếu – Huế trong bài pháp thoại ngày 27.01.2024.</p>
+<p class="editors-preface">Giây phút gặp được một vị minh sư là giây phút rất quan trọng trong cuộc đời của những ai đang tìm kiếm cho mình một hướng đi tâm linh. Thầy Pháp Dung chia sẻ về cuộc hội ngộ đầu tiên của thầy với Sư Ông Làng Mai và trải nghiệm của thầy tại lễ Đại Tường của Sư Ông nơi chùa Tổ Từ Hiếu – Huế trong bài pháp thoại ngày 27.01.2024.</p>
 
 ## Gặp Thầy
 
@@ -21,11 +21,11 @@ Sau khóa tu, tôi về lại nhà. Một hôm, không hiểu vì lý do gì mà
 
 Trong khóa tu, nhìn thấy các thầy các sư cô trẻ đi cùng Thầy, tôi thấy họ rất khác với các vị xuất gia lớn tuổi, nghiêm nghị mà tôi hay gặp ở Mỹ. Các vị xuất gia trẻ này rất vui và đầy sức sống.
 
-Trong một buổi pháp thoại của Thầy, không khí trên pháp tòa rất trang nghiêm, nhưng phía sau lưng Thầy, tôi có thể thấy hai sư cô trẻ đang dùng ngón tay chọc nhau. Tôi đoan chắc đó là sư cô Định Nghiêm và sư cô Tuệ Nghiêm! Tôi rất kinh ngạc thấy hai sư cô cười và rõ ràng là đang rất vui vẻ cùng nhau. *(Trong các chuyến hoằng pháp, khi Thầy cho pháp thoại trên pháp tòa, thường là trên một sân khấu, tất cả tăng đoàn đều ngồi phía sau Thầy để yểm trợ).*
+Trong một buổi pháp thoại của Thầy, không khí trên pháp tòa rất trang nghiêm, nhưng phía sau lưng Thầy, tôi có thể thấy hai sư cô trẻ đang dùng ngón tay chọc nhau. Tôi đoán chắc đó là sư cô Định Nghiêm và sư cô Tuệ Nghiêm! Tôi rất kinh ngạc thấy hai sư cô cười và rõ ràng là đang rất vui vẻ cùng nhau (*). 
 
 Cảnh đó làm tôi thấy tò mò về tăng đoàn của Thầy, tuy trong lòng vẫn còn nhiều nghi hoặc. Tôi không tin là các thầy, các sư cô lúc nào cũng tươi cười vui vẻ như thế. Vì vậy tôi quyết định đi theo chuyến hoằng pháp ở Mỹ của tăng đoàn. Tôi không ngờ Thầy đã chú ý đến mình và nhờ thầy Pháp Niệm quan sát tôi.
 
-Đi theo chuyến hoằng pháp, tôi được ở chung với tăng đoàn tại nhà của nhiều cư sĩ. Có khi cả 30 người tạm trú cùng một nơi, và dùng chung một phòng vệ sinh. Tôi vẫn còn nhớ cảnh quý thầy cùng đứng đánh răng chung quanh một sân cỏ hình tròn. Rất đơn sơ mà lúc nào cũng rất vui!
+Đi theo chuyến hoằng pháp, tôi được ở chung với tăng đoàn tại nhà của nhiều cư sĩ. Có khi cả 30 người tạm trú cùng một nơi, và dùng chung một phòng vệ sinh. Tôi vẫn còn nhớ cảnh quý thầy cùng đứng đánh răng xung quanh một sân cỏ hình tròn. Rất đơn sơ mà lúc nào cũng rất vui!
 
 {% image "article2024/Br-Phap-Dung/vlcsnap-2024-02-18-16h55m45s171.jpg", "removeTopMargin" %}
 
@@ -35,6 +35,8 @@ Về Việt Nam lần này, tôi dùng cuộc đời của Thầy làm đề tà
 
 Học và tìm hiểu cuộc đời của Thầy và của các vị tổ sư, chúng ta đem lịch sử soi chiếu vào hiện tại. Đó không phải là những gì xưa cũ chỉ thuộc về quá khứ. Bởi vì những điều đó có ảnh hưởng rất lớn lao đến hiện tại và định hình tương lai của chúng ta. Vì vậy chúng ta cần tự hỏi mình rằng cuộc đời của liệt vị vẫn tiếp tục liên quan đến thế hệ của chúng ta như thế nào. Đó là một câu hỏi rất quan trọng.
 
-Thầy đã dạy chúng ta biết cách an trú trong xứ sở của giây phút hiện tại. Một xứ sở không biên giới. Ngày hôm nay, ngồi giữa lòng một tăng thân xuất sĩ và cư sĩ đến từ hơn 30 quốc gia, chúng ta thực sự thấy được sự thực tập an trú trong giây phút hiện tại có thể giúp ta vượt thoát cả không gian lẫn thời gian như thế nào.
+Thầy đã dạy chúng ta biết cách an trú trong xứ sở của giây phút hiện tại, một xứ sở không biên giới. Ngày hôm nay, ngồi giữa lòng một tăng thân xuất sĩ và cư sĩ đến từ hơn 30 quốc gia, chúng ta thực sự thấy được sự thực tập an trú trong giây phút hiện tại có thể giúp ta vượt thoát cả không gian lẫn thời gian như thế nào.
 
-Khi cùng nhau đi thiền hành tại chùa Tổ, ta chỉ cần an trú trong từng bước chân và trong từng hơi thở ý thức. Ta không cần làm gì thêm nữa cả. Như vậy là chúng ta đang tiếp nối Thầy rồi. Khi người dân Việt Nam nhìn thấy một tăng đoàn quốc tế đang đi từng bước trong chánh niệm chung quanh hồ bán nguyệt, họ sẽ nhận ra ngay lập tức đó là những đệ tử của Thầy. Chúng ta chỉ cần làm bấy nhiêu thôi là đã đủ.
+Khi cùng nhau đi thiền hành tại chùa Tổ, ta chỉ cần an trú trong từng bước chân và trong từng hơi thở ý thức. Ta không cần làm gì thêm nữa cả. Như vậy là chúng ta đang tiếp nối Thầy rồi. Khi người dân Việt Nam nhìn thấy một tăng đoàn quốc tế đang đi từng bước trong chánh niệm xung quanh hồ bán nguyệt, họ sẽ nhận ra ngay lập tức đó là những đệ tử của Thầy. Chúng ta chỉ cần làm bấy nhiêu thôi là đã đủ.
+
+(*)*Trong các chuyến hoằng pháp, khi Thầy cho pháp thoại trên pháp tòa, thường là trên một sân khấu, tất cả tăng đoàn đều ngồi phía sau Thầy để yểm trợ.*
