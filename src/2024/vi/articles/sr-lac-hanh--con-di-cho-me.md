@@ -7,8 +7,6 @@ author: Sư cô Chân Lạc Hạnh
 
 Ở Làng vừa kết thúc ba tháng An cư kiết đông, với chủ đề trọng tâm là đạo đức, cụ thể hơn là những đóng góp của đạo Bụt cho một nền đạo đức toàn cầu. Là một xuất sĩ theo truyền thống Làng Mai, chúng con có những giới luật và uy nghi giúp nuôi dưỡng và giữ gìn nếp sống phạm hạnh. Đối với con, nếp sống ấy không chỉ nuôi dưỡng thân tâm mà còn giữ gìn và bảo hộ được ba nghiệp thân-khẩu-ý trong hiện tại, góp phần chuyển hóa những lầm lỗi, hối tiếc trong quá khứ và đảm bảo cho một tương lai tươi sáng hơn. Nếp sống an lành, nhân ái từ bi, có hiểu có thương vẫn luôn là kim chỉ nam định hướng cho cuộc đời con.
 
-{% image "article2024/sr-lac-hanh/057.Varsavasana_2023-24_011724.jpg" %}
-
 ## Điều gì là đúng đắn?
 
 Đó là câu hỏi mà con phải đối diện nhiều lần trong đời. Có những lúc con thấy mình đứng chênh vênh giữa ngã ba đường, tê liệt khi nhận ra rằng bất kỳ quyết định nào mình đưa ra sẽ đưa mình đến những hướng đi khác nhau và định hình nên số phận cuộc đời mình. Con tự cân nhắc những điểm tích cực và tiêu cực, mường tượng những viễn cảnh có thể xảy ra, đau đầu khi không biết phải làm gì, cứ như vậy tâm trí và trái tim giằng xé lẫn nhau. Con chật vật khi đưa ra những quyết định lớn, cảm tưởng như chắc chắn là có một quyết định khác đúng đắn hơn, mặc dù không phải lúc nào cũng rõ ràng và dễ nắm bắt.
@@ -16,6 +14,8 @@ author: Sư cô Chân Lạc Hạnh
 ## Điều gì là đúng đắn?
 
 Ngày 29 tháng 12 năm 2014 là ngày con gặp mẹ ruột của mình, hay đúng hơn là gặp lại mẹ ruột, sau hơn 40 năm xa cách kể từ khi chào đời. Năm ấy cũng là năm đầu tiên và duy nhất con được sống với mẹ. Dòng đời xô đẩy, con và mẹ đi theo những ngã rẽ cuộc đời khác nhau, cho đến khi con gặp lại mẹ ở nơi con đã được sinh ra. Lúc ấy, mẹ đang nằm trong bệnh viện, mọi sinh hoạt đều phụ thuộc vào người khác, không thể nói năng, và hoàn toàn bị liệt do lần đột quỵ 15 năm về trước. Nhờ tìm thấy và kết nối được với người cha ruột khoảng hai năm về trước, con có thêm động lực để tìm kiếm gia đình huyết thống của mình. Nhưng rồi khi gặp lại mẹ trong bệnh viện, mọi hy vọng, mong mỏi khám phá thêm về nguồn cội của mình phút chốc bỗng tan tành mây khói.
+
+{% image "article2024/sr-lac-hanh/057.Varsavasana_2023-24_011724.jpg" %}
 
 Chuyện tìm hiểu về quá khứ không còn quá quan trọng đối với con nữa. “Mình phải làm gì bây giờ?” và “Làm thế nào để tiến bước về phía trước?”, đó là những câu hỏi mà con quan tâm nhiều hơn. Nhưng con lại không có câu trả lời. Những gì đi lên trong con đều chứa đầy “điều nên làm” hoặc những gì con nhận thấy mọi người đang trông đợi nơi con. Tất cả đều là sự tưởng tượng của con, vì chẳng ai nói ra điều họ mong muốn con phải làm. Mẹ ruột của con phải sống cô độc và không nói được nên bà không thể cho con biết là con cần phải làm gì. Người anh ruột mù lòa của mẹ (cậu của con) cũng chính là người giám hộ và cho phép con được gặp mẹ, cũng chưa một lần đòi hỏi hay yêu cầu gì từ con. Con được một gia đình khác nhận nuôi, không lớn lên trong vòng tay của mẹ ruột nên bạn bè và gia đình không thể hiểu vì sao con cảm thấy mình có trách nhiệm chăm sóc mẹ ruột như vậy. Một mặt nào đó, con thấy mình cần có trách nhiệm.
 
