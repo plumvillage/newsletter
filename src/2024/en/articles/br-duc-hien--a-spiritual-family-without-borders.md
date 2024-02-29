@@ -29,7 +29,7 @@ The next morning, her mother, who also participated, shared with us her joy of f
 
 ## Province of São Paulo, Brazil
 
-After a few hours of traveling from the center of São Paulo with more than 12 million inhabitants, we got off the bus a little groggy. I couldn’t believe my eyes—we had arrived in Nazaré Uniluz, a paradise on Earth! The tropical vegetation is sumptuously extravagant, everything is a harmony of colors, shapes, scents and in beautiful collaboration with humans.
+After a few hours of traveling from the center of São Paulo with more than 12 million inhabitants, we got off the bus a little groggy. I couldn’t believe my eyes — we had arrived in Nazaré Uniluz, a paradise on Earth! The tropical vegetation is sumptuously extravagant, everything is a harmony of colors, shapes, scents and in beautiful collaboration with humans.
 
 Located in Nazaré Paulista, in the countryside of São Paulo, this secular spiritual community was founded 42 years ago (the same year as Plum Village), inspired among others by Thay and the practice of mindfulness. Around 30 people lived there, not including the 50 some young volunteers who were there for long stays!
 
