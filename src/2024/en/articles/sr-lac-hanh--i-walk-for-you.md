@@ -8,7 +8,7 @@ author: Sister Chân Lạc Hạnh
 
 ## What is the right thing to do?
 
-In Plum Village France, we have just finished the 2023 - 2024 Rains Retreat in which ethics was the central theme. And more specifically the Buddhist approach to a global ethics. As monastics in this tradition, we commit to living our lives according to a certain ethical code, coherent to the novice or Bhikshu or Bhikshuni precepts. For me, living in such a way not only protects my mind-body-spirit and its three karmas of thought, speech, and action in the present, but also transforms the residue of my past, assuring a brighter, clearer future, less tainted by regrets and remorse. It is about living my life in a way that is deeply rooted in well-being, wholesomeness, understanding, compassion, love, and peace, and continuously orientates me in that direction.
+In Plum Village, France, we have just finished the 2023 - 2024 Rains Retreat in which ethics was the central theme. And more specifically the Buddhist approach to a global ethics. As monastics in this tradition, we commit to living our lives according to a certain ethical code, coherent to the novice or Bhikshu or Bhikshuni precepts. For me, living in such a way not only protects my mind-body-spirit and its three karmas of thought, speech, and action in the present, but also transforms the residue of my past, assuring a brighter, clearer future, less tainted by regrets and remorse. It is about living my life in a way that is deeply rooted in well-being, wholesomeness, understanding, compassion, love, and peace, and continuously orientates me in that direction.
 
 {% image "article2024/sr-lac-hanh/057.Varsavasana_2023-24_011724.jpg" %}
 
