@@ -50,8 +50,8 @@ author: của tăng thân Làng Mai
 ## Tại tu viện Bích Nham, Mỹ
 
 - 24.04 – 28.04<span class="space"></span>Khóa tu Tiếp hiện: Nghệ thuật hạnh phúc
-- 31.05 – 02.06<span class="space"></span>Khóa tu cho người da màu (BIPOC)
-- 12.06 – 16.06<span class="space"></span>Khóa tu cho người trẻ (Wake Up)
+- 31.05 – 02.06<span class="space"></span>Khóa tu dành cho người da màu (BIPOC)
+- 12.06 – 16.06<span class="space"></span>Khóa tu dành cho người trẻ (Wake Up)
 - 10.06 – 14.06<span class="space"></span>Khóa tu gia đình
 
 *Xin vào trang nhà của Tu viện để xem chi tiết:  
@@ -108,11 +108,11 @@ author: của tăng thân Làng Mai
 
 - 08.03 – 11.03<span class="space"></span>Khóa tu dành cho các chuyên gia sức khỏe
 - 29.03 – 01.04<span class="space"></span>Khóa tu gia đình
-- 25.04 – 28.04<span class="space"></span>Khóa tu cho người nói tiếng Anh
+- 25.04 – 28.04<span class="space"></span>Khóa tu dành cho người nói tiếng Anh
 - 10.05 – 12.05<span class="space"></span>Khóa tu Nấu ăn
-- 17.05 – 16.06<span class="space"></span>Khóa tu cho người có tâm nguyện xuất gia
+- 17.05 – 16.06<span class="space"></span>Khóa tu dành cho người có tâm nguyện xuất gia
 - 02.06 – 31.08<span class="space"></span>An cư kiết Hạ
-- 26.09 – 29.09<span class="space"></span>Khóa tu cho người nói tiếng Anh
+- 26.09 – 29.09<span class="space"></span>Khóa tu dành cho người nói tiếng Anh
 - 11.10 – 13.10<span class="space"></span>Khóa tu dành cho người trẻ
 - 22.12 – 26.12<span class="space"></span>Khóa tu Giáng sinh
 
