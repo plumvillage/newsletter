@@ -7,7 +7,7 @@ author: Sư cô Chân Trăng Bồ Đề
 
 <p class="pull-quote" style="font-size: 140%; font-weight: 500;">Dưới khung trời xanh tươi đầy nắng<br/>
 Con bỗng thấy<br/>
-Bóng dáng Thầy…</p>
+Bóng dáng Thầy…"</p>
 
 <!-- <div class="verse"><p>Dưới khung trời xanh tươi đầy nắng<br/>
 Con bỗng thấy<br/>
@@ -22,15 +22,15 @@ Mùa an cư này, giờ thiền hành trong ngày xuất sĩ vào thứ Năm hà
 <div class="verse"><p>“Rậm lục thưa hồng chuông gợi bước<br/>
 Chân hôn mặt đất mắt ôm trời<br/>
 Ngàn xưa một thoáng, mùa tuôn dậy<br/>
-Tuyết cũng màu xanh, nắng cũng rơi.”<br/><cite><i>Cúc cu đúng hẹn</i> thơ Thầy Làng Mai</cite></p></div>
+Tuyết cũng màu xanh, nắng cũng rơi.”<br/><cite><i>Cúc cu đúng hẹn,</i> thơ Thầy Làng Mai</cite></p></div>
 
 Đây là giờ “ra chơi” của con. Nhớ lúc còn đi học, chỉ trông tiếng trống báo hiệu giờ ra chơi vang lên để gấp sách vở lại, cùng bạn bè ùa nhau xuống căng-tin mua quà vặt. Hai lớp học vào sáng thứ Năm thật sự cho con cảm giác quay trở về những tháng ngày làm bạn với con chữ, với bảng đen, phấn trắng. Vượt ra ngoài công thức truyền thống “sáng pháp thoại, chiều pháp đàm”, quý thầy, quý sư cô lớn đã vì anh chị em con mà mở ra nhiều lớp học trong mùa an cư này. Có lớp tìm hiểu về tác động của não bộ và thân thể lên đời sống của sư cô Hội Nghiêm, lớp tâm lý học Phật giáo của sư cô Tuệ Nghiêm, lớp Đạo đức học so sánh của sư cô Hiến Nghiêm,… Những lớp học đã thành công khơi gợi cảm hứng, đem lại một sức sống mới riêng biệt cho mùa an cư 2023-2024 đáng nhớ này.
 
 ## Học 10 hiểu 1
 
-Cảm hứng và nhiệt huyết trao truyền của quý thầy, quý sư cô giáo thọ đứng lớp dường như là vô tận. Sư mẹ Chân Đức vừa kết thúc lớp học thứ nhất dành cho những vị muốn đào sâu, tìm hiểu thêm về giới luật thì đi ngay đến địa điểm thứ hai để dạy lớp Pali. Sư mẹ dạy chúng con phiên bản tiếng Pali của những bài kinh quen thuộc như kinh *Chuyển Pháp Luân*, kinh *Người biết sống một mình*, kinh *Quán niệm hơi thở*,… với tất cả lòng bao dung và sự kiên nhẫn.
+Cảm hứng và nhiệt huyết trao truyền của quý thầy, quý sư cô giáo thọ đứng lớp dường như là vô tận. Sư mẹ Chân Đức vừa kết thúc lớp học thứ nhất dành cho những vị muốn đào sâu, tìm hiểu thêm về giới luật thì đi ngay đến địa điểm thứ hai để dạy lớp tiếng Pali. Sư mẹ dạy chúng con phiên bản tiếng Pali của những bài kinh quen thuộc như kinh *Chuyển Pháp Luân*, kinh *Người biết sống một mình*, kinh *Quán niệm hơi thở*,… với tất cả lòng bao dung và sự kiên nhẫn.
 
-Thực tế chứng minh rằng nhiệt huyết của người trao truyền không giới hạn nhưng khả năng tiếp thu của học trò là… có giới hạn. Nhiều khi con không khỏi cảm thấy xấu hổ với trình độ học 10 hiểu 1 của mình. Thường thì anh chị em con sẽ thay phiên nhau đọc lên một câu kinh tiếng Pali rồi sau đó dịch ra theo cái hiểu của mình. Lần nào đến lượt con, con cũng hết sức cố gắng bày tỏ thiện chí muốn làm quen với các bạn chữ cái nhưng mặc kệ thái độ thành khẩn của con, các bạn ấy vẫn nhất quyết làm lơ rằng chúng ta không quen nhau, khiến con chỉ biết ấp a ấp úng tìm lối thoát trong sự rối rắm của mình. Nhiều khi câu trả lời theo quán tính, may nhờ rủi chịu, một chết hai sống của con khiến cả lớp được một phen cười ầm lên.
+Thực tế chứng minh rằng nhiệt huyết của người trao truyền không giới hạn nhưng khả năng tiếp thu của học trò là… có giới hạn. Nhiều khi con không khỏi cảm thấy xấu hổ với trình độ học 10 hiểu 1 của mình. Thường thì anh chị em con sẽ thay phiên nhau đọc lên một câu kinh tiếng Pali rồi sau đó dịch ra theo cái hiểu của mình. Lần nào đến lượt con, con cũng hết sức cố gắng bày tỏ thiện chí muốn làm quen với các bạn chữ cái nhưng mặc kệ thái độ thành khẩn của con, các bạn ấy vẫn nhất quyết làm lơ rằng chúng ta không quen nhau, khiến con chỉ biết ấp a ấp úng tìm lối thoát trong sự rối rắm của mình. Nhiều khi câu trả lời theo quán tính, "may nhờ rủi chịu, một chết hai sống" của con khiến cả lớp được một phen cười ầm lên.
 
 Thật ra các anh chị em trong lớp rất đoàn kết, một người “gặp nạn” là cả lớp đều quăng “phao” đến tới tấp để cứu nhưng… khổ nỗi là nhiều phao quá, trong lúc nhất thời bối rối lại không biết nên bám lấy cái nào để sống sót. Cũng may Sư mẹ rất từ bi, trả lời đúng hay không đúng Sư mẹ đều cho qua lượt cả, khiến con thở phào nhẹ nhõm.
 
@@ -41,7 +41,7 @@ Vijjā-caraṇa-sampanno sugato lokavidū,…”</p></div>
 
 ## Mỗi giờ đến lớp là một niềm vui
 
-Sau năm buổi học chung với nhau về đại cương giới luật, anh chị em chúng con có ba lựa chọn cho tiết học thứ nhất: một là tiếp tục học với Sư mẹ Chân Đức để đi sâu vào giới luật, đóng góp ý kiến về việc tân tu giới bản, hai là tham dự lớp văn hoá xuất sĩ của thầy Pháp Hữu, ba là lớp Áp dụng pháp môn Thầy trao vào việc giải quyết những vấn đề cấp thiết của thời đại nơi xã hội Tây phương do thầy Trời Bảo Tạng và sư cô Trăng Tam Muội đứng lớp. Đọc hết một lượt ba chủ đề, con thấy tò mò và có cảm hứng học hỏi thêm về văn hoá xuất sĩ. Thế là con ghi danh tham dự lớp này. Tuy có khác tí xíu so với hình dung ban đầu của mình, con vẫn thấy rằng mỗi giờ đến lớp là một niềm vui.
+Sau năm buổi học chung với nhau về đại cương giới luật, anh chị em chúng con có ba lựa chọn cho tiết học thứ nhất: một là tiếp tục học với Sư mẹ Chân Đức để đi sâu vào giới luật, đóng góp ý kiến về việc tân tu giới bản, hai là tham dự lớp văn hoá xuất sĩ của thầy Pháp Hữu, ba là lớp áp dụng pháp môn Thầy trao vào việc giải quyết những vấn đề cấp thiết của thời đại nơi xã hội Tây phương do thầy Trời Bảo Tạng và sư cô Trăng Tam Muội đứng lớp. Đọc hết một lượt ba chủ đề, con thấy tò mò và có cảm hứng học hỏi thêm về văn hoá xuất sĩ. Thế là con ghi danh tham dự lớp này. Tuy có khác tí xíu so với hình dung ban đầu của mình, con vẫn thấy rằng mỗi giờ đến lớp là một niềm vui.
 
 Chúng con được nghe về “sự tích ra đời” của chương trình xuất gia 5 năm, của pháp môn Thiền ôm, của sự thực tập Lạy nhau đầu năm, cách Thầy giản lược những hình thức lễ nghi tôn giáo để đạo Bụt thật sự đi vào xã hội Tây phương trên nền tảng của thực tập chánh niệm,…
 
@@ -71,9 +71,11 @@ Con không trải qua thời chiến tranh, không có mặt cùng Thầy trong 
 
 <div class="verse"><p>“Tôi bưng mặt trong lòng hai bàn tay<br/>
 Có phải để khóc đâu anh<br/>
+Tôi bưng mặt để giữ cho ấm áp sự cô đơn<br/>
 Hai bàn tay chở che<br/>
 Hai bàn tay nuôi dưỡng<br/>
-Sự ra đi hờn dỗi của.”<br/><cite><i>Ấm áp,</i> thơ Thầy Làng Mai</cite></p></div>
+Hai bàn tay ngăn cản<br/>
+Sự ra đi hờn dỗi của linh hồn.”<br/><cite><i>Ấm áp,</i> thơ Thầy Làng Mai</cite></p></div>
 
 Thi hào Nguyễn Du nói rằng: “Thác là thể phách, còn là tinh anh”. Thầy là đỉnh trầm đã cháy hết nhưng hương thơm vẫn lưu chuyển trong không gian mãi đến ngàn sau…
 
