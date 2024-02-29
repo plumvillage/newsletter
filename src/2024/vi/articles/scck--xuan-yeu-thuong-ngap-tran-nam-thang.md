@@ -13,7 +13,7 @@ Một mùa Xuân mới đang về, luân chuyển cùng mạch sống tinh khôi
 <div class="verse removeIndentInFollowingElem" ><p>“Bàn tay tôi đây xin các anh nắm lấy, xin các em nắm lấy. Tôi muốn nói cùng các anh và các chị. Dù sao thì chúng ta cũng phải can đảm để mà lo lắng cho trẻ thơ, cho ngày mai.”<br/>
 <cite>Bài thơ <i>Ruột đau chín khúc</i>, báo Thiện Mỹ,<br/>số 13 ra ngày 09.02.1965</cite></p></div>
 
-Đôi bàn tay ấy nhỏ bé mà kiên trì, bền bỉ. Đôi bàn tay ấy ấm áp tình thương. Đôi bàn tay ấy trọn vẹn 60 năm. Bây Giờ Và Ở Đây, hàng ngàn đôi bàn tay tiếp nối, âm thầm và lặng lẽ trao gửi bao giọt nước từ bi thanh lương đến với đồng bào khắp chốn.
+Đôi bàn tay ấy nhỏ bé mà kiên trì, bền bỉ. Đôi bàn tay ấy ấm áp tình thương. Đôi bàn tay ấy trọn vẹn 60 năm. *Bây giờ và ở đây*, hàng ngàn đôi bàn tay tiếp nối, âm thầm và lặng lẽ trao gửi bao giọt nước từ bi thanh lương đến với đồng bào khắp chốn.
 
 <p class="noIndent">Kính thưa quý vị!</p>
 
@@ -54,7 +54,7 @@ Bên cạnh đó, vào những tháng 10, 11 năm 2023, nhờ sự hỗ trợ k�
 
 Những món quà tinh thần vẫn không ngừng tiếp bước trên những nẻo đường lan tỏa yêu thương.
 
-Đầu năm nay, nhân dịp lễ Đại Tường của Sư Ông, Chân Không mong muốn tiếp tục hạnh nguyện *“Giọt nước cánh chim”* để dâng lên cúng dường Thầy và cũng ý thức rằng Thầy vẫn luôn đồng hành cùng chúng con trên con đường thiện nguyện hướng về đồng bào, hướng về quê hương đất nước Việt Nam. Từ chuyến cứu trợ bão lụt dọc sông Thu Bồn năm Giáp Thìn 1964 cùng Thầy đến 2024, 60 năm hành trình vẫn còn tiếp nối. Vào ngày 19.01 vừa qua, Sư Cô Chân Không và các vị thiện nguyện lại tiếp tục lên đường với sứ mệnh trao gửi yêu thương. Có 400 phần quà với trị giá 500.000 đ/phần đã được trao tặng đến bà con có hoàn cảnh khó khăn ở các làng xã quanh khu vực sông Thu Bồn, 200 phần quà ở các xã Quế Sơn, Điện Bàn, tỉnh Quảng Nam cùng 100 phần quà dành cho đồng bào ở xã Hòa Phú, Hòa Vang, vùng miền núi phía Tây thuộc Tp. Đà Nẵng.
+Đầu năm nay, nhân dịp lễ Đại Tường của Sư Ông, Chân Không mong muốn tiếp tục hạnh nguyện *“Giọt nước cánh chim”* để dâng lên cúng dường Sư Ông với ý thức rằng Sư Ông vẫn luôn đồng hành cùng chúng ta trên con đường thiện nguyện hướng về đồng bào, hướng về quê hương đất nước Việt Nam. Từ chuyến cứu trợ bão lụt dọc sông Thu Bồn năm Giáp Thìn 1964 cùng Sư Ông đến 2024, 60 năm hành trình vẫn còn tiếp nối. Vào ngày 19.01 vừa qua, Chân Không và các vị thiện nguyện lại tiếp tục lên đường với sứ mệnh trao gửi yêu thương. Có 400 phần quà với trị giá 500.000 đ/phần đã được trao tặng đến bà con có hoàn cảnh khó khăn ở các làng xã quanh khu vực sông Thu Bồn, 200 phần quà ở các xã Quế Sơn, Điện Bàn, tỉnh Quảng Nam cùng 100 phần quà dành cho đồng bào ở xã Hòa Phú, Hòa Vang, vùng miền núi phía Tây thuộc thành phố Đà Nẵng.
 
 <p class="noIndent removeIndentInFollowingElem">Kính thưa quý vị ân nhân!</p>
 
@@ -62,9 +62,9 @@ Những món quà tinh thần vẫn không ngừng tiếp bước trên những 
 
 Một mùa Xuân mới đang đến, chúng ta vẫn còn có nhau. Đó là tin vui nhất. Kính chúc quý cô bác, quý anh chị và gia quyến một năm mới với thật nhiều an lành và hạnh phúc!
 
-Chân Không vẫn luôn tin rằng chỉ cần có trái tim thì mọi hành động sẽ trở nên hành động của thương yêu chân thật. Ngọn lửa của trái tim khi được sẻ chia không làm mất đi ánh sáng của ngọn lửa mà ngược lại, càng làm cho không gian của ánh sáng càng lan rộng, càng ấm áp trên khắp địa cầu. Lời cảm ơn chân thành đến quý vị ân nhân đã luôn chung tay, góp sức để cho Xuân yêu thương ngập tràn năm tháng!
+Chân Không vẫn luôn tin rằng chỉ cần có trái tim thì mọi hành động sẽ trở nên hành động của thương yêu chân thật. Ngọn lửa của trái tim khi được sẻ chia không làm mất đi ánh sáng của ngọn lửa mà ngược lại, làm cho không gian của ánh sáng càng lan rộng, càng ấm áp trên khắp địa cầu. Lời cảm ơn chân thành đến quý vị ân nhân đã luôn chung tay, góp sức để cho Xuân yêu thương ngập tràn năm tháng!
 
-<p class="signoff"><span class="signoff-lvl-1">Kính quý và biết ơn,</span><br/>
+<p class="signoff"><span class="signoff-lvl-1">Với lòng kính quý và biết ơn,</span><br/>
 <span class="signoff-lvl-2">Sư cô Chân Không</span></p>
 
 {% image "article2024/SCCK/SC ký.jpg", "article-end" %}
