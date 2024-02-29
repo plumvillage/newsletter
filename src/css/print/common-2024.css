@@ -797,7 +797,7 @@ article ul li::before {
 .pull-quote-v2 {
     font-family: "Cormorant Garamond";
     font-size: 130%;
-    margin-top: 0.25em;
+    margin-top: 1em;
     padding-right: 1em;
     padding-left: 1em;
     padding-bottom: 0.3em;

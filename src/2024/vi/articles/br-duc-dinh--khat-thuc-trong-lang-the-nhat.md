@@ -53,7 +53,7 @@ Khi một vị thiền sinh cúng dường tăng thân, hoặc đóng góp tiề
 <div class="verse"><p>Bình bát của Như Lai<br/>
 Nay được nâng trên tay<br/>
 Nguyện hết lòng thực tập<br/>
-Pháp tam luân không tịch<br/><cite>Kệ Nâng bát, Bước tới thảnh thơi<br/>Sư Ông Làng Mai</cite></p></div>
+Pháp tam luân không tịch<br/><cite>Kệ Nâng bát, sách Bước tới thảnh thơi,<br/>Sư Ông Làng Mai</cite></p></div>
 
 Con bướm và bông hoa, nếu ta lấy đi một cái, thì cái kia cũng không còn tồn tại nữa. Con bướm và bông hoa nương vào nhau để biểu hiện cùng một lúc. Nếu chúng tiến hóa, thì chúng sẽ cùng nhau tiến hóa. Chúng không hơn, không kém mà cũng không bằng nhau.
 
@@ -83,7 +83,7 @@ Chúng tôi đã tổ chức sự kiện khất thực để thưởng thức n�
 
 Tuy vậy tôi cũng nhân cơ hội này suy ngẫm về nhu yếu đích thực của mình trong vai trò của một hành giả, cũng như nhu yếu đích thực của một tăng thân đang chia sẻ các pháp môn thực tập với cộng đồng quốc tế bằng vô số phương tiện.
 
-<p class="pull-quote">Sống thiểu dục tri túc<br/>
+<p class="pull-quote-v2">Sống thiểu dục tri túc<br/>
 bằng cả thân và tâm<br/>
 Là hạnh nguyện sâu sắc<br/>
 Để sống đời tỉnh thức.</p>

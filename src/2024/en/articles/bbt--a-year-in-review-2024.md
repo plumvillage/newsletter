@@ -87,7 +87,7 @@ Dr. Lilian Cheung, director of Mindfulness Research and Practice in the Departme
 
 {% image "article2024/Done-Review of the Year/TNH Center/52856213396_7da665de4e_o.jpg" %}
 
-The event also included a 1-day symposium with featured presentations from academics, mindfulness practitioners and monastic students of Thay, including Br. Phap An, Br. Phap Luu and Sr. Hien Nghiem. Additionally, a Q&A session was offered by Br. Phap Dung, Br. Phap Linh and Sr. Lang Nghiem.
+The event also included a 1-day symposium, which featured presentations from academics, mindfulness practitioners and monastic students of Thay, including Br. Phap An, Br. Phap Luu and Sr. Hien Nghiem. Additionally, a Q&A session was offered by Br. Phap Dung, Br. Phap Linh and Sr. Lang Nghiem.
 
 Despite the nearly 25,000 peer-reviewed publications on mindfulness as of 2023, this field of research is relatively nascent. There is a general consensus on the need for new scientific means to evaluate the impact of mindful living on health and wellbeing.
 
@@ -128,7 +128,7 @@ The local newspaper, Viet Bao, commented that “the Day of Mindfulness by Deer 
 
 ## Cooking Retreat: Cooking Moment, Happy Moment *(26 May – 2 June 2023)*
 
-One of the most anticipated retreats in Plum Village is the cooking retreat hosted by New Hamlet. The retreat offered an opportunity for over 200 retreatants to apply mindfulness into one the most important, yet, also one of the most undermined daily activities. Here, everyone learned how to cook delicious dishes, while generating happiness in the act. Thay taught us that when we know how to cook in mindfulness, the kitchen becomes a meditation hall. Then, peace and happiness will radiate within us and around us. To be able to cook for and feed the Sangha or our families is a great happiness.
+One of the most anticipated retreats in Plum Village is the cooking retreat hosted by New Hamlet. The retreat offered an opportunity for over 200 retreatants to apply mindfulness into one of the most important, yet, also one of the most undermined daily activities. Here, everyone learned how to cook delicious dishes, while generating happiness in the act. Thay taught us that when we know how to cook in mindfulness, the kitchen becomes a meditation hall. Then, peace and happiness will radiate within us and around us. To be able to cook for and feed the Sangha or our families is a great happiness.
 
 {% image "article2024/Done-Review of the Year/cooking retreat/Cooking retreat 2023 38.JPG" %}
 {% image "article2024/Done-Review of the Year/cooking retreat/Cooking retreat 2023 6.JPG" %}
@@ -163,7 +163,7 @@ On 22 June, the French documentary film, “Respire, Souris, Vis” (Breathe, Sm
 
 ## Summer Opening *(9 – 29 July 2023)*
 
-For three weeks, Plum Village received over 2,000 lay practitioners of which were 170 teens and 480 children for the annual Summer Opening. The largest gathering of the year, this retreat has become a rendezvous for many parents and children to practice together, cultivating awareness, understanding and compassion. We are deeply grateful to all our spiritual friends, especially more than 120 volunteers, who helped make the Summer Opening possible.
+For three weeks, Plum Village received over 2,000 lay practitioners of which were 170 teens and 480 children for the annual Summer Opening. The largest gathering of the year, this retreat has become a rendezvous for many parents and children to practice together, cultivating awareness, understanding and compassion. We are deeply grateful to all our spiritual friends, especially the more than 120 volunteers, who helped make the Summer Opening possible.
 
 {% image "article2024/Done-Review of the Year/Summer retreat/PV_2023_69.jpg", "noFloat" %}
 {% image "article2024/Done-Review of the Year/Summer retreat/ancestors-festival-deco.jpg", "noFloat" %}
@@ -195,7 +195,7 @@ In August 2023, Sr. Luc Nghiem from Plum Village, France, and Sr. Tri Nghiem fro
 
 ## Educators’ Retreat *(18 – 25 August 2023)*
 
-Amidst the sweet fragrance of ripening plums, over 300 educators from Europe and afar gathered in late August to rest, renew, and connect within and with each other. Apart from the Dharma talks offered by Sr. Dinh Nghiem, Br. Phap Ly and Sr. Chan Duc, there was also a panel of teachers sharing about the three pillars of Wake Up Schools, sangha-building and the importance of beginning with the teachers themselves. Joost Vriens, one of the four panelists, wrote <a href="#my-path-to-wake-up-schools">an inspiring article</a> in this issue of the newsletter about his journey with Wake Up Schools and his experience in this retreat.
+Amidst the sweet fragrance of ripening plums, over 300 educators from Europe and afar gathered in late August to rest, renew, and connect within and with each other. Apart from the Dharma talks offered by Sr. Dinh Nghiem, Br. Phap Ly and Sr. Chan Duc, there was also a panel of teachers sharing about the three pillars of Wake Up Schools, sangha-building and the importance of beginning anew with the teachers themselves. Joost Vriens, one of the four panelists, wrote <a href="#my-path-to-wake-up-schools">an inspiring article</a> in this issue of the newsletter about his journey with Wake Up Schools and his experience in this retreat.
 
 At the end of the retreat, a number of lay friends stayed back to help the brothers and sisters harvest the plums for drying and making jam, a specialty everyone can enjoy at breakfast when staying in Plum Village.
 
@@ -246,7 +246,7 @@ On the morning of 19 October 2023, the multifold Sangha of Plum Village gathered
 
 ## Online course: Zen and the Art of Saving the Planet (ZASP)<br/>*(15 October – 3 December 2023)*
 
-In addition to participating in the Rains Retreat, a group of monastics also took part in this 7-week in-depth online learning journey to nurture insight, compassion, community, and mindful action in service of the Earth. The course was curated in 2022 by a group of monastics and the support of lay practitioners. It was then piloted in early 2023 and later launched publicly in October. With a global audience with approximately 1,600 participants from about 50 countries on six continents, this was the first online course of its extent and content. To know more about the experience of the course, please <a href="#plum-village-and-our-art-of-saving-the-planet">read the article by Br. Troi Duc Niem</a> in this newsletter.
+In addition to participating in the Rains Retreat, a group of monastics also took part in this 7-week in-depth online learning journey to nurture insight, compassion, community, and mindful action in service of the Earth. The course was curated in 2022 by a group of monastics and the support of lay practitioners. It was then piloted in early 2023 and later launched publicly in October. With a global audience of approximately 1,600 participants from about 50 countries on six continents, this was the first online course of its extent and content. To know more about the experience of the course, please <a href="#plum-village-and-our-art-of-saving-the-planet">read the article by Br. Troi Duc Niem</a> in this newsletter.
 
 ## Message for Peace *(19 October 2023)*
 

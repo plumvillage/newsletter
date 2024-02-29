@@ -110,7 +110,7 @@ Sáng ngày 20.4, Hội nghị Thượng đỉnh Phật giáo Toàn cầu năm 2
 
 <div class="page-break"></div>
 
-{% image "article2024/Done-Review of the Year/Screenshot from 2024-02-07 10-49-06.jpg", "noFloat", "Union Theological Seminary" %}
+{% image "article2024/Done-Review of the Year/Screenshot from 2024-02-07 10-49-06.jpg", "noFloat", "Tại Chủng viện Thần học Hoa Kỳ" %}
 {% image "article2024/Done-Review of the Year/SCCK-Photo- Văn Lan-Người Việt.jpg", "noFloat", "Nguồn: Văn Lan - báo Người Việt" %}
 {% image "article2024/Done-Review of the Year/Ngày quán niệm Dana - Credit Việt Báo.jpg", "noFloat lmnq7", "Nguồn: Việt Báo" %}
 {% image "article2024/Done-Review of the Year/Khat thuc - Nguon Viet Bao.jpg", "noFloat lmnq7" %}
