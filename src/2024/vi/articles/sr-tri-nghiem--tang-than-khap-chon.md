@@ -1,8 +1,8 @@
 ---
-title: Tăng thân khắp chốn – Làng Mai dự Đại hội Tôn giáo Thế giới năm 2023
+title: Tăng thân khắp chốn
 author: Sư cô Chân Trì Nghiêm
 ---
-
+<!--  – Làng Mai dự Đại hội Tôn giáo Thế giới năm 2023 -->
 <p class="editors-preface">Sư cô Trì Nghiêm, người Thụy sĩ gốc Úc, xuất gia năm 2009 tại Làng Mai Pháp trong gia đình xuất gia Cây Sen Vàng. Sư cô nhận truyền đăng năm 2018 và hiện đang tu tập và phụng sự tại tu viện Mộc Lan, Mỹ. Tháng 8 năm 2023, sư cô Lực Nghiêm – từ Làng Mai Pháp – và sư cô Trì Nghiêm đã được mời tham dự Đại hội Tôn giáo Thế giới lần thứ 9 diễn ra tại Chicago, Mỹ. Trong bài viết này, sư cô Trì Nghiêm chia sẻ trải nghiệm tại Đại hội và ý nghĩa của nó đối với sư cô.</p>
 
 <div class="removeTopMarginInFollowingElem"></div>
@@ -37,13 +37,13 @@ Tham gia cuộc họp mặt với Viện Liên tôn Elijah, chúng tôi có cơ 
 
 Ngoài ra còn có *Norman Fischer*, Thiền sư dòng Tào Động. Ông từng là đồng trụ trì của Trung tâm Thiền San Francisco và cũng là người sáng lập Tổ chức Thiền Nhật dụng; *Amma Sri Karunamayi*, một nhà lãnh đạo tinh thần Ấn Độ giáo được hàng triệu tín đồ yêu mến và tôn kính. Bà được coi là biểu hiện giác ngộ hoàn toàn của Vishnu, cũng là người đã đề xướng vô số đề án nhân đạo cung cấp các phương tiện giáo dục, thực phẩm, y tế và nhà ở cho người nghèo và người bị tước quyền thừa kế tại miền Nam Ấn Độ.
 
-Những vị khách quý khác mà chúng tôi đã gặp còn có *Maureen Goodman*, người điều phối chương trình tại Trung tâm Quốc tế Brahma Kumaris, London, Anh; *Marcia Hermansen*, Giáo sư và Giám đốc Nghiên cứu Hồi giáo Quốc tế, thuộc Đại học Loyola Chicago, Mỹ; Giám mục *Philip Huggins* của Giáo hội Anh giáo Úc, Melbourne; *Antje Jackelen*, cựu Tổng Giám mục Thụy Điển; *Feisal Abdul Rauf*, giáo sĩ, tác giả và nhà hoạt động Sufi người Mỹ gốc Ai Cập, từng là lãnh đạo của nhà thờ Hồi giáo Masjid al-Farah, New York trong 26 năm (1983 đến 2009); *Jinwol Lee*, Thiền sư Jogye của Phật giáo Hàn Quốc; Tổng Giám mục đương nhiệm của Nhà thờ Chính thống Ukraine ở miền tây Ukraine; và một người không thể vắng mặt, đó là Giáo sĩ Tiến sĩ *Alon Goshen-Gottstein*, sáng lập viên và giám đốc của Viện Liên tôn Elijah, người đã mời tất cả chúng
+Những vị khách quý khác mà chúng tôi đã gặp còn có *Maureen Goodman*, người điều phối chương trình tại Trung tâm Quốc tế Brahma Kumaris, London, Anh; *Marcia Hermansen*, Giáo sư và Giám đốc Nghiên cứu Hồi giáo Quốc tế, thuộc Đại học Loyola Chicago, Mỹ; Giám mục *Philip Huggins* của Giáo hội Anh giáo Úc, Melbourne; *Antje Jackelen*, cựu Tổng Giám mục Thụy Điển; *Feisal Abdul Rauf*, giáo sĩ, tác giả và nhà hoạt động Sufi người Mỹ gốc Ai Cập, từng là lãnh đạo của nhà thờ Hồi giáo Masjid al-Farah, New York trong 26 năm (1983 đến 2009); *Jinwol Lee*, Thiền sư Jogye của Phật giáo Hàn Quốc; Tổng Giám mục đương nhiệm của Nhà thờ Chính thống Ukraine ở miền tây Ukraine;
 
 {% image "article2024/Sr Tri Nghiem/000.jpg" %}
 <!-- this is a manual paragraph break -->
 <div class="page-break removeIndentInFollowingElem"></div>
 
-tôi đến Đại hội. Ông đã và đang tiếp tục công việc đem các nguồn ánh sáng tâm linh từ khắp nơi trên thế giới lại với nhau. Có thể thấy đây là một nhóm rất đa dạng về văn hóa và tâm linh.
+và một người không thể vắng mặt, đó là Giáo sĩ Tiến sĩ *Alon Goshen-Gottstein*, sáng lập viên và giám đốc của Viện Liên tôn Elijah, người đã mời tất cả chúng tôi đến Đại hội. Ông đã và đang tiếp tục công việc đem các nguồn ánh sáng tâm linh từ khắp nơi trên thế giới lại với nhau. Có thể thấy đây là một nhóm rất đa dạng về văn hóa và tâm linh.
 
 Thật cảm hứng khi chứng kiến sự tôn trọng lẫn nhau, sự thương mến và tình huynh đệ giữa những thành viên trong nhóm. Không ai cố gắng chứng tỏ cách của mình là hay nhất, là “số một”. Chỉ có sự tôn trọng và ngưỡng mộ lẫn nhau đối với thành tích của người khác, sự tin cậy và mong muốn học hỏi lẫn nhau mà thôi.
 
