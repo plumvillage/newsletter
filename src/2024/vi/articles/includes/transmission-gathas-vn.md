@@ -143,42 +143,42 @@ Trong năm 2023, tăng thân đã chào đón 27 vị giáo thọ mới, cả xu
 > > Một lên đường, sông núi chứng minh.
 
 > **Sư cô Thích nữ Chân Trợ Nghiêm**  
-> *(Hoàng Thị Minh Nguyệt; Pháp danh: Tâm Liên Du)*
+> *(Hoàng Thị Minh Nguyệt; Tâm Liên Du)*
 > > Chân tâm vắng duyên **trợ**  
 > > **Nghiêm** từ chẳng đến đi  
 > > Như Lai bậc như thị  
 > > Chánh niệm vượt thị phi.
 
 > **Sư cô Thích nữ Chân Trăng Quê Hương**  
-> *(Nguyễn Thị Kim Thạnh; Pháp danh: Tâm Nguyện Hòa)*
+> *(Nguyễn Thị Kim Thạnh; Tâm Nguyện Hòa)*
 > > Chân **trăng** là **quê hương**  
 > > Chiếc lá vốn bản môn  
 > > Pháp nhiệm ấy con đường  
 > > Lắng nghe hiểu và thương.
 
 > **Sư cô Thích nữ Chân Trăng Mới Lên**  
-> *(Yuliana Wijaya; Pháp danh: Tâm Hướng Quang)*
+> *(Yuliana Wijaya; Tâm Hướng Quang)*
 > > Out of darkness **the moon** has just **risen**  
 > > Its guiding light illuminates our steps.  
 > > In this pure land of mindfulness and joy  
 > > I offer my service to all beings.
 
 > **Sư Cô Thích nữ Chân Trăng Hoa Tiên**  
-> *(Nguyễn Thị Quế Trâm; Pháp danh: Tâm Huệ Anh)*
+> *(Nguyễn Thị Quế Trâm; Tâm Huệ Anh)*
 > > Gót sen thiền tập cùng **trăng**  
 > > **Hoa** tâm nở rộ thoát vòng thị phi  
 > > Dáng **tiên** hiện nét uy nghi  
 > > Lắng nghe nhẫn hạnh từ bi cứu đời
 
 > **Sư Cô Thích nữ Chân Trăng Thong Dong**  
-> *(Bùi Hồng Thu Quý; Pháp danh: Tâm Diệu Vinh)*
+> *(Bùi Hồng Thu Quý; Tâm Diệu Vinh)*
 > > **Trăng** xưa lập nguyện đại bi  
 > > Sao cho muôn loại tổng trì vô sanh  
 > > **Thong dong** cùng chúng đồng hành  
 > > Ân đền nghĩa đáp dạ thành khắc ghi.
 
 > **Sư cô Thích nữ Chân Trăng Chí Thành**  
-> *(Lê Thị Tư; Pháp danh: Tâm Hạnh Niệm)*
+> *(Lê Thị Tư; Tâm Hạnh Niệm)*
 > > Vén mây **trăng** lộ diện  
 > > Tu tập dạ **chí thành**  
 > > Công phu không xao lãng  
@@ -195,8 +195,6 @@ Trong năm 2023, tăng thân đã chào đón 27 vị giáo thọ mới, cả xu
 {% image "article2024/Done-Review of the Year/Lamp transmission/Br. T Ky Ngo.JPG", "noFloat lampT" %}
 {% image "article2024/Done-Review of the Year/Lamp transmission/Sr. Tro Nghiem.JPG", "noFloat lampT" %}
 {% image "article2024/Done-Review of the Year/Lamp transmission/Sr. Que Huong.JPG", "noFloat lampT" %}
-
-
 
 > **Sư cô Thích nữ Chân Trăng Lý Tưởng**  
 > *(Châu Thị Thu Sương; Pháp danh: Tâm Tuệ Như)*

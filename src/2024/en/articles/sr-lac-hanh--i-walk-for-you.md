@@ -48,9 +48,9 @@ In 2018, I made the radical decision to move to Seoul, after receiving an invita
 
 ## What is the right thing to do?
 
-{% image "article2024/sr-lac-hanh/IMG_2603.JPG" %}
-
 Living and teaching in Korea was one of the most difficult things I have ever done because of the myriad of subconscious and unconscious, latent seeds that were touched and triggered in my store consciousness. It was also one of the most beautiful and enriching experiences, as I was able to connect with the immense generosity, kindness, warmth, and love of the people and culture, healing the abandonment and separation that lay deep in my heart.
+
+{% image "article2024/sr-lac-hanh/IMG_2603.JPG" %}
 
 The unforeseen COVID pandemic radically interrupted life as we had known it. The local and global restrictions brought into question again the trajectory of my life. Due to the social-distancing regulations, I was unable to visit my omma in the hospital and I began to reassess my situation and my life path. During this time that the world came to an unexpected, collective pause and we all relied on a more online rather than in-person presence, Plum Village resurfaced in my consciousness and I reconnected with my deepest aspirations.
 
