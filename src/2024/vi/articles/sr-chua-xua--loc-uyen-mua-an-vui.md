@@ -37,7 +37,7 @@ Cũng câu hỏi ấy khi hỏi quý thầy lớn, bạn biết câu trả lời
 
 ## Trăng và Trời lên tuổi mười tư
 
-Bạn còn nhớ cái ngày mình được xuất gia không? Nhớ cái hồi mà Thầy viết thư cho đại chúng, thông báo từ năm 2010 trở đi, Thầy sẽ đặt tên các sư chú là Trời và các sư cô là Trăng không? Thầy vẫn giữ lại chữ Chân. Những Chân Trăng và Chân Trời đầu tiên đến nay đã bước vào tuổi mười tư rồi đó!
+Bạn còn nhớ cái ngày mình được xuất gia không? Nhớ cái hồi mà Thầy viết thư cho đại chúng, thông báo từ năm 2010 trở đi, Thầy sẽ đặt tên các sư chú là Trời và các sư cô là Trăng không? Thầy vẫn giữ lại chữ Chân. Những Chân Trăng và Chân Trời đầu tiên của gia đình xuất gia Cây Sen Xanh đến nay đã bước vào tuổi mười tư rồi đó!
 
 {% image "article2024/Sr. Chua Xua/DSC02084.JPG" %}
 
@@ -65,7 +65,7 @@ Các bạn thiền sinh về tu viện rất được nuôi dưỡng mỗi khi n
 
 Số năm sư cô ở đây cũng gần bằng số tuổi 23 của Lộc Uyển. Mấy năm trước sư cô còn chép kinh, nhưng năm nay sư cô chỉ đọc kinh và tô tranh Bụt thôi. Tranh sư cô tô xong thì đem tặng các sư em trẻ. Ở tuổi 95, sư cô vẫn đi thời khóa, nghe pháp thoại, ngồi thiền tụng kinh, tụng giới và ăn cơm cùng đại chúng. Đó là niềm ước ao của rất nhiều người tu trẻ chúng mình.
 
-## Sư cô Chân Không về Lộc Uyển 
+## Ni trưởng Chân Không về Lộc Uyển 
 
 Tu viện Lộc Uyển là chặng cuối trong chuyến hoằng pháp của Ni trưởng tại Mỹ năm 2023. Cả xóm háo hức chờ đón Ni trưởng và đoàn tháp tùng, cả những cây thế kỷ dọc Con Đường Thơm từ bãi đậu xe lớn lên tới Núi Yên Tử đi qua thiền đường lớn, nhà ăn và những con đường rẽ vào ni xá, tăng xá… cũng đua nhau trổ hoa nở rộ, thơm ngát. Ai về Lộc Uyển mùa xuân cũng ngạc nhiên thích thú. Cây thế kỷ khoảng 25—30 năm mới cho hoa, thân hoa cao mấy chục mét, đến hơn 6 tháng mới tàn.
 
