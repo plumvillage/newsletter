@@ -66,7 +66,7 @@ So our approach was to listen first, then offer questions. What kind of a teache
 
 One morning, while walking to the school, I felt muscle pain in my back. Listening to its message, I understood that it was time to step onto another path. A voice within said, “You can be of more value within the community of Wake Up Schools. There you can give voice to the teacher’s insight and make a bridge to the practice.”
 
-When I was at the Educators’ retreat in Plum Village in August 2023, I was a panelist during one of the sessions. Suddenly the two worlds connected, the monastic energy intertwined with the presence of teachers, in conversation. I looked at all those teachers that were looking at us and I saw their potential. They were filled to the brim with insights, practices, and questions. How to wake up that potential? How to light this fire? How to connect with all these potential Buddhas? 
+When I was at the Educators’ retreat in Plum Village in August 2023, I was a panelist during one of the sessions. Suddenly the two worlds connected, the monastic energy intertwined with the presence of teachers, in conversation. I looked at all those teachers that were looking at us and I saw their potential. They were filled to the brim with insights, practices, and questions: How to wake up that potential? How to light this fire? How to connect with all these potential Buddhas? 
 
 ## Going forward
 
