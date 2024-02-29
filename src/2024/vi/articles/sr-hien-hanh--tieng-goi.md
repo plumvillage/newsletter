@@ -6,7 +6,7 @@ author: Sư cô Chân Hiền Hạnh
 <div class="verse"><p>“Châu báu chất đầy thế giới<br/>
 Tôi đem tặng bạn sáng nay<br/>
 Một vốc kim cương sáng chói<br/>
-Long lanh suốt cả đêm ngày”<br/><cite>Trích từ bài thơ <i>Châu ngọc Pháp Hoa</i>,<br/>thơ của Sư Ông Làng Mai</cite></p></div>
+Long lanh suốt cả đêm ngày”<br/><cite> <i>Châu ngọc Pháp Hoa</i>,<br/>thơ Sư Ông Làng Mai</cite></p></div>
 
 Ô cửa từ từ mở ra, cái lạnh se se đưa lòng về thực tại. Sáng nay nhìn mưa bay qua vòm trời xa tít có chút gì đó thổn thức tâm hồn. Mưa đẹp quá và thi vị biết bao. Cảm xúc lòng khơi dậy và thôi thúc mình ghi lên vài con chữ. Mưa giăng lối đưa tôi về nhiều kỷ niệm. Mưa là tôi, là nắng, và là cả thiên hà.
 
@@ -32,7 +32,7 @@ Loay hoay tới khuya, giờ nằm ở đâu chút xíu đây! Chỉ còn cái b
 
 Mình không tới gần mà cũng không xua đuổi. Mình tìm một góc khác ngồi uống trà.
 
-Nhìn đằng kia là một đàn kiến đang bám vào cái chổi. Góc nọ mấy con châu chấu đang lờ đờ, bị nước dập dìm.Và chú rắn đây nữa. “Giờ phút linh thiêng gió lặng chim ngừng”! Mình ta với ta. Văng vẳng lời dạy của Thầy đi lên trong tim: *“… Con là con ếch bơi trong hồ thu mà cũng là con rắn nước cần nuôi thân bằng thân ếch nhái, con là con sâu con kiến mà cũng là con chim đang đi tìm con kiến con sâu …”* Lòng thật bình yên, con thẩm thấu tuệ giác của Thầy “mình là một với muôn loài”. Cảm nhận hơi thở thật nhẹ và sâu. Thầy và mạ đang có trong con.
+Nhìn đằng kia là một đàn kiến đang bám vào cái chổi. Góc nọ mấy con châu chấu đang lờ đờ, bị nước dập dìm.Và chú rắn đây nữa. *“Giờ phút linh thiêng gió lặng chim ngừng”*! Mình ta với ta. Văng vẳng lời dạy của Thầy đi lên trong tim: *“… Con là con ếch bơi trong hồ thu mà cũng là con rắn nước cần nuôi thân bằng thân ếch nhái, con là con sâu con kiến mà cũng là con chim đang đi tìm con kiến con sâu …”* Lòng thật bình yên, con thẩm thấu tuệ giác của Thầy “mình là một với muôn loài”. Cảm nhận hơi thở thật nhẹ và sâu. Thầy và mạ đang có trong con.
 
 Thở vào, thấy hình hài mạ cho vẫn an lành khỏe mạnh.
 
@@ -44,7 +44,7 @@ Thầy và mạ cùng hiện khởi trong tim con. Thầy và mạ là một, �
  Mẹ, Mẹ là bài hát thần tiên<br/>
  là bóng mát trên cao<br/>
  là mắt sáng trăng sao<br/>
- là ánh đuốc trong đêm khi lạc lối.”<br/><cite>Trích từ bài hát <i>Bông hồng cài áo</i><br/>(Lời: Sư Ông Làng Mai; Nhạc: Phạm Thế Mỹ)</cite></p></div>
+ là ánh đuốc trong đêm khi lạc lối.”<br/><cite><i>Bông hồng cài áo</i><br/>(Lời: Sư Ông Làng Mai; Nhạc: Phạm Thế Mỹ)</cite></p></div>
 
 Đèn nến vẫn lung linh, chung trà dần cạn. Mình thấu hiểu trùng trùng nhân duyên đã đang nâng đỡ từng bước chân đi. Chắp tay nguyện cầu gửi vào đất Mẹ hoa thơm trái ngọt nhất đến với mọi người. Tình Thầy, tình mẹ, nghĩa bạn bè luôn trọn vẹn và mãi tinh anh.
 
