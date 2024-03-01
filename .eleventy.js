@@ -63,10 +63,10 @@ async function imageData(src) {
     
     // let maxWidth = 500
     // let quality = 60
-    // let maxWidth = 1500
-    // let quality = 6
-    let maxWidth = 5000
-    let quality = 96
+    let maxWidth = 1500
+    let quality = 60
+    // let maxWidth = 5000
+    // let quality = 96
     
     // '24 EN/VN: does not work anymore ...
     // let maxWidth = 5500
