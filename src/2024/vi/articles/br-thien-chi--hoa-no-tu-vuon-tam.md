@@ -42,7 +42,7 @@ Khi ở Belfast, Ireland, sư cô Tại Nghiêm có mời tôi chia sẻ cuối 
 Tuệ giác thường đến với tôi trong những hoàn cảnh chẳng hề dễ chịu, giống như một món quà mà ta không muốn mở ra. Trước khi đến Belfast, tôi cảm thấy mặt mình đầy căng thẳng. Sự căng thẳng này liên quan tới một buổi sinh hoạt sắp tới, trong đó tôi sẽ tham gia chia sẻ. Tôi rất hồi hộp và lo lắng, may mắn thay, tôi cũng có được chút thời gian để ngồi yên trước khi sinh hoạt đó xảy ra. Tôi buông thư cơ thể và tập trung chú ý vào cảm giác khó chịu trên mặt. Tôi nhớ là khi thực tập Soi sáng cho tôi, các huynh đệ chia sẻ rằng tôi có thói quen cau mày khi không có ai nhìn mình. Thời điểm đó ở Belfast, tôi tự hỏi: “Liệu có điều gì ẩn giấu đằng sau cái cau mày của mình?”.
 
 {% image "article2024/br-thien-chi/PVMT23_Windermere_111931.jpg", "removeTopMargin" %}
-{% image "article2024/br-thien-chi/NewForestRetreat-PV_TwanPeeters_May-2023-34.jpg", "removeTopMargin" %}
+{% image "article2024/br-thien-chi/NewForestRetreat-PV_TwanPeeters_May-2023-34.jpg", "removeTopMargin", "Nguồn: Twan Peeters" %}
 {% image "article2024/br-thien-chi/9.jpeg", "removeTopMargin" %}
 {% image "article2024/br-thien-chi/WhatsApp Image 2024-01-15 at 17.22.14.jpeg", "removeTopMargin" %}
 
@@ -52,7 +52,7 @@ Tôi có thể cảm nhận sự không dễ chịu của mình khi tham dự th
 
 Tôi cũng có một trải nghiệm tương tự như vậy ở Cambridge, nước Anh. Mỗi khi chúng tôi phân chia công việc trong các khóa tu, một phần trong tôi muốn đảm nhận công việc “quan trọng”, một phần khác lại muốn khiêm cung và giữ mức độ vừa phải. Hầu như sau mỗi lần phân chia công việc trong nhóm, tôi đều cảm thấy không thoải mái. Tôi thường phải dành rất nhiều thời gian buổi sáng sớm ngồi uống trà để thực tập nhận diện những cảm giác không dễ chịu ấy. Ồ, thật ngạc nhiên – đó là sự tìm kiếm danh tiếng, sự ngưỡng mộ và lời khen. Tôi đang đi tìm kiếm chút tình thương từ bên ngoài mà mình không thể tự dành cho mình được; trong tôi có một nhu yếu được người khác nhìn nhận và trân quý vai trò của mình. Đương nhiên, tôi thật sự không muốn có những nhu yếu này, đặc biệt khi mình là người tu. Tôi ước muốn mình được khiêm cung, nhẹ nhàng và buông xả.
 
-{% image "article2024/br-thien-chi/NewForestRetreat-PV_TwanPeeters_May-2023-40_edited2_1x1.jpg" %}
+{% image "article2024/br-thien-chi/NewForestRetreat-PV_TwanPeeters_May-2023-40_edited2_1x1.jpg", "", "Nguồn: Twan Peeters" %}
 
 Bằng cách nào tôi có thể làm cân bằng những năng lượng đối nghịch như vậy trong tự thân? Đôi khi, chuyện này giống như một cuộc chiến tranh không có lối thoát… ngoại trừ đơn giản là chấp nhận đau khổ. Buông thả trong sự đau khổ. Ôm ấp và thấu hiểu nó. Cho phép nó được biểu hiện tự nhiên trong mình nhưng không đồng nhất mình với nó.
 
@@ -86,4 +86,4 @@ Hạnh phúc lớn nhất của tôi trong chuyến đi này là được tiếp
 
 <div class="article-end"></div>
 
-{% image "article2024/br-thien-chi/NewForestRetreat-PV_TwanPeeters_May-2023-103.jpg", "noFloat" %}
+{% image "article2024/br-thien-chi/NewForestRetreat-PV_TwanPeeters_May-2023-103.jpg", "noFloat", "Nguồn: Twan Peeters" %}
