@@ -44,9 +44,7 @@ Tuệ giác thường đến với tôi trong những hoàn cảnh chẳng hề 
 {% image "article2024/br-thien-chi/PVMT23_Windermere_111931.jpg", "removeTopMargin" %}
 {% image "article2024/br-thien-chi/NewForestRetreat-PV_TwanPeeters_May-2023-34.jpg", "removeTopMargin", "Nguồn: Twan Peeters" %}
 {% image "article2024/br-thien-chi/9.jpeg", "removeTopMargin" %}
-{% image "article2024/br-thien-chi/WhatsApp Image 2024-01-15 at 17.22.14.jpeg", "removeTopMargin" %}
-
-<div class="page-break"></div>
+{% image "article2024/br-thien-chi/WhatsApp Image 2024-01-15 at 17.22.14.jpeg", "removeTopMargin tChiLastRow" %}
 
 Tôi có thể cảm nhận sự không dễ chịu của mình khi tham dự thời khóa sắp tới đó. Tôi cảm giác tôi sẽ không thích những gì tôi sắp chia sẻ, cho dù kết quả ra sao hay các huynh đệ sẽ nói như thế nào. Dần dần tôi nhận thấy một sự chán ghét lạnh lùng trong mình – chán ghét chính bản thân mình. Một thứ năng lượng tàn phá bản thân do chính tâm tôi tạo ra, giống như vị tướng ra lệnh binh lính tấn công chính quân đội mình.
 

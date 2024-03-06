@@ -1358,7 +1358,7 @@ figure#article2024Done-interview-with-thayVncon-ve-miong-tua-noi-dat-me {
     margin-bottom: 0em;
 }
 html:lang(vi) figure#article2024br-thien-chiNewForestRetreat-PVTwanPeetersMay-2023-103 {
-    width: 60%;
+    width: 78%;
     margin-top: 1em;
     margin-bottom: 0em;
 }
@@ -2108,4 +2108,8 @@ figure.scckSmall {
 
 .article-i-have-arrived-i-am-home .editors-preface i {
     color: black;
+}
+
+.tChiLastRow {
+    margin-bottom: 3em;
 }

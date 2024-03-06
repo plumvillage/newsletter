@@ -225,12 +225,12 @@ let workInProgress = 0
 // we first generate all raw PDFs. onFinished() adds the downsample jobs to this queue and then proceeds execution with more threads (because the downsample is not as memory-hungry)
 let workQueue = [
     
-    () => generatePDF("http://localhost:8080/2024/en/a4/", `./docs/2024/en-a4`, onFinshed),
+    // () => generatePDF("http://localhost:8080/2024/en/a4/", `./docs/2024/en-a4`, onFinshed),
     // () => generatePDF("http://localhost:8080/2024/en/a4-bleed/", `./docs/2024/en-a4-bleed`, onFinshed),
     // () => generatePDF("http://localhost:8080/2024/en/letter/", `./docs/2024/en-letter`, onFinshed, {format: "Letter"}),
     // () => generatePDF("http://localhost:8080/2024/en/letter-bleed/", `./docs/2024/en-letter-bleed`, onFinshed, {height: "225.9mm", width: "289.4mm"}),
     
-    // () => generatePDF("http://localhost:8080/2024/vi/a4/", `./docs/2024/vi-a4`, onFinshed),
+    () => generatePDF("http://localhost:8080/2024/vi/a4/", `./docs/2024/vi-a4`, onFinshed),
     // () => generatePDF("http://localhost:8080/2024/vi/a4-bleed/", `./docs/2024/vi-a4-bleed`, onFinshed),
     // () => generatePDF("http://localhost:8080/2024/vi/letter/", `./docs/2024/vi-letter`, onFinshed, {format: "Letter"}),
     // () => generatePDF("http://localhost:8080/2024/vi/letter-bleed/", `./docs/2024/vi-letter-bleed`, onFinshed, {height: "225.9mm", width: "289.4mm"}),
@@ -239,7 +239,7 @@ let workQueue = [
 
 
     
-    // () => generatePDF("http://localhost:8080/2024/en/articles-print-preview/br-duc-dinh--a-day-of-alms/", `./docs/2024/br-duc-dinh--a-day-of-alms`, onFinshed),
+    // () => generatePDF("http://localhost:8080/2024/vi/articles-print-preview/br-thien-chi--hoa-no-tu-vuon-tam/", `./docs/2024/tChi`, onFinshed),
 
     
     // () => generatePDF("http://localhost:8080/2023/en/a4/", `./docs/2023/en-a4`, onFinshed),
@@ -280,11 +280,11 @@ var onFinshed = function(file, fileWithoutDate) {
     execCMD(`ln -sf ${parsed.base} ${fileWithoutDate}`)
     
     workQueue.push(() => downsample(file, fileWithoutDate, 200, "screen", continueWork))
-    workQueue.push(() => downsample(file, fileWithoutDate, 250, "screen", continueWork))
+    // workQueue.push(() => downsample(file, fileWithoutDate, 250, "screen", continueWork))
     workQueue.push(() => downsample(file, fileWithoutDate, 300, "prepress", continueWork))
     workQueue.push(() => downsample(file, fileWithoutDate, 350, "screen", continueWork))
-    workQueue.push(() => downsample(file, fileWithoutDate, 400, "screen", continueWork))
-    workQueue.push(() => downsample(file, fileWithoutDate, 450, "screen", continueWork))
+    // workQueue.push(() => downsample(file, fileWithoutDate, 400, "screen", continueWork))
+    // workQueue.push(() => downsample(file, fileWithoutDate, 450, "screen", continueWork))
     workQueue.push(() => downsample(file, fileWithoutDate, 500, "prepress", (generatedFile) => {
         continueWork()
     }))
