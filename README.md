@@ -10,9 +10,7 @@ The [media archive](https://drive.google.com/file/d/1Rz2ZZJPmMqo26VbJ6zjFp-TpDnX
 
 Then run `./setup.sh`
 
-## Running locally
 Run `npm start` and browse to [http://localhost:8080/](http://localhost:8080/).
-Because of a bug that currently renders 4 columns on first run, you need to trigger a re-render after the first start is ready.
 
 ## Generating PDF files
 `node generatePDF.js`
